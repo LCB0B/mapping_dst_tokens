@@ -1,0 +1,10 @@
+value,description,code,token_id,source,mapped
+0.0,[UNMAPPED] SOC_haendelse code: 0.0,SOC_haendelse_0.0,41136,none,False
+0.2,Decision on placement,SOC_haendelse_0.2,41140,CSV:SOC_haendelse_from_raw,True
+1.0,[UNMAPPED] SOC_haendelse code: 1.0,SOC_haendelse_1.0,41138,none,False
+1.1,Re-categorization foster families in 2019-2020,SOC_haendelse_1.1,41144,CSV:SOC_haendelse_from_raw,True
+2.0,[UNMAPPED] SOC_haendelse code: 2.0,SOC_haendelse_2.0,41143,none,False
+5.0,[UNMAPPED] SOC_haendelse code: 5.0,SOC_haendelse_5.0,41137,none,False
+5.5,"Termination of proceedings, placement transferred to another municipality of action",SOC_haendelse_5.5,41142,CSV:SOC_haendelse_from_raw,True
+7.0,[UNMAPPED] SOC_haendelse code: 7.0,SOC_haendelse_7.0,41139,none,False
+7.5,"Case creation, placement transferred from other municipality of action",SOC_haendelse_7.5,41141,CSV:SOC_haendelse_from_raw,True

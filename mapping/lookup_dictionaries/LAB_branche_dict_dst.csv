@@ -1,0 +1,20 @@
+code,description
+LAB_branche_00000,Branche-oplysning mgl.
+LAB_branche_10000,Brancher uden indhold
+LAB_branche_10001,Landbrug
+LAB_branche_11101,Landbrug
+LAB_branche_11102,"Gartnerier, frugtplant. og planteskoler"
+LAB_branche_11103,Anlægsgartnerier
+LAB_branche_11104,Pelsdyravl
+LAB_branche_11105,Biavl
+LAB_branche_11106,Stutterier
+LAB_branche_11107,Kenneler
+LAB_branche_20001,Skovbrug
+LAB_branche_30001,Fiskeri
+LAB_branche_40001,Minedrift
+LAB_branche_50001,Energi og vandforsyning
+LAB_branche_60001,Bygge og anlæg
+LAB_branche_70001,Handel
+LAB_branche_80001,Transport
+LAB_branche_90001,Finansielle tjenesteydelser
+LAB_branche_95001,Offentlig administration

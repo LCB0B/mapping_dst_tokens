@@ -1,0 +1,6 @@
+source,description,count,confidence,language
+pt_dictionaries,PyTorch dictionary files from mapping/lookup_dictionaries/,36092,highest,danish
+disco_codes,DISCO occupational codes from mapping/DISCO_CODES.txt,1588,high,danish
+sas_formats,SAS format files from mapping/raw/,4875,high,mixed
+enhanced_english,"Enhanced mappings with external sources (ICD-10, municipalities, countries)",41201,medium,english
+enhanced_danish,Enhanced mappings in Danish,41201,medium,danish

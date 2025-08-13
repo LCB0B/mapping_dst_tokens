@@ -1,0 +1,797 @@
+code,prefix,database,value,description,source,confidence,language
+LAB_disco_000000,LAB,disco,000000,Uoplyst,disco_codes,high,danish
+LAB_disco_011000,LAB,disco,011000,Militær/civilforsvar,disco_codes,high,danish
+LAB_disco_100000,LAB,disco,100000,"Ledelse på øverste plan i virksomheder, organisationer og den offentlige sektor",disco_codes,high,danish
+LAB_disco_110000,LAB,disco,110000,Lovgivningsarbejde samt ledelse i offentlig administration og interesseorganisationer,disco_codes,high,danish
+LAB_disco_111000,LAB,disco,111000,"Lovgivningsarbejde og overordnet administration af lovgivning, før 2004 inkl. overordnet offentlig ledelse",disco_codes,high,danish
+LAB_disco_112000,LAB,disco,112000,Overordnet offentlig ledelse,disco_codes,high,danish
+LAB_disco_114000,LAB,disco,114000,Overordnet ledelse af interesseorganisationer og humanitære organisationer,disco_codes,high,danish
+LAB_disco_114100,LAB,disco,114100,Ledelse af politiske partiorganisationer,disco_codes,high,danish
+LAB_disco_114200,LAB,disco,114200,Ledelse af økonomiske interesseorganisationer,disco_codes,high,danish
+LAB_disco_114210,LAB,disco,114210,Politisk ansvarlige/politisk valgte ledere i økonomiske interesseorganisationer,disco_codes,high,danish
+LAB_disco_114220,LAB,disco,114220,Ansatte ledere i økonomiske interesseorganisationer,disco_codes,high,danish
+LAB_disco_114300,LAB,disco,114300,Ledelsesarbejde i humanitære eller andre interesseorganisationer,disco_codes,high,danish
+LAB_disco_120000,LAB,disco,120000,Øverste ledelse i virksomheden i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_121000,LAB,disco,121000,Ledelse omfattende virksomheden som helhed i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_121010,LAB,disco,121010,"Øverste ledelsesniveau, administrerende direktører eller tilsvarende i virksomhed med mindst 10 beskæftigede",disco_codes,high,danish
+LAB_disco_121020,LAB,disco,121020,Tværgående direktører i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122000,LAB,disco,122000,Ledelse af hovedaktiviteten i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122100,LAB,disco,122100,"Ledelse af bedriften inden for landbrug, skovbrug og fiskeri i virksomhed med mindst 10 beskæftigede",disco_codes,high,danish
+LAB_disco_122200,LAB,disco,122200,Produktionsledelse i industrivirksomheder i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122210,LAB,disco,122210,Øverste ledelse af produktionen i industrivirksomheder i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122220,LAB,disco,122220,Ledelse af produktionen i industrivirksomheder i øvrigt i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122300,LAB,disco,122300,Ledelse af produktionen i bygge- og anlægssektoren i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122400,LAB,disco,122400,Ledelse af salget i engros- og detailhandelsvirksomhed i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122500,LAB,disco,122500,Ledelse af hovedaktiviteten i hotel- og restaurationsvirksomhed i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122600,LAB,disco,122600,Ledelse af hovedaktiviteten i virksomheder inden for transport og kommunikation i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122700,LAB,disco,122700,Ledelse af hovedaktiviteten i virksomheder inden for forretningsservice i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122800,LAB,disco,122800,Ledelse af hovedaktiviteten i virksomheder inden for personlige tjenesteydelser i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122900,LAB,disco,122900,Ledelse af hovedaktiviteten i andre virksomheder i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122910,LAB,disco,122910,Ledelse i politi og retsvæsen i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122920,LAB,disco,122920,Ledelse i undervisningssektoren i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122930,LAB,disco,122930,Ledelse i social- og sundhedssektoren i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_122940,LAB,disco,122940,"Ledelse af andre offentlige områder, herunder sport, kultur og servicevirksomhed i virksomhed med mindst 10 beskæftigede",disco_codes,high,danish
+LAB_disco_122990,LAB,disco,122990,Ledelse af hovedaktiviteten i øvrigt i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_123000,LAB,disco,123000,Ledelse af specialområder i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_123100,LAB,disco,123100,Arbejde vedr. administration og finansiering i ikke-finansielle virksomheder i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_123200,LAB,disco,123200,Personaleledelse i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_123300,LAB,disco,123300,"Salgs- og afsætningsledelse, ekskl. salgsvirksomhed i virksomhed med mindst 10 beskæftigede",disco_codes,high,danish
+LAB_disco_123400,LAB,disco,123400,Informations- og markedsføringsledelse i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_123500,LAB,disco,123500,Indkøbs- og forsyningsledelse i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_123600,LAB,disco,123600,"Edb-ledelse, ledelse af edb-virksomhed placeres i gruppe 131700 i virksomhed med mindst 10 beskæftigede",disco_codes,high,danish
+LAB_disco_123700,LAB,disco,123700,Forsknings- og udviklingsledelse i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_123900,LAB,disco,123900,Ledelse af andre specialområder i virksomhed med mindst 10 beskæftigede,disco_codes,high,danish
+LAB_disco_130000,LAB,disco,130000,Ledelse af virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131000,LAB,disco,131000,Ledelse af virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131100,LAB,disco,131100,"Ledelse af bedriften inden for landbrug, skovbrug og fiskeri i virksomhed med færre end 10 beskæftigede",disco_codes,high,danish
+LAB_disco_131200,LAB,disco,131200,Produktionsledelse i industrivirksomheder i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131210,LAB,disco,131210,Øverste ledelse af produktionen i industrivirksomheder i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131220,LAB,disco,131220,Ledelse af produktionen i industrivirksomheder i øvrigt i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131300,LAB,disco,131300,Ledelse af produktionen i bygge- og anlægssektoren i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131400,LAB,disco,131400,Ledelse af salget i engros- og detailhandelsvirksomhed i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131500,LAB,disco,131500,Ledelse af hovedaktiviteten i hotel- og restaurationsvirksomhed i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131600,LAB,disco,131600,Ledelse af hovedaktiviteten i virksomheder inden for transport og kommunikation i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131700,LAB,disco,131700,Ledelse af hovedaktiviteten i virksomheder inden for forretningsservice i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131800,LAB,disco,131800,Ledelse af hovedaktiviteten i virksomheder inden for personlige tjenesteydelser i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131900,LAB,disco,131900,Ledelse af hovedaktiviteten i andre virksomheder i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131910,LAB,disco,131910,Ledelse i politi og retsvæsen i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131920,LAB,disco,131920,Ledelse i undervisningssektoren i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131930,LAB,disco,131930,Ledelse i social- og sundhedssektoren i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_131940,LAB,disco,131940,"Ledelse af andre offentlige områder, herunder sport, kultur og servicevirksomhed i virksomhed med færre end 10 beskæftigede",disco_codes,high,danish
+LAB_disco_131990,LAB,disco,131990,Ledelse af hovedaktiviteten i øvrigt i virksomhed med færre end 10 beskæftigede,disco_codes,high,danish
+LAB_disco_200000,LAB,disco,200000,Arbejde der forudsætter viden på højeste niveau inden for område,disco_codes,high,danish
+LAB_disco_210000,LAB,disco,210000,"Arbejde inden for de ikke-biologiske grene af naturvidenskab samt datalogi, statistik, arkitektur og tekniske videnskaber",disco_codes,high,danish
+LAB_disco_211000,LAB,disco,211000,"Arbejde inden for fysik, kemi, astronomi, meteorologi, geologi og geofysik",disco_codes,high,danish
+LAB_disco_211100,LAB,disco,211100,Arbejde inden for fysik og astronomi,disco_codes,high,danish
+LAB_disco_211200,LAB,disco,211200,Arbejde inden for meteorologi,disco_codes,high,danish
+LAB_disco_211300,LAB,disco,211300,Arbejde inden for kemi,disco_codes,high,danish
+LAB_disco_211400,LAB,disco,211400,Arbejde inden for geologi og geofysik,disco_codes,high,danish
+LAB_disco_212000,LAB,disco,212000,"Arbejde med matematiske og statistiske begreber, teorier og metoder",disco_codes,high,danish
+LAB_disco_212100,LAB,disco,212100,"Arbejde med matematiske begreber, teorier og metoder",disco_codes,high,danish
+LAB_disco_212200,LAB,disco,212200,"Arbejde med statistiske begreber, teorier og metoder",disco_codes,high,danish
+LAB_disco_213000,LAB,disco,213000,IT-arbejde på teknisk højt niveau,disco_codes,high,danish
+LAB_disco_213100,LAB,disco,213100,Udvikling og overordnet drift af IT-systemer,disco_codes,high,danish
+LAB_disco_213110,LAB,disco,213110,"Projektstyring, IT-systemudvikling (2003 arbejde med edb-design og analyse i idé og analysefasen)",disco_codes,high,danish
+LAB_disco_213120,LAB,disco,213120,"IT-systemudvikling, herunder analyse, design og udarbejdelse af kravspecifikationer (2003 arbejde med overordnet design af edb-systemer inkl. design af driftssystemet)",disco_codes,high,danish
+LAB_disco_213130,LAB,disco,213130,"Overordnet drift af IT-systemer, herunder planlægning, implementering og vedligeholdelse af drifts-systemer",disco_codes,high,danish
+LAB_disco_213200,LAB,disco,213200,"Programmeringsarbejde på teknisk højt niveau, herunder overordnet konfiguration af database- og filstrukturer",disco_codes,high,danish
+LAB_disco_213900,LAB,disco,213900,"Andet IT-arbejde på teknisk højt niveau, herunder rådgivning om implementering og vedligeholdelse af software og hardware",disco_codes,high,danish
+LAB_disco_214000,LAB,disco,214000,Arkitekt- og ingeniørarbejde,disco_codes,high,danish
+LAB_disco_214100,LAB,disco,214100,Arkitektarbejde og planlægning af anlægsarbejder,disco_codes,high,danish
+LAB_disco_214200,LAB,disco,214200,"Ingeniørarbejde vedr. bygninger, infrastruktur og anlæg",disco_codes,high,danish
+LAB_disco_214300,LAB,disco,214300,Ingeniørarbejde vedr. stærkstrøm,disco_codes,high,danish
+LAB_disco_214400,LAB,disco,214400,Ingeniørarbejde vedr. svagstrøm,disco_codes,high,danish
+LAB_disco_214500,LAB,disco,214500,Ingeniørarbejde vedr. ikke-elektriske motorer og maskinanlæg,disco_codes,high,danish
+LAB_disco_214600,LAB,disco,214600,Ingeniørarbejde vedr. kemiske processer ved industriel produktion,disco_codes,high,danish
+LAB_disco_214700,LAB,disco,214700,Mineingeniørarbejde,disco_codes,high,danish
+LAB_disco_214800,LAB,disco,214800,Landinspektørarbejde,disco_codes,high,danish
+LAB_disco_214900,LAB,disco,214900,Ingeniør- og arkitektarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_220000,LAB,disco,220000,"Arbejde inden for medicin, farmaci, og de biologiske grene af naturvidenskab, samt jordemoderarbejde, overordnet sygeplejearbejde mv.",disco_codes,high,danish
+LAB_disco_221000,LAB,disco,221000,Arbejde inden for naturvidenskab,disco_codes,high,danish
+LAB_disco_221100,LAB,disco,221100,"Arbejde inden for levnedsmiddelområdet, biologi, genetik, zoologi, botanik og økologi",disco_codes,high,danish
+LAB_disco_221110,LAB,disco,221110,Arbejde inden for levnedsmiddelområdet,disco_codes,high,danish
+LAB_disco_221120,LAB,disco,221120,"Arbejde inden for biologi, genetik, zoologi, botanik og økologi",disco_codes,high,danish
+LAB_disco_221200,LAB,disco,221200,"Arbejde inden for anatomi, biokemi, fysiologi, patologi og farmakologi",disco_codes,high,danish
+LAB_disco_221300,LAB,disco,221300,"Arbejde inden for planteavl og husdyravl, herunder agronom- og konsulentarbejde",disco_codes,high,danish
+LAB_disco_222000,LAB,disco,222000,Arbejde inden for medicin og farmaci,disco_codes,high,danish
+LAB_disco_222100,LAB,disco,222100,Lægearbejde,disco_codes,high,danish
+LAB_disco_222200,LAB,disco,222200,Tandlægearbejde,disco_codes,high,danish
+LAB_disco_222300,LAB,disco,222300,Veterinærarbejde,disco_codes,high,danish
+LAB_disco_222400,LAB,disco,222400,Farmaceutarbejde,disco_codes,high,danish
+LAB_disco_222900,LAB,disco,222900,Videnskabeligt arbejde inden for medicin og farmaci i øvrigt,disco_codes,high,danish
+LAB_disco_223000,LAB,disco,223000,"Jordemoderarbejde, sundhedsplejerskearbejde og overordnet sygeplejearbejde",disco_codes,high,danish
+LAB_disco_223010,LAB,disco,223010,Jordemoderarbejde,disco_codes,high,danish
+LAB_disco_223020,LAB,disco,223020,Sundhedsplejerskearbejde,disco_codes,high,danish
+LAB_disco_223030,LAB,disco,223030,Overordnet sygeplejerskearbejde og hjemmesygeplejearbejde,disco_codes,high,danish
+LAB_disco_230000,LAB,disco,230000,"Undervisning i folkeskoler, erhvervsskoler, gymnasier samt højere læreanstalter, forskningstilrettelæggelse og kontrol af undervisningsarbejde",disco_codes,high,danish
+LAB_disco_231000,LAB,disco,231000,"Undervisning på universiteter mm., herunder undervisning med forskningspligt",disco_codes,high,danish
+LAB_disco_232000,LAB,disco,232000,Undervisning på gymnasier og erhvervsskoler,disco_codes,high,danish
+LAB_disco_232010,LAB,disco,232010,Undervisning i gymnasier,disco_codes,high,danish
+LAB_disco_232020,LAB,disco,232020,Undervisning i erhvervsuddannelsesskoler,disco_codes,high,danish
+LAB_disco_233000,LAB,disco,233000,"Undervisning på folkeskoleniveau, ekskl. børnehaveklasse",disco_codes,high,danish
+LAB_disco_233100,LAB,disco,233100,"Undervisning på folkeskoleniveau, ekskl. børnehaveklasse",disco_codes,high,danish
+LAB_disco_233110,LAB,disco,233110,"Undervisning i folkeskoler, ekskl. børnehaveklasse",disco_codes,high,danish
+LAB_disco_233120,LAB,disco,233120,Undervisning i ungdomsskoler,disco_codes,high,danish
+LAB_disco_233130,LAB,disco,233130,"Undervisning på efter-, husholdnings- og håndarbejdsskoler",disco_codes,high,danish
+LAB_disco_234000,LAB,disco,234000,Undervisning af handicappede,disco_codes,high,danish
+LAB_disco_235000,LAB,disco,235000,Arbejde vedrørende undervisning i øvrigt,disco_codes,high,danish
+LAB_disco_235100,LAB,disco,235100,"Forskning, udvikling og rådgivning vedr. undervisningsmetoder",disco_codes,high,danish
+LAB_disco_235200,LAB,disco,235200,Kontrol og tilrettelæggelse af undervisning,disco_codes,high,danish
+LAB_disco_235900,LAB,disco,235900,Andet undervisningsarbejde,disco_codes,high,danish
+LAB_disco_235910,LAB,disco,235910,"Undervisning på høj-, daghøj- og produktionsskoler",disco_codes,high,danish
+LAB_disco_235920,LAB,disco,235920,Undervisning ved almen voksenuddannelse,disco_codes,high,danish
+LAB_disco_235930,LAB,disco,235930,Undervisning af indvandrere,disco_codes,high,danish
+LAB_disco_235940,LAB,disco,235940,Undervisning ved arbejdsmarkedsuddannelser,disco_codes,high,danish
+LAB_disco_235950,LAB,disco,235950,Undervisning på aftenskoler,disco_codes,high,danish
+LAB_disco_235960,LAB,disco,235960,Kursusvirksomhed i øvrigt,disco_codes,high,danish
+LAB_disco_235990,LAB,disco,235990,Andet arbejde vedr. undervisning,disco_codes,high,danish
+LAB_disco_240000,LAB,disco,240000,Arbejde inden for samfundsvidenskaberne og humaniora,disco_codes,high,danish
+LAB_disco_241000,LAB,disco,241000,Arbejde med virksomheders organisation og økonomi,disco_codes,high,danish
+LAB_disco_241100,LAB,disco,241100,Arbejde inden for revision og regnskab på overordnet niveau,disco_codes,high,danish
+LAB_disco_241200,LAB,disco,241200,"Personalearbejde på professionelt niveau, herunder ansatte i konsulentbureauer",disco_codes,high,danish
+LAB_disco_241400,LAB,disco,241400,DISCO occupational code: 241400,enhanced_english,medium,english
+LAB_disco_241900,LAB,disco,241900,"Specialfunktioner i erhvervsvirksomheder, interesseorganisationer og offentlige virksomheder",disco_codes,high,danish
+LAB_disco_241910,LAB,disco,241910,"Specialfunktioner i erhvervsvirksomheder vedr. organisation, økonomi, salg mv.",disco_codes,high,danish
+LAB_disco_241920,LAB,disco,241920,"Specialfunktioner i interesseorganisationer vedr. organisation, økonomi mv.",disco_codes,high,danish
+LAB_disco_241930,LAB,disco,241930,"Specialfunktioner i offentlige virksomheder vedr. organisation, økonomi, forvaltning mv.",disco_codes,high,danish
+LAB_disco_242000,LAB,disco,242000,Juridisk arbejde,disco_codes,high,danish
+LAB_disco_242100,LAB,disco,242100,Advokatarbejde,disco_codes,high,danish
+LAB_disco_242110,LAB,disco,242110,Advokatarbejde,disco_codes,high,danish
+LAB_disco_242120,LAB,disco,242120,Advokatfuldmægtigarbejde,disco_codes,high,danish
+LAB_disco_242200,LAB,disco,242200,Dommerarbejde,disco_codes,high,danish
+LAB_disco_242900,LAB,disco,242900,Juridisk arbejde i øvrigt,disco_codes,high,danish
+LAB_disco_243000,LAB,disco,243000,Kulturformidling og informationsarbejde,disco_codes,high,danish
+LAB_disco_243100,LAB,disco,243100,Museums- og arkivarbejde,disco_codes,high,danish
+LAB_disco_243200,LAB,disco,243200,Bibliotekararbejde,disco_codes,high,danish
+LAB_disco_244000,LAB,disco,244000,Arbejde inden for samfundsøkonomi og socialvidenskab,disco_codes,high,danish
+LAB_disco_244100,LAB,disco,244100,Arbejde inden for samfundsøkonomi,disco_codes,high,danish
+LAB_disco_244200,LAB,disco,244200,Arbejde inden for sociologi og antropologi,disco_codes,high,danish
+LAB_disco_244300,LAB,disco,244300,Arbejde inden for filosofi og historie,disco_codes,high,danish
+LAB_disco_244400,LAB,disco,244400,Arbejde inden for sprogvidenskab,disco_codes,high,danish
+LAB_disco_244410,LAB,disco,244410,Forskning inden for sprogvidenskab,disco_codes,high,danish
+LAB_disco_244420,LAB,disco,244420,Oversættelsesarbejde,disco_codes,high,danish
+LAB_disco_244430,LAB,disco,244430,Tolkearbejde,disco_codes,high,danish
+LAB_disco_244490,LAB,disco,244490,"Andet arbejde vedr. sprog, sprogteknologi og kommunikation",disco_codes,high,danish
+LAB_disco_244500,LAB,disco,244500,Arbejde inden for psykologi,disco_codes,high,danish
+LAB_disco_244600,LAB,disco,244600,"Socialrådgivningsarbejde, der forudsætter efteruddannelse, fx gennemført årskursus eller tilsvarende erfaringsgrundlag opnået",disco_codes,high,danish
+LAB_disco_245000,LAB,disco,245000,Journalist- og skribentarbejde samt kunstnerisk arbejde,disco_codes,high,danish
+LAB_disco_245100,LAB,disco,245100,Journalistik og skribentarbejde,disco_codes,high,danish
+LAB_disco_245110,LAB,disco,245110,Journalistisk arbejde,disco_codes,high,danish
+LAB_disco_245120,LAB,disco,245120,Redaktionelt arbejde,disco_codes,high,danish
+LAB_disco_245130,LAB,disco,245130,Reklametekstarbejde,disco_codes,high,danish
+LAB_disco_245140,LAB,disco,245140,Presse- og kommunikationsarbejde,disco_codes,high,danish
+LAB_disco_245150,LAB,disco,245150,Webmasterarbejde (indhold),disco_codes,high,danish
+LAB_disco_245190,LAB,disco,245190,Andet skribentarbejde,disco_codes,high,danish
+LAB_disco_245200,LAB,disco,245200,Illustrations- og formgivningsarbejde,disco_codes,high,danish
+LAB_disco_245211,LAB,disco,245211,Illustrationsgrafisk arbejde vedr. nyhedsformidling,disco_codes,high,danish
+LAB_disco_245212,LAB,disco,245212,Illustrationsgrafisk arbejde vedr. marketing,disco_codes,high,danish
+LAB_disco_245219,LAB,disco,245219,Illustrationsgrafisk arbejde i øvrigt,disco_codes,high,danish
+LAB_disco_245230,LAB,disco,245230,Kunstnerisk formgivningsarbejde vedrørende produkter,disco_codes,high,danish
+LAB_disco_245240,LAB,disco,245240,Konservatorarbejde,disco_codes,high,danish
+LAB_disco_245290,LAB,disco,245290,Andet kunstnerisk arbejde inden for billedkunst og formgivning,disco_codes,high,danish
+LAB_disco_245300,LAB,disco,245300,Kunstnerisk arbejde vedr. musik og sang,disco_codes,high,danish
+LAB_disco_245310,LAB,disco,245310,Kunstnerisk arbejde som udøvende musiker og sanger,disco_codes,high,danish
+LAB_disco_245320,LAB,disco,245320,Kunstnerisk arbejde som instruktør inden for sang og musik,disco_codes,high,danish
+LAB_disco_245400,LAB,disco,245400,Kunstnerisk arbejde som danser og koreograf,disco_codes,high,danish
+LAB_disco_245500,LAB,disco,245500,Film- og skuespilarbejde,disco_codes,high,danish
+LAB_disco_246000,LAB,disco,246000,"Arbejde inden for religion, herunder præster o.l.",disco_codes,high,danish
+LAB_disco_247000,LAB,disco,247000,Arbejde med administration af lovgivningen inden for den offentlige sektor,disco_codes,high,danish
+LAB_disco_300000,LAB,disco,300000,"Arbejde, der forudsætter viden på mellemniveau",disco_codes,high,danish
+LAB_disco_310000,LAB,disco,310000,Teknikerarbejde inden for ikke biologiske emner,disco_codes,high,danish
+LAB_disco_311000,LAB,disco,311000,"Teknikerarbejde inden for fysik og kemi, mekanik mv.",disco_codes,high,danish
+LAB_disco_311100,LAB,disco,311100,"Teknikerarbejde inden for fysik, kemi, geologi mv.",disco_codes,high,danish
+LAB_disco_311110,LAB,disco,311110,Laborantarbejde,disco_codes,high,danish
+LAB_disco_311120,LAB,disco,311120,Assistentarbejde i laboratorier,disco_codes,high,danish
+LAB_disco_311130,LAB,disco,311130,Laboratorieteknikerarbejde,disco_codes,high,danish
+LAB_disco_311140,LAB,disco,311140,"Teknikerarbejde inden for geologi, meteorologi og astronomi",disco_codes,high,danish
+LAB_disco_311200,LAB,disco,311200,Teknikerarbejde vedr. bygnings- og anlægsarbejder,disco_codes,high,danish
+LAB_disco_311300,LAB,disco,311300,Teknikerarbejde vedr. elektriske anlæg og udstyr,disco_codes,high,danish
+LAB_disco_311400,LAB,disco,311400,"Teknikerarbejde vedr. elektroniske anlæg og udstyr, inkl. tele- og datakommunikation",disco_codes,high,danish
+LAB_disco_311500,LAB,disco,311500,"Teknikerarbejde vedr. maskiner og røranlæg, ikke på skibe",disco_codes,high,danish
+LAB_disco_311600,LAB,disco,311600,Teknikerarbejde vedr. kemiske processer,disco_codes,high,danish
+LAB_disco_311700,LAB,disco,311700,Teknikerarbejde vedr. industrielle udvindingsanlæg,disco_codes,high,danish
+LAB_disco_311800,LAB,disco,311800,Teknisk design- og tegnearbejde,disco_codes,high,danish
+LAB_disco_311900,LAB,disco,311900,Teknikerarbejde inden for andre områder,disco_codes,high,danish
+LAB_disco_311910,LAB,disco,311910,"Teknikerarbejde vedr. drift, planlægning og kvalitetskontrol",disco_codes,high,danish
+LAB_disco_311920,LAB,disco,311920,Teknikerarbejde vedr. produktion,disco_codes,high,danish
+LAB_disco_311930,LAB,disco,311930,Grafiker- og Dtp-arbejde,disco_codes,high,danish
+LAB_disco_311990,LAB,disco,311990,Teknikerarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_312000,LAB,disco,312000,IT-teknisk arbejde,disco_codes,high,danish
+LAB_disco_312100,LAB,disco,312100,Programmørarbejde og IT-driftsarbejde,disco_codes,high,danish
+LAB_disco_312110,LAB,disco,312110,"Programmeringsarbejde, tilpasning af applikationer, design af skabeloner",disco_codes,high,danish
+LAB_disco_312120,LAB,disco,312120,"IT-driftsplanlægning og -administration, herunder administration af brugerrettigheder",disco_codes,high,danish
+LAB_disco_312130,LAB,disco,312130,Hotline-/IT-teknikerarbejde internt i virksomheden,disco_codes,high,danish
+LAB_disco_312200,LAB,disco,312200,"IT-operatørarbejde, herunder konsol- og maskinoperatørarbejde",disco_codes,high,danish
+LAB_disco_312300,LAB,disco,312300,Arbejde med industri-robotprogrammer,disco_codes,high,danish
+LAB_disco_313000,LAB,disco,313000,"Arbejde med lyd, lys og billeder samt betjening af hospitalsudstyr",disco_codes,high,danish
+LAB_disco_313100,LAB,disco,313100,Optagelse af lyd og billeder,disco_codes,high,danish
+LAB_disco_313110,LAB,disco,313110,"Fotografarbejde, nyhedsformidling, pressefotograf",disco_codes,high,danish
+LAB_disco_313120,LAB,disco,313120,Fototeknisk arbejde,disco_codes,high,danish
+LAB_disco_313130,LAB,disco,313130,"Film- og videooptagelse, nyhedsformidling",disco_codes,high,danish
+LAB_disco_313140,LAB,disco,313140,"Film- og videooptagelse, ekskl. nyhedsformidling",disco_codes,high,danish
+LAB_disco_313150,LAB,disco,313150,"Lydoptagelse og lydteknik, nyhedsformidling",disco_codes,high,danish
+LAB_disco_313160,LAB,disco,313160,"Lydoptagelse og lydteknik, ekskl. nyhedsformidling",disco_codes,high,danish
+LAB_disco_313170,LAB,disco,313170,"Redigering af lyd og billede, nyhedsformidling",disco_codes,high,danish
+LAB_disco_313180,LAB,disco,313180,"Redigering af lyd og billede, ekskl. nyhedsformidling",disco_codes,high,danish
+LAB_disco_313190,LAB,disco,313190,"Andet arbejde med lyd, lys og billeder ved film og teater",disco_codes,high,danish
+LAB_disco_313200,LAB,disco,313200,Betjening af maskiner ved radio- og fjernsynsudsendelser samt telegrafi,disco_codes,high,danish
+LAB_disco_313300,LAB,disco,313300,Betjening af hospitalsudstyr,disco_codes,high,danish
+LAB_disco_313900,LAB,disco,313900,"Arbejde lyd, lys og billeder i øvrigt",disco_codes,high,danish
+LAB_disco_314000,LAB,disco,314000,Arbejde inden for skibsfart og luftfart,disco_codes,high,danish
+LAB_disco_314100,LAB,disco,314100,Teknisk arbejde om bord på skibe,disco_codes,high,danish
+LAB_disco_314200,LAB,disco,314200,Skibsførerarbejde,disco_codes,high,danish
+LAB_disco_314300,LAB,disco,314300,Flypilotarbejde,disco_codes,high,danish
+LAB_disco_314400,LAB,disco,314400,Planlægning og afvikling af flytrafik,disco_codes,high,danish
+LAB_disco_314410,LAB,disco,314410,Flyvelederarbejde,disco_codes,high,danish
+LAB_disco_314420,LAB,disco,314420,Planlægning og afvikling af flytrafik i øvrigt,disco_codes,high,danish
+LAB_disco_314500,LAB,disco,314500,Flymaskinistarbejde,disco_codes,high,danish
+LAB_disco_315000,LAB,disco,315000,Sikkerhedsarbejde og kvalitetskontrol,disco_codes,high,danish
+LAB_disco_315100,LAB,disco,315100,Arbejde med bygnings- og brandsikkerhed,disco_codes,high,danish
+LAB_disco_315200,LAB,disco,315200,Teknisk kontrolarbejde,disco_codes,high,danish
+LAB_disco_315210,LAB,disco,315210,Kontrolarbejde vedr. miljø,disco_codes,high,danish
+LAB_disco_315220,LAB,disco,315220,Kontrolarbejde vedr. sikkerhed,disco_codes,high,danish
+LAB_disco_315230,LAB,disco,315230,Kontrolarbejde vedr. kvalitet,disco_codes,high,danish
+LAB_disco_320000,LAB,disco,320000,Teknikerarbejde samt andet arbejde inden for biologiske emner,disco_codes,high,danish
+LAB_disco_321000,LAB,disco,321000,"Teknikerarbejde inden for biologi, biokemi, farmakologi, zoologi, botanik, landbrug og skovbrug",disco_codes,high,danish
+LAB_disco_321100,LAB,disco,321100,"Teknikerarbejde inden for biologi, biokemi, farmakologi og zoologi",disco_codes,high,danish
+LAB_disco_321111,LAB,disco,321111,"Laborantarbejde, medicinalindustri",disco_codes,high,danish
+LAB_disco_321112,LAB,disco,321112,"Assistentarbejde i laboratorier, medicinalindustri",disco_codes,high,danish
+LAB_disco_321113,LAB,disco,321113,"Laboratorieteknikerarbejde, medicinalindustri",disco_codes,high,danish
+LAB_disco_321114,LAB,disco,321114,"Andet teknikerarbejde, medicinalindustri",disco_codes,high,danish
+LAB_disco_321121,LAB,disco,321121,"Laborantarbejde, fødevareindustri",disco_codes,high,danish
+LAB_disco_321122,LAB,disco,321122,"Assistentarbejde i laboratorier, fødevareindustri",disco_codes,high,danish
+LAB_disco_321123,LAB,disco,321123,"Laboratorieteknikerarbejde, fødevareindustri",disco_codes,high,danish
+LAB_disco_321124,LAB,disco,321124,"Andet teknikerarbejde, fødevareindustri",disco_codes,high,danish
+LAB_disco_321131,LAB,disco,321131,"Bioanalytiker- og laborantarbejde, hospitaler",disco_codes,high,danish
+LAB_disco_321132,LAB,disco,321132,"Assistentarbejde i laboratorier, hospitaler",disco_codes,high,danish
+LAB_disco_321133,LAB,disco,321133,"Laboratorieteknikerarbejde, hospitaler",disco_codes,high,danish
+LAB_disco_321134,LAB,disco,321134,"Andet teknikerarbejde, hospitaler",disco_codes,high,danish
+LAB_disco_321141,LAB,disco,321141,Laborantarbejde vedr. forskning,disco_codes,high,danish
+LAB_disco_321142,LAB,disco,321142,Laboratorieteknikerarbejde vedr. forskning,disco_codes,high,danish
+LAB_disco_321190,LAB,disco,321190,"Teknikerarbejde inden for biologi, biokemi, farmakologi og zoologi i øvrigt",disco_codes,high,danish
+LAB_disco_321200,LAB,disco,321200,Teknikerarbejde inden for landbrugs- og skovbrugsvidenskab,disco_codes,high,danish
+LAB_disco_321300,LAB,disco,321300,Rådgivningsarbejde ved landbrug og skovbrug,disco_codes,high,danish
+LAB_disco_322000,LAB,disco,322000,"Assistentarbejde inden for sundhedssektoren, ekskl. sygeplejearbejde",disco_codes,high,danish
+LAB_disco_322100,LAB,disco,322100,"Assistentarbejde og rådgivning vedr. sundhed, fødsel, diæt og sygdomsbehandling",disco_codes,high,danish
+LAB_disco_322200,LAB,disco,322200,"Assistentarbejde og rådgivning vedr. hygiejne, og miljøteknisk arbejde",disco_codes,high,danish
+LAB_disco_322300,LAB,disco,322300,"Arbejde med kostforplejning og kostens sammensætning og tilberedning, fx økonomaarbejde",disco_codes,high,danish
+LAB_disco_322400,LAB,disco,322400,Optikerarbejde,disco_codes,high,danish
+LAB_disco_322500,LAB,disco,322500,Arbejde med tandpleje,disco_codes,high,danish
+LAB_disco_322510,LAB,disco,322510,Tandklinikassistentarbejde,disco_codes,high,danish
+LAB_disco_322520,LAB,disco,322520,Tandplejerarbejde,disco_codes,high,danish
+LAB_disco_322600,LAB,disco,322600,"Fysioterapi, kiropraktik og andet terapeutarbejde",disco_codes,high,danish
+LAB_disco_322610,LAB,disco,322610,Fysioterapeutarbejde,disco_codes,high,danish
+LAB_disco_322620,LAB,disco,322620,Fodterapeutarbejde,disco_codes,high,danish
+LAB_disco_322630,LAB,disco,322630,Kiropraktorarbejde,disco_codes,high,danish
+LAB_disco_322640,LAB,disco,322640,Ergoterapeutarbejde,disco_codes,high,danish
+LAB_disco_322700,LAB,disco,322700,Assistentarbejde hos dyrlæge,disco_codes,high,danish
+LAB_disco_322800,LAB,disco,322800,Farmaceutisk assistentarbejde,disco_codes,high,danish
+LAB_disco_322810,LAB,disco,322810,Apoteksassistent,disco_codes,high,danish
+LAB_disco_322820,LAB,disco,322820,Apotekstekniker,disco_codes,high,danish
+LAB_disco_322900,LAB,disco,322900,"Assistentarbejde inden for sundhedssektoren i øvrigt, herunder zoneterapeutarbejde",disco_codes,high,danish
+LAB_disco_323000,LAB,disco,323000,Sygeplejearbejde,disco_codes,high,danish
+LAB_disco_323100,LAB,disco,323100,Sygeplejearbejde,disco_codes,high,danish
+LAB_disco_330000,LAB,disco,330000,Omsorgs- og pædagogisk arbejde,disco_codes,high,danish
+LAB_disco_331000,LAB,disco,331000,Skoleundervisning af børn under den undervisningspligtige alder,disco_codes,high,danish
+LAB_disco_332000,LAB,disco,332000,Pædagogisk arbejde med børn under den undervisningspligtige alder,disco_codes,high,danish
+LAB_disco_333000,LAB,disco,333000,Omsorgs- og pædagogisk arbejde for børn og voksne i specialinstitutioner,disco_codes,high,danish
+LAB_disco_334000,LAB,disco,334000,Undervisnings- og pædagogisk arbejde i øvrigt,disco_codes,high,danish
+LAB_disco_334010,LAB,disco,334010,Undervisning og pædagogisk arbejde i institutioner i øvrigt,disco_codes,high,danish
+LAB_disco_334020,LAB,disco,334020,Køreteknisk undervisningsarbejde o.l.,disco_codes,high,danish
+LAB_disco_340000,LAB,disco,340000,"Arbejde med salg, finansiering, forretningsservice, administration m.v.",disco_codes,high,danish
+LAB_disco_341000,LAB,disco,341000,Salgs- og finansieringsarbejde,disco_codes,high,danish
+LAB_disco_341100,LAB,disco,341100,Kreditarbejde og omsætning af værdipapirer,disco_codes,high,danish
+LAB_disco_341110,LAB,disco,341110,Kreditarbejde vedr. kreditanalyse,disco_codes,high,danish
+LAB_disco_341120,LAB,disco,341120,Kreditarbejde vedr. behandling/bevilling,disco_codes,high,danish
+LAB_disco_341130,LAB,disco,341130,Kreditarbejde vedr. opfølgning/rapportering,disco_codes,high,danish
+LAB_disco_341140,LAB,disco,341140,Kreditarbejde vedr. nødlidende engagementer,disco_codes,high,danish
+LAB_disco_341150,LAB,disco,341150,"Handel med værdipapirer, valuta og andre finansielle instrumenter",disco_codes,high,danish
+LAB_disco_341160,LAB,disco,341160,"Rådgivningsarbejde vedr. omsætning af værdipapirer, valuta og andre finansielle instrumenter",disco_codes,high,danish
+LAB_disco_341170,LAB,disco,341170,"Analysearbejde vedr. omsætning af værdipapirer, valuta og andre finansielle instrumenter",disco_codes,high,danish
+LAB_disco_341200,LAB,disco,341200,Forsikringssalgsarbejde,disco_codes,high,danish
+LAB_disco_341300,LAB,disco,341300,Køb og salg af ejendom,disco_codes,high,danish
+LAB_disco_341310,LAB,disco,341310,Ejendomsmægler,disco_codes,high,danish
+LAB_disco_341320,LAB,disco,341320,Ejendomshandler,disco_codes,high,danish
+LAB_disco_341400,LAB,disco,341400,Arbejde vedrørende tilrettelæggelse af rejser,disco_codes,high,danish
+LAB_disco_341500,LAB,disco,341500,Salgsarbejde,disco_codes,high,danish
+LAB_disco_341510,LAB,disco,341510,Opsøgende salgsarbejde ekskl. detailsalg,disco_codes,high,danish
+LAB_disco_341520,LAB,disco,341520,Produktsupport vedr. salg,disco_codes,high,danish
+LAB_disco_341530,LAB,disco,341530,"Salg af person- og varebiler, herunder motorcykler",disco_codes,high,danish
+LAB_disco_341540,LAB,disco,341540,Salg af lastbiler og andre erhvervskøretøjer,disco_codes,high,danish
+LAB_disco_341590,LAB,disco,341590,Andet salgsarbejde ekskl. detailsalg,disco_codes,high,danish
+LAB_disco_341600,LAB,disco,341600,Indkøbsarbejde,disco_codes,high,danish
+LAB_disco_341700,LAB,disco,341700,"Vurdering, taksering og sagsbehandling af forsikringsskader",disco_codes,high,danish
+LAB_disco_341710,LAB,disco,341710,Vurderings- og takseringsarbejde,disco_codes,high,danish
+LAB_disco_341720,LAB,disco,341720,Forsikringsteknisk arbejde vedr. sagsbehandling af forsikringsskader,disco_codes,high,danish
+LAB_disco_341900,LAB,disco,341900,Andet salgs- og finansieringsarbejde,disco_codes,high,danish
+LAB_disco_341910,LAB,disco,341910,Marketingsarbejde,disco_codes,high,danish
+LAB_disco_341920,LAB,disco,341920,Finansielt arbejde vedr. boligrådgivning,disco_codes,high,danish
+LAB_disco_341930,LAB,disco,341930,Arbejde vedr. pensions- og investeringsrådgivning,disco_codes,high,danish
+LAB_disco_341940,LAB,disco,341940,Generel finansiel og forsikringsmæssig rådgivning,disco_codes,high,danish
+LAB_disco_341950,LAB,disco,341950,Forsikringsteknisk arbejde vedr. oprettelse og vedligeholdelse af forsikringspolicer,disco_codes,high,danish
+LAB_disco_341990,LAB,disco,341990,Andet salgs- og finansieringsarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_342000,LAB,disco,342000,"Agentarbejde inden for forretningsservice og mæglerarbejde, herunder interne konsulenter",disco_codes,high,danish
+LAB_disco_342100,LAB,disco,342100,Mæglerarbejde,disco_codes,high,danish
+LAB_disco_342200,LAB,disco,342200,Spedition,disco_codes,high,danish
+LAB_disco_342210,LAB,disco,342210,Spedition vedr. land- og lufttransport,disco_codes,high,danish
+LAB_disco_342220,LAB,disco,342220,Spedition vedr. søtransport,disco_codes,high,danish
+LAB_disco_342290,LAB,disco,342290,Spedition i øvrigt,disco_codes,high,danish
+LAB_disco_342300,LAB,disco,342300,Jobformidlingsarbejde,disco_codes,high,danish
+LAB_disco_342900,LAB,disco,342900,Andet forretningsservicearbejde,disco_codes,high,danish
+LAB_disco_342910,LAB,disco,342910,Salgs- og rådgivningsarbejde vedr. reklamer,disco_codes,high,danish
+LAB_disco_342920,LAB,disco,342920,Agentarbejde for fx sportsudøvere og kunstnere,disco_codes,high,danish
+LAB_disco_342990,LAB,disco,342990,Andet agentarbejde inden for forretningsservice,disco_codes,high,danish
+LAB_disco_343000,LAB,disco,343000,Administrationsarbejde,disco_codes,high,danish
+LAB_disco_343100,LAB,disco,343100,Administrativt sekretærarbejde mv.,disco_codes,high,danish
+LAB_disco_343110,LAB,disco,343110,Oversættelse af korrespondance m.v.,disco_codes,high,danish
+LAB_disco_343120,LAB,disco,343120,"Administrativt arbejde, intern sagsbehandling og direktionssekretærarbejde",disco_codes,high,danish
+LAB_disco_343200,LAB,disco,343200,Advokatsekretærarbejde,disco_codes,high,danish
+LAB_disco_343300,LAB,disco,343300,"Bogholderi-, revisions- og regnskabsarbejde",disco_codes,high,danish
+LAB_disco_343310,LAB,disco,343310,Bogholderiarbejde,disco_codes,high,danish
+LAB_disco_343320,LAB,disco,343320,Revisions- og regnskabsarbejde,disco_codes,high,danish
+LAB_disco_343400,LAB,disco,343400,Assistentarbejde ved matematiske beregninger og udarbejdelse af statistik,disco_codes,high,danish
+LAB_disco_343900,LAB,disco,343900,Andet administrationsarbejde,disco_codes,high,danish
+LAB_disco_343910,LAB,disco,343910,Tilsyns- og inspektørarbejde,disco_codes,high,danish
+LAB_disco_343920,LAB,disco,343920,Administrativ arbejdstilrettelæggelse og personaleledelse,disco_codes,high,danish
+LAB_disco_343990,LAB,disco,343990,Administrativ forvaltning og sagsbehandling,disco_codes,high,danish
+LAB_disco_344000,LAB,disco,344000,Arbejde vedr. offentlige ydelser og afgifter,disco_codes,high,danish
+LAB_disco_344100,LAB,disco,344100,Toldarbejde (publikumsbetjening),disco_codes,high,danish
+LAB_disco_344200,LAB,disco,344200,Toldarbejde (administrative funktioner),disco_codes,high,danish
+LAB_disco_344300,LAB,disco,344300,"Arbejde vedr. tildeling af offentlige ydelser, herunder socialformidling i stat og kommune",disco_codes,high,danish
+LAB_disco_344400,LAB,disco,344400,"Arbejde vedr. udstedelse af pas, licens mv.",disco_codes,high,danish
+LAB_disco_344900,LAB,disco,344900,Administrative funktioner i offentlig virksomhed i øvrigt,disco_codes,high,danish
+LAB_disco_345000,LAB,disco,345000,Politimæssigt arbejde og detektivarbejde,disco_codes,high,danish
+LAB_disco_346000,LAB,disco,346000,Socialrådgivning og tilsvarende omsorgsarbejde,disco_codes,high,danish
+LAB_disco_347000,LAB,disco,347000,"Arbejde inden for design, kunst, underholdning og sport",disco_codes,high,danish
+LAB_disco_347100,LAB,disco,347100,"Dekoration, design og illustration",disco_codes,high,danish
+LAB_disco_347111,LAB,disco,347111,Blomsterdekoration,disco_codes,high,danish
+LAB_disco_347112,LAB,disco,347112,Butiksdekoration,disco_codes,high,danish
+LAB_disco_347119,LAB,disco,347119,Dekorationsarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_347120,LAB,disco,347120,Design og formgivningsarbejde,disco_codes,high,danish
+LAB_disco_347130,LAB,disco,347130,Indretningsarkitektarbejde,disco_codes,high,danish
+LAB_disco_347140,LAB,disco,347140,Grafisk designarbejde,disco_codes,high,danish
+LAB_disco_347150,LAB,disco,347150,Illustrations- og tegnearbejde,disco_codes,high,danish
+LAB_disco_347190,LAB,disco,347190,"Andet dekorations-, design og illustrationsarbejde",disco_codes,high,danish
+LAB_disco_347200,LAB,disco,347200,Speakerarbejde,disco_codes,high,danish
+LAB_disco_347300,LAB,disco,347300,"Sangere og dansere, der ikke placeres i hovedgruppe 2",disco_codes,high,danish
+LAB_disco_347400,LAB,disco,347400,Cirkusartistarbejde mv.,disco_codes,high,danish
+LAB_disco_347500,LAB,disco,347500,Trænervirksomhed og sportsudøvelse,disco_codes,high,danish
+LAB_disco_347510,LAB,disco,347510,"Trænervirksomhed, sport",disco_codes,high,danish
+LAB_disco_347520,LAB,disco,347520,Sportsudøvelse,disco_codes,high,danish
+LAB_disco_348000,LAB,disco,348000,Arbejde med tilknytning til religion,disco_codes,high,danish
+LAB_disco_400000,LAB,disco,400000,Kontorarbejde,disco_codes,high,danish
+LAB_disco_410000,LAB,disco,410000,Internt kontorarbejde,disco_codes,high,danish
+LAB_disco_411000,LAB,disco,411000,"Sekretærarbejde, indtastningsarbejde",disco_codes,high,danish
+LAB_disco_411100,LAB,disco,411100,Stenografering og maskinskrivning,disco_codes,high,danish
+LAB_disco_411200,LAB,disco,411200,"Betjening af teleprinter, telefax, varslingsanlæg og lignende maskiner",disco_codes,high,danish
+LAB_disco_411300,LAB,disco,411300,Indtastningsarbejde,disco_codes,high,danish
+LAB_disco_411400,LAB,disco,411400,"Betjening af bogføringsmaskiner, regnemaskiner o.l.",disco_codes,high,danish
+LAB_disco_411500,LAB,disco,411500,Alment kontor- og sekretærarbejde,disco_codes,high,danish
+LAB_disco_412000,LAB,disco,412000,Beregningsarbejde,disco_codes,high,danish
+LAB_disco_412100,LAB,disco,412100,Beregningsarbejde vedr. bogføring og revision,disco_codes,high,danish
+LAB_disco_412110,LAB,disco,412110,Beregningsarbejde vedr. bogføring,disco_codes,high,danish
+LAB_disco_412120,LAB,disco,412120,Beregningsarbejde vedr. revision,disco_codes,high,danish
+LAB_disco_412200,LAB,disco,412200,"Beregningsarbejde vedr. finansielle transaktioner, statistik, standardforsikringspræmier mv.",disco_codes,high,danish
+LAB_disco_413000,LAB,disco,413000,"Administration af lager, produktion og transport",disco_codes,high,danish
+LAB_disco_413100,LAB,disco,413100,"Lagerføring, omfatter registrering, fakturering, forvaltning og udlevering af lagerbeholdningen",disco_codes,high,danish
+LAB_disco_413200,LAB,disco,413200,"Kontrol af ordrer, forbrug og drift af produktionsprogrammer",disco_codes,high,danish
+LAB_disco_413300,LAB,disco,413300,Transporttilrettelæggelse,disco_codes,high,danish
+LAB_disco_413310,LAB,disco,413310,Transporttilrettelæggelse vedr. jernbanetransport,disco_codes,high,danish
+LAB_disco_413320,LAB,disco,413320,Transporttilrettelæggelse vedr. luftfart - ikke flyveledere,disco_codes,high,danish
+LAB_disco_413330,LAB,disco,413330,Udryknings- og transporttilrettelæggelse vedr. redningstjeneste,disco_codes,high,danish
+LAB_disco_413340,LAB,disco,413340,Transporttilrettelæggelse vedr. bustransport,disco_codes,high,danish
+LAB_disco_413350,LAB,disco,413350,Transporttilrettelæggelse vedr. godstransport med last- og varevogn,disco_codes,high,danish
+LAB_disco_413360,LAB,disco,413360,Transporttilrettelæggelse vedr. hyrevognskørsel,disco_codes,high,danish
+LAB_disco_413390,LAB,disco,413390,Transporttilrettelæggelse i øvrigt,disco_codes,high,danish
+LAB_disco_414000,LAB,disco,414000,"Arkivarbejde, post- og betjentarbejde og korrekturlæsning",disco_codes,high,danish
+LAB_disco_414100,LAB,disco,414100,"Registreringsarbejde vedr. bestand, udlån og hjemtagning af bøger mv.",disco_codes,high,danish
+LAB_disco_414200,LAB,disco,414200,Postarbejde,disco_codes,high,danish
+LAB_disco_414210,LAB,disco,414210,"Betjentarbejde, herunder intern postbehandling",disco_codes,high,danish
+LAB_disco_414220,LAB,disco,414220,Postbudarbejde,disco_codes,high,danish
+LAB_disco_414300,LAB,disco,414300,"Korrekturlæsning, kodning o.l.",disco_codes,high,danish
+LAB_disco_419000,LAB,disco,419000,"Kartoteksarbejde og andre specialopgaver, ekskl. kundebetjening",disco_codes,high,danish
+LAB_disco_420000,LAB,disco,420000,Kontorarbejde med kundebetjening,disco_codes,high,danish
+LAB_disco_421000,LAB,disco,421000,Arbejde vedrørende pengetransaktioner,disco_codes,high,danish
+LAB_disco_421100,LAB,disco,421100,Kassererarbejde og billetsalg,disco_codes,high,danish
+LAB_disco_421200,LAB,disco,421200,Alment bank- og sparekassearbejde,disco_codes,high,danish
+LAB_disco_421210,LAB,disco,421210,Bank- og sparekassearbejde med generel kundebetjening,disco_codes,high,danish
+LAB_disco_421220,LAB,disco,421220,Kassererarbejde i bank og sparekasse,disco_codes,high,danish
+LAB_disco_421300,LAB,disco,421300,"Bookmaker-, croupier- og kollektørarbejde",disco_codes,high,danish
+LAB_disco_421400,LAB,disco,421400,Pantelånerarbejde,disco_codes,high,danish
+LAB_disco_421500,LAB,disco,421500,Inkassoarbejde,disco_codes,high,danish
+LAB_disco_422000,LAB,disco,422000,Kundebetjening i øvrigt,disco_codes,high,danish
+LAB_disco_422100,LAB,disco,422100,Rejsebureauarbejde,disco_codes,high,danish
+LAB_disco_422200,LAB,disco,422200,Receptions- og lægesekretærarbejde,disco_codes,high,danish
+LAB_disco_422210,LAB,disco,422210,Receptionsarbejde,disco_codes,high,danish
+LAB_disco_422220,LAB,disco,422220,Receptionsarbejde inden for sundhedssektoren,disco_codes,high,danish
+LAB_disco_422230,LAB,disco,422230,Lægesekretærarbejde,disco_codes,high,danish
+LAB_disco_422300,LAB,disco,422300,Telefonomstilling og callcenterarbejde,disco_codes,high,danish
+LAB_disco_422310,LAB,disco,422310,Telefonomstillingsarbejde,disco_codes,high,danish
+LAB_disco_422320,LAB,disco,422320,Hotline- og callcenterarbejde,disco_codes,high,danish
+LAB_disco_500000,LAB,disco,500000,"Detailsalg, service- og omsorgsarbejde",disco_codes,high,danish
+LAB_disco_510000,LAB,disco,510000,Service- og omsorgsarbejde,disco_codes,high,danish
+LAB_disco_511000,LAB,disco,511000,"Servicearbejde vedr. transport, rejser og turisme",disco_codes,high,danish
+LAB_disco_511100,LAB,disco,511100,Passagerbetjening,disco_codes,high,danish
+LAB_disco_511110,LAB,disco,511110,Passagerbetjening under rejse og transport,disco_codes,high,danish
+LAB_disco_511120,LAB,disco,511120,Passagerbetjening i lufthavne og i havneterminaler,disco_codes,high,danish
+LAB_disco_511200,LAB,disco,511200,"Billettering, informations- og kontrolarbejde under rejser",disco_codes,high,danish
+LAB_disco_511300,LAB,disco,511300,Turist- og rejselederarbejde,disco_codes,high,danish
+LAB_disco_512000,LAB,disco,512000,"Arbejde i restaurant, cafeteria og husholdning",disco_codes,high,danish
+LAB_disco_512100,LAB,disco,512100,Generelt husholdningsarbejde,disco_codes,high,danish
+LAB_disco_512200,LAB,disco,512200,"Tilberedning af måltider, fx kok og køkkenleder",disco_codes,high,danish
+LAB_disco_512300,LAB,disco,512300,Serveringsarbejde,disco_codes,high,danish
+LAB_disco_513000,LAB,disco,513000,Omsorgsarbejde,disco_codes,high,danish
+LAB_disco_513100,LAB,disco,513100,Børnepasning og pædagogisk hjælp,disco_codes,high,danish
+LAB_disco_513110,LAB,disco,513110,Børnepasning i private hjem,disco_codes,high,danish
+LAB_disco_513120,LAB,disco,513120,Pædagogisk medhjælp i institutioner,disco_codes,high,danish
+LAB_disco_513200,LAB,disco,513200,"Social- og sundhedspersonale på institutioner, samt portørarbejde",disco_codes,high,danish
+LAB_disco_513210,LAB,disco,513210,Social- og sundhedspersonale på institutioner,disco_codes,high,danish
+LAB_disco_513220,LAB,disco,513220,Portørarbejde,disco_codes,high,danish
+LAB_disco_513300,LAB,disco,513300,Social- og sundhedspersonale i private hjem,disco_codes,high,danish
+LAB_disco_513900,LAB,disco,513900,Omsorgsarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_514000,LAB,disco,514000,Servicearbejde,disco_codes,high,danish
+LAB_disco_514100,LAB,disco,514100,Personpleje,disco_codes,high,danish
+LAB_disco_514110,LAB,disco,514110,Frisør- og barberarbejde,disco_codes,high,danish
+LAB_disco_514120,LAB,disco,514120,Kosmetolog- og massørarbejde samt anden personpleje,disco_codes,high,danish
+LAB_disco_514200,LAB,disco,514200,Kammertjenerarbejde,disco_codes,high,danish
+LAB_disco_514300,LAB,disco,514300,Bedemandsarbejde,disco_codes,high,danish
+LAB_disco_514900,LAB,disco,514900,Servicearbejde i øvrigt,disco_codes,high,danish
+LAB_disco_516000,LAB,disco,516000,Overvågnings- og redningsarbejde,disco_codes,high,danish
+LAB_disco_516100,LAB,disco,516100,Brandbekæmpelse,disco_codes,high,danish
+LAB_disco_516200,LAB,disco,516200,Politiarbejde,disco_codes,high,danish
+LAB_disco_516300,LAB,disco,516300,Overvågningsarbejde i fængsler,disco_codes,high,danish
+LAB_disco_516900,LAB,disco,516900,Overvågnings- og redningsarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_516910,LAB,disco,516910,Butiksdetektivarbejde,disco_codes,high,danish
+LAB_disco_516920,LAB,disco,516920,Vagtarbejde,disco_codes,high,danish
+LAB_disco_516930,LAB,disco,516930,Redningsarbejde,disco_codes,high,danish
+LAB_disco_520000,LAB,disco,520000,Detailsalg og modelarbejde,disco_codes,high,danish
+LAB_disco_521000,LAB,disco,521000,Modelarbejde,disco_codes,high,danish
+LAB_disco_522000,LAB,disco,522000,Detailsalg og demonstrationsarbejde,disco_codes,high,danish
+LAB_disco_522010,LAB,disco,522010,Kasseekspedientarbejde,disco_codes,high,danish
+LAB_disco_522020,LAB,disco,522020,Demonstrationsarbejde,disco_codes,high,danish
+LAB_disco_522030,LAB,disco,522030,Ekspedientarbejde,disco_codes,high,danish
+LAB_disco_522040,LAB,disco,522040,Merchandising,disco_codes,high,danish
+LAB_disco_600000,LAB,disco,600000,"Arbejde inden for landbrug, gartneri, skovbrug, jagt og fiskeri",disco_codes,high,danish
+LAB_disco_610000,LAB,disco,610000,"Arbejde inden for landbrug, gartneri, skovbrug, jagt og fiskeri",disco_codes,high,danish
+LAB_disco_611000,LAB,disco,611000,Arbejde inden for plantevækst,disco_codes,high,danish
+LAB_disco_611100,LAB,disco,611100,Arbejde med markafgrøder på landbrug,disco_codes,high,danish
+LAB_disco_611200,LAB,disco,611200,Gartnerarbejde,disco_codes,high,danish
+LAB_disco_611210,LAB,disco,611210,Produktions- og væksthusgartnerarbejde (2003 avl af frugt og grøntsager),disco_codes,high,danish
+LAB_disco_611220,LAB,disco,611220,2003 avl af blomster og planter,disco_codes,high,danish
+LAB_disco_611230,LAB,disco,611230,Anlægsgartnerarbejde,disco_codes,high,danish
+LAB_disco_611290,LAB,disco,611290,Gartneriarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_612000,LAB,disco,612000,Arbejde med levende dyr,disco_codes,high,danish
+LAB_disco_612100,LAB,disco,612100,Arbejde med tamme husdyr undtagen fjerkræ,disco_codes,high,danish
+LAB_disco_612200,LAB,disco,612200,Arbejde med opdræt af fjerkræ,disco_codes,high,danish
+LAB_disco_612900,LAB,disco,612900,Arbejde med dyr i øvrigt,disco_codes,high,danish
+LAB_disco_613000,LAB,disco,613000,"Arbejde med såvel markafgrøder som husdyr, fx som landmand",disco_codes,high,danish
+LAB_disco_614000,LAB,disco,614000,Skovbrugsarbejde,disco_codes,high,danish
+LAB_disco_614100,LAB,disco,614100,Skovbrugsarbejde,disco_codes,high,danish
+LAB_disco_614200,LAB,disco,614200,kulsvierarbejde,disco_codes,high,danish
+LAB_disco_615000,LAB,disco,615000,Fiskeri og jagt,disco_codes,high,danish
+LAB_disco_615100,LAB,disco,615100,"Arbejde med opdræt af fisk, østers o.l.",disco_codes,high,danish
+LAB_disco_615200,LAB,disco,615200,Kystfiskeri,disco_codes,high,danish
+LAB_disco_615300,LAB,disco,615300,Havfiskeri,disco_codes,high,danish
+LAB_disco_615400,LAB,disco,615400,Jagt,disco_codes,high,danish
+LAB_disco_700000,LAB,disco,700000,Håndværkspræget arbejde,disco_codes,high,danish
+LAB_disco_710000,LAB,disco,710000,Arbejde med råstofudvinding og bygningshåndværk,disco_codes,high,danish
+LAB_disco_711000,LAB,disco,711000,Mine- og stenbrudsarbejde,disco_codes,high,danish
+LAB_disco_711100,LAB,disco,711100,Mine- og stenbrudsarbejde,disco_codes,high,danish
+LAB_disco_711200,LAB,disco,711200,Minørarbejde,disco_codes,high,danish
+LAB_disco_711300,LAB,disco,711300,Stenhuggerarbejde,disco_codes,high,danish
+LAB_disco_712000,LAB,disco,712000,Bygningsarbejde (basis),disco_codes,high,danish
+LAB_disco_712100,LAB,disco,712100,Bygningsarbejde med naturmaterialer,disco_codes,high,danish
+LAB_disco_712200,LAB,disco,712200,Murer- og brolægningsarbejde,disco_codes,high,danish
+LAB_disco_712210,LAB,disco,712210,"Murerarbejde, ekskl. medhjælpere",disco_codes,high,danish
+LAB_disco_712220,LAB,disco,712220,"Brolægningsarbejde, ekskl. medhjælpere",disco_codes,high,danish
+LAB_disco_712300,LAB,disco,712300,"Beton-, cement- og terrazzoarbejde",disco_codes,high,danish
+LAB_disco_712310,LAB,disco,712310,"Fremstilling af råhuse og montagearbejde, ekskl. medhjælpere",disco_codes,high,danish
+LAB_disco_712320,LAB,disco,712320,"Brobygning og bygning af lignende betonkonstruktioner, ekskl. medhjælpere",disco_codes,high,danish
+LAB_disco_712330,LAB,disco,712330,Terrazzoarbejde,disco_codes,high,danish
+LAB_disco_712400,LAB,disco,712400,Tømrer- og snedkerarbejde,disco_codes,high,danish
+LAB_disco_712410,LAB,disco,712410,Tømrer- og snedkerarbejde vedr. byggeri,disco_codes,high,danish
+LAB_disco_712420,LAB,disco,712420,Fremstilling og reparation af skibe i træ,disco_codes,high,danish
+LAB_disco_712430,LAB,disco,712430,Tømrer- og snedkerarbejde (industriel forarbejdning uden anvendelse af maskiner),disco_codes,high,danish
+LAB_disco_712900,LAB,disco,712900,Andet bygningsarbejde,disco_codes,high,danish
+LAB_disco_712910,LAB,disco,712910,Fremstilling af bygningskonstruktioner i stål,disco_codes,high,danish
+LAB_disco_712930,LAB,disco,712930,Opsætning og nedtagning af stilladser,disco_codes,high,danish
+LAB_disco_712990,LAB,disco,712990,Andet bygningsarbejde,disco_codes,high,danish
+LAB_disco_713000,LAB,disco,713000,Bygningsarbejde (finish),disco_codes,high,danish
+LAB_disco_713100,LAB,disco,713100,Tagdækningsarbejde,disco_codes,high,danish
+LAB_disco_713200,LAB,disco,713200,"Gulvlægning, vedligeholdelse af gulve og lignende",disco_codes,high,danish
+LAB_disco_713300,LAB,disco,713300,Stukkatørarbejde,disco_codes,high,danish
+LAB_disco_713400,LAB,disco,713400,Isoleringsarbejde,disco_codes,high,danish
+LAB_disco_713500,LAB,disco,713500,Glarmesterarbejde,disco_codes,high,danish
+LAB_disco_713600,LAB,disco,713600,Vvs-arbejde,disco_codes,high,danish
+LAB_disco_713700,LAB,disco,713700,Elektrikerarbejde,disco_codes,high,danish
+LAB_disco_713900,LAB,disco,713900,"Andet bygningshåndværk, fx køkkenmontering",disco_codes,high,danish
+LAB_disco_714000,LAB,disco,714000,Malerarbejde og bygningsrengøring,disco_codes,high,danish
+LAB_disco_714100,LAB,disco,714100,Maler- og tapetsererarbejde,disco_codes,high,danish
+LAB_disco_714110,LAB,disco,714110,Bygningsmaler- og tapetsererarbejde,disco_codes,high,danish
+LAB_disco_714120,LAB,disco,714120,Skibsmalerarbejde,disco_codes,high,danish
+LAB_disco_714130,LAB,disco,714130,Skiltemalerarbejde,disco_codes,high,danish
+LAB_disco_714190,LAB,disco,714190,Andet malerarbejde,disco_codes,high,danish
+LAB_disco_714200,LAB,disco,714200,Sprøjtelakeringsarbejde,disco_codes,high,danish
+LAB_disco_714300,LAB,disco,714300,Bygningsrengøringsarbejde,disco_codes,high,danish
+LAB_disco_714310,LAB,disco,714310,Skorstensfejning,disco_codes,high,danish
+LAB_disco_714320,LAB,disco,714320,Kemisk rensning og sandblæsning af overflader,disco_codes,high,danish
+LAB_disco_720000,LAB,disco,720000,Metal- og maskinarbejde,disco_codes,high,danish
+LAB_disco_721000,LAB,disco,721000,Svejsning og anden forarbejdning af metalemner samt dykkerarbejde,disco_codes,high,danish
+LAB_disco_721100,LAB,disco,721100,Formningsarbejde,disco_codes,high,danish
+LAB_disco_721200,LAB,disco,721200,Svejsning,disco_codes,high,danish
+LAB_disco_721300,LAB,disco,721300,Tyndpladearbejde,disco_codes,high,danish
+LAB_disco_721400,LAB,disco,721400,Stålkonstruktionsarbejde,disco_codes,high,danish
+LAB_disco_721500,LAB,disco,721500,Rigger- og kabelsplejsningsarbejde,disco_codes,high,danish
+LAB_disco_721600,LAB,disco,721600,Dykkerarbejde vedr. reparation o.l.,disco_codes,high,danish
+LAB_disco_722000,LAB,disco,722000,"Grovsmede-, værktøjsmagerarbejde o.l.",disco_codes,high,danish
+LAB_disco_722100,LAB,disco,722100,Grovsmedearbejde,disco_codes,high,danish
+LAB_disco_722200,LAB,disco,722200,Værktøjsmager- og klejnsmedearbejde,disco_codes,high,danish
+LAB_disco_722300,LAB,disco,722300,Maskinelt præcisionsarbejde i metal og indstilling af metalforarbejdningsmaskiner,disco_codes,high,danish
+LAB_disco_722400,LAB,disco,722400,Polerings- og slibearbejde i metal,disco_codes,high,danish
+LAB_disco_723000,LAB,disco,723000,Mekaniker- og montørarbejde,disco_codes,high,danish
+LAB_disco_723100,LAB,disco,723100,Automekaniker- og automontørarbejde,disco_codes,high,danish
+LAB_disco_723110,LAB,disco,723110,"Automekanikerarbejde, person- og varevogne",disco_codes,high,danish
+LAB_disco_723120,LAB,disco,723120,"Automekanikerarbejde, lastvogne",disco_codes,high,danish
+LAB_disco_723190,LAB,disco,723190,Automekaniker- og automontørarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_723200,LAB,disco,723200,Flymekaniker- og flymontørarbejde,disco_codes,high,danish
+LAB_disco_723300,LAB,disco,723300,"Mekaniker- og montørarbejde, andre motorer, maskiner og anlæg",disco_codes,high,danish
+LAB_disco_723310,LAB,disco,723310,Kølemontørarbejde,disco_codes,high,danish
+LAB_disco_723390,LAB,disco,723390,Mekaniker- og montørarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_724000,LAB,disco,724000,Elektro? og elektronikmekanikerarbejde mv.,disco_codes,high,danish
+LAB_disco_724100,LAB,disco,724100,Elektromekanikerarbejde,disco_codes,high,danish
+LAB_disco_724200,LAB,disco,724200,Montørarbejde vedr. elektronik,disco_codes,high,danish
+LAB_disco_724300,LAB,disco,724300,Elektronikmekanikerarbejde,disco_codes,high,danish
+LAB_disco_724400,LAB,disco,724400,Telefon- og telegrafmekanikerarbejde,disco_codes,high,danish
+LAB_disco_724500,LAB,disco,724500,Kabelmontørarbejde,disco_codes,high,danish
+LAB_disco_730000,LAB,disco,730000,"Præcisionshåndværk, grafisk arbejde o.l.",disco_codes,high,danish
+LAB_disco_731000,LAB,disco,731000,Præcisionshåndværk i metal og andre materialer,disco_codes,high,danish
+LAB_disco_731100,LAB,disco,731100,Finmekanisk arbejde mv.,disco_codes,high,danish
+LAB_disco_731110,LAB,disco,731110,Instrument- og urmagerarbejde o.l.,disco_codes,high,danish
+LAB_disco_731120,LAB,disco,731120,Fremstilling af ortopædiske hjælpemidler,disco_codes,high,danish
+LAB_disco_731130,LAB,disco,731130,Tandteknikerarbejde,disco_codes,high,danish
+LAB_disco_731200,LAB,disco,731200,Musikinstrumentbygger- og stemmearbejde,disco_codes,high,danish
+LAB_disco_731300,LAB,disco,731300,"Juveler-, guld- og sølvsmedearbejde",disco_codes,high,danish
+LAB_disco_732000,LAB,disco,732000,"Glas-, keramik- og teglarbejde",disco_codes,high,danish
+LAB_disco_732100,LAB,disco,732100,"Pottemager-, dreje- og støbearbejde",disco_codes,high,danish
+LAB_disco_732200,LAB,disco,732200,Glasblæserarbejde,disco_codes,high,danish
+LAB_disco_732300,LAB,disco,732300,Glasætsnings- og sandblæsningsarbejde,disco_codes,high,danish
+LAB_disco_732400,LAB,disco,732400,Glas- og porcelænsmalingsarbejde,disco_codes,high,danish
+LAB_disco_733000,LAB,disco,733000,"Håndarbejde i træ, tekstil o.l.",disco_codes,high,danish
+LAB_disco_733100,LAB,disco,733100,Håndarbejde i træ o.l. materiale,disco_codes,high,danish
+LAB_disco_733200,LAB,disco,733200,Håndarbejde i tekstil og læder,disco_codes,high,danish
+LAB_disco_734000,LAB,disco,734000,"Formfremstilling, håndbogbinding og serigrafi",disco_codes,high,danish
+LAB_disco_734100,LAB,disco,734100,Grafisk formfremstilling,disco_codes,high,danish
+LAB_disco_734200,LAB,disco,734200,Stereotypi- og elektrotypiarbejde,disco_codes,high,danish
+LAB_disco_734300,LAB,disco,734300,Gravør- og ætserarbejde,disco_codes,high,danish
+LAB_disco_734400,LAB,disco,734400,"Andet fototeknisk arbejde, fx filmfremkaldelse",disco_codes,high,danish
+LAB_disco_734410,LAB,disco,734410,2003 repofotografisk arbejde,disco_codes,high,danish
+LAB_disco_734490,LAB,disco,734490,2003 andet fototeknisk arbejde (mørkekammerarbejde),disco_codes,high,danish
+LAB_disco_734500,LAB,disco,734500,Håndbogbinding,disco_codes,high,danish
+LAB_disco_734600,LAB,disco,734600,Serigrafisk arbejde,disco_codes,high,danish
+LAB_disco_740000,LAB,disco,740000,Andet håndværkspræget arbejde,disco_codes,high,danish
+LAB_disco_741000,LAB,disco,741000,Arbejde inden for nærings- og nydelsesmiddelindustri,disco_codes,high,danish
+LAB_disco_741100,LAB,disco,741100,Slagterarbejde og behandling af fisk,disco_codes,high,danish
+LAB_disco_741110,LAB,disco,741110,"Fiskefiletering, håndfiletering",disco_codes,high,danish
+LAB_disco_741120,LAB,disco,741120,Behandling af skaldyr,disco_codes,high,danish
+LAB_disco_741130,LAB,disco,741130,Røgearbejde,disco_codes,high,danish
+LAB_disco_741140,LAB,disco,741140,Slagterarbejde vedr. butik o.l.,disco_codes,high,danish
+LAB_disco_741200,LAB,disco,741200,"Bager-, konfekture- og chokoladearbejde",disco_codes,high,danish
+LAB_disco_741300,LAB,disco,741300,Mejeriarbejde,disco_codes,high,danish
+LAB_disco_741400,LAB,disco,741400,Konservering af frugt og grønt samt juicefremstilling,disco_codes,high,danish
+LAB_disco_741500,LAB,disco,741500,Prøvesmagningsarbejde,disco_codes,high,danish
+LAB_disco_741600,LAB,disco,741600,Tobaksproduktionsarbejde,disco_codes,high,danish
+LAB_disco_742000,LAB,disco,742000,Træindustriarbejde,disco_codes,high,danish
+LAB_disco_742100,LAB,disco,742100,Træimprægneringsarbejde,disco_codes,high,danish
+LAB_disco_742200,LAB,disco,742200,Bødker- og møbelsnedkerarbejde,disco_codes,high,danish
+LAB_disco_742300,LAB,disco,742300,Opstilling og betjening af maskiner inden for træindustri,disco_codes,high,danish
+LAB_disco_742400,LAB,disco,742400,Kurvemager- og børstenbinderarbejde o.l.,disco_codes,high,danish
+LAB_disco_743000,LAB,disco,743000,Tekstil- og beklædningsarbejde,disco_codes,high,danish
+LAB_disco_743100,LAB,disco,743100,Garnforberedende arbejde (håndarbejde),disco_codes,high,danish
+LAB_disco_743200,LAB,disco,743200,"Spinde-, væve- og strikkearbejde (håndarbejde)",disco_codes,high,danish
+LAB_disco_743300,LAB,disco,743300,"Skrædderarbejde, modister og hattemagere",disco_codes,high,danish
+LAB_disco_743400,LAB,disco,743400,Buntmagerarbejde,disco_codes,high,danish
+LAB_disco_743500,LAB,disco,743500,Tilskærerarbejde (ikke maskinelt),disco_codes,high,danish
+LAB_disco_743600,LAB,disco,743600,Sy- og broderiarbejde (ikke maskinelt),disco_codes,high,danish
+LAB_disco_743700,LAB,disco,743700,"Møbelpolstre-, autosadelmagerarbejde",disco_codes,high,danish
+LAB_disco_744000,LAB,disco,744000,"Skind-, læder- og skotøjsarbejde",disco_codes,high,danish
+LAB_disco_744100,LAB,disco,744100,Garveriarbejde,disco_codes,high,danish
+LAB_disco_744200,LAB,disco,744200,Skomager- og læderarbejde,disco_codes,high,danish
+LAB_disco_800000,LAB,disco,800000,Proces- og maskinoperatørarbejde samt transport- og anlægsarbejde,disco_codes,high,danish
+LAB_disco_810000,LAB,disco,810000,Arbejde med stationære procesanlæg,disco_codes,high,danish
+LAB_disco_811000,LAB,disco,811000,Mine- og mineraludvindingsanlægsarbejde,disco_codes,high,danish
+LAB_disco_811100,LAB,disco,811100,Mineanlægsarbejde,disco_codes,high,danish
+LAB_disco_811200,LAB,disco,811200,"Mineral- og stenbrudsanlægsarbejde, ekskl. varmebehandlingsanlæg",disco_codes,high,danish
+LAB_disco_811300,LAB,disco,811300,"Olie-, gas- og andet boreanlægsarbejde",disco_codes,high,danish
+LAB_disco_812000,LAB,disco,812000,Jern- og metalværkanlæg og støberianlægsarbejde,disco_codes,high,danish
+LAB_disco_812100,LAB,disco,812100,Smelteovnsarbejde,disco_codes,high,danish
+LAB_disco_812200,LAB,disco,812200,Stålværksarbejde,disco_codes,high,danish
+LAB_disco_812300,LAB,disco,812300,Støberiarbejde,disco_codes,high,danish
+LAB_disco_812400,LAB,disco,812400,Tråd- og rørtrækning,disco_codes,high,danish
+LAB_disco_813000,LAB,disco,813000,"Glas-, keramik- og teglprocesanlægsarbejde",disco_codes,high,danish
+LAB_disco_813100,LAB,disco,813100,Operatør ved glas- og keramikovne,disco_codes,high,danish
+LAB_disco_813900,LAB,disco,813900,"Andre procesoperatører ved glas-, keramik- og teglproduktion",disco_codes,high,danish
+LAB_disco_814000,LAB,disco,814000,Træ- og papirprocesanlægsarbejde,disco_codes,high,danish
+LAB_disco_814100,LAB,disco,814100,Forarbejdning af træ til yderligere bearbejdning,disco_codes,high,danish
+LAB_disco_814200,LAB,disco,814200,Operatør ved papirmasseprocesanlæg,disco_codes,high,danish
+LAB_disco_814300,LAB,disco,814300,Operatør ved papirfremstillingsanlæg,disco_codes,high,danish
+LAB_disco_815000,LAB,disco,815000,Kemisk procesanlægsarbejde,disco_codes,high,danish
+LAB_disco_815100,LAB,disco,815100,"Knuse-, blandings- og procesanlægsarbejde o.l.",disco_codes,high,danish
+LAB_disco_815200,LAB,disco,815200,Operatør ved varmebehandlingsanlæg i kemisk- og mineralindustri,disco_codes,high,danish
+LAB_disco_815300,LAB,disco,815300,Operatør ved filtrerings- og separeringsanlæg,disco_codes,high,danish
+LAB_disco_815400,LAB,disco,815400,Destilleringsarbejde,disco_codes,high,danish
+LAB_disco_815500,LAB,disco,815500,Benzin- og naturgasraffinering,disco_codes,high,danish
+LAB_disco_815900,LAB,disco,815900,Øvrige procesoperatørarbejde,disco_codes,high,danish
+LAB_disco_816000,LAB,disco,816000,Energi- og vandforsyningsanlægsarbejde,disco_codes,high,danish
+LAB_disco_816100,LAB,disco,816100,Elværksoperatørarbejde,disco_codes,high,danish
+LAB_disco_816200,LAB,disco,816200,Kedelpasning,disco_codes,high,danish
+LAB_disco_816300,LAB,disco,816300,Operatør ved forbrændings- og vandforsyningsanlæg,disco_codes,high,danish
+LAB_disco_817000,LAB,disco,817000,Industrirobotoperatører,disco_codes,high,danish
+LAB_disco_820000,LAB,disco,820000,Betjening af industrimaskiner,disco_codes,high,danish
+LAB_disco_821000,LAB,disco,821000,Betjening af maskiner inden for metal- og mineralindustri,disco_codes,high,danish
+LAB_disco_821100,LAB,disco,821100,Betjening af metalforarbejdningsmaskiner,disco_codes,high,danish
+LAB_disco_821200,LAB,disco,821200,Betjening af maskiner i mineralindustri,disco_codes,high,danish
+LAB_disco_822000,LAB,disco,822000,Betjening af maskiner inden for kemisk industri,disco_codes,high,danish
+LAB_disco_822100,LAB,disco,822100,"Betjening af maskiner i medicinalvare-, sæbe- og kosmetikindustrien",disco_codes,high,danish
+LAB_disco_822200,LAB,disco,822200,Betjening af maskiner ved ammunitions- og krudtværksproduktion,disco_codes,high,danish
+LAB_disco_822300,LAB,disco,822300,Betjening af maskiner ved galvanisering og industrilakering,disco_codes,high,danish
+LAB_disco_822400,LAB,disco,822400,Betjening af maskiner til produktion af fotografiske artikler,disco_codes,high,danish
+LAB_disco_822900,LAB,disco,822900,Betjening af maskiner ved andet kemisk arbejde,disco_codes,high,danish
+LAB_disco_823000,LAB,disco,823000,Betjening af maskiner inden for gummi-og plastindustri,disco_codes,high,danish
+LAB_disco_823100,LAB,disco,823100,Betjening af maskiner i gummivareindustrien,disco_codes,high,danish
+LAB_disco_823200,LAB,disco,823200,Betjening af maskiner inden for plastindustri,disco_codes,high,danish
+LAB_disco_823210,LAB,disco,823210,Betjening af maskiner ved produktion af plast,disco_codes,high,danish
+LAB_disco_823220,LAB,disco,823220,Betjening af maskiner ved produktion af plastprodukter,disco_codes,high,danish
+LAB_disco_824000,LAB,disco,824000,Betjening af maskiner vedr. færdige produkter i træ,disco_codes,high,danish
+LAB_disco_825000,LAB,disco,825000,Betjening af maskiner inden for grafisk- og papirvareindustri,disco_codes,high,danish
+LAB_disco_825100,LAB,disco,825100,Betjening af trykmaskiner,disco_codes,high,danish
+LAB_disco_825110,LAB,disco,825110,"Betjening af trykmaskiner, ark",disco_codes,high,danish
+LAB_disco_825120,LAB,disco,825120,"Betjening af trykmaskiner, rotation",disco_codes,high,danish
+LAB_disco_825130,LAB,disco,825130,"Betjening af trykmaskiner, digitaltryk og -print",disco_codes,high,danish
+LAB_disco_825200,LAB,disco,825200,Betjening af bogbinderimaskiner,disco_codes,high,danish
+LAB_disco_825300,LAB,disco,825300,Betjening af papirbearbejdningsmaskiner,disco_codes,high,danish
+LAB_disco_826000,LAB,disco,826000,"Betjening af maskiner inden for tekstil-, skind- og læderindustri",disco_codes,high,danish
+LAB_disco_826100,LAB,disco,826100,"Betjening af maskiner i garnforberedende arbejde, spinderiarbejde",disco_codes,high,danish
+LAB_disco_826200,LAB,disco,826200,Betjening af væve- og strikkemaskiner,disco_codes,high,danish
+LAB_disco_826300,LAB,disco,826300,Betjening af symaskiner,disco_codes,high,danish
+LAB_disco_826400,LAB,disco,826400,Betjening af maskiner til efterbehandlingsarbejde,disco_codes,high,danish
+LAB_disco_826500,LAB,disco,826500,Betjening af maskiner til garvning og pelsberedningsarbejde,disco_codes,high,danish
+LAB_disco_826600,LAB,disco,826600,Betjening af maskiner til skoproduktion,disco_codes,high,danish
+LAB_disco_826900,LAB,disco,826900,"Betjening af andre maskiner inden for tekstil-, skind- og læderindustri",disco_codes,high,danish
+LAB_disco_826910,LAB,disco,826910,Maskinel tilskæring af tekstilvarer,disco_codes,high,danish
+LAB_disco_826920,LAB,disco,826920,Betjening af rebslagerimaskiner,disco_codes,high,danish
+LAB_disco_826930,LAB,disco,826930,Betjening af vodbindingsmaskiner,disco_codes,high,danish
+LAB_disco_826940,LAB,disco,826940,Betjening af lædervaremaskiner ekskl. skoproduktion,disco_codes,high,danish
+LAB_disco_826990,LAB,disco,826990,"Øvrigt maskinarbejde inden for tekstil-, skind- og læderindustri",disco_codes,high,danish
+LAB_disco_827000,LAB,disco,827000,Betjening af maskiner inden for nærings- og nydelsesmiddelindustri,disco_codes,high,danish
+LAB_disco_827100,LAB,disco,827100,"Industrislagtning, maskinel behandling af råvarer inden for fiskeindustri mv.",disco_codes,high,danish
+LAB_disco_827110,LAB,disco,827110,"Industrielt slagteriarbejde, behandling af råvarer (ekskl. fjerkræ)",disco_codes,high,danish
+LAB_disco_827120,LAB,disco,827120,"Fjerkræslagteriarbejde, behandling af råvarer",disco_codes,high,danish
+LAB_disco_827130,LAB,disco,827130,Maskinel behandling af råvarer inden for fiskeindustrien,disco_codes,high,danish
+LAB_disco_827140,LAB,disco,827140,"Færdigvareproduktion, kød-, fjerkræ- og fiskeprodukter",disco_codes,high,danish
+LAB_disco_827200,LAB,disco,827200,Betjening af maskiner i mejeriproduktion,disco_codes,high,danish
+LAB_disco_827300,LAB,disco,827300,Betjening af maskiner på møllerier,disco_codes,high,danish
+LAB_disco_827400,LAB,disco,827400,Betjening af bageri- og sukkervareproduktionsmaskiner,disco_codes,high,danish
+LAB_disco_827500,LAB,disco,827500,Betjening af maskiner i frugt- og grøntkonservesproduktion og margarinefremstilling,disco_codes,high,danish
+LAB_disco_827600,LAB,disco,827600,Betjening af maskiner i sukkerproduktion,disco_codes,high,danish
+LAB_disco_827700,LAB,disco,827700,"Betjening af maskiner ved te-, kaffe- og kakaoristningsproduktion",disco_codes,high,danish
+LAB_disco_827800,LAB,disco,827800,Betjening af maskiner i bryggeriproduktion,disco_codes,high,danish
+LAB_disco_827900,LAB,disco,827900,Betjening af maskiner i tobaksindustrien,disco_codes,high,danish
+LAB_disco_828000,LAB,disco,828000,Monterings- og samlebåndsarbejde,disco_codes,high,danish
+LAB_disco_828100,LAB,disco,828100,Montering af me­kaniske maskiner,disco_codes,high,danish
+LAB_disco_828200,LAB,disco,828200,Montering af elektrisk udstyr,disco_codes,high,danish
+LAB_disco_828300,LAB,disco,828300,Montering af elektronisk udstyr,disco_codes,high,danish
+LAB_disco_828400,LAB,disco,828400,"Monterings- og samlebåndsarbejde inden for metal-, gummi- og plastproduktion",disco_codes,high,danish
+LAB_disco_828500,LAB,disco,828500,Monterings- og samlebåndsarbejde inden for træproduktion,disco_codes,high,danish
+LAB_disco_828600,LAB,disco,828600,"Samlebåndsarbejde inden for papir-, tekstil- og tilsvarende produktion",disco_codes,high,danish
+LAB_disco_828700,LAB,disco,828700,Andet monterings og samlebåndsarbejde,disco_codes,high,danish
+LAB_disco_829000,LAB,disco,829000,Betjening af andre maskiner og kvalitetskontrol af varer i produktionen,disco_codes,high,danish
+LAB_disco_829010,LAB,disco,829010,Maskinel pakning og mærkning,disco_codes,high,danish
+LAB_disco_829020,LAB,disco,829020,Kontrol af varer før bearbejdning,disco_codes,high,danish
+LAB_disco_829030,LAB,disco,829030,Kontrol af varer efter bearbejdning,disco_codes,high,danish
+LAB_disco_829090,LAB,disco,829090,Betjening af øvrige maskiner,disco_codes,high,danish
+LAB_disco_830000,LAB,disco,830000,Transport- og anlægsarbejde,disco_codes,high,danish
+LAB_disco_831000,LAB,disco,831000,Jernbanedrift,disco_codes,high,danish
+LAB_disco_831100,LAB,disco,831100,Lokomotiv- og elektroførerarbejde,disco_codes,high,danish
+LAB_disco_831200,LAB,disco,831200,Betjent- og rangerarbejde,disco_codes,high,danish
+LAB_disco_831210,LAB,disco,831210,Betjent- og rangerarbejde,disco_codes,high,danish
+LAB_disco_832000,LAB,disco,832000,Chaufførarbejde,disco_codes,high,danish
+LAB_disco_832100,LAB,disco,832100,Motorcykelbude,disco_codes,high,danish
+LAB_disco_832200,LAB,disco,832200,Hyre- og varevognschauffører,disco_codes,high,danish
+LAB_disco_832210,LAB,disco,832210,Hyrevognschauffører og anden persontransport,disco_codes,high,danish
+LAB_disco_832220,LAB,disco,832220,Hyrevognschauffører med godstransport,disco_codes,high,danish
+LAB_disco_832230,LAB,disco,832230,"Varevognschauffører med farligt gods, national transport",disco_codes,high,danish
+LAB_disco_832240,LAB,disco,832240,"Varevognschauffører med farligt gods, international transport",disco_codes,high,danish
+LAB_disco_832250,LAB,disco,832250,Varevognschauffører med flytteopgaver,disco_codes,high,danish
+LAB_disco_832260,LAB,disco,832260,Varevognschauffører med renovationsopgaver,disco_codes,high,danish
+LAB_disco_832270,LAB,disco,832270,Varevognschauffører med salgs- og repræsentationsopgaver,disco_codes,high,danish
+LAB_disco_832280,LAB,disco,832280,"Andre varevognschauffører, national transport",disco_codes,high,danish
+LAB_disco_832290,LAB,disco,832290,"Andre varevognschauffører, international transport",disco_codes,high,danish
+LAB_disco_832300,LAB,disco,832300,Buschauffører,disco_codes,high,danish
+LAB_disco_832310,LAB,disco,832310,"Buschauffører, national rutefart",disco_codes,high,danish
+LAB_disco_832320,LAB,disco,832320,"Buschauffører, national turistfart",disco_codes,high,danish
+LAB_disco_832330,LAB,disco,832330,"Buschauffører, international rutefart",disco_codes,high,danish
+LAB_disco_832340,LAB,disco,832340,"Buschauffører, international turistfart",disco_codes,high,danish
+LAB_disco_832400,LAB,disco,832400,Last- og tankbilschauffører,disco_codes,high,danish
+LAB_disco_832410,LAB,disco,832410,"Last- og tankbilschauffører med farligt gods, national transport",disco_codes,high,danish
+LAB_disco_832420,LAB,disco,832420,"Last- og tankbilschauffører med farligt gods, international transport",disco_codes,high,danish
+LAB_disco_832430,LAB,disco,832430,Last- og tankbilschauffører med flytteopgaver,disco_codes,high,danish
+LAB_disco_832440,LAB,disco,832440,Last- og tankbilschauffører med renovationsopgaver,disco_codes,high,danish
+LAB_disco_832450,LAB,disco,832450,Last- og tankbilschauffører med salgs- og repræsentationsopgaver,disco_codes,high,danish
+LAB_disco_832460,LAB,disco,832460,"Andre last- og tankbilschauffører, national transport",disco_codes,high,danish
+LAB_disco_832470,LAB,disco,832470,"Andre last- og tankbilschauffører, international transport",disco_codes,high,danish
+LAB_disco_833000,LAB,disco,833000,Arbejde med andre mobile maskiner og køretøjer,disco_codes,high,danish
+LAB_disco_833100,LAB,disco,833100,Landbrugsmaskinførere,disco_codes,high,danish
+LAB_disco_833200,LAB,disco,833200,Entreprenørmaskinførere,disco_codes,high,danish
+LAB_disco_833300,LAB,disco,833300,Kran- og liftførerarbejde,disco_codes,high,danish
+LAB_disco_833310,LAB,disco,833310,Kranførere ved stationære kraner,disco_codes,high,danish
+LAB_disco_833320,LAB,disco,833320,Kran- og liftførere ved mobile kraner og lifte,disco_codes,high,danish
+LAB_disco_833400,LAB,disco,833400,Truckførere,disco_codes,high,danish
+LAB_disco_834000,LAB,disco,834000,Dæksarbejde og medhjælperarbejde ombord på skibe,disco_codes,high,danish
+LAB_disco_900000,LAB,disco,900000,Andet arbejde,disco_codes,high,danish
+LAB_disco_910000,LAB,disco,910000,"Rengørings- og renovationsarbejde, bud- og vagttjeneste, telefon- og dørsalg m.v.",disco_codes,high,danish
+LAB_disco_911000,LAB,disco,911000,Salg og service fra gade eller telefon,disco_codes,high,danish
+LAB_disco_911300,LAB,disco,911300,salgs- og servicearbejde fra gade eller telefon,disco_codes,high,danish
+LAB_disco_911310,LAB,disco,911310,Dør- og telefonsalg,disco_codes,high,danish
+LAB_disco_911320,LAB,disco,911320,"Interviewarbejde vedr. undersøgelser, herunder personlig henvendelse",disco_codes,high,danish
+LAB_disco_912000,LAB,disco,912000,Skopudsning o.l. gadeservicearbejde,disco_codes,high,danish
+LAB_disco_913000,LAB,disco,913000,Rengørings- og køkkenhjælpsarbejde,disco_codes,high,danish
+LAB_disco_913100,LAB,disco,913100,Rengørings- og køkkenhjælpsarbejde i private hjem,disco_codes,high,danish
+LAB_disco_913200,LAB,disco,913200,"Rengøring, køkkenhjælp mv. (ikke private hjem)",disco_codes,high,danish
+LAB_disco_913210,LAB,disco,913210,Rengøring af kontorer og beboelsesområder,disco_codes,high,danish
+LAB_disco_913220,LAB,disco,913220,Rengøring på hospitaler o.l.,disco_codes,high,danish
+LAB_disco_913230,LAB,disco,913230,Rengøring af fabrikslokaler o.l.,disco_codes,high,danish
+LAB_disco_913240,LAB,disco,913240,Medhjælp i køkken,disco_codes,high,danish
+LAB_disco_913245,LAB,disco,913245,Afrydder i restauranter o.l.,disco_codes,high,danish
+LAB_disco_913250,LAB,disco,913250,Klargøring af værelser på hoteller o.l.,disco_codes,high,danish
+LAB_disco_913260,LAB,disco,913260,"Rengøring af passagerområder i fly, tog og busser",disco_codes,high,danish
+LAB_disco_913270,LAB,disco,913270,"Serviceassistentarbejde, tværgående serviceopgaver mv.",disco_codes,high,danish
+LAB_disco_913300,LAB,disco,913300,Vaskeri- og renseriarbejde,disco_codes,high,danish
+LAB_disco_914000,LAB,disco,914000,Vedligeholdelse af bygninger og anlæg samt vinduespolering o.l.,disco_codes,high,danish
+LAB_disco_914100,LAB,disco,914100,Ejendomsservice og pedelarbejde,disco_codes,high,danish
+LAB_disco_914111,LAB,disco,914111,Ejendomsserviceassistentarbejde,disco_codes,high,danish
+LAB_disco_914112,LAB,disco,914112,Arbejde som gårdmand o.l.,disco_codes,high,danish
+LAB_disco_914113,LAB,disco,914113,Pedelarbejde på skoler o.l.,disco_codes,high,danish
+LAB_disco_914200,LAB,disco,914200,Vinduespolering og klargøring af biler,disco_codes,high,danish
+LAB_disco_914210,LAB,disco,914210,Vinduespolering,disco_codes,high,danish
+LAB_disco_914220,LAB,disco,914220,Rengøring og klargøring af biler,disco_codes,high,danish
+LAB_disco_915000,LAB,disco,915000,"Budtjeneste, vagtarbejde og måleraflæsning o.l.",disco_codes,high,danish
+LAB_disco_915100,LAB,disco,915100,"Bude, dragere o.l.",disco_codes,high,danish
+LAB_disco_915200,LAB,disco,915200,"Dørvogtere, billettering og opsyn o.l.",disco_codes,high,danish
+LAB_disco_915300,LAB,disco,915300,"Måleraflæsning, automattømning",disco_codes,high,danish
+LAB_disco_916000,LAB,disco,916000,Renovationsarbejde ekskl. kørsel af renovationsvogne,disco_codes,high,danish
+LAB_disco_916100,LAB,disco,916100,Renovationsarbejde,disco_codes,high,danish
+LAB_disco_916200,LAB,disco,916200,"Gadefejere, snerydning o.l.",disco_codes,high,danish
+LAB_disco_920000,LAB,disco,920000,"Medhjælp inden for landbrug, gartneri, fiskeri og skovbrug",disco_codes,high,danish
+LAB_disco_921000,LAB,disco,921000,"Medhjælp inden for landbrug, gartneri, fiskeri og skovbrug",disco_codes,high,danish
+LAB_disco_921100,LAB,disco,921100,"Landbrugs- og gartnerimedhjælperarbejde, frugtplukkerarbejde",disco_codes,high,danish
+LAB_disco_921200,LAB,disco,921200,Medhjælp ved skovbrug,disco_codes,high,danish
+LAB_disco_921300,LAB,disco,921300,"Medhjælp i fiskerierhverv på land, samt medhjælp ved jagt o.l.",disco_codes,high,danish
+LAB_disco_926200,LAB,disco,926200,DISCO occupational code: 926200,enhanced_english,medium,english
+LAB_disco_930000,LAB,disco,930000,"Manuelt arbejde inden for bygge- og anlægssektoren, fremstillingsvirksomhed samt transportsektoren",disco_codes,high,danish
+LAB_disco_931000,LAB,disco,931000,Manuelt arbejde inden for bygge- og anlægssektoren,disco_codes,high,danish
+LAB_disco_931100,LAB,disco,931100,Mine- og stenbrudsarbejde,disco_codes,high,danish
+LAB_disco_931200,LAB,disco,931200,Anlægsarbejde,disco_codes,high,danish
+LAB_disco_931210,LAB,disco,931210,Asfaltarbejde,disco_codes,high,danish
+LAB_disco_931220,LAB,disco,931220,Medhjælp ved brolæggerarbejde,disco_codes,high,danish
+LAB_disco_931230,LAB,disco,931230,Kabelarbejde,disco_codes,high,danish
+LAB_disco_931240,LAB,disco,931240,Montage af luftledninger,disco_codes,high,danish
+LAB_disco_931290,LAB,disco,931290,"Jord-, kloak- og andet anlægsarbejde",disco_codes,high,danish
+LAB_disco_931300,LAB,disco,931300,"Bygningsarbejde, medhjælp",disco_codes,high,danish
+LAB_disco_931310,LAB,disco,931310,Isoleringsarbejde uden særlige kvalifikationer,disco_codes,high,danish
+LAB_disco_931320,LAB,disco,931320,Tagdækningsarbejde uden særlige kvalifikationer,disco_codes,high,danish
+LAB_disco_931330,LAB,disco,931330,Medhjælp ved murerarbejde,disco_codes,high,danish
+LAB_disco_931340,LAB,disco,931340,Beton- jernbeton- og montagearbejde uden særlige kvalifikationer,disco_codes,high,danish
+LAB_disco_931390,LAB,disco,931390,Andet bygningsarbejde uden særlige kvalifikationer,disco_codes,high,danish
+LAB_disco_932000,LAB,disco,932000,Manuelt arbejde inden for fremstillingsvirksomhed,disco_codes,high,danish
+LAB_disco_932010,LAB,disco,932010,Manuelt pakningsarbejde,disco_codes,high,danish
+LAB_disco_932020,LAB,disco,932020,Andet industriarbejde uden betjening af stationære maskiner,disco_codes,high,danish
+LAB_disco_933000,LAB,disco,933000,Manuelt transport- og lagerarbejde m.v.,disco_codes,high,danish
+LAB_disco_933010,LAB,disco,933010,Lager- og pakhusarbejde,disco_codes,high,danish
+LAB_disco_933020,LAB,disco,933020,Lastning og losning af skibe ekskl. bulk og fisk,disco_codes,high,danish
+LAB_disco_933030,LAB,disco,933030,"Lastning og losning af skibe, bulk",disco_codes,high,danish
+LAB_disco_933040,LAB,disco,933040,"Lastning og losning af skibe, fisk",disco_codes,high,danish
+LAB_disco_933050,LAB,disco,933050,Håndtering af bagage og flyttegods,disco_codes,high,danish
+LAB_disco_933060,LAB,disco,933060,Medhjælp i butik mv. (uden kassearbejde),disco_codes,high,danish
+LAB_disco_933090,LAB,disco,933090,Medhjælp ved transportarbejde i øvrigt,disco_codes,high,danish
+LAB_disco_999900,LAB,disco,999900,Uoplyst,disco_codes,high,danish
+LAB_disco_999999,LAB,disco,999999,Uoplyst,disco_codes,high,danish

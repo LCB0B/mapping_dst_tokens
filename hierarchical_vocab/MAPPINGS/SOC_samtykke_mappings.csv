@@ -1,0 +1,16 @@
+value,description,code,token_id,source,mapped
+01,[UNMAPPED] SOC_samtykke code: 01,SOC_samtykke_01,41089,none,False
+02,[UNMAPPED] SOC_samtykke code: 02,SOC_samtykke_02,41091,none,False
+03,[UNMAPPED] SOC_samtykke code: 03,SOC_samtykke_03,41090,none,False
+04,[UNMAPPED] SOC_samtykke code: 04,SOC_samtykke_04,41092,none,False
+05,[UNMAPPED] SOC_samtykke code: 05,SOC_samtykke_05,41094,none,False
+06,[UNMAPPED] SOC_samtykke code: 06,SOC_samtykke_06,41093,none,False
+07,[UNMAPPED] SOC_samtykke code: 07,SOC_samtykke_07,41096,none,False
+08,[UNMAPPED] SOC_samtykke code: 08,SOC_samtykke_08,41095,none,False
+09,[UNMAPPED] SOC_samtykke code: 09,SOC_samtykke_09,41097,none,False
+10,"Decision of the Juvenile Delinquency Board without consent requirements (section 14, paragraphs 2 to 4, of the law on combating juvenile delinquency)",SOC_samtykke_10,41098,CSV:SOC_samtykke_from_raw,True
+11,"Preliminary decision, Chairman of the Children and Young People Committee (section 75, paragraph 1, of the law on social services, section 14, paragraphs 2 to 4, of the law on combating juvenile delinquency)",SOC_samtykke_11,41099,CSV:SOC_samtykke_from_raw,True
+12,"Decision of the Children and Young People Committee without consent (section 62 l, paragraph 1, of the Aliens Act)",SOC_samtykke_12,41100,CSV:SOC_samtykke_from_raw,True
+13,"Preliminary decision of the chairman of the children and young people committee (§ 62 l, paragraph 3, of the Aliens Act)",SOC_samtykke_13,41103,CSV:SOC_samtykke_from_raw,True
+14,[UNMAPPED] SOC_samtykke code: 14,SOC_samtykke_14,41101,none,False
+15,[UNMAPPED] SOC_samtykke code: 15,SOC_samtykke_15,41102,none,False

@@ -1,0 +1,6 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_relation_Child,DEM,relation,Child,Family relation: Child,enhanced_english,medium,english
+DEM_relation_Full sibling,DEM,relation,Full sibling,Family relation: Full sibling,enhanced_english,medium,english
+DEM_relation_Half-sibling,DEM,relation,Half-sibling,Family relation: Half-sibling,enhanced_english,medium,english
+DEM_relation_Parent,DEM,relation,Parent,Family relation: Parent,enhanced_english,medium,english
+DEM_relation_Sibling (unknown),DEM,relation,Sibling (unknown),Family relation: Sibling (unknown),enhanced_english,medium,english

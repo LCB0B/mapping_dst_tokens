@@ -1,0 +1,228 @@
+code,description
+DEM_statsb_0,Uoplyst (1)
+DEM_statsb_5001,Uoplyst (2)
+DEM_statsb_5100,Danmark
+DEM_statsb_5101,Grønland
+DEM_statsb_5102,Udlandet uoplyst
+DEM_statsb_5103,Statsløs
+DEM_statsb_5104,Finland
+DEM_statsb_5105,"Island, ligeret dansk"
+DEM_statsb_5106,Island
+DEM_statsb_5107,Liechtenstein
+DEM_statsb_5108,Luxembourg
+DEM_statsb_5109,Monaco
+DEM_statsb_5110,Norge
+DEM_statsb_5114,Europa uoplyst
+DEM_statsb_5115,Kongelig
+DEM_statsb_5120,Sverige
+DEM_statsb_5122,Albanien
+DEM_statsb_5124,Andorra
+DEM_statsb_5126,Belgien
+DEM_statsb_5128,Bulgarien
+DEM_statsb_5129,Tjekkoslovakiet
+DEM_statsb_5130,Frankrig
+DEM_statsb_5134,Grækenland
+DEM_statsb_5140,Nederlandene
+DEM_statsb_5142,Irland
+DEM_statsb_5150,Italien
+DEM_statsb_5151,Serbien og Montenegro
+DEM_statsb_5152,Jugoslavien
+DEM_statsb_5153,Malta
+DEM_statsb_5154,Polen
+DEM_statsb_5156,Portugal
+DEM_statsb_5157,Palæstina
+DEM_statsb_5158,Rumænien
+DEM_statsb_5159,San Marino
+DEM_statsb_5160,Schweiz
+DEM_statsb_5162,Sovjetunionen
+DEM_statsb_5164,Spanien
+DEM_statsb_5170,Storbritannien
+DEM_statsb_5172,Tyrkiet
+DEM_statsb_5174,Ungarn
+DEM_statsb_5176,Vatikanstaten
+DEM_statsb_5180,Tyskland
+DEM_statsb_5182,Østrig
+DEM_statsb_5199,Europa uoplyst
+DEM_statsb_5202,Algeriet
+DEM_statsb_5204,Angola
+DEM_statsb_5207,Botswana
+DEM_statsb_5213,Burundi
+DEM_statsb_5214,Etiopien
+DEM_statsb_5215,Comorerne
+DEM_statsb_5216,Eritrea
+DEM_statsb_5222,Gambia
+DEM_statsb_5223,Gaza
+DEM_statsb_5228,Ghana
+DEM_statsb_5230,Ækvatorialguinea
+DEM_statsb_5231,Guinea-Bissau
+DEM_statsb_5232,Guinea
+DEM_statsb_5233,Kap Verde
+DEM_statsb_5234,Kenya
+DEM_statsb_5235,Lesotho
+DEM_statsb_5236,Liberia
+DEM_statsb_5238,Libyen
+DEM_statsb_5240,Mozambique
+DEM_statsb_5242,Madagaskar
+DEM_statsb_5243,Mali
+DEM_statsb_5244,Marokko
+DEM_statsb_5245,Mauritius
+DEM_statsb_5246,Nigeria
+DEM_statsb_5247,Namibia
+DEM_statsb_5248,Marshalløerne
+DEM_statsb_5255,Sierra Leone
+DEM_statsb_5258,Sudan
+DEM_statsb_5259,Eswatini
+DEM_statsb_5260,Sydsudan
+DEM_statsb_5262,Sydafrika
+DEM_statsb_5266,Tanzania
+DEM_statsb_5268,Tunesien
+DEM_statsb_5269,Uganda
+DEM_statsb_5272,Egypten
+DEM_statsb_5273,Tuvalu
+DEM_statsb_5274,Kiribati
+DEM_statsb_5275,Vanuatu
+DEM_statsb_5276,Centralafrikanske Republik
+DEM_statsb_5277,Cameroun
+DEM_statsb_5278,"Congo, Demokratiske Republik"
+DEM_statsb_5279,"Congo, Republikken"
+DEM_statsb_5281,Benin
+DEM_statsb_5282,Elfenbenskysten
+DEM_statsb_5283,Gabon
+DEM_statsb_5284,Mauretanien
+DEM_statsb_5285,Niger
+DEM_statsb_5287,Rwanda
+DEM_statsb_5288,Senegal
+DEM_statsb_5289,Somalia
+DEM_statsb_5292,Tchad
+DEM_statsb_5293,Togo
+DEM_statsb_5294,Burkina Faso
+DEM_statsb_5295,Zimbabwe
+DEM_statsb_5296,Zambia
+DEM_statsb_5297,Malawi
+DEM_statsb_5298,Seychellerne
+DEM_statsb_5299,Afrika uoplyst
+DEM_statsb_5302,Argentina
+DEM_statsb_5303,Bahamas
+DEM_statsb_5304,Bolivia
+DEM_statsb_5305,Barbados
+DEM_statsb_5306,Brasilien
+DEM_statsb_5308,Guyana
+DEM_statsb_5309,Antigua og Barbuda
+DEM_statsb_5310,Nauru
+DEM_statsb_5311,Skt. Vincent og Grenadinerne
+DEM_statsb_5314,Canada
+DEM_statsb_5316,Chile
+DEM_statsb_5318,Colombia
+DEM_statsb_5319,Syd- og Mellemamerika uoplyst
+DEM_statsb_5322,Costa Rica
+DEM_statsb_5324,Cuba
+DEM_statsb_5326,Dominikanske Republik
+DEM_statsb_5328,Ecuador
+DEM_statsb_5338,Guatemala
+DEM_statsb_5339,Grenada
+DEM_statsb_5342,Haiti
+DEM_statsb_5344,Surinam
+DEM_statsb_5345,Dominica
+DEM_statsb_5347,Skt. Lucia
+DEM_statsb_5348,Honduras
+DEM_statsb_5352,Jamaica
+DEM_statsb_5354,Mexico
+DEM_statsb_5356,Nicaragua
+DEM_statsb_5358,Panama
+DEM_statsb_5364,Paraguay
+DEM_statsb_5366,Peru
+DEM_statsb_5372,El Salvador
+DEM_statsb_5374,Trinidad og Tobago
+DEM_statsb_5376,Uruguay
+DEM_statsb_5390,USA
+DEM_statsb_5392,Venezuela
+DEM_statsb_5393,Vestbredden
+DEM_statsb_5395,Vestindiske Øer
+DEM_statsb_5397,Nordamerika uoplyst
+DEM_statsb_5398,Syd- og Mellemamerika uoplyst
+DEM_statsb_5402,Yemen
+DEM_statsb_5403,Forenede Arabiske Emirater
+DEM_statsb_5404,Afghanistan
+DEM_statsb_5406,Bahrain
+DEM_statsb_5408,Bhutan
+DEM_statsb_5410,Bangladesh
+DEM_statsb_5412,Brunei
+DEM_statsb_5414,Myanmar
+DEM_statsb_5416,Cambodja
+DEM_statsb_5418,Sri Lanka
+DEM_statsb_5422,Cypern
+DEM_statsb_5424,Taiwan
+DEM_statsb_5432,Indien
+DEM_statsb_5434,Indonesien
+DEM_statsb_5435,Østtimor
+DEM_statsb_5436,Irak
+DEM_statsb_5437,Østjerusalem
+DEM_statsb_5438,Iran
+DEM_statsb_5442,Israel
+DEM_statsb_5444,Japan
+DEM_statsb_5446,Jordan
+DEM_statsb_5448,Kina
+DEM_statsb_5452,Kuwait
+DEM_statsb_5454,Laos
+DEM_statsb_5456,Libanon
+DEM_statsb_5457,Maldiverne
+DEM_statsb_5458,Malaysia
+DEM_statsb_5459,Mongoliet
+DEM_statsb_5462,Oman
+DEM_statsb_5464,Nepal
+DEM_statsb_5466,Nordkorea
+DEM_statsb_5468,Vietnam (1)
+DEM_statsb_5471,Asien uoplyst
+DEM_statsb_5472,Pakistan
+DEM_statsb_5474,Filippinerne
+DEM_statsb_5478,Saudi-Arabien
+DEM_statsb_5482,Singapore
+DEM_statsb_5484,Sydkorea
+DEM_statsb_5486,Syrien
+DEM_statsb_5487,Mellemøsten uoplyst
+DEM_statsb_5488,Vietnam (2)
+DEM_statsb_5492,Thailand
+DEM_statsb_5496,Qatar
+DEM_statsb_5499,Asien uoplyst
+DEM_statsb_5502,Australien
+DEM_statsb_5505,Tonga
+DEM_statsb_5508,Fiji
+DEM_statsb_5514,New Zealand
+DEM_statsb_5522,Samoa
+DEM_statsb_5525,Djibouti
+DEM_statsb_5526,Belize
+DEM_statsb_5534,Papua Ny Guinea
+DEM_statsb_5599,Øer i Stillehavet
+DEM_statsb_5607,Estland
+DEM_statsb_5609,Letland
+DEM_statsb_5611,Litauen
+DEM_statsb_5621,Sao Tome og Principe
+DEM_statsb_5623,Salomonøerne
+DEM_statsb_5625,Skt. Kitts og Nevis
+DEM_statsb_5700,Rusland
+DEM_statsb_5704,Ukraine
+DEM_statsb_5706,Belarus
+DEM_statsb_5708,Armenien
+DEM_statsb_5710,Aserbajdsjan
+DEM_statsb_5712,Moldova
+DEM_statsb_5714,Usbekistan
+DEM_statsb_5716,Kasakhstan
+DEM_statsb_5718,Turkmenistan
+DEM_statsb_5720,Kirgisistan
+DEM_statsb_5722,Tadsjikistan
+DEM_statsb_5724,Georgien
+DEM_statsb_5750,Kroatien
+DEM_statsb_5752,Slovenien
+DEM_statsb_5754,Bosnien-Hercegovina
+DEM_statsb_5756,Nordmakedonien
+DEM_statsb_5757,Serbien
+DEM_statsb_5758,"Jugoslavien, Forbundsrepublikken"
+DEM_statsb_5759,Montenegro
+DEM_statsb_5761,Kosovo
+DEM_statsb_5776,Tjekkiet
+DEM_statsb_5778,Slovakiet
+DEM_statsb_5779,Cookøerne
+DEM_statsb_5800,Land ukendt (2)
+DEM_statsb_5901,Færøerne uoplyst
+DEM_statsb_5902,Færøerne
+DEM_statsb_5999,Land ukendt (1)

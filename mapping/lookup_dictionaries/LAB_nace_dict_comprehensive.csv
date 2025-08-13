@@ -1,0 +1,159 @@
+code,description
+LAB_nace_0,Ikke oplyst
+LAB_nace_01,"Landbrug, jagt og tilknyttede aktiviteter"
+LAB_nace_011,Landbrug og tilknyttede aktiviteter
+LAB_nace_0111,"Dyrkning af korn (undtagen ris), bælgfrugter og oliefrø"
+LAB_nace_01111,Dyrkning af korn undtagen ris
+LAB_nace_11110,Kornavl
+LAB_nace_11190,Agerbrug i øvrigt
+LAB_nace_0112,Dyrkning af ris
+LAB_nace_0113,Dyrkning af grøntsager og melon samt rod- og knoldfrugter
+LAB_nace_01131,Dyrkning af grøntsager
+LAB_nace_11210,Gartnerier
+LAB_nace_11220,Planteskoler
+LAB_nace_0114,Dyrkning af sukkerrør
+LAB_nace_0115,Dyrkning af tobak
+LAB_nace_0116,Dyrkning af fiberafgrøder
+LAB_nace_0119,Dyrkning af andre etårige afgrøder
+LAB_nace_012,Dyrkning af flerårige afgrøder
+LAB_nace_0121,Dyrkning af druer
+LAB_nace_0122,Dyrkning af tropiske og subtropiske frugter
+LAB_nace_0123,Dyrkning af citrusfrugter
+LAB_nace_0124,Dyrkning af kernefrugt og stenfrugt
+LAB_nace_0125,Dyrkning af andre træfrugter og buske
+LAB_nace_0126,Dyrkning af nødder
+LAB_nace_0127,"Dyrkning af krydderier, medicinplanter og farmaceutiske afgrøder"
+LAB_nace_0128,Dyrkning af andre flerårige afgrøder
+LAB_nace_11300,Dyrkning af frugt og bær
+LAB_nace_013,Planteformering
+LAB_nace_0130,Planteformering
+LAB_nace_014,Husdyravl
+LAB_nace_0141,Mælkekvæg
+LAB_nace_12110,Malkekvæghold
+LAB_nace_0142,Andet kvæg og bøfler
+LAB_nace_12190,Anden kvægavl
+LAB_nace_0143,Heste og andre hovdyr
+LAB_nace_12210,Stutterier
+LAB_nace_0144,Kameler og kamelider
+LAB_nace_0145,Fåre- og gedeavl
+LAB_nace_12220,Fåre- og gedeavl
+LAB_nace_0146,Svineavl
+LAB_nace_12300,Svineavl
+LAB_nace_0147,Fjerkræavl
+LAB_nace_12400,Fjerkræavl
+LAB_nace_0149,Avl af andre dyr
+LAB_nace_12510,Pelsdyravl
+LAB_nace_12520,Biavl
+LAB_nace_12530,Kenneler
+LAB_nace_12590,Opdræt af andre dyr
+LAB_nace_015,Blandet landbrug
+LAB_nace_0150,Blandet landbrug
+LAB_nace_016,Landbrugstjenester og aktiviteter efter høst
+LAB_nace_0161,Landbrugstjenester
+LAB_nace_0162,Tjenester til husdyravl undtagen veterinærtjenester
+LAB_nace_0163,Aktiviteter efter høst
+LAB_nace_0164,Frøbehandling til formering
+LAB_nace_017,"Jagt, fangst og vildtforvaltning"
+LAB_nace_0170,"Jagt, fangst og vildtforvaltning"
+LAB_nace_02,Skovbrug og skovhugst
+LAB_nace_021,Skovbrug og andre skovbrugsaktiviteter
+LAB_nace_0210,Skovbrug og andre skovbrugsaktiviteter
+LAB_nace_022,Skovhugst
+LAB_nace_0220,Skovhugst
+LAB_nace_023,Indsamling af ikke-træprodukter fra naturen
+LAB_nace_0230,Indsamling af ikke-træprodukter fra naturen
+LAB_nace_024,Skovbrugstjenester
+LAB_nace_0240,Skovbrugstjenester
+LAB_nace_03,Fiskeri og akvakultur
+LAB_nace_031,Fiskeri
+LAB_nace_0311,Havfiskeri
+LAB_nace_0312,Ferskandsfiskeri
+LAB_nace_032,Akvakultur
+LAB_nace_0321,Akvakultur i havet
+LAB_nace_0322,Ferskvandsakvakultur
+LAB_nace_10,Fremstilling af fødevarer
+LAB_nace_101,Forarbejdning og konservering af kød og fremstilling af kødprodukter
+LAB_nace_1011,Forarbejdning og konservering af kød
+LAB_nace_1012,Forarbejdning og konservering af fjerkrækød
+LAB_nace_1013,Fremstilling af kød- og fjerkrækødprodukter
+LAB_nace_102,"Forarbejdning og konservering af fisk, krebsdyr og bløddyr"
+LAB_nace_1020,"Forarbejdning og konservering af fisk, krebsdyr og bløddyr"
+LAB_nace_103,Forarbejdning og konservering af frugt og grøntsager
+LAB_nace_1031,Forarbejdning og konservering af kartofler
+LAB_nace_1032,Fremstilling af frugt- og grøntsagsjuicer
+LAB_nace_1039,Anden forarbejdning og konservering af frugt og grøntsager
+LAB_nace_45,Handel med og reparation af motorkøretøjer og motorcykler
+LAB_nace_451,Salg af motorkøretøjer
+LAB_nace_4511,Salg af personbiler og lette motorkøretøjer
+LAB_nace_4519,Salg af andre motorkøretøjer
+LAB_nace_452,Vedligeholdelse og reparation af motorkøretøjer
+LAB_nace_4520,Vedligeholdelse og reparation af motorkøretøjer
+LAB_nace_453,Salg af reservedele og tilbehør til motorkøretøjer
+LAB_nace_4530,Salg af reservedele og tilbehør til motorkøretøjer
+LAB_nace_454,"Salg, vedligeholdelse og reparation af motorcykler"
+LAB_nace_4540,"Salg, vedligeholdelse og reparation af motorcykler"
+LAB_nace_46,Engroshandel undtagen med motorkøretøjer og motorcykler
+LAB_nace_461,Engroshandel via kommissionærer
+LAB_nace_4611,Kommissionærer ved salg af landbrugsprodukter
+LAB_nace_4612,"Kommissionærer ved salg af brændstoffer, malme, metaller"
+LAB_nace_4613,Kommissionærer ved salg af tømmer og byggematerialer
+LAB_nace_4614,"Kommissionærer ved salg af maskiner, industrielt udstyr"
+LAB_nace_4615,"Kommissionærer ved salg af møbler, husholdningsartikler"
+LAB_nace_4619,Kommissionærer ved salg af diverse varer
+LAB_nace_47,Detailhandel undtagen med motorkøretøjer og motorcykler
+LAB_nace_471,Detailhandel i ikke-specialiserede butikker
+LAB_nace_4711,Detailhandel i ikke-specialiserede butikker med hovedvægt på fødevarer
+LAB_nace_4719,Anden detailhandel i ikke-specialiserede butikker
+LAB_nace_472,"Detailhandel med fødevarer, drikkevarer og tobak"
+LAB_nace_4721,Detailhandel med frugt og grøntsager
+LAB_nace_4722,Detailhandel med kød og kødvarer
+LAB_nace_4723,"Detailhandel med fisk, krebsdyr og bløddyr"
+LAB_nace_4724,"Detailhandel med brød, konditorvarer og sukkervarer"
+LAB_nace_4725,Detailhandel med drikkevarer
+LAB_nace_4726,Detailhandel med tobaksvarer
+LAB_nace_4729,Anden detailhandel med fødevarer
+LAB_nace_84,Offentlig administration og forsvar
+LAB_nace_841,Offentlig administration
+LAB_nace_8411,Generel offentlig administration
+LAB_nace_8412,"Regulering af sundhedsvæsen, uddannelse, kulturelle tjenester"
+LAB_nace_8413,Regulering af og bistand til erhvervsaktiviteter
+LAB_nace_842,Levering af tjenester til samfundet som helhed
+LAB_nace_8421,Udenrigstjeneste
+LAB_nace_8422,Forsvarsaktiviteter
+LAB_nace_8423,Retsvæsen
+LAB_nace_8424,Offentlig orden og sikkerhed
+LAB_nace_8425,Brandvæsen
+LAB_nace_843,Obligatorisk social sikring
+LAB_nace_8430,Obligatorisk social sikring
+LAB_nace_85,Undervisning
+LAB_nace_851,Førskoleundervisning
+LAB_nace_8510,Førskoleundervisning
+LAB_nace_852,Grundskoleundervisning
+LAB_nace_8521,Grundskoleundervisning
+LAB_nace_8522,Teknisk og erhvervsfaglig undervisning på grundskoleniveau
+LAB_nace_853,Gymnasial undervisning
+LAB_nace_8531,Almindelig gymnasial undervisning
+LAB_nace_8532,Teknisk og erhvervsfaglig undervisning på gymnasialt niveau
+LAB_nace_854,Videregående uddannelse
+LAB_nace_8541,Videregående uddannelse efter gymnasialt niveau
+LAB_nace_8542,Universitetsuddannelse
+LAB_nace_855,Anden undervisning
+LAB_nace_8551,Sportsundervisning og fritidsundervisning
+LAB_nace_8552,Kulturel undervisning
+LAB_nace_8553,Køreskoler
+LAB_nace_8559,Anden undervisning i.a.n.
+LAB_nace_856,Undervisningsstøttende aktiviteter
+LAB_nace_8560,Undervisningsstøttende aktiviteter
+LAB_nace_86,Sundhedspleje
+LAB_nace_861,Hospitalsbehandling
+LAB_nace_8610,Hospitalsbehandling
+LAB_nace_862,Læge- og tandlægepraksis
+LAB_nace_8621,Alment praktiserende læger
+LAB_nace_8622,Speciallæger
+LAB_nace_8623,Tandlægepraksis
+LAB_nace_869,Anden sundhedspleje
+LAB_nace_8690,Anden sundhedspleje
+LAB_nace_99,Aktiviteter i internationale organisationer mv.
+LAB_nace_990,Aktiviteter i internationale organisationer mv.
+LAB_nace_9900,Aktiviteter i internationale organisationer mv.
+LAB_nace_990000,Internationale organisationer

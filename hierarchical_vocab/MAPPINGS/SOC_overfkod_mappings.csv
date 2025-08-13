@@ -1,0 +1,3 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_overfkod_-,SOC,overfkod,-,Transfer code: -,enhanced_english,medium,english
+SOC_overfkod_X,SOC,overfkod,X,Transfer code: X,enhanced_english,medium,english

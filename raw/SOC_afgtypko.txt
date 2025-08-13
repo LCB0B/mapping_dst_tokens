@@ -1,0 +1,103 @@
+Value set
+D281700. TXT_AFGTYPKO - Type of decision or sanction (RP) Valid from 	Valid for 	Code 	Text
+		0 	Unenlightened
+		1 	Unconditional judgment alone
+		2 	Finedom
+		3 	Penal Code §68-70, Measure/ Custody
+		4 	Conditional judgment alone
+		5 	Conditional judgment and fine
+		6 	Partially suspended judgment
+		7 	No-show Judgment
+		8 	Fine adoption in court
+		9 	Warning in court
+		11 	Acquitted
+		12 	Domestic by law of fine and driver's right
+		13 	Domestic services of fines and driving bans
+		15 	Military punishment
+		19 	Out-of-court goods of fines and waivers
+		20 	Out-of-courts of fine and driving ban
+		21 	Fines
+		22 	Waiver waiver with conditions Rpl p.723, paragraph 1, no.1
+		23 	Waiver waiver with conditions Rpl p.723, paragraph 1, no.2
+		24 	Waiver waiver with conditions Rpl p.723, paragraph 1, no.5
+		25 	Waiver dropout-outpage without conditions Rpl p.723, paragraph 1, no.3
+		26 	Waiver dropout without conditions Rpl p.723, paragraph 1, no.4
+		27 	Waiver dropout-out rate Rpl p.723, paragraph 1, no.5
+		28 	Waiver waiver without conditions Rpl p.723, paragraph.2
+		29 	Indictment omitted Rpl p.723, paragraph.1
+		33 	Waiver waiver with conditions Rpl p.723, paragraph.2
+		36 	Indictment omitted with warning Penal Code
+		37 	Indictment omitted without warning Penal Code
+		38 	Indictment omitted with warning Special legislation
+		39 	Indictment omitted without warning Special legislation
+		40 	Other
+		41 	Youth contract
+		42 	Indictment waiver with a fine Rpl p.723, paragraph 4 cf.s.1,a.
+		43 	Indictment waiver with a fine Rpl p.723, paragraph 4 cf.s.1,n.2
+		44 	Waiver waiver with a fine Rpl p.723, paragraph 4 cf.s.1,n.5
+		45 	Rpl p.723, paragraph 4 cf.s.1,n.3
+		46 	Rpl p.723, paragraph 4 cf. 1,n4.
+		47 	Rpl p.723, paragraph 4 cf.s.1,n5
+		48 	Rpl p.723, paragraph 4 cf. paragraph 2
+		49 	Rpl p.723, paragraph 4 cf. paragraph 1
+		50 	Rpl p.723, paragraph 4 cf. paragraph 2
+		51 	Rpl p.723, paragraph 4 cf. paragraph 3
+		52 	Rpl p.722, paragraph 1, no.2 juvenile contract (formed by DST from FP code = 62. Occurs only in the period 1999-2006)
+		53 	Rpl p.722, paragraph 1, no.3 ungd.contract (formed by DST from RP code = 63. Occurs only in the period 1999-2006)
+		61 	Rpl p.723, paragraph.3
+		62 	Indictment waiver with conditions Rpl p.722, paragraph 1, no.2
+		63 	Indictment waiver with conditions Rpl p.722, paragraph 1, no.3
+		64 	Indictment waiver with conditions Rpl p.722, paragraph 1, no.7
+		65 	Waiver-off excluding Rpl p.722, paragraph 1, no.6
+		66 	Offences of instalment without conditions Rpl p.722, paragraph 1, no.4
+		67 	Waiver waiver without conditions Rpl p.722, paragraph 1 no.7
+		68 	Waiver dropout-outpage Rpl p.722, paragraph.2 cf.
+		69 	Reprimand given Rpl p.721, paragraph 1 no.2
+		71 	Waiver dropout-off excluding Rpl p.722, paragraph 1 paragraph 5
+		72 	Reprimand given RPCH:81 rpl p.721, paragraph.1 no.3
+		73 	Waiver waiver with conditions Rpl p.722, paragraph.c.3
+		74 	The charge baseless penal code (721 paragraph 1(1))
+		75 	The term baseless special legislation (721 paragraph 1(1))
+		76 	Indictment omitted by warning - Penal Code (Rpl. section 722, paragraph 1 no. 1)
+		77 	Indictment omitted without warning - Penal Code (Rpl. section 722, paragraph 1 no. 1)
+		78 	Indictment omitted with warning - special legislation (Rpl. section 722, paragraph 1 no. 1 or 7)
+		79 	Indictment omitted - special legislation (Rpl. § 722, paragraph 1, no. 1)
+		81 	Conditional judgment and samf.tj.
+		82 	Bet. judgment, fine and samf.tj. (formed by DST based on FP-code = 05. Occurs only in the period 1983-2006)
+		83 	Partially conditional and samf.tj. (formed by DST from FP-code = 06. Occurs only in the period 1983-2006)
+		84 	Unconditional judgment and samf.tj.
+		86 	Unconditional judgment and fine
+		87 	Punishment lapsed
+		88 	Ended in custody
+		91 	Rpl p.723, paragraph 1, no.1
+		92 	Rpl p.723, paragraph 1, no. 2,
+		93 	Rpl p.723, paragraph 1, paragraph 5,
+		94 	Rpl p.723, paragraph 2
+		95 	Rpl p.723, paragraph 4 cf.s.1,n1
+		96 	Rpl p.723, paragraph 4 cf.s.1,n.2
+		97 	Rpl p.723, paragraph 4 cf.s.1,n5
+		98 	Rpl p.723, paragraph 4 cf. paragraph 2
+		99 	Rpl p.723, paragraph 4 cf. paragraph 3
+		101 	Laid down the ud.warning (§265 gek.74262)
+		104 	Injunctions according to dog law (gerk.89151)
+		110 	Driving licence frak.gr.gyd.dragk, etc.
+		118 	Decommitted as obsolete, cf. section 93 of the Criminal Code (all codes)
+		121 	Transferred to abroad (all German codes)
+		10 	Ended in court
+		30 	Unenlightened
+		31 	Indictment omitted (Faroese) is not included in the count.
+		35 	Charge baseless (Faroese) is not included in a count.
+		34 	Charge baseless criminal law, rtpl. 721.1.1
+		16 	Decreekeeping of fine/disqualification of the right to drive small moped
+		17 	Extrajudicial adoption of a fine/disqualification of the right to drive small moped
+		14 	Internal court district of fine and disqualification
+		18 	Extrajudicial adoption of a fine and disqualification of rights
+		100 	Laid out without restraining order
+		70 	Judgment without a hearing
+		200 	Decree-Feas of the decommissioned by the right of vehicles to be driven by heavy-duty (assumed by DST on the basis of FP = 52)
+		201 	Out-of-court adoption fine/exported right to drive heavy-duty vehicles (assumed by DST on the basis of FP code = 53)
+		202 	Decree-General adoption of fine/driver's right and the right to drive heavy-duty vehicles (formed by DST from FP code = 54)
+		80 	Sentencing for a residence ban, cf. section 79 (a) of the Criminal Code
+		60 	Prohibition of residence by judgment, cf. section 79 (a), paragraph. 2
+		89 	Contact ban by judgment, cf. section 79 (a), paragraph. 3
+		90 	Travel ban by judgment, cf. section 79 (e) of the Criminal Code

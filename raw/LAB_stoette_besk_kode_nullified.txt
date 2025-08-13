@@ -1,0 +1,9 @@
+Valid from 	Valid for 	Code 	Text
+01-01-2008 		0 	Ordinary employment
+01-01-2008 		1 	Employment with wage subsidies
+01-01-2008 		2 	Job rotation
+01-01-2008 		3 	Flex jobs
+01-01-2008 		4 	Skånejob
+01-01-2008 		5 	Service jobs
+01-01-2008 		6 	Adult Apprentice
+01-01-2008 		7 	Rehabilitation

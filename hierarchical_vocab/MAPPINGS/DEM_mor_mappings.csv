@@ -1,0 +1,33 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_mor_foed_adop_0,DEM,mor,foed_adop_0,Mother's country of birth/adoption: foed_adop_0,enhanced_english,medium,english
+DEM_mor_foed_adop_11,DEM,mor,foed_adop_11,Mother's country of birth/adoption: foed_adop_11,enhanced_english,medium,english
+DEM_mor_foed_adop_12,DEM,mor,foed_adop_12,Mother's country of birth/adoption: foed_adop_12,enhanced_english,medium,english
+DEM_mor_foed_adop_14,DEM,mor,foed_adop_14,Mother's country of birth/adoption: foed_adop_14,enhanced_english,medium,english
+DEM_mor_foed_adop_15,DEM,mor,foed_adop_15,Mother's country of birth/adoption: foed_adop_15,enhanced_english,medium,english
+DEM_mor_foed_adop_17,DEM,mor,foed_adop_17,Mother's country of birth/adoption: foed_adop_17,enhanced_english,medium,english
+DEM_mor_foed_adop_18,DEM,mor,foed_adop_18,Mother's country of birth/adoption: foed_adop_18,enhanced_english,medium,english
+DEM_mor_foed_adop_2,DEM,mor,foed_adop_2,Mother's country of birth/adoption: foed_adop_2,enhanced_english,medium,english
+DEM_mor_foed_adop_21,DEM,mor,foed_adop_21,Mother's country of birth/adoption: foed_adop_21,enhanced_english,medium,english
+DEM_mor_foed_adop_31,DEM,mor,foed_adop_31,Mother's country of birth/adoption: foed_adop_31,enhanced_english,medium,english
+DEM_mor_foed_adop_32,DEM,mor,foed_adop_32,Mother's country of birth/adoption: foed_adop_32,enhanced_english,medium,english
+DEM_mor_foed_adop_33,DEM,mor,foed_adop_33,Mother's country of birth/adoption: foed_adop_33,enhanced_english,medium,english
+DEM_mor_foed_adop_35,DEM,mor,foed_adop_35,Mother's country of birth/adoption: foed_adop_35,enhanced_english,medium,english
+DEM_mor_foed_adop_39,DEM,mor,foed_adop_39,Mother's country of birth/adoption: foed_adop_39,enhanced_english,medium,english
+DEM_mor_foed_adop_99,DEM,mor,foed_adop_99,Mother's country of birth/adoption: foed_adop_99,enhanced_english,medium,english
+DEM_mor_foed_adop_DEM_mor_foed_adop_0,DEM,mor,foed_adop_foed_adop_0,Ingen forælder på pladsen,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_11,DEM,mor,foed_adop_foed_adop_11,Adoptivrelation iflg. Adoptionsregister,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_12,DEM,mor,foed_adop_foed_adop_12,"Barn i Adoptionsregister, men adoptivrelationen kan være med anden forælder",pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_14,DEM,mor,foed_adop_foed_adop_14,Forælder har andet køn (far er kvinde eller mor er mand),pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_15,DEM,mor,foed_adop_foed_adop_15,Adoptionsmarkering i CPR,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_16,DEM,mor,foed_adop_foed_adop_16,Kun mødre: CPR-relation er først gældende fra efter barnet er 30 dage gammelt,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_17,DEM,mor,foed_adop_foed_adop_17,Kun mødre: Adoptionsmarkering i tidligere FTDB,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_18,DEM,mor,foed_adop_foed_adop_18,"Kun mødre til børn født efter 1. januar 1991: Barnet er fødselsregistreret i udlandet, mens mor er bosiddende i DK",pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_21,DEM,mor,foed_adop_foed_adop_21,Forælder registreret kort efter fødsel,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_22,DEM,mor,foed_adop_foed_adop_22,"Forælder registreret kort efter fødsel, barnet adopteret efterfølgende",pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_23,DEM,mor,foed_adop_foed_adop_23,"Forælder registreret kort efter fødsel, barnet adopteret efterfølgende, adoption ophævet",pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_31,DEM,mor,foed_adop_foed_adop_31,Barn er indvandrer,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_32,DEM,mor,foed_adop_foed_adop_32,Barn er fødselsregistreret i udlandet,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_33,DEM,mor,foed_adop_foed_adop_33,Barn født før 1973,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_35,DEM,mor,foed_adop_foed_adop_35,Barn født i udlandet eller før 1973 og efterfølgende adopteret,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_DEM_mor_foed_adop_39,DEM,mor,foed_adop_foed_adop_39,Øvrige forælderrelationer,pt_dictionaries,highest,danish
+DEM_mor_foed_adop_unknown,DEM,mor,foed_adop_unknown,Mother's country of birth/adoption: foed_adop_unknown,enhanced_english,medium,english

@@ -1,0 +1,8 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_civst_D,DEM,civst,D,Divorced,enhanced_english,medium,english
+DEM_civst_E,DEM,civst,E,Widow/Widower,enhanced_english,medium,english
+DEM_civst_F,DEM,civst,F,Married,enhanced_english,medium,english
+DEM_civst_G,DEM,civst,G,Unmarried,enhanced_english,medium,english
+DEM_civst_L,DEM,civst,L,Legally separated,enhanced_english,medium,english
+DEM_civst_O,DEM,civst,O,Civil status code: O,enhanced_english,medium,english
+DEM_civst_P,DEM,civst,P,Civil status code: P,enhanced_english,medium,english

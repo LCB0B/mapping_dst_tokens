@@ -1,0 +1,84 @@
+Gyldig fra 	Gyldig til 	Kode 	Tekst
+01-01-2005 		00 	Uoplyst
+01-01-2005 		01 	Anæsthesiologi
+01-01-2005 		02 	Fiktiv knækgrænse
+01-01-2005 		03 	Diagn. radiologi Kbh.
+01-01-2005 		04 	Dermato-venerologi
+01-01-2005 		05 	Diagnost. radiologi
+01-01-2005 		06 	Reumatologi
+01-01-2005 		07 	Gynækologi/obstetrik
+01-01-2005 		08 	Intern medicin
+01-01-2005 		09 	Kirurgi
+01-01-2005 	31-12-2006 	10 	Histopatalogiske undersøgelser
+01-01-2005 		11 	Klinisk kemi
+01-01-2005 		15 	Ørelægevagt Kbh.
+01-01-2005 		16 	Ørelægevagt KAK
+01-01-2005 		17 	Neurokirurgi
+01-01-2005 		18 	Neuromedicin
+01-01-2005 		19 	Øjenlægehjælp
+01-01-2005 		20 	Ortopædisk kirurgi
+01-01-2005 		21 	Ørelægehjælp
+01-01-2005 		22 	Patologi
+01-01-2005 		23 	Plastikkirurgi
+01-01-2005 		24 	Psykiatri
+01-01-2005 		25 	Pædiatri
+01-01-2005 		26 	Børnepsykiatri
+01-01-2005 		28 	Tropemedicin
+01-01-2005 		35 	Distriktspsykiatri
+01-01-2005 		39 	Øjenlægehjælp *kfa*
+01-01-2005 		41 	Ørelægehjælp *kfa*
+01-01-2005 		42 	Referencelaborator.
+01-01-2005 		43 	Diagnoselaboratoriet
+01-01-2005 		44 	Københavns Praktiserende Lægers Laboratorium
+01-01-2005 		45 	Medicinsk Laboratorium
+01-01-2005 		46 	Omegnslaboratorier
+01-01-2005 		47 	Århus Universitet
+01-01-2005 		48 	Statens Seruminstitut
+01-01-2005 		49 	Tandplejere
+01-01-2005 		50 	Tandlægehjælp
+01-01-2005 		51 	Fysioterapi 51
+01-01-2005 		52 	Briller
+01-01-2005 		53 	Kiropraktik
+01-01-2005 		54 	Fodterapi
+01-01-2005 		55 	Ortonyxi
+01-01-2005 		56 	Klinikbehandling
+01-01-2005 		57 	Ridefysioterapi
+01-01-2005 		58 	Genoptræning, Øfeldt
+01-01-2005 		59 	Fodbehandling arvævspat.
+01-01-2005 		60 	Fodbehandling, leddegigt
+01-01-2005 		61 	Fysioterapi 61
+01-01-2005 		62 	Vederlagsfri fysioterapi
+01-01-2005 		63 	Psykologhjælp
+01-01-2005 		64 	Kiropraktik kronikere
+01-01-2005 		65 	Vederlagsfri ridefysioterapi
+01-01-2005 		68 	Høreomsorg
+01-01-2005 		70 	Almen læge, konsultation, dagtid
+01-01-2005 		71 	Almen læge, konsultation, aften mv.
+01-01-2005 		72 	Almen læge, telefonkonsultation, dagtid
+01-01-2005 		73 	Almen læge, telefonkonsultation, aften mv.
+01-01-2005 		74 	Almen læge, besøg, dagtid
+01-01-2005 		75 	Almen læge, besøg, aften mv.
+01-01-2005 		76 	Almen læge, email-konsultation
+01-01-2005 		77 	Almen læge, andre ydelser
+01-01-2005 		78 	Almen læge, kontakter, forebyggelse mv.
+01-01-2005 		79 	Almen læge, basishonorar mv.
+01-01-2005 		80 	Almen lægehjælp 80
+01-01-2005 		81 	KFA-vagtordning 81
+01-01-2005 		82 	Kak vagtlægehjælp 82
+01-01-2005 		83 	Vagtlægehjælp 83
+01-01-2005 		84 	Kak vagtlægehjælp 84
+01-01-2005 		85 	Præhospital
+01-01-2005 		86 	Ø-læger
+01-01-2005 		87 	Visitat kønssygdomme
+01-01-2005 		88 	Læge u/ overenskomst
+01-01-2005 		89 	KFA-vagtordning 89
+01-01-2005 		90 	Offentl. sygesikring
+01-01-2005 		91 	Disp. f. Sundhedsst.
+01-01-2005 		92 	Rekv.lægem. mv.
+01-01-2005 		93 	Rekvis. speciallæger
+01-01-2005 		94 	Tilskud ernæringspræparater
+01-01-2005 		95 	Begravelseshjælp
+01-01-2005 		96 	Tolkebistand
+01-01-2005 		97 	Fonde
+01-01-2005 		98 	Bef. af alm. læger
+01-01-2005 		99 	Diverse ydelser

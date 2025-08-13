@@ -1,0 +1,598 @@
+Gyldig fra 	Gyldig til 	Kode 	Tekst
+		00000 	Branche-oplysning mgl.
+		10000 	Brancher uden indhold
+		10001 	Landbrug
+		11101 	Landbrug
+		11102 	Gartnerier, frugtplant. og planteskoler
+		11103 	Anlægsgartnerier
+		11104 	Pelsdyravl
+		11105 	Biavl
+		11106 	Stutterier
+		11107 	Kenneler
+		11201 	Landbrugsmaskinstationer
+		11202 	Drift af afvandingssyst. for landbrugsjord
+		11209 	Servicevirksomhed for landbrug, gartneri o.l
+		11300 	Jagt og vildtpleje
+		12000 	Skovbrug
+		13010 	Hav- og kystfiskeri
+		13021 	Dambrug
+		13029 	Diverse fiskerivirksomhed(herunder fiskeri-se
+		21000 	Brunkulslejer
+		22000 	Udvinding og efterforskn.af olie og naturgas
+		23000 	Malmgravning
+		29011 	Ler- og grusgrave samt stenbrud
+		29012 	Stenfiskeri
+		29013 	Kalk- og kridtbrud
+		29020 	Udvinding af mineraler t.gødnings- og kemisk
+		29030 	Saltudvinding
+		29090 	Udvinding af ikke-metall.råstoffer, + brikett
+		30000 	Fremstillingsvirksomhed uoplyst vareområde
+		30001 	Fremstilling
+		31111 	Svineslagterier
+		31112 	Kødv.- og kødkonservesfabrikker
+		31113 	Kreaturslagterier
+		31114 	Offentlige slagtehuse
+		31115 	Talgsmelterier
+		31116 	Tarmrenserier
+		31117 	Fjerkræslagterier
+		31119 	Hjemmeslagtere samt røgning og saltning
+		31121 	Mejerier
+		31122 	Smelteostfabrikker
+		31123 	Mælkekondenseringsfabr.
+		31124 	Konsumisfabrikker
+		31130 	Grønt- og frugtkonserves-fabr. samt æblemoste
+		31141 	Røgning og saltn. af fisk
+		31142 	Fiskehermetik-,fiskefars-og fiskefiletfabrikk
+		31151 	Oliemøller
+		31152 	Margarinefabrikker
+		31153 	Fiskemelsfabrikker
+		31154 	Destruktionsanstalter og kødfoderfabrikker
+		31160 	Møller (fremstilling af mel, gryn og corn-fla
+		31171 	Brødfabrikker
+		31172 	Kiks- og vaffelfabrikker
+		31173 	Kagefabrikker
+		31174 	Bagerforretninger og konditorier
+		31179 	Fremstilling af makaroni og spaghetti mv
+		31180 	Sukkerfabrikker og -raffinaderier
+		31190 	Chokolade- og sukkervarefabrikker
+		31211 	Kartoffelmels- eller stivelsesfabrikker
+		31219 	Fremstilling af næringsmidler i.a.n
+		31220 	Fremstilling af færdige foderstoffer
+		31310 	Sprit- og likørfabrikker
+		31330 	Bryggerier og maltfabr.
+		31340 	Mineralvandsfabrikker
+		31400 	Tobaksfabrikker
+		32111 	Uldspinderier og -væverier
+		32112 	Bomuldsspinderier og -væverier
+		32113 	Fremstilling af garner og stoffer af kemofibr
+		32114 	Håndvæverier
+		32115 	Fremstilling af bånd, possement samt elastik
+		32116 	Andre spinderier og væverier
+		32117 	Tekstilfarverier og imprægneringsfabrikker
+		32121 	Fremstilling af broderier
+		32122 	Plisse- og hulsømforretn.
+		32123 	Flag- og teltfabrikker);(inkl. sejlmagerier)
+		32124 	Fremstilling af gardiner,sengetæpper og linne
+		32129 	Fremstilling af div. færdige tekstilvarer
+		32130 	Trikotagefabrikker
+		32140 	Tæppefabrikker
+		32151 	Rebslagerier
+		32152 	Fiskenetfabrikker
+		32190 	Fremst. af div. tekstilv.heru. tvist-og vat,
+		32211 	Herrekonfektionsfabrikker
+		32212 	Kjolekonfektionsfabrikker
+		32213 	Konfektionsfabrikker for dameovertøj
+		32214 	Skjortefabrikker
+		32215 	Fremst. af korsetter m.v.
+		32219 	Anden konfektionsindustri
+		32291 	Skrædderforretninger
+		32292 	Kjolesyning
+		32293 	Hattefabrikker
+		32294 	Buntmagerier
+		32295 	Damehatte- og modevarefremstilling
+		32296 	Handskefabrikker
+		32299 	Beklædningsindustri i øvrigt
+		32310 	Garverier
+		32320 	Pelsberedning m.v.
+		32330 	Lædervarefabrikker
+		32401 	Skotøjsfabrikker
+		32402 	Håndskomagere
+		32403 	Træskofabrikker
+		32409 	Fodtøjsindustri i øvrigt
+		33111 	Savværker m.v.
+		33112 	Træimprægneringsanstalter
+		33113 	Fremstilling af spånplader, finer m.v.
+		33114 	Fremstilling af bygningsartikler
+		33121 	Træemballagefabrikker
+		33122 	Bødkere
+		33123 	Kurvemagere
+		33191 	Trævarefabrikker
+		33192 	Rammelistefabrikker
+		33193 	Trædrejere
+		33194 	Billedskærere
+		33195 	Modelsnedkere
+		33196 	Korkvarefabrikker
+		33197 	Ligkistefabrikker
+		33201 	Træ- og polstermøbelfabr.
+		33202 	Møbelpolstrere og sadelm.
+		33203 	Madrasfabrikker
+		33209 	Lakering samt afsyring mv af møbler
+		34110 	Papir- og papfabrikker
+		34120 	Papir- og papembalagefabrikker
+		34191 	Tapetfabrikker
+		34199 	Papir- og papvareindustri (undtagen tapetfabr
+		34211 	Reproduktionsanstalter
+		34212 	Sætterier
+		34221 	Bogtrykkerier
+		34222 	Offsettrykker. (plantryk)
+		34223 	Serigrafiske trykkerier
+		34224 	Anilintrykkerier
+		34229 	Anden grafisk virksomhed
+		34230 	Bogbinderier
+		34240 	Dagblade
+		34291 	Bog- og kunstforlag
+		34292 	Ugeblade og magasiner
+		34293 	Distr.- og annonceblade
+		34299 	Udgivelse af fagblade og foreningsblade m.v.
+		35111 	Fremstilling af ilt og andre industrigasser
+		35119 	Fremst. af primære kemiske forb. og grundstof
+		35121 	Fremst. af kunstgødning
+		35122 	Fremstilling af færdige bekæmpelsesmidler
+		35131 	Fremst. af basisplast
+		35132 	Fremstilling af plader, folier, rør m.v. af p
+		35133 	Fremst. af klæbestrimler
+		35210 	Farve- og lakfabrikker
+		35220 	Medicinalvarefabrikker
+		35231 	Sæbefabrikker
+		35232 	Kosmetikfabrikker
+		35291 	Sprængstoffabrikker
+		35292 	Pudse- og rensemiddelfabrikker
+		35293 	Fremst. af stearinlys
+		35294 	Limfabrikker
+		35295 	Fremstilling af lysfølsomt papir og pap
+		35299 	Kemisk industri i øvrigt
+		35300 	Mineralolieraffinaderier
+		35401 	Asfaltfabrikker
+		35402 	Tagpapfabrikker
+		35409 	Fremstilling af olie- og kulprodukter
+		35510 	Vulkaniseringsanstalter
+		35590 	Gummifabrikker
+		35601 	Fremstilling af plastemballage
+		35609 	Fremst. af plastvarer
+		36101 	Porcelæns- og fajancefabrikker
+		36102 	Fremstilling af keramik- og lervarer
+		36103 	Porcelænsmalere og -brænderier
+		36201 	Glasværker
+		36202 	Glasbearbejdning
+		36911 	Teglværker
+		36912 	Fremstilling af molerprodukter
+		36921 	Cementfabrikker
+		36922 	Kalk- og kridtværker
+		36923 	Mørtelfabrikker
+		36991 	Stenhuggerier
+		36992 	Fremstilling af færdigblandet beton
+		36993 	Betonvarefabrikker
+		36994 	Fremstilling af glasuld og glasfiber
+		36995 	Fremstilling af kalksand-sten og gipsplader
+		36996 	Fremstilling af slibematerialer
+		36999 	Fremstilling af sten-,ler- og glasprodukter
+		37101 	Jern- og stålværker
+		37102 	Jernstøberier
+		37201 	Metalværker
+		37202 	Metalstøberier
+		38110 	Fremstilling af værktøj, beslag samt bestik
+		38121 	Metalmøbelfabrikker
+		38122 	Lampefabrikker
+		38131 	Fremstilling af jern- og metalkonstruktioner,
+		38132 	Fremstilling af stationære beholdere
+		38133 	Rørfabrikker
+		38190 	Fremstilling af centralvarmekedler
+		38191 	Metalemballagefabrikker
+		38192 	Fremstilling af ovne og radiatorer
+		38193 	Armaturfabrikker
+		38194 	Fremstilling af bolte, skruer og søm
+		38195 	Galvaniseringsanst. m.v.
+		38196 	Industrilakering
+		38197 	Fremstilling af fjedre ogkæder
+		38198 	Fremstilling af tråd og trådvarer
+		38199 	Fremstilling af jern- og metalvarer i øvrigt
+		38210 	Fremstilling af motorer
+		38220 	Fremstilling af landbrugsmaskiner og tilbehør
+		38231 	Fremstilling af maskiner til træforarbejdning
+		38232 	Fremstilling af maskiner til metalforarbejdni
+		38233 	Fremstilling af støberimaskiner
+		38241 	Fremstilling af tekstil- maskiner og tilbehør
+		38242 	Fremst. af maskiner til næringsmiddel-og kemi
+		38243 	Fremst. af maskiner til skotøjs-,papir-,pap-
+		38249 	Fremstilling af industrimaskiner i øvrigt
+		38251 	Fremst. og reparation af kontor- og datamaski
+		38252 	Vægtfabrikker
+		38280 	Smede- og maskinreparationsværksteder
+		38291 	Fremstilling af storkøkkenmateriel
+		38292 	Fremst. af komfurer og kogeapparater
+		38293 	Fremstilling af husholdningsmaskiner
+		38294 	Fremstilling af internt transportmateriel
+		38295 	Fremstilling og reparation af symaskiner
+		38296 	Fremstilling af tandhjul og transmissionsaksl
+		38297 	Fremstilling af maskiner til renserier
+		38298 	Underleverandørfabr. med jern- og metalforarb
+		38299 	Fremst. af div. maskiner,kompressorer, pumper
+		38311 	Fremstill. af el-motorer samt el-apparatur
+		38312 	Elektromek. værksteder
+		38321 	Radio- og fjernsynsfabr.
+		38329 	Fremstilling af telemateriel
+		38331 	Fremstilling af el-vand- varmere, el-radiator
+		38332 	Fremstilling af el-husholdningsartikler i øvr
+		38391 	Kabelfabrikker
+		38392 	Akkumulator- og tørelementfabrikker
+		38393 	Fremstilling af glødelamper og lysstofrør
+		38399 	Fremstilling af elektrisk materiel i øvrigt
+		38411 	Jern- og stålskibsværfter
+		38412 	Træskibsværfter og bådebyggerier
+		38413 	Skibsmotorfabrikker
+		38419 	Fremstilling af skibsmateriel
+		38420 	Fremstilling af banemateriel
+		38431 	Samling og fremstilling af biler m.v.
+		38432 	Karosserifabrikker
+		38439 	Fremstilling af motorer, bremser, gear
+		38440 	Cykel- og knallertfabr.
+		38450 	Flyvemaskineværksteder
+		38491 	Fremstilling af håndtransportvogne
+		38492 	Barnevognsfabrikker
+		38499 	Transportmiddelindustri i øvrigt
+		38511 	Fremstilling af medicinske ikke-el. instrumen
+		38512 	Fremstilling af medicinske el.-instrumenter
+		38513 	Fremstilling af ikke-el. måleinstrumenter
+		38514 	Fremstilling af elektr. måleinstrumenter
+		38515 	Bandagister
+		38520 	Fremstilling af optisk og fotografisk udstyr
+		39011 	Guld- og sølvvarefabr.
+		39012 	Guld- og sølvsmedeværkst.
+		39020 	Fremstilling af musikinstrumenter
+		39030 	Fremstilling af sportsrekvisitter
+		39091 	Legetøjsfabrikker
+		39092 	Fremstill. af børstevarer
+		39093 	Pibefabrikker
+		39094 	Fremstilling af karbonpapir, blyanter mm
+		39095 	Fremstilling af kontorartikler i øvrigt
+		39096 	Fremstill. af lampeskærme
+		39097 	Skiltefabrikker og skiltemalere
+		39099 	Fremstilling af div. varer i.a.n.
+		41010 	Fremst. og distribution af elektricitet
+		41020 	Gasforsyning
+		41030 	Varmeværker
+		42000 	Vandværker m.v.
+		50000 	Bygge- og anlægsvirksomh.uden nærmere angivel
+		50001 	Bygge- og anlægsvirksomhed
+		50110 	Offentlig bygge- og anlægsvirksomhed
+		50121 	Entreprenørforretninger
+		50122 	Dræningsmestre
+		50123 	Brolæggermestre
+		50124 	Kloakmestre
+		50130 	Murerforretninger
+		50140 	Tømrer- og snedkerforretninger
+		50150 	Malerforretninger
+		50160 	Vvs-installatører, blikkenslagerforretn.
+		50170 	Elektroinstallationsforretninger
+		50180 	Glarmesterforretninger
+		50191 	Gulvbelægnings- og terrazzoforretninger
+		50192 	Isoleringsforretninger
+		50193 	Tagtækkere og tagpapdækkere
+		50194 	Brøndborere
+		50195 	Ovnsætning
+		50196 	Stilladsforretninger
+		50199 	Byggevirksomhed i øvrigt
+		61000 	Engroshandel, uoplyst); vareområde
+		61001 	Engroshandel
+		61111 	Engroshandel med kolonialvarer
+		61112 	Engroshandel med kød, kødvarer, fjerkræ
+		61113 	Engroshandel med fisk
+		61114 	Engroshandel med frugt og grøntsager
+		61115 	Engroshandel med mælk, smør, ost og æg
+		61116 	Engroshandel med kaffe, te og kakao
+		61117 	Engroshandel med chokolade og sukkervarer
+		61118 	Engroshandel med brød, kager og bisquits
+		61119 	Engroshandel med øl og mineralvand
+		61121 	Engroshandel med vin og spiritus
+		61122 	Engroshandel med tobaksvarer
+		61131 	Engroshandel med beklædning, trikotage og man
+		61132 	Engroshandel med tæpper, møbelstoffer og bol
+		61133 	Engroshandel med skotøj
+		61141 	Engroshandel med møbler
+		61142 	Engroshandel med radio, fjernsyn
+		61143 	Engrosh. m. isenkram,husholdningsart., kunsth
+		61144 	Engrosh.m. hårde hvidevarer og belysningsarti
+		61151 	Engrosh.m. toilet-, parfumeri- og rengørings
+		61152 	Engrosh.m. medicinalvarer og sygeplejeartikle
+		61153 	Engrosh.m. guld- og sølvvarer, ure, optik og
+		61154 	Engrosh.m. cykler, knallerter, barnevogne og
+		61155 	Engrosh.m. legetøj, sportsartikler, camp.-uds
+		61156 	Engrosh.m. bøger, blade, papir og papirvarer
+		61157 	Engrosh.m. lædervarer, galanteri varer og sou
+		61158 	Engrosh. med blomster og planter
+		61161 	Handel med korn, foder- og gødningsstoffer
+		61162 	Engrosh. med frø, såsæd og blomsterløg
+		61163 	Handel med kreaturer og grise
+		61164 	Handel med råhuder, læder og skind
+		61165 	Handel med råuld, garner og metervarer
+		61166 	Handel med kemikalier
+		61167 	Handel med jern og andre metaller
+		61168 	Handel med træ, trælast og bygningsartikler
+		61169 	Handel med rør, sanitet og støbegods
+		61171 	Engrosh. med farver, tapet og gulvbelægningsa
+		61172 	Handel med elinstallationsmateriel og elektro
+		61173 	Handel med gammelt jern, metal, og papir m.v.
+		61179 	Handel med råvarer og halvfabrikata
+		61181 	Handel med landbrugsmask.
+		61182 	Handel med industrimask. og entreprenørmateri
+		61183 	Handel med værktøjsmaskiner, værktøj mm
+		61184 	Handel med kontor- og datamaskiner og udstyr
+		61185 	Handel med læge- og hospitalsartikler
+		61189 	Engroshandel med maskiner og andet udstyr i.a
+		61191 	Engroshandel med biler,motorcykler og dele he
+		61192 	Engrosh.m. benzin, fast og flydende brændsel
+		61291 	Skibsproviantering
+		61299 	Engroshandel
+		61311 	Engrosagenturer
+		61312 	Kvægkommisionærer
+		61313 	Kommissionshandel
+		61314 	Frugt- og grøntauktioner
+		61315 	Fiskeauktioner
+		61319 	Auktionsforretninger
+		62000 	Detailhandel uoplyst vareområde
+		62001 	Detailhandel
+		62111 	Kolonial og blandet købmandshandel uden grovv
+		62112 	Kolonial og blandet købmandshandel med grovva
+		62113 	Supermarkeder
+		62114 	Varehuse (dobbeltsupermarkeder)
+		62121 	Slagter- og viktualieforretninger
+		62122 	Fiskeforretninger
+		62123 	Mejeri- og brødudsalg
+		62124 	Osteforretninger
+		62125 	Frugt- og grøntforretn.
+		62126 	Tobaks- og vinforretn.
+		62127 	Kaffe-,te- og delikatesseforretninger
+		62128 	Chokoladeforretninger
+		62129 	Iskiosker
+		62131 	Farve- og tapetforretning
+		62132 	Parfumerier
+		62133 	Materialister
+		62134 	Apoteker
+		62135 	Håndkøbsudsalg
+		62140 	Stormagasiner
+		62151 	Manufakturforretninger
+		62152 	Boligtekstilforretninger
+		62153 	Trikotageforretninger
+		62154 	Herreekviperingsforretn.
+		62155 	Damekonfektionsforretn.
+		62156 	Herre- og damekonfektionsforretninger
+		62157 	Skotøjsforretninger
+		62158 	Lædervareforretninger
+		62159 	Detailha. m tekstil-og beklædningsvarer i.a.n
+		62161 	Møbelforretninger
+		62162 	Tæppeforretninger
+		62163 	Kunst- og antikvitetsforretninger
+		62164 	Detailhandel med gaveartikler og brugskunst
+		62171 	Isenkramforretninger
+		62172 	Specialforretninger for hårde hvidevarer
+		62173 	Jagt-,sports- og camping-udstyrsforretninger
+		62174 	Cykel- og knallert forretninger samt barnevog
+		62175 	Kombinerede cykel- og radioforretninger
+		62176 	Radio- og tv-forhandlere,grammofonpladeforret
+		62177 	Musikforretninger
+		62179 	Salg af symaskiner, støvsugere,lamper og træv
+		62181 	Urmagerforretninger
+		62182 	Urmager- og guldsmedeforretninger
+		62183 	Guldsmede- og juvelerforretninger
+		62184 	Specialoptikere
+		62185 	Fotoforretninger
+		62191 	Boghandlere
+		62192 	Bog-antikvariater
+		62193 	Papirvareforretninger
+		62194 	Bladkiosker
+		62195 	Frimærke- og møntforretninger
+		62211 	Bil- og motorcykelforretninger, herunder dæk
+		62212 	Autoudstyr, campingvogne, både,incudlejn. af
+		62213 	Servicestationer
+		62221 	Detailhandel med fyringsolie og fast brændsel
+		62222 	Detailhandel med flaskegas
+		62291 	Legetøjs- og hobbyforretninger
+		62292 	Blomsterforretninger
+		62293 	Fugle- og akvarieforretn.
+		62299 	Anden detailhandel i.a.n.
+		63001 	Restaurations- og hotelvirksomhed
+		63101 	Restaurationer
+		63102 	Marketenderier
+		63109 	Grill- og burgerbarer samt pølsevogne
+		63201 	Hoteller og moteller
+		63202 	Vandrerhjem
+		63203 	Campingpladser
+		63209 	Pensionater,feriekolonierog kursusejendomme m
+		70001 	Transportvirksomhed
+		71110 	Jernbaner
+		71121 	Busdrift (rutebiler)
+		71122 	Rutebilstationer
+		71131 	Turistvognmænd
+		71132 	Taxivognmænd
+		71133 	Taxicentraler
+		71141 	Vognmandsforretninger (undt. taxi- og turist
+		71142 	Flytteforretninger
+		71143 	Fragtcentraler
+		71149 	Transportforretninger i.a.n.
+		71150 	Rørtransport
+		71161 	Udlejning af køretøjer u.fører (herunder leas
+		71162 	Redningskorps
+		71169 	Hjælpevirksomheder for landtransport
+		71211 	Rederier
+		71212 	Færgefart
+		71219 	Bådfart m.v.
+		71231 	Bugserings-, bjærgnings- og redningsvæsen
+		71232 	Havne
+		71233 	Laste- og losseentreprenører (stevedorer)
+		71234 	Fyrvæsen og lodserier
+		71239 	Hjælpevirksomheder for søtransport
+		71311 	Ruteflyvnings- og charterselskaber
+		71319 	Lufttransport
+		71321 	Lufthavne
+		71329 	Hjælpevirksomheder for lufttransport
+		71911 	Rejse- og turistbureauer
+		71912 	Skibsmæglere
+		71913 	Speditører og shippingvirksomhed
+		71914 	Vejere og målere
+		71919 	Tjenesteydelser iforbindelse med transport
+		71920 	Pakhus- og oplagringsvirksomhed
+		72000 	Telefonselskaber,post- og telegrafvæsen
+		72001 	Postvæsen
+		72002 	Telekommunikation
+		80001 	Bank- og finansieringsvirksomhed
+		81011 	Nationalbank
+		81012 	Forretningsbanker
+		81013 	Sparekasser
+		81014 	Andelskasser
+		81015 	Postgiro
+		81021 	Reakkreditinstitutter
+		81022 	Øvrige obligationsudstedende institutter
+		81023 	Finansieringsfonde
+		81024 	Holding-, investerings-, finansierings-selska
+		81027 	Børsmæglerselskaber
+		81028 	Investeringsforeninger
+		81029 	Finansieringsvirksomheder i øvrigt
+		81030 	Tjenesteydelser i forbindelse med finansierin
+		81090 	Hvilende selskaber
+		82001 	Livsforsikringsselsk. og skadesforsikringssel
+		82003 	Tjenesteydelser i forbindelse med livs- og sk
+		82004 	Pensionskasser
+		82005 	Pensionsforsikringsselsk.
+		82006 	Sygeforsikringsselskaber
+		82007 	Arbejdsløshedskasser
+		82008 	Begravelseskasser
+		82009 	Anden forsikringsvirksomhed
+		83111 	Administration og udlejn.af egne ejendomme
+		83112 	Administration af fremmede ejendomme
+		83121 	Ejendomsmæglere og ejendomshandlere
+		83122 	Boliganvisning
+		83129 	Handel og formidling vedr. fast ejendom
+		83210 	Advokatvirksomheder
+		83220 	Revisions- og bogføringsvirksomheder
+		83230 	Databehandlingsvirksomh.
+		83241 	Rådgivende ingeniør virksomheder
+		83242 	Landinspektører
+		83243 	Arkitektvirksomheder
+		83244 	Havearkitektvirksomheder
+		83245 	Tekniske og kemiske laboratorier
+		83249 	Anden teknisk rådgivning
+		83250 	Reklamebureauer og markedsanalyse
+		83291 	Presse- og telegrambureau
+		83292 	Maskinskrivningsbureauer
+		83293 	Adresseringsbureauer, udgivelse af vejvisere
+		83294 	Landbrugskonsulenter
+		83295 	Rationaliserings- og planlægningskonsulenter
+		83299 	Forretningsservice i øvrigt
+		83300 	Udl. el. leasing af maskiner og andre driftsm
+		83310 	Finansiel leasing
+		83321 	Udlejning af landbrugsmaskiner og -driftsmidl
+		83322 	Udlejning af maskiner til bygge- og anlægsvir
+		83323 	Udlejning af industrimaskiner
+		83324 	Udlejning af edbudstyr og kontormaskiner
+		83329 	Udlejning af andre maskiner og andet driftsma
+		91011 	Centraladministration
+		91019 	Statslig administration
+		91020 	Politi og retsvæsen
+		91030 	Forsvar og civilforsvar
+		91040 	Amtskomm. administration
+		91050 	Kommunal administration
+		92011 	Kloakvæsen
+		92012 	Renovationsvirksomheder
+		92021 	Rengøringsvirksomheder (sanitører)
+		92022 	Vinduespolering
+		92023 	Skorstensfejere
+		92024 	Desinfektion, skadedyrsbekæmpelse o. lign.
+		93101 	Højere læreanstalter
+		93102 	Gymnasier, hf- og studenterkurser
+		93103 	Børneskoler
+		93104 	Højskoler, efterskoler og aftenskoler
+		93105 	Handelsskoler, tekniske skoler, efg-skoler
+		93106 	Fagskoler
+		93107 	Specialskoler for handicappede
+		93108 	Køreskoler
+		93109 	Undervisning i øvrigt
+		93200 	Forskningsinstitutioner
+		93311 	Hospitaler, sanatorier og lignende
+		93312 	Praktiserende læger
+		93313 	Praktiserende tandlæger
+		93314 	Praktiserende tandteknik.
+		93315 	Dentallaboratorier
+		93316 	Fødeklinikker og praktiserende jordemødre
+		93317 	Fysioterapeutiske klinik.og praktiserende fys
+		93319 	Institutioner og praktiserende inden for sun
+		93320 	Dyrlægevirksomheder
+		93401 	Velfærdsinstitutioner og foreninger for mødre
+		93402 	Vuggestuer og børnehaver
+		93403 	Daginstitutioner for børn og unge
+		93404 	Hjem for børn og unge
+		93405 	Velfærdsinstitutioner og foreninger for børn
+		93406 	Velfærdsinstitutioner og foreninger for syge
+		93407 	Velfærdsinstitutioner og foreninger for alkoh
+		93408 	Velfærdsinstitutioner og foreninger for ældre
+		93409 	Velfærdsinstitutioner og foreninger i øvrigt
+		93501 	Arbejdsgiverforeninger og erhvervsorganisatio
+		93502 	Lønmodtagerorganisationer
+		93503 	Grundejerforeninger
+		93504 	Lejerforeninger
+		93509 	Økonomiske interesseorganisationer i øvrigt
+		93910 	Religiøse foreninger og institutioner
+		93991 	Politiske partier
+		93992 	Politiske og ideologiske organisationer
+		93993 	Faglige og oplysende foreninger
+		93994 	Oplysende og kulturelle foreninger og institu
+		93995 	Friluftsorganisationer
+		93996 	Selskabelige foreninger og loger
+		93997 	Elevråd
+		93998 	Personaleforeninger
+		93999 	Organisationer og institutioner i øvrigt
+		94110 	Filmproduktion
+		94121 	Filmudlejning
+		94122 	Biografer
+		94129 	Virksomheder i relation til film i øvrigt
+		94130 	Radio og tv
+		94141 	Teatre
+		94142 	Orkestre
+		94143 	Grammofonpladeindspilning
+		94149 	Teatervirksomheder o.l.
+		94150 	Selvstændigt udøvende kunstnere
+		94200 	Biblioteker, museer, botan. og zoolog. haver
+		94901 	Forlystelsesparker og cirkus m.v.
+		94902 	Idrætsklubber og -sammenslutninger
+		94903 	Idrætsanlæg
+		94909 	Forlystelser, rekreation,heru. ride- og danse
+		95001 	Reparation og anden servicevirksomhed
+		95110 	Reparation af skotøj og andre lædervarer
+		95121 	Radio- og tv-reparations-værksteder
+		95122 	Reparation af elektriske husholdningsmask. o.
+		95131 	Autoreparationsværksteder
+		95132 	Karosseriværksteder, undervognsbehandling
+		95133 	Autolakerier
+		95134 	Autoelektrikere
+		95139 	Autoservice i øvrigt
+		95140 	Reparation af ure
+		95150 	Cykelreparationsværksted.
+		95190 	Reparationsvirksomheder, herunder låsesmede
+		95201 	Vaskerier
+		95202 	Selvbetjeningsvaskerier
+		95203 	Rulleforretninger
+		95204 	Renserier og farverier
+		95205 	Selvbetjeningsrenserier
+		95206 	Indleveringssteder for renserier og vaskerie
+		95207 	Udlejning af kitler,håndklæder o.l.
+		95400 	Private husholdninger medans. medhjælp (barne
+		95911 	Damefrisører, skønheds- saloner og solarier
+		95912 	Herrefrisører
+		95913 	Herre- og damefrisører
+		95920 	Fotografiske virksomheder
+		95991 	Udlejning af service o.l.
+		95992 	Udlejningsvirksomhed i øvrigt
+		95993 	Bedemænd og begravelsesvæsen
+		95999 	Personlige tjenesteydelser i øvrigt
+		96001 	Internationale organer
+		96002 	Fremmede staters repræsentationer
+		99999 	Uoplyst

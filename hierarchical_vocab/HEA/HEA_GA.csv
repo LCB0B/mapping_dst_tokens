@@ -1,0 +1,16 @@
+code,prefix,database,value,token_id
+HEA_GA_manual_bin_1,HEA,GA,manual_bin_1,10302
+HEA_GA_manual_bin_5,HEA,GA,manual_bin_5,10345
+HEA_GA_manual_bin_6,HEA,GA,manual_bin_6,10358
+HEA_GA_manual_bin_2,HEA,GA,manual_bin_2,10363
+HEA_GA_manual_bin_10_15,HEA,GA,manual_bin_10_15,10376
+HEA_GA_manual_bin_20_30,HEA,GA,manual_bin_20_30,10377
+HEA_GA_manual_bin_3,HEA,GA,manual_bin_3,10394
+HEA_GA_manual_bin_8,HEA,GA,manual_bin_8,10396
+HEA_GA_manual_bin_40_50,HEA,GA,manual_bin_40_50,10397
+HEA_GA_manual_bin_50_100,HEA,GA,manual_bin_50_100,10400
+HEA_GA_manual_bin_10,HEA,GA,manual_bin_10,10402
+HEA_GA_manual_bin_9,HEA,GA,manual_bin_9,10404
+HEA_GA,HEA,GA,,10411
+HEA_GA_manual_bin_100_500,HEA,GA,manual_bin_100_500,10415
+HEA_GA_manual_bin_500_1000,HEA,GA,manual_bin_500_1000,10425

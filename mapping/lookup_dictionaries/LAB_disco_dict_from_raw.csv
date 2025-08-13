@@ -1,0 +1,1166 @@
+code,description
+LAB_disco_0,Militært arbejde
+LAB_disco_1,Militært arbejde på officersniveau
+LAB_disco_2,"Arbejde, der forudsætter viden på højeste niveau inden for pågældende område"
+LAB_disco_3,"Arbejde, der forudsætter viden på mellemniveau"
+LAB_disco_4,Almindeligt kontor- og kundeservicearbejde
+LAB_disco_5,Service- og salgsarbejde
+LAB_disco_6,"Arbejde inden for landbrug, skovbrug og fiskeri ekskl. Medhjælp"
+LAB_disco_7,Håndværkspræget arbejde
+LAB_disco_8,Operatør- og monteringsarbejde samt transportarbejde
+LAB_disco_9,Andet manuelt arbejde
+LAB_disco_11,"Øverste ledelse i lovgivende myndigheder, virksomheder og organisationer"
+LAB_disco_12,Ledelse inden for administration og erhvervsorienterede funktioner
+LAB_disco_13,Ledelse af hovedaktiviteten inden for produktions- og servicevirksomhed
+LAB_disco_14,"Ledelse af hovedaktiviteten inden for hotel og restauration, detail- og engroshandel og andre serviceområder"
+LAB_disco_21,Militært arbejde på befalingsmandsniveau (underofficersarbejde)
+LAB_disco_22,Arbejde inden for sundhedsområdet
+LAB_disco_23,Undervisning og pædagogisk arbejde
+LAB_disco_24,"Arbejde inden for økonomi, administration og salg"
+LAB_disco_25,Arbejde inden for informations- og kommunikationsteknologi
+LAB_disco_26,"Arbejde inden for jura, samfundsvidenskab og kultur"
+LAB_disco_31,"Teknikerarbejde inden for videnskab, ingeniørvirksomhed og skibs- og luftfart"
+LAB_disco_32,Teknikerarbejde og assisterende arbejde inden for sundhedsområdet
+LAB_disco_33,"Arbejde inden for forretningsservice, økonomi, administration og salg"
+LAB_disco_34,"Arbejde inden for jura, samfundsvidenskab og kultur"
+LAB_disco_35,Informations- og kommunikationsteknikerarbejde
+LAB_disco_41,Almindeligt kontor- og sekretærarbejde
+LAB_disco_42,Kundeservice
+LAB_disco_43,Almindeligt beregnings- og registreringsarbejde
+LAB_disco_44,Andet almindeligt kontor- og kundeservicearbejde
+LAB_disco_51,Servicearbejde
+LAB_disco_52,Salgsarbejde (ekskl. agentarbejde)
+LAB_disco_53,Omsorgsarbejde
+LAB_disco_54,Rednings- og overvågningsarbejde
+LAB_disco_61,Arbejde inden for landbrug og gartneri ekskl. medhjælp
+LAB_disco_62,"Arbejde inden for skovbrug, fiskeri og jagt"
+LAB_disco_71,"Håndværkspræget arbejde inden for byggeri, undtagen elektrikerarbejde"
+LAB_disco_72,Metal- og maskinarbejde
+LAB_disco_73,Præcisionshåndværk og grafisk arbejde
+LAB_disco_74,Arbejde inden for det elektriske og elektroniske område
+LAB_disco_75,"Fødevarefremstilling, snedkeriarbejde, beklædningsfremstilling og beslægtede håndværk"
+LAB_disco_81,Operatørarbejde ved stationære anlæg og maskiner
+LAB_disco_82,Monteringsarbejde
+LAB_disco_83,Chaufførarbejde og førere af køretøjer og mobile maskiner
+LAB_disco_91,Rengøringsarbejde
+LAB_disco_92,"Manuelt arbejde inden for landbrug, skovbrug og fiskeri"
+LAB_disco_93,"Manuelt arbejde inden for råstofudvinding, bygge- og anlægssektoren, produktion og transport"
+LAB_disco_94,Manuelt arbejde med tilberedning af mad
+LAB_disco_95,Gadesalg og -service
+LAB_disco_96,Renovationsarbejde og andet manuelt arbejde
+LAB_disco_110,Militært arbejde på officersniveau
+LAB_disco_111,"Øverste ledelse i lovgivende myndigheder, offentlige virksomheder og organisationer"
+LAB_disco_112,Øverste virksomhedsledelse
+LAB_disco_121,Ledelse inden for forretningsservice og administrative funktioner
+LAB_disco_122,Ledelse af forretnings- og udviklingsorienterede funktioner
+LAB_disco_131,"Ledelse af produktion i landbrug, skovbrug og fiskeri"
+LAB_disco_132,"Ledelse af hovedaktiviteten inden for fremstillingsvirksomhed, råstofudvinding, byggeri, forsyning, distribution mv."
+LAB_disco_133,Ledelse af hovedaktiviteten inden for informations- og kommunikationsteknologi
+LAB_disco_134,Ledelse af hovedaktiviteten inden for servicefag
+LAB_disco_141,Ledelse af hovedaktiviteten inden for hoteller og restauration
+LAB_disco_142,Ledelse af hovedaktiviteten inden for detail- og engroshandel
+LAB_disco_143,Ledelse af hovedaktiviteten inden for andre serviceområder
+LAB_disco_210,Militært arbejde på befalingsmandsniveau (underofficersarbejde)
+LAB_disco_211,Arbejde inden for fysik og geologi
+LAB_disco_212,"Arbejde med matematiske, aktuariske og statistiske metoder og teorier"
+LAB_disco_213,Arbejde inden for biovidenskab
+LAB_disco_214,Ingeniørarbejde (undtagen inden for elektroteknologi)
+LAB_disco_215,Ingeniørarbejde inden for elektroteknologi
+LAB_disco_216,"Arbejde med arkitektur, infrastruktur og design"
+LAB_disco_221,Lægearbejde
+LAB_disco_222,Sygeplejerske- og jordemoderarbejde
+LAB_disco_223,Arbejde inden for naturmedicin og alternativ behandling
+LAB_disco_224,Paramedicinsk arbejde
+LAB_disco_225,Dyrlægearbejde
+LAB_disco_226,Andet sundhedsarbejde
+LAB_disco_231,Undervisning og forskning ved universiteter og højere læreanstalter
+LAB_disco_232,Undervisning ved erhvervsuddannelser
+LAB_disco_233,Almen undervisning efter grundskoleniveau
+LAB_disco_234,Undervisning og pædagogisk arbejde
+LAB_disco_235,Andet undervisnings- og pædagogisk arbejde
+LAB_disco_241,Arbejde inden for finans og økonomi
+LAB_disco_242,Arbejde inden for virksomhedsadministration – privat og offentlig
+LAB_disco_243,"Arbejde inden for salg, marketing og PR"
+LAB_disco_251,Udvikling og analyse af software og applikationer
+LAB_disco_252,Arbejde med databaser og netværk
+LAB_disco_261,Juridisk arbejde
+LAB_disco_262,"Bibliotekar-, arkivar- og museumsinspektørarbejde"
+LAB_disco_263,Arbejde inden for samfundsvidenskab og religion
+LAB_disco_264,Forfatterarbejde og journalistisk og sprogvidenskabeligt arbejde
+LAB_disco_265,Arbejde med kunst og kreative fag
+LAB_disco_310,"Militært arbejde, øvrige rangordener"
+LAB_disco_311,Teknikerarbejde inden for fysisk videnskab og ingeniørvirksomhed
+LAB_disco_312,"Tilsynsførende inden for råstofindvinding, fremstillingsvirksomhed og bygge- og anlægsvirksomhed"
+LAB_disco_313,Teknisk kontrolarbejde inden for processtyring
+LAB_disco_314,Teknikerarbejde inden for biovidenskab
+LAB_disco_315,Teknikerarbejde inden for skibs- og luftfart
+LAB_disco_321,Teknikerarbejde inden for det medicinske og farmaceutiske område
+LAB_disco_322,Assisterende arbejde inden for sygepleje og jordemoderarbejde
+LAB_disco_323,Assisterende arbejde inden for naturmedicin og alternativ behandling
+LAB_disco_324,Assisterende veterinærarbejde og veterinærteknisk arbejde
+LAB_disco_325,Andet tekniker- og assistentarbejde inden for sundhedsområdet
+LAB_disco_331,"Arbejde med finans, regnskab og matematik"
+LAB_disco_332,Agent- og mæglerarbejde inden for salg og indkøb
+LAB_disco_333,Arbejde inden for forretningsservice
+LAB_disco_334,Administrativt sekretærarbejde
+LAB_disco_335,Arbejde med forvaltning og udøvelse af lovgivning
+LAB_disco_341,Arbejde inden for jura og samfundsforhold
+LAB_disco_342,Arbejde med sport og fitness
+LAB_disco_343,"Arbejde inden for kunstneriske, kulturelle og kulinariske områder"
+LAB_disco_351,Driftsteknikerarbejde og brugersupportarbejde inden for informations- og kommunikationsteknologi
+LAB_disco_352,Teknikerarbejde inden for audiovisuelle medier og telekommunikation
+LAB_disco_411,Almindeligt kontorarbejde
+LAB_disco_412,Almindeligt sekretærarbejde
+LAB_disco_413,Indtastningsarbejde
+LAB_disco_421,Kasserer- og inkassatorarbejde samt beslægtede funktioner
+LAB_disco_422,Kundeinformationsarbejde
+LAB_disco_431,Almindeligt beregningsarbejde
+LAB_disco_432,Kontorarbejde inden for materialeregistrering og transport
+LAB_disco_441,Andet almindeligt kontor- og kundeservicearbejde
+LAB_disco_511,Service- og kontrolarbejde under transport og rejser
+LAB_disco_512,Kokkearbejde
+LAB_disco_513,Tjenere og bartendere
+LAB_disco_514,Frisørarbejde og kosmetologarbejde samt beslægtede funktioner
+LAB_disco_515,"Inspektørarbejde inden for rengøring, husholdning og ejendomme"
+LAB_disco_516,Andet servicearbejde
+LAB_disco_521,Salgsarbejde på gade og marked
+LAB_disco_522,Salgsarbejde i butik
+LAB_disco_523,Kasseassistentarbejde og beslægtet kundebetjening
+LAB_disco_524,Andet salgsarbejde
+LAB_disco_531,Børneomsorgsarbejde og hjælpelærerarbejde
+LAB_disco_532,Omsorgsarbejde inden for sundhedsområdet
+LAB_disco_541,Rednings- og overvågningsarbejde
+LAB_disco_611,Arbejde med plantevækst
+LAB_disco_612,Arbejde med dyreopdræt
+LAB_disco_613,Arbejde med dyrkning af plantevækst og opdræt af dyr
+LAB_disco_621,Skovbrugsarbejde
+LAB_disco_622,Arbejde med fiskeri og jagt
+LAB_disco_711,Bygningsarbejde (ekskl. medhjælpere) - basis
+LAB_disco_712,Bygningsarbejde (ekskl. medhjælpere) - finish
+LAB_disco_713,Malere og arbejde inden for rensning af bygninger
+LAB_disco_721,"Pladearbejde, svejsning og beslægtede funktioner"
+LAB_disco_722,"Smede, værktøjsmagere og beslægtede funktioner"
+LAB_disco_723,Mekanikerarbejde
+LAB_disco_731,Præcisionshåndværk
+LAB_disco_732,Grafisk arbejde
+LAB_disco_741,Installation- og reparation af elektrisk udstyr
+LAB_disco_742,Installation og reparation af elektronik og telekommunikation
+LAB_disco_751,Arbejde inden for nærings- og nydelsesmiddelområdet
+LAB_disco_752,Håndværkspræget arbejde i træindustri
+LAB_disco_753,Tekstil- og beklædningsarbejde
+LAB_disco_754,Andet håndværkspræget arbejde
+LAB_disco_811,Operatørarbejde ved anlæg i minedrift og råstofudvinding
+LAB_disco_812,Operatørarbejde ved forarbejdning og færdiggørelse af metal
+LAB_disco_813,Operatørarbejde ved fremstilling af kemiske og fotografiske produkter
+LAB_disco_814,"Operatører af maskiner til fremstilling af gummi-, plastik- og papirprodukter"
+LAB_disco_815,"Operatørarbejde ved fremstilling af tekstil-, pels- og læderprodukter"
+LAB_disco_816,Operatørarbejde ved fremstilling af nærings- og nydelsesmidler
+LAB_disco_817,Operatørarbejde ved træforarbejdning og papirfremstilling
+LAB_disco_818,Andet operatørarbejde ved stationære anlæg og maskiner
+LAB_disco_821,Monteringsarbejde
+LAB_disco_831,Lokomotivførerarbejde og tograngering
+LAB_disco_832,"Chauffører af biler, varevogne og motorcykler"
+LAB_disco_833,Chauffører af busser og lastbiler
+LAB_disco_834,Førere af mobile maskiner
+LAB_disco_835,Dæksarbejde og medhjælp om bord på skibe
+LAB_disco_911,"Rengøringsarbejde i private hjem, hoteller og kontorer"
+LAB_disco_912,"Manuelt rengøringsarbejde af køretøjer, vinduer, vasketøj og andet"
+LAB_disco_921,"Manuelt arbejde inden for landbrug, skovbrug og fiskeri"
+LAB_disco_931,Manuelt arbejde inden for råstofudvinding og bygge- og anlægssektoren
+LAB_disco_932,Manuelt produktionsarbejde
+LAB_disco_933,Transport- og lagerarbejde
+LAB_disco_941,Manuelt arbejde med tilberedning af mad
+LAB_disco_951,Servicearbejde på gaden
+LAB_disco_952,Gadesalg (undtagen madvarer)
+LAB_disco_961,Renovationsarbejde
+LAB_disco_962,Andet manuelt arbejde
+LAB_disco_1111,Øverste ledelse i lovgivende myndigheder
+LAB_disco_1112,Øverste ledelse i offentlige virksomheder
+LAB_disco_1114,Øverste ledelse i interesseorganisationer
+LAB_disco_1120,Øverste virksomhedsledelse
+LAB_disco_1211,Ledelse inden for økonomifunktioner
+LAB_disco_1212,Ledelse inden for HR-funktioner
+LAB_disco_1213,Ledelse inden for offentlig administration og virksomhedsstrategi/policy området
+LAB_disco_1219,Ledelse inden for anden forretningsservice og andre administrative funktioner
+LAB_disco_1221,Ledelse af salg og marketing
+LAB_disco_1222,Ledelse af reklame og PR
+LAB_disco_1223,Ledelse af kommerciel forskning og udvikling
+LAB_disco_1311,Ledelse af produktion i landbrug og skovbrug
+LAB_disco_1312,Ledelse af produktion inden for akvakultur og fiskeri
+LAB_disco_1321,"Ledelse af hovedaktiviteten inden for fremstillingsvirksomhed (undtagen landbrug, skovbrug og fiskeri)"
+LAB_disco_1322,Ledelse af hovedaktiviteten inden for råstofudvinding
+LAB_disco_1323,Ledelse af hovedaktiviteten inden for bygge- og anlægsvirksomhed
+LAB_disco_1324,"Ledelse af hovedaktiviteten inden for forsyning, distribution o.l."
+LAB_disco_1330,Ledelse af hovedaktiviteten inden for informations- og kommunikationsteknologi
+LAB_disco_1341,Ledelse af hovedaktiviteten inden for pædagogisk arbejde med og omsorg for børn
+LAB_disco_1342,Ledelse af hovedaktiviteten inden for sundhedsområdet
+LAB_disco_1343,Ledelse af hovedaktiviteten inden for ældreplejen
+LAB_disco_1344,Ledelse af hovedaktiviteten inden for det sociale område
+LAB_disco_1345,Ledelse af hovedaktiviteten inden for undervisningsområdet
+LAB_disco_1346,Ledelse af hovedaktiviteten inden for finans- og forsikringsområdet
+LAB_disco_1349,Anden ledelse af hovedaktiviteten inden for servicefag
+LAB_disco_1411,Ledelse af hovedaktiviteten af hoteller
+LAB_disco_1412,Ledelse af hovedaktiviteten inden for restauration
+LAB_disco_1420,Ledelse af hovedaktiviteten inden for detail- og engroshandel
+LAB_disco_1431,"Ledelse af hovedaktiviteten inden for sport, forlystelse og kultur"
+LAB_disco_1439,Ledelse af hovedaktiviteten inden for andre serviceområder
+LAB_disco_2111,Arbejde inden for fysik og astronomi
+LAB_disco_2112,Arbejde inden for meteorologi
+LAB_disco_2113,Arbejde inden for kemi
+LAB_disco_2114,Arbejde inden for geologi og geofysik
+LAB_disco_2120,"Arbejde med matematiske, aktuariske og statistiske metoder og teorier"
+LAB_disco_2131,"Arbejde inden for biokemi, biologi, botanik, zoologi og beslægtede områder"
+LAB_disco_2132,"Rådgivning inden for landbrug, skovbrug og fiskeri"
+LAB_disco_2133,Arbejde inden for miljøbeskyttelse
+LAB_disco_2141,Ingeniørarbejde i industri og produktion
+LAB_disco_2142,Ingeniørarbejde vedrørende bygninger og anlæg
+LAB_disco_2143,Ingeniørarbejde inden for miljø
+LAB_disco_2144,Ingeniørarbejde inden for mekaniske systemer
+LAB_disco_2145,Ingeniørarbejde inden for kemi
+LAB_disco_2146,"Ingeniørarbejde inden for minedrift, metallurgi og beslægtede områder"
+LAB_disco_2149,Andet ingeniørarbejde (undtagen elektroteknologi)
+LAB_disco_2151,Ingeniørarbejde inden for elektricitet
+LAB_disco_2152,Ingeniørarbejde inden for elektronik
+LAB_disco_2153,Ingeniørarbejde inden for telekommunikation
+LAB_disco_2161,Arbejde med bygningsarkitektur
+LAB_disco_2162,Arbejde med landskabsarkitektur
+LAB_disco_2163,Arbejde med produkt- og tøjdesign
+LAB_disco_2164,Arbejde med by- og trafikplanlægning
+LAB_disco_2165,Arbejde med kartografi og landinspektørarbejde
+LAB_disco_2166,Arbejde med grafisk og multimediedesign
+LAB_disco_2211,Almindeligt lægearbejde
+LAB_disco_2212,Speciallægearbejde
+LAB_disco_2221,Sygeplejerskearbejde
+LAB_disco_2222,Jordemoderarbejde
+LAB_disco_2230,Arbejde inden for naturmedicin og alternativ behandling
+LAB_disco_2240,Paramedicinsk arbejde
+LAB_disco_2250,Dyrlægearbejde
+LAB_disco_2261,Tandlægearbejde
+LAB_disco_2262,Farmaceutarbejde
+LAB_disco_2263,Arbejde inden for arbejdsmiljø og hygiejne
+LAB_disco_2264,Fysioterapeut- og afspændingspædagogarbejde
+LAB_disco_2265,Kost- og ernæringsarbejde
+LAB_disco_2266,Arbejde inden for audiologi og logopædi
+LAB_disco_2267,Optiker/optometristarbejde
+LAB_disco_2269,Sundhedsarbejde ikke klassificeret andetsteds
+LAB_disco_2310,Undervisning og forskning på universiteter og højere læreanstalter
+LAB_disco_2320,Undervisning ved erhvervsuddannelser
+LAB_disco_2330,Almen undervisning efter grundskoleniveau
+LAB_disco_2341,Undervisning på grundskoleniveau (inkl. 10. klasse)
+LAB_disco_2342,Undervisning før grundskoleniveau
+LAB_disco_2343,Pædagogisk arbejde
+LAB_disco_2351,"Forskning, udvikling og rådgivning inden for undervisningsmetoder"
+LAB_disco_2352,Specialundervisning
+LAB_disco_2353,Anden sprogundervisning
+LAB_disco_2354,Anden musik- og sangundervisning
+LAB_disco_2355,Anden undervisning inden for kreative fag
+LAB_disco_2356,Anden undervisning inden for informationsteknologi
+LAB_disco_2357,Specialpædagogisk arbejde
+LAB_disco_2359,Undervisnings- og pædagogisk arbejde ikke klassificeret andetsteds
+LAB_disco_2411,Revisions- og regnskabscontrollerarbejde
+LAB_disco_2412,"Rådgivning inden for finans, forsikring og investering"
+LAB_disco_2413,"Arbejde med analyse, produktudvikling- og vedligeholdelse inden for finans og forsikring"
+LAB_disco_2421,Analytikerarbejde inden for ledelse og virksomhedsorganisation
+LAB_disco_2422,Arbejde med virksomhedsstrategi/policy
+LAB_disco_2423,Arbejde med analyse og rådgivning inden for HR
+LAB_disco_2424,Arbejde med personaleudvikling og -oplæring
+LAB_disco_2431,Arbejde inden for reklame og marketing
+LAB_disco_2432,Arbejde inden for PR
+LAB_disco_2433,Arbejde inden for teknisk og medicinsk salg (undtagen informations- og kommunikationsteknologi)
+LAB_disco_2434,Arbejde inden for salg af informations- og kommunikationsteknologi
+LAB_disco_2511,Systemanalytikerarbejde
+LAB_disco_2512,Softwareudvikling
+LAB_disco_2513,Web- og multimedieudvikling
+LAB_disco_2514,Vedligeholdelse og dokumentation af software
+LAB_disco_2519,"Andet arbejde med software, herunder test og kvalitetssikring"
+LAB_disco_2521,Design og administration af databaser
+LAB_disco_2522,Systemadministration
+LAB_disco_2523,Arbejde med computernetværk
+LAB_disco_2529,Andet arbejde med databaser og netværk
+LAB_disco_2611,Advokatarbejde
+LAB_disco_2612,Dommerarbejde
+LAB_disco_2619,Andet juridisk arbejde
+LAB_disco_2621,Arkivar- og museumsinspektørarbejde
+LAB_disco_2622,Bibliotekararbejde og andet informationsarbejde
+LAB_disco_2631,Arbejde inden for samfundsøkonomi
+LAB_disco_2632,"Arbejde inden for sociologi, antropologi og beslægtede områder"
+LAB_disco_2633,"Arbejde inden for filosofi, historie og statskundskab"
+LAB_disco_2634,Arbejde inden for psykologi
+LAB_disco_2635,Socialrådgivningsarbejde
+LAB_disco_2636,Arbejde inden for religion
+LAB_disco_2641,Forfatterarbejde
+LAB_disco_2642,Journalistisk arbejde
+LAB_disco_2643,Translatørarbejde og andet sprogvidenskabeligt arbejde
+LAB_disco_2651,Kunstnerisk arbejde inden for visuelle kunstarter
+LAB_disco_2652,Kunstnerisk arbejde inden for musik og sang
+LAB_disco_2653,Kunstnerisk arbejde inden for dans og koreografi
+LAB_disco_2654,"Arbejde med instruktion og produktion af film, teater og beslægtede funktioner"
+LAB_disco_2655,Skuespilarbejde
+LAB_disco_2656,"Speakerarbejde på radio, TV og andre medier"
+LAB_disco_2659,Andet arbejde med kunst og kreative fag
+LAB_disco_3111,Teknikerarbejde inden for kemisk og fysisk videnskab
+LAB_disco_3112,Teknikerarbejde inden for byggeri- og anlæg
+LAB_disco_3113,Teknikerarbejde inden for det elektriske område
+LAB_disco_3114,Teknikerarbejde inden for det elektroniske område
+LAB_disco_3115,Teknikerarbejde inden for det mekaniske område
+LAB_disco_3116,Teknikerarbejde inden for det kemiske område
+LAB_disco_3117,Teknikerarbejde inden for minedrift og metallurgi
+LAB_disco_3118,Teknisk tegnearbejde
+LAB_disco_3119,Andet teknikerarbejde inden for fysisk videnskab og ingeniørvirksomhed
+LAB_disco_3121,Tilsynsførende inden for råstofindvinding
+LAB_disco_3122,Tilsynsførende inden for fremstillingsvirksomhed
+LAB_disco_3123,Tilsynsførende inden for bygge- og anlægsvirksomhed
+LAB_disco_3131,Teknisk kontrolarbejde på kraftværker
+LAB_disco_3132,Teknisk kontrolarbejde på forbrændings- og vandrensningsanlæg
+LAB_disco_3133,Teknisk kontrolarbejde på kemiske behandlingsanlæg
+LAB_disco_3134,Teknisk kontrolarbejde på olie- og naturgasraffinaderier
+LAB_disco_3135,Teknisk kontrolarbejde ved metalproduktion
+LAB_disco_3139,Andet teknisk kontrolarbejde inden for processtyring
+LAB_disco_3141,Teknikerarbejde inden for biovidenskab (undtagen medicinsk område)
+LAB_disco_3142,Landbrugsteknikerarbejde
+LAB_disco_3143,Skovbrugsteknikerarbejde
+LAB_disco_3151,Teknikerarbejde inden for skibsfart
+LAB_disco_3152,Skibsførerarbejde
+LAB_disco_3153,Flypilotarbejde
+LAB_disco_3154,Flyvelederarbejde
+LAB_disco_3155,Teknikerarbejde inden for luftfartssikkerhed
+LAB_disco_3211,Teknikerarbejde inden for brug af medicinsk røntgen- og behandlingsudstyr
+LAB_disco_3212,Teknikerarbejde i medicinske og patologiske laboratorier
+LAB_disco_3213,Arbejde inden for farmaci
+LAB_disco_3214,Teknikerarbejde inden for fremstilling af proteser
+LAB_disco_3221,Assisterende arbejde inden for sygepleje
+LAB_disco_3222,Assisterende arbejde inden for fødselshjælp
+LAB_disco_3230,Assisterende arbejde inden for naturmedicin og alternativ behandling
+LAB_disco_3240,Assisterende veterinærarbejde og veterinærteknisk arbejde
+LAB_disco_3251,Arbejde med tandpleje
+LAB_disco_3252,Teknikerarbejde inden for medicinsk registrering og sundhedsinformation
+LAB_disco_3253,Assisterende sundhedsarbejde ved lokale/akutte behandlingscentre
+LAB_disco_3254,Teknikerarbejde inden for fremstilling af synshjælpemidler
+LAB_disco_3255,Assisterende arbejde inden for fysioterapi
+LAB_disco_3256,Assisterende arbejde inden for sundhedsområdet
+LAB_disco_3257,Arbejde med kontrol af arbejdsmiljø og sikkerhed
+LAB_disco_3258,Redningsarbejde (Ambulancebehandler)
+LAB_disco_3259,Tekniker- og assistentarbejde inden for sundhedsområdet ikke klassificeret andetsteds
+LAB_disco_3311,Arbejde med omsætning af værdipapirer og valuta
+LAB_disco_3312,Arbejde med kredit- og långivning
+LAB_disco_3313,Regnskabsarbejde
+LAB_disco_3314,Arbejde med statistik og matematik
+LAB_disco_3315,Vurderings- og takseringsarbejde
+LAB_disco_3321,Forsikringsarbejde
+LAB_disco_3322,Salgsarbejde (agenter)
+LAB_disco_3323,Indkøbsarbejde (agenter)
+LAB_disco_3324,Erhvervsmæglerarbejde
+LAB_disco_3331,Speditørarbejde
+LAB_disco_3332,Konference- og eventplanlægning
+LAB_disco_3333,Jobformidling
+LAB_disco_3334,Ejendomsmægler- og ejendomsadministratorarbejde
+LAB_disco_3339,Andet arbejde inden for forretningsservice
+LAB_disco_3341,Kontorlederarbejde
+LAB_disco_3342,Advokatsekretærarbejde
+LAB_disco_3343,Chef- og direktionssekretærarbejde
+LAB_disco_3344,Lægesekretærarbejde
+LAB_disco_3351,Told- og grænsebetjentarbejde
+LAB_disco_3352,Administration af skatte- og afgiftslovgivning
+LAB_disco_3353,Formidling af offentlige ydelser
+LAB_disco_3354,"Udstedelse af pas, kørekort o.l."
+LAB_disco_3355,Politimæssigt undersøgelsesarbejde
+LAB_disco_3359,Andet arbejde med forvaltning og udøvelse af lovgivning
+LAB_disco_3411,Juridisk arbejde på mellemniveau
+LAB_disco_3412,Social rådgivningsarbejde på mellemniveau
+LAB_disco_3413,Arbejde med tilknytning til religion på mellemniveau
+LAB_disco_3421,Sportsudøvere
+LAB_disco_3422,"Træner-, instruktør- og dommerarbejde inden for sport"
+LAB_disco_3423,Instruktørarbejde inden for fitness og beslægtede områder
+LAB_disco_3431,Fotografarbejde
+LAB_disco_3432,Indretningsarkitekt- og dekoratørarbejde
+LAB_disco_3433,"Galleri-, museums- og biblioteksteknikerarbejde"
+LAB_disco_3434,Køkkenchefarbejde
+LAB_disco_3435,"Andet arbejde inden for kunstneriske, kulturelle og kulinariske områder"
+LAB_disco_3511,Driftsteknikerarbejde inden for informations- og kommunikationsteknologi
+LAB_disco_3512,Brugersupportarbejde inden for informations- og kommunikationsteknologi
+LAB_disco_3513,Netværks- og systemteknikerarbejde inden for informations- og kommunikationsteknologi
+LAB_disco_3514,Internetteknikerarbejde
+LAB_disco_3521,Teknikerarbejde inden for audiovisuelle medier
+LAB_disco_3522,Teknikerarbejde inden for telekommunikation
+LAB_disco_4110,Almindeligt kontorarbejde
+LAB_disco_4120,Almindeligt sekretærarbejde
+LAB_disco_4131,Tekstbehandlingsarbejde
+LAB_disco_4132,Dataregistreringsarbejde
+LAB_disco_4211,Kundebetjening og kassererarbejde i pengeinstitutter
+LAB_disco_4212,Bookmaker- og croupierarbejde samt beslægtede funktioner
+LAB_disco_4213,Pantelånerarbejde og beslægtede funktioner
+LAB_disco_4214,Inkassatorarbejde og beslægtede funktioner
+LAB_disco_4221,Rejsebureauarbejde
+LAB_disco_4222,Informationsarbejde på kundekontaktcentre
+LAB_disco_4223,Telefonomstillingsarbejde
+LAB_disco_4224,Hotelreceptionistarbejde
+LAB_disco_4225,Oplysnings- og forespørgselsarbejde
+LAB_disco_4226,"Almindeligt receptionistarbejde, ekskl. hotelreceptionistarbejde"
+LAB_disco_4227,Interviewarbejde inden for markedsundersøgelse
+LAB_disco_4229,Andet kundeinformationsarbejde
+LAB_disco_4311,Almindeligt regnskabs- og bogføringsarbejde
+LAB_disco_4312,"Almindeligt kontorarbejde vedrørende statistik, finansielle transaktioner og forsikringer"
+LAB_disco_4313,Almindeligt kontorarbejde inden for lønbehandling
+LAB_disco_4321,Lagerekspeditionsarbejde
+LAB_disco_4322,Registreringsarbejde inden for produktion
+LAB_disco_4323,Registreringsarbejde inden for transport- og trafikstyring
+LAB_disco_4411,Biblioteksservicearbejde
+LAB_disco_4412,Postbud- og betjentarbejde samt postsorteringsarbejde
+LAB_disco_4413,Korrekturlæsning og beslægtede funktioner
+LAB_disco_4415,Arbejde med arkivering og kopiering
+LAB_disco_4416,Almindeligt kontorarbejde inden for HR
+LAB_disco_4419,Almindeligt kontor- og kundeservicearbejde ikke klassificeret andetsteds
+LAB_disco_5111,Servicearbejde af passagerer i forbindelse med rejser
+LAB_disco_5112,Kontrolarbejde under rejser
+LAB_disco_5113,Turist- og rejselederarbejde
+LAB_disco_5120,Kokkearbejde (ekskl. køkkenchefarbejde)
+LAB_disco_5131,Tjenerarbejde
+LAB_disco_5132,Bartenderarbejde
+LAB_disco_5141,Frisørarbejde
+LAB_disco_5142,Kosmetologarbejde og beslægtede funktioner
+LAB_disco_5151,Rengøringsinspektørarbejde
+LAB_disco_5152,Husbestyrerarbejde
+LAB_disco_5153,Ejendomsinspektørarbejde
+LAB_disco_5161,Astrologiarbejde og beslægtede funktioner
+LAB_disco_5162,Kammertjenerarbejde
+LAB_disco_5163,Bedemandsarbejde
+LAB_disco_5164,Arbejde med kæledyr
+LAB_disco_5165,Kørelærerarbejde
+LAB_disco_5169,Servicearbejde ikke klassificeret andetsteds
+LAB_disco_5211,Stade- og markedssalg
+LAB_disco_5212,Gadesalg af fødevarer
+LAB_disco_5221,Butiksejere
+LAB_disco_5222,Butikslederarbejde
+LAB_disco_5223,Salgsarbejde i butik
+LAB_disco_5230,Kasseassistentarbejde og beslægtet kundebetjening
+LAB_disco_5241,Modelarbejde
+LAB_disco_5242,Demonstrationsarbejde
+LAB_disco_5244,Salgsarbejde i kundekontaktcentre
+LAB_disco_5245,Salgsarbejde på servicestationer
+LAB_disco_5246,Kasseassistentarbejde inden for catering og fastfood
+LAB_disco_5249,Salgsarbejde ikke klassificeret andetsteds
+LAB_disco_5311,Børneomsorgsarbejde
+LAB_disco_5312,Hjælpelærerarbejde
+LAB_disco_5321,Omsorgsarbejde på institutioner og hospitaler (ekskl. plejehjem)
+LAB_disco_5322,Social- og sundhedsarbejde i private hjem (inkl. plejehjem)
+LAB_disco_5329,Andet omsorgsarbejde inden for sundhedsområdet
+LAB_disco_5411,Brandslukningsarbejde
+LAB_disco_5412,Politiarbejde
+LAB_disco_5413,Fængselsbetjentarbejde
+LAB_disco_5414,Sikkerhedsvagtarbejde
+LAB_disco_5419,Andet rednings- og overvågningsarbejde (ekskl. ambulancebehandlere)
+LAB_disco_6111,Dyrkning af markafgrøder inden for jordbrug
+LAB_disco_6112,Dyrkning af afgrøder fra træer og buske
+LAB_disco_6113,Væksthus- og anlægsgartnerarbejde
+LAB_disco_6114,Dyrkning af blandede afgrøder
+LAB_disco_6121,"Arbejde med opdræt af husdyr, ekskl. fjerkræ"
+LAB_disco_6122,Arbejde med opdræt af fjerkræ
+LAB_disco_6123,Arbejde med bi- og silkeavl
+LAB_disco_6129,Andet arbejde med dyreopdræt
+LAB_disco_6130,Arbejde med dyrkning af plantevækst og opdræt af dyr
+LAB_disco_6210,Skovbrugsarbejde
+LAB_disco_6221,Arbejde inden for akvakultur
+LAB_disco_6222,Arbejde med fiskeri i kyst- og søområder
+LAB_disco_6223,Arbejde med havfiskeri
+LAB_disco_6224,Jagtarbejde
+LAB_disco_7112,Murer- og brolægningsarbejde
+LAB_disco_7113,Stenhuggerarbejde
+LAB_disco_7114,Arbejde med opførelse af betonkonstruktioner
+LAB_disco_7115,Tømrer- og bygningssnedkerarbejde
+LAB_disco_7119,Andet bygningsarbejde – basis
+LAB_disco_7121,Arbejde med tagdækning
+LAB_disco_7122,Arbejde med gulv- og klinkelægning
+LAB_disco_7123,Stukkatørarbejde
+LAB_disco_7124,Arbejde med isolering af bygninger
+LAB_disco_7125,Glarmesterarbejde
+LAB_disco_7126,VVS-arbejde
+LAB_disco_7127,Montørarbejde inden for klima- og køleteknik
+LAB_disco_7131,Malerarbejde
+LAB_disco_7132,Sprøjtelakererarbejde
+LAB_disco_7133,Rensning af bygninger
+LAB_disco_7211,Formning og støbning af emner i metal
+LAB_disco_7212,Svejsearbejde og skærebrænding
+LAB_disco_7213,Pladesmedarbejde
+LAB_disco_7214,Stålkonstruktionsarbejde
+LAB_disco_7215,Riggerarbejde
+LAB_disco_7221,Smedearbejde
+LAB_disco_7222,Værktøjsmagerarbejde
+LAB_disco_7223,Operatør- og opstillingsarbejde af metalforarbejdningsmaskiner
+LAB_disco_7224,Arbejde med polering og slibning af emner i metal
+LAB_disco_7231,Mekanikerarbejde inden for motorkøretøjer
+LAB_disco_7232,Flymekanikerarbejde
+LAB_disco_7233,"Mekanikerarbejde, landbrugs- og industrimaskiner"
+LAB_disco_7234,"Mekanikerarbejde, cykler og tilsvarende køretøjer"
+LAB_disco_7311,Finmekanikerarbejde
+LAB_disco_7312,Håndfremstilling af musikinstrumenter
+LAB_disco_7313,"Juveler-, guld- og sølvsmedearbejde"
+LAB_disco_7314,Pottemagerarbejde og beslægtede funktioner
+LAB_disco_7315,Glaspusterarbejde og arbejde med færdiggørelse af glasprodukter
+LAB_disco_7316,"Skiltemaler-, dekoratør- og gravørarbejde"
+LAB_disco_7317,Håndfremstilling af produkter i træ og tilsvarende materialer
+LAB_disco_7318,"Håndfremstilling af produkter i tekstil, læder og tilsvarende materialer"
+LAB_disco_7319,Andet præcisionshåndværk
+LAB_disco_7321,Prepressarbejde og grafisk formfremstilling
+LAB_disco_7322,Trykkerarbejde
+LAB_disco_7323,Arbejde med færdiggørelse og indbinding af trykte produkter
+LAB_disco_7411,Elektrikerarbejde
+LAB_disco_7412,Elektromekanikerarbejde
+LAB_disco_7413,Installation og reparation af elektrisk ledningsføring inden for forsyningsvirksomhed
+LAB_disco_7421,Elektronikmekanikerarbejde
+LAB_disco_7422,Installation og service inden for informations- og kommunikationsteknologi
+LAB_disco_7511,"Slagterarbejde, fiskehandel og beslægtet arbejde inden for fødevarefremstilling"
+LAB_disco_7512,"Bager- og konditorarbejde, ekskl. industri"
+LAB_disco_7513,Fremstilling af mejeriprodukter
+LAB_disco_7514,"Fremstilling og konservering af frugt, grøntsager og tilsvarende produkter"
+LAB_disco_7515,Prøvesmagning af nærings- og nydelsesmidler
+LAB_disco_7516,Fremstilling af tobaksprodukter
+LAB_disco_7521,Håndværkspræget træimprægneringsarbejde
+LAB_disco_7522,Møbelsnedkerarbejde
+LAB_disco_7523,Operatør- og opstillingsarbejde af træbearbejdningsmaskiner
+LAB_disco_7531,Skrædderarbejde og beslægtet arbejde
+LAB_disco_7532,Tilskærerarbejde
+LAB_disco_7533,Syarbejde og beslægtet arbejde
+LAB_disco_7534,Møbelpolstrerarbejde
+LAB_disco_7535,Forarbejdning af skind
+LAB_disco_7536,Skomagerarbejde og beslægtet arbejde
+LAB_disco_7541,Dykkerarbejde
+LAB_disco_7542,Sprængnings- og fyrværkeriarbejde
+LAB_disco_7543,Kvalitetskontrol og testarbejde af produkter (undtagen nærings- og nydelsesmidler)
+LAB_disco_7544,Desinfektionsarbejde og skadedyrsbekæmpelse
+LAB_disco_7549,Håndværkspræget arbejde ikke klassificeret andetsteds
+LAB_disco_8111,Mine- og stenbrudsarbejde
+LAB_disco_8112,Operatørarbejde ved anlæg til råstofudvinding
+LAB_disco_8113,Boreanlægsarbejde
+LAB_disco_8114,"Operatørarbejde ved fremstilling af cement-, sten- og andre råstofprodukter"
+LAB_disco_8121,Operatørarbejde ved forarbejdning af metal
+LAB_disco_8122,Operatørarbejde ved overfladebehandling af metal
+LAB_disco_8131,Operatørarbejde ved fremstilling af kemiske produkter
+LAB_disco_8132,Operatørarbejde ved fremstilling af fotografiske produkter
+LAB_disco_8141,Operatørarbejde ved fremstilling af gummiprodukter
+LAB_disco_8142,Operatørarbejde ved fremstilling af plast
+LAB_disco_8143,Operatørarbejde ved fremstilling af papirprodukter
+LAB_disco_8151,Operatørarbejde ved forarbejdning af materialer i fiber og tekstil
+LAB_disco_8152,Operatørarbejde ved vævning og strikning
+LAB_disco_8153,Operatørarbejde af symaskiner
+LAB_disco_8154,"Operatørarbejde ved blegning, farvning og rensning af tekstiler"
+LAB_disco_8155,Operatørarbejde ved klargøring af pels og læder
+LAB_disco_8156,Operatørarbejde ved fremstilling af fodtøj og tilsvarende produkter
+LAB_disco_8157,Operatørarbejde af vaskemaskiner
+LAB_disco_8159,"Andet operatørarbejde ved fremstilling af tekstil-, pels- og læderprodukter"
+LAB_disco_8160,Operatørarbejde ved fremstilling af nærings- og nydelsesmidler
+LAB_disco_8171,Operatørarbejde ved fremstilling af papirmasse og papirprodukter
+LAB_disco_8172,Operatørarbejde ved træforarbejdning
+LAB_disco_8181,Operatørarbejde ved fremstilling af glas og keramik
+LAB_disco_8182,Operatørarbejde ved dampmaskine- og kedelanlæg
+LAB_disco_8183,"Operatørarbejde af maskiner til pakning, påfyldning og mærkning"
+LAB_disco_8189,Andet operatørarbejde ved stationære anlæg og maskiner
+LAB_disco_8211,Monteringsarbejde af mekaniske maskiner
+LAB_disco_8212,Monteringsarbejde af elektrisk og elektronisk udstyr
+LAB_disco_8219,Andet monteringsarbejde
+LAB_disco_8311,Lokomotivførerarbejde
+LAB_disco_8312,Tograngering
+LAB_disco_8321,Motorcykelførere
+LAB_disco_8322,"Chauffører af biler, taxier og varevogne"
+LAB_disco_8331,Buschauffører
+LAB_disco_8332,Lastbilchauffører
+LAB_disco_8341,Førere af mobile landsbrugs- og skovbrugsmaskiner
+LAB_disco_8342,Entreprenørmaskinførerarbejde
+LAB_disco_8343,Kran- og liftførerarbejde
+LAB_disco_8344,Truckførerarbejde
+LAB_disco_8350,Dæksarbejde og medhjælp om bord på skibe
+LAB_disco_9111,Rengøringsarbejde i private hjem
+LAB_disco_9112,Rengøringsarbejde undtagen i private hjem
+LAB_disco_9121,Manuel vask og presning af tøj
+LAB_disco_9122,Rengøring af transportmidler
+LAB_disco_9123,Vinduespudsning
+LAB_disco_9129,Andet rengøringsarbejde
+LAB_disco_9211,Manuelt arbejde inden for agerbrug
+LAB_disco_9212,Manuelt arbejde inden for husdyravl
+LAB_disco_9213,Manuelt arbejde inden for både agerbrug og husdyravl
+LAB_disco_9214,Manuelt arbejde inden for havebrug og væksthusgartneri
+LAB_disco_9215,Manuelt skovarbejde
+LAB_disco_9216,Manuelt arbejde inden for fiskeri og akvakultur
+LAB_disco_9311,Manuelt arbejde inden for råstofudvinding
+LAB_disco_9312,Manuelt arbejde inden for anlægssektoren
+LAB_disco_9313,Manuelt arbejde inden for byggesektoren
+LAB_disco_9321,Pakkeriarbejde
+LAB_disco_9329,Andet manuelt produktionsarbejde
+LAB_disco_9331,Førere af hånd- og pedaldrevne køretøjer
+LAB_disco_9332,Førere af dyretrukne køretøjer og maskineri
+LAB_disco_9333,Arbejde med lastning og losning
+LAB_disco_9334,Arbejde med opfyldning af lager og butik
+LAB_disco_9411,Tilberedning af fastfood
+LAB_disco_9412,Køkkenhjælp mv.
+LAB_disco_9510,Servicearbejde på gaden
+LAB_disco_9520,Gadesalg (undtagen madvarer)
+LAB_disco_9611,Indsamling af skrald og genbrugsartikler
+LAB_disco_9612,Arbejde med affaldssortering
+LAB_disco_9613,Gadefejning og beslægtet arbejde
+LAB_disco_9621,Kurérarbejde og transport af bagage
+LAB_disco_9622,Forefaldende arbejde
+LAB_disco_9623,Måleraflæsning og tømning af salgsautomater
+LAB_disco_9629,Andet manuelt arbejde
+LAB_disco_11000,Militært arbejde på officersniveau
+LAB_disco_21000,Militært arbejde på befalingsmandsniveau (underofficersarbejde)
+LAB_disco_31000,"Militært arbejde, øvrige rangordener"
+LAB_disco_111100,Øverste ledelse i lovgivende myndigheder
+LAB_disco_111200,Øverste ledelse i offentlige virksomheder
+LAB_disco_111400,Øverste ledelse i interesseorganisationer
+LAB_disco_112010,Øverste administrerende virksomhedsledelse
+LAB_disco_112020,Virksomhedsledelse af tværgående funktioner
+LAB_disco_121100,Ledelse inden for økonomifunktioner
+LAB_disco_121200,Ledelse inden for HR-funktioner
+LAB_disco_121310,Ledelse inden for virksomhedsstrategi/policy området
+LAB_disco_121320,Administrativ ledelse i den offentlige sektor
+LAB_disco_121910,Ledelse af rengøringsfunktioner o.l.
+LAB_disco_121920,Ledelse af logistikfunktioner
+LAB_disco_121990,Anden ledelse inden for forretningsservice og administrative funktioner i øvrigt
+LAB_disco_122100,Ledelse af salg og marketing
+LAB_disco_122200,Ledelse af reklame og PR
+LAB_disco_122300,Ledelse af kommerciel forskning og udvikling
+LAB_disco_131100,Ledelse af produktion i landbrug og skovbrug
+LAB_disco_131200,Ledelse af produktion inden for akvakultur og fiskeri
+LAB_disco_132100,"Ledelse af hovedaktiviteten inden for fremstillingsvirksomhed (undtagen landbrug, skovbrug og fiskeri)"
+LAB_disco_132200,Ledelse af hovedaktiviteten inden for råstofudvinding
+LAB_disco_132300,Ledelse af hovedaktiviteten inden for bygge- og anlægsvirksomhed
+LAB_disco_132400,"Ledelse af hovedaktiviteten inden for forsyning, distribution o.l."
+LAB_disco_133010,Ledelse af hovedaktiviteten inden for informations- og kommunikationsteknologi (Business to Business)
+LAB_disco_133020,Ledelse af intern IT
+LAB_disco_134100,Ledelse af hovedaktiviteten inden for pædagogisk arbejde med og omsorg for børn
+LAB_disco_134200,Ledelse af hovedaktiviteten inden for sundhedsområdet
+LAB_disco_134300,Ledelse af hovedaktiviteten inden for ældreplejen
+LAB_disco_134400,Ledelse af hovedaktiviteten inden for det sociale område
+LAB_disco_134500,Ledelse af hovedaktiviteten inden for undervisningsområdet
+LAB_disco_134600,Ledelse af hovedaktiviteten inden for finans- og forsikringsområdet
+LAB_disco_134910,Ledelse af hovedaktiviteten inden for politi og retsvæsen
+LAB_disco_134990,Anden ledelse af hovedaktiviteten inden for servicefag i øvrigt
+LAB_disco_141100,Ledelse af hovedaktiviteten af hoteller
+LAB_disco_141200,Ledelse af hovedaktiviteten inden for restauration
+LAB_disco_142010,Ledelse af hovedaktiviteten inden for detailhandel
+LAB_disco_142020,Ledelse af hovedaktiviteten inden for engroshandel
+LAB_disco_143100,"Ledelse af hovedaktiviteten inden for sport, forlystelse og kultur"
+LAB_disco_143900,Ledelse af hovedaktiviteten inden for andre serviceområder
+LAB_disco_211100,Arbejde inden for fysik og astronomi
+LAB_disco_211200,Arbejde inden for meteorologi
+LAB_disco_211300,Arbejde inden for kemi
+LAB_disco_211400,Arbejde inden for geologi og geofysik
+LAB_disco_212000,"Arbejde med matematiske, aktuariske og statistiske metoder og teorier"
+LAB_disco_213110,Arbejde inden for biokemi
+LAB_disco_213120,"Arbejde inden for biologi, botanik, zoologi og beslægtede områder"
+LAB_disco_213200,"Rådgivning inden for landbrug, skovbrug og fiskeri"
+LAB_disco_213300,Arbejde inden for miljøbeskyttelse
+LAB_disco_214100,Ingeniørarbejde i industri og produktion
+LAB_disco_214200,Ingeniørarbejde vedrørende bygninger og anlæg
+LAB_disco_214300,Ingeniørarbejde inden for miljø
+LAB_disco_214400,Ingeniørarbejde inden for mekaniske systemer
+LAB_disco_214500,Ingeniørarbejde inden for kemi
+LAB_disco_214600,"Ingeniørarbejde inden for minedrift, metallurgi og beslægtede områder"
+LAB_disco_214900,Andet ingeniørarbejde (undtagen elektroteknologi)
+LAB_disco_215100,Ingeniørarbejde inden for elektricitet
+LAB_disco_215200,Ingeniørarbejde inden for elektronik
+LAB_disco_215300,Ingeniørarbejde inden for telekommunikation
+LAB_disco_216100,Arbejde med bygningsarkitektur
+LAB_disco_216200,Arbejde med landskabsarkitektur
+LAB_disco_216300,Arbejde med produkt- og tøjdesign
+LAB_disco_216400,Arbejde med by- og trafikplanlægning
+LAB_disco_216500,Arbejde med kartografi og landinspektørarbejde
+LAB_disco_216600,Arbejde med grafisk og multimediedesign
+LAB_disco_221100,Almindeligt lægearbejde
+LAB_disco_221200,Speciallægearbejde
+LAB_disco_222110,"Sygeplejerskearbejde, basisfunktioner"
+LAB_disco_222120,"Sygeplejerskearbejde, specialfunktioner"
+LAB_disco_222130,Sundhedsplejerskearbejde
+LAB_disco_222200,Jordemoderarbejde
+LAB_disco_223000,Arbejde inden for naturmedicin og alternativ behandling
+LAB_disco_224000,Paramedicinsk arbejde
+LAB_disco_225000,Dyrlægearbejde
+LAB_disco_226100,Tandlægearbejde
+LAB_disco_226200,Farmaceutarbejde
+LAB_disco_226300,Arbejde inden for arbejdsmiljø og hygiejne
+LAB_disco_226410,Fysioterapeutarbejde
+LAB_disco_226420,Afspændingspædagogarbejde
+LAB_disco_226510,"Kost- og ernæringsarbejde, basisfunktioner"
+LAB_disco_226520,"Kost- og ernæringsarbejde, specialfunktioner"
+LAB_disco_226610,Arbejde inden for audiologi
+LAB_disco_226620,Arbejde inden for logopædi
+LAB_disco_226700,Optiker/optometristarbejde
+LAB_disco_226910,Ergoterapeutarbejde
+LAB_disco_226920,Fodterapeutarbejde
+LAB_disco_226930,Kiropraktikerarbejde
+LAB_disco_226990,Sundhedsarbejde ikke klassificeret andetsteds
+LAB_disco_231010,Undervisning og forskning ved lange videregående uddannelser
+LAB_disco_231020,Undervisning og forskning ved mellemlange videregående uddannelser
+LAB_disco_231030,Undervisning og forskning ved korte videregående uddannelser
+LAB_disco_232010,Undervisning ved erhvervsuddannelser for unge
+LAB_disco_232020,Undervisning ved arbejdsmarkedsuddannelser
+LAB_disco_232030,Undervisning ved voksenerhvervsuddannelser
+LAB_disco_233010,Undervisning på gymnasialt niveau
+LAB_disco_233020,Undervisning ved øvrige almene uddannelser efter grundskoleniveau
+LAB_disco_234110,"Undervisning på grundskoleniveau, unge og voksne"
+LAB_disco_234120,"Undervisning på grundskoleniveau, (børn, 1.-10. klasse)"
+LAB_disco_234130,"Undervisning på grundskoleniveau, børnehaveklasseniveau"
+LAB_disco_234200,Undervisning før grundskoleniveau
+LAB_disco_234310,Pædagogisk arbejde med unge og voksne
+LAB_disco_234320,"Pædagogisk arbejde, fritidsklubber/legepladser"
+LAB_disco_234330,Pædagogisk arbejde i skolefritidsordninger/fritidshjem og på skoler
+LAB_disco_234340,"Pædagogisk arbejde, førskolebørn"
+LAB_disco_234390,Andet pædagogisk arbejde
+LAB_disco_235100,"Forskning, udvikling og rådgivning inden for undervisningsmetoder"
+LAB_disco_235210,"Specialundervisning, unge og voksne"
+LAB_disco_235220,Specialundervisning på grundskoleniveau (1.-10. klasse)
+LAB_disco_235230,Specialundervisning på børnehaveklasseniveau
+LAB_disco_235300,Anden sprogundervisning
+LAB_disco_235400,Anden musik- og sangundervisning
+LAB_disco_235500,Anden undervisning inden for kreative fag
+LAB_disco_235600,Anden undervisning inden for informationsteknologi
+LAB_disco_235710,"Specialpædagogisk arbejde, ældre og handicappede"
+LAB_disco_235720,"Specialpædagogisk arbejde, aktivering mv."
+LAB_disco_235730,"Specialpædagogisk arbejde, rådgivning af voksne"
+LAB_disco_235740,"Specialpædagogisk arbejde, kontakt med- og ledsagning af voksne"
+LAB_disco_235750,"Specialpædagogisk arbejde, børn og unge"
+LAB_disco_235760,"Specialpædagogisk arbejde, førskolebørn"
+LAB_disco_235790,Andet specialpædagogisk arbejde
+LAB_disco_235910,Undervisningsarbejde ikke klassificeret andetsteds (ekskl. medhjælp)
+LAB_disco_235920,Pædagogisk arbejde ikke klassificeret andetsteds (ekskl. medhjælp)
+LAB_disco_241100,Revisions- og regnskabscontrollerarbejde
+LAB_disco_241210,Rådgivning af storkunder og private banking kunder inden for finans og forsikring
+LAB_disco_241220,Generel rådgivning af erhvervskunder inden for finans og forsikring
+LAB_disco_241230,Generel rådgivning af privatkunder inden for finans og forsikring
+LAB_disco_241240,"Rådgivning inden for specialområde som investering, valuta og formue"
+LAB_disco_241310,Analytikerarbejde inden for finans og forsikring
+LAB_disco_241320,Arbejde med udvikling og vedligeholdelse af bank- og forsikringsprodukter
+LAB_disco_242100,Analytikerarbejde inden for ledelse og virksomhedsorganisation
+LAB_disco_242200,Arbejde med virksomhedsstrategi/policy
+LAB_disco_242300,Arbejde med analyse og rådgivning inden for HR
+LAB_disco_242400,Arbejde med personaleudvikling og -oplæring
+LAB_disco_243100,Arbejde inden for reklame og marketing
+LAB_disco_243200,Arbejde inden for PR
+LAB_disco_243310,Arbejde inden for teknisk salg (undtagen informations- og kommunikationsteknologi)
+LAB_disco_243320,Arbejde inden for medicinsk salg
+LAB_disco_243400,Arbejde inden for salg af informations- og kommunikationsteknologi
+LAB_disco_251110,Arbejde med overordnet IT-arkitektur
+LAB_disco_251120,Design af IT-systemer og analyse af forretningsprocesser
+LAB_disco_251210,IT-projektstyring
+LAB_disco_251220,Rådgivning og programmering inden for softwareudvikling
+LAB_disco_251300,Web- og multimedieudvikling
+LAB_disco_251400,Vedligeholdelse og dokumentation af software
+LAB_disco_251900,"Andet arbejde med software, herunder test og kvalitetssikring"
+LAB_disco_252100,Design og administration af databaser
+LAB_disco_252200,Systemadministration
+LAB_disco_252300,Arbejde med computernetværk
+LAB_disco_252900,Andet arbejde med databaser og netværk
+LAB_disco_261110,Advokatarbejde
+LAB_disco_261120,Advokatfuldmægtigarbejde
+LAB_disco_261200,Dommerarbejde
+LAB_disco_261900,Andet juridisk arbejde
+LAB_disco_262100,Arkivar- og museumsinspektørarbejde
+LAB_disco_262200,Bibliotekararbejde og andet informationsarbejde
+LAB_disco_263100,Arbejde inden for samfundsøkonomi
+LAB_disco_263200,"Arbejde inden for sociologi, antropologi og beslægtede områder"
+LAB_disco_263300,"Arbejde inden for filosofi, historie og statskundskab"
+LAB_disco_263400,Arbejde inden for psykologi
+LAB_disco_263500,Socialrådgivningsarbejde
+LAB_disco_263600,Arbejde inden for religion
+LAB_disco_264100,Forfatterarbejde
+LAB_disco_264200,Journalistisk arbejde
+LAB_disco_264310,Translatørarbejde
+LAB_disco_264320,Tolkearbejde
+LAB_disco_264390,Andet sprogvidenskabeligt arbejde
+LAB_disco_265100,Kunstnerisk arbejde inden for visuelle kunstarter
+LAB_disco_265200,Kunstnerisk arbejde inden for musik og sang
+LAB_disco_265300,Kunstnerisk arbejde inden for dans og koreografi
+LAB_disco_265400,"Arbejde med instruktion og produktion af film, teater og beslægtede funktioner"
+LAB_disco_265500,Skuespilarbejde
+LAB_disco_265600,"Speakerarbejde på radio, TV og andre medier"
+LAB_disco_265900,Andet arbejde med kunst og kreative fag
+LAB_disco_311110,Laborantarbejde
+LAB_disco_311120,Assistentarbejde i laboratorier
+LAB_disco_311130,Laboratorieteknikerarbejde
+LAB_disco_311140,"Teknikerarbejde inden for geologi, meteorologi og astronomi"
+LAB_disco_311200,Teknikerarbejde inden for byggeri- og anlæg
+LAB_disco_311300,Teknikerarbejde inden for det elektriske område
+LAB_disco_311400,Teknikerarbejde inden for det elektroniske område
+LAB_disco_311510,Teknikerarbejde inden for VVS
+LAB_disco_311590,Teknikerarbejde inden for andre mekaniske områder
+LAB_disco_311600,Teknikerarbejde inden for det kemiske område
+LAB_disco_311700,Teknikerarbejde inden for minedrift og metallurgi
+LAB_disco_311800,Teknisk tegnearbejde
+LAB_disco_311900,Andet teknikerarbejde inden for fysisk videnskab og ingeniørvirksomhed
+LAB_disco_312100,Tilsynsførende inden for råstofindvinding
+LAB_disco_312200,Tilsynsførende inden for fremstillingsvirksomhed
+LAB_disco_312300,Tilsynsførende inden for bygge- og anlægsvirksomhed
+LAB_disco_313100,Teknisk kontrolarbejde på kraftværker
+LAB_disco_313200,Teknisk kontrolarbejde på forbrændings- og vandrensningsanlæg
+LAB_disco_313300,Teknisk kontrolarbejde på kemiske behandlingsanlæg
+LAB_disco_313400,Teknisk kontrolarbejde på olie- og naturgasraffinaderier
+LAB_disco_313500,Teknisk kontrolarbejde ved metalproduktion
+LAB_disco_313900,Andet teknisk kontrolarbejde inden for processtyring
+LAB_disco_314100,Teknikerarbejde inden for biovidenskab (undtagen medicinsk område)
+LAB_disco_314200,Landbrugsteknikerarbejde
+LAB_disco_314300,Skovbrugsteknikerarbejde
+LAB_disco_315100,Teknikerarbejde inden for skibsfart
+LAB_disco_315200,Skibsførerarbejde
+LAB_disco_315300,Flypilotarbejde
+LAB_disco_315410,Flyvelederarbejde
+LAB_disco_315420,Planlægning og afvikling af flytrafik i øvrigt
+LAB_disco_315500,Teknikerarbejde inden for luftfartssikkerhed
+LAB_disco_321100,Teknikerarbejde inden for brug af medicinsk røntgen- og behandlingsudstyr
+LAB_disco_321210,"Bioanalytikerarbejde, basisfunktioner"
+LAB_disco_321220,"Bioanalytikerarbejde, specialfunktioner"
+LAB_disco_321230,Laborantarbejde på sygehuslaboratorier
+LAB_disco_321290,Andet teknikerarbejde i medicinske og patologiske laboratorier
+LAB_disco_321310,Farmakonomarbejde
+LAB_disco_321390,Andet arbejde inden for farmaci
+LAB_disco_321400,Teknikerarbejde inden for fremstilling af proteser
+LAB_disco_322100,Assisterende arbejde inden for sygepleje
+LAB_disco_322200,Assisterende arbejde inden for fødselshjælp
+LAB_disco_323000,Assisterende arbejde inden for naturmedicin og alternativ behandling
+LAB_disco_324000,Assisterende veterinærarbejde og veterinærteknisk arbejde
+LAB_disco_325110,Tandklinikassistentarbejde
+LAB_disco_325120,Tandplejerarbejde
+LAB_disco_325200,Teknikerarbejde inden for medicinsk registrering og sundhedsinformation
+LAB_disco_325300,Assisterende sundhedsarbejde ved lokale/akutte behandlingscentre
+LAB_disco_325400,Teknikerarbejde inden for fremstilling af synshjælpemidler
+LAB_disco_325500,Assisterende arbejde inden for fysioterapi
+LAB_disco_325600,Assisterende arbejde inden for sundhedsområdet
+LAB_disco_325710,Kontrolarbejde vedr. arbejdsmiljø
+LAB_disco_325720,Kontrolarbejde vedr. sikkerhed
+LAB_disco_325730,Assistentarbejde og rådgivning vedr. hygiejne og miljøteknisk arbejde
+LAB_disco_325800,Redningsarbejde (Ambulancebehandler)
+LAB_disco_325900,Tekniker- og assistentarbejde inden for sundhedsområdet ikke klassificeret andetsteds
+LAB_disco_331110,Handel med værdipapirer og valuta
+LAB_disco_331120,Afvikling af handel med værdipapirer og valuta (back office)
+LAB_disco_331210,Arbejde med kreditbevilling og – analyse
+LAB_disco_331220,Arbejde med erhverskunder – standardprodukter
+LAB_disco_331230,Arbejde med privatkunder – standardprodukter
+LAB_disco_331240,Arbejde med både erhvervs- og privatkunder – standardprodukter
+LAB_disco_331300,Regnskabsarbejde
+LAB_disco_331400,Arbejde med statistik og matematik
+LAB_disco_331500,Vurderings- og takseringsarbejde
+LAB_disco_332110,Forsikringssalgsarbejde med egen kundeportefølje
+LAB_disco_332120,Forsikringssalgsarbejde uden egen kundeportefølje
+LAB_disco_332130,Forsikringsteknisk vurdering
+LAB_disco_332200,Salgsarbejde (agenter)
+LAB_disco_332300,Indkøbsarbejde (agenter)
+LAB_disco_332400,Erhvervsmæglerarbejde
+LAB_disco_333110,Speditørarbejde vedr. land- og lufttransport
+LAB_disco_333120,Speditørarbejde vedr. skibsfart
+LAB_disco_333190,Speditørarbejde i øvrigt
+LAB_disco_333200,Konference- og eventplanlægning
+LAB_disco_333300,Jobformidling
+LAB_disco_333410,Ejendomsmæglerarbejde
+LAB_disco_333420,Ejendomshandlerarbejde
+LAB_disco_333430,Ejendomsadministratorarbejde
+LAB_disco_333900,Andet arbejde inden for forretningsservice
+LAB_disco_334100,Kontorlederarbejde
+LAB_disco_334200,Advokatsekretærarbejde
+LAB_disco_334310,Chef- og direktionssekretærarbejde
+LAB_disco_334320,Oversættelse af korrespondance
+LAB_disco_334400,Lægesekretærarbejde
+LAB_disco_335100,Told- og grænsebetjentarbejde
+LAB_disco_335200,Administration af skatte- og afgiftslovgivning
+LAB_disco_335300,Formidling af offentlige ydelser
+LAB_disco_335400,"Udstedelse af pas, kørekort o.l."
+LAB_disco_335500,Politimæssigt undersøgelsesarbejde
+LAB_disco_335900,Andet arbejde med forvaltning og udøvelse af lovgivning
+LAB_disco_341100,Juridisk arbejde på mellemniveau
+LAB_disco_341200,Social rådgivningsarbejde på mellemniveau
+LAB_disco_341300,Arbejde med tilknytning til religion på mellemniveau
+LAB_disco_342100,Sportsudøvere
+LAB_disco_342200,"Træner-, instruktør- og dommerarbejde inden for sport"
+LAB_disco_342300,Instruktørarbejde inden for fitness og beslægtede områder
+LAB_disco_343100,Fotografarbejde
+LAB_disco_343200,Indretningsarkitekt- og dekoratørarbejde
+LAB_disco_343300,"Galleri-, museums- og biblioteksteknikerarbejde"
+LAB_disco_343400,Køkkenchefarbejde
+LAB_disco_343500,"Andet arbejde inden for kunstneriske, kulturelle og kulinariske områder"
+LAB_disco_351100,Driftsteknikerarbejde inden for informations- og kommunikationsteknologi
+LAB_disco_351200,Brugersupportarbejde inden for informations- og kommunikationsteknologi
+LAB_disco_351300,Netværks- og systemteknikerarbejde inden for informations- og kommunikationsteknologi
+LAB_disco_351400,Internetteknikerarbejde
+LAB_disco_352100,Teknikerarbejde inden for audiovisuelle medier
+LAB_disco_352200,Teknikerarbejde inden for telekommunikation
+LAB_disco_411000,Almindeligt kontorarbejde
+LAB_disco_412000,Almindeligt sekretærarbejde
+LAB_disco_413100,Tekstbehandlingsarbejde
+LAB_disco_413200,Dataregistreringsarbejde
+LAB_disco_421100,Kundebetjening og kassererarbejde i pengeinstitutter
+LAB_disco_421200,Bookmaker- og croupierarbejde samt beslægtede funktioner
+LAB_disco_421300,Pantelånerarbejde og beslægtede funktioner
+LAB_disco_421400,Inkassatorarbejde og beslægtede funktioner
+LAB_disco_422100,Rejsebureauarbejde
+LAB_disco_422200,Informationsarbejde på kundekontaktcentre
+LAB_disco_422300,Telefonomstillingsarbejde
+LAB_disco_422400,Hotelreceptionistarbejde
+LAB_disco_422500,Oplysnings- og forespørgselsarbejde
+LAB_disco_422600,"Almindeligt receptionistarbejde, ekskl. hotelreceptionistarbejde"
+LAB_disco_422700,Interviewarbejde inden for markedsundersøgelse
+LAB_disco_422900,Andet kundeinformationsarbejde
+LAB_disco_431100,Almindeligt regnskabs- og bogføringsarbejde
+LAB_disco_431210,Almindeligt kontorarbejde ifm. udfærdigelse af statistik
+LAB_disco_431220,Almindeligt kontorarbejde ifm. finansielle transaktioner
+LAB_disco_431230,Forsikringsteknisk arbejde ifm. oprettelse og vedligeholdelse af forsikringspolicer
+LAB_disco_431240,Forsikringsteknisk arbejde ifm. sagbehandling af skader
+LAB_disco_431300,Almindeligt kontorarbejde inden for lønbehandling
+LAB_disco_432100,Lagerekspeditionsarbejde
+LAB_disco_432200,Registreringsarbejde inden for produktion
+LAB_disco_432310,Tilrettelæggelse af jernbanetransport
+LAB_disco_432320,Tilrettelæggelse af lufttransport – ikke flyveledere
+LAB_disco_432330,Tilrettelæggelse af godstransport til lands
+LAB_disco_432340,Tilrettelæggelse af udrykning ifm. redningstjeneste
+LAB_disco_432390,Anden tilrettelæggelse af transport
+LAB_disco_441100,Biblioteksservicearbejde
+LAB_disco_441210,Postbudarbejde
+LAB_disco_441220,"Betjentarbejde, intern postsortering og omdeling"
+LAB_disco_441300,Korrekturlæsning og beslægtede funktioner
+LAB_disco_441500,Arbejde med arkivering og kopiering
+LAB_disco_441600,Almindeligt kontorarbejde inden for HR
+LAB_disco_441900,Almindeligt kontor- og kundeservicearbejde ikke klassificeret andetsteds
+LAB_disco_511110,Passagerbetjening under rejser
+LAB_disco_511120,Passagerbetjening i lufthavne og havneterminaler
+LAB_disco_511200,Kontrolarbejde under rejser
+LAB_disco_511300,Turist- og rejselederarbejde
+LAB_disco_512000,Kokkearbejde (ekskl. køkkenchefarbejde)
+LAB_disco_513100,Tjenerarbejde
+LAB_disco_513200,Bartenderarbejde
+LAB_disco_514100,Frisørarbejde
+LAB_disco_514200,Kosmetologarbejde og beslægtede funktioner
+LAB_disco_515100,Rengøringsinspektørarbejde
+LAB_disco_515200,Husbestyrerarbejde
+LAB_disco_515300,Ejendomsinspektørarbejde
+LAB_disco_516100,Astrologiarbejde og beslægtede funktioner
+LAB_disco_516200,Kammertjenerarbejde
+LAB_disco_516300,Bedemandsarbejde
+LAB_disco_516400,Arbejde med kæledyr
+LAB_disco_516500,Kørelærerarbejde
+LAB_disco_516900,Servicearbejde ikke klassificeret andetsteds
+LAB_disco_521100,Stade- og markedssalg
+LAB_disco_521200,Gadesalg af fødevarer
+LAB_disco_522100,Butiksejere
+LAB_disco_522200,Butikslederarbejde
+LAB_disco_522300,Salgsarbejde i butik
+LAB_disco_523000,Kasseassistentarbejde og beslægtet kundebetjening
+LAB_disco_524100,Modelarbejde
+LAB_disco_524200,Demonstrationsarbejde
+LAB_disco_524400,Salgsarbejde i kundekontaktcentre
+LAB_disco_524500,Salgsarbejde på servicestationer
+LAB_disco_524600,Kasseassistentarbejde inden for catering og fastfood
+LAB_disco_524900,Salgsarbejde ikke klassificeret andetsteds
+LAB_disco_531110,Dagplejearbejde
+LAB_disco_531120,Pædagogisk medhjælp
+LAB_disco_531190,Andet børneomsorgsarbejde
+LAB_disco_531200,Hjælpelærerarbejde
+LAB_disco_532110,"Social- og sundhedsarbejde på institutioner og hospitaler, medhjælpere"
+LAB_disco_532120,"Social- og sundhedsarbejde på institutioner og hospitaler, assistenter"
+LAB_disco_532130,Portørarbejde på institutioner og hospitaler
+LAB_disco_532190,Andet omsorgsarbejde på institutioner og hospitaler
+LAB_disco_532210,"Social- og sundhedsarbejde i private hjem, medhjælpere"
+LAB_disco_532220,"Social- og sundhedsarbejde i private hjem, assistenter"
+LAB_disco_532900,Andet omsorgsarbejde inden for sundhedsområdet
+LAB_disco_541100,Brandslukningsarbejde
+LAB_disco_541200,Politiarbejde
+LAB_disco_541300,Fængselsbetjentarbejde
+LAB_disco_541400,Sikkerhedsvagtarbejde
+LAB_disco_541900,Andet rednings- og overvågningsarbejde (ekskl. ambulancebehandlere)
+LAB_disco_611100,Dyrkning af markafgrøder inden for jordbrug
+LAB_disco_611200,Dyrkning af afgrøder fra træer og buske
+LAB_disco_611310,Produktions- og væksthusgartnerarbejde
+LAB_disco_611320,Anlægsgartnerarbejde
+LAB_disco_611390,Andet gartnerarbejde
+LAB_disco_611400,Dyrkning af blandede afgrøder
+LAB_disco_612100,"Arbejde med opdræt af husdyr, ekskl. fjerkræ"
+LAB_disco_612200,Arbejde med opdræt af fjerkræ
+LAB_disco_612300,Arbejde med bi- og silkeavl
+LAB_disco_612900,Andet arbejde med dyreopdræt
+LAB_disco_613000,Arbejde med dyrkning af plantevækst og opdræt af dyr
+LAB_disco_621000,Skovbrugsarbejde
+LAB_disco_622100,Arbejde inden for akvakultur
+LAB_disco_622200,Arbejde med fiskeri i kyst- og søområder
+LAB_disco_622300,Arbejde med havfiskeri
+LAB_disco_622400,Jagtarbejde
+LAB_disco_711210,Murerarbejde
+LAB_disco_711220,Brolægningsarbejde
+LAB_disco_711300,Stenhuggerarbejde
+LAB_disco_711410,Struktørarbejde
+LAB_disco_711420,Terrazzoarbejde
+LAB_disco_711510,"Tømrer- og snedkerarbejde, byggeri"
+LAB_disco_711520,"Tømrer- og snedkerarbejde, skibe"
+LAB_disco_711910,Fremstilling af bygningskonstruktioner i stål
+LAB_disco_711990,Andet bygningsarbejde i øvrigt
+LAB_disco_712100,Arbejde med tagdækning
+LAB_disco_712200,Arbejde med gulv- og klinkelægning
+LAB_disco_712300,Stukkatørarbejde
+LAB_disco_712400,Arbejde med isolering af bygninger
+LAB_disco_712500,Glarmesterarbejde
+LAB_disco_712600,VVS-arbejde
+LAB_disco_712700,Montørarbejde inden for klima- og køleteknik
+LAB_disco_713110,Bygningsmaler- og tapetsererarbejde
+LAB_disco_713120,Skibsmalerarbejde
+LAB_disco_713200,Sprøjtelakererarbejde
+LAB_disco_713310,Skorstensfejerarbejde
+LAB_disco_713320,Kemisk og mekanisk rensning af bygningsoverflader
+LAB_disco_721100,Formning og støbning af emner i metal
+LAB_disco_721200,Svejsearbejde og skærebrænding
+LAB_disco_721300,Pladesmedarbejde
+LAB_disco_721400,Stålkonstruktionsarbejde
+LAB_disco_721500,Riggerarbejde
+LAB_disco_722100,Smedearbejde
+LAB_disco_722200,Værktøjsmagerarbejde
+LAB_disco_722300,Operatør- og opstillingsarbejde af metalforarbejdningsmaskiner
+LAB_disco_722400,Arbejde med polering og slibning af emner i metal
+LAB_disco_723110,"Mekanikerarbejde, person- og varevogne"
+LAB_disco_723120,"Mekanikerarbejde, lastvogne"
+LAB_disco_723190,"Mekanikerarbejde, andre områder"
+LAB_disco_723200,Flymekanikerarbejde
+LAB_disco_723300,"Mekanikerarbejde, landbrugs- og industrimaskiner"
+LAB_disco_723400,"Mekanikerarbejde, cykler og tilsvarende køretøjer"
+LAB_disco_731100,Finmekanikerarbejde
+LAB_disco_731200,Håndfremstilling af musikinstrumenter
+LAB_disco_731300,"Juveler-, guld- og sølvsmedearbejde"
+LAB_disco_731400,Pottemagerarbejde og beslægtede funktioner
+LAB_disco_731500,Glaspusterarbejde og arbejde med færdiggørelse af glasprodukter
+LAB_disco_731610,Skiltemalerarbejde
+LAB_disco_731620,Porcelænsmalerarbejde
+LAB_disco_731690,Andet male- og dekorationsarbejde inden for præcisionshåndværk
+LAB_disco_731700,Håndfremstilling af produkter i træ og tilsvarende materialer
+LAB_disco_731800,"Håndfremstilling af produkter i tekstil, læder og tilsvarende materialer"
+LAB_disco_731900,Andet præcisionshåndværk
+LAB_disco_732100,Prepressarbejde og grafisk formfremstilling
+LAB_disco_732200,Trykkerarbejde
+LAB_disco_732300,Arbejde med færdiggørelse og indbinding af trykte produkter
+LAB_disco_741100,Elektrikerarbejde
+LAB_disco_741200,Elektromekanikerarbejde
+LAB_disco_741300,Installation og reparation af elektrisk ledningsføring inden for forsyningsvirksomhed
+LAB_disco_742100,Elektronikmekanikerarbejde
+LAB_disco_742200,Installation og service inden for informations- og kommunikationsteknologi
+LAB_disco_751110,Slagterarbejde i detailhandelen
+LAB_disco_751120,Håndforarbejdning af fisk og skaldyr i detailhandelen
+LAB_disco_751190,Anden håndforarbejdning af fødevarer i detailhandelen
+LAB_disco_751200,"Bager- og konditorarbejde, ekskl. industri"
+LAB_disco_751300,Fremstilling af mejeriprodukter
+LAB_disco_751400,"Fremstilling og konservering af frugt, grøntsager og tilsvarende produkter"
+LAB_disco_751500,Prøvesmagning af nærings- og nydelsesmidler
+LAB_disco_751600,Fremstilling af tobaksprodukter
+LAB_disco_752100,Håndværkspræget træimprægneringsarbejde
+LAB_disco_752200,Møbelsnedkerarbejde
+LAB_disco_752300,Operatør- og opstillingsarbejde af træbearbejdningsmaskiner
+LAB_disco_753100,Skrædderarbejde og beslægtet arbejde
+LAB_disco_753200,Tilskærerarbejde
+LAB_disco_753300,Syarbejde og beslægtet arbejde
+LAB_disco_753400,Møbelpolstrerarbejde
+LAB_disco_753500,Forarbejdning af skind
+LAB_disco_753600,Skomagerarbejde og beslægtet arbejde
+LAB_disco_754100,Dykkerarbejde
+LAB_disco_754200,Sprængnings- og fyrværkeriarbejde
+LAB_disco_754300,Kvalitetskontrol og testarbejde af produkter (undtagen nærings- og nydelsesmidler)
+LAB_disco_754400,Desinfektionsarbejde og skadedyrsbekæmpelse
+LAB_disco_754900,Håndværkspræget arbejde ikke klassificeret andetsteds
+LAB_disco_811100,Mine- og stenbrudsarbejde
+LAB_disco_811200,Operatørarbejde ved anlæg til råstofudvinding
+LAB_disco_811300,Boreanlægsarbejde
+LAB_disco_811400,"Operatørarbejde ved fremstilling af cement-, sten- og andre råstofprodukter"
+LAB_disco_812100,Operatørarbejde ved forarbejdning af metal
+LAB_disco_812200,Operatørarbejde ved overfladebehandling af metal
+LAB_disco_813110,Operatørarbejde ved fremstilling af kemiske produkter i medicinalindustri
+LAB_disco_813120,Operatørarbejde ved fremstilling af kemiske produkter ekskl. medicinalindustri
+LAB_disco_813200,Operatørarbejde ved fremstilling af fotografiske produkter
+LAB_disco_814100,Operatørarbejde ved fremstilling af gummiprodukter
+LAB_disco_814210,Operatørarbejde ved fremstilling af plast til videreforarbejdning
+LAB_disco_814220,Operatørarbejde ved fremstilling af plastprodukter
+LAB_disco_814300,Operatørarbejde ved fremstilling af papirprodukter
+LAB_disco_815100,Operatørarbejde ved forarbejdning af materialer i fiber og tekstil
+LAB_disco_815200,Operatørarbejde ved vævning og strikning
+LAB_disco_815300,Operatørarbejde af symaskiner
+LAB_disco_815400,"Operatørarbejde ved blegning, farvning og rensning af tekstiler"
+LAB_disco_815500,Operatørarbejde ved klargøring af pels og læder
+LAB_disco_815600,Operatørarbejde ved fremstilling af fodtøj og tilsvarende produkter
+LAB_disco_815700,Operatørarbejde af vaskemaskiner
+LAB_disco_815900,"Andet operatørarbejde ved fremstilling af tekstil-, pels- og læderprodukter"
+LAB_disco_816010,Industrielt slagteriarbejde og behandling af råvarer (ekskl. fjerkræ)
+LAB_disco_816020,"Industrielt slagteriarbejde og behandling af råvarer, fjerkræ"
+LAB_disco_816030,Behandling af råvarer i fiskeindustri
+LAB_disco_816040,Arbejde med færdigvareproduktion i nærings- og nydelsesmiddelindustri
+LAB_disco_817100,Operatørarbejde ved fremstilling af papirmasse og papirprodukter
+LAB_disco_817200,Operatørarbejde ved træforarbejdning
+LAB_disco_818100,Operatørarbejde ved fremstilling af glas og keramik
+LAB_disco_818210,Operatørarbejde ved dampmaskine- og kedelanlæg i forsyningsindustri
+LAB_disco_818290,Andet operatørarbejde ved dampmaskine- og kedelanlæg
+LAB_disco_818300,"Operatørarbejde af maskiner til pakning, påfyldning og mærkning"
+LAB_disco_818910,Operatørarbejde ved stationære anlæg inden for vandforsyning og forbrændings- og rensningsanlæg
+LAB_disco_818990,Andet operatørarbejde ved stationære anlæg og maskiner
+LAB_disco_821100,Monteringsarbejde af mekaniske maskiner
+LAB_disco_821200,Monteringsarbejde af elektrisk og elektronisk udstyr
+LAB_disco_821900,Andet monteringsarbejde
+LAB_disco_831100,Lokomotivførerarbejde
+LAB_disco_831200,Tograngering
+LAB_disco_832100,Motorcykelførere
+LAB_disco_832210,Hyrevogns- og privatchaufførarbejde eller tilsvarende chaufførarbejde
+LAB_disco_832220,Varevognschaufførarbejde
+LAB_disco_832230,Varevognschaufførarbejde med salgs- og repræsentationsopgaver
+LAB_disco_832240,Varevognschaufførarbejde med renovationsopgaver
+LAB_disco_833110,"Buschauffører, national rutefart"
+LAB_disco_833120,"Buschauffører, national turistfart"
+LAB_disco_833130,"Buschauffører, international rutefart"
+LAB_disco_833140,"Buschauffører, international turistfart"
+LAB_disco_833210,"Lastbilchauffører, national transport"
+LAB_disco_833220,"Lastbilchauffører, international transport"
+LAB_disco_833230,Lastbilchauffører med salgs- og repræsentationsopgaver
+LAB_disco_833240,Lastbilchauffører med renovationsopgaver
+LAB_disco_833250,Lastbilchauffører med flytteopgaver
+LAB_disco_833260,Lastbilchauffører med farligt gods
+LAB_disco_834100,Førere af mobile landsbrugs- og skovbrugsmaskiner
+LAB_disco_834200,Entreprenørmaskinførerarbejde
+LAB_disco_834310,Kran- og liftførerarbejde ved stationære enheder
+LAB_disco_834320,Kran- og liftførerarbejde ved mobile enheder
+LAB_disco_834400,Truckførerarbejde
+LAB_disco_835000,Dæksarbejde og medhjælp om bord på skibe
+LAB_disco_911100,Rengøringsarbejde i private hjem
+LAB_disco_911210,Rengøring af kontorer og beboelsesområder
+LAB_disco_911220,Rengøring på hospitaler o.l.
+LAB_disco_911230,Rengøring af industrilokaliteter
+LAB_disco_911240,Rengøring på hoteller o.l.
+LAB_disco_911250,Rengøring af passagerområder i transportmidler
+LAB_disco_911260,Tværgående serviceopgaver
+LAB_disco_912100,Manuel vask og presning af tøj
+LAB_disco_912200,Rengøring af transportmidler
+LAB_disco_912300,Vinduespudsning
+LAB_disco_912910,Rengøring ved skadeservice
+LAB_disco_912990,Andet rengøringsarbejde
+LAB_disco_921100,Manuelt arbejde inden for agerbrug
+LAB_disco_921200,Manuelt arbejde inden for husdyravl
+LAB_disco_921300,Manuelt arbejde inden for både agerbrug og husdyravl
+LAB_disco_921400,Manuelt arbejde inden for havebrug og væksthusgartneri
+LAB_disco_921500,Manuelt skovarbejde
+LAB_disco_921600,Manuelt arbejde inden for fiskeri og akvakultur
+LAB_disco_931100,Manuelt arbejde inden for råstofudvinding
+LAB_disco_931210,Asfaltarbejde
+LAB_disco_931220,Medhjælp med brolæggerarbejde
+LAB_disco_931230,Kabelarbejde
+LAB_disco_931240,Montage af luftledninger
+LAB_disco_931290,"Jord-, kloak- og andet anlægsarbejde"
+LAB_disco_931310,Medhjælp ved isoleringsarbejde
+LAB_disco_931320,Medhjælp ved tagdækningsarbejde
+LAB_disco_931330,Medhjælp ved murerarbejde
+LAB_disco_931340,"Beton-, jernbeton- og montagearbejde"
+LAB_disco_931350,Opsætning og nedtagning af stilladser
+LAB_disco_931390,Medhjælp ved andet bygningsarbejde
+LAB_disco_932100,Pakkeriarbejde
+LAB_disco_932900,Andet manuelt produktionsarbejde
+LAB_disco_933100,Førere af hånd- og pedaldrevne køretøjer
+LAB_disco_933200,Førere af dyretrukne køretøjer og maskineri
+LAB_disco_933300,Arbejde med lastning og losning
+LAB_disco_933410,Lager- og pakhusarbejde
+LAB_disco_933420,Medhjælp i butik mv. (ekskl. kassearbejde)
+LAB_disco_941100,Tilberedning af fastfood
+LAB_disco_941210,Medhjælp i køkken
+LAB_disco_941220,Afrydning i restaurationer o.l.
+LAB_disco_951000,Servicearbejde på gaden
+LAB_disco_952000,Gadesalg (undtagen madvarer)
+LAB_disco_961100,Indsamling af skrald og genbrugsartikler
+LAB_disco_961200,Arbejde med affaldssortering
+LAB_disco_961300,Gadefejning og beslægtet arbejde
+LAB_disco_962110,Kurérarbejde
+LAB_disco_962120,Transport af bagage
+LAB_disco_962200,Forefaldende arbejde
+LAB_disco_962300,Måleraflæsning og tømning af salgsautomater
+LAB_disco_962900,Andet manuelt arbejde

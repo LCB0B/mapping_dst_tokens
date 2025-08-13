@@ -1,0 +1,17 @@
+code,description
+DEM_far_0,No parent in the square
+DEM_far_11,Adoptive relationship according to Adoption register
+DEM_far_12,"Child in Adoption Register, but the adoptive relationship may be with other parent"
+DEM_far_14,Parent has other sex (Dad is a woman or mother is male)
+DEM_far_15,Adoption Marking in CPR
+DEM_far_16,Only mothers: CPR relationship is only valid from after the child is 30 days old
+DEM_far_17,Mothers only: Adoption mark in previous FTDB
+DEM_far_18,"Only mothers of children born after 1 January 1991: The child is registered for birth abroad, while mother is resident in DK"
+DEM_far_21,Parents registered shortly after childbirth
+DEM_far_22,"Parent registered shortly after birth, the child adopted subsequently"
+DEM_far_23,"Parent registered shortly after birth, the child adopted subsequently, adoption lifted"
+DEM_far_31,Child is an Immigrant
+DEM_far_32,Child is registered for birth abroad
+DEM_far_33,Child born before 1973
+DEM_far_35,Child born abroad or before 1973 and subsequently adopted
+DEM_far_39,Other parent relations

@@ -1,0 +1,12 @@
+code,description
+SOC_loeslkod_0,Unenlightened
+SOC_loeslkod_1,Released by the judge in constitutional interrogation
+SOC_loeslkod_2,Released by police within 24 hours without constitutional interrogation
+SOC_loeslkod_3,Released by police after maintained arrest u. reforestim.i Grundls.inter interrogation
+SOC_loeslkod_4,Released after pre-trial detention
+SOC_loeslkod_5,Directly to serving after constitutional interrogation (prison/tempt extended)
+SOC_loeslkod_6,Measure repealed
+SOC_loeslkod_7,Detention maintained
+SOC_loeslkod_8,Released after administrative detention
+SOC_loeslkod_9,Released after detention
+SOC_loeslkod_10,Parolful on stricter terms

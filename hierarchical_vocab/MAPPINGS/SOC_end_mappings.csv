@@ -1,0 +1,4 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_end_drug_service_1,SOC,end,drug_service_1,End of service: drug_service_1,enhanced_english,medium,english
+SOC_end_parole_1,SOC,end,parole_1,End of service: parole_1,enhanced_english,medium,english
+SOC_end_precaution_1,SOC,end,precaution_1,End of service: precaution_1,enhanced_english,medium,english

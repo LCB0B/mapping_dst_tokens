@@ -1,0 +1,2 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_victim_1,SOC,victim,1,Victim status: 1,enhanced_english,medium,english

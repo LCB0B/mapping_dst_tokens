@@ -1,0 +1,13 @@
+Value set
+D281700. TXT_STRAFCOD - The nature of unconditional custodial sentences Valid from 	Valid for 	Code 	Text
+01-01-1990 	31-12-2006 	A 	Fine-offences
+31-12-1599 		0 	Unenlightened
+31-12-1599 		1 	Booklet (discontinued 1.7.2001)
+31-12-1599 		2 	Prison sentence
+31-12-1599 		3 	Custody
+31-12-1599 		4 	Punishment determination postponed
+31-12-1599 		5 	Pardoned
+31-12-1599 		6 	Life-long prison sentence
+31-12-1599 		7 	Pardon for stapling
+01-01-1980 	31-12-2006 	8 	Unenlightened
+01-01-1980 	31-12-2006 	9 	Criminalfix adjourned, old cases

@@ -1,0 +1,11 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_boedeblb_Q1,SOC,boedeblb,Q1,Fine amount (percentile): Q1,enhanced_english,medium,english
+SOC_boedeblb_Q10,SOC,boedeblb,Q10,Fine amount (percentile): Q10,enhanced_english,medium,english
+SOC_boedeblb_Q2,SOC,boedeblb,Q2,Fine amount (percentile): Q2,enhanced_english,medium,english
+SOC_boedeblb_Q3,SOC,boedeblb,Q3,Fine amount (percentile): Q3,enhanced_english,medium,english
+SOC_boedeblb_Q4,SOC,boedeblb,Q4,Fine amount (percentile): Q4,enhanced_english,medium,english
+SOC_boedeblb_Q5,SOC,boedeblb,Q5,Fine amount (percentile): Q5,enhanced_english,medium,english
+SOC_boedeblb_Q6,SOC,boedeblb,Q6,Fine amount (percentile): Q6,enhanced_english,medium,english
+SOC_boedeblb_Q7,SOC,boedeblb,Q7,Fine amount (percentile): Q7,enhanced_english,medium,english
+SOC_boedeblb_Q8,SOC,boedeblb,Q8,Fine amount (percentile): Q8,enhanced_english,medium,english
+SOC_boedeblb_Q9,SOC,boedeblb,Q9,Fine amount (percentile): Q9,enhanced_english,medium,english

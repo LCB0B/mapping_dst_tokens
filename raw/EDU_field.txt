@@ -1,0 +1,439 @@
+Gyldig fra 	Gyldig til 	Kode 	Tekst
+		051010 	Førskoleuddannelser
+		101010 	Grundskole 0.-6. klasse
+		102010 	Grundskole 7. klasse og opefter
+		121010 	Almengymnasiale, matematisk
+		121020 	Almengymnasiale, sproglig
+		121030 	Almengymnasiale, ikke linjeopdelt
+		122010 	Erhvervsgymnasiale
+		123010 	HF-enkeltfag
+		123020 	Gymnasial supplering
+		151010 	Almen voksenuddannelse
+		151020 	Danskundervisning ved sprogcentre mv.
+		151030 	Højskolekurser, almene forløb
+		151040 	Forberedende voksenuddannelse i øvrigt
+		152010 	Højskolekurser, særlige forløb
+		152020 	Erhvervsintroduktionskurser
+		152030 	Produktionsskole
+		153010 	Fri ungdomsuddannelse
+		154010 	Særligt tilrettelagt ungdomsuddannelse
+		201010 	Didaktik og studier i undervisningsmetode mv.
+		201015 	Studier i lærings-, udviklings- og forandringsprocesser
+		202010 	Pædagogik, teoretisk/videnskabelig u.n.a.
+		202020 	Tale- og hørepædagogik
+		203510 	Læreruddannelse, grundskole
+		204010 	Læreruddannelse, erhvervsskole/sprogcenter mv.
+		204015 	Underviser i ikke-almene specialefag
+		209010 	Undervisning og læring, tværfaglige uddannelser u.n.a.
+		209015 	Humanistisk-pædagogiske uddannelser
+		209020 	Naturvidenskabelige-pædagogiske uddannelser
+		209025 	Samfundsvidenskabelige-pædagogiske uddannelser
+		251010 	Humanistisk u.n.a.
+		251510 	Teologi
+		251515 	Religion og religionsvidenskab
+		252010 	Historie
+		252015 	Idehistorie
+		252020 	Videnskabshistorie
+		252025 	Litteraturhistorie
+		253510 	Konserverings- og restaureringsteknik
+		253515 	Konservatoruddannelse
+		254005 	Arkæologi
+		254010 	Arkæologi forhistorisk
+		254015 	Arkæologi klassisk
+		254020 	Arkæologi middelalder
+		254025 	Marinarkæologi
+		254030 	Nærorientalsk arkæologi og oldtidskultur
+		254035 	Oldtidskundskab
+		254510 	Filosofi
+		255010 	Kultur og kulturformidling
+		255015 	Humanistisk, tværfaglige uddannelser i øvrigt
+		255210 	Engelsk
+		255215 	Tysk
+		255220 	Nederlandsk
+		255410 	Spansk
+		255415 	Portugisisk
+		255420 	Fransk
+		255425 	Italiensk
+		255430 	Rumænsk
+		255610 	Balkanstudier
+		255615 	Russisk
+		255620 	Polsk
+		255625 	Tjekkisk
+		255630 	Serbokroatisk
+		255635 	Bulgarsk
+		255640 	Nygræsk
+		255645 	Slavisk sprog og kultur i øvrigt
+		256010 	Iransk
+		256020 	Mellemøstens sprog og samfund i øvrigt
+		256210 	Indisk
+		256215 	Indonesisk
+		256220 	Japanstudier
+		256225 	Kinastudier
+		256230 	Koreastudier
+		256235 	Thai
+		256240 	Tibetologi
+		256245 	Asiatisk sprog og kultur i øvrigt
+		256410 	Finsk
+		256415 	Ungarsk
+		256420 	Indiansk sprog og kultur
+		256425 	Grønlandsk
+		256430 	Eskimologi
+		256435 	Indoeuropæiske sprog, slægtskab og lingvistik
+		256610 	Filologi klassisk
+		256615 	Græsk
+		256620 	Latin
+		256625 	Andre klassiske sprog
+		257010 	Sprogtolkning
+		257015 	Tegnsprogstolkning
+		257110 	Datalingvistik
+		257210 	Engelsk, erhvervssproglig
+		257215 	Tysk, erhvervssproglig
+		257220 	Spansk, erhvervssproglig
+		257225 	Fransk, erhvervssproglig
+		257230 	Italiensk, erhvervssproglig
+		257235 	Russisk, erhvervssproglig
+		257240 	Polsk, erhvervssproglig
+		257245 	Arabisk, erhvervssproglig
+		257250 	Kinesisk, erhvervssproglig
+		257410 	Engelsk-tysk, erhvervssproglig
+		257415 	Engelsk-spansk, erhvervssproglig
+		257420 	Engelsk-portugisisk, erhvervssproglig
+		257425 	Engelsk-fransk, erhvervssproglig
+		257430 	Engelsk-italiensk, erhvervssproglig
+		257435 	Engelsk-russisk, erhvervssproglig
+		257440 	Tysk-spansk, erhvervssproglig
+		257445 	Tysk-portugisisk, erhvervssproglig
+		257450 	Tysk-fransk, erhvervssproglig
+		257455 	Tysk-italiensk, erhvervssproglig
+		257460 	Tysk-russisk, erhvervssproglig
+		257465 	Spansk-portugisisk, erhvervssproglig
+		257470 	Spansk-fransk, erhvervssproglig
+		257475 	Spansk-italiensk, erhvervssproglig
+		257480 	Spansk-russisk, erhvervssproglig
+		257482 	Portugisisk-russisk, erhvervssproglig
+		257484 	Fransk-portugisisk, erhvervssproglig
+		257486 	Fransk-italiensk, erhvervssproglig
+		257488 	Fransk-russisk, erhvervssproglig
+		257490 	Italiensk-portugisisk, erhvervssproglig
+		257492 	Italiensk-russisk, erhvervssproglig
+		257494 	To-sproglig, andet erhvervssprog uoplyst
+		257610 	Erhverssprog, sprog uoplyst
+		257810 	Dansk
+		257815 	Nordisk sprog og litteratur
+		257820 	Nordisk filologi
+		258010 	Litteraturvidenskab
+		258210 	Sprogvidenskab generelt
+		258410 	Sprog og internationale studier
+		258415 	Erhvervssprog, et sprog og virksomhedskommunikation
+		258420 	Erhvervssprog, to sprog og virksomhedskommunikation
+		258425 	Erhvervssprog, tværfaglige uddannelser i øvrigt
+		271010 	Grafisk-tekniske uddannelser u.n.a.
+		271015 	Grafisk, mediegrafik
+		271020 	Grafisk, trykteknik
+		271025 	Grafisk, foto
+		271030 	Grafisk, bogbinderi
+		271035 	Skilteteknik
+		271040 	Grafisk-tekniske uddannelser i øvrigt
+		271510 	Film-, tv- og medieproduktion u.n.a.
+		271515 	Film, tv og medie, produktionsteknisk
+		271520 	Film, tv og medie, instruktion og tilrettelæggelse
+		271525 	Visuel kommunikation og animation
+		271530 	Film-, tv- og medieproduktion i øvrigt
+		301010 	Kunstnerisk u.n.a.
+		301510 	Designer, digital design og kommunikation
+		302010 	Designer u.n.a.
+		302015 	Designer, beklædning og mode
+		302020 	Designer, indretning og interiør
+		302025 	Designer, industrielt design
+		302030 	Designer i øvrigt
+		302510 	Billedkunst
+		302515 	Bildende kunst i øvrigt
+		303010 	Kunsthistorie
+		303510 	Kunsthåndværk/design, guld og sølv
+		303515 	Kunsthåndværk/design, keramik og glas
+		303520 	Kunsthåndværk i øvrigt
+		304010 	Musikuddannelse u.n.a.
+		304015 	Musik og musikpædagogik
+		304020 	Musik- og bevægelse
+		304025 	Tonespace
+		304030 	Komponist og dirigent
+		304035 	Sang og sangskrivning
+		304040 	Musikvidenskab og -teori
+		304045 	Musiske uddannelser i øvrigt
+		308010 	Teater- og eventteknik mv.
+		308015 	Skuespil, teaterinstruktion mv.
+		308510 	Dans
+		309010 	Teatervidenskab
+		309015 	Dramaturgi
+		309510 	Designteknologi
+		309515 	Design og business
+		309516 	Miljø og etik
+		309520 	Designkultur og designstudier
+		309525 	Forfatteruddannelse
+		351010 	Samfundsvidenskab u.n.a.
+		351510 	Samfundsøkonomi
+		352010 	Statskundskab mv.
+		352510 	Europæiske studier
+		352515 	Samfundsstudier, andre verdensdele
+		352520 	Globalisering og udvikling
+		352525 	International sikkerhed og folkeret
+		352530 	Politologiske uddannelser i øvrigt
+		353010 	Psykologi
+		353510 	Antropologi/etnografi
+		353515 	Etnologi og folkemindevidenskab
+		353520 	Kulturgeografi
+		354010 	Sociologi og kultursociologi mv.
+		354015 	Socialvidenskab
+		354020 	Kriminologi
+		354025 	Socialt arbejde/socialt entreprenørskab
+		354030 	Film- og medievidenskab
+		354035 	Sociologi i øvrigt
+		354510 	Teknologisk-samfundsvidenskabelig planlægning
+		354515 	Kultur- og sprogmødestudier
+		354520 	Miljøplanlægning og risikostyring
+		354525 	Samfundsvidenskab, tværfaglige uddannelser i øvrigt
+		355010 	Journalistik
+		355015 	Kommunikation
+		355020 	Retorik
+		355510 	Bibliotekskundskab
+		355520 	Informationsvidenskab og kulturforvaltning
+		355530 	Museologi
+		401010 	Erhvervsøkonomi og administration u.n.a.
+		401510 	Regnskab og revision
+		401515 	Skatter og afgifter
+		402010 	Finans og bank
+		402020 	Forsikring
+		402510 	Offentlig- og privat administration og ledelse
+		403010 	Markedsføring og reklame
+		403510 	Kontor- og sekretæruddannelser
+		404010 	Engroshandel
+		404015 	Detailhandel
+		404020 	Handel med fast ejendom
+		404025 	Indkøb og afsætning i engros- og detailhandlen
+		404030 	Logistik mv. i engros- og detailhandlen
+		405010 	Jura og erhvervsret
+		409010 	Erhvervsøkonomi med jura
+		409015 	Erhvervsøkonomi med sprog og kommunikation
+		409020 	Erhvervsøkonomi med it og informatik
+		409025 	Erhvervsøkonomi med teknologi
+		409030 	Erhvervsøkonomi mv., andre tværfaglige uddannelser
+		451010 	Naturvidenskab u.n.a.
+		451510 	Biologi, almen biologi
+		451515 	Miljøbiologi
+		451520 	Botanik
+		451525 	Zoologi
+		452010 	Biokemi og molekylær biologi
+		452015 	Biomedicin og molekylær biomedicin
+		452510 	Biologisk laboratorieteknik
+		452515 	Bioteknologi
+		453010 	Farmaci og lægemiddelvidenskab
+		453015 	Fødevarevidenskab
+		453020 	Nanoscience og nanobioscience
+		453025 	Biofysiske uddannelser
+		453030 	Bioteknologiske tværfaglige uddannelser
+		453510 	Miljø, tværfaglige uddannelser
+		454010 	Kemi
+		454015 	Medicinalkemi
+		454510 	Geodæsi og geoinformatik
+		454515 	Geofysik
+		455010 	Geografi
+		455510 	Geologi
+		455515 	Geovidenskab
+		456010 	Meteorologi
+		456510 	Astronomi
+		457010 	Fysik
+		457510 	Matematik
+		458010 	Statistik
+		458510 	Forsikringsmatematik
+		458515 	Forsikringsvidenskab
+		459010 	Matematik-økonomi
+		501010 	Software brugerkurser
+		501015 	Programmering og softwareudvikling
+		501020 	IT-administrator
+		501025 	Datalogi
+		501090 	IT og elektronik, tværfaglige uddannelser
+		501095 	Informations- og kommunikationsteknologi, tværfaglige i øvrigt
+		551010 	Teknik og industriel produktion u.n.a.
+		551510 	Teknologi u.n.a.
+		552010 	Laboratorieteknik - kemisk industri
+		552015 	Kemisk teknik og industri
+		552510 	Miljø- og miljøbeskyttelsesteknik
+		553010 	El- og energiforsyningsteknik u.n.a.
+		553015 	Elektrikeruddannelser
+		553020 	Klima- og køleteknik
+		553025 	Energiteknologi
+		553030 	El- og energiforsyningsteknik i øvrigt
+		553510 	Elektronik og automation u.n.a.
+		553515 	Automatik og proces
+		553520 	Tele-, data- og it-teknologi mv.
+		554010 	Medicin-, sundhed- og velfærdsteknologi
+		554015 	Teknologi, tværfaglige uddannelser i øvrigt
+		554020 	Maskinmester
+		554510 	Nanoteknologi
+		555010 	Fødevareindustri u.n.a.
+		555015 	Mejeriindustri
+		555020 	Kødbranchen
+		555025 	Bageri og konfekture
+		555030 	Proces- og kvalitetsstyring, fødevarer
+		555035 	Øvrige fødevareindustri
+		555040 	Træ- og møbelindustri
+		555045 	Bådebyggeri, ikke-motordrevne
+		555050 	Keramik- og porcelænsindustri
+		555055 	Proces- og kvalitetsstyring, non-food produkter
+		555060 	Øvrig indstri, non-food produkter
+		555065 	Tekstil- og beklædningsindustri
+		555070 	Design- og materialeteknologi, tekstil
+		555075 	Sadelmageri og auto/møbel polstring
+		555080 	Skomager, skoindustri
+		555082 	Råstofudvinding
+		555084 	Proces- og kvalitetsstyring u.n.a.
+		555086 	Produktdesign og innovation mv.
+		555087 	Konstruktion og projektering
+		555088 	Teknisk assistent, industri og byggeri
+		555090 	Produktfremstilling og proces, tværfaglige uddannelser
+		555111 	Grundforløb
+		571010 	Mekanik, jern og metal u.n.a.
+		571510 	Gas- og vvs-teknik
+		572010 	Urmageri
+		572015 	Finmekanik i øvrigt
+		572510 	Cykel-, knallert- og motorcykelmekanik
+		573010 	Maskin- og produktionsanlægsteknik u.n.a.
+		573015 	Maskinteknik, betjening og vedligeholdelse
+		573020 	Maskinteknik, konstruktion og udvikling
+		573025 	Støberiteknik
+		573030 	Pladebearbejdende metalindustri mv.
+		573035 	Værktøjsteknik
+		573510 	Smede- og svejseuddannelser
+		574010 	Motorkøretøjs-, skibs- og flyteknik u.n.a.
+		574015 	Automekanik mv.
+		574020 	Karosserismed og karosseriteknik
+		574025 	Entreprenør- og landbrugsmaskiner
+		574030 	Skibsbygningsteknik
+		574035 	Flyteknik
+		574510 	Mekanik, jern og metal, tværfaglige uddannelser
+		575010 	Plastindustri
+		581010 	Bygge- og anlægsteknik u.n.a.
+		581510 	Arkitektur og bygningsdesign
+		581515 	Landinspektøruddannelser
+		581520 	By- og regionsplanlægning
+		581525 	Landskabsarkitektur og -forvaltning
+		582010 	Maleruddannelser
+		582015 	Mureruddannelser
+		582020 	Tømrer- og bygningssnedkeruddannelser
+		582025 	Montering mv. af glas og aluminium
+		582030 	Tagdækning mv.
+		582035 	Vejbygning og -belægning
+		582040 	Kloakering og pilotering mv.
+		582045 	Bygningskonstruktøruddannelser mv.
+		582050 	Bygnings- og anlægsingeniøruddannelser
+		582055 	Øvrige bygge- og anlægsuddannelser
+		582060 	Bygge- og anlægskonstruktion, tværfaglige uddannelser
+		601010 	Jordbrug, skovbrug og fiskeri u.n.a.
+		601510 	Landbrug u.n.a.
+		601515 	Landmand mv.
+		601520 	Landbrug, driftsledelse
+		601525 	Jordbrugsteknologi
+		601530 	Jordbrugsvidenskab
+		601535 	Dyrepasning
+		602010 	Gartneri u.n.a.
+		602015 	Anlægsgartneri
+		602020 	Produktionsgartneri
+		602025 	Væksthusgartneri
+		602030 	Gartneriteknik
+		602035 	Gartnerividenskab
+		602040 	Greenkeeping
+		602510 	Jordbrugsøkonomi
+		602511 	Jordbrugsbiologi
+		602515 	Jordbrug, tværfaglige uddannelser i øvrigt
+		603010 	Skov- og naturteknik
+		603015 	Skovbrugsvidenskab
+		603510 	Erhvervsfiskeri
+		604010 	Veterinærsygepleje
+		604015 	Veterinær og veterinærvidenskab
+		651010 	Social og sundhed u.n.a.
+		651510 	Tandpleje og assistance i tandklinik
+		651515 	Tandteknik og laboratorietandteknik
+		651520 	Tandlæge og specialtandlæge
+		652010 	Lægevidenskab
+		652510 	Jordemoderuddannelser
+		652520 	Sundhedspleje og sundhedsvidenskab
+		652525 	Sygepleje og sygeplejevidenskab
+		653510 	Audiologi- og neurofysiologiassistenter
+		653515 	Radiografi og billeddiagnostik
+		653516 	Stråleterapi
+		653520 	Optometri
+		653525 	Ortopædi
+		653530 	Bandagistuddannelser
+		654010 	Bioanalyse mv.
+		654510 	Psykomotorik og afspænding
+		654515 	Ergo- og fysioterapi
+		654520 	Fodterapi
+		654525 	Musikterapi
+		654530 	Sundhed og ernæring
+		654535 	Biomekanik
+		655010 	Farmakonom- og apoteksuddannelser
+		655510 	Folkesundhedsvidenskab
+		655515 	Idræt og sundhed mv.
+		655520 	Sundhed, tværfaglige uddannelser i øvrigt
+		656010 	Handicap- og ældrepleje u.n.a.
+		656015 	Social- og sundhedsassistance
+		656510 	Pædagogiske grunduddannelser
+		656515 	Pædagoguddannelser, børn og unge
+		656520 	Socialpædagoguddannelser
+		656525 	Pædagogisk arbejde med børn og unge i øvrigt
+		657010 	Social rådgivning og socialformidling
+		657015 	Erhvervsvejledning og personlig rådgivning mv.
+		701010 	Service u.n.a.
+		701510 	Bygnings- og brugerservice u.n.a.
+		701515 	Bygningsservice
+		701525 	Rengørings- og institutionsservice mv.
+		701530 	Husholdningskurser
+		702010 	Frisør- og kosmetikeruddannelser u.n.a.
+		702020 	Frisøruddannelser
+		702025 	Kosmetikeruddannelser
+		702510 	Hotel, restaurant og catering u.n.a.
+		702515 	Gastronomi, køkken og catering
+		702525 	Tjeneruddannelser
+		702530 	Hotelreception og -service
+		703010 	Sportstræning og -teknik
+		703015 	Turisme, fritid og events
+		703510 	Service, tværfaglige uddannelser
+		704010 	Spildevands- og affaldshåndtering mv.
+		751010 	Forsvar u.n.a.
+		751015 	Forsvar generelt
+		751020 	Flyvevåbnet
+		751025 	Hæren
+		751030 	Søværnet
+		751510 	Politi og sikkerhed u.n.a.
+		751515 	Politi
+		751520 	Fængselsvæsen
+		751525 	Beredskab og redningstjeneste
+		751530 	Vagtservice
+		751535 	Toldvæsen
+		801010 	Transport u.n.a.
+		801510 	Søfart u.n.a.
+		801515 	Kyst-, fiske- og sætteskipper
+		801520 	Skibsassistent, skibsfører
+		801525 	Skibsofficer
+		801530 	Maskinist
+		802010 	Havne, lager og terminal
+		802015 	Kranføring
+		802510 	Luftfart
+		802515 	Lufthavnsuddannelser
+		803010 	Chauffør u.n.a.
+		803015 	Chauffør, godstransport
+		803020 	Chauffør, persontransport
+		803025 	Chauffør, transport af dyr
+		803030 	Chauffør, flytning og renovation
+		803510 	Togtransport
+		804010 	Post, distribution mv.
+		981010 	Studiefag uoplyst indv. udd.
+		981020 	Studiefag uoplyst, AMU
+		981030 	Studiefag uoplyst, andre
+		991010 	Afbrudt
+		992010 	Igang
+		993010 	Ikke igang
+		994010 	Uoplyst (kendt i elevregistret)
+		994020 	Uoplyst (ukendt i elevregistret)
+		994030 	Uoplyst (indvandrernes uddannelse)
+		995010 	Ingen uddannelse (indvandrernes uddannelse)

@@ -1,0 +1,9 @@
+directory,file_count,description
+hierarchical_vocab/DEM,22,DEM vocabulary and mappings
+hierarchical_vocab/EDU,18,EDU vocabulary and mappings
+hierarchical_vocab/HEA,19,HEA vocabulary and mappings
+hierarchical_vocab/LAB,41,LAB vocabulary and mappings
+hierarchical_vocab/SOC,23,SOC vocabulary and mappings
+hierarchical_vocab/SPECIAL,1,SPECIAL vocabulary and mappings
+hierarchical_vocab/MAPPINGS,118,MAPPINGS vocabulary and mappings
+hierarchical_vocab/MISSING,6,MISSING vocabulary and mappings

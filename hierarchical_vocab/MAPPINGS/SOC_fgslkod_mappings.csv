@@ -1,0 +1,7 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_fgslkod_0,SOC,fgslkod,0,Release code: 0,enhanced_english,medium,english
+SOC_fgslkod_1,SOC,fgslkod,1,Release code: 1,enhanced_english,medium,english
+SOC_fgslkod_2,SOC,fgslkod,2,Release code: 2,enhanced_english,medium,english
+SOC_fgslkod_3,SOC,fgslkod,3,Release code: 3,enhanced_english,medium,english
+SOC_fgslkod_4,SOC,fgslkod,4,Release code: 4,enhanced_english,medium,english
+SOC_fgslkod_5,SOC,fgslkod,5,Release code: 5,enhanced_english,medium,english

@@ -1,0 +1,11 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_revoke_license_days_Q1,SOC,revoke,license_days_Q1,License revocation (percentile): license_days_Q1,enhanced_english,medium,english
+SOC_revoke_license_days_Q10,SOC,revoke,license_days_Q10,License revocation (percentile): license_days_Q10,enhanced_english,medium,english
+SOC_revoke_license_days_Q2,SOC,revoke,license_days_Q2,License revocation (percentile): license_days_Q2,enhanced_english,medium,english
+SOC_revoke_license_days_Q3,SOC,revoke,license_days_Q3,License revocation (percentile): license_days_Q3,enhanced_english,medium,english
+SOC_revoke_license_days_Q4,SOC,revoke,license_days_Q4,License revocation (percentile): license_days_Q4,enhanced_english,medium,english
+SOC_revoke_license_days_Q5,SOC,revoke,license_days_Q5,License revocation (percentile): license_days_Q5,enhanced_english,medium,english
+SOC_revoke_license_days_Q6,SOC,revoke,license_days_Q6,License revocation (percentile): license_days_Q6,enhanced_english,medium,english
+SOC_revoke_license_days_Q7,SOC,revoke,license_days_Q7,License revocation (percentile): license_days_Q7,enhanced_english,medium,english
+SOC_revoke_license_days_Q8,SOC,revoke,license_days_Q8,License revocation (percentile): license_days_Q8,enhanced_english,medium,english
+SOC_revoke_license_days_Q9,SOC,revoke,license_days_Q9,License revocation (percentile): license_days_Q9,enhanced_english,medium,english

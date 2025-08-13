@@ -1,0 +1,6 @@
+code,prefix,database,value,token_id
+DEM_relation_Parent,DEM,relation,Parent,1228
+DEM_relation_Child,DEM,relation,Child,1229
+DEM_relation_Full sibling,DEM,relation,Full sibling,1230
+DEM_relation_Sibling (unknown),DEM,relation,Sibling (unknown),1231
+DEM_relation_Half-sibling,DEM,relation,Half-sibling,1232

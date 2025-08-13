@@ -1,0 +1,1000 @@
+Value set
+D460022. TXT_DB93_TIMES - Industry for essential employment, from 1992 to 2007 (AKM) Valid from 	Valid for 	Code 	Text
+01-01-1992 		0 	Not stated
+01-01-1992 		11110 	Grain Breeding
+01-01-1992 		11190 	Agerbrug, by the way
+01-01-1992 		11210 	Hortithnries
+01-01-1992 		11220 	Nurseries
+01-01-1992 	31-12-2002 	11300 	Cultivation of fruit and berries
+01-01-2003 		11300 	Cultivation of fruit and berries, nuts and spice plants
+01-01-1992 		12110 	Dairy cattle team
+01-01-1992 		12190 	Second cattle breeding
+01-01-1992 		12210 	Studs
+01-01-1996 		12220 	Sheep and goat breeding
+01-01-1992 	31-12-1995 	12220 	Sheep farming
+01-01-1992 		12300 	Pig farming
+01-01-1992 		12400 	Poultry breeding
+01-01-1992 		12510 	Fur animal breeding
+01-01-1992 		12520 	Beekeeping
+01-01-1992 		12530 	Kennels
+01-01-1992 	31-12-1995 	12590 	Goat breeding, rabbit breeding, etc.
+01-01-1996 		12590 	Breeding of other animals
+01-01-1992 		13000 	Plant breeding combined with livestock farming (mixed operation)
+01-01-1992 		14110 	Agricultural machinery stations
+01-01-1992 		14120 	Construction nurseries
+01-01-1992 		14190 	Service activities in connection with arable use
+01-01-1992 		14200 	Service activities related to livestock farming other than veterinary establishment
+01-01-1992 		15000 	Hunting, catching and service activities related thereto
+01-01-1992 		20100 	Forestry
+01-01-1992 		20200 	Service activities in connection with forestry
+01-01-1992 		50100 	Fishing
+01-01-1992 		50200 	Fish Farming and Fishing
+01-01-1992 	31-12-1995 	50300 	Service activities in connection with fishing
+01-01-1992 		101000 	Coal mines
+01-01-1992 		102000 	Lignut Bearings
+01-01-1992 		103000 	Peat pits
+01-01-1992 		111000 	Extraction of crude oil and natural gas
+01-01-1992 		112000 	Technical services services related to oil and gas extraction
+01-01-1992 		120000 	Refraction of uranium and thorium ores
+01-01-1992 		131000 	Refraction of iron ore
+01-01-1992 		132000 	Refraction of non-ferrous metal ores other than uranium and thorium ores
+01-01-2003 		141110 	Breaking of stones
+01-01-1992 	31-12-2002 	141110 	Stone bride
+01-01-1992 		141120 	Stone fishing
+01-01-1992 		141200 	Lime Fracture
+01-01-1992 		141300 	Slate fracture
+01-01-1992 		142100 	Gravel and sand pits, dredging
+01-01-1992 		142200 	Extraction of clay and kaolin
+01-01-1992 		143000 	Extraction of minerals for the production of chemical products and fertilisers
+01-01-1992 		144000 	Salt extraction
+01-01-1992 		145000 	Other extraction of raw materials in general
+01-01-1992 		151110 	Pig slaughterhouses
+01-01-1992 		151120 	Creature slaughterhouses
+01-01-1992 		151130 	Intestinal series
+01-01-1992 		151140 	Destruction facilities and bone meal factories
+01-01-1992 		151200 	Poultry slaughterhouses
+01-01-1992 		151310 	Manufacture of ready meals
+01-01-1992 		151390 	Meat processing, moreover
+01-01-1992 		152010 	Fish hermetics, fish meat and fish fillet factories
+01-01-1992 		15 2020 	Smoke and salting of fish
+01-01-1992 		152030 	Fishmeal factories
+01-01-1992 		153100 	Processing and preservation of potatoes
+01-01-1992 		153200 	Preparation of fruit and vegetable juices
+01-01-1992 		153300 	Processing and preservation of fruit and vegetables
+01-01-1992 		154100 	Manufacture of crude oils and fats
+01-01-1992 		154200 	Manufacture of refined oils and fats
+01-01-1992 		154300 	Margarine factories, etc.
+01-01-1992 		155110 	Dairies and cheese making
+01-01-1992 		155120 	Milk condensation factories
+01-01-1992 		155200 	Manufacture of ice for human consumption
+01-01-1992 	31-12-2002 	156100 	Manufacture of milling products
+01-01-2002 		156110 	Manufacture of milling products
+01-01-2002 		156120 	Industrial manufacture and breeding of seeds
+01-01-1992 		156200 	Manufacture of starch and starch products
+01-01-1992 		157110 	Manufacture of compound feed for agriculture and fur farming
+01-01-1992 		157120 	Manufacture of compound feed for fish and sea
+01-01-1992 		157200 	Manufacture of finished pet food
+01-01-1992 		158110 	Bread mills
+01-01-1992 		158120 	Bakery shops
+01-01-1992 		158200 	Manufacture of cakes and biscuits
+01-01-1992 		158300 	Sugar factories and refineries
+01-01-1992 		158400 	Chocolate and sugar products factories
+01-01-1992 		158500 	Manufacture of pasta products and similar products
+01-01-1992 		158600 	Processing of tea and coffee
+01-01-1992 		158700 	Spice mills, production of flavors, etc.
+01-01-1992 		1588800 	Manufacture of homogenised products and diet food
+01-01-1992 	31-12-2002 	158900 	Manufacture of other foodstuffs
+01-01-2002 		158910 	Manufacture of food supplements
+01-01-2002 		158920 	Manufacture of other foodstuffs
+01-01-1992 		159100 	Production of spirits
+01-01-1992 		159200 	Preparation of crude alcohol
+01-01-1996 		159300 	Production of wine
+01-01-1992 	31-12-1995 	159300 	Preparation of wine based on grapes
+01-01-1992 		159400 	Manufacture of fruit wine other than from grapes
+01-01-1992 		159500 	Manufacture of vermouth, etc.
+01-01-1992 		159600 	Breweries
+01-01-1992 		159700 	Malt factories
+01-01-1992 		159800 	Mineral water factories, etc.
+01-01-1992 	31-12-1995 	159900 	Manufacture of other non-alcoholic beverages
+01-01-1992 	31-12-2002 	160000 	Tobacco factories
+01-01-2003 		160000 	Tobacco industry
+01-01-1992 		171000 	Pre-treatment and spinning of textile fibres
+01-01-1992 		172000 	Weaving of textiles
+01-01-1992 		173000 	Finishing of textiles
+01-01-1992 		174010 	Sailings, flag and tent factories, etc.
+01-01-1992 		174020 	Manufacture of home textiles
+01-01-1992 	31-12-2002 	174090 	Other production of finished textile products
+01-01-2003 		174090 	Manufacture of other finished textile products
+01-01-1992 		175100 	Carpet factories
+01-01-1992 		175210 	The ropes
+01-01-1992 		175220 	Fish net factories (word binders)
+01-01-1992 		175300 	Manufacture of non-wovens and articles thereof, other than clothing
+01-01-1992 		175400 	Manufacture of felt and other textiles
+01-01-1992 		176000 	Manufacture of knitted or crocheted substances
+01-01-1992 		177100 	Stocking factories
+01-01-1992 		177200 	Manufacture of pullovers, cardigans, etc.
+01-01-1992 	31-12-1995 	177300 	Manufacture of knitted or crocheted outer garment
+01-01-1992 	31-12-1995 	177400 	Manufacture of knitted or crocheted underwear
+01-01-1992 	31-12-1995 	177500 	Manufacture of other knitted or crocheted goods and accessories
+01-01-1992 		181000 	Manufacture of leather clothing
+01-01-1992 		182100 	Manufacture of workwear
+01-01-2002 		182200 	Manufacture of outerwear, dresses, pants, etc.
+01-01-1992 	31-12-2002 	182210 	Manufacture of men's and women's outerwear
+01-01-1992 	31-12-2002 	182220 	Manufacture of jackets, trousers and other outerwear for men and boys
+01-01-1992 	31-12-2002 	182230 	Manufacture of dresses, trousers and other outerwear for ladies and girls
+01-01-2003 		182310 	Manufacture of shirts
+01-01-1992 	31-12-2002 	182310 	Shirt Factories
+01-01-1992 	31-12-2002 	182390 	Other manufacture of underwear
+01-01-2003 		182390 	Manufacture of other underwear
+01-01-1992 		182410 	Manufacture of baby clothes
+01-01-1992 		182490 	Clothing industry, by the way
+01-01-1992 		183000 	Fur bed and bunt makers
+01-01-1992 		191000 	Tanners
+01-01-1992 		192000 	Manufacture of bags, suitcases, etc.
+01-01-1992 		193010 	Shoewear factories
+01-01-1992 		193020 	Wooden shoe factories
+01-01-1992 		201010 	Sawmills
+01-01-1992 		201020 	Wood impregnation companies, etc.
+01-01-1992 		202000 	Preparation of plywood, particle board, etc.
+01-01-1992 		203010 	Manufacture of frame and furniture lists
+01-01-1992 		203020 	Manufacture of parts of wood for buildings
+01-01-1992 		203030 	Manufacture of prefabricated buildings or building elements of wood
+01-01-1992 		204000 	Wooden packaging factories
+01-01-1992 		2005110 	Step-in-house owners
+01-01-1992 		205120 	Ligistestone factories
+01-01-1992 		205190 	Manufacture of other wood products
+01-01-1992 		205200 	Manufacture of products of cork, straw and plaiting materials
+01-01-1992 		211100 	Manufacture of pulp
+01-01-1992 		211200 	Preparation of paper and paperboard
+01-01-1992 		212100 	Manufacture of corrugated board and packaging of paper and paperboard
+01-01-1992 		212200 	Manufacture of paper and paperboard households and toiletries
+01-01-2002 		212300 	Manufacture of paper and paperboard office supplies
+01-01-1992 	31-12-2002 	212310 	Manufacture of writing paper
+01-01-1992 	31-12-2002 	212390 	Manufacture of other paperboard and paperboard office supplies
+01-01-1992 		212400 	Manufacture of wallpaper
+01-01-1992 	31-12-1995 	212500 	Manufacture of other paper and paperboard products
+01-01-1996 		212500 	Manufacture of other paper and paperboard items n.e.c.
+01-01-1992 		221110 	Publishing of books, brochures, etc. with its own printing works
+01-01-1992 		221120 	Publishing of books, brochures, etc. without its own printing works
+01-01-1992 		221210 	Publishing of newspapers with own printing
+01-01-1992 		221220 	Publishing of newspapers without own printing
+01-01-1992 		221310 	Publishing of magazines and magazines with own printing company
+01-01-1992 		221320 	Publishing from magazines and magazines without your own printing works
+01-01-1992 		221330 	Publishing of district and ad sheets with own printing
+01-01-1992 		221340 	Publishing of district and ad Sheets without your own printing company
+01-01-1992 		224400 	Release of audio recordings
+01-01-1992 		221500 	Other publishing business
+01-01-1992 		222100 	Newspaper printing
+01-01-1992 	31-12-1995 	222210 	Book printing
+01-01-1996 		222210 	Printing and Off-the-Cost Printing
+01-01-1992 	31-12-1995 	222220 	Offset printing
+01-01-1992 		222230 	Serigraphic printers
+01-01-1992 		222290 	Other printers, by the way
+01-01-1992 		222300 	Book binderies
+01-01-2002 		222400 	Prepress work
+01-01-1992 	31-12-2002 	222410 	Reproduction facilities
+01-01-1992 	31-12-2002 	222420 	Setteriets
+01-01-1992 		222500 	Other activities related to printing
+01-01-1992 		223100 	Reproduction of audio recordings
+01-01-1992 		223200 	Reproduction of video recordings
+01-01-1992 	31-12-2002 	223300 	Reproduction of computer media
+01-01-2003 		223300 	Reproduction of IT media
+01-01-1992 		231000 	Manufacture of coke, etc.
+01-01-1992 		232000 	Manufacture of refined petroleum products
+01-01-1992 		233000 	Reprocessing of nuclear fuel
+01-01-1992 		241100 	Manufacture of industrial gases
+01-01-1992 		241200 	Preparation of dyes and pigments
+01-01-1992 		241300 	Preparation of other inorganic basic chemicals
+01-01-1992 		241400 	Manufacture of other basic organic chemicals
+01-01-1992 		241500 	Manufacture of fertilizers, etc.
+01-01-1992 		241600 	Manufacture of basic plastics
+01-01-1992 		241700 	Manufacture of synthetic rubber
+01-01-1992 		242000 	Manufacture of pesticides and other agrochemical products
+01-01-1992 		243000 	Manufacture of paints, varnishes, inks, etc. and sealing materials
+01-01-1992 		244100 	Manufacture of pharmaceutical raw materials
+01-01-1992 		244200 	Pharmaceutical product factories
+01-01-1992 		245110 	Soap and detergent factories
+01-01-2003 		245120 	Manufacture of waxes and cleaning products
+01-01-1992 	31-12-2002 	245120 	Polishing and cleaning agents
+01-01-1992 	31-12-2002 	245200 	Manufacture of perfumes and toilet preparations
+01-01-2003 		245200 	Manufacture of perfume, hair shampoo, toothpaste, etc.
+01-01-1992 		246100 	Manufacture of explosives, etc.
+01-01-1992 		246200 	Lim factories
+01-01-1992 		246300 	Manufacture of essential oils
+01-01-1992 		246400 	Manufacture of photochemical products
+01-01-1992 		246500 	Production of unrecorded media
+01-01-1992 		246600 	Manufacture of other chemical products
+01-01-1992 		247000 	Manufacture of man-made fibres
+01-01-1992 		251100 	Manufacture of rubber tyres and rubber hoses
+01-01-2003 		251200 	Volcanization
+01-01-1992 	31-12-2002 	251200 	Volcanic Institutions
+01-01-1992 		251300 	Manufacture of other rubber products
+01-01-1992 		252110 	Manufacture of plates, sheets, film and other flat forms of plastics
+01-01-1992 		252120 	Manufacture of plastic pipes and tubes
+01-01-1992 		252130 	Manufacture of plastic rods and profiles
+01-01-1992 		252200 	Manufacture of plastic packaging
+01-01-1992 		252310 	Manufacture of plastic sanitary articles
+01-01-1992 		252390 	Manufacture of other plastic building articles
+01-01-1992 		252410 	Manufacture of plastic office and school articles
+01-01-1992 		252420 	Manufacture of plastic tableware and kitchenware
+01-01-1992 		252490 	Manufacture of other plastic products
+01-01-1992 		261100 	Production of flat glass
+01-01-1992 		21200 	Forming and processing of flat glass
+01-01-1992 		261300 	Preparation of bottles, drinking glasses, etc.
+01-01-2003 		261400 	Manufacture of fibreglass and certain products thereof
+01-01-1992 	31-12-2002 	261400 	Glass wool factories
+01-01-1992 		261500 	Manufacture and processing of glass
+01-01-1992 		262100 	Manufacture of ceramic household articles and ornaments
+01-01-1992 		262200 	Manufacture of ceramic sanitary warehousing
+01-01-1992 		262300 	Manufacture of ceramic insulators and insulation parts
+01-01-1992 		226400 	Manufacture of other ceramic products for technical use
+01-01-1992 		262500 	Manufacture of other ceramic products
+01-01-1992 		262600 	Manufacture of heat-insulating and refractory ceramic products
+01-01-1992 		263000 	Manufacture of tiles and tiles
+01-01-1992 		264000 	Tileworks
+01-01-1992 		265100 	Cement factories
+01-01-1992 		265200 	Calciumworks
+01-01-1992 		265300 	Manufacture of plaster
+01-01-1992 		266110 	Concrete product factories
+01-01-1992 		266120 	Concrete element factories
+01-01-1992 		266200 	Manufacture of plaster construction materials
+01-01-1992 		266300 	Manufacture of ready-mixed concrete
+01-01-1992 		266400 	Mortar works
+01-01-1992 		266500 	Manufacture of fibre cement products
+01-01-1992 		266600 	Manufacture of other concrete, plaster and cement products
+01-01-1992 		267000 	Stonemasons
+01-01-1992 		268100 	Manufacture of abrasives
+01-01-1992 		268210 	Asphalt and roofing felt factories
+01-01-1992 		268220 	Stone wool factories
+01-01-1992 		268290 	Manufacture of other non-metallic mineral products
+01-01-2003 		271000 	Manufacture of pig irons and crude steel and iron alloys
+01-01-1992 	31-12-2002 	271000 	Iron and steelworks
+01-01-1992 		272100 	Manufacture of cast iron or steel pipes
+01-01-1992 		272200 	Manufacture of iron or steel pipes (excl. cast pipes)
+01-01-1992 		273100 	Milking of iron and steel
+01-01-1992 		273200 	Cold rolling of iron or steel bands
+01-01-1992 		273300 	Cold treatment of iron or steel
+01-01-1992 		273400 	Wooden drawing of steel
+01-01-1992 		273500 	Other workings of iron or steel
+01-01-1992 		274100 	Manufacture of precious metals
+01-01-2003 		274200 	Manufacture of aluminium and components thereof
+01-01-1992 	31-12-2002 	274200 	Manufacture and first working of aluminium
+01-01-2003 		274300 	Manufacture of lead, zinc and tin and its components
+01-01-1992 	31-12-2002 	274300 	Manufacture and first processing of lead, zinc and tin
+01-01-2003 		274400 	Manufacture of copper and components thereof
+01-01-1992 	31-12-2002 	274400 	Manufacture and first working of copper
+01-01-2003 		274500 	Manufacture of other non-ferrous metals and components thereof
+01-01-1992 	31-12-2002 	274500 	Manufacture and first working of other non-ferrous metals
+01-01-1992 		275100 	Casting of iron products
+01-01-1992 		275200 	Casting of steel products
+01-01-1992 		275300 	Casting of light metal products
+01-01-1992 		275400 	Casting of other non-ferrous metal products
+01-01-1992 		281100 	Manufacture of metal structures and parts thereof
+01-01-1992 		281200 	Manufacture of doors and windows and its frames of iron or metal
+01-01-1992 		282100 	Manufacture of tanks and containers of iron/steel and metal
+01-01-1992 		282200 	Manufacture of radiators and boilers for central heating systems
+01-01-1992 		283000 	Manufacture of steam boilers other than central heating boilers
+01-01-1992 		284000 	Forging, pressing, lowering and rolling metal; powder metallurgy
+01-01-2003 		285100 	Surface treatment of metal
+01-01-1992 	31-12-2002 	285100 	Surface treatment of metal on a contractual basis (wage work)
+01-01-2003 		285200 	General machine processing processes
+01-01-1992 	31-12-2002 	285200 	General machine processing operations on a contract basis (wage work)
+01-01-1992 		286100 	Manufacture of cutlery, cutting and cutting tools
+01-01-1992 		286200 	Manufacture of hand tools
+01-01-1992 		286310 	Locking Factories
+01-01-1992 		286320 	Manufacture of metal fittings
+01-01-1992 		287100 	Manufacture of metal barrels and similar containers
+01-01-2003 		287200 	Manufacture of cans, etc. and closing devices of metal
+01-01-1992 	31-12-2002 	287200 	Manufacture of cans, etc.
+01-01-1992 		287300 	Manufacture of threaded products
+01-01-1992 		287400 	Manufacture of bolts, screws, nuts, chains and springs
+01-01-1992 		287510 	Manufacture of metal signs
+01-01-1992 		287520 	Manufacture of metal sanitary and household articles
+01-01-1992 		287590 	Manufacture of other finished metal products
+01-01-1992 		291110 	Ship engine factories
+01-01-1992 		291120 	Repair of ship engines
+01-01-1992 		291190 	Manufacture of other engines and turbines
+01-01-1992 		291210 	Manufacture of air pumps and compressors
+01-01-1992 		291220 	Manufacture of liquid pumps
+01-01-1992 		291230 	Manufacture of hydraulic and pneumatic machinery
+01-01-1992 		291300 	Manufacture of taps and valves
+01-01-1992 		291400 	Manufacture of axles, bearings and exchanges
+01-01-1992 		292100 	Manufacture of furnaces and heating units
+01-01-1992 		292210 	Manufacture of belt conveyors and lifts
+01-01-1992 		292220 	Manufacture of cranes, waist and hoists
+01-01-1992 		292230 	Manufacture of trucks
+01-01-1992 		292290 	Manufacture of other handling equipment
+01-01-1996 		292310 	Manufacture of refrigeration and freezers for commercial use
+01-01-1992 	31-12-1995 	292310 	Manufacture of refrigeration and freezers for industrial use
+01-01-1996 		292320 	Manufacture of ventilation and air conditioning systems for commercial use
+01-01-1992 	31-12-1995 	292320 	Manufacture of ventilation and air conditioning systems for industrial use
+01-01-1992 		292410 	Weight factories
+01-01-1992 		292420 	Manufacture of packaging machinery
+01-01-1992 		292430 	Manufacture of high-pressure cleaners, fire extinguishers, sandblowers, etc.
+01-01-1992 		292490 	Manufacture of vending machines, heat exchangers, centrifuges, etc.
+01-01-1992 		293100 	Manufacture of tractors
+01-01-1992 		293210 	Manufacture of harvesting machines, etc.
+01-01-1992 		293220 	Manufacture of agricultural tillage machinery
+01-01-1992 	31-12-2002 	293230 	Manufacture of agricultural machinery or forestry
+01-01-2003 		293230 	Manufacture of agricultural machinery for agricultural, gardens and forestry
+01-01-1992 	31-12-2002 	293240 	Repair of agricultural and forestry machinery
+01-01-2003 		293240 	Repair of agricultural, garden and forestry machinery
+01-01-1992 	31-12-2002 	294000 	Manufacture of machine tools
+01-01-2002 		294100 	Manufacture of handheld motor-powered tools
+01-01-2002 		294200 	Manufacture of other metalworking machine tools
+01-01-2002 		294300 	Manufacture of other machine tools n.e.c.
+01-01-1992 		295100 	Manufacture of machinery for the metal industry
+01-01-1992 		295210 	Manufacture of machinery for the manufacture of mortar, cement, concrete and concrete products
+01-01-1992 		295290 	Manufacture of machinery for construction work, etc.
+01-01-1992 		295310 	Manufacture of dairy machines
+01-01-1992 		295320 	Manufacture of machinery for the treatment of grain
+01-01-1992 		295330 	Manufacture of machinery for the sugar industry and bakery machinery
+01-01-1992 		295340 	Manufacture of machinery for the processing of meat, poultry, fish and shellfish
+01-01-2003 		295390 	Manufacture of other machinery for the food, beverage and tobacco industries
+01-01-1992 	31-12-2002 	295390 	Manufacture of other machinery for the nutrient and beverage industry
+01-01-1992 		295400 	Manufacture of machinery for the cladding and leather industry
+01-01-1992 		295500 	Manufacture of machinery for paper and paperboard industry
+01-01-1992 		295610 	Manufacture of moulds
+01-01-1996 		295620 	Manufacture of drying plants
+01-01-1992 	31-12-1995 	295620 	Manufacture of drying plants used for agricultural products
+01-01-1992 		295690 	Manufacture of industrial machinery
+01-01-1992 		296000 	Manufacture of weapons and ammunition
+01-01-1996 		297110 	Manufacture of refrigerators and freezers for domestic use
+01-01-1992 	31-12-1995 	297110 	Manufacture of refrigerators and freezers for domestic use
+01-01-1992 		297120 	Manufacture of domestic electric cookers, cooking appliances and ovens for domestic use
+01-01-1992 		297130 	Manufacture of household dishwasher, washing machines
+01-01-1992 		297190 	Manufacture of vacuum cleaners, water heaters, electric radiators, coffee machines, etc. for domestic use
+01-01-1992 		297200 	Manufacture of non-electrical household appliances and wood-burning stoves
+01-01-1992 		300100 	Manufacture of office machinery
+01-01-2003 		300200 	Manufacture of computers and other IT equipment
+01-01-1992 	31-12-2002 	300200 	Manufacture of computer machines and other computer equipment
+01-01-1992 	31-12-2002 	311010 	Manufacture of electric motors and generators
+01-01-2003 		311010 	Manufacture of electric motors and generators
+01-01-1992 		311020 	Manufacture of generator sets with internal combustion engine, etc.
+01-01-1992 		311030 	Manufacture of transformers and converters
+01-01-1992 	31-12-2002 	311040 	Manufacture of wind turbines
+01-01-2003 		311040 	Manufacture of wind turbines and parts thereof
+01-01-1992 		312010 	Manufacture of electrical distribution and control panels
+01-01-1992 		312090 	Manufacture of electrical switches, relays, fuses, etc.
+01-01-1992 		313000 	Manufacture of insulated wires and cables
+01-01-1992 		314000 	Accumulator and dry element factories
+01-01-1992 		315000 	Manufacture of luminaires, etc.
+01-01-1992 	31-12-1995 	316100 	Manufacture of other electrical equipment for engines and vehicles
+01-01-1996 		316100 	Manufacture of other electrical equipment for engines and vehicles n.e.s.
+01-01-1992 		316210 	Manufacture of electric traffic control equipment
+01-01-1992 		316220 	Electromechanical workshops
+01-01-1992 		316290 	Manufacture of other electrical and electronic equipment
+01-01-1992 		321010 	Manufacture of printed and integrated circuits
+01-01-1992 		321090 	Manufacture of semiconductor components, capacitors, resistors, etc.
+01-01-1992 		322010 	Manufacture of radio-telegraphy and radio-telephony apparatus
+01-01-1992 		322020 	Manufacture of telephone apparatus and fax machines
+01-01-1992 		323010 	Manufacture of radios, televisions, etc.
+01-01-1992 		323020 	Manufacture of speakers, etc.
+01-01-1992 		323030 	Manufacture of antennas and antenna systems
+01-01-1992 	31-12-2002 	331010 	Manufacture of needles and syringes
+01-01-2003 		331010 	Manufacture of needles, syringes, catheters and infusion sets
+01-01-1992 		331020 	Manufacture of hearing aids and parts thereof
+01-01-1992 		331030 	Manufacture of electrodiagnostic apparatus
+01-01-1992 		331040 	Manufacture of fixtures for medical and dental use
+01-01-1992 		331090 	Manufacture of X-ray apparatus, dental apparatus, respiratory apparatus, orthopedic articles, prostheses, etc.
+01-01-1992 		332010 	Manufacture of navigational equipment
+01-01-1992 		332020 	Manufacture of appliances for measuring consumption, pressure, etc. in liquids and gases
+01-01-1992 		332030 	Manufacture of apparatus for measuring or checking electrical quantities
+01-01-1992 		332040 	Manufacture of instruments and apparatus for use in physical or chemical analyses
+01-01-1992 		332090 	Manufacture of other measuring and control equipment
+01-01-1992 		333000 	Manufacture of equipment for industrial process control systems
+01-01-1992 		334010 	Manufacture of lenses and optical instruments, etc.
+01-01-1992 		334020 	Manufacture of reproductive cameras
+01-01-1992 		334090 	Manufacture of photographic and cinematographic equipment
+01-01-1992 		335000 	Manufacture of watches
+01-01-1992 		341000 	Car factories
+01-01-1992 		342000 	Body factories
+01-01-1992 		343000 	Manufacture of parts and accessories for motor vehicles
+01-01-2003 		351100 	Construction and repair of ships
+01-01-1992 	31-12-2002 	351100 	Shipyards
+01-01-2003 		351200 	Building and repair of boats
+01-01-1992 	31-12-2002 	351200 	Boat Construction
+01-01-1992 		352000 	Manufacture of locomotives and railway wagons, etc.
+01-01-1992 		353000 	Aircraft factories and workshops
+01-01-1992 		354100 	Manufacture of motorcycles and mopeds
+01-01-1992 		354200 	Manufacture of bicycles
+01-01-1992 		354300 	Manufacture of invalid vehicles
+01-01-1992 		355000 	Manufacture of other means of transport
+01-01-1992 		361110 	Manufacture of chairs and other seating
+01-01-1992 		361120 	Furniture Upholstery
+01-01-1992 	31-12-2002 	361200 	Manufacture of office and shop furniture except chairs
+01-01-2003 		361200 	Manufacture of office, shopware and storage furniture except chairs
+01-01-2003 		361300 	Manufacture of kitchen elements and furniture, etc.
+01-01-1992 	31-12-2002 	361300 	Manufacture of kitchen furniture, etc.
+01-01-1992 		361410 	Manufacture of other furniture for homes
+01-01-1992 		361490 	Mower paintings, deacidification of furniture, etc.
+01-01-1992 		361500 	Mattress factories
+01-01-1992 		362100 	Manufacture of coins and medals
+01-01-1992 		362210 	Gold and silverware factories
+01-01-1992 		362220 	Gold and silversmith workshops and jewels
+01-01-1992 		363000 	Manufacture of musical instruments
+01-01-1992 	31-12-2002 	364000 	Manufacture of sports props
+01-01-2003 		364000 	Manufacture of sports props
+01-01-1992 		The 365000 	Manufacture of toys and games
+01-01-1992 		366100 	Manufacture of bijouteri products
+01-01-1992 		366200 	Brush factories
+01-01-1992 		366310 	Candlesbuks
+01-01-1992 		366390 	Manufacture of other products
+01-01-1992 		371000 	Recycling of metal waste products
+01-01-1992 		372000 	Recycling of non-metallic waste products
+01-01-1992 	31-12-2002 	401000 	Electricity supply
+01-01-2002 		401100 	Production of electricity
+01-01-2002 		401200 	Transmission of electricity
+01-01-2002 		401300 	Distribution and trade of electricity
+01-01-1992 	31-12-2002 	402000 	Gas supply
+01-01-2002 		402100 	Manufacture of gas
+01-01-2002 		402200 	Distribution and trading of gas through pipelines
+01-01-1992 		403000 	Heat supply
+01-01-1992 		410000 	Water supply
+01-01-1992 		451100 	Demolition and ground labour contractors
+01-01-1992 		451200 	Funding studies
+01-01-2003 		452100 	Construction contractors (except deduction and
+01-01-1992 	31-12-2002 	452100 	Construction contractors (other than demolition and groundwork contractors)
+01-01-1992 		452200 	Roofing business
+01-01-1992 		452510 	Masonry stores
+01-01-1992 		452520 	Bridgelayers
+01-01-1992 		452530 	Sewer masters
+01-01-1992 		452540 	Scaffolding shops
+01-01-1992 		452590 	Construction and construction that requires specialisation in general
+01-01-2003 		453100 	Electrical installation
+01-01-1992 	31-12-2002 	453100 	Electrical installation stores
+01-01-1992 		453200 	Insulation business
+01-01-1992 		453300 	plumbers and plumbing shops
+01-01-1992 		454100 	Stukumkere
+01-01-1992 		454200 	Carpentry and building joiner stores
+01-01-1992 		454310 	Flooring and wall cladding
+01-01-1992 		454320 	Floor planing and floor sanding
+01-01-1992 		454410 	Paintings
+01-01-1992 		454420 	Glazier stores
+01-01-1992 		454500 	Other completion work, moreover
+01-01-1992 		455000 	Rental of construction equipment with operating staff
+01-01-1992 	31-12-2002 	501010 	Wholesale of Cars
+01-01-2003 		501010 	Wholesale trade in cars, etc.
+01-01-1992 		501020 	Retail trade in cars
+01-01-1992 		501030 	Wholesale and retail trade services of caravans, etc.
+01-01-1992 		502010 	Auto Repair Workshops
+01-01-1992 		502020 	Bodywork workshops (platesmiths)
+01-01-1992 		502030 	Autoelectricians
+01-01-1992 		502040 	Undercarriage treatment
+01-01-1992 		502050 	Auto paintings
+01-01-1992 		502060 	Tyre service
+01-01-1992 		502090 	Autoservice by the way
+01-01-1992 		503010 	Wholesale trade services with spare parts and accessories for cars, etc.
+01-01-1992 		503020 	Retail trade services of spare parts and accessories for cars, etc. (auto equipment stores)
+01-01-1992 		504000 	Wholesale and retail trade services of motorcycles, spare parts and accessories and their repair and maintenance
+01-01-1992 		505010 	Service stations without kiosk sales
+01-01-1992 		505020 	Service stations with kiosk sales
+01-01-1992 		511100 	Agricultural machinery trade services in agricultural, agricultural products, live animals, textile materials and semi-finished products
+01-01-1992 		511200 	Agency trade in fuels, ores, metals and chemical products for industry
+01-01-1992 		511300 	Agency trade in timber and other building materials
+01-01-1992 		511400 	Agency trade in machinery, technical equipment, ships and aeroplanes
+01-01-1992 		511500 	Agency trade in furniture, household goods and hardware
+01-01-1992 		511600 	Agricultural trade services in textiles, clothing, footwear and leather goods
+01-01-1992 		511710 	Fish Auctions
+01-01-2003 		511790 	Other Agency trade in food, drink and tobacco products
+01-01-1992 	31-12-2002 	511790 	Other agency trade in food and enjoyment services
+01-01-1992 		511800 	Agency trade with other specialized assortment
+01-01-1992 		511900 	Mixed range agency trade
+01-01-1992 		512100 	Wholesale trade in cereals, seed and feedingstuffs
+01-01-1992 		512200 	Wholesale of flowers and plants
+01-01-1992 		512300 	Wholesale trade in live animals
+01-01-1992 		512400 	Wholesale trade in raw hides, skins and leather
+01-01-1992 		512500 	Wholesale trade in raw tobacco
+01-01-1992 		513100 	Wholesale trade in fruit and vegetables
+01-01-1992 		513200 	Wholesale trade services in meat and meat products
+01-01-1992 		513300 	Wholesale trade services in dairy products, eggs, edible oils and fats
+01-01-1992 		513410 	Wholesale trade in beer and mineral water
+01-01-1992 		513420 	Wholesale trade in wine and spirits
+01-01-1992 		513490 	Wholesale trade in fruit and vegetable juices, etc.
+01-01-1992 		513500 	Wholesale trade in tobacco products
+01-01-2003 		513600 	Wholesale trade in bread, cakes, sugar, chocolate and sugar products, e.g. sweets
+01-01-1992 	31-12-2002 	513600 	Wholesale trade in sugar, chocolate and sugar
+01-01-1992 		513700 	Wholesale trade in coffee, tea, cocoa and spices
+01-01-1992 	31-12-1995 	513800 	Non-specialised wholesale trade of nutrient and remedials
+01-01-1992 		513810 	Wholesale trade services in fish and fish products
+01-01-1992 	31-12-2002 	513820 	Wholesale trade in bread, cakes and biscuits
+01-01-1992 		513830 	Wholesale trade in health food products
+01-01-2003 		513890 	Other specialised wholesale trade in food, drink and tobacco products
+01-01-1992 	31-12-2002 	513890 	Other specialised wholesale trade in food and enjoyment products
+01-01-2003 		513900 	Non-specialised wholesale trade in food, drink and tobacco products
+01-01-1992 	31-12-2002 	513900 	Non-specialised wholesale trade of nutrient and remedials
+01-01-1992 	31-12-1995 	513910 	Wholesale trade services in fish and fish products
+01-01-1992 	31-12-1995 	513920 	Wholesale trade in bread, cakes and biscuits
+01-01-1992 	31-12-1995 	513930 	Wholesale trade in health food products
+01-01-1992 	31-12-1995 	513990 	Other specialised wholesale trade in food and enjoyment products
+01-01-1992 		514100 	Wholesale trade in textiles
+01-01-1992 		514210 	Wholesale trade in clothing
+01-01-1992 		514220 	Wholesale trade in footwear
+01-01-1992 		514310 	Wholesale trade in white goods
+01-01-1992 	31-12-2002 	514320 	Wholesale trade services in radio and television
+01-01-2003 		514320 	Wholesale trade services with radio and television, etc.
+01-01-1992 	31-12-2002 	514330 	Wholesale trade with gramophone records as well as recorded and unrecorded video tapes, etc.
+01-01-2003 		514330 	Wholesale with recorded and unrecorded video tapes, CDs, DVDs, etc.
+01-01-1992 		514340 	Wholesale trade services of electrical household goods
+01-01-1992 		514410 	Wholesale trade in porcelain and glassware
+01-01-1992 		514420 	Wholesale trade services of cleaning products
+01-01-2003 		514500 	Wholesale trade in perfumery and cosmetics
+01-01-1992 	31-12-2002 	514500 	Wholesale of toiletries and perfumery products
+01-01-1992 		514610 	Wholesale trade in pharmaceuticals and nursing goods
+01-01-1992 		514620 	Wholesale of Medical and Hospital Supplies
+01-01-1992 		514705 	Wholesale trade in furniture
+01-01-1992 		514710 	Wholesale trade in carpets
+01-01-1992 		514715 	Wholesale trade in gold and silver products
+01-01-1992 		514720 	Wholesale trade with watches and optics
+01-01-1992 		514725 	Wholesale trade in photographic articles
+01-01-1992 		514730 	Wholesale trade services in bicycles and mopeds
+01-01-1992 		514735 	Wholesale trade services in sports goods, camping equipment and yachts
+01-01-1992 		514740 	Wholesale trade in toys and games
+01-01-1992 		514745 	Wholesale trade in books, paper and paper products
+01-01-1992 		514750 	Wholesale trade services of suitcases, leather goods and handicrafts
+01-01-1992 		514790 	Wholesale trade services with other household items
+01-01-1992 		515100 	Wholesale trade services in motor fuel, fuel, lubricating oil, etc.
+01-01-1992 		515200 	Wholesale trade services of unprocessed metals and metal ores
+01-01-1992 		515310 	Wholesale trade services of wood, wood loads and building materials
+01-01-1992 	31-12-2002 	515320 	Wholesale trade in varnish, paint and wallpaper
+01-01-2003 		515320 	Wholesale trade in varnish, paint, wallpaper, paint brushes, etc.
+01-01-1992 		515400 	Wholesale trade services with hardware and heating systems and accessories
+01-01-1992 		515500 	Wholesale trade in chemical products
+01-01-1992 		515610 	Wholesale trade in packaging articles
+01-01-1992 		515690 	Wholesale trade services with other raw materials and semi-finished products
+01-01-1992 		515700 	Wholesale trade services in waste products
+01-01-1996 	31-12-2002 	516100 	Wholesale of machine tools and accessories for working metal and wood
+01-01-1992 	31-12-1995 	516100 	Wholesale of machine tools, tools and accessories for working metal and wood
+01-01-1992 	31-12-2002 	516200 	Wholesale trade services of machinery, equipment and accessories for construction
+01-01-1992 	31-12-2002 	516300 	Wholesale trade services of machinery, equipment and accessories for the textile industry
+01-01-1992 	31-12-2002 	516410 	Wholesale of office machinery, computer machines and equipment
+01-01-1992 	31-12-2002 	516420 	Wholesale of office furniture and office supplies
+01-01-1992 	31-12-2002 	516510 	Wholesale trade services of electrical installation equipment
+01-01-1992 	31-12-2002 	516520 	Wholesale trading of electronic components
+01-01-1992 	31-12-2002 	516590 	Wholesale trade services with other machinery, equipment and accessories
+01-01-1992 	31-12-2002 	516600 	Wholesale of agricultural machinery and equipment and accessories, including tractors
+01-01-1992 	31-12-2002 	517000 	Other wholesale trade
+01-01-2002 		518100 	Wholesale of machine tools and accessories for working metal and wood
+01-01-2002 		518200 	Wholesale trade services of machinery, equipment and accessories for construction
+01-01-2002 		518300 	Wholesale trade services of machinery, equipment and accessories for the textile industry
+01-01-2002 		518410 	Wholesale trade services with computers and IT equipment
+01-01-2002 		518420 	Wholesale trade services in telecommunications equipment
+01-01-2002 		518500 	Wholesale of office machinery and office equipment
+01-01-2002 		518600 	Wholesale trading of electronic components
+01-01-2002 		518710 	Wholesale trade services of electrical installation equipment
+01-01-2002 		518790 	Wholesale trade services with other machinery, equipment and accessories
+01-01-2002 		518800 	Wholesale of agricultural machinery and equipment and accessories, including tractors
+01-01-2002 		519000 	Other wholesale trade
+01-01-1992 		521110 	Colonial trade
+01-01-1992 		521120 	Circadian kiosks
+01-01-1992 		521130 	Supermarkets
+01-01-2002 		521140 	Discount stores
+01-01-1992 		521210 	Department Stores
+01-01-1992 		521220 	Department magazines
+01-01-1992 		522100 	Fruit and vegetable shops
+01-01-1992 		522200 	Butcher and victualling shops
+01-01-1992 		522300 	Fish and game shops
+01-01-1992 	31-12-1995 	522400 	Bread outlet sale
+01-01-1992 		522410 	Bread outlet sale
+01-01-1992 		522420 	Chocolate and confectionery stores
+01-01-1992 		522500 	Wine shops
+01-01-1992 	31-12-2002 	522600 	Tobacco and wine shops
+01-01-2003 		522600 	Tobacco stores
+01-01-1992 		522710 	Cheese shops
+01-01-1992 	31-12-1995 	522720 	Chocolate and confectionery stores
+01-01-1992 		522730 	Health food stores
+01-01-2003 		522790 	Retail trade in food, drink and tobacco products from specialty shops in general
+01-01-1992 	31-12-2002 	522790 	Retail trade in nutrient and beverages from specialty shops, incidentally
+01-01-1992 		523100 	Pharmacies
+01-01-1992 		523200 	Retail trade in medical and orthopaedic articles
+01-01-1992 		523310 	Perfumeries
+01-01-1992 		523320 	Materialists
+01-01-1992 		524100 	Retail trades in dress fabrics, yarns, embroideries, etc.
+01-01-1992 		524210 	Women's Clothing Stores
+01-01-1992 		524220 	Men's Clothing Stores
+01-01-1992 		524230 	Men's and women's clothing stores (mixed)
+01-01-1992 		524240 	Baby equipment and children's clothing stores
+01-01-1992 		524310 	Shoewear stores
+01-01-1992 		524320 	Leather goods stores
+01-01-1992 		524410 	Furniture stores
+01-01-1992 	31-12-2002 	524420 	Carpet stores
+01-01-1992 		524430 	Home Textile stores
+01-01-2003 		524440 	Retail trade in kitchen equipment, glass, porcelain, cutlery, vases, candlesticks, etc.
+01-01-1992 	31-12-2002 	524440 	Retail trade exclusively with kitchenware, glass and porcelain
+01-01-1992 		524450 	Retail trade services of lighting
+01-01-1996 		524510 	Retail trade services of electrical household appliances and appliances
+01-01-1992 	31-12-1995 	524510 	Retail trade services of household appliances and appliances
+01-01-1992 		524520 	Broadcasting and radio stores
+01-01-1992 		524530 	Record stores
+01-01-1992 		524540 	Dealers of musical instruments
+01-01-1992 		524610 	Hardware stores
+01-01-1992 		524620 	Construction markets
+01-01-1992 		524630 	Color and wallpaper stores
+01-01-1992 		524700 	Book and paper dealers
+01-01-2002 		524801 	Carpet stores
+01-01-1992 		524805 	Watchmaking stores
+01-01-1992 		524810 	Watchmaking and goldsmith shops
+01-01-1992 		524815 	Goldsmiths and Jewellery stores
+01-01-2003 		524820 	Optometries
+01-01-1992 	31-12-2002 	524820 	Specialized opticians
+01-01-1992 		524825 	Photo stores
+01-01-1992 		524830 	Dealers of gift items and handicrafts (gift stalls)
+01-01-1992 		524835 	Art trade and gallery
+01-01-1992 		524840 	Stamp and mint shops
+01-01-1992 		524845 	Sports shops
+01-01-1996 		524850 	Retail trade in toys and games
+01-01-1992 	31-12-1995 	524850 	Toy shops
+01-01-1992 		524855 	Dealers of yachts and equipment for this
+01-01-1992 		524860 	Bicycle and moped shops
+01-01-1992 	31-12-1995 	524865 	Retail trade services of PCs, office machinery and software
+01-01-1996 	31-12-2002 	524865 	Retail trade services of PCs, office machines and standard software
+01-01-2002 		524866 	Retail trade services of computers and standard software
+01-01-2002 		524867 	Retail trade services of office machinery
+01-01-1992 		524870 	Retail trade services of telecommunications equipment
+01-01-1992 		524875 	Flower shops
+01-01-1992 		524880 	Plant dealers and garden centres
+01-01-1992 		524885 	Animal trade
+01-01-1992 		524890 	Dealers of heating oil and solid household fuel
+01-01-1992 		524895 	Porn stores
+01-01-1992 		524899 	Retail trade in other goods
+01-01-1992 		525010 	Bogantikvariates
+01-01-1992 		525020 	Antique shops
+01-01-1992 		525090 	Other distributors of used goods
+01-01-1992 		526100 	Retail from mail order transactions
+01-01-1992 		526210 	Fruit and vegetable stalls
+01-01-1992 		526290 	Other retail trade from stalls and markets
+01-01-1992 		526300 	Other retail outlet other than retail
+01-01-1992 		527100 	Repair of shoes or other leather goods
+01-01-1992 		527210 	Repair of electrical household appliances and appliances
+01-01-1992 		527220 	Radio and TV repair shops
+01-01-1992 		527300 	Repair of watches
+01-01-1992 		527410 	Bicycle Repair Workshops
+01-01-1992 		527420 	Locksmiths
+01-01-1992 		527490 	Other repair services of goods for personal or household use
+01-01-2002 		551010 	Hotels
+01-01-2002 		551020 	Conference Centres and Course Properties
+01-01-1992 	31-12-2002 	551110 	Hotels with Restaurant
+01-01-1992 	31-12-2002 	551120 	Conference Centres and Course Properties
+01-01-1992 	31-12-2002 	551200 	Hotels without restaurant
+01-01-1992 		552100 	Hostels
+01-01-1992 		552200 	Camping
+01-01-1992 		552310 	Holiday centres
+01-01-1992 		552390 	Other facilities for short-term stays
+01-01-1992 		553010 	Restaurants
+01-01-1992 		553020 	Cafeteria, hotdog stand, barbecue bars, ice cream parlours, etc.
+01-01-1992 		553090 	Banquet rooms, village halls, etc.
+01-01-1992 		554010 	Taverns, bodegas, etc.
+01-01-1992 		554020 	Discotheques and nightclubs
+01-01-2003 		554090 	Cafes and coffee shops, etc.
+01-01-1992 	31-12-2002 	554090 	Coffee bars, etc.
+01-01-1992 		555100 	Canteens
+01-01-1992 		555200 	Catering and diner transportable
+01-01-1992 		601000 	Railways
+01-01-1992 	31-12-2002 	602100 	Bus and S-train traffic, etc., scheduled services
+01-01-2002 		602110 	Bus traffic
+01-01-2002 		602120 	S-train traffic, metro and other track-based traffic
+01-01-1992 		602200 	Taxi driving
+01-01-1996 		602300 	Second land passenger transport
+01-01-1992 	31-12-1995 	602300 	Second passenger transport, non-rigo bypass
+01-01-1992 		602410 	Haulage company
+01-01-1992 		602420 	Moving shops
+01-01-1992 		603000 	Pipe transport
+01-01-1992 		611010 	Shipping company, freight
+01-01-1992 		611020 	Shipping company, ferry and passenger services
+01-01-1992 	31-12-1995 	611100 	Shipping company, ocean shipping
+01-01-1992 	31-12-1995 	611210 	Ferry and passenger services
+01-01-1992 	31-12-1995 	611220 	Coastal speed with goods
+01-01-1992 		612000 	Inland waterway transport
+01-01-1992 		621000 	Route flight
+01-01-1992 		622010 	Charter flights with passengers
+01-01-1992 		622020 	Charter flight with goods
+01-01-1992 		622030 	Taxi flights, etc.
+01-01-1992 		623000 	Space travel
+01-01-1992 		631100 	Goods treatment
+01-01-1992 		631200 	Storage and warehouse services
+01-01-1992 	31-12-2002 	632110 	Stations and freight terminals
+01-01-2003 		632110 	Stations, freight terminals, etc.
+01-01-1992 		632120 	Parking and garages
+01-01-1992 		632130 	Operation of toll roads, bridges and tunnels
+01-01-1992 		632210 	Commercial ports (transport and fishing ports)
+01-01-1992 	31-12-2002 	632220 	Marinas
+01-01-1992 		632230 	Fireworks and Cargo Series
+01-01-1992 		632240 	Trailing, salvage and rescue
+01-01-1992 		632300 	Airports, etc.
+01-01-1992 		633010 	Tourist offices
+01-01-1992 		633020 	Travel agencies, tour-ranging
+01-01-2003 		633030 	Travel agencies, ticketing
+01-01-1992 	31-12-2002 	633030 	Travel agencies, ticketing
+01-01-1992 		633040 	Tourist Guide Company
+01-01-1992 		634010 	Shipbrokership
+01-01-1992 		634020 	Freight forwarding
+01-01-1992 		634030 	Welders and Meters
+01-01-1992 		634090 	Other services related to transport
+01-01-1992 		641100 	Postal Service
+01-01-1992 		641200 	Courier service and application of daily newspapers
+01-01-1992 	31-12-2002 	642000 	Telecommunications
+01-01-2002 		642010 	Providers of fixed telecommunications
+01-01-2002 		642020 	Providers of wireless communications
+01-01-2002 		642030 	Providers of internet access
+01-01-2002 		642040 	Other telecommunications
+01-01-1992 		61100 	Danmarks Nationalbank
+01-01-1992 		611200 	Banks, savings banks and cooperative banks
+01-01-1992 		652100 	Financial leasing
+01-01-1992 	31-12-1995 	652210 	Mortgage banks, etc.
+01-01-1992 	31-12-1995 	652220 	Financing Funds
+01-01-1992 		652230 	Mortgage credit institutions
+01-01-1992 		652240 	Other credit institutions
+01-01-1992 		652250 	Credit reference of non-credit institutions other
+01-01-1992 		652260 	Financing companies
+01-01-2002 		652270 	CMO companies
+01-01-1992 	31-12-1995 	652290 	Other credit provision
+01-01-1992 		652295 	Other lending activities
+01-01-1992 		652310 	Investment funds
+01-01-2002 		652315 	Innovation Associations
+01-01-1992 		652320 	Investment firms
+01-01-2002 		652325 	Venture companies
+01-01-1992 		652330 	Stockbroking companies
+01-01-1992 		652340 	Financial holding companies
+01-01-1992 	31-12-1995 	652390 	Financing activities, moreover,
+01-01-1992 		652395 	Financing activities, moreover,
+01-01-1992 		660100 	Life insurance
+01-01-1992 		660210 	Pension funds
+01-01-1992 		660290 	Other pension insurance
+01-01-1992 		660310 	Non-life insurance business
+01-01-1992 		660320 	Health insurance
+01-01-1992 		660390 	Other insurance business, moreover
+01-01-1992 		671100 	The stock exchange, etc.
+01-01-1992 		671200 	Stockbrokers
+01-01-1992 		671300 	Other services activities related to financial institutions and financing activities
+01-01-1992 		672010 	Insurance agencies
+01-01-1992 		672090 	Other services related to insurance
+01-01-1992 		7101100 	Subdivision of real estate
+01-01-1992 		71200 	Purchase and sale of real estate at your own expense
+01-01-1992 		702010 	Non-profit housing companies
+01-01-1992 		702020 	Private cooperative housing associations
+01-01-1992 		702030 	Other rental of homes
+01-01-1992 		702040 	Rental of commercial properties
+01-01-1992 		703110 	Real estate agents
+01-01-1992 		703120 	Housing instructions
+01-01-1992 		703130 	Holiday home rental
+01-01-1992 		703210 	Administration of real estate on a contract basis
+01-01-1992 		703220 	Ownership associations
+01-01-1992 		711000 	Car rental
+01-01-1992 		712110 	Rental of containers
+01-01-1992 		712190 	Rental of lorries and other equipment for land transport
+01-01-1992 		712200 	Rental of ships
+01-01-1992 		712300 	Rental of aircraft
+01-01-1992 		713100 	Rental of agricultural machinery and equipment
+01-01-1992 		713200 	Rental of construction equipment
+01-01-2003 		713310 	Rental of computers and IT equipment
+01-01-1992 	31-12-2002 	713310 	Rental of computer machines and computer equipment
+01-01-1992 		713320 	Rental of office machinery
+01-01-1992 		713400 	Rental of machinery and equipment
+01-01-1992 	31-12-2002 	714010 	Linkecing for video tapes
+01-01-2003 		714010 	Linkecing and DVD rental
+01-01-1992 		714090 	Rental of goods for personal use and for use in households
+01-01-1992 		721000 	Consultancy on hardware
+01-01-1992 	31-12-1995 	722000 	Provision of software and consultancy services
+01-01-1996 	31-12-2002 	722000 	Development and consultancy services related to software
+01-01-2002 		722100 	Development of standard software
+01-01-2002 		722200 	Development of customer-specific software and consultancy services in connection with software
+01-01-1992 		723000 	Data processing
+01-01-1992 		724000 	Database hosts and intermediaries
+01-01-1992 	31-12-2002 	725000 	Repair and maintenance services of office machinery and computer equipment
+01-01-2003 		725000 	Repair and maintenance of office machines and IT equipment
+01-01-1992 	31-12-2002 	726000 	Other activities related to data processing
+01-01-2003 		726000 	Other activities in connection with IT services
+01-01-1992 		731000 	Research and development in the field of natural sciences and engineering
+01-01-1992 		732000 	Research and development in social sciences and humanities
+01-01-1992 		741100 	Law firm
+01-01-1992 		741200 	Audit and accounting services
+01-01-1992 		741300 	Poll and Market Analysis
+01-01-1992 		741410 	Agricultural consultants
+01-01-1992 		741490 	Other business advice
+01-01-1992 		741500 	Non-financial holding companies
+01-01-1992 		742010 	Consulting engineering activities within construction and civil engineering
+01-01-1992 		742020 	Consulting engineering in the field of manufacturing and mechanical engineering
+01-01-1992 		742030 	Installation and delivery of finished plant
+01-01-1992 		742040 	Architectural activities
+01-01-1992 		742050 	Garden and landscape architects
+01-01-1992 		742060 	Geological studies and prospecting
+01-01-1992 		742070 	Land inspectors, etc.
+01-01-1992 		742080 	Patent agencies
+01-01-1992 		742090 	Other technical advice
+01-01-1992 		743010 	Controls of foodstuffs
+01-01-1992 		743020 	Technical testing and control
+01-01-1992 		743030 	Environmental engineering measurements and analyses
+01-01-1992 		743090 	Second measurement and technical analysis
+01-01-1992 		744010 	Advertising agency business
+01-01-1992 		744090 	Other advertising and advertising services
+01-01-1992 		745010 	Employment mediation
+01-01-1992 		745020 	Temporary employment agencies
+01-01-1992 		745030 	Advice and participation in staff selection
+01-01-1992 	31-12-2002 	746000 	Detective and surveillance activities
+01-01-2003 		746000 	Watch and surveillance activities
+01-01-1992 		747010 	Ordinary cleaning
+01-01-1992 		747020 	Specialized cleaning
+01-01-1992 		747030 	Window Cleaning
+01-01-1992 		747040 	Chimney sweeping
+01-01-1992 		747050 	Disinfection and pest control
+01-01-1992 		748110 	Photographers
+01-01-1992 		748120 	Photo Laboratories
+01-01-1992 		748200 	Packings, etc.
+01-01-1992 	31-12-2002 	748310 	Addressing agencies
+01-01-1992 	31-12-2002 	748320 	Interpretation and translation
+01-01-1992 	31-12-2002 	748390 	Other office service
+01-01-1992 	31-12-2002 	748410 	Interior Designers
+01-01-1992 	31-12-2002 	748420 	Design and industrial design
+01-01-1992 	31-12-2002 	748430 	Credit rating and creditworthiness disclosure
+01-01-1992 	31-12-2002 	748440 	Congress, exhibition and exhibition activities
+01-01-1996 	31-12-2002 	748490 	Other business services n.e.c.
+01-01-1992 	31-12-1995 	748490 	Music agencies and other business services n.e.c.
+01-01-2002 		748510 	Addressing agencies
+01-01-2002 		748520 	Interpretation and translation
+01-01-2002 		748590 	Other office service
+01-01-2002 		748600 	Call Centres Company
+01-01-2002 		748710 	Interior Designers
+01-01-2002 		748720 	Design and industrial design
+01-01-2002 		748730 	Credit rating and creditworthiness disclosure
+01-01-2002 		748740 	Congress, exhibition and exhibition activities
+01-01-2002 		748790 	Other business services n.e.c.
+01-01-1992 		751100 	General public services
+01-01-1992 		751200 	Public administration of health care, education and social conditions
+01-01-1992 		751300 	Public administration concerning business, infrastructure, etc.
+01-01-1992 		751400 	Public services for the assistance and control of the public sector
+01-01-1992 		752100 	Foreign Affairs
+01-01-2003 		752200 	Defense
+01-01-1992 	31-12-2002 	752200 	Defence and civil defense
+01-01-1992 		752310 	Courts
+01-01-1992 		752320 	Prison Service
+01-01-1992 		752400 	Police
+01-01-1992 		752500 	Fire Department and Rescue Corps
+01-01-1992 		753000 	Social insurance
+01-01-1992 		801010 	Primary school and the like
+01-01-1992 		801020 	Special Schools for Disabled People
+01-01-1992 		801030 	Youth and After Schools
+01-01-1992 		802100 	High schools, student and HF courses
+01-01-1992 	31-12-2002 	802210 	Schools with pedagogical education
+01-01-1992 		802220 	Schools with trade and office education
+01-01-1992 		802230 	Schools with industrial and artisanal training
+01-01-1992 		802240 	Schools with agricultural and food education
+01-01-1992 		802250 	Schools with transport education
+01-01-1992 	31-12-1995 	802260 	Schools with health and care education
+01-01-1996 		802260 	Schools with health and care education
+01-01-1992 	31-12-2002 	802270 	Police and Defense Schools
+01-01-1992 		803010 	Universities
+01-01-1992 	31-12-2002 	803020 	Educational institutions with pedagogical education
+01-01-2003 		803020 	Teacher seminars
+01-01-2002 		803025 	Pedagogse seminaries
+01-01-1992 		803030 	Educational institutions with humanistic and artistic education
+01-01-1992 		803040 	Educational institutions with social science education
+01-01-1992 		803050 	Educational institutions with technical training
+01-01-1992 		803060 	Educational institutions with agricultural science education
+01-01-1992 		803070 	Educational institutions with health education
+01-01-1992 		803080 	Officer Schools
+01-01-2002 		803085 	Police and Defense Schools
+01-01-1992 	31-12-1995 	804100 	Driving Schools
+01-01-1996 		804100 	Driving Schools, etc.
+01-01-1992 		804210 	Schools with vocational adult education
+01-01-1992 		804220 	Folk High Schools
+01-01-1992 		804230 	Other schools with general education adult education
+01-01-1992 		804290 	Teaching, by the way
+01-01-1992 		851100 	Hospitals
+01-01-1992 		851210 	General GPs
+01-01-1992 		851220 	Practising specialists and outpatient clinics
+01-01-1992 		851310 	Practising Dentists
+01-01-1996 		851320 	Practicing clinical dental technicians
+01-01-1992 	31-12-1995 	851320 	Practicing dental technicians
+01-01-1992 		851410 	Home health care and health care
+01-01-1992 		851420 	Midwives and midwife centres
+01-01-1992 		851430 	Physiotherapeutic clinics and practicing physiotherapists
+01-01-1992 		851440 	Psychological Counselling
+01-01-1992 		851450 	Medical laboratories
+01-01-1992 	31-12-2002 	851460 	The Occupational Health Service
+01-01-1992 		851470 	Chiropractors
+01-01-1992 		851480 	Foot caregivers
+01-01-2003 		851490 	Other health care system
+01-01-1992 	31-12-2002 	851490 	Cure institutions, naturalists, etc.
+01-01-1992 		852000 	Veterinarians
+01-01-1992 		853110 	Day-care centres for children and young people
+01-01-1992 		853120 	Family care
+01-01-1992 		853130 	Institutions for drug addicts and alcohol-injured
+01-01-1992 		853140 	Day-care centres for adults with disabilities
+01-01-1992 		853150 	Nursing Homes and Protected Homes
+01-01-1992 		853160 	Incarceration's home, etc.
+01-01-1992 		853190 	Other social measures covering institutional stays
+01-01-1992 		853205 	Daycare mothers
+01-01-1992 		853210 	Nuthouses
+01-01-1992 		853215 	Kindergartens
+01-01-1992 		853220 	Leisure homes, etc.
+01-01-1992 		853225 	Age-integrated institutions
+01-01-1992 		853230 	Leisure clubs for young people
+01-01-1992 		853235 	Home Help
+01-01-1992 		853240 	Day centers for the elderly, etc.
+01-01-1992 		853245 	Rehabilitation institutions
+01-01-2003 		853250 	Refugee and asylum centres
+01-01-1992 	31-12-2002 	853250 	Refugee centres
+01-01-1992 		853255 	Associations with disease-fighting and social purposes
+01-01-1992 		853260 	Grants and foundations with charitable purposes
+01-01-1992 		853290 	Other social measures without institutional stays
+01-01-1992 	31-12-2002 	900010 	Sewerage and sewage treatment plants
+01-01-1992 	31-12-2002 	900020 	Renovation and cleanliness
+01-01-1992 	31-12-2002 	900030 	Landfills and incinerated facilities
+01-01-2002 		900100 	Collection and treatment of waste water
+01-01-2002 		900210 	Collection of waste
+01-01-2002 		900220 	Operation of waste treatment plants
+01-01-2002 		900310 	Renovation, snow removal, etc.
+01-01-2002 		900320 	Cleansing of soil and groundwater
+01-01-1992 		911100 	Employer and business organisations
+01-01-1992 		911200 	Professional, Statutory Associations
+01-01-1992 		912000 	Trade Unions
+01-01-1992 		913100 	Religious institutions and associations
+01-01-1992 	31-12-1995 	913110 	The Church
+01-01-1992 	31-12-1995 	913120 	Other faith communities
+01-01-1992 		913200 	Political parties
+01-01-1992 		913310 	Tenents' Associations
+01-01-1992 		913320 	Open-air organisations
+01-01-1992 		913330 	Other political and ideological organizations
+01-01-1992 		913340 	Other informational and cultural associations and institutions
+01-01-1992 		913390 	Sociable associations, lodges, etc.
+01-01-1992 		921100 	Film and video production
+01-01-1992 		91200 	Film and video dissemination
+01-01-1992 		921300 	Cinemas
+01-01-1992 	31-12-2002 	922000 	Radio and television establishment
+01-01-2002 		922010 	TV company
+01-01-2002 		922020 	Radio company
+01-01-1992 		923110 	Theatre and concert activities
+01-01-1992 		923120 	Independent performers
+01-01-1992 	31-12-2002 	923200 	Operation of theatre and concert halls
+01-01-2003 		923200 	Operation of theatre and concert halls, cultural houses, etc.
+01-01-1992 		923300 	Amusement parks
+01-01-1992 		923400 	Other amusement activities, moreover
+01-01-1992 		924000 	Press agencies
+01-01-1992 		925110 	Public Libraries
+01-01-1992 		925120 	Research and university libraries
+01-01-1992 		925130 	Archives
+01-01-1992 		925200 	Museums
+01-01-1992 		925300 	Botanical and Zoological Gardens
+01-01-1992 		926110 	Sports and swimming pools
+01-01-1992 		926190 	Other sports facilities
+01-01-1992 		926210 	Sports Clubs
+01-01-2002 		926220 	Marinas
+01-01-1992 		926290 	Other activities related to sports in general
+01-01-1992 		927100 	Lottery and other gambling activities
+01-01-1992 		927200 	Other activities related to leisure time, moreover
+01-01-1992 		930110 	Business and Institution Laundries
+01-01-1992 		930120 	Self-service laundries, etc.
+01-01-1992 		930130 	Cleansers
+01-01-1992 		930210 	Hairdressing salons
+01-01-1992 		930220 	Beauty and skin care
+01-01-1992 		930310 	Funeral men
+01-01-1992 		930320 	Burial Service
+01-01-1992 	31-12-2002 	930400 	Sun and gyms, etc.
+01-01-2003 		930400 	Sun, exercise and health centers, etc.
+01-01-1992 		930500 	Other service activities, moreover,
+01-01-1992 		950000 	Private households with staff assistance
+01-01-1992 		980000 	Unenlightened
+01-01-1992 		990000 	International organizations, etc.
+01-01-1992 		999999 	Not stated
+
+    Personal income
+    NACE
+
+Share the page content
+
+
+
+
+
+
+   
+    
+   
+   
+    
+
+
+       
+     
+
+

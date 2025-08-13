@@ -1,0 +1,892 @@
+code,description
+LAB_nace_0,Not stated
+LAB_nace_11110,Grain Breeding
+LAB_nace_11190,"Agerbrug, by the way"
+LAB_nace_11210,Hortithnries
+LAB_nace_11220,Nurseries
+LAB_nace_11300,"Cultivation of fruit and berries, nuts and spice plants"
+LAB_nace_12110,Dairy cattle team
+LAB_nace_12190,Second cattle breeding
+LAB_nace_12210,Studs
+LAB_nace_12220,Sheep and goat breeding
+LAB_nace_12300,Pig farming
+LAB_nace_12400,Poultry breeding
+LAB_nace_12510,Fur animal breeding
+LAB_nace_12520,Beekeeping
+LAB_nace_12530,Kennels
+LAB_nace_12590,"Goat breeding, rabbit breeding, etc."
+LAB_nace_13000,Plant breeding combined with livestock farming (mixed operation)
+LAB_nace_14110,Agricultural machinery stations
+LAB_nace_14120,Construction nurseries
+LAB_nace_14190,Service activities in connection with arable use
+LAB_nace_14200,Service activities related to livestock farming other than veterinary establishment
+LAB_nace_15000,"Hunting, catching and service activities related thereto"
+LAB_nace_20100,Forestry
+LAB_nace_20200,Service activities in connection with forestry
+LAB_nace_21200,Forming and processing of flat glass
+LAB_nace_50100,Fishing
+LAB_nace_50200,Fish Farming and Fishing
+LAB_nace_50300,Service activities in connection with fishing
+LAB_nace_61100,Danmarks Nationalbank
+LAB_nace_71200,Purchase and sale of real estate at your own expense
+LAB_nace_91200,Film and video dissemination
+LAB_nace_101000,Coal mines
+LAB_nace_102000,Lignut Bearings
+LAB_nace_103000,Peat pits
+LAB_nace_111000,Extraction of crude oil and natural gas
+LAB_nace_112000,Technical services services related to oil and gas extraction
+LAB_nace_120000,Refraction of uranium and thorium ores
+LAB_nace_131000,Refraction of iron ore
+LAB_nace_132000,Refraction of non-ferrous metal ores other than uranium and thorium ores
+LAB_nace_141110,Breaking of stones
+LAB_nace_141120,Stone fishing
+LAB_nace_141200,Lime Fracture
+LAB_nace_141300,Slate fracture
+LAB_nace_142100,"Gravel and sand pits, dredging"
+LAB_nace_142200,Extraction of clay and kaolin
+LAB_nace_143000,Extraction of minerals for the production of chemical products and fertilisers
+LAB_nace_144000,Salt extraction
+LAB_nace_145000,Other extraction of raw materials in general
+LAB_nace_151110,Pig slaughterhouses
+LAB_nace_151120,Creature slaughterhouses
+LAB_nace_151130,Intestinal series
+LAB_nace_151140,Destruction facilities and bone meal factories
+LAB_nace_151200,Poultry slaughterhouses
+LAB_nace_151310,Manufacture of ready meals
+LAB_nace_151390,"Meat processing, moreover"
+LAB_nace_152010,"Fish hermetics, fish meat and fish fillet factories"
+LAB_nace_152030,Fishmeal factories
+LAB_nace_153100,Processing and preservation of potatoes
+LAB_nace_153200,Preparation of fruit and vegetable juices
+LAB_nace_153300,Processing and preservation of fruit and vegetables
+LAB_nace_154100,Manufacture of crude oils and fats
+LAB_nace_154200,Manufacture of refined oils and fats
+LAB_nace_154300,"Margarine factories, etc."
+LAB_nace_155110,Dairies and cheese making
+LAB_nace_155120,Milk condensation factories
+LAB_nace_155200,Manufacture of ice for human consumption
+LAB_nace_156100,Manufacture of milling products
+LAB_nace_156110,Manufacture of milling products
+LAB_nace_156120,Industrial manufacture and breeding of seeds
+LAB_nace_156200,Manufacture of starch and starch products
+LAB_nace_157110,Manufacture of compound feed for agriculture and fur farming
+LAB_nace_157120,Manufacture of compound feed for fish and sea
+LAB_nace_157200,Manufacture of finished pet food
+LAB_nace_158110,Bread mills
+LAB_nace_158120,Bakery shops
+LAB_nace_158200,Manufacture of cakes and biscuits
+LAB_nace_158300,Sugar factories and refineries
+LAB_nace_158400,Chocolate and sugar products factories
+LAB_nace_158500,Manufacture of pasta products and similar products
+LAB_nace_158600,Processing of tea and coffee
+LAB_nace_158700,"Spice mills, production of flavors, etc."
+LAB_nace_158900,Manufacture of other foodstuffs
+LAB_nace_158910,Manufacture of food supplements
+LAB_nace_158920,Manufacture of other foodstuffs
+LAB_nace_159100,Production of spirits
+LAB_nace_159200,Preparation of crude alcohol
+LAB_nace_159300,Preparation of wine based on grapes
+LAB_nace_159400,Manufacture of fruit wine other than from grapes
+LAB_nace_159500,"Manufacture of vermouth, etc."
+LAB_nace_159600,Breweries
+LAB_nace_159700,Malt factories
+LAB_nace_159800,"Mineral water factories, etc."
+LAB_nace_159900,Manufacture of other non-alcoholic beverages
+LAB_nace_160000,Tobacco factories
+LAB_nace_171000,Pre-treatment and spinning of textile fibres
+LAB_nace_172000,Weaving of textiles
+LAB_nace_173000,Finishing of textiles
+LAB_nace_174010,"Sailings, flag and tent factories, etc."
+LAB_nace_174020,Manufacture of home textiles
+LAB_nace_174090,Manufacture of other finished textile products
+LAB_nace_175100,Carpet factories
+LAB_nace_175210,The ropes
+LAB_nace_175220,Fish net factories (word binders)
+LAB_nace_175300,"Manufacture of non-wovens and articles thereof, other than clothing"
+LAB_nace_175400,Manufacture of felt and other textiles
+LAB_nace_176000,Manufacture of knitted or crocheted substances
+LAB_nace_177100,Stocking factories
+LAB_nace_177200,"Manufacture of pullovers, cardigans, etc."
+LAB_nace_177300,Manufacture of knitted or crocheted outer garment
+LAB_nace_177400,Manufacture of knitted or crocheted underwear
+LAB_nace_177500,Manufacture of other knitted or crocheted goods and accessories
+LAB_nace_181000,Manufacture of leather clothing
+LAB_nace_182100,Manufacture of workwear
+LAB_nace_182200,"Manufacture of outerwear, dresses, pants, etc."
+LAB_nace_182210,Manufacture of men's and women's outerwear
+LAB_nace_182220,"Manufacture of jackets, trousers and other outerwear for men and boys"
+LAB_nace_182230,"Manufacture of dresses, trousers and other outerwear for ladies and girls"
+LAB_nace_182310,Manufacture of shirts
+LAB_nace_182390,Other manufacture of underwear
+LAB_nace_182410,Manufacture of baby clothes
+LAB_nace_182490,"Clothing industry, by the way"
+LAB_nace_183000,Fur bed and bunt makers
+LAB_nace_191000,Tanners
+LAB_nace_192000,"Manufacture of bags, suitcases, etc."
+LAB_nace_193010,Shoewear factories
+LAB_nace_193020,Wooden shoe factories
+LAB_nace_201010,Sawmills
+LAB_nace_201020,"Wood impregnation companies, etc."
+LAB_nace_202000,"Preparation of plywood, particle board, etc."
+LAB_nace_203010,Manufacture of frame and furniture lists
+LAB_nace_203020,Manufacture of parts of wood for buildings
+LAB_nace_203030,Manufacture of prefabricated buildings or building elements of wood
+LAB_nace_204000,Wooden packaging factories
+LAB_nace_205120,Ligistestone factories
+LAB_nace_205190,Manufacture of other wood products
+LAB_nace_205200,"Manufacture of products of cork, straw and plaiting materials"
+LAB_nace_211100,Manufacture of pulp
+LAB_nace_211200,Preparation of paper and paperboard
+LAB_nace_212100,Manufacture of corrugated board and packaging of paper and paperboard
+LAB_nace_212200,Manufacture of paper and paperboard households and toiletries
+LAB_nace_212300,Manufacture of paper and paperboard office supplies
+LAB_nace_212310,Manufacture of writing paper
+LAB_nace_212390,Manufacture of other paperboard and paperboard office supplies
+LAB_nace_212400,Manufacture of wallpaper
+LAB_nace_212500,Manufacture of other paper and paperboard items n.e.c.
+LAB_nace_221110,"Publishing of books, brochures, etc. with its own printing works"
+LAB_nace_221120,"Publishing of books, brochures, etc. without its own printing works"
+LAB_nace_221210,Publishing of newspapers with own printing
+LAB_nace_221220,Publishing of newspapers without own printing
+LAB_nace_221310,Publishing of magazines and magazines with own printing company
+LAB_nace_221320,Publishing from magazines and magazines without your own printing works
+LAB_nace_221330,Publishing of district and ad sheets with own printing
+LAB_nace_221340,Publishing of district and ad Sheets without your own printing company
+LAB_nace_221500,Other publishing business
+LAB_nace_222100,Newspaper printing
+LAB_nace_222210,Printing and Off-the-Cost Printing
+LAB_nace_222220,Offset printing
+LAB_nace_222230,Serigraphic printers
+LAB_nace_222290,"Other printers, by the way"
+LAB_nace_222300,Book binderies
+LAB_nace_222400,Prepress work
+LAB_nace_222410,Reproduction facilities
+LAB_nace_222420,Setteriets
+LAB_nace_222500,Other activities related to printing
+LAB_nace_223100,Reproduction of audio recordings
+LAB_nace_223200,Reproduction of video recordings
+LAB_nace_223300,Reproduction of computer media
+LAB_nace_224400,Release of audio recordings
+LAB_nace_226400,Manufacture of other ceramic products for technical use
+LAB_nace_231000,"Manufacture of coke, etc."
+LAB_nace_232000,Manufacture of refined petroleum products
+LAB_nace_233000,Reprocessing of nuclear fuel
+LAB_nace_241100,Manufacture of industrial gases
+LAB_nace_241200,Preparation of dyes and pigments
+LAB_nace_241300,Preparation of other inorganic basic chemicals
+LAB_nace_241400,Manufacture of other basic organic chemicals
+LAB_nace_241500,"Manufacture of fertilizers, etc."
+LAB_nace_241600,Manufacture of basic plastics
+LAB_nace_241700,Manufacture of synthetic rubber
+LAB_nace_242000,Manufacture of pesticides and other agrochemical products
+LAB_nace_243000,"Manufacture of paints, varnishes, inks, etc. and sealing materials"
+LAB_nace_244100,Manufacture of pharmaceutical raw materials
+LAB_nace_244200,Pharmaceutical product factories
+LAB_nace_245110,Soap and detergent factories
+LAB_nace_245120,Manufacture of waxes and cleaning products
+LAB_nace_245200,"Manufacture of perfume, hair shampoo, toothpaste, etc."
+LAB_nace_246100,"Manufacture of explosives, etc."
+LAB_nace_246200,Lim factories
+LAB_nace_246300,Manufacture of essential oils
+LAB_nace_246400,Manufacture of photochemical products
+LAB_nace_246500,Production of unrecorded media
+LAB_nace_246600,Manufacture of other chemical products
+LAB_nace_247000,Manufacture of man-made fibres
+LAB_nace_251100,Manufacture of rubber tyres and rubber hoses
+LAB_nace_251200,Volcanic Institutions
+LAB_nace_251300,Manufacture of other rubber products
+LAB_nace_252110,"Manufacture of plates, sheets, film and other flat forms of plastics"
+LAB_nace_252120,Manufacture of plastic pipes and tubes
+LAB_nace_252130,Manufacture of plastic rods and profiles
+LAB_nace_252200,Manufacture of plastic packaging
+LAB_nace_252310,Manufacture of plastic sanitary articles
+LAB_nace_252390,Manufacture of other plastic building articles
+LAB_nace_252410,Manufacture of plastic office and school articles
+LAB_nace_252420,Manufacture of plastic tableware and kitchenware
+LAB_nace_252490,Manufacture of other plastic products
+LAB_nace_261100,Production of flat glass
+LAB_nace_261300,"Preparation of bottles, drinking glasses, etc."
+LAB_nace_261400,Manufacture of fibreglass and certain products thereof
+LAB_nace_261500,Manufacture and processing of glass
+LAB_nace_262100,Manufacture of ceramic household articles and ornaments
+LAB_nace_262200,Manufacture of ceramic sanitary warehousing
+LAB_nace_262300,Manufacture of ceramic insulators and insulation parts
+LAB_nace_262500,Manufacture of other ceramic products
+LAB_nace_262600,Manufacture of heat-insulating and refractory ceramic products
+LAB_nace_263000,Manufacture of tiles and tiles
+LAB_nace_264000,Tileworks
+LAB_nace_265100,Cement factories
+LAB_nace_265200,Calciumworks
+LAB_nace_265300,Manufacture of plaster
+LAB_nace_266110,Concrete product factories
+LAB_nace_266120,Concrete element factories
+LAB_nace_266200,Manufacture of plaster construction materials
+LAB_nace_266300,Manufacture of ready-mixed concrete
+LAB_nace_266400,Mortar works
+LAB_nace_266500,Manufacture of fibre cement products
+LAB_nace_266600,"Manufacture of other concrete, plaster and cement products"
+LAB_nace_267000,Stonemasons
+LAB_nace_268100,Manufacture of abrasives
+LAB_nace_268210,Asphalt and roofing felt factories
+LAB_nace_268220,Stone wool factories
+LAB_nace_268290,Manufacture of other non-metallic mineral products
+LAB_nace_271000,Manufacture of pig irons and crude steel and iron alloys
+LAB_nace_272100,Manufacture of cast iron or steel pipes
+LAB_nace_272200,Manufacture of iron or steel pipes (excl. cast pipes)
+LAB_nace_273100,Milking of iron and steel
+LAB_nace_273200,Cold rolling of iron or steel bands
+LAB_nace_273300,Cold treatment of iron or steel
+LAB_nace_273400,Wooden drawing of steel
+LAB_nace_273500,Other workings of iron or steel
+LAB_nace_274100,Manufacture of precious metals
+LAB_nace_274200,Manufacture of aluminium and components thereof
+LAB_nace_274300,"Manufacture and first processing of lead, zinc and tin"
+LAB_nace_274400,Manufacture of copper and components thereof
+LAB_nace_274500,Manufacture of other non-ferrous metals and components thereof
+LAB_nace_275100,Casting of iron products
+LAB_nace_275200,Casting of steel products
+LAB_nace_275300,Casting of light metal products
+LAB_nace_275400,Casting of other non-ferrous metal products
+LAB_nace_281100,Manufacture of metal structures and parts thereof
+LAB_nace_281200,Manufacture of doors and windows and its frames of iron or metal
+LAB_nace_282100,Manufacture of tanks and containers of iron/steel and metal
+LAB_nace_282200,Manufacture of radiators and boilers for central heating systems
+LAB_nace_283000,Manufacture of steam boilers other than central heating boilers
+LAB_nace_284000,"Forging, pressing, lowering and rolling metal; powder metallurgy"
+LAB_nace_285100,Surface treatment of metal on a contractual basis (wage work)
+LAB_nace_285200,General machine processing operations on a contract basis (wage work)
+LAB_nace_286100,"Manufacture of cutlery, cutting and cutting tools"
+LAB_nace_286200,Manufacture of hand tools
+LAB_nace_286310,Locking Factories
+LAB_nace_286320,Manufacture of metal fittings
+LAB_nace_287100,Manufacture of metal barrels and similar containers
+LAB_nace_287200,"Manufacture of cans, etc. and closing devices of metal"
+LAB_nace_287300,Manufacture of threaded products
+LAB_nace_287400,"Manufacture of bolts, screws, nuts, chains and springs"
+LAB_nace_287510,Manufacture of metal signs
+LAB_nace_287520,Manufacture of metal sanitary and household articles
+LAB_nace_287590,Manufacture of other finished metal products
+LAB_nace_291110,Ship engine factories
+LAB_nace_291120,Repair of ship engines
+LAB_nace_291190,Manufacture of other engines and turbines
+LAB_nace_291210,Manufacture of air pumps and compressors
+LAB_nace_291220,Manufacture of liquid pumps
+LAB_nace_291230,Manufacture of hydraulic and pneumatic machinery
+LAB_nace_291300,Manufacture of taps and valves
+LAB_nace_291400,"Manufacture of axles, bearings and exchanges"
+LAB_nace_292100,Manufacture of furnaces and heating units
+LAB_nace_292210,Manufacture of belt conveyors and lifts
+LAB_nace_292220,"Manufacture of cranes, waist and hoists"
+LAB_nace_292230,Manufacture of trucks
+LAB_nace_292290,Manufacture of other handling equipment
+LAB_nace_292310,Manufacture of refrigeration and freezers for commercial use
+LAB_nace_292320,Manufacture of ventilation and air conditioning systems for commercial use
+LAB_nace_292410,Weight factories
+LAB_nace_292420,Manufacture of packaging machinery
+LAB_nace_292430,"Manufacture of high-pressure cleaners, fire extinguishers, sandblowers, etc."
+LAB_nace_292490,"Manufacture of vending machines, heat exchangers, centrifuges, etc."
+LAB_nace_293100,Manufacture of tractors
+LAB_nace_293210,"Manufacture of harvesting machines, etc."
+LAB_nace_293220,Manufacture of agricultural tillage machinery
+LAB_nace_293230,"Manufacture of agricultural machinery for agricultural, gardens and forestry"
+LAB_nace_293240,"Repair of agricultural, garden and forestry machinery"
+LAB_nace_294000,Manufacture of machine tools
+LAB_nace_294100,Manufacture of handheld motor-powered tools
+LAB_nace_294200,Manufacture of other metalworking machine tools
+LAB_nace_294300,Manufacture of other machine tools n.e.c.
+LAB_nace_295100,Manufacture of machinery for the metal industry
+LAB_nace_295210,"Manufacture of machinery for the manufacture of mortar, cement, concrete and concrete products"
+LAB_nace_295290,"Manufacture of machinery for construction work, etc."
+LAB_nace_295310,Manufacture of dairy machines
+LAB_nace_295320,Manufacture of machinery for the treatment of grain
+LAB_nace_295330,Manufacture of machinery for the sugar industry and bakery machinery
+LAB_nace_295340,"Manufacture of machinery for the processing of meat, poultry, fish and shellfish"
+LAB_nace_295390,"Manufacture of other machinery for the food, beverage and tobacco industries"
+LAB_nace_295400,Manufacture of machinery for the cladding and leather industry
+LAB_nace_295500,Manufacture of machinery for paper and paperboard industry
+LAB_nace_295610,Manufacture of moulds
+LAB_nace_295620,Manufacture of drying plants used for agricultural products
+LAB_nace_295690,Manufacture of industrial machinery
+LAB_nace_296000,Manufacture of weapons and ammunition
+LAB_nace_297110,Manufacture of refrigerators and freezers for domestic use
+LAB_nace_297120,"Manufacture of domestic electric cookers, cooking appliances and ovens for domestic use"
+LAB_nace_297130,"Manufacture of household dishwasher, washing machines"
+LAB_nace_297190,"Manufacture of vacuum cleaners, water heaters, electric radiators, coffee machines, etc. for domestic use"
+LAB_nace_297200,Manufacture of non-electrical household appliances and wood-burning stoves
+LAB_nace_300100,Manufacture of office machinery
+LAB_nace_300200,Manufacture of computer machines and other computer equipment
+LAB_nace_311010,Manufacture of electric motors and generators
+LAB_nace_311020,"Manufacture of generator sets with internal combustion engine, etc."
+LAB_nace_311030,Manufacture of transformers and converters
+LAB_nace_311040,Manufacture of wind turbines and parts thereof
+LAB_nace_312010,Manufacture of electrical distribution and control panels
+LAB_nace_312090,"Manufacture of electrical switches, relays, fuses, etc."
+LAB_nace_313000,Manufacture of insulated wires and cables
+LAB_nace_314000,Accumulator and dry element factories
+LAB_nace_315000,"Manufacture of luminaires, etc."
+LAB_nace_316100,Manufacture of other electrical equipment for engines and vehicles n.e.s.
+LAB_nace_316210,Manufacture of electric traffic control equipment
+LAB_nace_316220,Electromechanical workshops
+LAB_nace_316290,Manufacture of other electrical and electronic equipment
+LAB_nace_321010,Manufacture of printed and integrated circuits
+LAB_nace_321090,"Manufacture of semiconductor components, capacitors, resistors, etc."
+LAB_nace_322010,Manufacture of radio-telegraphy and radio-telephony apparatus
+LAB_nace_322020,Manufacture of telephone apparatus and fax machines
+LAB_nace_323010,"Manufacture of radios, televisions, etc."
+LAB_nace_323020,"Manufacture of speakers, etc."
+LAB_nace_323030,Manufacture of antennas and antenna systems
+LAB_nace_331010,"Manufacture of needles, syringes, catheters and infusion sets"
+LAB_nace_331020,Manufacture of hearing aids and parts thereof
+LAB_nace_331030,Manufacture of electrodiagnostic apparatus
+LAB_nace_331040,Manufacture of fixtures for medical and dental use
+LAB_nace_331090,"Manufacture of X-ray apparatus, dental apparatus, respiratory apparatus, orthopedic articles, prostheses, etc."
+LAB_nace_332010,Manufacture of navigational equipment
+LAB_nace_332020,"Manufacture of appliances for measuring consumption, pressure, etc. in liquids and gases"
+LAB_nace_332030,Manufacture of apparatus for measuring or checking electrical quantities
+LAB_nace_332040,Manufacture of instruments and apparatus for use in physical or chemical analyses
+LAB_nace_332090,Manufacture of other measuring and control equipment
+LAB_nace_333000,Manufacture of equipment for industrial process control systems
+LAB_nace_334010,"Manufacture of lenses and optical instruments, etc."
+LAB_nace_334020,Manufacture of reproductive cameras
+LAB_nace_334090,Manufacture of photographic and cinematographic equipment
+LAB_nace_335000,Manufacture of watches
+LAB_nace_341000,Car factories
+LAB_nace_342000,Body factories
+LAB_nace_343000,Manufacture of parts and accessories for motor vehicles
+LAB_nace_351100,Construction and repair of ships
+LAB_nace_351200,Building and repair of boats
+LAB_nace_352000,"Manufacture of locomotives and railway wagons, etc."
+LAB_nace_353000,Aircraft factories and workshops
+LAB_nace_354100,Manufacture of motorcycles and mopeds
+LAB_nace_354200,Manufacture of bicycles
+LAB_nace_354300,Manufacture of invalid vehicles
+LAB_nace_355000,Manufacture of other means of transport
+LAB_nace_361110,Manufacture of chairs and other seating
+LAB_nace_361120,Furniture Upholstery
+LAB_nace_361200,"Manufacture of office, shopware and storage furniture except chairs"
+LAB_nace_361300,"Manufacture of kitchen elements and furniture, etc."
+LAB_nace_361410,Manufacture of other furniture for homes
+LAB_nace_361490,"Mower paintings, deacidification of furniture, etc."
+LAB_nace_361500,Mattress factories
+LAB_nace_362100,Manufacture of coins and medals
+LAB_nace_362210,Gold and silverware factories
+LAB_nace_362220,Gold and silversmith workshops and jewels
+LAB_nace_363000,Manufacture of musical instruments
+LAB_nace_364000,Manufacture of sports props
+LAB_nace_366100,Manufacture of bijouteri products
+LAB_nace_366200,Brush factories
+LAB_nace_366310,Candlesbuks
+LAB_nace_366390,Manufacture of other products
+LAB_nace_371000,Recycling of metal waste products
+LAB_nace_372000,Recycling of non-metallic waste products
+LAB_nace_401000,Electricity supply
+LAB_nace_401100,Production of electricity
+LAB_nace_401200,Transmission of electricity
+LAB_nace_401300,Distribution and trade of electricity
+LAB_nace_402000,Gas supply
+LAB_nace_402100,Manufacture of gas
+LAB_nace_402200,Distribution and trading of gas through pipelines
+LAB_nace_403000,Heat supply
+LAB_nace_410000,Water supply
+LAB_nace_451100,Demolition and ground labour contractors
+LAB_nace_451200,Funding studies
+LAB_nace_452100,Construction contractors (other than demolition and groundwork contractors)
+LAB_nace_452200,Roofing business
+LAB_nace_452510,Masonry stores
+LAB_nace_452520,Bridgelayers
+LAB_nace_452530,Sewer masters
+LAB_nace_452540,Scaffolding shops
+LAB_nace_452590,Construction and construction that requires specialisation in general
+LAB_nace_453100,Electrical installation stores
+LAB_nace_453200,Insulation business
+LAB_nace_453300,plumbers and plumbing shops
+LAB_nace_454100,Stukumkere
+LAB_nace_454200,Carpentry and building joiner stores
+LAB_nace_454310,Flooring and wall cladding
+LAB_nace_454320,Floor planing and floor sanding
+LAB_nace_454410,Paintings
+LAB_nace_454420,Glazier stores
+LAB_nace_454500,"Other completion work, moreover"
+LAB_nace_455000,Rental of construction equipment with operating staff
+LAB_nace_501010,"Wholesale trade in cars, etc."
+LAB_nace_501020,Retail trade in cars
+LAB_nace_501030,"Wholesale and retail trade services of caravans, etc."
+LAB_nace_502010,Auto Repair Workshops
+LAB_nace_502020,Bodywork workshops (platesmiths)
+LAB_nace_502030,Autoelectricians
+LAB_nace_502040,Undercarriage treatment
+LAB_nace_502050,Auto paintings
+LAB_nace_502060,Tyre service
+LAB_nace_502090,Autoservice by the way
+LAB_nace_503010,"Wholesale trade services with spare parts and accessories for cars, etc."
+LAB_nace_503020,"Retail trade services of spare parts and accessories for cars, etc. (auto equipment stores)"
+LAB_nace_504000,"Wholesale and retail trade services of motorcycles, spare parts and accessories and their repair and maintenance"
+LAB_nace_505010,Service stations without kiosk sales
+LAB_nace_505020,Service stations with kiosk sales
+LAB_nace_511100,"Agricultural machinery trade services in agricultural, agricultural products, live animals, textile materials and semi-finished products"
+LAB_nace_511200,"Agency trade in fuels, ores, metals and chemical products for industry"
+LAB_nace_511300,Agency trade in timber and other building materials
+LAB_nace_511400,"Agency trade in machinery, technical equipment, ships and aeroplanes"
+LAB_nace_511500,"Agency trade in furniture, household goods and hardware"
+LAB_nace_511600,"Agricultural trade services in textiles, clothing, footwear and leather goods"
+LAB_nace_511710,Fish Auctions
+LAB_nace_511790,"Other Agency trade in food, drink and tobacco products"
+LAB_nace_511800,Agency trade with other specialized assortment
+LAB_nace_511900,Mixed range agency trade
+LAB_nace_512100,"Wholesale trade in cereals, seed and feedingstuffs"
+LAB_nace_512200,Wholesale of flowers and plants
+LAB_nace_512300,Wholesale trade in live animals
+LAB_nace_512400,"Wholesale trade in raw hides, skins and leather"
+LAB_nace_512500,Wholesale trade in raw tobacco
+LAB_nace_513100,Wholesale trade in fruit and vegetables
+LAB_nace_513200,Wholesale trade services in meat and meat products
+LAB_nace_513300,"Wholesale trade services in dairy products, eggs, edible oils and fats"
+LAB_nace_513410,Wholesale trade in beer and mineral water
+LAB_nace_513420,Wholesale trade in wine and spirits
+LAB_nace_513490,"Wholesale trade in fruit and vegetable juices, etc."
+LAB_nace_513500,Wholesale trade in tobacco products
+LAB_nace_513600,"Wholesale trade in bread, cakes, sugar, chocolate and sugar products, e.g. sweets"
+LAB_nace_513700,"Wholesale trade in coffee, tea, cocoa and spices"
+LAB_nace_513800,Non-specialised wholesale trade of nutrient and remedials
+LAB_nace_513810,Wholesale trade services in fish and fish products
+LAB_nace_513820,"Wholesale trade in bread, cakes and biscuits"
+LAB_nace_513830,Wholesale trade in health food products
+LAB_nace_513890,"Other specialised wholesale trade in food, drink and tobacco products"
+LAB_nace_513900,"Non-specialised wholesale trade in food, drink and tobacco products"
+LAB_nace_513910,Wholesale trade services in fish and fish products
+LAB_nace_513920,"Wholesale trade in bread, cakes and biscuits"
+LAB_nace_513930,Wholesale trade in health food products
+LAB_nace_513990,Other specialised wholesale trade in food and enjoyment products
+LAB_nace_514100,Wholesale trade in textiles
+LAB_nace_514210,Wholesale trade in clothing
+LAB_nace_514220,Wholesale trade in footwear
+LAB_nace_514310,Wholesale trade in white goods
+LAB_nace_514320,"Wholesale trade services with radio and television, etc."
+LAB_nace_514330,"Wholesale trade with gramophone records as well as recorded and unrecorded video tapes, etc."
+LAB_nace_514340,Wholesale trade services of electrical household goods
+LAB_nace_514410,Wholesale trade in porcelain and glassware
+LAB_nace_514420,Wholesale trade services of cleaning products
+LAB_nace_514500,Wholesale of toiletries and perfumery products
+LAB_nace_514610,Wholesale trade in pharmaceuticals and nursing goods
+LAB_nace_514620,Wholesale of Medical and Hospital Supplies
+LAB_nace_514705,Wholesale trade in furniture
+LAB_nace_514710,Wholesale trade in carpets
+LAB_nace_514715,Wholesale trade in gold and silver products
+LAB_nace_514720,Wholesale trade with watches and optics
+LAB_nace_514725,Wholesale trade in photographic articles
+LAB_nace_514730,Wholesale trade services in bicycles and mopeds
+LAB_nace_514735,"Wholesale trade services in sports goods, camping equipment and yachts"
+LAB_nace_514740,Wholesale trade in toys and games
+LAB_nace_514745,"Wholesale trade in books, paper and paper products"
+LAB_nace_514750,"Wholesale trade services of suitcases, leather goods and handicrafts"
+LAB_nace_514790,Wholesale trade services with other household items
+LAB_nace_515100,"Wholesale trade services in motor fuel, fuel, lubricating oil, etc."
+LAB_nace_515200,Wholesale trade services of unprocessed metals and metal ores
+LAB_nace_515310,"Wholesale trade services of wood, wood loads and building materials"
+LAB_nace_515320,"Wholesale trade in varnish, paint, wallpaper, paint brushes, etc."
+LAB_nace_515400,Wholesale trade services with hardware and heating systems and accessories
+LAB_nace_515500,Wholesale trade in chemical products
+LAB_nace_515610,Wholesale trade in packaging articles
+LAB_nace_515690,Wholesale trade services with other raw materials and semi-finished products
+LAB_nace_515700,Wholesale trade services in waste products
+LAB_nace_516100,"Wholesale of machine tools, tools and accessories for working metal and wood"
+LAB_nace_516200,"Wholesale trade services of machinery, equipment and accessories for construction"
+LAB_nace_516300,"Wholesale trade services of machinery, equipment and accessories for the textile industry"
+LAB_nace_516410,"Wholesale of office machinery, computer machines and equipment"
+LAB_nace_516420,Wholesale of office furniture and office supplies
+LAB_nace_516510,Wholesale trade services of electrical installation equipment
+LAB_nace_516520,Wholesale trading of electronic components
+LAB_nace_516590,"Wholesale trade services with other machinery, equipment and accessories"
+LAB_nace_516600,"Wholesale of agricultural machinery and equipment and accessories, including tractors"
+LAB_nace_517000,Other wholesale trade
+LAB_nace_518100,Wholesale of machine tools and accessories for working metal and wood
+LAB_nace_518200,"Wholesale trade services of machinery, equipment and accessories for construction"
+LAB_nace_518300,"Wholesale trade services of machinery, equipment and accessories for the textile industry"
+LAB_nace_518410,Wholesale trade services with computers and IT equipment
+LAB_nace_518420,Wholesale trade services in telecommunications equipment
+LAB_nace_518500,Wholesale of office machinery and office equipment
+LAB_nace_518600,Wholesale trading of electronic components
+LAB_nace_518710,Wholesale trade services of electrical installation equipment
+LAB_nace_518790,"Wholesale trade services with other machinery, equipment and accessories"
+LAB_nace_518800,"Wholesale of agricultural machinery and equipment and accessories, including tractors"
+LAB_nace_519000,Other wholesale trade
+LAB_nace_521110,Colonial trade
+LAB_nace_521120,Circadian kiosks
+LAB_nace_521130,Supermarkets
+LAB_nace_521140,Discount stores
+LAB_nace_521210,Department Stores
+LAB_nace_521220,Department magazines
+LAB_nace_522100,Fruit and vegetable shops
+LAB_nace_522200,Butcher and victualling shops
+LAB_nace_522300,Fish and game shops
+LAB_nace_522400,Bread outlet sale
+LAB_nace_522410,Bread outlet sale
+LAB_nace_522420,Chocolate and confectionery stores
+LAB_nace_522500,Wine shops
+LAB_nace_522600,Tobacco and wine shops
+LAB_nace_522710,Cheese shops
+LAB_nace_522720,Chocolate and confectionery stores
+LAB_nace_522730,Health food stores
+LAB_nace_522790,"Retail trade in food, drink and tobacco products from specialty shops in general"
+LAB_nace_523100,Pharmacies
+LAB_nace_523200,Retail trade in medical and orthopaedic articles
+LAB_nace_523310,Perfumeries
+LAB_nace_523320,Materialists
+LAB_nace_524100,"Retail trades in dress fabrics, yarns, embroideries, etc."
+LAB_nace_524210,Women's Clothing Stores
+LAB_nace_524220,Men's Clothing Stores
+LAB_nace_524230,Men's and women's clothing stores (mixed)
+LAB_nace_524240,Baby equipment and children's clothing stores
+LAB_nace_524310,Shoewear stores
+LAB_nace_524320,Leather goods stores
+LAB_nace_524410,Furniture stores
+LAB_nace_524420,Carpet stores
+LAB_nace_524430,Home Textile stores
+LAB_nace_524440,"Retail trade in kitchen equipment, glass, porcelain, cutlery, vases, candlesticks, etc."
+LAB_nace_524450,Retail trade services of lighting
+LAB_nace_524510,Retail trade services of electrical household appliances and appliances
+LAB_nace_524520,Broadcasting and radio stores
+LAB_nace_524530,Record stores
+LAB_nace_524540,Dealers of musical instruments
+LAB_nace_524610,Hardware stores
+LAB_nace_524620,Construction markets
+LAB_nace_524630,Color and wallpaper stores
+LAB_nace_524700,Book and paper dealers
+LAB_nace_524801,Carpet stores
+LAB_nace_524805,Watchmaking stores
+LAB_nace_524810,Watchmaking and goldsmith shops
+LAB_nace_524815,Goldsmiths and Jewellery stores
+LAB_nace_524820,Specialized opticians
+LAB_nace_524825,Photo stores
+LAB_nace_524830,Dealers of gift items and handicrafts (gift stalls)
+LAB_nace_524835,Art trade and gallery
+LAB_nace_524840,Stamp and mint shops
+LAB_nace_524845,Sports shops
+LAB_nace_524850,Retail trade in toys and games
+LAB_nace_524855,Dealers of yachts and equipment for this
+LAB_nace_524860,Bicycle and moped shops
+LAB_nace_524865,"Retail trade services of PCs, office machines and standard software"
+LAB_nace_524866,Retail trade services of computers and standard software
+LAB_nace_524867,Retail trade services of office machinery
+LAB_nace_524870,Retail trade services of telecommunications equipment
+LAB_nace_524875,Flower shops
+LAB_nace_524880,Plant dealers and garden centres
+LAB_nace_524885,Animal trade
+LAB_nace_524890,Dealers of heating oil and solid household fuel
+LAB_nace_524895,Porn stores
+LAB_nace_524899,Retail trade in other goods
+LAB_nace_525010,Bogantikvariates
+LAB_nace_525020,Antique shops
+LAB_nace_525090,Other distributors of used goods
+LAB_nace_526100,Retail from mail order transactions
+LAB_nace_526210,Fruit and vegetable stalls
+LAB_nace_526290,Other retail trade from stalls and markets
+LAB_nace_526300,Other retail outlet other than retail
+LAB_nace_527100,Repair of shoes or other leather goods
+LAB_nace_527210,Repair of electrical household appliances and appliances
+LAB_nace_527220,Radio and TV repair shops
+LAB_nace_527300,Repair of watches
+LAB_nace_527410,Bicycle Repair Workshops
+LAB_nace_527420,Locksmiths
+LAB_nace_527490,Other repair services of goods for personal or household use
+LAB_nace_551010,Hotels
+LAB_nace_551020,Conference Centres and Course Properties
+LAB_nace_551110,Hotels with Restaurant
+LAB_nace_551120,Conference Centres and Course Properties
+LAB_nace_551200,Hotels without restaurant
+LAB_nace_552100,Hostels
+LAB_nace_552200,Camping
+LAB_nace_552310,Holiday centres
+LAB_nace_552390,Other facilities for short-term stays
+LAB_nace_553010,Restaurants
+LAB_nace_553020,"Cafeteria, hotdog stand, barbecue bars, ice cream parlours, etc."
+LAB_nace_553090,"Banquet rooms, village halls, etc."
+LAB_nace_554010,"Taverns, bodegas, etc."
+LAB_nace_554020,Discotheques and nightclubs
+LAB_nace_554090,"Cafes and coffee shops, etc."
+LAB_nace_555100,Canteens
+LAB_nace_555200,Catering and diner transportable
+LAB_nace_601000,Railways
+LAB_nace_602100,"Bus and S-train traffic, etc., scheduled services"
+LAB_nace_602110,Bus traffic
+LAB_nace_602120,"S-train traffic, metro and other track-based traffic"
+LAB_nace_602200,Taxi driving
+LAB_nace_602300,"Second passenger transport, non-rigo bypass"
+LAB_nace_602410,Haulage company
+LAB_nace_602420,Moving shops
+LAB_nace_603000,Pipe transport
+LAB_nace_611010,"Shipping company, freight"
+LAB_nace_611020,"Shipping company, ferry and passenger services"
+LAB_nace_611100,"Shipping company, ocean shipping"
+LAB_nace_611200,"Banks, savings banks and cooperative banks"
+LAB_nace_611210,Ferry and passenger services
+LAB_nace_611220,Coastal speed with goods
+LAB_nace_612000,Inland waterway transport
+LAB_nace_621000,Route flight
+LAB_nace_622010,Charter flights with passengers
+LAB_nace_622020,Charter flight with goods
+LAB_nace_622030,"Taxi flights, etc."
+LAB_nace_623000,Space travel
+LAB_nace_631100,Goods treatment
+LAB_nace_631200,Storage and warehouse services
+LAB_nace_632110,"Stations, freight terminals, etc."
+LAB_nace_632120,Parking and garages
+LAB_nace_632130,"Operation of toll roads, bridges and tunnels"
+LAB_nace_632210,Commercial ports (transport and fishing ports)
+LAB_nace_632220,Marinas
+LAB_nace_632230,Fireworks and Cargo Series
+LAB_nace_632240,"Trailing, salvage and rescue"
+LAB_nace_632300,"Airports, etc."
+LAB_nace_633010,Tourist offices
+LAB_nace_633020,"Travel agencies, tour-ranging"
+LAB_nace_633030,"Travel agencies, ticketing"
+LAB_nace_633040,Tourist Guide Company
+LAB_nace_634010,Shipbrokership
+LAB_nace_634020,Freight forwarding
+LAB_nace_634030,Welders and Meters
+LAB_nace_634090,Other services related to transport
+LAB_nace_641100,Postal Service
+LAB_nace_641200,Courier service and application of daily newspapers
+LAB_nace_642000,Telecommunications
+LAB_nace_642010,Providers of fixed telecommunications
+LAB_nace_642020,Providers of wireless communications
+LAB_nace_642030,Providers of internet access
+LAB_nace_642040,Other telecommunications
+LAB_nace_652100,Financial leasing
+LAB_nace_652210,"Mortgage banks, etc."
+LAB_nace_652220,Financing Funds
+LAB_nace_652230,Mortgage credit institutions
+LAB_nace_652240,Other credit institutions
+LAB_nace_652250,Credit reference of non-credit institutions other
+LAB_nace_652260,Financing companies
+LAB_nace_652270,CMO companies
+LAB_nace_652290,Other credit provision
+LAB_nace_652295,Other lending activities
+LAB_nace_652310,Investment funds
+LAB_nace_652315,Innovation Associations
+LAB_nace_652320,Investment firms
+LAB_nace_652325,Venture companies
+LAB_nace_652330,Stockbroking companies
+LAB_nace_652340,Financial holding companies
+LAB_nace_652390,"Financing activities, moreover,"
+LAB_nace_652395,"Financing activities, moreover,"
+LAB_nace_660100,Life insurance
+LAB_nace_660210,Pension funds
+LAB_nace_660290,Other pension insurance
+LAB_nace_660310,Non-life insurance business
+LAB_nace_660320,Health insurance
+LAB_nace_660390,"Other insurance business, moreover"
+LAB_nace_671100,"The stock exchange, etc."
+LAB_nace_671200,Stockbrokers
+LAB_nace_671300,Other services activities related to financial institutions and financing activities
+LAB_nace_672010,Insurance agencies
+LAB_nace_672090,Other services related to insurance
+LAB_nace_702010,Non-profit housing companies
+LAB_nace_702020,Private cooperative housing associations
+LAB_nace_702030,Other rental of homes
+LAB_nace_702040,Rental of commercial properties
+LAB_nace_703110,Real estate agents
+LAB_nace_703120,Housing instructions
+LAB_nace_703130,Holiday home rental
+LAB_nace_703210,Administration of real estate on a contract basis
+LAB_nace_703220,Ownership associations
+LAB_nace_711000,Car rental
+LAB_nace_712110,Rental of containers
+LAB_nace_712190,Rental of lorries and other equipment for land transport
+LAB_nace_712200,Rental of ships
+LAB_nace_712300,Rental of aircraft
+LAB_nace_713100,Rental of agricultural machinery and equipment
+LAB_nace_713200,Rental of construction equipment
+LAB_nace_713310,Rental of computer machines and computer equipment
+LAB_nace_713320,Rental of office machinery
+LAB_nace_713400,Rental of machinery and equipment
+LAB_nace_714010,Linkecing for video tapes
+LAB_nace_714090,Rental of goods for personal use and for use in households
+LAB_nace_721000,Consultancy on hardware
+LAB_nace_722000,Development and consultancy services related to software
+LAB_nace_722100,Development of standard software
+LAB_nace_722200,Development of customer-specific software and consultancy services in connection with software
+LAB_nace_723000,Data processing
+LAB_nace_724000,Database hosts and intermediaries
+LAB_nace_725000,Repair and maintenance services of office machinery and computer equipment
+LAB_nace_726000,Other activities in connection with IT services
+LAB_nace_731000,Research and development in the field of natural sciences and engineering
+LAB_nace_732000,Research and development in social sciences and humanities
+LAB_nace_741100,Law firm
+LAB_nace_741200,Audit and accounting services
+LAB_nace_741300,Poll and Market Analysis
+LAB_nace_741410,Agricultural consultants
+LAB_nace_741490,Other business advice
+LAB_nace_741500,Non-financial holding companies
+LAB_nace_742010,Consulting engineering activities within construction and civil engineering
+LAB_nace_742020,Consulting engineering in the field of manufacturing and mechanical engineering
+LAB_nace_742030,Installation and delivery of finished plant
+LAB_nace_742040,Architectural activities
+LAB_nace_742050,Garden and landscape architects
+LAB_nace_742060,Geological studies and prospecting
+LAB_nace_742070,"Land inspectors, etc."
+LAB_nace_742080,Patent agencies
+LAB_nace_742090,Other technical advice
+LAB_nace_743010,Controls of foodstuffs
+LAB_nace_743020,Technical testing and control
+LAB_nace_743030,Environmental engineering measurements and analyses
+LAB_nace_743090,Second measurement and technical analysis
+LAB_nace_744010,Advertising agency business
+LAB_nace_744090,Other advertising and advertising services
+LAB_nace_745010,Employment mediation
+LAB_nace_745020,Temporary employment agencies
+LAB_nace_745030,Advice and participation in staff selection
+LAB_nace_746000,Detective and surveillance activities
+LAB_nace_747010,Ordinary cleaning
+LAB_nace_747020,Specialized cleaning
+LAB_nace_747030,Window Cleaning
+LAB_nace_747040,Chimney sweeping
+LAB_nace_747050,Disinfection and pest control
+LAB_nace_748110,Photographers
+LAB_nace_748120,Photo Laboratories
+LAB_nace_748200,"Packings, etc."
+LAB_nace_748310,Addressing agencies
+LAB_nace_748320,Interpretation and translation
+LAB_nace_748390,Other office service
+LAB_nace_748410,Interior Designers
+LAB_nace_748420,Design and industrial design
+LAB_nace_748430,Credit rating and creditworthiness disclosure
+LAB_nace_748440,"Congress, exhibition and exhibition activities"
+LAB_nace_748490,Music agencies and other business services n.e.c.
+LAB_nace_748510,Addressing agencies
+LAB_nace_748520,Interpretation and translation
+LAB_nace_748590,Other office service
+LAB_nace_748600,Call Centres Company
+LAB_nace_748710,Interior Designers
+LAB_nace_748720,Design and industrial design
+LAB_nace_748730,Credit rating and creditworthiness disclosure
+LAB_nace_748740,"Congress, exhibition and exhibition activities"
+LAB_nace_748790,Other business services n.e.c.
+LAB_nace_751100,General public services
+LAB_nace_751200,"Public administration of health care, education and social conditions"
+LAB_nace_751300,"Public administration concerning business, infrastructure, etc."
+LAB_nace_751400,Public services for the assistance and control of the public sector
+LAB_nace_752100,Foreign Affairs
+LAB_nace_752200,Defence and civil defense
+LAB_nace_752310,Courts
+LAB_nace_752320,Prison Service
+LAB_nace_752400,Police
+LAB_nace_752500,Fire Department and Rescue Corps
+LAB_nace_753000,Social insurance
+LAB_nace_801010,Primary school and the like
+LAB_nace_801020,Special Schools for Disabled People
+LAB_nace_801030,Youth and After Schools
+LAB_nace_802100,"High schools, student and HF courses"
+LAB_nace_802210,Schools with pedagogical education
+LAB_nace_802220,Schools with trade and office education
+LAB_nace_802230,Schools with industrial and artisanal training
+LAB_nace_802240,Schools with agricultural and food education
+LAB_nace_802250,Schools with transport education
+LAB_nace_802260,Schools with health and care education
+LAB_nace_802270,Police and Defense Schools
+LAB_nace_803010,Universities
+LAB_nace_803020,Educational institutions with pedagogical education
+LAB_nace_803025,Pedagogse seminaries
+LAB_nace_803030,Educational institutions with humanistic and artistic education
+LAB_nace_803040,Educational institutions with social science education
+LAB_nace_803050,Educational institutions with technical training
+LAB_nace_803060,Educational institutions with agricultural science education
+LAB_nace_803070,Educational institutions with health education
+LAB_nace_803080,Officer Schools
+LAB_nace_803085,Police and Defense Schools
+LAB_nace_804100,"Driving Schools, etc."
+LAB_nace_804210,Schools with vocational adult education
+LAB_nace_804220,Folk High Schools
+LAB_nace_804230,Other schools with general education adult education
+LAB_nace_804290,"Teaching, by the way"
+LAB_nace_851100,Hospitals
+LAB_nace_851210,General GPs
+LAB_nace_851220,Practising specialists and outpatient clinics
+LAB_nace_851310,Practising Dentists
+LAB_nace_851320,Practicing clinical dental technicians
+LAB_nace_851410,Home health care and health care
+LAB_nace_851420,Midwives and midwife centres
+LAB_nace_851430,Physiotherapeutic clinics and practicing physiotherapists
+LAB_nace_851440,Psychological Counselling
+LAB_nace_851450,Medical laboratories
+LAB_nace_851460,The Occupational Health Service
+LAB_nace_851470,Chiropractors
+LAB_nace_851480,Foot caregivers
+LAB_nace_851490,"Cure institutions, naturalists, etc."
+LAB_nace_852000,Veterinarians
+LAB_nace_853110,Day-care centres for children and young people
+LAB_nace_853120,Family care
+LAB_nace_853130,Institutions for drug addicts and alcohol-injured
+LAB_nace_853140,Day-care centres for adults with disabilities
+LAB_nace_853150,Nursing Homes and Protected Homes
+LAB_nace_853160,"Incarceration's home, etc."
+LAB_nace_853190,Other social measures covering institutional stays
+LAB_nace_853205,Daycare mothers
+LAB_nace_853210,Nuthouses
+LAB_nace_853215,Kindergartens
+LAB_nace_853220,"Leisure homes, etc."
+LAB_nace_853225,Age-integrated institutions
+LAB_nace_853230,Leisure clubs for young people
+LAB_nace_853235,Home Help
+LAB_nace_853240,"Day centers for the elderly, etc."
+LAB_nace_853245,Rehabilitation institutions
+LAB_nace_853250,Refugee and asylum centres
+LAB_nace_853255,Associations with disease-fighting and social purposes
+LAB_nace_853260,Grants and foundations with charitable purposes
+LAB_nace_853290,Other social measures without institutional stays
+LAB_nace_900010,Sewerage and sewage treatment plants
+LAB_nace_900020,Renovation and cleanliness
+LAB_nace_900030,Landfills and incinerated facilities
+LAB_nace_900100,Collection and treatment of waste water
+LAB_nace_900210,Collection of waste
+LAB_nace_900220,Operation of waste treatment plants
+LAB_nace_900310,"Renovation, snow removal, etc."
+LAB_nace_900320,Cleansing of soil and groundwater
+LAB_nace_911100,Employer and business organisations
+LAB_nace_911200,"Professional, Statutory Associations"
+LAB_nace_912000,Trade Unions
+LAB_nace_913100,Religious institutions and associations
+LAB_nace_913110,The Church
+LAB_nace_913120,Other faith communities
+LAB_nace_913200,Political parties
+LAB_nace_913310,Tenents' Associations
+LAB_nace_913320,Open-air organisations
+LAB_nace_913330,Other political and ideological organizations
+LAB_nace_913340,Other informational and cultural associations and institutions
+LAB_nace_913390,"Sociable associations, lodges, etc."
+LAB_nace_921100,Film and video production
+LAB_nace_921300,Cinemas
+LAB_nace_922000,Radio and television establishment
+LAB_nace_922010,TV company
+LAB_nace_922020,Radio company
+LAB_nace_923110,Theatre and concert activities
+LAB_nace_923120,Independent performers
+LAB_nace_923200,"Operation of theatre and concert halls, cultural houses, etc."
+LAB_nace_923300,Amusement parks
+LAB_nace_923400,"Other amusement activities, moreover"
+LAB_nace_924000,Press agencies
+LAB_nace_925110,Public Libraries
+LAB_nace_925120,Research and university libraries
+LAB_nace_925130,Archives
+LAB_nace_925200,Museums
+LAB_nace_925300,Botanical and Zoological Gardens
+LAB_nace_926110,Sports and swimming pools
+LAB_nace_926190,Other sports facilities
+LAB_nace_926210,Sports Clubs
+LAB_nace_926220,Marinas
+LAB_nace_926290,Other activities related to sports in general
+LAB_nace_927100,Lottery and other gambling activities
+LAB_nace_927200,"Other activities related to leisure time, moreover"
+LAB_nace_930110,Business and Institution Laundries
+LAB_nace_930120,"Self-service laundries, etc."
+LAB_nace_930130,Cleansers
+LAB_nace_930210,Hairdressing salons
+LAB_nace_930220,Beauty and skin care
+LAB_nace_930310,Funeral men
+LAB_nace_930320,Burial Service
+LAB_nace_930400,"Sun, exercise and health centers, etc."
+LAB_nace_930500,"Other service activities, moreover,"
+LAB_nace_950000,Private households with staff assistance
+LAB_nace_980000,Unenlightened
+LAB_nace_990000,"International organizations, etc."
+LAB_nace_999999,Not stated

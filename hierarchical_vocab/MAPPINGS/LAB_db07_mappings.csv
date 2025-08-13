@@ -1,0 +1,1756 @@
+code,prefix,database,value,description,source,confidence,language
+LAB_db07_011,LAB,db07,011,Dyrkning af etårige afgrøder,pt_dictionaries,highest,danish
+LAB_db07_012,LAB,db07,012,Dyrkning af flerårige afgrøder,pt_dictionaries,highest,danish
+LAB_db07_013,LAB,db07,013,Planteformering,pt_dictionaries,highest,danish
+LAB_db07_014,LAB,db07,014,Husdyravl,pt_dictionaries,highest,danish
+LAB_db07_015,LAB,db07,015,Blandet drift,pt_dictionaries,highest,danish
+LAB_db07_016,LAB,db07,016,Serviceydelser til landbrug og forarbejdning af afgrøder efter høst,pt_dictionaries,highest,danish
+LAB_db07_017,LAB,db07,017,"Jagt, fældefangst og serviceydelser i forbindelse hermed",pt_dictionaries,highest,danish
+LAB_db07_021,LAB,db07,021,Dyrkning af træer og andre skovbrugsaktiviteter,pt_dictionaries,highest,danish
+LAB_db07_022,LAB,db07,022,Skovning,pt_dictionaries,highest,danish
+LAB_db07_023,LAB,db07,023,Indsamling af vildtvoksende forstmateriale undtagen træer,pt_dictionaries,highest,danish
+LAB_db07_024,LAB,db07,024,Serviceydelser til skovbrug,pt_dictionaries,highest,danish
+LAB_db07_031,LAB,db07,031,Fiskeri,pt_dictionaries,highest,danish
+LAB_db07_032,LAB,db07,032,Akvakultur,pt_dictionaries,highest,danish
+LAB_db07_051,LAB,db07,051,Indvinding af stenkul,pt_dictionaries,highest,danish
+LAB_db07_052,LAB,db07,052,Indvinding af brunkul,pt_dictionaries,highest,danish
+LAB_db07_061,LAB,db07,061,Indvinding af råolie,pt_dictionaries,highest,danish
+LAB_db07_062,LAB,db07,062,Indvinding af naturgas,pt_dictionaries,highest,danish
+LAB_db07_071,LAB,db07,071,Brydning af jernmalm,pt_dictionaries,highest,danish
+LAB_db07_072,LAB,db07,072,Brydning af ikke-jernholdige metalmalme,pt_dictionaries,highest,danish
+LAB_db07_081,LAB,db07,081,Brydning af sten og indvinding af sand og ler,pt_dictionaries,highest,danish
+LAB_db07_089,LAB,db07,089,Råstofindvinding i.a.n.,pt_dictionaries,highest,danish
+LAB_db07_091,LAB,db07,091,Serviceydelser i forbindelse med indvinding af råolie og naturgas,pt_dictionaries,highest,danish
+LAB_db07_099,LAB,db07,099,Serviceydelser i forbindelse med anden råstofindvinding,pt_dictionaries,highest,danish
+LAB_db07_101,LAB,db07,101,Forarbejdning og konservering af kød og produktion af kødprodukter,pt_dictionaries,highest,danish
+LAB_db07_101110,LAB,db07,101110,DB07 industry classification: 101110,enhanced_english,medium,english
+LAB_db07_101110.0,LAB,db07,101110.0,DB07 industry classification: 101110.0,enhanced_english,medium,english
+LAB_db07_101190,LAB,db07,101190,DB07 industry classification: 101190,enhanced_english,medium,english
+LAB_db07_101190.0,LAB,db07,101190.0,DB07 industry classification: 101190.0,enhanced_english,medium,english
+LAB_db07_101200,LAB,db07,101200,DB07 industry classification: 101200,enhanced_english,medium,english
+LAB_db07_101200.0,LAB,db07,101200.0,DB07 industry classification: 101200.0,enhanced_english,medium,english
+LAB_db07_101300,LAB,db07,101300,DB07 industry classification: 101300,enhanced_english,medium,english
+LAB_db07_101300.0,LAB,db07,101300.0,DB07 industry classification: 101300.0,enhanced_english,medium,english
+LAB_db07_102,LAB,db07,102,"Forarbejdning og konservering af fisk, krebsdyr og bløddyr",pt_dictionaries,highest,danish
+LAB_db07_102010,LAB,db07,102010,DB07 industry classification: 102010,enhanced_english,medium,english
+LAB_db07_102010.0,LAB,db07,102010.0,DB07 industry classification: 102010.0,enhanced_english,medium,english
+LAB_db07_102020,LAB,db07,102020,DB07 industry classification: 102020,enhanced_english,medium,english
+LAB_db07_102020.0,LAB,db07,102020.0,DB07 industry classification: 102020.0,enhanced_english,medium,english
+LAB_db07_103,LAB,db07,103,Forarbejdning og konservering af frugt og grøntsager,pt_dictionaries,highest,danish
+LAB_db07_103100,LAB,db07,103100,DB07 industry classification: 103100,enhanced_english,medium,english
+LAB_db07_103100.0,LAB,db07,103100.0,DB07 industry classification: 103100.0,enhanced_english,medium,english
+LAB_db07_103200,LAB,db07,103200,DB07 industry classification: 103200,enhanced_english,medium,english
+LAB_db07_103200.0,LAB,db07,103200.0,DB07 industry classification: 103200.0,enhanced_english,medium,english
+LAB_db07_103900,LAB,db07,103900,DB07 industry classification: 103900,enhanced_english,medium,english
+LAB_db07_103900.0,LAB,db07,103900.0,DB07 industry classification: 103900.0,enhanced_english,medium,english
+LAB_db07_104,LAB,db07,104,Fremstilling af vegetabilske og animalske olier og fedtstoffer,pt_dictionaries,highest,danish
+LAB_db07_104100,LAB,db07,104100,DB07 industry classification: 104100,enhanced_english,medium,english
+LAB_db07_104100.0,LAB,db07,104100.0,DB07 industry classification: 104100.0,enhanced_english,medium,english
+LAB_db07_104200,LAB,db07,104200,DB07 industry classification: 104200,enhanced_english,medium,english
+LAB_db07_104200.0,LAB,db07,104200.0,DB07 industry classification: 104200.0,enhanced_english,medium,english
+LAB_db07_105,LAB,db07,105,Fremstilling af mejeriprodukter,pt_dictionaries,highest,danish
+LAB_db07_105100,LAB,db07,105100,DB07 industry classification: 105100,enhanced_english,medium,english
+LAB_db07_105100.0,LAB,db07,105100.0,DB07 industry classification: 105100.0,enhanced_english,medium,english
+LAB_db07_105200,LAB,db07,105200,DB07 industry classification: 105200,enhanced_english,medium,english
+LAB_db07_105200.0,LAB,db07,105200.0,DB07 industry classification: 105200.0,enhanced_english,medium,english
+LAB_db07_106,LAB,db07,106,"Fremstilling af mølleriprodukter, stivelse og stivelsesprodukter",pt_dictionaries,highest,danish
+LAB_db07_106100,LAB,db07,106100,DB07 industry classification: 106100,enhanced_english,medium,english
+LAB_db07_106100.0,LAB,db07,106100.0,DB07 industry classification: 106100.0,enhanced_english,medium,english
+LAB_db07_106200,LAB,db07,106200,DB07 industry classification: 106200,enhanced_english,medium,english
+LAB_db07_106200.0,LAB,db07,106200.0,DB07 industry classification: 106200.0,enhanced_english,medium,english
+LAB_db07_107,LAB,db07,107,Fremstilling af bageri- og dejprodukter,pt_dictionaries,highest,danish
+LAB_db07_107110,LAB,db07,107110,DB07 industry classification: 107110,enhanced_english,medium,english
+LAB_db07_107110.0,LAB,db07,107110.0,DB07 industry classification: 107110.0,enhanced_english,medium,english
+LAB_db07_107120,LAB,db07,107120,DB07 industry classification: 107120,enhanced_english,medium,english
+LAB_db07_107120.0,LAB,db07,107120.0,DB07 industry classification: 107120.0,enhanced_english,medium,english
+LAB_db07_107200,LAB,db07,107200,DB07 industry classification: 107200,enhanced_english,medium,english
+LAB_db07_107200.0,LAB,db07,107200.0,DB07 industry classification: 107200.0,enhanced_english,medium,english
+LAB_db07_107300,LAB,db07,107300,DB07 industry classification: 107300,enhanced_english,medium,english
+LAB_db07_107300.0,LAB,db07,107300.0,DB07 industry classification: 107300.0,enhanced_english,medium,english
+LAB_db07_108,LAB,db07,108,Fremstilling af andre fødevarer,pt_dictionaries,highest,danish
+LAB_db07_108100,LAB,db07,108100,DB07 industry classification: 108100,enhanced_english,medium,english
+LAB_db07_108100.0,LAB,db07,108100.0,DB07 industry classification: 108100.0,enhanced_english,medium,english
+LAB_db07_108200,LAB,db07,108200,DB07 industry classification: 108200,enhanced_english,medium,english
+LAB_db07_108200.0,LAB,db07,108200.0,DB07 industry classification: 108200.0,enhanced_english,medium,english
+LAB_db07_108300,LAB,db07,108300,DB07 industry classification: 108300,enhanced_english,medium,english
+LAB_db07_108300.0,LAB,db07,108300.0,DB07 industry classification: 108300.0,enhanced_english,medium,english
+LAB_db07_108400,LAB,db07,108400,DB07 industry classification: 108400,enhanced_english,medium,english
+LAB_db07_108400.0,LAB,db07,108400.0,DB07 industry classification: 108400.0,enhanced_english,medium,english
+LAB_db07_108500,LAB,db07,108500,DB07 industry classification: 108500,enhanced_english,medium,english
+LAB_db07_108500.0,LAB,db07,108500.0,DB07 industry classification: 108500.0,enhanced_english,medium,english
+LAB_db07_108600,LAB,db07,108600,DB07 industry classification: 108600,enhanced_english,medium,english
+LAB_db07_108600.0,LAB,db07,108600.0,DB07 industry classification: 108600.0,enhanced_english,medium,english
+LAB_db07_108900,LAB,db07,108900,DB07 industry classification: 108900,enhanced_english,medium,english
+LAB_db07_108900.0,LAB,db07,108900.0,DB07 industry classification: 108900.0,enhanced_english,medium,english
+LAB_db07_109,LAB,db07,109,Fremstilling af færdige foderblandinger,pt_dictionaries,highest,danish
+LAB_db07_109100,LAB,db07,109100,DB07 industry classification: 109100,enhanced_english,medium,english
+LAB_db07_109100.0,LAB,db07,109100.0,DB07 industry classification: 109100.0,enhanced_english,medium,english
+LAB_db07_109200,LAB,db07,109200,DB07 industry classification: 109200,enhanced_english,medium,english
+LAB_db07_109200.0,LAB,db07,109200.0,DB07 industry classification: 109200.0,enhanced_english,medium,english
+LAB_db07_110,LAB,db07,110,Fremstilling af drikkevarer,pt_dictionaries,highest,danish
+LAB_db07_110100,LAB,db07,110100,DB07 industry classification: 110100,enhanced_english,medium,english
+LAB_db07_110100.0,LAB,db07,110100.0,DB07 industry classification: 110100.0,enhanced_english,medium,english
+LAB_db07_110200,LAB,db07,110200,DB07 industry classification: 110200,enhanced_english,medium,english
+LAB_db07_110200.0,LAB,db07,110200.0,DB07 industry classification: 110200.0,enhanced_english,medium,english
+LAB_db07_110300,LAB,db07,110300,DB07 industry classification: 110300,enhanced_english,medium,english
+LAB_db07_110300.0,LAB,db07,110300.0,DB07 industry classification: 110300.0,enhanced_english,medium,english
+LAB_db07_110400,LAB,db07,110400,DB07 industry classification: 110400,enhanced_english,medium,english
+LAB_db07_110400.0,LAB,db07,110400.0,DB07 industry classification: 110400.0,enhanced_english,medium,english
+LAB_db07_110500,LAB,db07,110500,DB07 industry classification: 110500,enhanced_english,medium,english
+LAB_db07_110500.0,LAB,db07,110500.0,DB07 industry classification: 110500.0,enhanced_english,medium,english
+LAB_db07_110600,LAB,db07,110600,DB07 industry classification: 110600,enhanced_english,medium,english
+LAB_db07_110600.0,LAB,db07,110600.0,DB07 industry classification: 110600.0,enhanced_english,medium,english
+LAB_db07_110700,LAB,db07,110700,DB07 industry classification: 110700,enhanced_english,medium,english
+LAB_db07_110700.0,LAB,db07,110700.0,DB07 industry classification: 110700.0,enhanced_english,medium,english
+LAB_db07_11100,LAB,db07,11100,DB07 industry classification: 11100,enhanced_english,medium,english
+LAB_db07_11100.0,LAB,db07,11100.0,DB07 industry classification: 11100.0,enhanced_english,medium,english
+LAB_db07_11200,LAB,db07,11200,DB07 industry classification: 11200,enhanced_english,medium,english
+LAB_db07_11200.0,LAB,db07,11200.0,DB07 industry classification: 11200.0,enhanced_english,medium,english
+LAB_db07_11300,LAB,db07,11300,DB07 industry classification: 11300,enhanced_english,medium,english
+LAB_db07_11300.0,LAB,db07,11300.0,DB07 industry classification: 11300.0,enhanced_english,medium,english
+LAB_db07_11400,LAB,db07,11400,DB07 industry classification: 11400,enhanced_english,medium,english
+LAB_db07_11400.0,LAB,db07,11400.0,DB07 industry classification: 11400.0,enhanced_english,medium,english
+LAB_db07_11500,LAB,db07,11500,DB07 industry classification: 11500,enhanced_english,medium,english
+LAB_db07_11500.0,LAB,db07,11500.0,DB07 industry classification: 11500.0,enhanced_english,medium,english
+LAB_db07_11600,LAB,db07,11600,DB07 industry classification: 11600,enhanced_english,medium,english
+LAB_db07_11600.0,LAB,db07,11600.0,DB07 industry classification: 11600.0,enhanced_english,medium,english
+LAB_db07_11900,LAB,db07,11900,DB07 industry classification: 11900,enhanced_english,medium,english
+LAB_db07_11900.0,LAB,db07,11900.0,DB07 industry classification: 11900.0,enhanced_english,medium,english
+LAB_db07_120,LAB,db07,120,Fremstilling af tobaksprodukter,pt_dictionaries,highest,danish
+LAB_db07_120000,LAB,db07,120000,DB07 industry classification: 120000,enhanced_english,medium,english
+LAB_db07_120000.0,LAB,db07,120000.0,DB07 industry classification: 120000.0,enhanced_english,medium,english
+LAB_db07_12100,LAB,db07,12100,DB07 industry classification: 12100,enhanced_english,medium,english
+LAB_db07_12100.0,LAB,db07,12100.0,DB07 industry classification: 12100.0,enhanced_english,medium,english
+LAB_db07_12110.0,LAB,db07,12110.0,DB07 industry classification: 12110.0,enhanced_english,medium,english
+LAB_db07_12200,LAB,db07,12200,DB07 industry classification: 12200,enhanced_english,medium,english
+LAB_db07_12200.0,LAB,db07,12200.0,DB07 industry classification: 12200.0,enhanced_english,medium,english
+LAB_db07_12300,LAB,db07,12300,DB07 industry classification: 12300,enhanced_english,medium,english
+LAB_db07_12300.0,LAB,db07,12300.0,DB07 industry classification: 12300.0,enhanced_english,medium,english
+LAB_db07_12400,LAB,db07,12400,DB07 industry classification: 12400,enhanced_english,medium,english
+LAB_db07_12400.0,LAB,db07,12400.0,DB07 industry classification: 12400.0,enhanced_english,medium,english
+LAB_db07_12500,LAB,db07,12500,DB07 industry classification: 12500,enhanced_english,medium,english
+LAB_db07_12500.0,LAB,db07,12500.0,DB07 industry classification: 12500.0,enhanced_english,medium,english
+LAB_db07_12600,LAB,db07,12600,DB07 industry classification: 12600,enhanced_english,medium,english
+LAB_db07_12600.0,LAB,db07,12600.0,DB07 industry classification: 12600.0,enhanced_english,medium,english
+LAB_db07_12700,LAB,db07,12700,DB07 industry classification: 12700,enhanced_english,medium,english
+LAB_db07_12700.0,LAB,db07,12700.0,DB07 industry classification: 12700.0,enhanced_english,medium,english
+LAB_db07_12800,LAB,db07,12800,DB07 industry classification: 12800,enhanced_english,medium,english
+LAB_db07_12800.0,LAB,db07,12800.0,DB07 industry classification: 12800.0,enhanced_english,medium,english
+LAB_db07_12900,LAB,db07,12900,DB07 industry classification: 12900,enhanced_english,medium,english
+LAB_db07_12900.0,LAB,db07,12900.0,DB07 industry classification: 12900.0,enhanced_english,medium,english
+LAB_db07_13000,LAB,db07,13000,DB07 industry classification: 13000,enhanced_english,medium,english
+LAB_db07_13000.0,LAB,db07,13000.0,DB07 industry classification: 13000.0,enhanced_english,medium,english
+LAB_db07_131,LAB,db07,131,Forbehandling og spinding af tekstilfibre,pt_dictionaries,highest,danish
+LAB_db07_131000,LAB,db07,131000,DB07 industry classification: 131000,enhanced_english,medium,english
+LAB_db07_131000.0,LAB,db07,131000.0,DB07 industry classification: 131000.0,enhanced_english,medium,english
+LAB_db07_132,LAB,db07,132,Vævning af tekstiler,pt_dictionaries,highest,danish
+LAB_db07_132000,LAB,db07,132000,DB07 industry classification: 132000,enhanced_english,medium,english
+LAB_db07_132000.0,LAB,db07,132000.0,DB07 industry classification: 132000.0,enhanced_english,medium,english
+LAB_db07_133,LAB,db07,133,Efterbehandling af tekstiler,pt_dictionaries,highest,danish
+LAB_db07_133000,LAB,db07,133000,DB07 industry classification: 133000,enhanced_english,medium,english
+LAB_db07_133000.0,LAB,db07,133000.0,DB07 industry classification: 133000.0,enhanced_english,medium,english
+LAB_db07_139,LAB,db07,139,Fremstilling af andre tekstiler,pt_dictionaries,highest,danish
+LAB_db07_139100,LAB,db07,139100,DB07 industry classification: 139100,enhanced_english,medium,english
+LAB_db07_139100.0,LAB,db07,139100.0,DB07 industry classification: 139100.0,enhanced_english,medium,english
+LAB_db07_139210,LAB,db07,139210,DB07 industry classification: 139210,enhanced_english,medium,english
+LAB_db07_139210.0,LAB,db07,139210.0,DB07 industry classification: 139210.0,enhanced_english,medium,english
+LAB_db07_139220,LAB,db07,139220,DB07 industry classification: 139220,enhanced_english,medium,english
+LAB_db07_139220.0,LAB,db07,139220.0,DB07 industry classification: 139220.0,enhanced_english,medium,english
+LAB_db07_139300,LAB,db07,139300,DB07 industry classification: 139300,enhanced_english,medium,english
+LAB_db07_139300.0,LAB,db07,139300.0,DB07 industry classification: 139300.0,enhanced_english,medium,english
+LAB_db07_139400,LAB,db07,139400,DB07 industry classification: 139400,enhanced_english,medium,english
+LAB_db07_139400.0,LAB,db07,139400.0,DB07 industry classification: 139400.0,enhanced_english,medium,english
+LAB_db07_139500,LAB,db07,139500,DB07 industry classification: 139500,enhanced_english,medium,english
+LAB_db07_139500.0,LAB,db07,139500.0,DB07 industry classification: 139500.0,enhanced_english,medium,english
+LAB_db07_139600,LAB,db07,139600,DB07 industry classification: 139600,enhanced_english,medium,english
+LAB_db07_139600.0,LAB,db07,139600.0,DB07 industry classification: 139600.0,enhanced_english,medium,english
+LAB_db07_139900,LAB,db07,139900,DB07 industry classification: 139900,enhanced_english,medium,english
+LAB_db07_139900.0,LAB,db07,139900.0,DB07 industry classification: 139900.0,enhanced_english,medium,english
+LAB_db07_141,LAB,db07,141,Fremstilling af beklædningsartikler undtagen beklædningsartikler af pelsskind,pt_dictionaries,highest,danish
+LAB_db07_14100,LAB,db07,14100,DB07 industry classification: 14100,enhanced_english,medium,english
+LAB_db07_14100.0,LAB,db07,14100.0,DB07 industry classification: 14100.0,enhanced_english,medium,english
+LAB_db07_141100,LAB,db07,141100,DB07 industry classification: 141100,enhanced_english,medium,english
+LAB_db07_141100.0,LAB,db07,141100.0,DB07 industry classification: 141100.0,enhanced_english,medium,english
+LAB_db07_141200,LAB,db07,141200,DB07 industry classification: 141200,enhanced_english,medium,english
+LAB_db07_141200.0,LAB,db07,141200.0,DB07 industry classification: 141200.0,enhanced_english,medium,english
+LAB_db07_141300,LAB,db07,141300,DB07 industry classification: 141300,enhanced_english,medium,english
+LAB_db07_141300.0,LAB,db07,141300.0,DB07 industry classification: 141300.0,enhanced_english,medium,english
+LAB_db07_141400,LAB,db07,141400,DB07 industry classification: 141400,enhanced_english,medium,english
+LAB_db07_141400.0,LAB,db07,141400.0,DB07 industry classification: 141400.0,enhanced_english,medium,english
+LAB_db07_141900,LAB,db07,141900,DB07 industry classification: 141900,enhanced_english,medium,english
+LAB_db07_141900.0,LAB,db07,141900.0,DB07 industry classification: 141900.0,enhanced_english,medium,english
+LAB_db07_142,LAB,db07,142,Fremstilling af varer af pelsskind,pt_dictionaries,highest,danish
+LAB_db07_14200,LAB,db07,14200,DB07 industry classification: 14200,enhanced_english,medium,english
+LAB_db07_14200.0,LAB,db07,14200.0,DB07 industry classification: 14200.0,enhanced_english,medium,english
+LAB_db07_142000,LAB,db07,142000,DB07 industry classification: 142000,enhanced_english,medium,english
+LAB_db07_142000.0,LAB,db07,142000.0,DB07 industry classification: 142000.0,enhanced_english,medium,english
+LAB_db07_143,LAB,db07,143,Fremstilling af strikkede og hæklede beklædningsartikler,pt_dictionaries,highest,danish
+LAB_db07_14300,LAB,db07,14300,DB07 industry classification: 14300,enhanced_english,medium,english
+LAB_db07_14300.0,LAB,db07,14300.0,DB07 industry classification: 14300.0,enhanced_english,medium,english
+LAB_db07_143100,LAB,db07,143100,DB07 industry classification: 143100,enhanced_english,medium,english
+LAB_db07_143100.0,LAB,db07,143100.0,DB07 industry classification: 143100.0,enhanced_english,medium,english
+LAB_db07_143900,LAB,db07,143900,DB07 industry classification: 143900,enhanced_english,medium,english
+LAB_db07_143900.0,LAB,db07,143900.0,DB07 industry classification: 143900.0,enhanced_english,medium,english
+LAB_db07_14400,LAB,db07,14400,DB07 industry classification: 14400,enhanced_english,medium,english
+LAB_db07_14400.0,LAB,db07,14400.0,DB07 industry classification: 14400.0,enhanced_english,medium,english
+LAB_db07_14500,LAB,db07,14500,DB07 industry classification: 14500,enhanced_english,medium,english
+LAB_db07_14500.0,LAB,db07,14500.0,DB07 industry classification: 14500.0,enhanced_english,medium,english
+LAB_db07_14610,LAB,db07,14610,DB07 industry classification: 14610,enhanced_english,medium,english
+LAB_db07_14610.0,LAB,db07,14610.0,DB07 industry classification: 14610.0,enhanced_english,medium,english
+LAB_db07_14620,LAB,db07,14620,DB07 industry classification: 14620,enhanced_english,medium,english
+LAB_db07_14620.0,LAB,db07,14620.0,DB07 industry classification: 14620.0,enhanced_english,medium,english
+LAB_db07_14700,LAB,db07,14700,DB07 industry classification: 14700,enhanced_english,medium,english
+LAB_db07_14700.0,LAB,db07,14700.0,DB07 industry classification: 14700.0,enhanced_english,medium,english
+LAB_db07_14910,LAB,db07,14910,DB07 industry classification: 14910,enhanced_english,medium,english
+LAB_db07_14910.0,LAB,db07,14910.0,DB07 industry classification: 14910.0,enhanced_english,medium,english
+LAB_db07_14920,LAB,db07,14920,DB07 industry classification: 14920,enhanced_english,medium,english
+LAB_db07_14920.0,LAB,db07,14920.0,DB07 industry classification: 14920.0,enhanced_english,medium,english
+LAB_db07_15000,LAB,db07,15000,DB07 industry classification: 15000,enhanced_english,medium,english
+LAB_db07_15000.0,LAB,db07,15000.0,DB07 industry classification: 15000.0,enhanced_english,medium,english
+LAB_db07_151,LAB,db07,151,"Garvning og beredning af læder; fremstilling af tasker, kufferter, sadelmagervarer mv.; beredning og farvning af pelsskind",pt_dictionaries,highest,danish
+LAB_db07_151100,LAB,db07,151100,DB07 industry classification: 151100,enhanced_english,medium,english
+LAB_db07_151100.0,LAB,db07,151100.0,DB07 industry classification: 151100.0,enhanced_english,medium,english
+LAB_db07_151200,LAB,db07,151200,DB07 industry classification: 151200,enhanced_english,medium,english
+LAB_db07_151200.0,LAB,db07,151200.0,DB07 industry classification: 151200.0,enhanced_english,medium,english
+LAB_db07_152,LAB,db07,152,Fremstilling af fodtøj,pt_dictionaries,highest,danish
+LAB_db07_152000,LAB,db07,152000,DB07 industry classification: 152000,enhanced_english,medium,english
+LAB_db07_152000.0,LAB,db07,152000.0,DB07 industry classification: 152000.0,enhanced_english,medium,english
+LAB_db07_161,LAB,db07,161,Udsavning og høvling af træ,pt_dictionaries,highest,danish
+LAB_db07_16100,LAB,db07,16100,DB07 industry classification: 16100,enhanced_english,medium,english
+LAB_db07_16100.0,LAB,db07,16100.0,DB07 industry classification: 16100.0,enhanced_english,medium,english
+LAB_db07_161000,LAB,db07,161000,DB07 industry classification: 161000,enhanced_english,medium,english
+LAB_db07_161000.0,LAB,db07,161000.0,DB07 industry classification: 161000.0,enhanced_english,medium,english
+LAB_db07_162,LAB,db07,162,"Fremstilling af varer af træ, kork, strå og flettematerialer",pt_dictionaries,highest,danish
+LAB_db07_16200,LAB,db07,16200,DB07 industry classification: 16200,enhanced_english,medium,english
+LAB_db07_16200.0,LAB,db07,16200.0,DB07 industry classification: 16200.0,enhanced_english,medium,english
+LAB_db07_162100,LAB,db07,162100,DB07 industry classification: 162100,enhanced_english,medium,english
+LAB_db07_162100.0,LAB,db07,162100.0,DB07 industry classification: 162100.0,enhanced_english,medium,english
+LAB_db07_162200,LAB,db07,162200,DB07 industry classification: 162200,enhanced_english,medium,english
+LAB_db07_162200.0,LAB,db07,162200.0,DB07 industry classification: 162200.0,enhanced_english,medium,english
+LAB_db07_162300,LAB,db07,162300,DB07 industry classification: 162300,enhanced_english,medium,english
+LAB_db07_162300.0,LAB,db07,162300.0,DB07 industry classification: 162300.0,enhanced_english,medium,english
+LAB_db07_162400,LAB,db07,162400,DB07 industry classification: 162400,enhanced_english,medium,english
+LAB_db07_162400.0,LAB,db07,162400.0,DB07 industry classification: 162400.0,enhanced_english,medium,english
+LAB_db07_162900,LAB,db07,162900,DB07 industry classification: 162900,enhanced_english,medium,english
+LAB_db07_162900.0,LAB,db07,162900.0,DB07 industry classification: 162900.0,enhanced_english,medium,english
+LAB_db07_16300,LAB,db07,16300,DB07 industry classification: 16300,enhanced_english,medium,english
+LAB_db07_16300.0,LAB,db07,16300.0,DB07 industry classification: 16300.0,enhanced_english,medium,english
+LAB_db07_16400,LAB,db07,16400,DB07 industry classification: 16400,enhanced_english,medium,english
+LAB_db07_16400.0,LAB,db07,16400.0,DB07 industry classification: 16400.0,enhanced_english,medium,english
+LAB_db07_17000,LAB,db07,17000,DB07 industry classification: 17000,enhanced_english,medium,english
+LAB_db07_17000.0,LAB,db07,17000.0,DB07 industry classification: 17000.0,enhanced_english,medium,english
+LAB_db07_171,LAB,db07,171,"Fremstilling af papirmasse, papir og pap",pt_dictionaries,highest,danish
+LAB_db07_171100,LAB,db07,171100,DB07 industry classification: 171100,enhanced_english,medium,english
+LAB_db07_171100.0,LAB,db07,171100.0,DB07 industry classification: 171100.0,enhanced_english,medium,english
+LAB_db07_171200,LAB,db07,171200,DB07 industry classification: 171200,enhanced_english,medium,english
+LAB_db07_171200.0,LAB,db07,171200.0,DB07 industry classification: 171200.0,enhanced_english,medium,english
+LAB_db07_172,LAB,db07,172,Fremstilling af papir- og papvarer,pt_dictionaries,highest,danish
+LAB_db07_172100,LAB,db07,172100,DB07 industry classification: 172100,enhanced_english,medium,english
+LAB_db07_172100.0,LAB,db07,172100.0,DB07 industry classification: 172100.0,enhanced_english,medium,english
+LAB_db07_172200,LAB,db07,172200,DB07 industry classification: 172200,enhanced_english,medium,english
+LAB_db07_172200.0,LAB,db07,172200.0,DB07 industry classification: 172200.0,enhanced_english,medium,english
+LAB_db07_172300,LAB,db07,172300,DB07 industry classification: 172300,enhanced_english,medium,english
+LAB_db07_172300.0,LAB,db07,172300.0,DB07 industry classification: 172300.0,enhanced_english,medium,english
+LAB_db07_172400,LAB,db07,172400,DB07 industry classification: 172400,enhanced_english,medium,english
+LAB_db07_172400.0,LAB,db07,172400.0,DB07 industry classification: 172400.0,enhanced_english,medium,english
+LAB_db07_172900,LAB,db07,172900,DB07 industry classification: 172900,enhanced_english,medium,english
+LAB_db07_172900.0,LAB,db07,172900.0,DB07 industry classification: 172900.0,enhanced_english,medium,english
+LAB_db07_181,LAB,db07,181,Trykning og serviceydelser i forbindelse hermed,pt_dictionaries,highest,danish
+LAB_db07_181100,LAB,db07,181100,DB07 industry classification: 181100,enhanced_english,medium,english
+LAB_db07_181100.0,LAB,db07,181100.0,DB07 industry classification: 181100.0,enhanced_english,medium,english
+LAB_db07_181200,LAB,db07,181200,DB07 industry classification: 181200,enhanced_english,medium,english
+LAB_db07_181200.0,LAB,db07,181200.0,DB07 industry classification: 181200.0,enhanced_english,medium,english
+LAB_db07_181300,LAB,db07,181300,DB07 industry classification: 181300,enhanced_english,medium,english
+LAB_db07_181300.0,LAB,db07,181300.0,DB07 industry classification: 181300.0,enhanced_english,medium,english
+LAB_db07_181400,LAB,db07,181400,DB07 industry classification: 181400,enhanced_english,medium,english
+LAB_db07_181400.0,LAB,db07,181400.0,DB07 industry classification: 181400.0,enhanced_english,medium,english
+LAB_db07_182,LAB,db07,182,Reproduktion af indspillede medier,pt_dictionaries,highest,danish
+LAB_db07_182000,LAB,db07,182000,DB07 industry classification: 182000,enhanced_english,medium,english
+LAB_db07_182000.0,LAB,db07,182000.0,DB07 industry classification: 182000.0,enhanced_english,medium,english
+LAB_db07_191,LAB,db07,191,Fremstilling af koks mv.,pt_dictionaries,highest,danish
+LAB_db07_191000,LAB,db07,191000,DB07 industry classification: 191000,enhanced_english,medium,english
+LAB_db07_191000.0,LAB,db07,191000.0,DB07 industry classification: 191000.0,enhanced_english,medium,english
+LAB_db07_192,LAB,db07,192,Fremstilling af raffinerede mineralolieprodukter,pt_dictionaries,highest,danish
+LAB_db07_192000,LAB,db07,192000,DB07 industry classification: 192000,enhanced_english,medium,english
+LAB_db07_192000.0,LAB,db07,192000.0,DB07 industry classification: 192000.0,enhanced_english,medium,english
+LAB_db07_201,LAB,db07,201,"Fremstilling af basiskemikalier, gødningsstoffer og nitrogenprodukter, plast og syntetisk gummi i ubearbejdet form",pt_dictionaries,highest,danish
+LAB_db07_201100,LAB,db07,201100,DB07 industry classification: 201100,enhanced_english,medium,english
+LAB_db07_201100.0,LAB,db07,201100.0,DB07 industry classification: 201100.0,enhanced_english,medium,english
+LAB_db07_201200,LAB,db07,201200,DB07 industry classification: 201200,enhanced_english,medium,english
+LAB_db07_201200.0,LAB,db07,201200.0,DB07 industry classification: 201200.0,enhanced_english,medium,english
+LAB_db07_201300,LAB,db07,201300,DB07 industry classification: 201300,enhanced_english,medium,english
+LAB_db07_201300.0,LAB,db07,201300.0,DB07 industry classification: 201300.0,enhanced_english,medium,english
+LAB_db07_201400,LAB,db07,201400,DB07 industry classification: 201400,enhanced_english,medium,english
+LAB_db07_201400.0,LAB,db07,201400.0,DB07 industry classification: 201400.0,enhanced_english,medium,english
+LAB_db07_201500,LAB,db07,201500,DB07 industry classification: 201500,enhanced_english,medium,english
+LAB_db07_201500.0,LAB,db07,201500.0,DB07 industry classification: 201500.0,enhanced_english,medium,english
+LAB_db07_201600,LAB,db07,201600,DB07 industry classification: 201600,enhanced_english,medium,english
+LAB_db07_201600.0,LAB,db07,201600.0,DB07 industry classification: 201600.0,enhanced_english,medium,english
+LAB_db07_201700,LAB,db07,201700,DB07 industry classification: 201700,enhanced_english,medium,english
+LAB_db07_201700.0,LAB,db07,201700.0,DB07 industry classification: 201700.0,enhanced_english,medium,english
+LAB_db07_202,LAB,db07,202,Fremstilling af pesticider og andre agrokemiske produkter,pt_dictionaries,highest,danish
+LAB_db07_202000,LAB,db07,202000,DB07 industry classification: 202000,enhanced_english,medium,english
+LAB_db07_202000.0,LAB,db07,202000.0,DB07 industry classification: 202000.0,enhanced_english,medium,english
+LAB_db07_203,LAB,db07,203,"Fremstilling af maling, lak og lignende overfladebehandlingsmidler, trykfarver samt tætningsmaterialer",pt_dictionaries,highest,danish
+LAB_db07_203000,LAB,db07,203000,DB07 industry classification: 203000,enhanced_english,medium,english
+LAB_db07_203000.0,LAB,db07,203000.0,DB07 industry classification: 203000.0,enhanced_english,medium,english
+LAB_db07_204,LAB,db07,204,"Fremstilling af sæbe, rengørings- og rensemidler samt poleremidler, parfume, hårshampoo, tandpasta mv.",pt_dictionaries,highest,danish
+LAB_db07_204100,LAB,db07,204100,DB07 industry classification: 204100,enhanced_english,medium,english
+LAB_db07_204100.0,LAB,db07,204100.0,DB07 industry classification: 204100.0,enhanced_english,medium,english
+LAB_db07_204200,LAB,db07,204200,DB07 industry classification: 204200,enhanced_english,medium,english
+LAB_db07_204200.0,LAB,db07,204200.0,DB07 industry classification: 204200.0,enhanced_english,medium,english
+LAB_db07_205,LAB,db07,205,Fremstilling af andre kemiske produkter,pt_dictionaries,highest,danish
+LAB_db07_205100,LAB,db07,205100,DB07 industry classification: 205100,enhanced_english,medium,english
+LAB_db07_205100.0,LAB,db07,205100.0,DB07 industry classification: 205100.0,enhanced_english,medium,english
+LAB_db07_205200,LAB,db07,205200,DB07 industry classification: 205200,enhanced_english,medium,english
+LAB_db07_205200.0,LAB,db07,205200.0,DB07 industry classification: 205200.0,enhanced_english,medium,english
+LAB_db07_205300,LAB,db07,205300,DB07 industry classification: 205300,enhanced_english,medium,english
+LAB_db07_205300.0,LAB,db07,205300.0,DB07 industry classification: 205300.0,enhanced_english,medium,english
+LAB_db07_205900,LAB,db07,205900,DB07 industry classification: 205900,enhanced_english,medium,english
+LAB_db07_205900.0,LAB,db07,205900.0,DB07 industry classification: 205900.0,enhanced_english,medium,english
+LAB_db07_206,LAB,db07,206,Fremstilling af kemofibre,pt_dictionaries,highest,danish
+LAB_db07_206000,LAB,db07,206000,DB07 industry classification: 206000,enhanced_english,medium,english
+LAB_db07_206000.0,LAB,db07,206000.0,DB07 industry classification: 206000.0,enhanced_english,medium,english
+LAB_db07_21000,LAB,db07,21000,DB07 industry classification: 21000,enhanced_english,medium,english
+LAB_db07_21000.0,LAB,db07,21000.0,DB07 industry classification: 21000.0,enhanced_english,medium,english
+LAB_db07_211,LAB,db07,211,Fremstilling af farmaceutiske råvarer,pt_dictionaries,highest,danish
+LAB_db07_211000,LAB,db07,211000,DB07 industry classification: 211000,enhanced_english,medium,english
+LAB_db07_211000.0,LAB,db07,211000.0,DB07 industry classification: 211000.0,enhanced_english,medium,english
+LAB_db07_212,LAB,db07,212,Fremstilling af farmaceutiske præparater,pt_dictionaries,highest,danish
+LAB_db07_212000,LAB,db07,212000,DB07 industry classification: 212000,enhanced_english,medium,english
+LAB_db07_212000.0,LAB,db07,212000.0,DB07 industry classification: 212000.0,enhanced_english,medium,english
+LAB_db07_22000,LAB,db07,22000,DB07 industry classification: 22000,enhanced_english,medium,english
+LAB_db07_22000.0,LAB,db07,22000.0,DB07 industry classification: 22000.0,enhanced_english,medium,english
+LAB_db07_221,LAB,db07,221,Fremstilling af gummiprodukter,pt_dictionaries,highest,danish
+LAB_db07_221100,LAB,db07,221100,DB07 industry classification: 221100,enhanced_english,medium,english
+LAB_db07_221100.0,LAB,db07,221100.0,DB07 industry classification: 221100.0,enhanced_english,medium,english
+LAB_db07_221900,LAB,db07,221900,DB07 industry classification: 221900,enhanced_english,medium,english
+LAB_db07_221900.0,LAB,db07,221900.0,DB07 industry classification: 221900.0,enhanced_english,medium,english
+LAB_db07_222,LAB,db07,222,Fremstilling af plastprodukter,pt_dictionaries,highest,danish
+LAB_db07_222100,LAB,db07,222100,DB07 industry classification: 222100,enhanced_english,medium,english
+LAB_db07_222100.0,LAB,db07,222100.0,DB07 industry classification: 222100.0,enhanced_english,medium,english
+LAB_db07_222200,LAB,db07,222200,DB07 industry classification: 222200,enhanced_english,medium,english
+LAB_db07_222200.0,LAB,db07,222200.0,DB07 industry classification: 222200.0,enhanced_english,medium,english
+LAB_db07_222290.0,LAB,db07,222290.0,DB07 industry classification: 222290.0,enhanced_english,medium,english
+LAB_db07_222300,LAB,db07,222300,DB07 industry classification: 222300,enhanced_english,medium,english
+LAB_db07_222300.0,LAB,db07,222300.0,DB07 industry classification: 222300.0,enhanced_english,medium,english
+LAB_db07_222900,LAB,db07,222900,DB07 industry classification: 222900,enhanced_english,medium,english
+LAB_db07_222900.0,LAB,db07,222900.0,DB07 industry classification: 222900.0,enhanced_english,medium,english
+LAB_db07_23000,LAB,db07,23000,DB07 industry classification: 23000,enhanced_english,medium,english
+LAB_db07_23000.0,LAB,db07,23000.0,DB07 industry classification: 23000.0,enhanced_english,medium,english
+LAB_db07_231,LAB,db07,231,Fremstilling af glas og glasprodukter,pt_dictionaries,highest,danish
+LAB_db07_231100,LAB,db07,231100,DB07 industry classification: 231100,enhanced_english,medium,english
+LAB_db07_231100.0,LAB,db07,231100.0,DB07 industry classification: 231100.0,enhanced_english,medium,english
+LAB_db07_231200,LAB,db07,231200,DB07 industry classification: 231200,enhanced_english,medium,english
+LAB_db07_231200.0,LAB,db07,231200.0,DB07 industry classification: 231200.0,enhanced_english,medium,english
+LAB_db07_231300,LAB,db07,231300,DB07 industry classification: 231300,enhanced_english,medium,english
+LAB_db07_231300.0,LAB,db07,231300.0,DB07 industry classification: 231300.0,enhanced_english,medium,english
+LAB_db07_231400,LAB,db07,231400,DB07 industry classification: 231400,enhanced_english,medium,english
+LAB_db07_231400.0,LAB,db07,231400.0,DB07 industry classification: 231400.0,enhanced_english,medium,english
+LAB_db07_231900,LAB,db07,231900,DB07 industry classification: 231900,enhanced_english,medium,english
+LAB_db07_231900.0,LAB,db07,231900.0,DB07 industry classification: 231900.0,enhanced_english,medium,english
+LAB_db07_232,LAB,db07,232,Fremstilling af ildfaste produkter,pt_dictionaries,highest,danish
+LAB_db07_232000,LAB,db07,232000,DB07 industry classification: 232000,enhanced_english,medium,english
+LAB_db07_232000.0,LAB,db07,232000.0,DB07 industry classification: 232000.0,enhanced_english,medium,english
+LAB_db07_233,LAB,db07,233,Fremstilling af byggematerialer af ler,pt_dictionaries,highest,danish
+LAB_db07_233100,LAB,db07,233100,DB07 industry classification: 233100,enhanced_english,medium,english
+LAB_db07_233100.0,LAB,db07,233100.0,DB07 industry classification: 233100.0,enhanced_english,medium,english
+LAB_db07_233200,LAB,db07,233200,DB07 industry classification: 233200,enhanced_english,medium,english
+LAB_db07_233200.0,LAB,db07,233200.0,DB07 industry classification: 233200.0,enhanced_english,medium,english
+LAB_db07_234,LAB,db07,234,Fremstilling af andre porcelænsvarer og keramiske produkter,pt_dictionaries,highest,danish
+LAB_db07_234100,LAB,db07,234100,DB07 industry classification: 234100,enhanced_english,medium,english
+LAB_db07_234100.0,LAB,db07,234100.0,DB07 industry classification: 234100.0,enhanced_english,medium,english
+LAB_db07_234200,LAB,db07,234200,DB07 industry classification: 234200,enhanced_english,medium,english
+LAB_db07_234200.0,LAB,db07,234200.0,DB07 industry classification: 234200.0,enhanced_english,medium,english
+LAB_db07_234300,LAB,db07,234300,DB07 industry classification: 234300,enhanced_english,medium,english
+LAB_db07_234300.0,LAB,db07,234300.0,DB07 industry classification: 234300.0,enhanced_english,medium,english
+LAB_db07_234400,LAB,db07,234400,DB07 industry classification: 234400,enhanced_english,medium,english
+LAB_db07_234400.0,LAB,db07,234400.0,DB07 industry classification: 234400.0,enhanced_english,medium,english
+LAB_db07_234900,LAB,db07,234900,DB07 industry classification: 234900,enhanced_english,medium,english
+LAB_db07_234900.0,LAB,db07,234900.0,DB07 industry classification: 234900.0,enhanced_english,medium,english
+LAB_db07_235,LAB,db07,235,"Fremstilling af cement, kalk og gips",pt_dictionaries,highest,danish
+LAB_db07_235100,LAB,db07,235100,DB07 industry classification: 235100,enhanced_english,medium,english
+LAB_db07_235100.0,LAB,db07,235100.0,DB07 industry classification: 235100.0,enhanced_english,medium,english
+LAB_db07_235200,LAB,db07,235200,DB07 industry classification: 235200,enhanced_english,medium,english
+LAB_db07_235200.0,LAB,db07,235200.0,DB07 industry classification: 235200.0,enhanced_english,medium,english
+LAB_db07_236,LAB,db07,236,"Fremstilling af produkter af beton, cement og gips",pt_dictionaries,highest,danish
+LAB_db07_236100,LAB,db07,236100,DB07 industry classification: 236100,enhanced_english,medium,english
+LAB_db07_236100.0,LAB,db07,236100.0,DB07 industry classification: 236100.0,enhanced_english,medium,english
+LAB_db07_236200,LAB,db07,236200,DB07 industry classification: 236200,enhanced_english,medium,english
+LAB_db07_236200.0,LAB,db07,236200.0,DB07 industry classification: 236200.0,enhanced_english,medium,english
+LAB_db07_236300,LAB,db07,236300,DB07 industry classification: 236300,enhanced_english,medium,english
+LAB_db07_236300.0,LAB,db07,236300.0,DB07 industry classification: 236300.0,enhanced_english,medium,english
+LAB_db07_236400,LAB,db07,236400,DB07 industry classification: 236400,enhanced_english,medium,english
+LAB_db07_236400.0,LAB,db07,236400.0,DB07 industry classification: 236400.0,enhanced_english,medium,english
+LAB_db07_236500,LAB,db07,236500,DB07 industry classification: 236500,enhanced_english,medium,english
+LAB_db07_236500.0,LAB,db07,236500.0,DB07 industry classification: 236500.0,enhanced_english,medium,english
+LAB_db07_236900,LAB,db07,236900,DB07 industry classification: 236900,enhanced_english,medium,english
+LAB_db07_236900.0,LAB,db07,236900.0,DB07 industry classification: 236900.0,enhanced_english,medium,english
+LAB_db07_237,LAB,db07,237,"Tilhugning, tilskæring og færdigbearbejdning af sten",pt_dictionaries,highest,danish
+LAB_db07_237000,LAB,db07,237000,DB07 industry classification: 237000,enhanced_english,medium,english
+LAB_db07_237000.0,LAB,db07,237000.0,DB07 industry classification: 237000.0,enhanced_english,medium,english
+LAB_db07_239,LAB,db07,239,Fremstilling af slibemidler og ikke-metalholdige mineralske produkter i.a.n.,pt_dictionaries,highest,danish
+LAB_db07_239100,LAB,db07,239100,DB07 industry classification: 239100,enhanced_english,medium,english
+LAB_db07_239100.0,LAB,db07,239100.0,DB07 industry classification: 239100.0,enhanced_english,medium,english
+LAB_db07_239910,LAB,db07,239910,DB07 industry classification: 239910,enhanced_english,medium,english
+LAB_db07_239910.0,LAB,db07,239910.0,DB07 industry classification: 239910.0,enhanced_english,medium,english
+LAB_db07_239990,LAB,db07,239990,DB07 industry classification: 239990,enhanced_english,medium,english
+LAB_db07_239990.0,LAB,db07,239990.0,DB07 industry classification: 239990.0,enhanced_english,medium,english
+LAB_db07_24000,LAB,db07,24000,DB07 industry classification: 24000,enhanced_english,medium,english
+LAB_db07_24000.0,LAB,db07,24000.0,DB07 industry classification: 24000.0,enhanced_english,medium,english
+LAB_db07_241,LAB,db07,241,Fremstilling af råjern og råstål samt jernlegeringer,pt_dictionaries,highest,danish
+LAB_db07_241000,LAB,db07,241000,DB07 industry classification: 241000,enhanced_english,medium,english
+LAB_db07_241000.0,LAB,db07,241000.0,DB07 industry classification: 241000.0,enhanced_english,medium,english
+LAB_db07_242,LAB,db07,242,Fremstilling af rør og hule profiler og tilhørende fittings af stål,pt_dictionaries,highest,danish
+LAB_db07_242000,LAB,db07,242000,DB07 industry classification: 242000,enhanced_english,medium,english
+LAB_db07_242000.0,LAB,db07,242000.0,DB07 industry classification: 242000.0,enhanced_english,medium,english
+LAB_db07_243,LAB,db07,243,Fremstilling af andre produkter af den primære forarbejdning af stål,pt_dictionaries,highest,danish
+LAB_db07_243100,LAB,db07,243100,DB07 industry classification: 243100,enhanced_english,medium,english
+LAB_db07_243100.0,LAB,db07,243100.0,DB07 industry classification: 243100.0,enhanced_english,medium,english
+LAB_db07_243200,LAB,db07,243200,DB07 industry classification: 243200,enhanced_english,medium,english
+LAB_db07_243200.0,LAB,db07,243200.0,DB07 industry classification: 243200.0,enhanced_english,medium,english
+LAB_db07_243300,LAB,db07,243300,DB07 industry classification: 243300,enhanced_english,medium,english
+LAB_db07_243300.0,LAB,db07,243300.0,DB07 industry classification: 243300.0,enhanced_english,medium,english
+LAB_db07_243400,LAB,db07,243400,DB07 industry classification: 243400,enhanced_english,medium,english
+LAB_db07_243400.0,LAB,db07,243400.0,DB07 industry classification: 243400.0,enhanced_english,medium,english
+LAB_db07_244,LAB,db07,244,Fremstilling af ædelmetaller og andre ikke-jernholdige metaller,pt_dictionaries,highest,danish
+LAB_db07_244100,LAB,db07,244100,DB07 industry classification: 244100,enhanced_english,medium,english
+LAB_db07_244100.0,LAB,db07,244100.0,DB07 industry classification: 244100.0,enhanced_english,medium,english
+LAB_db07_244200,LAB,db07,244200,DB07 industry classification: 244200,enhanced_english,medium,english
+LAB_db07_244200.0,LAB,db07,244200.0,DB07 industry classification: 244200.0,enhanced_english,medium,english
+LAB_db07_244300,LAB,db07,244300,DB07 industry classification: 244300,enhanced_english,medium,english
+LAB_db07_244300.0,LAB,db07,244300.0,DB07 industry classification: 244300.0,enhanced_english,medium,english
+LAB_db07_244400,LAB,db07,244400,DB07 industry classification: 244400,enhanced_english,medium,english
+LAB_db07_244400.0,LAB,db07,244400.0,DB07 industry classification: 244400.0,enhanced_english,medium,english
+LAB_db07_244500,LAB,db07,244500,DB07 industry classification: 244500,enhanced_english,medium,english
+LAB_db07_244500.0,LAB,db07,244500.0,DB07 industry classification: 244500.0,enhanced_english,medium,english
+LAB_db07_244600,LAB,db07,244600,DB07 industry classification: 244600,enhanced_english,medium,english
+LAB_db07_245,LAB,db07,245,Støbning af metalprodukter,pt_dictionaries,highest,danish
+LAB_db07_245100,LAB,db07,245100,DB07 industry classification: 245100,enhanced_english,medium,english
+LAB_db07_245100.0,LAB,db07,245100.0,DB07 industry classification: 245100.0,enhanced_english,medium,english
+LAB_db07_245200,LAB,db07,245200,DB07 industry classification: 245200,enhanced_english,medium,english
+LAB_db07_245200.0,LAB,db07,245200.0,DB07 industry classification: 245200.0,enhanced_english,medium,english
+LAB_db07_245300,LAB,db07,245300,DB07 industry classification: 245300,enhanced_english,medium,english
+LAB_db07_245300.0,LAB,db07,245300.0,DB07 industry classification: 245300.0,enhanced_english,medium,english
+LAB_db07_245400,LAB,db07,245400,DB07 industry classification: 245400,enhanced_english,medium,english
+LAB_db07_245400.0,LAB,db07,245400.0,DB07 industry classification: 245400.0,enhanced_english,medium,english
+LAB_db07_251,LAB,db07,251,Fremstilling af metalkonstruktioner,pt_dictionaries,highest,danish
+LAB_db07_251100,LAB,db07,251100,DB07 industry classification: 251100,enhanced_english,medium,english
+LAB_db07_251100.0,LAB,db07,251100.0,DB07 industry classification: 251100.0,enhanced_english,medium,english
+LAB_db07_251200,LAB,db07,251200,DB07 industry classification: 251200,enhanced_english,medium,english
+LAB_db07_251200.0,LAB,db07,251200.0,DB07 industry classification: 251200.0,enhanced_english,medium,english
+LAB_db07_252,LAB,db07,252,Fremstilling af tanke og beholdere af metal,pt_dictionaries,highest,danish
+LAB_db07_252100,LAB,db07,252100,DB07 industry classification: 252100,enhanced_english,medium,english
+LAB_db07_252100.0,LAB,db07,252100.0,DB07 industry classification: 252100.0,enhanced_english,medium,english
+LAB_db07_252900,LAB,db07,252900,DB07 industry classification: 252900,enhanced_english,medium,english
+LAB_db07_252900.0,LAB,db07,252900.0,DB07 industry classification: 252900.0,enhanced_english,medium,english
+LAB_db07_253,LAB,db07,253,Fremstilling af dampkedler undtagen centralvarmekedler,pt_dictionaries,highest,danish
+LAB_db07_253000,LAB,db07,253000,DB07 industry classification: 253000,enhanced_english,medium,english
+LAB_db07_253000.0,LAB,db07,253000.0,DB07 industry classification: 253000.0,enhanced_english,medium,english
+LAB_db07_254,LAB,db07,254,Fremstilling af våben og ammunition,pt_dictionaries,highest,danish
+LAB_db07_254000,LAB,db07,254000,DB07 industry classification: 254000,enhanced_english,medium,english
+LAB_db07_254000.0,LAB,db07,254000.0,DB07 industry classification: 254000.0,enhanced_english,medium,english
+LAB_db07_255,LAB,db07,255,"Smedning, presning, sænksmedning og valsning af metal; pulvermetallurgi",pt_dictionaries,highest,danish
+LAB_db07_255000,LAB,db07,255000,DB07 industry classification: 255000,enhanced_english,medium,english
+LAB_db07_255000.0,LAB,db07,255000.0,DB07 industry classification: 255000.0,enhanced_english,medium,english
+LAB_db07_256,LAB,db07,256,"Overfladebehandling af metal, maskinforarbejdning",pt_dictionaries,highest,danish
+LAB_db07_256100,LAB,db07,256100,DB07 industry classification: 256100,enhanced_english,medium,english
+LAB_db07_256100.0,LAB,db07,256100.0,DB07 industry classification: 256100.0,enhanced_english,medium,english
+LAB_db07_256200,LAB,db07,256200,DB07 industry classification: 256200,enhanced_english,medium,english
+LAB_db07_256200.0,LAB,db07,256200.0,DB07 industry classification: 256200.0,enhanced_english,medium,english
+LAB_db07_257,LAB,db07,257,"Fremstilling af bestik, skære- og klipperedskaber, håndværktøj og diverse metalprodukter",pt_dictionaries,highest,danish
+LAB_db07_257100,LAB,db07,257100,DB07 industry classification: 257100,enhanced_english,medium,english
+LAB_db07_257100.0,LAB,db07,257100.0,DB07 industry classification: 257100.0,enhanced_english,medium,english
+LAB_db07_257200,LAB,db07,257200,DB07 industry classification: 257200,enhanced_english,medium,english
+LAB_db07_257200.0,LAB,db07,257200.0,DB07 industry classification: 257200.0,enhanced_english,medium,english
+LAB_db07_257300,LAB,db07,257300,DB07 industry classification: 257300,enhanced_english,medium,english
+LAB_db07_257300.0,LAB,db07,257300.0,DB07 industry classification: 257300.0,enhanced_english,medium,english
+LAB_db07_259,LAB,db07,259,Fremstilling af andre færdige metalprodukter,pt_dictionaries,highest,danish
+LAB_db07_259100,LAB,db07,259100,DB07 industry classification: 259100,enhanced_english,medium,english
+LAB_db07_259100.0,LAB,db07,259100.0,DB07 industry classification: 259100.0,enhanced_english,medium,english
+LAB_db07_259200,LAB,db07,259200,DB07 industry classification: 259200,enhanced_english,medium,english
+LAB_db07_259200.0,LAB,db07,259200.0,DB07 industry classification: 259200.0,enhanced_english,medium,english
+LAB_db07_259300,LAB,db07,259300,DB07 industry classification: 259300,enhanced_english,medium,english
+LAB_db07_259300.0,LAB,db07,259300.0,DB07 industry classification: 259300.0,enhanced_english,medium,english
+LAB_db07_259400,LAB,db07,259400,DB07 industry classification: 259400,enhanced_english,medium,english
+LAB_db07_259400.0,LAB,db07,259400.0,DB07 industry classification: 259400.0,enhanced_english,medium,english
+LAB_db07_259900,LAB,db07,259900,DB07 industry classification: 259900,enhanced_english,medium,english
+LAB_db07_259900.0,LAB,db07,259900.0,DB07 industry classification: 259900.0,enhanced_english,medium,english
+LAB_db07_261,LAB,db07,261,Fremstilling af elektroniske komponenter og plader,pt_dictionaries,highest,danish
+LAB_db07_261100,LAB,db07,261100,DB07 industry classification: 261100,enhanced_english,medium,english
+LAB_db07_261100.0,LAB,db07,261100.0,DB07 industry classification: 261100.0,enhanced_english,medium,english
+LAB_db07_261200,LAB,db07,261200,DB07 industry classification: 261200,enhanced_english,medium,english
+LAB_db07_261200.0,LAB,db07,261200.0,DB07 industry classification: 261200.0,enhanced_english,medium,english
+LAB_db07_262,LAB,db07,262,Fremstilling af computere og ydre enheder,pt_dictionaries,highest,danish
+LAB_db07_262000,LAB,db07,262000,DB07 industry classification: 262000,enhanced_english,medium,english
+LAB_db07_262000.0,LAB,db07,262000.0,DB07 industry classification: 262000.0,enhanced_english,medium,english
+LAB_db07_263,LAB,db07,263,Fremstilling af kommunikationsudstyr,pt_dictionaries,highest,danish
+LAB_db07_263000,LAB,db07,263000,DB07 industry classification: 263000,enhanced_english,medium,english
+LAB_db07_263000.0,LAB,db07,263000.0,DB07 industry classification: 263000.0,enhanced_english,medium,english
+LAB_db07_264,LAB,db07,264,Fremstilling af elektronik til husholdninger,pt_dictionaries,highest,danish
+LAB_db07_264000,LAB,db07,264000,DB07 industry classification: 264000,enhanced_english,medium,english
+LAB_db07_264000.0,LAB,db07,264000.0,DB07 industry classification: 264000.0,enhanced_english,medium,english
+LAB_db07_265,LAB,db07,265,"Fremstilling af udstyr til måling, afprøvning, navigation og kontrol; ure",pt_dictionaries,highest,danish
+LAB_db07_265100,LAB,db07,265100,DB07 industry classification: 265100,enhanced_english,medium,english
+LAB_db07_265100.0,LAB,db07,265100.0,DB07 industry classification: 265100.0,enhanced_english,medium,english
+LAB_db07_265200,LAB,db07,265200,DB07 industry classification: 265200,enhanced_english,medium,english
+LAB_db07_265200.0,LAB,db07,265200.0,DB07 industry classification: 265200.0,enhanced_english,medium,english
+LAB_db07_266,LAB,db07,266,Fremstilling af bestrålingsudstyr og elektromedicinsk og elektroterapeutisk udstyr,pt_dictionaries,highest,danish
+LAB_db07_266010,LAB,db07,266010,DB07 industry classification: 266010,enhanced_english,medium,english
+LAB_db07_266010.0,LAB,db07,266010.0,DB07 industry classification: 266010.0,enhanced_english,medium,english
+LAB_db07_266090,LAB,db07,266090,DB07 industry classification: 266090,enhanced_english,medium,english
+LAB_db07_266090.0,LAB,db07,266090.0,DB07 industry classification: 266090.0,enhanced_english,medium,english
+LAB_db07_267,LAB,db07,267,Fremstilling af optiske instrumenter og fotografisk udstyr,pt_dictionaries,highest,danish
+LAB_db07_267000,LAB,db07,267000,DB07 industry classification: 267000,enhanced_english,medium,english
+LAB_db07_267000.0,LAB,db07,267000.0,DB07 industry classification: 267000.0,enhanced_english,medium,english
+LAB_db07_268,LAB,db07,268,Fremstilling af magnetiske og optiske media,pt_dictionaries,highest,danish
+LAB_db07_268000,LAB,db07,268000,DB07 industry classification: 268000,enhanced_english,medium,english
+LAB_db07_268000.0,LAB,db07,268000.0,DB07 industry classification: 268000.0,enhanced_english,medium,english
+LAB_db07_271,LAB,db07,271,"Fremstilling af elektriske motorer, generatorer, transformere og elektriske fordelings- og kontroltavler",pt_dictionaries,highest,danish
+LAB_db07_271100,LAB,db07,271100,DB07 industry classification: 271100,enhanced_english,medium,english
+LAB_db07_271100.0,LAB,db07,271100.0,DB07 industry classification: 271100.0,enhanced_english,medium,english
+LAB_db07_271200,LAB,db07,271200,DB07 industry classification: 271200,enhanced_english,medium,english
+LAB_db07_271200.0,LAB,db07,271200.0,DB07 industry classification: 271200.0,enhanced_english,medium,english
+LAB_db07_272,LAB,db07,272,Fremstilling af batterier og akkumulatorer,pt_dictionaries,highest,danish
+LAB_db07_272000,LAB,db07,272000,DB07 industry classification: 272000,enhanced_english,medium,english
+LAB_db07_272000.0,LAB,db07,272000.0,DB07 industry classification: 272000.0,enhanced_english,medium,english
+LAB_db07_273,LAB,db07,273,Fremstilling af ledninger og kabler og tilbehør hertil,pt_dictionaries,highest,danish
+LAB_db07_273100,LAB,db07,273100,DB07 industry classification: 273100,enhanced_english,medium,english
+LAB_db07_273100.0,LAB,db07,273100.0,DB07 industry classification: 273100.0,enhanced_english,medium,english
+LAB_db07_273200,LAB,db07,273200,DB07 industry classification: 273200,enhanced_english,medium,english
+LAB_db07_273200.0,LAB,db07,273200.0,DB07 industry classification: 273200.0,enhanced_english,medium,english
+LAB_db07_273300,LAB,db07,273300,DB07 industry classification: 273300,enhanced_english,medium,english
+LAB_db07_273300.0,LAB,db07,273300.0,DB07 industry classification: 273300.0,enhanced_english,medium,english
+LAB_db07_274,LAB,db07,274,Fremstilling af elektriske belysningsartikler,pt_dictionaries,highest,danish
+LAB_db07_274000,LAB,db07,274000,DB07 industry classification: 274000,enhanced_english,medium,english
+LAB_db07_274000.0,LAB,db07,274000.0,DB07 industry classification: 274000.0,enhanced_english,medium,english
+LAB_db07_275,LAB,db07,275,Fremstilling af husholdningsapparater,pt_dictionaries,highest,danish
+LAB_db07_275100,LAB,db07,275100,DB07 industry classification: 275100,enhanced_english,medium,english
+LAB_db07_275100.0,LAB,db07,275100.0,DB07 industry classification: 275100.0,enhanced_english,medium,english
+LAB_db07_275200,LAB,db07,275200,DB07 industry classification: 275200,enhanced_english,medium,english
+LAB_db07_275200.0,LAB,db07,275200.0,DB07 industry classification: 275200.0,enhanced_english,medium,english
+LAB_db07_279,LAB,db07,279,Fremstilling af andet elektrisk udstyr,pt_dictionaries,highest,danish
+LAB_db07_279000,LAB,db07,279000,DB07 industry classification: 279000,enhanced_english,medium,english
+LAB_db07_279000.0,LAB,db07,279000.0,DB07 industry classification: 279000.0,enhanced_english,medium,english
+LAB_db07_281,LAB,db07,281,Fremstilling af maskiner til generelle formål,pt_dictionaries,highest,danish
+LAB_db07_281110,LAB,db07,281110,DB07 industry classification: 281110,enhanced_english,medium,english
+LAB_db07_281110.0,LAB,db07,281110.0,DB07 industry classification: 281110.0,enhanced_english,medium,english
+LAB_db07_281190,LAB,db07,281190,DB07 industry classification: 281190,enhanced_english,medium,english
+LAB_db07_281190.0,LAB,db07,281190.0,DB07 industry classification: 281190.0,enhanced_english,medium,english
+LAB_db07_281200,LAB,db07,281200,DB07 industry classification: 281200,enhanced_english,medium,english
+LAB_db07_281200.0,LAB,db07,281200.0,DB07 industry classification: 281200.0,enhanced_english,medium,english
+LAB_db07_281300,LAB,db07,281300,DB07 industry classification: 281300,enhanced_english,medium,english
+LAB_db07_281300.0,LAB,db07,281300.0,DB07 industry classification: 281300.0,enhanced_english,medium,english
+LAB_db07_281400,LAB,db07,281400,DB07 industry classification: 281400,enhanced_english,medium,english
+LAB_db07_281400.0,LAB,db07,281400.0,DB07 industry classification: 281400.0,enhanced_english,medium,english
+LAB_db07_281500,LAB,db07,281500,DB07 industry classification: 281500,enhanced_english,medium,english
+LAB_db07_281500.0,LAB,db07,281500.0,DB07 industry classification: 281500.0,enhanced_english,medium,english
+LAB_db07_282,LAB,db07,282,Fremstilling af øvrige maskiner til generelle formål,pt_dictionaries,highest,danish
+LAB_db07_282100,LAB,db07,282100,DB07 industry classification: 282100,enhanced_english,medium,english
+LAB_db07_282100.0,LAB,db07,282100.0,DB07 industry classification: 282100.0,enhanced_english,medium,english
+LAB_db07_282200,LAB,db07,282200,DB07 industry classification: 282200,enhanced_english,medium,english
+LAB_db07_282200.0,LAB,db07,282200.0,DB07 industry classification: 282200.0,enhanced_english,medium,english
+LAB_db07_282300,LAB,db07,282300,DB07 industry classification: 282300,enhanced_english,medium,english
+LAB_db07_282300.0,LAB,db07,282300.0,DB07 industry classification: 282300.0,enhanced_english,medium,english
+LAB_db07_282400,LAB,db07,282400,DB07 industry classification: 282400,enhanced_english,medium,english
+LAB_db07_282400.0,LAB,db07,282400.0,DB07 industry classification: 282400.0,enhanced_english,medium,english
+LAB_db07_282500,LAB,db07,282500,DB07 industry classification: 282500,enhanced_english,medium,english
+LAB_db07_282500.0,LAB,db07,282500.0,DB07 industry classification: 282500.0,enhanced_english,medium,english
+LAB_db07_282900,LAB,db07,282900,DB07 industry classification: 282900,enhanced_english,medium,english
+LAB_db07_282900.0,LAB,db07,282900.0,DB07 industry classification: 282900.0,enhanced_english,medium,english
+LAB_db07_283,LAB,db07,283,Fremstilling af landbrugs- og skovbrugsmaskiner,pt_dictionaries,highest,danish
+LAB_db07_283000,LAB,db07,283000,DB07 industry classification: 283000,enhanced_english,medium,english
+LAB_db07_283000.0,LAB,db07,283000.0,DB07 industry classification: 283000.0,enhanced_english,medium,english
+LAB_db07_284,LAB,db07,284,Fremstilling af metalforarbejdningsmaskiner og værktøjsmaskiner,pt_dictionaries,highest,danish
+LAB_db07_284100,LAB,db07,284100,DB07 industry classification: 284100,enhanced_english,medium,english
+LAB_db07_284100.0,LAB,db07,284100.0,DB07 industry classification: 284100.0,enhanced_english,medium,english
+LAB_db07_284900,LAB,db07,284900,DB07 industry classification: 284900,enhanced_english,medium,english
+LAB_db07_284900.0,LAB,db07,284900.0,DB07 industry classification: 284900.0,enhanced_english,medium,english
+LAB_db07_289,LAB,db07,289,Fremstilling af øvrige maskiner til specielle formål,pt_dictionaries,highest,danish
+LAB_db07_289100,LAB,db07,289100,DB07 industry classification: 289100,enhanced_english,medium,english
+LAB_db07_289100.0,LAB,db07,289100.0,DB07 industry classification: 289100.0,enhanced_english,medium,english
+LAB_db07_289200,LAB,db07,289200,DB07 industry classification: 289200,enhanced_english,medium,english
+LAB_db07_289200.0,LAB,db07,289200.0,DB07 industry classification: 289200.0,enhanced_english,medium,english
+LAB_db07_289300,LAB,db07,289300,DB07 industry classification: 289300,enhanced_english,medium,english
+LAB_db07_289300.0,LAB,db07,289300.0,DB07 industry classification: 289300.0,enhanced_english,medium,english
+LAB_db07_289400,LAB,db07,289400,DB07 industry classification: 289400,enhanced_english,medium,english
+LAB_db07_289400.0,LAB,db07,289400.0,DB07 industry classification: 289400.0,enhanced_english,medium,english
+LAB_db07_289500,LAB,db07,289500,DB07 industry classification: 289500,enhanced_english,medium,english
+LAB_db07_289500.0,LAB,db07,289500.0,DB07 industry classification: 289500.0,enhanced_english,medium,english
+LAB_db07_289600,LAB,db07,289600,DB07 industry classification: 289600,enhanced_english,medium,english
+LAB_db07_289600.0,LAB,db07,289600.0,DB07 industry classification: 289600.0,enhanced_english,medium,english
+LAB_db07_289900,LAB,db07,289900,DB07 industry classification: 289900,enhanced_english,medium,english
+LAB_db07_289900.0,LAB,db07,289900.0,DB07 industry classification: 289900.0,enhanced_english,medium,english
+LAB_db07_291,LAB,db07,291,Fremstilling af motorkøretøjer,pt_dictionaries,highest,danish
+LAB_db07_291000,LAB,db07,291000,DB07 industry classification: 291000,enhanced_english,medium,english
+LAB_db07_291000.0,LAB,db07,291000.0,DB07 industry classification: 291000.0,enhanced_english,medium,english
+LAB_db07_292,LAB,db07,292,Fremstilling af karosserier til motorkøretøjer; fremstilling af påhængsvogne og sættevogne,pt_dictionaries,highest,danish
+LAB_db07_292000,LAB,db07,292000,DB07 industry classification: 292000,enhanced_english,medium,english
+LAB_db07_292000.0,LAB,db07,292000.0,DB07 industry classification: 292000.0,enhanced_english,medium,english
+LAB_db07_293,LAB,db07,293,Fremstilling af dele og tilbehør til motorkøretøjer,pt_dictionaries,highest,danish
+LAB_db07_293100,LAB,db07,293100,DB07 industry classification: 293100,enhanced_english,medium,english
+LAB_db07_293100.0,LAB,db07,293100.0,DB07 industry classification: 293100.0,enhanced_english,medium,english
+LAB_db07_293200,LAB,db07,293200,DB07 industry classification: 293200,enhanced_english,medium,english
+LAB_db07_293200.0,LAB,db07,293200.0,DB07 industry classification: 293200.0,enhanced_english,medium,english
+LAB_db07_301,LAB,db07,301,Bygning af skibe og både,pt_dictionaries,highest,danish
+LAB_db07_301100,LAB,db07,301100,DB07 industry classification: 301100,enhanced_english,medium,english
+LAB_db07_301100.0,LAB,db07,301100.0,DB07 industry classification: 301100.0,enhanced_english,medium,english
+LAB_db07_301200,LAB,db07,301200,DB07 industry classification: 301200,enhanced_english,medium,english
+LAB_db07_301200.0,LAB,db07,301200.0,DB07 industry classification: 301200.0,enhanced_english,medium,english
+LAB_db07_302,LAB,db07,302,Fremstilling af lokomotiver og andet rullende materiel til jernbaner og sporveje,pt_dictionaries,highest,danish
+LAB_db07_302000,LAB,db07,302000,DB07 industry classification: 302000,enhanced_english,medium,english
+LAB_db07_302000.0,LAB,db07,302000.0,DB07 industry classification: 302000.0,enhanced_english,medium,english
+LAB_db07_303,LAB,db07,303,Fremstilling af luft- og rumfartøjer o.l.,pt_dictionaries,highest,danish
+LAB_db07_303000,LAB,db07,303000,DB07 industry classification: 303000,enhanced_english,medium,english
+LAB_db07_303000.0,LAB,db07,303000.0,DB07 industry classification: 303000.0,enhanced_english,medium,english
+LAB_db07_304,LAB,db07,304,Fremstilling af militære kampkøretøjer,pt_dictionaries,highest,danish
+LAB_db07_304000,LAB,db07,304000,DB07 industry classification: 304000,enhanced_english,medium,english
+LAB_db07_304000.0,LAB,db07,304000.0,DB07 industry classification: 304000.0,enhanced_english,medium,english
+LAB_db07_309,LAB,db07,309,Fremstilling af transportmidler i.a.n.,pt_dictionaries,highest,danish
+LAB_db07_309100,LAB,db07,309100,DB07 industry classification: 309100,enhanced_english,medium,english
+LAB_db07_309100.0,LAB,db07,309100.0,DB07 industry classification: 309100.0,enhanced_english,medium,english
+LAB_db07_309200,LAB,db07,309200,DB07 industry classification: 309200,enhanced_english,medium,english
+LAB_db07_309200.0,LAB,db07,309200.0,DB07 industry classification: 309200.0,enhanced_english,medium,english
+LAB_db07_309900,LAB,db07,309900,DB07 industry classification: 309900,enhanced_english,medium,english
+LAB_db07_309900.0,LAB,db07,309900.0,DB07 industry classification: 309900.0,enhanced_english,medium,english
+LAB_db07_310,LAB,db07,310,Fremstilling af møbler,pt_dictionaries,highest,danish
+LAB_db07_310100,LAB,db07,310100,DB07 industry classification: 310100,enhanced_english,medium,english
+LAB_db07_310100.0,LAB,db07,310100.0,DB07 industry classification: 310100.0,enhanced_english,medium,english
+LAB_db07_310200,LAB,db07,310200,DB07 industry classification: 310200,enhanced_english,medium,english
+LAB_db07_310200.0,LAB,db07,310200.0,DB07 industry classification: 310200.0,enhanced_english,medium,english
+LAB_db07_310300,LAB,db07,310300,DB07 industry classification: 310300,enhanced_english,medium,english
+LAB_db07_310300.0,LAB,db07,310300.0,DB07 industry classification: 310300.0,enhanced_english,medium,english
+LAB_db07_310900,LAB,db07,310900,DB07 industry classification: 310900,enhanced_english,medium,english
+LAB_db07_310900.0,LAB,db07,310900.0,DB07 industry classification: 310900.0,enhanced_english,medium,english
+LAB_db07_31100,LAB,db07,31100,DB07 industry classification: 31100,enhanced_english,medium,english
+LAB_db07_31100.0,LAB,db07,31100.0,DB07 industry classification: 31100.0,enhanced_english,medium,english
+LAB_db07_31200,LAB,db07,31200,DB07 industry classification: 31200,enhanced_english,medium,english
+LAB_db07_31200.0,LAB,db07,31200.0,DB07 industry classification: 31200.0,enhanced_english,medium,english
+LAB_db07_321,LAB,db07,321,"Fremstilling af smykker, bijouteri, mønter og lignende varer",pt_dictionaries,highest,danish
+LAB_db07_32100,LAB,db07,32100,DB07 industry classification: 32100,enhanced_english,medium,english
+LAB_db07_32100.0,LAB,db07,32100.0,DB07 industry classification: 32100.0,enhanced_english,medium,english
+LAB_db07_321100,LAB,db07,321100,DB07 industry classification: 321100,enhanced_english,medium,english
+LAB_db07_321100.0,LAB,db07,321100.0,DB07 industry classification: 321100.0,enhanced_english,medium,english
+LAB_db07_321200,LAB,db07,321200,DB07 industry classification: 321200,enhanced_english,medium,english
+LAB_db07_321200.0,LAB,db07,321200.0,DB07 industry classification: 321200.0,enhanced_english,medium,english
+LAB_db07_321300,LAB,db07,321300,DB07 industry classification: 321300,enhanced_english,medium,english
+LAB_db07_321300.0,LAB,db07,321300.0,DB07 industry classification: 321300.0,enhanced_english,medium,english
+LAB_db07_322,LAB,db07,322,Fremstilling af musikinstrumenter,pt_dictionaries,highest,danish
+LAB_db07_32200,LAB,db07,32200,DB07 industry classification: 32200,enhanced_english,medium,english
+LAB_db07_32200.0,LAB,db07,32200.0,DB07 industry classification: 32200.0,enhanced_english,medium,english
+LAB_db07_322000,LAB,db07,322000,DB07 industry classification: 322000,enhanced_english,medium,english
+LAB_db07_322000.0,LAB,db07,322000.0,DB07 industry classification: 322000.0,enhanced_english,medium,english
+LAB_db07_323,LAB,db07,323,Fremstilling af sportsudstyr,pt_dictionaries,highest,danish
+LAB_db07_323000,LAB,db07,323000,DB07 industry classification: 323000,enhanced_english,medium,english
+LAB_db07_323000.0,LAB,db07,323000.0,DB07 industry classification: 323000.0,enhanced_english,medium,english
+LAB_db07_324,LAB,db07,324,Fremstilling af spil og legetøj,pt_dictionaries,highest,danish
+LAB_db07_324000,LAB,db07,324000,DB07 industry classification: 324000,enhanced_english,medium,english
+LAB_db07_324000.0,LAB,db07,324000.0,DB07 industry classification: 324000.0,enhanced_english,medium,english
+LAB_db07_325,LAB,db07,325,Fremstilling af medicinske og dentale instrumenter samt udstyr hertil,pt_dictionaries,highest,danish
+LAB_db07_325000,LAB,db07,325000,DB07 industry classification: 325000,enhanced_english,medium,english
+LAB_db07_325000.0,LAB,db07,325000.0,DB07 industry classification: 325000.0,enhanced_english,medium,english
+LAB_db07_329,LAB,db07,329,Fremstillingsvirksomhed i.a.n.,pt_dictionaries,highest,danish
+LAB_db07_329100,LAB,db07,329100,DB07 industry classification: 329100,enhanced_english,medium,english
+LAB_db07_329100.0,LAB,db07,329100.0,DB07 industry classification: 329100.0,enhanced_english,medium,english
+LAB_db07_329900,LAB,db07,329900,DB07 industry classification: 329900,enhanced_english,medium,english
+LAB_db07_329900.0,LAB,db07,329900.0,DB07 industry classification: 329900.0,enhanced_english,medium,english
+LAB_db07_331,LAB,db07,331,"Reparation af jern- og metalvarer, maskiner og udstyr",pt_dictionaries,highest,danish
+LAB_db07_331100,LAB,db07,331100,DB07 industry classification: 331100,enhanced_english,medium,english
+LAB_db07_331100.0,LAB,db07,331100.0,DB07 industry classification: 331100.0,enhanced_english,medium,english
+LAB_db07_331200,LAB,db07,331200,DB07 industry classification: 331200,enhanced_english,medium,english
+LAB_db07_331200.0,LAB,db07,331200.0,DB07 industry classification: 331200.0,enhanced_english,medium,english
+LAB_db07_331300,LAB,db07,331300,DB07 industry classification: 331300,enhanced_english,medium,english
+LAB_db07_331300.0,LAB,db07,331300.0,DB07 industry classification: 331300.0,enhanced_english,medium,english
+LAB_db07_331400,LAB,db07,331400,DB07 industry classification: 331400,enhanced_english,medium,english
+LAB_db07_331400.0,LAB,db07,331400.0,DB07 industry classification: 331400.0,enhanced_english,medium,english
+LAB_db07_331500,LAB,db07,331500,DB07 industry classification: 331500,enhanced_english,medium,english
+LAB_db07_331500.0,LAB,db07,331500.0,DB07 industry classification: 331500.0,enhanced_english,medium,english
+LAB_db07_331600,LAB,db07,331600,DB07 industry classification: 331600,enhanced_english,medium,english
+LAB_db07_331600.0,LAB,db07,331600.0,DB07 industry classification: 331600.0,enhanced_english,medium,english
+LAB_db07_331700,LAB,db07,331700,DB07 industry classification: 331700,enhanced_english,medium,english
+LAB_db07_331700.0,LAB,db07,331700.0,DB07 industry classification: 331700.0,enhanced_english,medium,english
+LAB_db07_331900,LAB,db07,331900,DB07 industry classification: 331900,enhanced_english,medium,english
+LAB_db07_331900.0,LAB,db07,331900.0,DB07 industry classification: 331900.0,enhanced_english,medium,english
+LAB_db07_332,LAB,db07,332,Installation af industrimaskiner og -udstyr,pt_dictionaries,highest,danish
+LAB_db07_332000,LAB,db07,332000,DB07 industry classification: 332000,enhanced_english,medium,english
+LAB_db07_332000.0,LAB,db07,332000.0,DB07 industry classification: 332000.0,enhanced_english,medium,english
+LAB_db07_351,LAB,db07,351,Elforsyning,pt_dictionaries,highest,danish
+LAB_db07_351100,LAB,db07,351100,DB07 industry classification: 351100,enhanced_english,medium,english
+LAB_db07_351100.0,LAB,db07,351100.0,DB07 industry classification: 351100.0,enhanced_english,medium,english
+LAB_db07_351200,LAB,db07,351200,DB07 industry classification: 351200,enhanced_english,medium,english
+LAB_db07_351200.0,LAB,db07,351200.0,DB07 industry classification: 351200.0,enhanced_english,medium,english
+LAB_db07_351300,LAB,db07,351300,DB07 industry classification: 351300,enhanced_english,medium,english
+LAB_db07_351300.0,LAB,db07,351300.0,DB07 industry classification: 351300.0,enhanced_english,medium,english
+LAB_db07_351400,LAB,db07,351400,DB07 industry classification: 351400,enhanced_english,medium,english
+LAB_db07_351400.0,LAB,db07,351400.0,DB07 industry classification: 351400.0,enhanced_english,medium,english
+LAB_db07_352,LAB,db07,352,Gasforsyning,pt_dictionaries,highest,danish
+LAB_db07_352100,LAB,db07,352100,DB07 industry classification: 352100,enhanced_english,medium,english
+LAB_db07_352100.0,LAB,db07,352100.0,DB07 industry classification: 352100.0,enhanced_english,medium,english
+LAB_db07_352200,LAB,db07,352200,DB07 industry classification: 352200,enhanced_english,medium,english
+LAB_db07_352200.0,LAB,db07,352200.0,DB07 industry classification: 352200.0,enhanced_english,medium,english
+LAB_db07_352300,LAB,db07,352300,DB07 industry classification: 352300,enhanced_english,medium,english
+LAB_db07_352300.0,LAB,db07,352300.0,DB07 industry classification: 352300.0,enhanced_english,medium,english
+LAB_db07_353,LAB,db07,353,Varmeforsyning,pt_dictionaries,highest,danish
+LAB_db07_353000,LAB,db07,353000,DB07 industry classification: 353000,enhanced_english,medium,english
+LAB_db07_353000.0,LAB,db07,353000.0,DB07 industry classification: 353000.0,enhanced_english,medium,english
+LAB_db07_360,LAB,db07,360,Vandforsyning,pt_dictionaries,highest,danish
+LAB_db07_360000,LAB,db07,360000,DB07 industry classification: 360000,enhanced_english,medium,english
+LAB_db07_360000.0,LAB,db07,360000.0,DB07 industry classification: 360000.0,enhanced_english,medium,english
+LAB_db07_370,LAB,db07,370,Opsamling og behandling af spildevand,pt_dictionaries,highest,danish
+LAB_db07_370000,LAB,db07,370000,DB07 industry classification: 370000,enhanced_english,medium,english
+LAB_db07_370000.0,LAB,db07,370000.0,DB07 industry classification: 370000.0,enhanced_english,medium,english
+LAB_db07_381,LAB,db07,381,Indsamling af affald,pt_dictionaries,highest,danish
+LAB_db07_381100,LAB,db07,381100,DB07 industry classification: 381100,enhanced_english,medium,english
+LAB_db07_381100.0,LAB,db07,381100.0,DB07 industry classification: 381100.0,enhanced_english,medium,english
+LAB_db07_381200,LAB,db07,381200,DB07 industry classification: 381200,enhanced_english,medium,english
+LAB_db07_381200.0,LAB,db07,381200.0,DB07 industry classification: 381200.0,enhanced_english,medium,english
+LAB_db07_382,LAB,db07,382,Behandling og bortskaffelse af affald,pt_dictionaries,highest,danish
+LAB_db07_382110,LAB,db07,382110,DB07 industry classification: 382110,enhanced_english,medium,english
+LAB_db07_382110.0,LAB,db07,382110.0,DB07 industry classification: 382110.0,enhanced_english,medium,english
+LAB_db07_382120,LAB,db07,382120,DB07 industry classification: 382120,enhanced_english,medium,english
+LAB_db07_382120.0,LAB,db07,382120.0,DB07 industry classification: 382120.0,enhanced_english,medium,english
+LAB_db07_382200,LAB,db07,382200,DB07 industry classification: 382200,enhanced_english,medium,english
+LAB_db07_382200.0,LAB,db07,382200.0,DB07 industry classification: 382200.0,enhanced_english,medium,english
+LAB_db07_383,LAB,db07,383,Genbrug,pt_dictionaries,highest,danish
+LAB_db07_383100,LAB,db07,383100,DB07 industry classification: 383100,enhanced_english,medium,english
+LAB_db07_383100.0,LAB,db07,383100.0,DB07 industry classification: 383100.0,enhanced_english,medium,english
+LAB_db07_383200,LAB,db07,383200,DB07 industry classification: 383200,enhanced_english,medium,english
+LAB_db07_383200.0,LAB,db07,383200.0,DB07 industry classification: 383200.0,enhanced_english,medium,english
+LAB_db07_390,LAB,db07,390,Rensning af jord og grundvand og anden form for forureningsbekæmpelse,pt_dictionaries,highest,danish
+LAB_db07_390000,LAB,db07,390000,DB07 industry classification: 390000,enhanced_english,medium,english
+LAB_db07_390000.0,LAB,db07,390000.0,DB07 industry classification: 390000.0,enhanced_english,medium,english
+LAB_db07_411,LAB,db07,411,Gennemførelse af byggeprojekter,pt_dictionaries,highest,danish
+LAB_db07_411000,LAB,db07,411000,DB07 industry classification: 411000,enhanced_english,medium,english
+LAB_db07_411000.0,LAB,db07,411000.0,DB07 industry classification: 411000.0,enhanced_english,medium,english
+LAB_db07_412,LAB,db07,412,Opførelse af bygninger,pt_dictionaries,highest,danish
+LAB_db07_412000,LAB,db07,412000,DB07 industry classification: 412000,enhanced_english,medium,english
+LAB_db07_412000.0,LAB,db07,412000.0,DB07 industry classification: 412000.0,enhanced_english,medium,english
+LAB_db07_421,LAB,db07,421,Anlæg af veje og jernbaner,pt_dictionaries,highest,danish
+LAB_db07_421000,LAB,db07,421000,DB07 industry classification: 421000,enhanced_english,medium,english
+LAB_db07_421000.0,LAB,db07,421000.0,DB07 industry classification: 421000.0,enhanced_english,medium,english
+LAB_db07_421100,LAB,db07,421100,DB07 industry classification: 421100,enhanced_english,medium,english
+LAB_db07_421100.0,LAB,db07,421100.0,DB07 industry classification: 421100.0,enhanced_english,medium,english
+LAB_db07_421200,LAB,db07,421200,DB07 industry classification: 421200,enhanced_english,medium,english
+LAB_db07_421200.0,LAB,db07,421200.0,DB07 industry classification: 421200.0,enhanced_english,medium,english
+LAB_db07_421300,LAB,db07,421300,DB07 industry classification: 421300,enhanced_english,medium,english
+LAB_db07_421300.0,LAB,db07,421300.0,DB07 industry classification: 421300.0,enhanced_english,medium,english
+LAB_db07_422,LAB,db07,422,Anlæg af ledningsnet,pt_dictionaries,highest,danish
+LAB_db07_422000,LAB,db07,422000,DB07 industry classification: 422000,enhanced_english,medium,english
+LAB_db07_422000.0,LAB,db07,422000.0,DB07 industry classification: 422000.0,enhanced_english,medium,english
+LAB_db07_422100,LAB,db07,422100,DB07 industry classification: 422100,enhanced_english,medium,english
+LAB_db07_422100.0,LAB,db07,422100.0,DB07 industry classification: 422100.0,enhanced_english,medium,english
+LAB_db07_422200,LAB,db07,422200,DB07 industry classification: 422200,enhanced_english,medium,english
+LAB_db07_422200.0,LAB,db07,422200.0,DB07 industry classification: 422200.0,enhanced_english,medium,english
+LAB_db07_429,LAB,db07,429,Anden anlægsvirksomhed,pt_dictionaries,highest,danish
+LAB_db07_429000,LAB,db07,429000,DB07 industry classification: 429000,enhanced_english,medium,english
+LAB_db07_429000.0,LAB,db07,429000.0,DB07 industry classification: 429000.0,enhanced_english,medium,english
+LAB_db07_429100,LAB,db07,429100,DB07 industry classification: 429100,enhanced_english,medium,english
+LAB_db07_429100.0,LAB,db07,429100.0,DB07 industry classification: 429100.0,enhanced_english,medium,english
+LAB_db07_429900,LAB,db07,429900,DB07 industry classification: 429900,enhanced_english,medium,english
+LAB_db07_429900.0,LAB,db07,429900.0,DB07 industry classification: 429900.0,enhanced_english,medium,english
+LAB_db07_431,LAB,db07,431,Nedrivning og forberedende byggepladsarbejder,pt_dictionaries,highest,danish
+LAB_db07_431100,LAB,db07,431100,DB07 industry classification: 431100,enhanced_english,medium,english
+LAB_db07_431100.0,LAB,db07,431100.0,DB07 industry classification: 431100.0,enhanced_english,medium,english
+LAB_db07_431200,LAB,db07,431200,DB07 industry classification: 431200,enhanced_english,medium,english
+LAB_db07_431200.0,LAB,db07,431200.0,DB07 industry classification: 431200.0,enhanced_english,medium,english
+LAB_db07_431300,LAB,db07,431300,DB07 industry classification: 431300,enhanced_english,medium,english
+LAB_db07_431300.0,LAB,db07,431300.0,DB07 industry classification: 431300.0,enhanced_english,medium,english
+LAB_db07_432,LAB,db07,432,"El-installation, VVS- og blikkenslagerforretninger samt anden bygningsinstallationsvirksomhed",pt_dictionaries,highest,danish
+LAB_db07_432100,LAB,db07,432100,DB07 industry classification: 432100,enhanced_english,medium,english
+LAB_db07_432100.0,LAB,db07,432100.0,DB07 industry classification: 432100.0,enhanced_english,medium,english
+LAB_db07_432200,LAB,db07,432200,DB07 industry classification: 432200,enhanced_english,medium,english
+LAB_db07_432200.0,LAB,db07,432200.0,DB07 industry classification: 432200.0,enhanced_english,medium,english
+LAB_db07_432900,LAB,db07,432900,DB07 industry classification: 432900,enhanced_english,medium,english
+LAB_db07_432900.0,LAB,db07,432900.0,DB07 industry classification: 432900.0,enhanced_english,medium,english
+LAB_db07_433,LAB,db07,433,Bygningsfærdiggørelse,pt_dictionaries,highest,danish
+LAB_db07_433100,LAB,db07,433100,DB07 industry classification: 433100,enhanced_english,medium,english
+LAB_db07_433100.0,LAB,db07,433100.0,DB07 industry classification: 433100.0,enhanced_english,medium,english
+LAB_db07_433200,LAB,db07,433200,DB07 industry classification: 433200,enhanced_english,medium,english
+LAB_db07_433200.0,LAB,db07,433200.0,DB07 industry classification: 433200.0,enhanced_english,medium,english
+LAB_db07_433300,LAB,db07,433300,DB07 industry classification: 433300,enhanced_english,medium,english
+LAB_db07_433300.0,LAB,db07,433300.0,DB07 industry classification: 433300.0,enhanced_english,medium,english
+LAB_db07_433410,LAB,db07,433410,DB07 industry classification: 433410,enhanced_english,medium,english
+LAB_db07_433410.0,LAB,db07,433410.0,DB07 industry classification: 433410.0,enhanced_english,medium,english
+LAB_db07_433420,LAB,db07,433420,DB07 industry classification: 433420,enhanced_english,medium,english
+LAB_db07_433420.0,LAB,db07,433420.0,DB07 industry classification: 433420.0,enhanced_english,medium,english
+LAB_db07_433900,LAB,db07,433900,DB07 industry classification: 433900,enhanced_english,medium,english
+LAB_db07_433900.0,LAB,db07,433900.0,DB07 industry classification: 433900.0,enhanced_english,medium,english
+LAB_db07_439,LAB,db07,439,"Anden bygge- og anlægsvirksomhed, som kræver specialisering",pt_dictionaries,highest,danish
+LAB_db07_439100,LAB,db07,439100,DB07 industry classification: 439100,enhanced_english,medium,english
+LAB_db07_439100.0,LAB,db07,439100.0,DB07 industry classification: 439100.0,enhanced_english,medium,english
+LAB_db07_439910,LAB,db07,439910,DB07 industry classification: 439910,enhanced_english,medium,english
+LAB_db07_439910.0,LAB,db07,439910.0,DB07 industry classification: 439910.0,enhanced_english,medium,english
+LAB_db07_439990,LAB,db07,439990,DB07 industry classification: 439990,enhanced_english,medium,english
+LAB_db07_439990.0,LAB,db07,439990.0,DB07 industry classification: 439990.0,enhanced_english,medium,english
+LAB_db07_451,LAB,db07,451,Salg af motorkøretøjer,pt_dictionaries,highest,danish
+LAB_db07_451110,LAB,db07,451110,DB07 industry classification: 451110,enhanced_english,medium,english
+LAB_db07_451110.0,LAB,db07,451110.0,DB07 industry classification: 451110.0,enhanced_english,medium,english
+LAB_db07_451120,LAB,db07,451120,DB07 industry classification: 451120,enhanced_english,medium,english
+LAB_db07_451120.0,LAB,db07,451120.0,DB07 industry classification: 451120.0,enhanced_english,medium,english
+LAB_db07_451910,LAB,db07,451910,DB07 industry classification: 451910,enhanced_english,medium,english
+LAB_db07_451910.0,LAB,db07,451910.0,DB07 industry classification: 451910.0,enhanced_english,medium,english
+LAB_db07_451920,LAB,db07,451920,DB07 industry classification: 451920,enhanced_english,medium,english
+LAB_db07_451920.0,LAB,db07,451920.0,DB07 industry classification: 451920.0,enhanced_english,medium,english
+LAB_db07_452,LAB,db07,452,Vedligeholdelse og reparation af motorkøretøjer,pt_dictionaries,highest,danish
+LAB_db07_452010,LAB,db07,452010,DB07 industry classification: 452010,enhanced_english,medium,english
+LAB_db07_452010.0,LAB,db07,452010.0,DB07 industry classification: 452010.0,enhanced_english,medium,english
+LAB_db07_452020,LAB,db07,452020,DB07 industry classification: 452020,enhanced_english,medium,english
+LAB_db07_452020.0,LAB,db07,452020.0,DB07 industry classification: 452020.0,enhanced_english,medium,english
+LAB_db07_452030,LAB,db07,452030,DB07 industry classification: 452030,enhanced_english,medium,english
+LAB_db07_452030.0,LAB,db07,452030.0,DB07 industry classification: 452030.0,enhanced_english,medium,english
+LAB_db07_452040,LAB,db07,452040,DB07 industry classification: 452040,enhanced_english,medium,english
+LAB_db07_452040.0,LAB,db07,452040.0,DB07 industry classification: 452040.0,enhanced_english,medium,english
+LAB_db07_452590.0,LAB,db07,452590.0,DB07 industry classification: 452590.0,enhanced_english,medium,english
+LAB_db07_453,LAB,db07,453,Salg af reservedele og tilbehør til motorkøretøjer,pt_dictionaries,highest,danish
+LAB_db07_453100,LAB,db07,453100,DB07 industry classification: 453100,enhanced_english,medium,english
+LAB_db07_453100.0,LAB,db07,453100.0,DB07 industry classification: 453100.0,enhanced_english,medium,english
+LAB_db07_453200,LAB,db07,453200,DB07 industry classification: 453200,enhanced_english,medium,english
+LAB_db07_453200.0,LAB,db07,453200.0,DB07 industry classification: 453200.0,enhanced_english,medium,english
+LAB_db07_454,LAB,db07,454,"Salg, vedligeholdelse og reparation af motorcykler og reservedele og tilbehør hertil",pt_dictionaries,highest,danish
+LAB_db07_454000,LAB,db07,454000,DB07 industry classification: 454000,enhanced_english,medium,english
+LAB_db07_454000.0,LAB,db07,454000.0,DB07 industry classification: 454000.0,enhanced_english,medium,english
+LAB_db07_461,LAB,db07,461,Agenturhandel (engroshandel på honorar- eller kontraktbasis),pt_dictionaries,highest,danish
+LAB_db07_461100,LAB,db07,461100,DB07 industry classification: 461100,enhanced_english,medium,english
+LAB_db07_461100.0,LAB,db07,461100.0,DB07 industry classification: 461100.0,enhanced_english,medium,english
+LAB_db07_461200,LAB,db07,461200,DB07 industry classification: 461200,enhanced_english,medium,english
+LAB_db07_461200.0,LAB,db07,461200.0,DB07 industry classification: 461200.0,enhanced_english,medium,english
+LAB_db07_461300,LAB,db07,461300,DB07 industry classification: 461300,enhanced_english,medium,english
+LAB_db07_461300.0,LAB,db07,461300.0,DB07 industry classification: 461300.0,enhanced_english,medium,english
+LAB_db07_461400,LAB,db07,461400,DB07 industry classification: 461400,enhanced_english,medium,english
+LAB_db07_461400.0,LAB,db07,461400.0,DB07 industry classification: 461400.0,enhanced_english,medium,english
+LAB_db07_461500,LAB,db07,461500,DB07 industry classification: 461500,enhanced_english,medium,english
+LAB_db07_461500.0,LAB,db07,461500.0,DB07 industry classification: 461500.0,enhanced_english,medium,english
+LAB_db07_461600,LAB,db07,461600,DB07 industry classification: 461600,enhanced_english,medium,english
+LAB_db07_461600.0,LAB,db07,461600.0,DB07 industry classification: 461600.0,enhanced_english,medium,english
+LAB_db07_461710,LAB,db07,461710,DB07 industry classification: 461710,enhanced_english,medium,english
+LAB_db07_461710.0,LAB,db07,461710.0,DB07 industry classification: 461710.0,enhanced_english,medium,english
+LAB_db07_461790,LAB,db07,461790,DB07 industry classification: 461790,enhanced_english,medium,english
+LAB_db07_461790.0,LAB,db07,461790.0,DB07 industry classification: 461790.0,enhanced_english,medium,english
+LAB_db07_461800,LAB,db07,461800,DB07 industry classification: 461800,enhanced_english,medium,english
+LAB_db07_461800.0,LAB,db07,461800.0,DB07 industry classification: 461800.0,enhanced_english,medium,english
+LAB_db07_461900,LAB,db07,461900,DB07 industry classification: 461900,enhanced_english,medium,english
+LAB_db07_461900.0,LAB,db07,461900.0,DB07 industry classification: 461900.0,enhanced_english,medium,english
+LAB_db07_462,LAB,db07,462,Engroshandel med landbrugsråvarer og levende dyr,pt_dictionaries,highest,danish
+LAB_db07_462100,LAB,db07,462100,DB07 industry classification: 462100,enhanced_english,medium,english
+LAB_db07_462100.0,LAB,db07,462100.0,DB07 industry classification: 462100.0,enhanced_english,medium,english
+LAB_db07_462200,LAB,db07,462200,DB07 industry classification: 462200,enhanced_english,medium,english
+LAB_db07_462200.0,LAB,db07,462200.0,DB07 industry classification: 462200.0,enhanced_english,medium,english
+LAB_db07_462300,LAB,db07,462300,DB07 industry classification: 462300,enhanced_english,medium,english
+LAB_db07_462300.0,LAB,db07,462300.0,DB07 industry classification: 462300.0,enhanced_english,medium,english
+LAB_db07_462400,LAB,db07,462400,DB07 industry classification: 462400,enhanced_english,medium,english
+LAB_db07_462400.0,LAB,db07,462400.0,DB07 industry classification: 462400.0,enhanced_english,medium,english
+LAB_db07_463,LAB,db07,463,"Engroshandel med føde-, drikke- og tobaksvarer",pt_dictionaries,highest,danish
+LAB_db07_463100,LAB,db07,463100,DB07 industry classification: 463100,enhanced_english,medium,english
+LAB_db07_463100.0,LAB,db07,463100.0,DB07 industry classification: 463100.0,enhanced_english,medium,english
+LAB_db07_463200,LAB,db07,463200,DB07 industry classification: 463200,enhanced_english,medium,english
+LAB_db07_463200.0,LAB,db07,463200.0,DB07 industry classification: 463200.0,enhanced_english,medium,english
+LAB_db07_463300,LAB,db07,463300,DB07 industry classification: 463300,enhanced_english,medium,english
+LAB_db07_463300.0,LAB,db07,463300.0,DB07 industry classification: 463300.0,enhanced_english,medium,english
+LAB_db07_463410,LAB,db07,463410,DB07 industry classification: 463410,enhanced_english,medium,english
+LAB_db07_463410.0,LAB,db07,463410.0,DB07 industry classification: 463410.0,enhanced_english,medium,english
+LAB_db07_463420,LAB,db07,463420,DB07 industry classification: 463420,enhanced_english,medium,english
+LAB_db07_463420.0,LAB,db07,463420.0,DB07 industry classification: 463420.0,enhanced_english,medium,english
+LAB_db07_463500,LAB,db07,463500,DB07 industry classification: 463500,enhanced_english,medium,english
+LAB_db07_463500.0,LAB,db07,463500.0,DB07 industry classification: 463500.0,enhanced_english,medium,english
+LAB_db07_463600,LAB,db07,463600,DB07 industry classification: 463600,enhanced_english,medium,english
+LAB_db07_463600.0,LAB,db07,463600.0,DB07 industry classification: 463600.0,enhanced_english,medium,english
+LAB_db07_463700,LAB,db07,463700,DB07 industry classification: 463700,enhanced_english,medium,english
+LAB_db07_463700.0,LAB,db07,463700.0,DB07 industry classification: 463700.0,enhanced_english,medium,english
+LAB_db07_463810,LAB,db07,463810,DB07 industry classification: 463810,enhanced_english,medium,english
+LAB_db07_463810.0,LAB,db07,463810.0,DB07 industry classification: 463810.0,enhanced_english,medium,english
+LAB_db07_463890,LAB,db07,463890,DB07 industry classification: 463890,enhanced_english,medium,english
+LAB_db07_463890.0,LAB,db07,463890.0,DB07 industry classification: 463890.0,enhanced_english,medium,english
+LAB_db07_463900,LAB,db07,463900,DB07 industry classification: 463900,enhanced_english,medium,english
+LAB_db07_463900.0,LAB,db07,463900.0,DB07 industry classification: 463900.0,enhanced_english,medium,english
+LAB_db07_464,LAB,db07,464,Engroshandel med husholdningsartikler,pt_dictionaries,highest,danish
+LAB_db07_464100,LAB,db07,464100,DB07 industry classification: 464100,enhanced_english,medium,english
+LAB_db07_464100.0,LAB,db07,464100.0,DB07 industry classification: 464100.0,enhanced_english,medium,english
+LAB_db07_464210,LAB,db07,464210,DB07 industry classification: 464210,enhanced_english,medium,english
+LAB_db07_464210.0,LAB,db07,464210.0,DB07 industry classification: 464210.0,enhanced_english,medium,english
+LAB_db07_464220,LAB,db07,464220,DB07 industry classification: 464220,enhanced_english,medium,english
+LAB_db07_464220.0,LAB,db07,464220.0,DB07 industry classification: 464220.0,enhanced_english,medium,english
+LAB_db07_464310,LAB,db07,464310,DB07 industry classification: 464310,enhanced_english,medium,english
+LAB_db07_464310.0,LAB,db07,464310.0,DB07 industry classification: 464310.0,enhanced_english,medium,english
+LAB_db07_464320,LAB,db07,464320,DB07 industry classification: 464320,enhanced_english,medium,english
+LAB_db07_464320.0,LAB,db07,464320.0,DB07 industry classification: 464320.0,enhanced_english,medium,english
+LAB_db07_464330,LAB,db07,464330,DB07 industry classification: 464330,enhanced_english,medium,english
+LAB_db07_464330.0,LAB,db07,464330.0,DB07 industry classification: 464330.0,enhanced_english,medium,english
+LAB_db07_464340,LAB,db07,464340,DB07 industry classification: 464340,enhanced_english,medium,english
+LAB_db07_464340.0,LAB,db07,464340.0,DB07 industry classification: 464340.0,enhanced_english,medium,english
+LAB_db07_464350,LAB,db07,464350,DB07 industry classification: 464350,enhanced_english,medium,english
+LAB_db07_464350.0,LAB,db07,464350.0,DB07 industry classification: 464350.0,enhanced_english,medium,english
+LAB_db07_464410,LAB,db07,464410,DB07 industry classification: 464410,enhanced_english,medium,english
+LAB_db07_464410.0,LAB,db07,464410.0,DB07 industry classification: 464410.0,enhanced_english,medium,english
+LAB_db07_464420,LAB,db07,464420,DB07 industry classification: 464420,enhanced_english,medium,english
+LAB_db07_464420.0,LAB,db07,464420.0,DB07 industry classification: 464420.0,enhanced_english,medium,english
+LAB_db07_464500,LAB,db07,464500,DB07 industry classification: 464500,enhanced_english,medium,english
+LAB_db07_464500.0,LAB,db07,464500.0,DB07 industry classification: 464500.0,enhanced_english,medium,english
+LAB_db07_464610,LAB,db07,464610,DB07 industry classification: 464610,enhanced_english,medium,english
+LAB_db07_464610.0,LAB,db07,464610.0,DB07 industry classification: 464610.0,enhanced_english,medium,english
+LAB_db07_464620,LAB,db07,464620,DB07 industry classification: 464620,enhanced_english,medium,english
+LAB_db07_464620.0,LAB,db07,464620.0,DB07 industry classification: 464620.0,enhanced_english,medium,english
+LAB_db07_464700,LAB,db07,464700,DB07 industry classification: 464700,enhanced_english,medium,english
+LAB_db07_464700.0,LAB,db07,464700.0,DB07 industry classification: 464700.0,enhanced_english,medium,english
+LAB_db07_464800,LAB,db07,464800,DB07 industry classification: 464800,enhanced_english,medium,english
+LAB_db07_464800.0,LAB,db07,464800.0,DB07 industry classification: 464800.0,enhanced_english,medium,english
+LAB_db07_464910,LAB,db07,464910,DB07 industry classification: 464910,enhanced_english,medium,english
+LAB_db07_464910.0,LAB,db07,464910.0,DB07 industry classification: 464910.0,enhanced_english,medium,english
+LAB_db07_464920,LAB,db07,464920,DB07 industry classification: 464920,enhanced_english,medium,english
+LAB_db07_464920.0,LAB,db07,464920.0,DB07 industry classification: 464920.0,enhanced_english,medium,english
+LAB_db07_464930,LAB,db07,464930,DB07 industry classification: 464930,enhanced_english,medium,english
+LAB_db07_464930.0,LAB,db07,464930.0,DB07 industry classification: 464930.0,enhanced_english,medium,english
+LAB_db07_464990,LAB,db07,464990,DB07 industry classification: 464990,enhanced_english,medium,english
+LAB_db07_464990.0,LAB,db07,464990.0,DB07 industry classification: 464990.0,enhanced_english,medium,english
+LAB_db07_465,LAB,db07,465,Engroshandel med informations- og kommunikationsudstyr,pt_dictionaries,highest,danish
+LAB_db07_465100,LAB,db07,465100,DB07 industry classification: 465100,enhanced_english,medium,english
+LAB_db07_465100.0,LAB,db07,465100.0,DB07 industry classification: 465100.0,enhanced_english,medium,english
+LAB_db07_465210,LAB,db07,465210,DB07 industry classification: 465210,enhanced_english,medium,english
+LAB_db07_465210.0,LAB,db07,465210.0,DB07 industry classification: 465210.0,enhanced_english,medium,english
+LAB_db07_465220,LAB,db07,465220,DB07 industry classification: 465220,enhanced_english,medium,english
+LAB_db07_465220.0,LAB,db07,465220.0,DB07 industry classification: 465220.0,enhanced_english,medium,english
+LAB_db07_466,LAB,db07,466,"Engroshandel med andre maskiner, andet udstyr og tilbehør",pt_dictionaries,highest,danish
+LAB_db07_466100,LAB,db07,466100,DB07 industry classification: 466100,enhanced_english,medium,english
+LAB_db07_466100.0,LAB,db07,466100.0,DB07 industry classification: 466100.0,enhanced_english,medium,english
+LAB_db07_466200,LAB,db07,466200,DB07 industry classification: 466200,enhanced_english,medium,english
+LAB_db07_466200.0,LAB,db07,466200.0,DB07 industry classification: 466200.0,enhanced_english,medium,english
+LAB_db07_466300,LAB,db07,466300,DB07 industry classification: 466300,enhanced_english,medium,english
+LAB_db07_466300.0,LAB,db07,466300.0,DB07 industry classification: 466300.0,enhanced_english,medium,english
+LAB_db07_466400,LAB,db07,466400,DB07 industry classification: 466400,enhanced_english,medium,english
+LAB_db07_466400.0,LAB,db07,466400.0,DB07 industry classification: 466400.0,enhanced_english,medium,english
+LAB_db07_466500,LAB,db07,466500,DB07 industry classification: 466500,enhanced_english,medium,english
+LAB_db07_466500.0,LAB,db07,466500.0,DB07 industry classification: 466500.0,enhanced_english,medium,english
+LAB_db07_466600,LAB,db07,466600,DB07 industry classification: 466600,enhanced_english,medium,english
+LAB_db07_466600.0,LAB,db07,466600.0,DB07 industry classification: 466600.0,enhanced_english,medium,english
+LAB_db07_466900,LAB,db07,466900,DB07 industry classification: 466900,enhanced_english,medium,english
+LAB_db07_466900.0,LAB,db07,466900.0,DB07 industry classification: 466900.0,enhanced_english,medium,english
+LAB_db07_467,LAB,db07,467,Anden specialiseret engroshandel,pt_dictionaries,highest,danish
+LAB_db07_467100,LAB,db07,467100,DB07 industry classification: 467100,enhanced_english,medium,english
+LAB_db07_467100.0,LAB,db07,467100.0,DB07 industry classification: 467100.0,enhanced_english,medium,english
+LAB_db07_467200,LAB,db07,467200,DB07 industry classification: 467200,enhanced_english,medium,english
+LAB_db07_467200.0,LAB,db07,467200.0,DB07 industry classification: 467200.0,enhanced_english,medium,english
+LAB_db07_467310,LAB,db07,467310,DB07 industry classification: 467310,enhanced_english,medium,english
+LAB_db07_467310.0,LAB,db07,467310.0,DB07 industry classification: 467310.0,enhanced_english,medium,english
+LAB_db07_467320,LAB,db07,467320,DB07 industry classification: 467320,enhanced_english,medium,english
+LAB_db07_467320.0,LAB,db07,467320.0,DB07 industry classification: 467320.0,enhanced_english,medium,english
+LAB_db07_467400,LAB,db07,467400,DB07 industry classification: 467400,enhanced_english,medium,english
+LAB_db07_467400.0,LAB,db07,467400.0,DB07 industry classification: 467400.0,enhanced_english,medium,english
+LAB_db07_467500,LAB,db07,467500,DB07 industry classification: 467500,enhanced_english,medium,english
+LAB_db07_467500.0,LAB,db07,467500.0,DB07 industry classification: 467500.0,enhanced_english,medium,english
+LAB_db07_467600,LAB,db07,467600,DB07 industry classification: 467600,enhanced_english,medium,english
+LAB_db07_467600.0,LAB,db07,467600.0,DB07 industry classification: 467600.0,enhanced_english,medium,english
+LAB_db07_467700,LAB,db07,467700,DB07 industry classification: 467700,enhanced_english,medium,english
+LAB_db07_467700.0,LAB,db07,467700.0,DB07 industry classification: 467700.0,enhanced_english,medium,english
+LAB_db07_469,LAB,db07,469,Ikke-specialiseret engroshandel,pt_dictionaries,highest,danish
+LAB_db07_469000,LAB,db07,469000,DB07 industry classification: 469000,enhanced_english,medium,english
+LAB_db07_469000.0,LAB,db07,469000.0,DB07 industry classification: 469000.0,enhanced_english,medium,english
+LAB_db07_471,LAB,db07,471,Detailhandel fra ikke-specialiserede forretninger,pt_dictionaries,highest,danish
+LAB_db07_471110,LAB,db07,471110,DB07 industry classification: 471110,enhanced_english,medium,english
+LAB_db07_471110.0,LAB,db07,471110.0,DB07 industry classification: 471110.0,enhanced_english,medium,english
+LAB_db07_471120,LAB,db07,471120,DB07 industry classification: 471120,enhanced_english,medium,english
+LAB_db07_471120.0,LAB,db07,471120.0,DB07 industry classification: 471120.0,enhanced_english,medium,english
+LAB_db07_471130,LAB,db07,471130,DB07 industry classification: 471130,enhanced_english,medium,english
+LAB_db07_471130.0,LAB,db07,471130.0,DB07 industry classification: 471130.0,enhanced_english,medium,english
+LAB_db07_471900,LAB,db07,471900,DB07 industry classification: 471900,enhanced_english,medium,english
+LAB_db07_471900.0,LAB,db07,471900.0,DB07 industry classification: 471900.0,enhanced_english,medium,english
+LAB_db07_472,LAB,db07,472,"Detailhandel med føde-, drikke- og tobaksvarer i specialforretninger",pt_dictionaries,highest,danish
+LAB_db07_472100,LAB,db07,472100,DB07 industry classification: 472100,enhanced_english,medium,english
+LAB_db07_472100.0,LAB,db07,472100.0,DB07 industry classification: 472100.0,enhanced_english,medium,english
+LAB_db07_472200,LAB,db07,472200,DB07 industry classification: 472200,enhanced_english,medium,english
+LAB_db07_472200.0,LAB,db07,472200.0,DB07 industry classification: 472200.0,enhanced_english,medium,english
+LAB_db07_472300,LAB,db07,472300,DB07 industry classification: 472300,enhanced_english,medium,english
+LAB_db07_472300.0,LAB,db07,472300.0,DB07 industry classification: 472300.0,enhanced_english,medium,english
+LAB_db07_472400,LAB,db07,472400,DB07 industry classification: 472400,enhanced_english,medium,english
+LAB_db07_472400.0,LAB,db07,472400.0,DB07 industry classification: 472400.0,enhanced_english,medium,english
+LAB_db07_472500,LAB,db07,472500,DB07 industry classification: 472500,enhanced_english,medium,english
+LAB_db07_472500.0,LAB,db07,472500.0,DB07 industry classification: 472500.0,enhanced_english,medium,english
+LAB_db07_472600,LAB,db07,472600,DB07 industry classification: 472600,enhanced_english,medium,english
+LAB_db07_472600.0,LAB,db07,472600.0,DB07 industry classification: 472600.0,enhanced_english,medium,english
+LAB_db07_472900,LAB,db07,472900,DB07 industry classification: 472900,enhanced_english,medium,english
+LAB_db07_472900.0,LAB,db07,472900.0,DB07 industry classification: 472900.0,enhanced_english,medium,english
+LAB_db07_473,LAB,db07,473,Servicestationer,pt_dictionaries,highest,danish
+LAB_db07_473000,LAB,db07,473000,DB07 industry classification: 473000,enhanced_english,medium,english
+LAB_db07_473000.0,LAB,db07,473000.0,DB07 industry classification: 473000.0,enhanced_english,medium,english
+LAB_db07_474,LAB,db07,474,Detailhandel med informations- og telekommunikationsudstyr i specialforretninger,pt_dictionaries,highest,danish
+LAB_db07_474100,LAB,db07,474100,DB07 industry classification: 474100,enhanced_english,medium,english
+LAB_db07_474100.0,LAB,db07,474100.0,DB07 industry classification: 474100.0,enhanced_english,medium,english
+LAB_db07_474200,LAB,db07,474200,DB07 industry classification: 474200,enhanced_english,medium,english
+LAB_db07_474200.0,LAB,db07,474200.0,DB07 industry classification: 474200.0,enhanced_english,medium,english
+LAB_db07_474300,LAB,db07,474300,DB07 industry classification: 474300,enhanced_english,medium,english
+LAB_db07_474300.0,LAB,db07,474300.0,DB07 industry classification: 474300.0,enhanced_english,medium,english
+LAB_db07_475,LAB,db07,475,Detailhandel med husholdningsudstyr i specialforreninger,pt_dictionaries,highest,danish
+LAB_db07_475100,LAB,db07,475100,DB07 industry classification: 475100,enhanced_english,medium,english
+LAB_db07_475100.0,LAB,db07,475100.0,DB07 industry classification: 475100.0,enhanced_english,medium,english
+LAB_db07_475210,LAB,db07,475210,DB07 industry classification: 475210,enhanced_english,medium,english
+LAB_db07_475210.0,LAB,db07,475210.0,DB07 industry classification: 475210.0,enhanced_english,medium,english
+LAB_db07_475220,LAB,db07,475220,DB07 industry classification: 475220,enhanced_english,medium,english
+LAB_db07_475220.0,LAB,db07,475220.0,DB07 industry classification: 475220.0,enhanced_english,medium,english
+LAB_db07_475300,LAB,db07,475300,DB07 industry classification: 475300,enhanced_english,medium,english
+LAB_db07_475300.0,LAB,db07,475300.0,DB07 industry classification: 475300.0,enhanced_english,medium,english
+LAB_db07_475400,LAB,db07,475400,DB07 industry classification: 475400,enhanced_english,medium,english
+LAB_db07_475400.0,LAB,db07,475400.0,DB07 industry classification: 475400.0,enhanced_english,medium,english
+LAB_db07_475910,LAB,db07,475910,DB07 industry classification: 475910,enhanced_english,medium,english
+LAB_db07_475910.0,LAB,db07,475910.0,DB07 industry classification: 475910.0,enhanced_english,medium,english
+LAB_db07_475920,LAB,db07,475920,DB07 industry classification: 475920,enhanced_english,medium,english
+LAB_db07_475920.0,LAB,db07,475920.0,DB07 industry classification: 475920.0,enhanced_english,medium,english
+LAB_db07_475930,LAB,db07,475930,DB07 industry classification: 475930,enhanced_english,medium,english
+LAB_db07_475930.0,LAB,db07,475930.0,DB07 industry classification: 475930.0,enhanced_english,medium,english
+LAB_db07_475940,LAB,db07,475940,DB07 industry classification: 475940,enhanced_english,medium,english
+LAB_db07_475940.0,LAB,db07,475940.0,DB07 industry classification: 475940.0,enhanced_english,medium,english
+LAB_db07_475990,LAB,db07,475990,DB07 industry classification: 475990,enhanced_english,medium,english
+LAB_db07_475990.0,LAB,db07,475990.0,DB07 industry classification: 475990.0,enhanced_english,medium,english
+LAB_db07_476,LAB,db07,476,Detailhandel med varer til kulturelle formål og til fritid,pt_dictionaries,highest,danish
+LAB_db07_476100,LAB,db07,476100,DB07 industry classification: 476100,enhanced_english,medium,english
+LAB_db07_476100.0,LAB,db07,476100.0,DB07 industry classification: 476100.0,enhanced_english,medium,english
+LAB_db07_476200,LAB,db07,476200,DB07 industry classification: 476200,enhanced_english,medium,english
+LAB_db07_476200.0,LAB,db07,476200.0,DB07 industry classification: 476200.0,enhanced_english,medium,english
+LAB_db07_476300,LAB,db07,476300,DB07 industry classification: 476300,enhanced_english,medium,english
+LAB_db07_476300.0,LAB,db07,476300.0,DB07 industry classification: 476300.0,enhanced_english,medium,english
+LAB_db07_476410,LAB,db07,476410,DB07 industry classification: 476410,enhanced_english,medium,english
+LAB_db07_476410.0,LAB,db07,476410.0,DB07 industry classification: 476410.0,enhanced_english,medium,english
+LAB_db07_476420,LAB,db07,476420,DB07 industry classification: 476420,enhanced_english,medium,english
+LAB_db07_476420.0,LAB,db07,476420.0,DB07 industry classification: 476420.0,enhanced_english,medium,english
+LAB_db07_476430,LAB,db07,476430,DB07 industry classification: 476430,enhanced_english,medium,english
+LAB_db07_476430.0,LAB,db07,476430.0,DB07 industry classification: 476430.0,enhanced_english,medium,english
+LAB_db07_476500,LAB,db07,476500,DB07 industry classification: 476500,enhanced_english,medium,english
+LAB_db07_476500.0,LAB,db07,476500.0,DB07 industry classification: 476500.0,enhanced_english,medium,english
+LAB_db07_477,LAB,db07,477,Detailhandel med andre varer i specialforretninger,pt_dictionaries,highest,danish
+LAB_db07_477100.0,LAB,db07,477100.0,DB07 industry classification: 477100.0,enhanced_english,medium,english
+LAB_db07_477110,LAB,db07,477110,DB07 industry classification: 477110,enhanced_english,medium,english
+LAB_db07_477110.0,LAB,db07,477110.0,DB07 industry classification: 477110.0,enhanced_english,medium,english
+LAB_db07_477120,LAB,db07,477120,DB07 industry classification: 477120,enhanced_english,medium,english
+LAB_db07_477120.0,LAB,db07,477120.0,DB07 industry classification: 477120.0,enhanced_english,medium,english
+LAB_db07_477210,LAB,db07,477210,DB07 industry classification: 477210,enhanced_english,medium,english
+LAB_db07_477210.0,LAB,db07,477210.0,DB07 industry classification: 477210.0,enhanced_english,medium,english
+LAB_db07_477220,LAB,db07,477220,DB07 industry classification: 477220,enhanced_english,medium,english
+LAB_db07_477220.0,LAB,db07,477220.0,DB07 industry classification: 477220.0,enhanced_english,medium,english
+LAB_db07_477300,LAB,db07,477300,DB07 industry classification: 477300,enhanced_english,medium,english
+LAB_db07_477300.0,LAB,db07,477300.0,DB07 industry classification: 477300.0,enhanced_english,medium,english
+LAB_db07_477400,LAB,db07,477400,DB07 industry classification: 477400,enhanced_english,medium,english
+LAB_db07_477400.0,LAB,db07,477400.0,DB07 industry classification: 477400.0,enhanced_english,medium,english
+LAB_db07_477500,LAB,db07,477500,DB07 industry classification: 477500,enhanced_english,medium,english
+LAB_db07_477500.0,LAB,db07,477500.0,DB07 industry classification: 477500.0,enhanced_english,medium,english
+LAB_db07_477610,LAB,db07,477610,DB07 industry classification: 477610,enhanced_english,medium,english
+LAB_db07_477610.0,LAB,db07,477610.0,DB07 industry classification: 477610.0,enhanced_english,medium,english
+LAB_db07_477620,LAB,db07,477620,DB07 industry classification: 477620,enhanced_english,medium,english
+LAB_db07_477620.0,LAB,db07,477620.0,DB07 industry classification: 477620.0,enhanced_english,medium,english
+LAB_db07_477630,LAB,db07,477630,DB07 industry classification: 477630,enhanced_english,medium,english
+LAB_db07_477630.0,LAB,db07,477630.0,DB07 industry classification: 477630.0,enhanced_english,medium,english
+LAB_db07_477700,LAB,db07,477700,DB07 industry classification: 477700,enhanced_english,medium,english
+LAB_db07_477700.0,LAB,db07,477700.0,DB07 industry classification: 477700.0,enhanced_english,medium,english
+LAB_db07_477810,LAB,db07,477810,DB07 industry classification: 477810,enhanced_english,medium,english
+LAB_db07_477810.0,LAB,db07,477810.0,DB07 industry classification: 477810.0,enhanced_english,medium,english
+LAB_db07_477820,LAB,db07,477820,DB07 industry classification: 477820,enhanced_english,medium,english
+LAB_db07_477820.0,LAB,db07,477820.0,DB07 industry classification: 477820.0,enhanced_english,medium,english
+LAB_db07_477830,LAB,db07,477830,DB07 industry classification: 477830,enhanced_english,medium,english
+LAB_db07_477830.0,LAB,db07,477830.0,DB07 industry classification: 477830.0,enhanced_english,medium,english
+LAB_db07_477840,LAB,db07,477840,DB07 industry classification: 477840,enhanced_english,medium,english
+LAB_db07_477840.0,LAB,db07,477840.0,DB07 industry classification: 477840.0,enhanced_english,medium,english
+LAB_db07_477890,LAB,db07,477890,DB07 industry classification: 477890,enhanced_english,medium,english
+LAB_db07_477890.0,LAB,db07,477890.0,DB07 industry classification: 477890.0,enhanced_english,medium,english
+LAB_db07_477900,LAB,db07,477900,DB07 industry classification: 477900,enhanced_english,medium,english
+LAB_db07_477900.0,LAB,db07,477900.0,DB07 industry classification: 477900.0,enhanced_english,medium,english
+LAB_db07_478,LAB,db07,478,Detailhandel fra stadepladser og markeder,pt_dictionaries,highest,danish
+LAB_db07_478100,LAB,db07,478100,DB07 industry classification: 478100,enhanced_english,medium,english
+LAB_db07_478100.0,LAB,db07,478100.0,DB07 industry classification: 478100.0,enhanced_english,medium,english
+LAB_db07_478200,LAB,db07,478200,DB07 industry classification: 478200,enhanced_english,medium,english
+LAB_db07_478200.0,LAB,db07,478200.0,DB07 industry classification: 478200.0,enhanced_english,medium,english
+LAB_db07_478900,LAB,db07,478900,DB07 industry classification: 478900,enhanced_english,medium,english
+LAB_db07_478900.0,LAB,db07,478900.0,DB07 industry classification: 478900.0,enhanced_english,medium,english
+LAB_db07_479,LAB,db07,479,"Detailhandel undtagen fra forretninger, stadepladser og markeder",pt_dictionaries,highest,danish
+LAB_db07_479110,LAB,db07,479110,DB07 industry classification: 479110,enhanced_english,medium,english
+LAB_db07_479110.0,LAB,db07,479110.0,DB07 industry classification: 479110.0,enhanced_english,medium,english
+LAB_db07_479111,LAB,db07,479111,DB07 industry classification: 479111,enhanced_english,medium,english
+LAB_db07_479111.0,LAB,db07,479111.0,DB07 industry classification: 479111.0,enhanced_english,medium,english
+LAB_db07_479112,LAB,db07,479112,DB07 industry classification: 479112,enhanced_english,medium,english
+LAB_db07_479112.0,LAB,db07,479112.0,DB07 industry classification: 479112.0,enhanced_english,medium,english
+LAB_db07_479113,LAB,db07,479113,DB07 industry classification: 479113,enhanced_english,medium,english
+LAB_db07_479113.0,LAB,db07,479113.0,DB07 industry classification: 479113.0,enhanced_english,medium,english
+LAB_db07_479114,LAB,db07,479114,DB07 industry classification: 479114,enhanced_english,medium,english
+LAB_db07_479114.0,LAB,db07,479114.0,DB07 industry classification: 479114.0,enhanced_english,medium,english
+LAB_db07_479115,LAB,db07,479115,DB07 industry classification: 479115,enhanced_english,medium,english
+LAB_db07_479115.0,LAB,db07,479115.0,DB07 industry classification: 479115.0,enhanced_english,medium,english
+LAB_db07_479116,LAB,db07,479116,DB07 industry classification: 479116,enhanced_english,medium,english
+LAB_db07_479116.0,LAB,db07,479116.0,DB07 industry classification: 479116.0,enhanced_english,medium,english
+LAB_db07_479117,LAB,db07,479117,DB07 industry classification: 479117,enhanced_english,medium,english
+LAB_db07_479117.0,LAB,db07,479117.0,DB07 industry classification: 479117.0,enhanced_english,medium,english
+LAB_db07_479119,LAB,db07,479119,DB07 industry classification: 479119,enhanced_english,medium,english
+LAB_db07_479119.0,LAB,db07,479119.0,DB07 industry classification: 479119.0,enhanced_english,medium,english
+LAB_db07_479120,LAB,db07,479120,DB07 industry classification: 479120,enhanced_english,medium,english
+LAB_db07_479120.0,LAB,db07,479120.0,DB07 industry classification: 479120.0,enhanced_english,medium,english
+LAB_db07_479900,LAB,db07,479900,DB07 industry classification: 479900,enhanced_english,medium,english
+LAB_db07_479900.0,LAB,db07,479900.0,DB07 industry classification: 479900.0,enhanced_english,medium,english
+LAB_db07_491,LAB,db07,491,Passagertransport med regional- eller fjerntog,pt_dictionaries,highest,danish
+LAB_db07_491000,LAB,db07,491000,DB07 industry classification: 491000,enhanced_english,medium,english
+LAB_db07_491000.0,LAB,db07,491000.0,DB07 industry classification: 491000.0,enhanced_english,medium,english
+LAB_db07_492,LAB,db07,492,Godstransport med tog,pt_dictionaries,highest,danish
+LAB_db07_492000,LAB,db07,492000,DB07 industry classification: 492000,enhanced_english,medium,english
+LAB_db07_492000.0,LAB,db07,492000.0,DB07 industry classification: 492000.0,enhanced_english,medium,english
+LAB_db07_493,LAB,db07,493,Anden landpassagertransport,pt_dictionaries,highest,danish
+LAB_db07_493110,LAB,db07,493110,DB07 industry classification: 493110,enhanced_english,medium,english
+LAB_db07_493110.0,LAB,db07,493110.0,DB07 industry classification: 493110.0,enhanced_english,medium,english
+LAB_db07_493120,LAB,db07,493120,DB07 industry classification: 493120,enhanced_english,medium,english
+LAB_db07_493120.0,LAB,db07,493120.0,DB07 industry classification: 493120.0,enhanced_english,medium,english
+LAB_db07_493200,LAB,db07,493200,DB07 industry classification: 493200,enhanced_english,medium,english
+LAB_db07_493200.0,LAB,db07,493200.0,DB07 industry classification: 493200.0,enhanced_english,medium,english
+LAB_db07_493910,LAB,db07,493910,DB07 industry classification: 493910,enhanced_english,medium,english
+LAB_db07_493910.0,LAB,db07,493910.0,DB07 industry classification: 493910.0,enhanced_english,medium,english
+LAB_db07_493920,LAB,db07,493920,DB07 industry classification: 493920,enhanced_english,medium,english
+LAB_db07_493920.0,LAB,db07,493920.0,DB07 industry classification: 493920.0,enhanced_english,medium,english
+LAB_db07_494,LAB,db07,494,Vejgodstransport og flytning,pt_dictionaries,highest,danish
+LAB_db07_494100,LAB,db07,494100,DB07 industry classification: 494100,enhanced_english,medium,english
+LAB_db07_494100.0,LAB,db07,494100.0,DB07 industry classification: 494100.0,enhanced_english,medium,english
+LAB_db07_494200,LAB,db07,494200,DB07 industry classification: 494200,enhanced_english,medium,english
+LAB_db07_494200.0,LAB,db07,494200.0,DB07 industry classification: 494200.0,enhanced_english,medium,english
+LAB_db07_495,LAB,db07,495,Rørtransport,pt_dictionaries,highest,danish
+LAB_db07_495000,LAB,db07,495000,DB07 industry classification: 495000,enhanced_english,medium,english
+LAB_db07_495000.0,LAB,db07,495000.0,DB07 industry classification: 495000.0,enhanced_english,medium,english
+LAB_db07_501,LAB,db07,501,Sø- og kysttransport af passagerer,pt_dictionaries,highest,danish
+LAB_db07_501000,LAB,db07,501000,DB07 industry classification: 501000,enhanced_english,medium,english
+LAB_db07_501000.0,LAB,db07,501000.0,DB07 industry classification: 501000.0,enhanced_english,medium,english
+LAB_db07_502,LAB,db07,502,Sø- og kysttransport af gods,pt_dictionaries,highest,danish
+LAB_db07_502000,LAB,db07,502000,DB07 industry classification: 502000,enhanced_english,medium,english
+LAB_db07_502000.0,LAB,db07,502000.0,DB07 industry classification: 502000.0,enhanced_english,medium,english
+LAB_db07_503,LAB,db07,503,Transport af passagerer ad indre vandveje,pt_dictionaries,highest,danish
+LAB_db07_503000,LAB,db07,503000,DB07 industry classification: 503000,enhanced_english,medium,english
+LAB_db07_503000.0,LAB,db07,503000.0,DB07 industry classification: 503000.0,enhanced_english,medium,english
+LAB_db07_504,LAB,db07,504,Transport af gods ad indre vandveje,pt_dictionaries,highest,danish
+LAB_db07_504000,LAB,db07,504000,DB07 industry classification: 504000,enhanced_english,medium,english
+LAB_db07_504000.0,LAB,db07,504000.0,DB07 industry classification: 504000.0,enhanced_english,medium,english
+LAB_db07_511,LAB,db07,511,Lufttransport af passagerer,pt_dictionaries,highest,danish
+LAB_db07_511010,LAB,db07,511010,DB07 industry classification: 511010,enhanced_english,medium,english
+LAB_db07_511010.0,LAB,db07,511010.0,DB07 industry classification: 511010.0,enhanced_english,medium,english
+LAB_db07_511020,LAB,db07,511020,DB07 industry classification: 511020,enhanced_english,medium,english
+LAB_db07_511020.0,LAB,db07,511020.0,DB07 industry classification: 511020.0,enhanced_english,medium,english
+LAB_db07_512,LAB,db07,512,Lufttransport af gods og rumfart,pt_dictionaries,highest,danish
+LAB_db07_512100,LAB,db07,512100,DB07 industry classification: 512100,enhanced_english,medium,english
+LAB_db07_512100.0,LAB,db07,512100.0,DB07 industry classification: 512100.0,enhanced_english,medium,english
+LAB_db07_512200,LAB,db07,512200,DB07 industry classification: 512200,enhanced_english,medium,english
+LAB_db07_512200.0,LAB,db07,512200.0,DB07 industry classification: 512200.0,enhanced_english,medium,english
+LAB_db07_514620.0,LAB,db07,514620.0,DB07 industry classification: 514620.0,enhanced_english,medium,english
+LAB_db07_521,LAB,db07,521,Oplagrings- og pakhusvirksomhed,pt_dictionaries,highest,danish
+LAB_db07_521000,LAB,db07,521000,DB07 industry classification: 521000,enhanced_english,medium,english
+LAB_db07_521000.0,LAB,db07,521000.0,DB07 industry classification: 521000.0,enhanced_english,medium,english
+LAB_db07_522,LAB,db07,522,Anden hjælpevirksomhed i forbindelse med transport,pt_dictionaries,highest,danish
+LAB_db07_522110,LAB,db07,522110,DB07 industry classification: 522110,enhanced_english,medium,english
+LAB_db07_522110.0,LAB,db07,522110.0,DB07 industry classification: 522110.0,enhanced_english,medium,english
+LAB_db07_522120,LAB,db07,522120,DB07 industry classification: 522120,enhanced_english,medium,english
+LAB_db07_522120.0,LAB,db07,522120.0,DB07 industry classification: 522120.0,enhanced_english,medium,english
+LAB_db07_522130,LAB,db07,522130,DB07 industry classification: 522130,enhanced_english,medium,english
+LAB_db07_522130.0,LAB,db07,522130.0,DB07 industry classification: 522130.0,enhanced_english,medium,english
+LAB_db07_522210,LAB,db07,522210,DB07 industry classification: 522210,enhanced_english,medium,english
+LAB_db07_522210.0,LAB,db07,522210.0,DB07 industry classification: 522210.0,enhanced_english,medium,english
+LAB_db07_522220,LAB,db07,522220,DB07 industry classification: 522220,enhanced_english,medium,english
+LAB_db07_522220.0,LAB,db07,522220.0,DB07 industry classification: 522220.0,enhanced_english,medium,english
+LAB_db07_522300,LAB,db07,522300,DB07 industry classification: 522300,enhanced_english,medium,english
+LAB_db07_522300.0,LAB,db07,522300.0,DB07 industry classification: 522300.0,enhanced_english,medium,english
+LAB_db07_522400,LAB,db07,522400,DB07 industry classification: 522400,enhanced_english,medium,english
+LAB_db07_522400.0,LAB,db07,522400.0,DB07 industry classification: 522400.0,enhanced_english,medium,english
+LAB_db07_522910,LAB,db07,522910,DB07 industry classification: 522910,enhanced_english,medium,english
+LAB_db07_522910.0,LAB,db07,522910.0,DB07 industry classification: 522910.0,enhanced_english,medium,english
+LAB_db07_522920,LAB,db07,522920,DB07 industry classification: 522920,enhanced_english,medium,english
+LAB_db07_522920.0,LAB,db07,522920.0,DB07 industry classification: 522920.0,enhanced_english,medium,english
+LAB_db07_522990,LAB,db07,522990,DB07 industry classification: 522990,enhanced_english,medium,english
+LAB_db07_522990.0,LAB,db07,522990.0,DB07 industry classification: 522990.0,enhanced_english,medium,english
+LAB_db07_531,LAB,db07,531,Posttjenester omfattet af forsyningspligten,pt_dictionaries,highest,danish
+LAB_db07_531000,LAB,db07,531000,DB07 industry classification: 531000,enhanced_english,medium,english
+LAB_db07_531000.0,LAB,db07,531000.0,DB07 industry classification: 531000.0,enhanced_english,medium,english
+LAB_db07_532,LAB,db07,532,Andre post- og kurertjenester,pt_dictionaries,highest,danish
+LAB_db07_532000,LAB,db07,532000,DB07 industry classification: 532000,enhanced_english,medium,english
+LAB_db07_532000.0,LAB,db07,532000.0,DB07 industry classification: 532000.0,enhanced_english,medium,english
+LAB_db07_551,LAB,db07,551,Hoteller og lignende overnatningsfaciliteter,pt_dictionaries,highest,danish
+LAB_db07_551010,LAB,db07,551010,DB07 industry classification: 551010,enhanced_english,medium,english
+LAB_db07_551010.0,LAB,db07,551010.0,DB07 industry classification: 551010.0,enhanced_english,medium,english
+LAB_db07_551020,LAB,db07,551020,DB07 industry classification: 551020,enhanced_english,medium,english
+LAB_db07_551020.0,LAB,db07,551020.0,DB07 industry classification: 551020.0,enhanced_english,medium,english
+LAB_db07_552,LAB,db07,552,Ferieboliger og andre indlogeringsfaciliteter til kortvarige ophold,pt_dictionaries,highest,danish
+LAB_db07_552000,LAB,db07,552000,DB07 industry classification: 552000,enhanced_english,medium,english
+LAB_db07_552000.0,LAB,db07,552000.0,DB07 industry classification: 552000.0,enhanced_english,medium,english
+LAB_db07_553,LAB,db07,553,Campingpladser,pt_dictionaries,highest,danish
+LAB_db07_553000,LAB,db07,553000,DB07 industry classification: 553000,enhanced_english,medium,english
+LAB_db07_553000.0,LAB,db07,553000.0,DB07 industry classification: 553000.0,enhanced_english,medium,english
+LAB_db07_559,LAB,db07,559,Andre overnatningsfaciliteter,pt_dictionaries,highest,danish
+LAB_db07_559000,LAB,db07,559000,DB07 industry classification: 559000,enhanced_english,medium,english
+LAB_db07_559000.0,LAB,db07,559000.0,DB07 industry classification: 559000.0,enhanced_english,medium,english
+LAB_db07_561,LAB,db07,561,Restauranter og levering af mad ud af huset,pt_dictionaries,highest,danish
+LAB_db07_561010,LAB,db07,561010,DB07 industry classification: 561010,enhanced_english,medium,english
+LAB_db07_561010.0,LAB,db07,561010.0,DB07 industry classification: 561010.0,enhanced_english,medium,english
+LAB_db07_561020,LAB,db07,561020,DB07 industry classification: 561020,enhanced_english,medium,english
+LAB_db07_561020.0,LAB,db07,561020.0,DB07 industry classification: 561020.0,enhanced_english,medium,english
+LAB_db07_562,LAB,db07,562,Event catering og anden restaurationsvirksomhed,pt_dictionaries,highest,danish
+LAB_db07_562100,LAB,db07,562100,DB07 industry classification: 562100,enhanced_english,medium,english
+LAB_db07_562100.0,LAB,db07,562100.0,DB07 industry classification: 562100.0,enhanced_english,medium,english
+LAB_db07_562900,LAB,db07,562900,DB07 industry classification: 562900,enhanced_english,medium,english
+LAB_db07_562900.0,LAB,db07,562900.0,DB07 industry classification: 562900.0,enhanced_english,medium,english
+LAB_db07_563,LAB,db07,563,"Cafeér, værtshuse, diskoteker mv.",pt_dictionaries,highest,danish
+LAB_db07_563000,LAB,db07,563000,DB07 industry classification: 563000,enhanced_english,medium,english
+LAB_db07_563000.0,LAB,db07,563000.0,DB07 industry classification: 563000.0,enhanced_english,medium,english
+LAB_db07_581,LAB,db07,581,"Udgivelse af bøger, tidsskrifter og anden udgivervirksomhed",pt_dictionaries,highest,danish
+LAB_db07_581100,LAB,db07,581100,DB07 industry classification: 581100,enhanced_english,medium,english
+LAB_db07_581100.0,LAB,db07,581100.0,DB07 industry classification: 581100.0,enhanced_english,medium,english
+LAB_db07_581200,LAB,db07,581200,DB07 industry classification: 581200,enhanced_english,medium,english
+LAB_db07_581200.0,LAB,db07,581200.0,DB07 industry classification: 581200.0,enhanced_english,medium,english
+LAB_db07_581300,LAB,db07,581300,DB07 industry classification: 581300,enhanced_english,medium,english
+LAB_db07_581300.0,LAB,db07,581300.0,DB07 industry classification: 581300.0,enhanced_english,medium,english
+LAB_db07_581410,LAB,db07,581410,DB07 industry classification: 581410,enhanced_english,medium,english
+LAB_db07_581410.0,LAB,db07,581410.0,DB07 industry classification: 581410.0,enhanced_english,medium,english
+LAB_db07_581420,LAB,db07,581420,DB07 industry classification: 581420,enhanced_english,medium,english
+LAB_db07_581420.0,LAB,db07,581420.0,DB07 industry classification: 581420.0,enhanced_english,medium,english
+LAB_db07_581900,LAB,db07,581900,DB07 industry classification: 581900,enhanced_english,medium,english
+LAB_db07_581900.0,LAB,db07,581900.0,DB07 industry classification: 581900.0,enhanced_english,medium,english
+LAB_db07_582,LAB,db07,582,Udgivelse af software,pt_dictionaries,highest,danish
+LAB_db07_582100,LAB,db07,582100,DB07 industry classification: 582100,enhanced_english,medium,english
+LAB_db07_582100.0,LAB,db07,582100.0,DB07 industry classification: 582100.0,enhanced_english,medium,english
+LAB_db07_582900,LAB,db07,582900,DB07 industry classification: 582900,enhanced_english,medium,english
+LAB_db07_582900.0,LAB,db07,582900.0,DB07 industry classification: 582900.0,enhanced_english,medium,english
+LAB_db07_591,LAB,db07,591,"Produktion af film, video- og tv-programmer",pt_dictionaries,highest,danish
+LAB_db07_591110,LAB,db07,591110,DB07 industry classification: 591110,enhanced_english,medium,english
+LAB_db07_591110.0,LAB,db07,591110.0,DB07 industry classification: 591110.0,enhanced_english,medium,english
+LAB_db07_591120,LAB,db07,591120,DB07 industry classification: 591120,enhanced_english,medium,english
+LAB_db07_591120.0,LAB,db07,591120.0,DB07 industry classification: 591120.0,enhanced_english,medium,english
+LAB_db07_591200,LAB,db07,591200,DB07 industry classification: 591200,enhanced_english,medium,english
+LAB_db07_591200.0,LAB,db07,591200.0,DB07 industry classification: 591200.0,enhanced_english,medium,english
+LAB_db07_591300,LAB,db07,591300,DB07 industry classification: 591300,enhanced_english,medium,english
+LAB_db07_591300.0,LAB,db07,591300.0,DB07 industry classification: 591300.0,enhanced_english,medium,english
+LAB_db07_591400,LAB,db07,591400,DB07 industry classification: 591400,enhanced_english,medium,english
+LAB_db07_591400.0,LAB,db07,591400.0,DB07 industry classification: 591400.0,enhanced_english,medium,english
+LAB_db07_592,LAB,db07,592,Indspilning af lydoptagelser og udgivelse af musik,pt_dictionaries,highest,danish
+LAB_db07_592000,LAB,db07,592000,DB07 industry classification: 592000,enhanced_english,medium,english
+LAB_db07_592000.0,LAB,db07,592000.0,DB07 industry classification: 592000.0,enhanced_english,medium,english
+LAB_db07_601,LAB,db07,601,Radiovirksomhed,pt_dictionaries,highest,danish
+LAB_db07_601000,LAB,db07,601000,DB07 industry classification: 601000,enhanced_english,medium,english
+LAB_db07_601000.0,LAB,db07,601000.0,DB07 industry classification: 601000.0,enhanced_english,medium,english
+LAB_db07_602,LAB,db07,602,Tv-virksomhed,pt_dictionaries,highest,danish
+LAB_db07_602000,LAB,db07,602000,DB07 industry classification: 602000,enhanced_english,medium,english
+LAB_db07_602000.0,LAB,db07,602000.0,DB07 industry classification: 602000.0,enhanced_english,medium,english
+LAB_db07_61000,LAB,db07,61000,DB07 industry classification: 61000,enhanced_english,medium,english
+LAB_db07_61000.0,LAB,db07,61000.0,DB07 industry classification: 61000.0,enhanced_english,medium,english
+LAB_db07_611,LAB,db07,611,Fastnetbaseret telekommunikation,pt_dictionaries,highest,danish
+LAB_db07_611000,LAB,db07,611000,DB07 industry classification: 611000,enhanced_english,medium,english
+LAB_db07_611000.0,LAB,db07,611000.0,DB07 industry classification: 611000.0,enhanced_english,medium,english
+LAB_db07_612,LAB,db07,612,Trådløs telekommunikation,pt_dictionaries,highest,danish
+LAB_db07_612000,LAB,db07,612000,DB07 industry classification: 612000,enhanced_english,medium,english
+LAB_db07_612000.0,LAB,db07,612000.0,DB07 industry classification: 612000.0,enhanced_english,medium,english
+LAB_db07_613,LAB,db07,613,Satellitbaseret telekommunikation,pt_dictionaries,highest,danish
+LAB_db07_613000,LAB,db07,613000,DB07 industry classification: 613000,enhanced_english,medium,english
+LAB_db07_613000.0,LAB,db07,613000.0,DB07 industry classification: 613000.0,enhanced_english,medium,english
+LAB_db07_619,LAB,db07,619,Anden telekommunikation,pt_dictionaries,highest,danish
+LAB_db07_619000,LAB,db07,619000,DB07 industry classification: 619000,enhanced_english,medium,english
+LAB_db07_619000.0,LAB,db07,619000.0,DB07 industry classification: 619000.0,enhanced_english,medium,english
+LAB_db07_620,LAB,db07,620,"Computerprogrammering, konsulentbistand vedrørende informationsteknologi og lignende aktiviteter",pt_dictionaries,highest,danish
+LAB_db07_62000,LAB,db07,62000,DB07 industry classification: 62000,enhanced_english,medium,english
+LAB_db07_62000.0,LAB,db07,62000.0,DB07 industry classification: 62000.0,enhanced_english,medium,english
+LAB_db07_620100,LAB,db07,620100,DB07 industry classification: 620100,enhanced_english,medium,english
+LAB_db07_620100.0,LAB,db07,620100.0,DB07 industry classification: 620100.0,enhanced_english,medium,english
+LAB_db07_620200,LAB,db07,620200,DB07 industry classification: 620200,enhanced_english,medium,english
+LAB_db07_620200.0,LAB,db07,620200.0,DB07 industry classification: 620200.0,enhanced_english,medium,english
+LAB_db07_620300,LAB,db07,620300,DB07 industry classification: 620300,enhanced_english,medium,english
+LAB_db07_620300.0,LAB,db07,620300.0,DB07 industry classification: 620300.0,enhanced_english,medium,english
+LAB_db07_620900,LAB,db07,620900,DB07 industry classification: 620900,enhanced_english,medium,english
+LAB_db07_620900.0,LAB,db07,620900.0,DB07 industry classification: 620900.0,enhanced_english,medium,english
+LAB_db07_631,LAB,db07,631,"Databehandling, webhosting og lignende serviceydelser; webportaler",pt_dictionaries,highest,danish
+LAB_db07_631100,LAB,db07,631100,DB07 industry classification: 631100,enhanced_english,medium,english
+LAB_db07_631100.0,LAB,db07,631100.0,DB07 industry classification: 631100.0,enhanced_english,medium,english
+LAB_db07_631200,LAB,db07,631200,DB07 industry classification: 631200,enhanced_english,medium,english
+LAB_db07_631200.0,LAB,db07,631200.0,DB07 industry classification: 631200.0,enhanced_english,medium,english
+LAB_db07_639,LAB,db07,639,Andre informationstjenester,pt_dictionaries,highest,danish
+LAB_db07_639100,LAB,db07,639100,DB07 industry classification: 639100,enhanced_english,medium,english
+LAB_db07_639100.0,LAB,db07,639100.0,DB07 industry classification: 639100.0,enhanced_english,medium,english
+LAB_db07_639900,LAB,db07,639900,DB07 industry classification: 639900,enhanced_english,medium,english
+LAB_db07_639900.0,LAB,db07,639900.0,DB07 industry classification: 639900.0,enhanced_english,medium,english
+LAB_db07_641,LAB,db07,641,Pengeinstitutvirksomhed,pt_dictionaries,highest,danish
+LAB_db07_641100,LAB,db07,641100,DB07 industry classification: 641100,enhanced_english,medium,english
+LAB_db07_641100.0,LAB,db07,641100.0,DB07 industry classification: 641100.0,enhanced_english,medium,english
+LAB_db07_641900,LAB,db07,641900,DB07 industry classification: 641900,enhanced_english,medium,english
+LAB_db07_641900.0,LAB,db07,641900.0,DB07 industry classification: 641900.0,enhanced_english,medium,english
+LAB_db07_642,LAB,db07,642,Holdingselskabers virksomhed,pt_dictionaries,highest,danish
+LAB_db07_642010,LAB,db07,642010,DB07 industry classification: 642010,enhanced_english,medium,english
+LAB_db07_642010.0,LAB,db07,642010.0,DB07 industry classification: 642010.0,enhanced_english,medium,english
+LAB_db07_642020,LAB,db07,642020,DB07 industry classification: 642020,enhanced_english,medium,english
+LAB_db07_642020.0,LAB,db07,642020.0,DB07 industry classification: 642020.0,enhanced_english,medium,english
+LAB_db07_642030,LAB,db07,642030,DB07 industry classification: 642030,enhanced_english,medium,english
+LAB_db07_642030.0,LAB,db07,642030.0,DB07 industry classification: 642030.0,enhanced_english,medium,english
+LAB_db07_643,LAB,db07,643,"Investeringsforeninger, investeringsselskaber o.l.",pt_dictionaries,highest,danish
+LAB_db07_643010,LAB,db07,643010,DB07 industry classification: 643010,enhanced_english,medium,english
+LAB_db07_643010.0,LAB,db07,643010.0,DB07 industry classification: 643010.0,enhanced_english,medium,english
+LAB_db07_643020,LAB,db07,643020,DB07 industry classification: 643020,enhanced_english,medium,english
+LAB_db07_643020.0,LAB,db07,643020.0,DB07 industry classification: 643020.0,enhanced_english,medium,english
+LAB_db07_643030,LAB,db07,643030,DB07 industry classification: 643030,enhanced_english,medium,english
+LAB_db07_643030.0,LAB,db07,643030.0,DB07 industry classification: 643030.0,enhanced_english,medium,english
+LAB_db07_643040,LAB,db07,643040,DB07 industry classification: 643040,enhanced_english,medium,english
+LAB_db07_643040.0,LAB,db07,643040.0,DB07 industry classification: 643040.0,enhanced_english,medium,english
+LAB_db07_649,LAB,db07,649,"Anden finansiel formidling, undtagen forsikring og pensionsforsikring",pt_dictionaries,highest,danish
+LAB_db07_649100,LAB,db07,649100,DB07 industry classification: 649100,enhanced_english,medium,english
+LAB_db07_649100.0,LAB,db07,649100.0,DB07 industry classification: 649100.0,enhanced_english,medium,english
+LAB_db07_649210,LAB,db07,649210,DB07 industry classification: 649210,enhanced_english,medium,english
+LAB_db07_649210.0,LAB,db07,649210.0,DB07 industry classification: 649210.0,enhanced_english,medium,english
+LAB_db07_649220,LAB,db07,649220,DB07 industry classification: 649220,enhanced_english,medium,english
+LAB_db07_649220.0,LAB,db07,649220.0,DB07 industry classification: 649220.0,enhanced_english,medium,english
+LAB_db07_649230,LAB,db07,649230,DB07 industry classification: 649230,enhanced_english,medium,english
+LAB_db07_649230.0,LAB,db07,649230.0,DB07 industry classification: 649230.0,enhanced_english,medium,english
+LAB_db07_649240,LAB,db07,649240,DB07 industry classification: 649240,enhanced_english,medium,english
+LAB_db07_649240.0,LAB,db07,649240.0,DB07 industry classification: 649240.0,enhanced_english,medium,english
+LAB_db07_649900,LAB,db07,649900,DB07 industry classification: 649900,enhanced_english,medium,english
+LAB_db07_649900.0,LAB,db07,649900.0,DB07 industry classification: 649900.0,enhanced_english,medium,english
+LAB_db07_651,LAB,db07,651,Forsikring,pt_dictionaries,highest,danish
+LAB_db07_651100,LAB,db07,651100,DB07 industry classification: 651100,enhanced_english,medium,english
+LAB_db07_651100.0,LAB,db07,651100.0,DB07 industry classification: 651100.0,enhanced_english,medium,english
+LAB_db07_651200,LAB,db07,651200,DB07 industry classification: 651200,enhanced_english,medium,english
+LAB_db07_651200.0,LAB,db07,651200.0,DB07 industry classification: 651200.0,enhanced_english,medium,english
+LAB_db07_652,LAB,db07,652,Genforsikring,pt_dictionaries,highest,danish
+LAB_db07_652000,LAB,db07,652000,DB07 industry classification: 652000,enhanced_english,medium,english
+LAB_db07_652000.0,LAB,db07,652000.0,DB07 industry classification: 652000.0,enhanced_english,medium,english
+LAB_db07_653,LAB,db07,653,Pensionsforsikring,pt_dictionaries,highest,danish
+LAB_db07_653010,LAB,db07,653010,DB07 industry classification: 653010,enhanced_english,medium,english
+LAB_db07_653010.0,LAB,db07,653010.0,DB07 industry classification: 653010.0,enhanced_english,medium,english
+LAB_db07_653020,LAB,db07,653020,DB07 industry classification: 653020,enhanced_english,medium,english
+LAB_db07_653020.0,LAB,db07,653020.0,DB07 industry classification: 653020.0,enhanced_english,medium,english
+LAB_db07_661,LAB,db07,661,Hjælpetjenester i forbindelse med finansieringsvirksomhed undtagen forsikring og pensionsforsikring,pt_dictionaries,highest,danish
+LAB_db07_661100,LAB,db07,661100,DB07 industry classification: 661100,enhanced_english,medium,english
+LAB_db07_661100.0,LAB,db07,661100.0,DB07 industry classification: 661100.0,enhanced_english,medium,english
+LAB_db07_661200,LAB,db07,661200,DB07 industry classification: 661200,enhanced_english,medium,english
+LAB_db07_661200.0,LAB,db07,661200.0,DB07 industry classification: 661200.0,enhanced_english,medium,english
+LAB_db07_661900,LAB,db07,661900,DB07 industry classification: 661900,enhanced_english,medium,english
+LAB_db07_661900.0,LAB,db07,661900.0,DB07 industry classification: 661900.0,enhanced_english,medium,english
+LAB_db07_662,LAB,db07,662,Hjælpetjenester i forbindelse med forsikring og pensionsforsikring,pt_dictionaries,highest,danish
+LAB_db07_662100,LAB,db07,662100,DB07 industry classification: 662100,enhanced_english,medium,english
+LAB_db07_662100.0,LAB,db07,662100.0,DB07 industry classification: 662100.0,enhanced_english,medium,english
+LAB_db07_662200,LAB,db07,662200,DB07 industry classification: 662200,enhanced_english,medium,english
+LAB_db07_662200.0,LAB,db07,662200.0,DB07 industry classification: 662200.0,enhanced_english,medium,english
+LAB_db07_662900,LAB,db07,662900,DB07 industry classification: 662900,enhanced_english,medium,english
+LAB_db07_662900.0,LAB,db07,662900.0,DB07 industry classification: 662900.0,enhanced_english,medium,english
+LAB_db07_663,LAB,db07,663,Formueforvaltning,pt_dictionaries,highest,danish
+LAB_db07_663000,LAB,db07,663000,DB07 industry classification: 663000,enhanced_english,medium,english
+LAB_db07_663000.0,LAB,db07,663000.0,DB07 industry classification: 663000.0,enhanced_english,medium,english
+LAB_db07_681,LAB,db07,681,Køb og salg af egen fast ejendom,pt_dictionaries,highest,danish
+LAB_db07_681000,LAB,db07,681000,DB07 industry classification: 681000,enhanced_english,medium,english
+LAB_db07_681000.0,LAB,db07,681000.0,DB07 industry classification: 681000.0,enhanced_english,medium,english
+LAB_db07_682,LAB,db07,682,Udlejning af og virksomhed i forbindelse med egen eller leaset fast ejendom,pt_dictionaries,highest,danish
+LAB_db07_682010,LAB,db07,682010,DB07 industry classification: 682010,enhanced_english,medium,english
+LAB_db07_682010.0,LAB,db07,682010.0,DB07 industry classification: 682010.0,enhanced_english,medium,english
+LAB_db07_682020,LAB,db07,682020,DB07 industry classification: 682020,enhanced_english,medium,english
+LAB_db07_682020.0,LAB,db07,682020.0,DB07 industry classification: 682020.0,enhanced_english,medium,english
+LAB_db07_682030,LAB,db07,682030,DB07 industry classification: 682030,enhanced_english,medium,english
+LAB_db07_682030.0,LAB,db07,682030.0,DB07 industry classification: 682030.0,enhanced_english,medium,english
+LAB_db07_682040,LAB,db07,682040,DB07 industry classification: 682040,enhanced_english,medium,english
+LAB_db07_682040.0,LAB,db07,682040.0,DB07 industry classification: 682040.0,enhanced_english,medium,english
+LAB_db07_683,LAB,db07,683,Virksomhed i forbindelse med fast ejendom på honorar- eller kontraktbasis,pt_dictionaries,highest,danish
+LAB_db07_683110,LAB,db07,683110,DB07 industry classification: 683110,enhanced_english,medium,english
+LAB_db07_683110.0,LAB,db07,683110.0,DB07 industry classification: 683110.0,enhanced_english,medium,english
+LAB_db07_683120,LAB,db07,683120,DB07 industry classification: 683120,enhanced_english,medium,english
+LAB_db07_683120.0,LAB,db07,683120.0,DB07 industry classification: 683120.0,enhanced_english,medium,english
+LAB_db07_683210,LAB,db07,683210,DB07 industry classification: 683210,enhanced_english,medium,english
+LAB_db07_683210.0,LAB,db07,683210.0,DB07 industry classification: 683210.0,enhanced_english,medium,english
+LAB_db07_683220,LAB,db07,683220,DB07 industry classification: 683220,enhanced_english,medium,english
+LAB_db07_683220.0,LAB,db07,683220.0,DB07 industry classification: 683220.0,enhanced_english,medium,english
+LAB_db07_691,LAB,db07,691,Juridisk bistand,pt_dictionaries,highest,danish
+LAB_db07_691000,LAB,db07,691000,DB07 industry classification: 691000,enhanced_english,medium,english
+LAB_db07_691000.0,LAB,db07,691000.0,DB07 industry classification: 691000.0,enhanced_english,medium,english
+LAB_db07_692,LAB,db07,692,Bogføring og revision; skatterådgivning,pt_dictionaries,highest,danish
+LAB_db07_692000,LAB,db07,692000,DB07 industry classification: 692000,enhanced_english,medium,english
+LAB_db07_692000.0,LAB,db07,692000.0,DB07 industry classification: 692000.0,enhanced_english,medium,english
+LAB_db07_701,LAB,db07,701,Hovedsæders virksomhed,pt_dictionaries,highest,danish
+LAB_db07_701010,LAB,db07,701010,DB07 industry classification: 701010,enhanced_english,medium,english
+LAB_db07_701010.0,LAB,db07,701010.0,DB07 industry classification: 701010.0,enhanced_english,medium,english
+LAB_db07_701020,LAB,db07,701020,DB07 industry classification: 701020,enhanced_english,medium,english
+LAB_db07_701020.0,LAB,db07,701020.0,DB07 industry classification: 701020.0,enhanced_english,medium,english
+LAB_db07_702,LAB,db07,702,Virksomhedsrådgivning,pt_dictionaries,highest,danish
+LAB_db07_702010.0,LAB,db07,702010.0,DB07 industry classification: 702010.0,enhanced_english,medium,english
+LAB_db07_702020.0,LAB,db07,702020.0,DB07 industry classification: 702020.0,enhanced_english,medium,english
+LAB_db07_702100,LAB,db07,702100,DB07 industry classification: 702100,enhanced_english,medium,english
+LAB_db07_702100.0,LAB,db07,702100.0,DB07 industry classification: 702100.0,enhanced_english,medium,english
+LAB_db07_702200,LAB,db07,702200,DB07 industry classification: 702200,enhanced_english,medium,english
+LAB_db07_702200.0,LAB,db07,702200.0,DB07 industry classification: 702200.0,enhanced_english,medium,english
+LAB_db07_71000,LAB,db07,71000,DB07 industry classification: 71000,enhanced_english,medium,english
+LAB_db07_71000.0,LAB,db07,71000.0,DB07 industry classification: 71000.0,enhanced_english,medium,english
+LAB_db07_711,LAB,db07,711,Arkitekt- og ingeniørvirksomhed og lignende teknisk rådgivning,pt_dictionaries,highest,danish
+LAB_db07_711100,LAB,db07,711100,DB07 industry classification: 711100,enhanced_english,medium,english
+LAB_db07_711100.0,LAB,db07,711100.0,DB07 industry classification: 711100.0,enhanced_english,medium,english
+LAB_db07_711210,LAB,db07,711210,DB07 industry classification: 711210,enhanced_english,medium,english
+LAB_db07_711210.0,LAB,db07,711210.0,DB07 industry classification: 711210.0,enhanced_english,medium,english
+LAB_db07_711220,LAB,db07,711220,DB07 industry classification: 711220,enhanced_english,medium,english
+LAB_db07_711220.0,LAB,db07,711220.0,DB07 industry classification: 711220.0,enhanced_english,medium,english
+LAB_db07_711230,LAB,db07,711230,DB07 industry classification: 711230,enhanced_english,medium,english
+LAB_db07_711230.0,LAB,db07,711230.0,DB07 industry classification: 711230.0,enhanced_english,medium,english
+LAB_db07_711240,LAB,db07,711240,DB07 industry classification: 711240,enhanced_english,medium,english
+LAB_db07_711240.0,LAB,db07,711240.0,DB07 industry classification: 711240.0,enhanced_english,medium,english
+LAB_db07_711290,LAB,db07,711290,DB07 industry classification: 711290,enhanced_english,medium,english
+LAB_db07_711290.0,LAB,db07,711290.0,DB07 industry classification: 711290.0,enhanced_english,medium,english
+LAB_db07_712,LAB,db07,712,Teknisk afprøvning og analyse,pt_dictionaries,highest,danish
+LAB_db07_712010,LAB,db07,712010,DB07 industry classification: 712010,enhanced_english,medium,english
+LAB_db07_712010.0,LAB,db07,712010.0,DB07 industry classification: 712010.0,enhanced_english,medium,english
+LAB_db07_712020,LAB,db07,712020,DB07 industry classification: 712020,enhanced_english,medium,english
+LAB_db07_712020.0,LAB,db07,712020.0,DB07 industry classification: 712020.0,enhanced_english,medium,english
+LAB_db07_712090,LAB,db07,712090,DB07 industry classification: 712090,enhanced_english,medium,english
+LAB_db07_712090.0,LAB,db07,712090.0,DB07 industry classification: 712090.0,enhanced_english,medium,english
+LAB_db07_721,LAB,db07,721,Forskning og eksperimentel udvikling indenfor naturvidenskab og teknik,pt_dictionaries,highest,danish
+LAB_db07_721100,LAB,db07,721100,DB07 industry classification: 721100,enhanced_english,medium,english
+LAB_db07_721100.0,LAB,db07,721100.0,DB07 industry classification: 721100.0,enhanced_english,medium,english
+LAB_db07_721900,LAB,db07,721900,DB07 industry classification: 721900,enhanced_english,medium,english
+LAB_db07_721900.0,LAB,db07,721900.0,DB07 industry classification: 721900.0,enhanced_english,medium,english
+LAB_db07_722,LAB,db07,722,Forskning og eksperimentel udvikling inden for samfundsvidenskab og humanistiske videnskaber,pt_dictionaries,highest,danish
+LAB_db07_722000,LAB,db07,722000,DB07 industry classification: 722000,enhanced_english,medium,english
+LAB_db07_722000.0,LAB,db07,722000.0,DB07 industry classification: 722000.0,enhanced_english,medium,english
+LAB_db07_72900,LAB,db07,72900,DB07 industry classification: 72900,enhanced_english,medium,english
+LAB_db07_72900.0,LAB,db07,72900.0,DB07 industry classification: 72900.0,enhanced_english,medium,english
+LAB_db07_731,LAB,db07,731,Reklame,pt_dictionaries,highest,danish
+LAB_db07_731110,LAB,db07,731110,DB07 industry classification: 731110,enhanced_english,medium,english
+LAB_db07_731110.0,LAB,db07,731110.0,DB07 industry classification: 731110.0,enhanced_english,medium,english
+LAB_db07_731190,LAB,db07,731190,DB07 industry classification: 731190,enhanced_english,medium,english
+LAB_db07_731190.0,LAB,db07,731190.0,DB07 industry classification: 731190.0,enhanced_english,medium,english
+LAB_db07_731200,LAB,db07,731200,DB07 industry classification: 731200,enhanced_english,medium,english
+LAB_db07_731200.0,LAB,db07,731200.0,DB07 industry classification: 731200.0,enhanced_english,medium,english
+LAB_db07_732,LAB,db07,732,Markedsanalyse og offentlig meningsmåling,pt_dictionaries,highest,danish
+LAB_db07_732000,LAB,db07,732000,DB07 industry classification: 732000,enhanced_english,medium,english
+LAB_db07_732000.0,LAB,db07,732000.0,DB07 industry classification: 732000.0,enhanced_english,medium,english
+LAB_db07_741,LAB,db07,741,Specialiseret designarbejde,pt_dictionaries,highest,danish
+LAB_db07_741010,LAB,db07,741010,DB07 industry classification: 741010,enhanced_english,medium,english
+LAB_db07_741010.0,LAB,db07,741010.0,DB07 industry classification: 741010.0,enhanced_english,medium,english
+LAB_db07_741020,LAB,db07,741020,DB07 industry classification: 741020,enhanced_english,medium,english
+LAB_db07_741020.0,LAB,db07,741020.0,DB07 industry classification: 741020.0,enhanced_english,medium,english
+LAB_db07_741030,LAB,db07,741030,DB07 industry classification: 741030,enhanced_english,medium,english
+LAB_db07_741030.0,LAB,db07,741030.0,DB07 industry classification: 741030.0,enhanced_english,medium,english
+LAB_db07_741490.0,LAB,db07,741490.0,DB07 industry classification: 741490.0,enhanced_english,medium,english
+LAB_db07_742,LAB,db07,742,Fotografisk virksomhed,pt_dictionaries,highest,danish
+LAB_db07_742000,LAB,db07,742000,DB07 industry classification: 742000,enhanced_english,medium,english
+LAB_db07_742000.0,LAB,db07,742000.0,DB07 industry classification: 742000.0,enhanced_english,medium,english
+LAB_db07_743,LAB,db07,743,Oversættelse og tolkning,pt_dictionaries,highest,danish
+LAB_db07_743000,LAB,db07,743000,DB07 industry classification: 743000,enhanced_english,medium,english
+LAB_db07_743000.0,LAB,db07,743000.0,DB07 industry classification: 743000.0,enhanced_english,medium,english
+LAB_db07_749,LAB,db07,749,"Andre liberale, videnskabelige og tekniske tjenesteydelser i.a.n.",pt_dictionaries,highest,danish
+LAB_db07_749010,LAB,db07,749010,DB07 industry classification: 749010,enhanced_english,medium,english
+LAB_db07_749010.0,LAB,db07,749010.0,DB07 industry classification: 749010.0,enhanced_english,medium,english
+LAB_db07_749090,LAB,db07,749090,DB07 industry classification: 749090,enhanced_english,medium,english
+LAB_db07_749090.0,LAB,db07,749090.0,DB07 industry classification: 749090.0,enhanced_english,medium,english
+LAB_db07_750,LAB,db07,750,Dyrlæger,pt_dictionaries,highest,danish
+LAB_db07_750000,LAB,db07,750000,DB07 industry classification: 750000,enhanced_english,medium,english
+LAB_db07_750000.0,LAB,db07,750000.0,DB07 industry classification: 750000.0,enhanced_english,medium,english
+LAB_db07_771,LAB,db07,771,Udlejning og leasing af motorkøretøjer,pt_dictionaries,highest,danish
+LAB_db07_771100,LAB,db07,771100,DB07 industry classification: 771100,enhanced_english,medium,english
+LAB_db07_771100.0,LAB,db07,771100.0,DB07 industry classification: 771100.0,enhanced_english,medium,english
+LAB_db07_771200,LAB,db07,771200,DB07 industry classification: 771200,enhanced_english,medium,english
+LAB_db07_771200.0,LAB,db07,771200.0,DB07 industry classification: 771200.0,enhanced_english,medium,english
+LAB_db07_772,LAB,db07,772,Udlejning og leasing af varer til personligt brug og husholdningsbrug,pt_dictionaries,highest,danish
+LAB_db07_772100,LAB,db07,772100,DB07 industry classification: 772100,enhanced_english,medium,english
+LAB_db07_772100.0,LAB,db07,772100.0,DB07 industry classification: 772100.0,enhanced_english,medium,english
+LAB_db07_772200,LAB,db07,772200,DB07 industry classification: 772200,enhanced_english,medium,english
+LAB_db07_772200.0,LAB,db07,772200.0,DB07 industry classification: 772200.0,enhanced_english,medium,english
+LAB_db07_772900,LAB,db07,772900,DB07 industry classification: 772900,enhanced_english,medium,english
+LAB_db07_772900.0,LAB,db07,772900.0,DB07 industry classification: 772900.0,enhanced_english,medium,english
+LAB_db07_773,LAB,db07,773,"Udlejning og leasing af andet materiel, udstyr og andre materielle aktiver",pt_dictionaries,highest,danish
+LAB_db07_773100,LAB,db07,773100,DB07 industry classification: 773100,enhanced_english,medium,english
+LAB_db07_773100.0,LAB,db07,773100.0,DB07 industry classification: 773100.0,enhanced_english,medium,english
+LAB_db07_773200,LAB,db07,773200,DB07 industry classification: 773200,enhanced_english,medium,english
+LAB_db07_773200.0,LAB,db07,773200.0,DB07 industry classification: 773200.0,enhanced_english,medium,english
+LAB_db07_773300,LAB,db07,773300,DB07 industry classification: 773300,enhanced_english,medium,english
+LAB_db07_773300.0,LAB,db07,773300.0,DB07 industry classification: 773300.0,enhanced_english,medium,english
+LAB_db07_773400,LAB,db07,773400,DB07 industry classification: 773400,enhanced_english,medium,english
+LAB_db07_773400.0,LAB,db07,773400.0,DB07 industry classification: 773400.0,enhanced_english,medium,english
+LAB_db07_773500,LAB,db07,773500,DB07 industry classification: 773500,enhanced_english,medium,english
+LAB_db07_773500.0,LAB,db07,773500.0,DB07 industry classification: 773500.0,enhanced_english,medium,english
+LAB_db07_773900,LAB,db07,773900,DB07 industry classification: 773900,enhanced_english,medium,english
+LAB_db07_773900.0,LAB,db07,773900.0,DB07 industry classification: 773900.0,enhanced_english,medium,english
+LAB_db07_774,LAB,db07,774,"Leasing af intellektuelle ejendomsrettigheder og lignende, dog ikke ophavsretsbeskyttede værker",pt_dictionaries,highest,danish
+LAB_db07_774000,LAB,db07,774000,DB07 industry classification: 774000,enhanced_english,medium,english
+LAB_db07_774000.0,LAB,db07,774000.0,DB07 industry classification: 774000.0,enhanced_english,medium,english
+LAB_db07_781,LAB,db07,781,Arbejdsformidlingskontorer,pt_dictionaries,highest,danish
+LAB_db07_781000,LAB,db07,781000,DB07 industry classification: 781000,enhanced_english,medium,english
+LAB_db07_781000.0,LAB,db07,781000.0,DB07 industry classification: 781000.0,enhanced_english,medium,english
+LAB_db07_782,LAB,db07,782,Vikarbureauer,pt_dictionaries,highest,danish
+LAB_db07_782000,LAB,db07,782000,DB07 industry classification: 782000,enhanced_english,medium,english
+LAB_db07_782000.0,LAB,db07,782000.0,DB07 industry classification: 782000.0,enhanced_english,medium,english
+LAB_db07_783,LAB,db07,783,Anden personaleformidling,pt_dictionaries,highest,danish
+LAB_db07_783000,LAB,db07,783000,DB07 industry classification: 783000,enhanced_english,medium,english
+LAB_db07_783000.0,LAB,db07,783000.0,DB07 industry classification: 783000.0,enhanced_english,medium,english
+LAB_db07_791,LAB,db07,791,Rejsebureauer og rejsearrangører,pt_dictionaries,highest,danish
+LAB_db07_791100,LAB,db07,791100,DB07 industry classification: 791100,enhanced_english,medium,english
+LAB_db07_791100.0,LAB,db07,791100.0,DB07 industry classification: 791100.0,enhanced_english,medium,english
+LAB_db07_791200,LAB,db07,791200,DB07 industry classification: 791200,enhanced_english,medium,english
+LAB_db07_791200.0,LAB,db07,791200.0,DB07 industry classification: 791200.0,enhanced_english,medium,english
+LAB_db07_799,LAB,db07,799,Andre reservationstjenesteydelser og tjenesteydelser i forbindelse hermed,pt_dictionaries,highest,danish
+LAB_db07_799000,LAB,db07,799000,DB07 industry classification: 799000,enhanced_english,medium,english
+LAB_db07_799000.0,LAB,db07,799000.0,DB07 industry classification: 799000.0,enhanced_english,medium,english
+LAB_db07_801,LAB,db07,801,Private vagt- og sikkerhedstjenester,pt_dictionaries,highest,danish
+LAB_db07_801000,LAB,db07,801000,DB07 industry classification: 801000,enhanced_english,medium,english
+LAB_db07_801000.0,LAB,db07,801000.0,DB07 industry classification: 801000.0,enhanced_english,medium,english
+LAB_db07_802,LAB,db07,802,Serviceydelser i forbindelse med sikkerhedssystemer,pt_dictionaries,highest,danish
+LAB_db07_802000,LAB,db07,802000,DB07 industry classification: 802000,enhanced_english,medium,english
+LAB_db07_802000.0,LAB,db07,802000.0,DB07 industry classification: 802000.0,enhanced_english,medium,english
+LAB_db07_803,LAB,db07,803,Overvågning,pt_dictionaries,highest,danish
+LAB_db07_803000,LAB,db07,803000,DB07 industry classification: 803000,enhanced_english,medium,english
+LAB_db07_803000.0,LAB,db07,803000.0,DB07 industry classification: 803000.0,enhanced_english,medium,english
+LAB_db07_811,LAB,db07,811,Kombinerede serviceydelser,pt_dictionaries,highest,danish
+LAB_db07_81100,LAB,db07,81100,DB07 industry classification: 81100,enhanced_english,medium,english
+LAB_db07_81100.0,LAB,db07,81100.0,DB07 industry classification: 81100.0,enhanced_english,medium,english
+LAB_db07_811000,LAB,db07,811000,DB07 industry classification: 811000,enhanced_english,medium,english
+LAB_db07_811000.0,LAB,db07,811000.0,DB07 industry classification: 811000.0,enhanced_english,medium,english
+LAB_db07_812,LAB,db07,812,Renhold,pt_dictionaries,highest,danish
+LAB_db07_81200,LAB,db07,81200,DB07 industry classification: 81200,enhanced_english,medium,english
+LAB_db07_81200.0,LAB,db07,81200.0,DB07 industry classification: 81200.0,enhanced_english,medium,english
+LAB_db07_812100,LAB,db07,812100,DB07 industry classification: 812100,enhanced_english,medium,english
+LAB_db07_812100.0,LAB,db07,812100.0,DB07 industry classification: 812100.0,enhanced_english,medium,english
+LAB_db07_812210,LAB,db07,812210,DB07 industry classification: 812210,enhanced_english,medium,english
+LAB_db07_812210.0,LAB,db07,812210.0,DB07 industry classification: 812210.0,enhanced_english,medium,english
+LAB_db07_812220,LAB,db07,812220,DB07 industry classification: 812220,enhanced_english,medium,english
+LAB_db07_812220.0,LAB,db07,812220.0,DB07 industry classification: 812220.0,enhanced_english,medium,english
+LAB_db07_812290,LAB,db07,812290,DB07 industry classification: 812290,enhanced_english,medium,english
+LAB_db07_812290.0,LAB,db07,812290.0,DB07 industry classification: 812290.0,enhanced_english,medium,english
+LAB_db07_812900,LAB,db07,812900,DB07 industry classification: 812900,enhanced_english,medium,english
+LAB_db07_812900.0,LAB,db07,812900.0,DB07 industry classification: 812900.0,enhanced_english,medium,english
+LAB_db07_813,LAB,db07,813,Landskabspleje,pt_dictionaries,highest,danish
+LAB_db07_813000,LAB,db07,813000,DB07 industry classification: 813000,enhanced_english,medium,english
+LAB_db07_813000.0,LAB,db07,813000.0,DB07 industry classification: 813000.0,enhanced_english,medium,english
+LAB_db07_821,LAB,db07,821,Administrationsservice og kontorservice,pt_dictionaries,highest,danish
+LAB_db07_821100,LAB,db07,821100,DB07 industry classification: 821100,enhanced_english,medium,english
+LAB_db07_821100.0,LAB,db07,821100.0,DB07 industry classification: 821100.0,enhanced_english,medium,english
+LAB_db07_821900,LAB,db07,821900,DB07 industry classification: 821900,enhanced_english,medium,english
+LAB_db07_821900.0,LAB,db07,821900.0,DB07 industry classification: 821900.0,enhanced_english,medium,english
+LAB_db07_822,LAB,db07,822,Call centres virksomhed,pt_dictionaries,highest,danish
+LAB_db07_822000,LAB,db07,822000,DB07 industry classification: 822000,enhanced_english,medium,english
+LAB_db07_822000.0,LAB,db07,822000.0,DB07 industry classification: 822000.0,enhanced_english,medium,english
+LAB_db07_823,LAB,db07,823,"Organisering af kongresser, messer og udstillinger",pt_dictionaries,highest,danish
+LAB_db07_823000,LAB,db07,823000,DB07 industry classification: 823000,enhanced_english,medium,english
+LAB_db07_823000.0,LAB,db07,823000.0,DB07 industry classification: 823000.0,enhanced_english,medium,english
+LAB_db07_829,LAB,db07,829,Anden forretningsservice i.a.n.,pt_dictionaries,highest,danish
+LAB_db07_829100,LAB,db07,829100,DB07 industry classification: 829100,enhanced_english,medium,english
+LAB_db07_829100.0,LAB,db07,829100.0,DB07 industry classification: 829100.0,enhanced_english,medium,english
+LAB_db07_829200,LAB,db07,829200,DB07 industry classification: 829200,enhanced_english,medium,english
+LAB_db07_829200.0,LAB,db07,829200.0,DB07 industry classification: 829200.0,enhanced_english,medium,english
+LAB_db07_829900,LAB,db07,829900,DB07 industry classification: 829900,enhanced_english,medium,english
+LAB_db07_829900.0,LAB,db07,829900.0,DB07 industry classification: 829900.0,enhanced_english,medium,english
+LAB_db07_841,LAB,db07,841,Forvaltning af staten og den økonomiske og sociale politik,pt_dictionaries,highest,danish
+LAB_db07_841100,LAB,db07,841100,DB07 industry classification: 841100,enhanced_english,medium,english
+LAB_db07_841100.0,LAB,db07,841100.0,DB07 industry classification: 841100.0,enhanced_english,medium,english
+LAB_db07_841200,LAB,db07,841200,DB07 industry classification: 841200,enhanced_english,medium,english
+LAB_db07_841200.0,LAB,db07,841200.0,DB07 industry classification: 841200.0,enhanced_english,medium,english
+LAB_db07_841300,LAB,db07,841300,DB07 industry classification: 841300,enhanced_english,medium,english
+LAB_db07_841300.0,LAB,db07,841300.0,DB07 industry classification: 841300.0,enhanced_english,medium,english
+LAB_db07_842,LAB,db07,842,Tjenesteydelser til samfundet som helhed,pt_dictionaries,highest,danish
+LAB_db07_842100,LAB,db07,842100,DB07 industry classification: 842100,enhanced_english,medium,english
+LAB_db07_842100.0,LAB,db07,842100.0,DB07 industry classification: 842100.0,enhanced_english,medium,english
+LAB_db07_842200,LAB,db07,842200,DB07 industry classification: 842200,enhanced_english,medium,english
+LAB_db07_842200.0,LAB,db07,842200.0,DB07 industry classification: 842200.0,enhanced_english,medium,english
+LAB_db07_842300,LAB,db07,842300,DB07 industry classification: 842300,enhanced_english,medium,english
+LAB_db07_842300.0,LAB,db07,842300.0,DB07 industry classification: 842300.0,enhanced_english,medium,english
+LAB_db07_842400,LAB,db07,842400,DB07 industry classification: 842400,enhanced_english,medium,english
+LAB_db07_842400.0,LAB,db07,842400.0,DB07 industry classification: 842400.0,enhanced_english,medium,english
+LAB_db07_842500,LAB,db07,842500,DB07 industry classification: 842500,enhanced_english,medium,english
+LAB_db07_842500.0,LAB,db07,842500.0,DB07 industry classification: 842500.0,enhanced_english,medium,english
+LAB_db07_843,LAB,db07,843,Lovpligtig socialsikring mv.,pt_dictionaries,highest,danish
+LAB_db07_843000,LAB,db07,843000,DB07 industry classification: 843000,enhanced_english,medium,english
+LAB_db07_843000.0,LAB,db07,843000.0,DB07 industry classification: 843000.0,enhanced_english,medium,english
+LAB_db07_851,LAB,db07,851,Førskoleundervisning,pt_dictionaries,highest,danish
+LAB_db07_851000,LAB,db07,851000,DB07 industry classification: 851000,enhanced_english,medium,english
+LAB_db07_851000.0,LAB,db07,851000.0,DB07 industry classification: 851000.0,enhanced_english,medium,english
+LAB_db07_852,LAB,db07,852,Folke- og specialskoler,pt_dictionaries,highest,danish
+LAB_db07_852010,LAB,db07,852010,DB07 industry classification: 852010,enhanced_english,medium,english
+LAB_db07_852010.0,LAB,db07,852010.0,DB07 industry classification: 852010.0,enhanced_english,medium,english
+LAB_db07_852020,LAB,db07,852020,DB07 industry classification: 852020,enhanced_english,medium,english
+LAB_db07_852020.0,LAB,db07,852020.0,DB07 industry classification: 852020.0,enhanced_english,medium,english
+LAB_db07_853,LAB,db07,853,Gymnasier og erhvervsfaglige skoler,pt_dictionaries,highest,danish
+LAB_db07_853110,LAB,db07,853110,DB07 industry classification: 853110,enhanced_english,medium,english
+LAB_db07_853110.0,LAB,db07,853110.0,DB07 industry classification: 853110.0,enhanced_english,medium,english
+LAB_db07_853120,LAB,db07,853120,DB07 industry classification: 853120,enhanced_english,medium,english
+LAB_db07_853120.0,LAB,db07,853120.0,DB07 industry classification: 853120.0,enhanced_english,medium,english
+LAB_db07_853200,LAB,db07,853200,DB07 industry classification: 853200,enhanced_english,medium,english
+LAB_db07_853200.0,LAB,db07,853200.0,DB07 industry classification: 853200.0,enhanced_english,medium,english
+LAB_db07_854,LAB,db07,854,Videregående uddannelsesinstitutioner,pt_dictionaries,highest,danish
+LAB_db07_854100,LAB,db07,854100,DB07 industry classification: 854100,enhanced_english,medium,english
+LAB_db07_854100.0,LAB,db07,854100.0,DB07 industry classification: 854100.0,enhanced_english,medium,english
+LAB_db07_854200,LAB,db07,854200,DB07 industry classification: 854200,enhanced_english,medium,english
+LAB_db07_854200.0,LAB,db07,854200.0,DB07 industry classification: 854200.0,enhanced_english,medium,english
+LAB_db07_855,LAB,db07,855,Anden undervisning,pt_dictionaries,highest,danish
+LAB_db07_855100,LAB,db07,855100,DB07 industry classification: 855100,enhanced_english,medium,english
+LAB_db07_855100.0,LAB,db07,855100.0,DB07 industry classification: 855100.0,enhanced_english,medium,english
+LAB_db07_855200,LAB,db07,855200,DB07 industry classification: 855200,enhanced_english,medium,english
+LAB_db07_855200.0,LAB,db07,855200.0,DB07 industry classification: 855200.0,enhanced_english,medium,english
+LAB_db07_855300,LAB,db07,855300,DB07 industry classification: 855300,enhanced_english,medium,english
+LAB_db07_855300.0,LAB,db07,855300.0,DB07 industry classification: 855300.0,enhanced_english,medium,english
+LAB_db07_855900,LAB,db07,855900,DB07 industry classification: 855900,enhanced_english,medium,english
+LAB_db07_855900.0,LAB,db07,855900.0,DB07 industry classification: 855900.0,enhanced_english,medium,english
+LAB_db07_856,LAB,db07,856,Hjælpeydelser i forbindelse med undervisning,pt_dictionaries,highest,danish
+LAB_db07_856000,LAB,db07,856000,DB07 industry classification: 856000,enhanced_english,medium,english
+LAB_db07_856000.0,LAB,db07,856000.0,DB07 industry classification: 856000.0,enhanced_english,medium,english
+LAB_db07_861,LAB,db07,861,Hospitaler,pt_dictionaries,highest,danish
+LAB_db07_861000,LAB,db07,861000,DB07 industry classification: 861000,enhanced_english,medium,english
+LAB_db07_861000.0,LAB,db07,861000.0,DB07 industry classification: 861000.0,enhanced_english,medium,english
+LAB_db07_861200.0,LAB,db07,861200.0,DB07 industry classification: 861200.0,enhanced_english,medium,english
+LAB_db07_862,LAB,db07,862,Praktiserende læger og tandlæger,pt_dictionaries,highest,danish
+LAB_db07_862100,LAB,db07,862100,DB07 industry classification: 862100,enhanced_english,medium,english
+LAB_db07_862100.0,LAB,db07,862100.0,DB07 industry classification: 862100.0,enhanced_english,medium,english
+LAB_db07_862200,LAB,db07,862200,DB07 industry classification: 862200,enhanced_english,medium,english
+LAB_db07_862200.0,LAB,db07,862200.0,DB07 industry classification: 862200.0,enhanced_english,medium,english
+LAB_db07_862300,LAB,db07,862300,DB07 industry classification: 862300,enhanced_english,medium,english
+LAB_db07_862300.0,LAB,db07,862300.0,DB07 industry classification: 862300.0,enhanced_english,medium,english
+LAB_db07_869,LAB,db07,869,Sundhedsvæsen i øvrigt,pt_dictionaries,highest,danish
+LAB_db07_869010,LAB,db07,869010,DB07 industry classification: 869010,enhanced_english,medium,english
+LAB_db07_869010.0,LAB,db07,869010.0,DB07 industry classification: 869010.0,enhanced_english,medium,english
+LAB_db07_869020,LAB,db07,869020,DB07 industry classification: 869020,enhanced_english,medium,english
+LAB_db07_869020.0,LAB,db07,869020.0,DB07 industry classification: 869020.0,enhanced_english,medium,english
+LAB_db07_869030,LAB,db07,869030,DB07 industry classification: 869030,enhanced_english,medium,english
+LAB_db07_869030.0,LAB,db07,869030.0,DB07 industry classification: 869030.0,enhanced_english,medium,english
+LAB_db07_869040,LAB,db07,869040,DB07 industry classification: 869040,enhanced_english,medium,english
+LAB_db07_869040.0,LAB,db07,869040.0,DB07 industry classification: 869040.0,enhanced_english,medium,english
+LAB_db07_869090,LAB,db07,869090,DB07 industry classification: 869090,enhanced_english,medium,english
+LAB_db07_869090.0,LAB,db07,869090.0,DB07 industry classification: 869090.0,enhanced_english,medium,english
+LAB_db07_871,LAB,db07,871,Institutionsophold med sygepleje,pt_dictionaries,highest,danish
+LAB_db07_871010,LAB,db07,871010,DB07 industry classification: 871010,enhanced_english,medium,english
+LAB_db07_871010.0,LAB,db07,871010.0,DB07 industry classification: 871010.0,enhanced_english,medium,english
+LAB_db07_871020,LAB,db07,871020,DB07 industry classification: 871020,enhanced_english,medium,english
+LAB_db07_871020.0,LAB,db07,871020.0,DB07 industry classification: 871020.0,enhanced_english,medium,english
+LAB_db07_872,LAB,db07,872,"Institutionsophold for psykisk handicappede, psykisk syge og stofmisbrugere",pt_dictionaries,highest,danish
+LAB_db07_872010,LAB,db07,872010,DB07 industry classification: 872010,enhanced_english,medium,english
+LAB_db07_872010.0,LAB,db07,872010.0,DB07 industry classification: 872010.0,enhanced_english,medium,english
+LAB_db07_872020,LAB,db07,872020,DB07 industry classification: 872020,enhanced_english,medium,english
+LAB_db07_872020.0,LAB,db07,872020.0,DB07 industry classification: 872020.0,enhanced_english,medium,english
+LAB_db07_873,LAB,db07,873,Institutionsophold for ældre og handicappede,pt_dictionaries,highest,danish
+LAB_db07_873010,LAB,db07,873010,DB07 industry classification: 873010,enhanced_english,medium,english
+LAB_db07_873010.0,LAB,db07,873010.0,DB07 industry classification: 873010.0,enhanced_english,medium,english
+LAB_db07_873020,LAB,db07,873020,DB07 industry classification: 873020,enhanced_english,medium,english
+LAB_db07_873020.0,LAB,db07,873020.0,DB07 industry classification: 873020.0,enhanced_english,medium,english
+LAB_db07_879,LAB,db07,879,Andre former for institutionsophold,pt_dictionaries,highest,danish
+LAB_db07_879010,LAB,db07,879010,DB07 industry classification: 879010,enhanced_english,medium,english
+LAB_db07_879010.0,LAB,db07,879010.0,DB07 industry classification: 879010.0,enhanced_english,medium,english
+LAB_db07_879020,LAB,db07,879020,DB07 industry classification: 879020,enhanced_english,medium,english
+LAB_db07_879020.0,LAB,db07,879020.0,DB07 industry classification: 879020.0,enhanced_english,medium,english
+LAB_db07_879090,LAB,db07,879090,DB07 industry classification: 879090,enhanced_english,medium,english
+LAB_db07_879090.0,LAB,db07,879090.0,DB07 industry classification: 879090.0,enhanced_english,medium,english
+LAB_db07_881,LAB,db07,881,Sociale foranstaltninger for ældre og handicappede uden institutionsophold,pt_dictionaries,highest,danish
+LAB_db07_881010,LAB,db07,881010,DB07 industry classification: 881010,enhanced_english,medium,english
+LAB_db07_881010.0,LAB,db07,881010.0,DB07 industry classification: 881010.0,enhanced_english,medium,english
+LAB_db07_881020,LAB,db07,881020,DB07 industry classification: 881020,enhanced_english,medium,english
+LAB_db07_881020.0,LAB,db07,881020.0,DB07 industry classification: 881020.0,enhanced_english,medium,english
+LAB_db07_881030,LAB,db07,881030,DB07 industry classification: 881030,enhanced_english,medium,english
+LAB_db07_881030.0,LAB,db07,881030.0,DB07 industry classification: 881030.0,enhanced_english,medium,english
+LAB_db07_889,LAB,db07,889,Andre sociale foranstaltninger uden institutionsophold,pt_dictionaries,highest,danish
+LAB_db07_889110,LAB,db07,889110,DB07 industry classification: 889110,enhanced_english,medium,english
+LAB_db07_889110.0,LAB,db07,889110.0,DB07 industry classification: 889110.0,enhanced_english,medium,english
+LAB_db07_889120,LAB,db07,889120,DB07 industry classification: 889120,enhanced_english,medium,english
+LAB_db07_889120.0,LAB,db07,889120.0,DB07 industry classification: 889120.0,enhanced_english,medium,english
+LAB_db07_889130,LAB,db07,889130,DB07 industry classification: 889130,enhanced_english,medium,english
+LAB_db07_889130.0,LAB,db07,889130.0,DB07 industry classification: 889130.0,enhanced_english,medium,english
+LAB_db07_889140,LAB,db07,889140,DB07 industry classification: 889140,enhanced_english,medium,english
+LAB_db07_889140.0,LAB,db07,889140.0,DB07 industry classification: 889140.0,enhanced_english,medium,english
+LAB_db07_889150,LAB,db07,889150,DB07 industry classification: 889150,enhanced_english,medium,english
+LAB_db07_889150.0,LAB,db07,889150.0,DB07 industry classification: 889150.0,enhanced_english,medium,english
+LAB_db07_889160,LAB,db07,889160,DB07 industry classification: 889160,enhanced_english,medium,english
+LAB_db07_889160.0,LAB,db07,889160.0,DB07 industry classification: 889160.0,enhanced_english,medium,english
+LAB_db07_889910,LAB,db07,889910,DB07 industry classification: 889910,enhanced_english,medium,english
+LAB_db07_889910.0,LAB,db07,889910.0,DB07 industry classification: 889910.0,enhanced_english,medium,english
+LAB_db07_889920,LAB,db07,889920,DB07 industry classification: 889920,enhanced_english,medium,english
+LAB_db07_889920.0,LAB,db07,889920.0,DB07 industry classification: 889920.0,enhanced_english,medium,english
+LAB_db07_889990,LAB,db07,889990,DB07 industry classification: 889990,enhanced_english,medium,english
+LAB_db07_889990.0,LAB,db07,889990.0,DB07 industry classification: 889990.0,enhanced_english,medium,english
+LAB_db07_89100,LAB,db07,89100,DB07 industry classification: 89100,enhanced_english,medium,english
+LAB_db07_89100.0,LAB,db07,89100.0,DB07 industry classification: 89100.0,enhanced_english,medium,english
+LAB_db07_89200,LAB,db07,89200,DB07 industry classification: 89200,enhanced_english,medium,english
+LAB_db07_89200.0,LAB,db07,89200.0,DB07 industry classification: 89200.0,enhanced_english,medium,english
+LAB_db07_89300,LAB,db07,89300,DB07 industry classification: 89300,enhanced_english,medium,english
+LAB_db07_89300.0,LAB,db07,89300.0,DB07 industry classification: 89300.0,enhanced_english,medium,english
+LAB_db07_89900,LAB,db07,89900,DB07 industry classification: 89900,enhanced_english,medium,english
+LAB_db07_89900.0,LAB,db07,89900.0,DB07 industry classification: 89900.0,enhanced_english,medium,english
+LAB_db07_900,LAB,db07,900,"Kreative aktiviteter, kunst og forlystelser",pt_dictionaries,highest,danish
+LAB_db07_900110,LAB,db07,900110,DB07 industry classification: 900110,enhanced_english,medium,english
+LAB_db07_900110.0,LAB,db07,900110.0,DB07 industry classification: 900110.0,enhanced_english,medium,english
+LAB_db07_900120,LAB,db07,900120,DB07 industry classification: 900120,enhanced_english,medium,english
+LAB_db07_900120.0,LAB,db07,900120.0,DB07 industry classification: 900120.0,enhanced_english,medium,english
+LAB_db07_900200,LAB,db07,900200,DB07 industry classification: 900200,enhanced_english,medium,english
+LAB_db07_900200.0,LAB,db07,900200.0,DB07 industry classification: 900200.0,enhanced_english,medium,english
+LAB_db07_900300,LAB,db07,900300,DB07 industry classification: 900300,enhanced_english,medium,english
+LAB_db07_900300.0,LAB,db07,900300.0,DB07 industry classification: 900300.0,enhanced_english,medium,english
+LAB_db07_900400,LAB,db07,900400,DB07 industry classification: 900400,enhanced_english,medium,english
+LAB_db07_900400.0,LAB,db07,900400.0,DB07 industry classification: 900400.0,enhanced_english,medium,english
+LAB_db07_910,LAB,db07,910,"Biblioteker, arkiver, museer og anden kulturel virksomhed",pt_dictionaries,highest,danish
+LAB_db07_91000,LAB,db07,91000,DB07 industry classification: 91000,enhanced_english,medium,english
+LAB_db07_91000.0,LAB,db07,91000.0,DB07 industry classification: 91000.0,enhanced_english,medium,english
+LAB_db07_910110,LAB,db07,910110,DB07 industry classification: 910110,enhanced_english,medium,english
+LAB_db07_910110.0,LAB,db07,910110.0,DB07 industry classification: 910110.0,enhanced_english,medium,english
+LAB_db07_910120,LAB,db07,910120,DB07 industry classification: 910120,enhanced_english,medium,english
+LAB_db07_910120.0,LAB,db07,910120.0,DB07 industry classification: 910120.0,enhanced_english,medium,english
+LAB_db07_910200,LAB,db07,910200,DB07 industry classification: 910200,enhanced_english,medium,english
+LAB_db07_910200.0,LAB,db07,910200.0,DB07 industry classification: 910200.0,enhanced_english,medium,english
+LAB_db07_910300,LAB,db07,910300,DB07 industry classification: 910300,enhanced_english,medium,english
+LAB_db07_910300.0,LAB,db07,910300.0,DB07 industry classification: 910300.0,enhanced_english,medium,english
+LAB_db07_910400,LAB,db07,910400,DB07 industry classification: 910400,enhanced_english,medium,english
+LAB_db07_910400.0,LAB,db07,910400.0,DB07 industry classification: 910400.0,enhanced_english,medium,english
+LAB_db07_920,LAB,db07,920,Lotteri- og anden spillevirksomhed,pt_dictionaries,highest,danish
+LAB_db07_920000,LAB,db07,920000,DB07 industry classification: 920000,enhanced_english,medium,english
+LAB_db07_920000.0,LAB,db07,920000.0,DB07 industry classification: 920000.0,enhanced_english,medium,english
+LAB_db07_931,LAB,db07,931,Sport,pt_dictionaries,highest,danish
+LAB_db07_931100,LAB,db07,931100,DB07 industry classification: 931100,enhanced_english,medium,english
+LAB_db07_931100.0,LAB,db07,931100.0,DB07 industry classification: 931100.0,enhanced_english,medium,english
+LAB_db07_931200,LAB,db07,931200,DB07 industry classification: 931200,enhanced_english,medium,english
+LAB_db07_931200.0,LAB,db07,931200.0,DB07 industry classification: 931200.0,enhanced_english,medium,english
+LAB_db07_931300,LAB,db07,931300,DB07 industry classification: 931300,enhanced_english,medium,english
+LAB_db07_931300.0,LAB,db07,931300.0,DB07 industry classification: 931300.0,enhanced_english,medium,english
+LAB_db07_931900,LAB,db07,931900,DB07 industry classification: 931900,enhanced_english,medium,english
+LAB_db07_931900.0,LAB,db07,931900.0,DB07 industry classification: 931900.0,enhanced_english,medium,english
+LAB_db07_932,LAB,db07,932,Forlystelser og fritidsaktiviteter,pt_dictionaries,highest,danish
+LAB_db07_932100,LAB,db07,932100,DB07 industry classification: 932100,enhanced_english,medium,english
+LAB_db07_932100.0,LAB,db07,932100.0,DB07 industry classification: 932100.0,enhanced_english,medium,english
+LAB_db07_932910,LAB,db07,932910,DB07 industry classification: 932910,enhanced_english,medium,english
+LAB_db07_932910.0,LAB,db07,932910.0,DB07 industry classification: 932910.0,enhanced_english,medium,english
+LAB_db07_932990,LAB,db07,932990,DB07 industry classification: 932990,enhanced_english,medium,english
+LAB_db07_932990.0,LAB,db07,932990.0,DB07 industry classification: 932990.0,enhanced_english,medium,english
+LAB_db07_941,LAB,db07,941,Erhvervs- og arbejdsgiverorganisationer samt faglige sammenslutninger,pt_dictionaries,highest,danish
+LAB_db07_941100,LAB,db07,941100,DB07 industry classification: 941100,enhanced_english,medium,english
+LAB_db07_941100.0,LAB,db07,941100.0,DB07 industry classification: 941100.0,enhanced_english,medium,english
+LAB_db07_941200,LAB,db07,941200,DB07 industry classification: 941200,enhanced_english,medium,english
+LAB_db07_941200.0,LAB,db07,941200.0,DB07 industry classification: 941200.0,enhanced_english,medium,english
+LAB_db07_942,LAB,db07,942,Fagforeninger,pt_dictionaries,highest,danish
+LAB_db07_942000,LAB,db07,942000,DB07 industry classification: 942000,enhanced_english,medium,english
+LAB_db07_942000.0,LAB,db07,942000.0,DB07 industry classification: 942000.0,enhanced_english,medium,english
+LAB_db07_949,LAB,db07,949,Andre organisationer og foreninger,pt_dictionaries,highest,danish
+LAB_db07_949100,LAB,db07,949100,DB07 industry classification: 949100,enhanced_english,medium,english
+LAB_db07_949100.0,LAB,db07,949100.0,DB07 industry classification: 949100.0,enhanced_english,medium,english
+LAB_db07_949200,LAB,db07,949200,DB07 industry classification: 949200,enhanced_english,medium,english
+LAB_db07_949200.0,LAB,db07,949200.0,DB07 industry classification: 949200.0,enhanced_english,medium,english
+LAB_db07_949900,LAB,db07,949900,DB07 industry classification: 949900,enhanced_english,medium,english
+LAB_db07_949900.0,LAB,db07,949900.0,DB07 industry classification: 949900.0,enhanced_english,medium,english
+LAB_db07_951,LAB,db07,951,Reparation af computere og kommunikationsudstyr,pt_dictionaries,highest,danish
+LAB_db07_951100,LAB,db07,951100,DB07 industry classification: 951100,enhanced_english,medium,english
+LAB_db07_951100.0,LAB,db07,951100.0,DB07 industry classification: 951100.0,enhanced_english,medium,english
+LAB_db07_951200,LAB,db07,951200,DB07 industry classification: 951200,enhanced_english,medium,english
+LAB_db07_951200.0,LAB,db07,951200.0,DB07 industry classification: 951200.0,enhanced_english,medium,english
+LAB_db07_952,LAB,db07,952,Reparation af varer til personligt brug og husholdningsbrug,pt_dictionaries,highest,danish
+LAB_db07_952100,LAB,db07,952100,DB07 industry classification: 952100,enhanced_english,medium,english
+LAB_db07_952100.0,LAB,db07,952100.0,DB07 industry classification: 952100.0,enhanced_english,medium,english
+LAB_db07_952200,LAB,db07,952200,DB07 industry classification: 952200,enhanced_english,medium,english
+LAB_db07_952200.0,LAB,db07,952200.0,DB07 industry classification: 952200.0,enhanced_english,medium,english
+LAB_db07_952300,LAB,db07,952300,DB07 industry classification: 952300,enhanced_english,medium,english
+LAB_db07_952300.0,LAB,db07,952300.0,DB07 industry classification: 952300.0,enhanced_english,medium,english
+LAB_db07_952400,LAB,db07,952400,DB07 industry classification: 952400,enhanced_english,medium,english
+LAB_db07_952400.0,LAB,db07,952400.0,DB07 industry classification: 952400.0,enhanced_english,medium,english
+LAB_db07_952500,LAB,db07,952500,DB07 industry classification: 952500,enhanced_english,medium,english
+LAB_db07_952500.0,LAB,db07,952500.0,DB07 industry classification: 952500.0,enhanced_english,medium,english
+LAB_db07_952900,LAB,db07,952900,DB07 industry classification: 952900,enhanced_english,medium,english
+LAB_db07_952900.0,LAB,db07,952900.0,DB07 industry classification: 952900.0,enhanced_english,medium,english
+LAB_db07_960,LAB,db07,960,Andre personlige serviceydelser,pt_dictionaries,highest,danish
+LAB_db07_960110,LAB,db07,960110,DB07 industry classification: 960110,enhanced_english,medium,english
+LAB_db07_960110.0,LAB,db07,960110.0,DB07 industry classification: 960110.0,enhanced_english,medium,english
+LAB_db07_960120,LAB,db07,960120,DB07 industry classification: 960120,enhanced_english,medium,english
+LAB_db07_960120.0,LAB,db07,960120.0,DB07 industry classification: 960120.0,enhanced_english,medium,english
+LAB_db07_960210,LAB,db07,960210,DB07 industry classification: 960210,enhanced_english,medium,english
+LAB_db07_960210.0,LAB,db07,960210.0,DB07 industry classification: 960210.0,enhanced_english,medium,english
+LAB_db07_960220,LAB,db07,960220,DB07 industry classification: 960220,enhanced_english,medium,english
+LAB_db07_960220.0,LAB,db07,960220.0,DB07 industry classification: 960220.0,enhanced_english,medium,english
+LAB_db07_960300,LAB,db07,960300,DB07 industry classification: 960300,enhanced_english,medium,english
+LAB_db07_960300.0,LAB,db07,960300.0,DB07 industry classification: 960300.0,enhanced_english,medium,english
+LAB_db07_960400,LAB,db07,960400,DB07 industry classification: 960400,enhanced_english,medium,english
+LAB_db07_960400.0,LAB,db07,960400.0,DB07 industry classification: 960400.0,enhanced_english,medium,english
+LAB_db07_960900,LAB,db07,960900,DB07 industry classification: 960900,enhanced_english,medium,english
+LAB_db07_960900.0,LAB,db07,960900.0,DB07 industry classification: 960900.0,enhanced_english,medium,english
+LAB_db07_970,LAB,db07,970,Husholdninger med ansat medhjælp,pt_dictionaries,highest,danish
+LAB_db07_970000,LAB,db07,970000,DB07 industry classification: 970000,enhanced_english,medium,english
+LAB_db07_970000.0,LAB,db07,970000.0,DB07 industry classification: 970000.0,enhanced_english,medium,english
+LAB_db07_981,LAB,db07,981,"Private husholdningers produktion af varer til eget brug, i.a.n.",pt_dictionaries,highest,danish
+LAB_db07_981000,LAB,db07,981000,DB07 industry classification: 981000,enhanced_english,medium,english
+LAB_db07_981000.0,LAB,db07,981000.0,DB07 industry classification: 981000.0,enhanced_english,medium,english
+LAB_db07_982,LAB,db07,982,"Private husholdningers produktion af tjenesteydelser til eget brug, i.a.n.",pt_dictionaries,highest,danish
+LAB_db07_982000,LAB,db07,982000,DB07 industry classification: 982000,enhanced_english,medium,english
+LAB_db07_982000.0,LAB,db07,982000.0,DB07 industry classification: 982000.0,enhanced_english,medium,english
+LAB_db07_990,LAB,db07,990,Ekstraterritoriale organisationer og organer,pt_dictionaries,highest,danish
+LAB_db07_99000,LAB,db07,99000,DB07 industry classification: 99000,enhanced_english,medium,english
+LAB_db07_99000.0,LAB,db07,99000.0,DB07 industry classification: 99000.0,enhanced_english,medium,english
+LAB_db07_990000,LAB,db07,990000,DB07 industry classification: 990000,enhanced_english,medium,english
+LAB_db07_990000.0,LAB,db07,990000.0,DB07 industry classification: 990000.0,enhanced_english,medium,english
+LAB_db07_999999.0,LAB,db07,999999.0,DB07 industry classification: 999999.0,enhanced_english,medium,english

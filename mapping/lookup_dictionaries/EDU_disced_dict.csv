@@ -1,0 +1,103 @@
+code,description
+EDU_disced_0510,Førskoleuddannelser
+EDU_disced_1001,Ingen uddannelse
+EDU_disced_1010,Grundskole til og med 6. klasse
+EDU_disced_1020,Grundskole 7.-9. klasse
+EDU_disced_1030,Grundskole 10. klasse
+EDU_disced_1040,Grundskolefag for voksne
+EDU_disced_1510,Højskoleforløb
+EDU_disced_1520,Introducerende og erhvervsrettede forløb
+EDU_disced_2010,Alment gymnasiale uddannelser
+EDU_disced_2020,Erhvervsrettede gymnasiale uddannelser
+EDU_disced_2030,Internationale gymnasiale uddannelser
+EDU_disced_2510,Danskundervisning ved sprogcentre
+EDU_disced_2910,"Omsorg, sundhed og pædagogik (OSP), grundforløb"
+EDU_disced_2915,"Kontor, handel og forretningsservice (KHF), grundforløb"
+EDU_disced_2920,"Fødevarer, jordbrug og oplevelser (FJO), grundforløb"
+EDU_disced_2925,"Teknologi, byggeri og transport (TBT), grundforløb"
+EDU_disced_3010,"Omsorg, sundhed og pædagogik (OSP)"
+EDU_disced_3015,"Kontor, handel og forretningsservice (KHF)"
+EDU_disced_3020,Fødevarer mv. (FJO)
+EDU_disced_3025,Jordbrug og natur (FJO)
+EDU_disced_3030,Oplevelsesområdet (FJO)
+EDU_disced_3035,Byggeriområdet (TBT)
+EDU_disced_3040,"Teknologiområdet, strøm og elektronik mv. (TBT)"
+EDU_disced_3045,"Teknologiområdet, grafisk teknik og medieproduktion (TBT)"
+EDU_disced_3050,"Teknologiområdet, cykel-, auto- og skibsmekanik mv. (TBT)"
+EDU_disced_3055,"Teknologiområdet, maskinteknik og produktion (TBT)"
+EDU_disced_3060,Teknik- og industriuddannelser i øvrigt (TBT)
+EDU_disced_3065,Transport og logistikområdet (TBT)
+EDU_disced_3090,Andre erhvervsfaglige uddannelser
+EDU_disced_3091,Grundforløb
+EDU_disced_3097,Erhvervsfaglige uddannelser uden nærmere angivelse
+EDU_disced_3510,Gymnasial supplering
+EDU_disced_3520,Adgangseksamen - videregående uddannelse
+EDU_disced_3910,"Omsorg, sundhed og pædagogik, AMU"
+EDU_disced_3915,"Kontor, handel og forretningsservice, AMU"
+EDU_disced_3920,"Fødevarer, AMU"
+EDU_disced_3925,"Jordbrug og natur, AMU"
+EDU_disced_3935,"Byggeriområdet, AMU"
+EDU_disced_3940,"Teknologiområdet, strøm og elektronik mv., AMU"
+EDU_disced_3945,"Teknologiområdet, grafisk teknik og medieproduktion, AMU"
+EDU_disced_3950,"Teknologiområdet, cykel-, auto- og skibsmekanik mv., AMU"
+EDU_disced_3955,"Teknologiområdet, maskinteknik og produktion, AMU"
+EDU_disced_3965,"Transport og logistikområdet, AMU"
+EDU_disced_3990,"Andre arbejdsmarkedsuddannelser, AMU"
+EDU_disced_3998,"Efterudd., specialarb., fagl., andre grupper, AMU"
+EDU_disced_4020,"Pædagogisk, KVU"
+EDU_disced_4024,"Medier og kommunikation, KVU"
+EDU_disced_4025,"Humanistisk og teologisk, KVU"
+EDU_disced_4030,"Kunstnerisk, KVU"
+EDU_disced_4038,"Samfundsfaglig, Økonomisk-Merkantil, KVU"
+EDU_disced_4058,"Teknisk, KVU"
+EDU_disced_4075,"Fødevarer, bio- og laboratorieteknik, KVU"
+EDU_disced_4080,"Jordbrug, natur og miljø, KVU"
+EDU_disced_4085,"Maritimt, KVU"
+EDU_disced_4089,"Sundhedsfaglig, KVU"
+EDU_disced_4095,"Politi og forsvar mv., KVU"
+EDU_disced_4097,"Videregående uddannelser uden nærmere angivelse, KVU"
+EDU_disced_5020,"Pædagogisk, MVU"
+EDU_disced_5024,"Medier og kommunikation, MVU"
+EDU_disced_5025,"Humanistisk og teologisk, MVU"
+EDU_disced_5030,"Kunstnerisk, MVU"
+EDU_disced_5038,"Samfundsfaglig, Økonomisk-Merkantil, MVU"
+EDU_disced_5039,"Samfundsvidenskab, MVU"
+EDU_disced_5058,"Teknisk, MVU"
+EDU_disced_5059,"Teknisk videnskab, MVU"
+EDU_disced_5075,"Fødevarer, Bio- og laboratorieteknik, MVU"
+EDU_disced_5080,"Jordbrug, natur og miljø, MVU"
+EDU_disced_5085,"Maritimt, MVU"
+EDU_disced_5089,"Sundhedsfaglig, MVU"
+EDU_disced_5095,"Politi og forsvar mv., MVU"
+EDU_disced_5097,"Videregående uddannelser uden nærmere angivelse, MVU"
+EDU_disced_6020,"Pædagogisk, BACH"
+EDU_disced_6025,"Humanistisk og teologisk, BACH"
+EDU_disced_6030,"Kunstnerisk, BACH"
+EDU_disced_6035,"Naturvidenskab, BACH"
+EDU_disced_6039,"Samfundsvidenskab, BACH"
+EDU_disced_6059,"Teknisk videnskab, BACH"
+EDU_disced_6075,"Fødevarer, Bio- og laboratorieteknik, BACH"
+EDU_disced_6080,"Jordbrug, natur og miljø, BACH"
+EDU_disced_6090,"Sundhedsvidenskab, BACH"
+EDU_disced_6097,"Videregående uddannelser uden nærmere angivelse, BACH"
+EDU_disced_7020,"Pædagogisk, LVU"
+EDU_disced_7025,"Humanistisk og teologisk, LVU"
+EDU_disced_7030,"Kunstnerisk, LVU"
+EDU_disced_7035,"Naturvidenskab, LVU"
+EDU_disced_7039,"Samfundsvidenskab, LVU"
+EDU_disced_7059,"Teknisk videnskab, LVU"
+EDU_disced_7075,"Fødevarer, Bio- og laboratorieteknik, LVU"
+EDU_disced_7080,"Jordbrug, natur og miljø, LVU"
+EDU_disced_7090,"Sundhedsvidenskab, LVU"
+EDU_disced_7095,"Politi og forsvar mv., LVU"
+EDU_disced_7097,"Videregående uddannelser uden nærmere angivelse, LVU"
+EDU_disced_8020,"Pædagogisk, Ph.d."
+EDU_disced_8025,"Humanistisk og teologisk, Ph.d."
+EDU_disced_8030,"Kunstnerisk, Ph.d."
+EDU_disced_8035,"Naturvidenskab, Ph.d."
+EDU_disced_8039,"Samfundsvidenskab, Ph.d."
+EDU_disced_8059,"Teknisk videnskab, Ph.d."
+EDU_disced_8080,"Jordbrug, natur og miljø, Ph.d."
+EDU_disced_8090,"Sundhedsvidenskab, Ph.d."
+EDU_disced_8097,"Videregående uddannelser uden nærmere angivelse, Ph.d."
+EDU_disced_9099,Uoplyst mv.

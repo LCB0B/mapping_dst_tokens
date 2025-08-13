@@ -1,0 +1,169 @@
+Value set
+D280600. TXT_PGF_HISTORIK - Paragraph code Valid from 	Valid for 	Code 	Text
+01-01-2011 	31-12-2023 	245 	Connection of coordinator of young people who are sentenced to a sanction
+01-01-1993 	31-12-1997 	406 	Stay in daycare or similar.
+01-01-1993 	31-12-1997 	415 	Practical, pedagogical or other support at home
+01-01-1993 	31-12-1997 	420 	Family treatment or similar support
+01-01-1993 	31-12-1997 	425 	Establishment of 24-hour stays for the child and other members of the family
+01-01-1993 	31-12-1996 	445 	Expenditure in connection with measures under section 33, paragraph. 2
+01-01-1993 	31-12-1996 	450 	Expenses that can help avoid placement outside the home, etc.
+01-01-1997 	31-12-1997 	445 	Expenditure in connection with measures under section 33, paragraph. 2
+01-01-1997 	31-12-1997 	450 	Expenses that can help avoid placement outside the home, etc.
+01-01-1998 	31-12-2005 	406 	Stay in daycare or similar.
+01-01-1998 	31-12-2005 	415 	Practical, pedagogical or other support at home
+01-01-1998 	31-12-2005 	420 	Family treatment or similar support
+01-01-1998 	31-12-2005 	425 	Establishment of 24-hour stays for the child and other members of the family
+01-01-1998 	31-12-2005 	445 	Expenditure in connection with measures under section 40, paragraph. 2
+01-01-1998 	31-12-2005 	450 	Expenses that can help avoid placement outside the home, etc.
+01-01-2001 	31-12-2005 	430 	Establishment of contact person for the whole family
+01-01-2001 	31-12-2006 	435 	Supporting person to custody
+01-01-2006 	31-12-2006 	406 	Stay in daycare or similar.
+01-01-2006 	31-12-2006 	415 	Practical, pedagogical or other support at home
+01-01-2006 	31-12-2006 	420 	Family treatment or similar support
+01-01-2006 	31-12-2006 	425 	Establishment of 24-hour stays for the child and other members of the family
+01-01-2006 	31-12-2006 	430 	Establishment of contact person for the whole family
+01-01-2006 	31-12-2006 	440 	Other help (advice, treatment and educational support)
+01-01-2007 	31-12-2023 	406 	Stay in daycare, leisure homes, youth club, educational institution or the like.
+01-01-2007 	31-12-2023 	415 	Practical, pedagogical or other support at home
+01-01-2007 	31-12-2023 	420 	Family treatment
+01-01-2007 	31-12-2023 	425 	24-hour stay for both the child and other members of the family
+01-01-2007 	31-12-2010 	430 	Permanent contact person for the whole family
+01-01-2007 	31-12-2010 	440 	Other help (advice, treatment and educational support)
+01-01-2007 	31-12-2023 	435 	Support person for custody in connection with the child's placement outside the home
+01-01-2007 	31-12-2010 	445 	Expenditure in connection with measures under section 52, paragraph. 3
+01-01-2007 	31-12-2010 	450 	Expenses that can help avoid placement outside the home, etc.
+01-01-2011 	31-12-2023 	430 	Permanent contact person for the whole family
+01-01-2011 	31-12-2023 	440 	Other assistance to provide advice, treatment and educational support
+01-01-2011 	31-12-2023 	455 	Parental orders
+01-01-2011 	30-09-2014 	407 	Expenditure in connection with consultancy under section 11, paragraph. 3
+01-01-2011 	30-09-2014 	445 	Expenditure in connection with measures under section 52, paragraph. 3
+01-01-2011 	30-09-2014 	450 	Expenses that can help avoid placement outside the home, etc.
+01-01-2011 	30-09-2014 	451 	Expenses that can contribute to a stable contact between parents and child
+01-01-2011 	31-12-2013 	452 	Expenditure related to contraception
+01-01-1973 	31-12-1992 	100 	Provisional placement.
+01-01-1993 	31-12-1997 	100 	Preliminary placement
+01-01-1998 	31-12-2005 	100 	Preliminary placement
+01-01-1957 	31-12-1992 	110 	Launched placement with consent
+01-01-1993 	31-12-1996 	110 	Placement with consent
+01-01-1997 	31-12-1997 	110 	Placement with consent
+01-01-1998 	31-12-2005 	110 	Placement with consent
+01-01-2006 	31-12-2006 	110 	Placed with consent - management decision
+01-01-2007 		110 	Placed with consent - management decision
+01-01-1958 	31-12-1992 	120 	Launched placement without consent
+01-01-1993 	31-12-1997 	120 	Placement without consent
+01-01-1998 	31-12-2006 	120 	Placement without consent
+01-01-2007 		120 	Placed without consent - decision of children and young people-committees
+01-01-2006 		130 	Youth Sanctions
+01-01-2001 	31-12-2005 	140 	Extension of the repatriation period
+01-01-2006 		140 	Extension of the repatriation period
+01-01-2001 	31-12-2006 	150 	Aftercare with 24-hour stay
+01-01-2007 		150 	Aftercare with 24-hour stay
+01-01-2010 		160 	Closure (Staff Enforcement Act)
+01-01-2010 		170 	Precaution Surrogate (Forensic Code)
+01-01-2010 		180 	Chairman's decision
+		199 	Unenlightened paragraph
+01-01-1976 	31-12-1978 	346 	Recommendations and orders
+01-01-1979 	31-12-1985 	346 	Recommendation or order for 24-hour stays
+01-01-1977 	31-12-1979 	365 	Private Family Care - Moving Denied
+01-01-1977 	31-12-1979 	324 	Private Family Care - Repatriation Denied
+01-01-1976 	31-12-1979 	368 	Special care client in private round-the-clock care
+01-01-1993 	31-12-1996 	200 	Financial support for stays at boarding/after-school
+01-01-1997 	31-12-1997 	200 	Financial support for stays at boarding/after-school
+01-01-1998 	31-12-2005 	200 	Financial support for stays at boarding/after-school
+01-01-1991 	31-12-1997 	210 	Relief stays for children/young people with a stay in their own home
+01-01-1998 	31-12-2005 	210 	Relief stays for children/young people with a stay in their own home
+01-01-2006 	31-12-2006 	210 	Relief stays for children/young people with a stay in their own home
+01-01-2007 	31-12-2023 	210 	Relief stays for children/young people with a stay in their own home
+01-01-1958 	31-12-1992 	220 	Appointment of personal counsellor
+01-01-1993 	31-12-1997 	220 	Personal advisor
+01-01-1998 	31-12-2005 	220 	Personal advisor
+01-01-2006 	31-12-2006 	220 	Personal advisor
+01-01-2007 	31-12-2010 	220 	Personal advisor
+01-01-1998 	31-12-2005 	230 	Fixed contact person
+01-01-2006 	31-12-2006 	230 	Permanent contact person for the young person alone
+01-01-2007 	31-12-2010 	230 	Permanent contact person for the young person alone
+01-01-2011 	31-12-2023 	230 	Permanent contact person for the child or young person alone
+01-01-2001 	31-12-2005 	240 	Dissemination of traineeships to young people with a public or private employer
+01-01-2006 	31-12-2006 	240 	Dissemination of traineeships to young people with a public or private employer
+01-01-2007 	31-12-2010 	240 	Dissemination of traineeships to young people with a public or private employer
+01-01-2011 	31-12-2023 	240 	Dissemination of traineeships for young people
+01-01-2001 	31-12-2006 	250 	Establishment of the suspension scheme in the location of the previous location.
+01-01-2007 	31-12-2010 	250 	Establishment of the suspension scheme in the location of the previous location.
+01-01-2010 	31-12-2010 	252 	Exhaustion scheme in the place of placement so far.
+01-01-2009 	31-12-2023 	260 	Children's and young people's injunctions
+01-01-2010 	31-12-2010 	270 	Permanent contact person for the young person in aftercare
+01-01-2011 	31-12-2023 	270 	Permanent contact person for the young person in aftercare
+01-01-2011 	31-12-2023 	271 	Permanent contact person for young people who, before the age of 18 and the young person who has reached the age of 15, are or were placed without consent until the age of 23
+01-01-2011 	31-12-2023 	275 	Other forms of support aimed at contributing to a good transition to self-employed life for the young person over the age of 18
+01-01-2010 	31-12-2010 	280 	Permanent contact person for the young person in aftercare
+01-01-2010 	31-12-2023 	290 	Permanent contact person for young people over the age of 18
+01-01-2013 	31-12-2023 	405 	Consultancy, including family-oriented interventions
+01-01-2014 	31-12-2023 	401 	Network or Conversation Groups
+01-01-2014 	31-12-2023 	402 	Counseling on family planning.
+01-01-2014 	31-12-2023 	274 	Organisation of network consultation due to criminal behaviour
+01-01-2013 	31-12-2023 	272 	Permanent contact person until the age of 19
+01-01-2013 	31-12-2023 	273 	Short-term stay at former location for young people in aftercare
+01-10-2014 	31-12-2023 	407 	Expenditure related to consultancy services
+01-10-2014 	31-12-2023 	445 	Financial support in connection with expenditure under section 52, paragraph 3 of the law on social services
+01-10-2014 	31-12-2023 	450 	Financial support to avoid placement
+01-10-2014 	31-12-2023 	451 	Expenses that can contribute to a stable contact between parents and child during the child's placement outside the home
+01-10-2014 	31-12-2023 	452 	Expenditure related to contraception
+01-01-2014 	31-12-2023 	403 	Other measures aimed at preventing difficulties.
+01-01-2014 	31-12-2023 	404 	Financial support for leisure activities
+01-01-2013 	01-10-2014 	400 	The Municipal Council must offer preventive action to the child, the young person or the family, when it is assessed that support after no. 1-4 can meet the child's or the young person's needs.
+01-01-2015 	31-12-2023 	225 	Treatment of the child's or adolescent's problems
+01-01-2011 	31-12-2023 	250 	Exhaustion scheme in the high place of storage
+01-01-2016 	31-12-2023 	215 	Relief stays during 24-hour stay
+01-01-2020 		259 	Practical, pedagogical or other support at home (see law on combating juvenile delinquency)
+01-01-2020 		261 	Treatment of the problems of the child or adolescent (see law on combating juvenile delinquency)
+01-01-2020 		262 	Round-the-clock stays for both the child and other members of the family (see law on combating juvenile delinquency)
+01-01-2024 		408 	Family guidance for families with children under 18 years of age with significant and lasting, reduced physical or mental functional ability
+01-01-2020 	31-12-2023 	409 	Counselling, examination and treatment of children and adolescents with behavioural difficulties or impairment, and their families
+01-01-2020 		258 	Stay in daycare, leisure homes, youth club, educational institution or the like() per second laid down in the law on combating juvenile delinquency)
+01-01-2024 		210 	Support stays for children or young people not placed outside the home
+01-01-2024 		215 	Support stays during round-the-clock stays
+01-01-2024 		225 	Treatment of the child's or adolescent's problems with consent
+01-01-2024 		230 	Permanent contact person for the child or young person with consent
+01-01-2024 		240 	Dissemination of internships for young people
+01-01-2024 		245 	Connection of coordinator of young people who are sentenced to a sanction under section 74 (a) of the Criminal Code
+01-01-2024 		250 	Deployment scheme in the location to date
+01-01-2024 		260 	Children's and young people's injunctions
+01-01-2024 		270 	Maintenance of already appointed permanent contact person to young people over the age of 18
+01-01-2024 		271 	Permanent contact person for young people who, before the age of 18 and the young person who has reached the age of 15, are or were placed without consent until the age of 23
+01-01-2024 		272 	Permanent contact person until the age of 19
+01-01-2024 		273 	Short-term return to the former place of placement for young people who were placed outside the home immediately before the age of 18
+01-01-2024 		274 	Call for network consultation in connection with the fact that a young person under the age of 18 is suspected of having committed serious crime
+01-01-2024 		275 	Allocation of other forms of support to young people over the age of 18 who have a formal contribution to a good transition to an independent life for the young person
+01-01-2024 		290 	Permanent contact person for young people over the age of 18
+01-01-2024 		401 	Network or Conversation Groups
+01-01-2024 		402 	Counselling on Family Planning
+01-01-2024 		403 	Other interventions aimed at preventing are difficulties of the child, a young person or family
+01-01-2024 		404 	Financial support for leisure activities for children and young people in need of special support
+01-01-2024 		405 	Consultancy, including family-oriented interventions
+01-01-2024 		406 	Stay in daycare, leisure homes, youth club, place of education or similar with consent
+01-01-2024 		407 	Expenditure related to consultancy services
+01-01-2024 		409 	Counselling, examination and treatment of children and adolescents with behavioural difficulties or reduced physical or mental functional ability as well as their families
+01-01-2024 		415 	Practical, pedagogical or other support at home
+01-01-2024 		420 	Family treatment with consent
+01-01-2024 		425 	Family placement in the form of a 24-hour stay for both the custodial parent, the child or the young person and other members of the family
+01-01-2024 		430 	Permanent contact person for the whole family
+01-01-2024 		435 	Support person for the custody of the child or adolescent's placement outside the home
+01-01-2024 		440 	Other aid aimed at providing advice, treatment and educational support
+01-01-2024 		445 	Financial support for the custodial parent for expenses in connection with supportive efforts under section 32, paragraph 1, and section 46 of the child's law
+01-01-2024 		450 	Financial support for the custodial parent for expenses that prevent a placement outside the home or the acceleration of a repatriation
+01-01-2024 		451 	Financial support for the custodial parent for expenses that may contribute to a stable contact between parents and child during the child's placement outside the home
+01-01-2024 		452 	Expenditure related to contraception
+01-01-2024 		455 	Parental orders
+01-01-2024 		461 	Support person from family/network for the child or adolescent during placement
+01-01-2024 		462 	Support person outside family/networks for the child or adolescent during placement
+01-01-2024 		463 	Friendship family from family/network the child or young person during placement
+01-01-2024 		464 	Friendship family outside family/networks for the child or young person during placement
+01-01-2020 		268 	Relief stay for child/young person with residence in their own home (see law on combating juvenile delinquency)
+01-01-2020 	31-12-2023 	499 	Establishment of contact person for the whole family (see law on combating juvenile delinquency)
+01-01-2020 		277 	Dissemination of traineeship services to young people (see law on combating juvenile delinquency)
+01-01-2020 		278 	Other aid to provide advice, treatment and support (see law on combating juvenile delinquency)
+01-01-2020 		256 	Be at home at a specified time (see law on combating juvenile delinquency)
+01-07-2020 	31-12-2023 	408 	Family counselling for families of children under 18 with significant and permanent, reduced physical or mental functional ability
+01-01-2020 		257 	Immediate response (see Law on Combating Juvenile Delinquency)
+01-01-2020 		498 	Family treatment (see law on combating juvenile delinquency)
+01-01-2020 		269 	Permanent contact person for the young person alone (see law on combating juvenile delinquency)

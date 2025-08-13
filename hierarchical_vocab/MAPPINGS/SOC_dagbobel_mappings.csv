@@ -1,0 +1,11 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_dagbobel_Q1,SOC,dagbobel,Q1,Daily fine amount (percentile): Q1,enhanced_english,medium,english
+SOC_dagbobel_Q10,SOC,dagbobel,Q10,Daily fine amount (percentile): Q10,enhanced_english,medium,english
+SOC_dagbobel_Q2,SOC,dagbobel,Q2,Daily fine amount (percentile): Q2,enhanced_english,medium,english
+SOC_dagbobel_Q3,SOC,dagbobel,Q3,Daily fine amount (percentile): Q3,enhanced_english,medium,english
+SOC_dagbobel_Q4,SOC,dagbobel,Q4,Daily fine amount (percentile): Q4,enhanced_english,medium,english
+SOC_dagbobel_Q5,SOC,dagbobel,Q5,Daily fine amount (percentile): Q5,enhanced_english,medium,english
+SOC_dagbobel_Q6,SOC,dagbobel,Q6,Daily fine amount (percentile): Q6,enhanced_english,medium,english
+SOC_dagbobel_Q7,SOC,dagbobel,Q7,Daily fine amount (percentile): Q7,enhanced_english,medium,english
+SOC_dagbobel_Q8,SOC,dagbobel,Q8,Daily fine amount (percentile): Q8,enhanced_english,medium,english
+SOC_dagbobel_Q9,SOC,dagbobel,Q9,Daily fine amount (percentile): Q9,enhanced_english,medium,english

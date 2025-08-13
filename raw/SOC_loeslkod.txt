@@ -1,0 +1,13 @@
+Value set
+D281700. TXT_LOESLKOD - Release code Valid from 	Valid for 	Code 	Text
+		0 	Unenlightened
+		1 	Released by the judge in constitutional interrogation
+		10 	Parolful on stricter terms
+		2 	Released by police within 24 hours without constitutional interrogation
+		3 	Released by police after maintained arrest u. reforestim.i Grundls.inter interrogation
+		4 	Released after pre-trial detention
+		5 	Directly to serving after constitutional interrogation (prison/tempt extended)
+		6 	Measure repealed
+		7 	Detention maintained
+		8 	Released after administrative detention
+		9 	Released after detention

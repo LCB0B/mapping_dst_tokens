@@ -1,0 +1,58 @@
+Tilstandskode
+
+Antal personer	2018	2017	2016	2015	2014	2013	2012	2011	2010	2009	2008
+Total	5.801.277	5.775.188	5.741.655	5.699.958	5.654.401	5.619.260	5.596.882	5.575.097	5.553.663	5.530.627	5.506.684
+ 	.	.	.	.	.	.	.	.	.	.	.
+7036 : Sygedagpenge, ej beskæftigelse	19.732	19.312	20.268	22.324	25.692	27.614	30.940	32.251	33.192	32.737	31.820
+7045 : Barselsdagpenge, beskæftigelse	.	.	.	.	1	4	4	4	13	11	8
+7046 : Barselsdagpenge, ej beskæftigelse	7.607	7.751	9.574	9.668	9.609	9.184	9.177	8.830	8.845	7.927	7.797
+11030 : Ansættelse med løntilskud	10	15	9	.	.	.	.	.	.	.	.
+11040 : Virksomhedspraktik	18.091	18.741	20.459	21.597	18.843	20.459	20.649	23.491	18.821	13.710	8.391
+11049 : Nytteindsats	896	1.122	1.575	1.814	2.480	3	.	.	.	.	.
+11520 : Ordinær uddannelse	.	.	.	.	.	.	.	.	3.903	2.561	5.835
+11530 : Særligt tilrettelagte uddannelsesforløb	.	.	.	.	.	.	.	.	1.810	5.324	333
+11550 : Korte vejlednings- og afklaringsforløb	.	.	.	.	.	.	.	.	10.063	3.700	135
+11570 : Vejledning og introduktion	.	.	.	.	.	.	.	.	14	.	.
+11591 : Vejledning og opkvalificering ordinær uddannelse	6.480	9.019	12.348	7.447	7.865	10.658	8.569	7.820	6.611	6.577	8.001
+11592 : Vejledning og opkvalificering øvrige forløb under 4 uger	.	.	.	.	.	.	.	.	2.374	2.644	1.869
+11593 : Vejledning og opkvalificering over 4 uger	.	.	.	.	.	.	.	.	34.425	34.598	27.871
+11594 : Vejledning og opkvalificering øvrige forløb	16.159	18.950	20.703	30.257	28.587	30.895	31.787	40.900	.	.	.
+11800 : Selvvalgt uddannelse i 6 uger	947	1.107	1.403	1.352	2.738	1.816	3.470	.	.	.	.
+11900 : Selvvalgt uddannelse på uddannelsesydelse	.	.	.	.	.	.	2	2.781	3.239	.	.
+12520 : Forsøg	.	.	.	.	.	.	.	.	33	83	38
+13130 : Orlov til børnepasning	.	.	.	.	.	.	.	.	2	558	1.076
+14010 : Revalidering, detaljer oplyst	742	843	973	769	818	825	1.110	1.420	1.850	2.204	2.489
+14012 : Revalideringsydelse med virksomhedspraktik	.	.	1	300	416	506	500	482	857	1.215	1.387
+14014 : Løntilskud ved revalidenters ansættelse med løntilskud	.	.	.	2	.	.	.	.	2	4	3
+15020 : Ledige dagpengemodtaere	.	.	59.915	61.757	67.220	70.260	88.531	73.772	78.020	86.223	38.387
+15025 :	64.202	66.739	.	.	.	.	.	.	.	.	.
+15030 : G-dage	.	.	707	865	688	915	686	1.118	1.813	1.229	615
+15035 : Arbejdsmarkedsydelse	.	.	28	3.411	5.715	.	.	.	.	.	.
+15070 : Feriedagpenge	319	415	293	399	511	445	845	772	656	364	472
+15080 : Ledige kontanthjælpsmodtagere	13.181	15.731	17.401	17.137	15.335	27.440	17.815	14.376	12.084	11.988	8.750
+15100 : Ledighedsydelse mellem fleksjob	2.829	2.991	3.004	3.171	3.077	2.952	3.309	3.822	3.104	4.330	3.029
+15110 : Ledighedsydelse i visitationsperioden før første fleksjob	10.501	10.462	9.683	8.484	9.031	9.847	9.156	8.804	8.071	5.781	4.938
+15120 : Ledighedsydelse under ferie	9	9	17	21	23	21	16	23	31	11	9
+15130 : Ledighedsydelse under barsel og sygdom	.	.	.	253	272	247	271	373	409	487	406
+15140 : Ledighedsydelse efter ustøttet beskæftigelse	.	.	.	.	.	.	.	.	.	.	1
+15800 : Syge på dagpenge eller arbejdsmarkedsydelse	1.836	1.783	1.807	1.713	.	.	.	.	.	.	.
+16010 : Efterløn	41.540	53.250	62.593	72.122	81.035	89.161	94.112	103.008	113.175	120.441	126.316
+16030 : Fleksydelse	2.805	3.721	4.408	5.243	5.691	6.313	6.157	6.019	5.469	4.681	3.396
+17005 : Jobafklaringsforløb	15.554	14.244	12.720	9.054	2.515	.	.	.	.	.	.
+17024 : Ressourceforløb	20.712	19.396	16.200	12.782	7.061	1.577	.	.	.	.	.
+17025 : Førtidspension	181.467	183.127	187.123	192.742	200.184	208.732	215.312	216.912	216.647	214.869	211.628
+17050 : Kontanthjælp	70.538	74.805	79.051	83.683	86.718	85.985	82.199	74.233	64.194	59.910	52.927
+17090 : Introduktionsydelse	5.380	6.158	8.465	7.078	3.900	2.515	1.968	1.458	1.210	1.043	947
+17100 : SU	159.141	5.963	5.160	8.656	5.857	5.707	5.559	5.140	4.942	4.661	3.947
+19998 : Øvrige uden for arbejdsstyrken og børn	.	.	.	.	48	45	6	11	6	7	14
+20000 : Lønmodtager	2.702.100	2.654.197	2.609.908	2.562.731	2.523.632	2.497.212	2.487.402	2.498.529	2.502.934	2.520.956	2.635.444
+30000 : Selvstændig	189.651	189.760	190.649	191.957	191.284	191.648	192.060	194.263	195.802	198.773	202.675
+40000 : Medarbejdende ægtefælle	4.195	4.376	4.516	4.721	4.924	5.088	5.378	5.626	5.806	5.995	6.695
+50000 : Igangværende uddannelse, elevregistret	.	851.825	854.203	861.008	869.353	859.477	850.514	839.460	823.486	802.019	766.609
+51000 : Udenlandske studerende	9.861	5.062	7.686	5.415	5.845	5.096	5.520	5.702	4.169	5.374	5.171
+70000 : Igangværende uddannelse, kursistregistret	.	33.255	34.260	32.597	30.736	31.030	28.486	28.695	32.943	31.945	25.545
+80000 : Igangværende uddannelse, produktionsskoleelev	.	3.323	4.538	4.710	4.531	4.917	4.945	4.798	4.878	4.449	3.518
+90001 : Folkepension	.	973.250	957.087	939.444	921.387	901.166	878.796	852.905	821.430	797.308	776.156
+90002 : Tjenestemandspension	.	4.864	4.923	4.860	4.885	4.779	4.783	4.800	4.946	4.859	4.848
+90003 : Anden pension	.	4.090	3.674	3.283	3.242	3.167	3.097	3.174	3.325	3.474	3.526
+99999 : Øvrige uden for arbejdsstyrken og børn	2.234.792	515.532	514.323	505.131	502.652	501.554	503.751	509.325	518.059	525.597	523.662

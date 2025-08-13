@@ -1,0 +1,45 @@
+code,description
+LAB_soc_status_kode_110,Selvstændige (primær status ult. nov.)
+LAB_soc_status_kode_111,Selvstændige (sekundær status ult. nov.)
+LAB_soc_status_kode_112,Arbejdsgivere (kun relevant for IDA-databasen)
+LAB_soc_status_kode_120,Medarbejdende ægtefæller
+LAB_soc_status_kode_131,Lønmodtagere med ledelsesarbejde
+LAB_soc_status_kode_132,Lønmodtagere på højeste niveau
+LAB_soc_status_kode_133,Lønmodtagere på mellemniveau
+LAB_soc_status_kode_134,Lønmodtagere på grundniveau
+LAB_soc_status_kode_135,Andre lønmodtagere
+LAB_soc_status_kode_136,Lønmodtagere u.n.a.
+LAB_soc_status_kode_137,Lønmodtager ult. nov. ikke primære job
+LAB_soc_status_kode_138,Lønmodtager ej ult. nov.
+LAB_soc_status_kode_200,Arbejdsløse
+LAB_soc_status_kode_300,Udenfor arbejdsstyrken (partiel version)
+LAB_soc_status_kode_311,Støttet beskæftigede uden løn
+LAB_soc_status_kode_312,Feriedagpenge
+LAB_soc_status_kode_313,Vejledning og opkvalificering
+LAB_soc_status_kode_314,Ledighedsydelse
+LAB_soc_status_kode_315,Børnepasningsorlov fra ledighed
+LAB_soc_status_kode_316,Barselsfravær fra ledighed
+LAB_soc_status_kode_317,Sygefravær fra ledighed
+LAB_soc_status_kode_318,Kontanthjælp (passiv)
+LAB_soc_status_kode_319,Integrationsydelse
+LAB_soc_status_kode_320,Revalidering
+LAB_soc_status_kode_321,Ressouceforløb
+LAB_soc_status_kode_322,Jobafklaringsforløb
+LAB_soc_status_kode_351,Fleksløntilskud
+LAB_soc_status_kode_361,Støttet beskæftigelse (ej primær status)
+LAB_soc_status_kode_411,Førtidspension
+LAB_soc_status_kode_412,Efterløn
+LAB_soc_status_kode_413,Fleksydelse
+LAB_soc_status_kode_414,Folkepension
+LAB_soc_status_kode_415,Anden pension
+LAB_soc_status_kode_416,Seniorpension
+LAB_soc_status_kode_417,Tidlig pension
+LAB_soc_status_kode_511,Personer under uddannelse (ordinær)
+LAB_soc_status_kode_512,Børn og unge
+LAB_soc_status_kode_513,Øvrige uden for arbejdsstyrken
+LAB_soc_status_kode_514,Kursister
+LAB_soc_status_kode_515,Produktionsskoleelever
+LAB_soc_status_kode_516,Udenlandske studerende (ud fra opholdsgrundlag)
+LAB_soc_status_kode_517,Modtagere af SU
+LAB_soc_status_kode_611,Barselsfravær fra beskæftigelse (ej primær status)
+LAB_soc_status_kode_612,Sygefravær fra beskæftigelse (ej primær status)

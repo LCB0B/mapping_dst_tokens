@@ -1,0 +1,33 @@
+code,description
+SOC_ansted_klas_01,Netværksplejefamilie (incl. Slægtsanbringelse)
+SOC_ansted_klas_02,"Almindelig plejefamilie, generelt godkendt"
+SOC_ansted_klas_03,"Almindelig plejefamilie, konkret godkendt"
+SOC_ansted_klas_04,"Kommunal plejefamilie, generelt godkendt"
+SOC_ansted_klas_05,"Kommunal plejefamilie, konkret godkendt"
+SOC_ansted_klas_06,"Eget værelse, kollegium, kollegielignende opholdssted"
+SOC_ansted_klas_07,Delvis lukket døgninstitution eller delvis lukket afdeling på åben døgninstitution
+SOC_ansted_klas_08,"Døgninstitution, sikret afdeling"
+SOC_ansted_klas_09,"Døgninstitution, almindelig afdeling"
+SOC_ansted_klas_10,Døgninstitution for børn og unge med nedsat fysisk eller psykisk funktionsevne
+SOC_ansted_klas_11,Kost- og eller efterskole
+SOC_ansted_klas_12,Socialpædagogisk opholdssted
+SOC_ansted_klas_13,Skibsprojekt
+SOC_ansted_klas_14,almindelig plejefamilie (indtil 2014)
+SOC_ansted_klas_15,kommunal plejefamilie (fra 2011)
+SOC_ansted_klas_16,kommunalt døgntilbud (2006-2009)
+SOC_ansted_klas_17,17 akutinstitution (2006-2009)
+SOC_ansted_klas_18,18 Netværksplejefamilie efter § 76 a (unge medfunktionsnedsættelse)
+SOC_ansted_klas_19,19 Almindelig plejefamilie efter § 76 a (unge medfunktionsnedsættelse)
+SOC_ansted_klas_20,20 Kommunal plejefamilie efter § 76 a (unge medfunktionsnedsættelse)
+SOC_ansted_klas_21,21 Almen plejefamilie
+SOC_ansted_klas_22,"22 Almen plejefamilie, unge med funktionsnedsættelse"
+SOC_ansted_klas_23,23 Forstærket plejefamilie
+SOC_ansted_klas_24,"24 Forstærket plejefamilie, unge med funktionsnedsættelse"
+SOC_ansted_klas_25,25 Specialiseret plejefamilie
+SOC_ansted_klas_26,"26 Specialiseret plejefamilie, unge med funktionsnedsættelse"
+SOC_ansted_klas_27,"27 Almindelig plejefamilie, konkret godkendt, unge med funktionsnedsættelse"
+SOC_ansted_klas_28,"28 Almindelig plejefamilie, generelt godkendt, unge med funktionsnedsættelse"
+SOC_ansted_klas_29,"29 Kommunal plejefamilie, generelt godkendt, unge med funktionsnedsættelse"
+SOC_ansted_klas_30,"30 Kommunal plejefamilie, konkret godkendt, unge med funktionsnedsættelse"
+SOC_ansted_klas_98,98 Sygehus
+SOC_ansted_klas_99,99 Uoplyst/ikke relevant

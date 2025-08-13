@@ -1,0 +1,16 @@
+Value set
+D280601. TXT_ANB_CONSENT - Placement basis Valid from 	Valid for 	Code 	Text
+01-01-1970 		1 	Administrative decision with consent (Section 52, paragraph 1, see. paragraph 3, no. 7)
+01-01-1970 		10 	Decision of the Juvenile Delinquency Board without consent requirements (section 14, paragraphs 2 to 4, of the law on combating juvenile delinquency)
+01-01-1970 		11 	Preliminary decision, Chairman of the Children and Young People Committee (section 75, paragraph 1, of the law on social services, section 14, paragraphs 2 to 4, of the law on combating juvenile delinquency)
+01-01-1970 		12 	Decision of the Children and Young People Committee without consent (section 62 l, paragraph 1, of the Aliens Act)
+01-01-1970 		13 	Preliminary decision of the chairman of the children and young people committee (§ 62 l, paragraph 3, of the Aliens Act)
+01-01-1970 		2 	Children and young people's committee, without consent requirements (§ 74, paragraph 1, no. 10, cf. § 58)
+01-01-1970 		3 	Preliminary decision, the chairman of the children and young people committee (section 74, paragraph 1, cf. § 58)
+01-01-1970 		4 	Judgment (youth sanction, Section 74a of the Criminal Code)
+01-01-1970 		5 	Judgment (detention, Section 78(1) of the Criminal Enforcement Act. 2)
+01-01-1970 		6 	Surrogate for pre-trial detention (Practical Procedure § 765)
+01-01-1970 		7 	Young foreigners under the age of 15 (Immigration Act §§ 36 and 37)
+01-01-1970 		8 	Appeals Board's self-employed power (§ 65)
+01-01-1970 		9 	Decision of the Juvenile Delinquency Board with consent (section 14(1) of the Act on Combating Juvenile Delinquency)
+01-01-1970 	31-12-2030 	99 	Unenlightened/not relevant

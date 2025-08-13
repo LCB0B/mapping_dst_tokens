@@ -1,0 +1,90 @@
+code,description
+SOC_ger7_0000,Uoplyst
+SOC_ger7_1000,Uoplyst straffelov
+SOC_ger7_1110,Blodskam mv.
+SOC_ger7_1120,Voldtægt mv.
+SOC_ger7_1130,Heterosek. sæd.f. børn u.12 år
+SOC_ger7_1131,Seksualforbrydelse mod barn under 12 år
+SOC_ger7_1140,Heteroseksuelle sædelighedsforbrydelser i øvrigt
+SOC_ger7_1141,Seksualforbrydelse mod barn under 15 år
+SOC_ger7_1145,Seksualforbrydelse i øvrigt
+SOC_ger7_1150,Homosek. sæd.f. børn u. 12 år
+SOC_ger7_1160,Homosek. sæd.forbr. i øvrigt
+SOC_ger7_1172,Blufærdighedskr. v/beføling
+SOC_ger7_1174,Blufærdighedskr. v/blotteri
+SOC_ger7_1176,Blufærdighedskr. i øvrigt
+SOC_ger7_1180,Utugt mv.
+SOC_ger7_1210,Vold o.l. mod off. myndighed
+SOC_ger7_1220,Opløb/forstyr. af off. orden
+SOC_ger7_1230,Manddrab
+SOC_ger7_1240,Forsøg på manddrab
+SOC_ger7_1250,Psykisk vcld
+SOC_ger7_1252,Simpel vold
+SOC_ger7_1255,Alvorligere vold
+SOC_ger7_1258,Særlig alvorlig vold
+SOC_ger7_1260,Vold mod sagesløs
+SOC_ger7_1270,Forsætlig legemskrænkelse iøv.
+SOC_ger7_1280,Forsætlig legemsbeskadigelse
+SOC_ger7_1283,Uagtsomt manddrab/legemsbesk.
+SOC_ger7_1286,Forbr. mod liv og legeme
+SOC_ger7_1289,Forbr. mod den pers. frihed
+SOC_ger7_1292,Trusler
+SOC_ger7_1304,Dokumentfalsk
+SOC_ger7_1308,Dokumentfalsk med check
+SOC_ger7_1312,Brandstiftelse
+SOC_ger7_1316,"Indbr. i bank., forretn. mv."
+SOC_ger7_1320,Indbr. i beboelser
+SOC_ger7_1324,Indbr. i ubeboede bebyggelser
+SOC_ger7_1328,"Tyveri fra bil, båd mv."
+SOC_ger7_1332,Butikstyverier mv.
+SOC_ger7_1336,Andre tyverier
+SOC_ger7_1339,Tyv./brugstyv. af indr.køretøj
+SOC_ger7_1342,Tyv./brugstyv. af knallert
+SOC_ger7_1345,Tyv./brugstyv. af cykel
+SOC_ger7_1348,Tyv./brugstyv. af andet
+SOC_ger7_1351,Ulovlig omgang med hittegods
+SOC_ger7_1354,Underslæb
+SOC_ger7_1357,Bedrageri
+SOC_ger7_1360,Checkbedrageri
+SOC_ger7_1363,Mandatsvig
+SOC_ger7_1366,Afpresning og åger
+SOC_ger7_1372,Skyldnersvig
+SOC_ger7_1376,Hæleri
+SOC_ger7_1380,Røveri
+SOC_ger7_1384,Grov skattesvig mv.
+SOC_ger7_1390,Hærværk
+SOC_ger7_1394,Uagtsomt hæleri
+SOC_ger7_1398,Berig.forbr. og formuekrænk.
+SOC_ger7_1410,Forbr. mod off. myndighed mv.
+SOC_ger7_1415,Forbr. i off. tjeneste
+SOC_ger7_1420,Falsk forklaring for retten
+SOC_ger7_1425,Falsk forklaring i øvrigt
+SOC_ger7_1430,Forbr. vedr. penge og bevism.
+SOC_ger7_1435,Salg af narkotika mv.
+SOC_ger7_1440,Smugling mv. af narkotika
+SOC_ger7_1445,Almenskadelige forbr. mv.
+SOC_ger7_1450,Ulovligt erhverv mv.
+SOC_ger7_1455,Forbrydelser i familieforhold
+SOC_ger7_1460,Uagts. manddr. mv.v/færd.uheld
+SOC_ger7_1475,Tilhold
+SOC_ger7_1485,Freds- og ærekrænkelser
+SOC_ger7_2110,Færdselsuheld uspecificeret
+SOC_ger7_2210,Færdselsuheld med spiritus
+SOC_ger7_2220,Spiritus- og promillekørsel
+SOC_ger7_2410,Mangler ved køretøj
+SOC_ger7_2610,Færdselslovsovertræd. i øvrigt
+SOC_ger7_3210,Lov om euforiserende stoffer
+SOC_ger7_3410,Våbenloven
+SOC_ger7_3610,Skatte og afgiftslove mv.
+SOC_ger7_3810,Andre strafferetlige særlove
+SOC_ger7_3815,Sundheds- og sociallove
+SOC_ger7_3820,Bygge- og boliglove
+SOC_ger7_3825,Miljølove
+SOC_ger7_3830,"Love vedr. dyr, jagt mv."
+SOC_ger7_3835,Love vedr. arb. transport mv.
+SOC_ger7_3840,Selskabs- og firmalovgiv. mv.
+SOC_ger7_3845,Love vedr. forsvaret og lign.
+SOC_ger7_3850,Love vedr. off. forsyninger
+SOC_ger7_3855,"Love vedr. spil, bev., næring"
+SOC_ger7_3865,Særlovgivning i øvrigt
+SOC_ger7_3870,Uoplyst særlovgivning

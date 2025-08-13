@@ -1,0 +1,6 @@
+code,token_id,description
+[PAD],0,Special model token: [PAD]
+[CLS],1,Special model token: [CLS]
+[SEP],2,Special model token: [SEP]
+[UNK],3,Special model token: [UNK]
+[MASK],4,Special model token: [MASK]

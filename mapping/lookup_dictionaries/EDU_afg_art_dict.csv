@@ -1,0 +1,13 @@
+code,description
+EDU_afg_art_1,Uddannelse afgang
+EDU_afg_art_10,Uddannelse afgang (udgår med ELEV3 version 2014 V1)
+EDU_afg_art_11,Uddannelse og klassetrin afgang
+EDU_afg_art_2,"Uddannelsespause, fortsætter på samme institution"
+EDU_afg_art_20,"Uddannelse/klassetrin pause, fortsætter på samme institution"
+EDU_afg_art_21,"Klassetrin afgang, fortsætter på samme institution"
+EDU_afg_art_3,"Uddannelsespause, fortsætter på anden institution"
+EDU_afg_art_30,"Uddannelse/klassetrin pause, fortsætter på anden institution"
+EDU_afg_art_31,"Klassetrin afgang, fortsætter på anden institution"
+EDU_afg_art_4,I gang
+EDU_afg_art_40,I gang (udgår med ELEV3 version 2014 V1)
+EDU_afg_art_44,"I gang, almene uddannelser"

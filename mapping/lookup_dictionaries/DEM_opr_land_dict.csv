@@ -1,0 +1,262 @@
+code,description
+DEM_opr_land_0,Helt uoplyst
+DEM_opr_land_5000,Helt uoplyst
+DEM_opr_land_5001,Helt uoplyst
+DEM_opr_land_5100,Danmark
+DEM_opr_land_5101,Grønland
+DEM_opr_land_5102,Udlandet uoplyst
+DEM_opr_land_5103,Statsløse
+DEM_opr_land_5104,Finland
+DEM_opr_land_5105,"Island, ligeret dansk"
+DEM_opr_land_5106,Island
+DEM_opr_land_5107,Liechtenstein
+DEM_opr_land_5108,Luxembourg
+DEM_opr_land_5109,Monaco
+DEM_opr_land_5110,Norge
+DEM_opr_land_5111,Nordirland
+DEM_opr_land_5114,Europa uoplyst
+DEM_opr_land_5115,Kongelig
+DEM_opr_land_5120,Sverige
+DEM_opr_land_5122,Albanien
+DEM_opr_land_5124,Andorra
+DEM_opr_land_5126,Belgien
+DEM_opr_land_5128,Bulgarien
+DEM_opr_land_5129,Tjekkoslovakiet
+DEM_opr_land_5130,Frankrig
+DEM_opr_land_5132,Europa uoplyst
+DEM_opr_land_5134,Grækenland
+DEM_opr_land_5140,Nederlandene
+DEM_opr_land_5142,Irland
+DEM_opr_land_5143,Europa uoplyst
+DEM_opr_land_5150,Italien
+DEM_opr_land_5151,Serbien og Montenegro
+DEM_opr_land_5152,Jugoslavien
+DEM_opr_land_5153,Malta
+DEM_opr_land_5154,Polen
+DEM_opr_land_5156,Portugal
+DEM_opr_land_5158,Rumænien
+DEM_opr_land_5159,San Marino
+DEM_opr_land_5160,Schweiz
+DEM_opr_land_5162,Sovjetunionen
+DEM_opr_land_5164,Spanien
+DEM_opr_land_5170,Storbritannien
+DEM_opr_land_5172,Tyrkiet
+DEM_opr_land_5174,Ungarn
+DEM_opr_land_5176,Vatikanstaten
+DEM_opr_land_5180,Tyskland
+DEM_opr_land_5182,Østrig
+DEM_opr_land_5184,DDR
+DEM_opr_land_5186,Europa uoplyst
+DEM_opr_land_5199,Europa uoplyst
+DEM_opr_land_5202,Algeriet
+DEM_opr_land_5204,Angola
+DEM_opr_land_5207,Botswana
+DEM_opr_land_5213,Burundi
+DEM_opr_land_5214,Etiopien
+DEM_opr_land_5215,Comorerne
+DEM_opr_land_5216,Eritrea
+DEM_opr_land_5222,Gambia
+DEM_opr_land_5228,Ghana
+DEM_opr_land_5230,Ækvatorialguinea
+DEM_opr_land_5231,Guinea-Bissau
+DEM_opr_land_5232,Guinea
+DEM_opr_land_5233,Kap Verde
+DEM_opr_land_5234,Kenya
+DEM_opr_land_5235,Lesotho
+DEM_opr_land_5236,Liberia
+DEM_opr_land_5238,Libyen
+DEM_opr_land_5240,Mozambique
+DEM_opr_land_5242,Madagaskar
+DEM_opr_land_5243,Mali
+DEM_opr_land_5244,Marokko
+DEM_opr_land_5245,Mauritius
+DEM_opr_land_5246,Nigeria
+DEM_opr_land_5247,Namibia
+DEM_opr_land_5248,Marshalløerne
+DEM_opr_land_5253,Skt. Helena
+DEM_opr_land_5255,Sierra Leone
+DEM_opr_land_5256,Spanske besiddelser i Afrika
+DEM_opr_land_5258,Sudan
+DEM_opr_land_5259,Swaziland
+DEM_opr_land_5260,Sydsudan
+DEM_opr_land_5262,Sydafrika
+DEM_opr_land_5264,Sydvestafrika
+DEM_opr_land_5266,Tanzania
+DEM_opr_land_5268,Tunesien
+DEM_opr_land_5269,Uganda
+DEM_opr_land_5272,Egypten
+DEM_opr_land_5273,Tuvalu
+DEM_opr_land_5274,Kiribati
+DEM_opr_land_5275,Vanuatu
+DEM_opr_land_5276,Centralafrikanske Republik
+DEM_opr_land_5277,Cameroun
+DEM_opr_land_5278,"Congo, Demokratiske Republik"
+DEM_opr_land_5279,"Congo, Republikken"
+DEM_opr_land_5281,Benin
+DEM_opr_land_5282,Elfenbenskysten
+DEM_opr_land_5283,Gabon
+DEM_opr_land_5284,Mauretanien
+DEM_opr_land_5285,Niger
+DEM_opr_land_5286,Reunion
+DEM_opr_land_5287,Rwanda
+DEM_opr_land_5288,Senegal
+DEM_opr_land_5289,Somalia
+DEM_opr_land_5290,Afrika uoplyst
+DEM_opr_land_5292,Tchad
+DEM_opr_land_5293,Togo
+DEM_opr_land_5294,Burkina Faso
+DEM_opr_land_5295,Zimbabwe
+DEM_opr_land_5296,Zambia
+DEM_opr_land_5297,Malawi
+DEM_opr_land_5298,Seychellerne
+DEM_opr_land_5299,Afrika uoplyst
+DEM_opr_land_5301,Aruba
+DEM_opr_land_5302,Argentina
+DEM_opr_land_5303,Bahamas
+DEM_opr_land_5304,Bolivia
+DEM_opr_land_5305,Barbados
+DEM_opr_land_5306,Brasilien
+DEM_opr_land_5307,Bermuda
+DEM_opr_land_5308,Guyana
+DEM_opr_land_5309,Antigua og Barbuda
+DEM_opr_land_5310,Nauru
+DEM_opr_land_5311,Skt. Vincent og Grenadinerne
+DEM_opr_land_5314,Canada
+DEM_opr_land_5316,Chile
+DEM_opr_land_5318,Colombia
+DEM_opr_land_5319,Syd- og Mellemamerika uoplyst
+DEM_opr_land_5322,Costa Rica
+DEM_opr_land_5324,Cuba
+DEM_opr_land_5325,Curacao
+DEM_opr_land_5326,Dominikanske Republik
+DEM_opr_land_5328,Ecuador
+DEM_opr_land_5336,Fransk Vestindien
+DEM_opr_land_5338,Guatemala
+DEM_opr_land_5339,Grenada
+DEM_opr_land_5342,Haiti
+DEM_opr_land_5344,Surinam
+DEM_opr_land_5345,Dominica
+DEM_opr_land_5346,Nederlandske Antiller
+DEM_opr_land_5347,Skt. Lucia
+DEM_opr_land_5348,Honduras
+DEM_opr_land_5352,Jamaica
+DEM_opr_land_5353,Martinique
+DEM_opr_land_5354,Mexico
+DEM_opr_land_5356,Nicaragua
+DEM_opr_land_5358,Panama
+DEM_opr_land_5364,Paraguay
+DEM_opr_land_5366,Peru
+DEM_opr_land_5367,Syd- og Mellemamerika uoplyst
+DEM_opr_land_5372,El Salvador
+DEM_opr_land_5374,Trinidad og Tobago
+DEM_opr_land_5376,Uruguay
+DEM_opr_land_5390,USA
+DEM_opr_land_5392,Venezuela
+DEM_opr_land_5394,Britisk Vestindien
+DEM_opr_land_5395,Vestindiske Øer
+DEM_opr_land_5397,Nordamerika uoplyst
+DEM_opr_land_5398,Syd- og Mellemamerika uoplyst
+DEM_opr_land_5399,Nordamerika uoplyst
+DEM_opr_land_5402,Yemen
+DEM_opr_land_5403,Forenede Arabiske Emirater
+DEM_opr_land_5404,Afghanistan
+DEM_opr_land_5406,Bahrain
+DEM_opr_land_5408,Bhutan
+DEM_opr_land_5410,Bangladesh
+DEM_opr_land_5412,Brunei
+DEM_opr_land_5414,Myanmar
+DEM_opr_land_5416,Cambodja
+DEM_opr_land_5418,Sri Lanka
+DEM_opr_land_5422,Cypern
+DEM_opr_land_5424,Taiwan
+DEM_opr_land_5428,Hongkong
+DEM_opr_land_5432,Indien
+DEM_opr_land_5434,Indonesien
+DEM_opr_land_5435,Timor-Leste
+DEM_opr_land_5436,Irak
+DEM_opr_land_5438,Iran
+DEM_opr_land_5442,Israel
+DEM_opr_land_5444,Japan
+DEM_opr_land_5446,Jordan
+DEM_opr_land_5448,Kina
+DEM_opr_land_5452,Kuwait
+DEM_opr_land_5454,Laos
+DEM_opr_land_5456,Libanon
+DEM_opr_land_5457,Maldiverne
+DEM_opr_land_5458,Malaysia
+DEM_opr_land_5459,Mongoliet
+DEM_opr_land_5462,Oman
+DEM_opr_land_5464,Nepal
+DEM_opr_land_5466,Nordkorea
+DEM_opr_land_5468,Nordvietnam
+DEM_opr_land_5471,Asien uoplyst
+DEM_opr_land_5472,Pakistan
+DEM_opr_land_5473,Palæstina
+DEM_opr_land_5474,Filippinerne
+DEM_opr_land_5476,Asien uoplyst
+DEM_opr_land_5478,Saudi-Arabien
+DEM_opr_land_5480,Sikkim
+DEM_opr_land_5482,Singapore
+DEM_opr_land_5484,Sydkorea
+DEM_opr_land_5486,Syrien
+DEM_opr_land_5487,Mellemøsten uoplyst
+DEM_opr_land_5488,Vietnam
+DEM_opr_land_5492,Thailand
+DEM_opr_land_5493,Trucial Oman
+DEM_opr_land_5494,Nordyemen
+DEM_opr_land_5496,Qatar
+DEM_opr_land_5498,Indokina
+DEM_opr_land_5499,Asien uoplyst
+DEM_opr_land_5502,Australien
+DEM_opr_land_5505,Tonga
+DEM_opr_land_5506,Franske besiddelser i Stillehavet
+DEM_opr_land_5508,Fiji
+DEM_opr_land_5514,New Zealand
+DEM_opr_land_5516,Cookøerne
+DEM_opr_land_5522,Samoa
+DEM_opr_land_5525,Djibouti
+DEM_opr_land_5526,Belize
+DEM_opr_land_5527,Puerto Rico
+DEM_opr_land_5528,Guadeloupe
+DEM_opr_land_5529,Fransk Guyana
+DEM_opr_land_5530,Falklandsøerne
+DEM_opr_land_5531,Dubai
+DEM_opr_land_5532,Øst Timor
+DEM_opr_land_5533,Macao
+DEM_opr_land_5534,Papua Ny Guinea
+DEM_opr_land_5535,Abu Dhabi
+DEM_opr_land_5599,Øer i Stillehavet
+DEM_opr_land_5607,Estland
+DEM_opr_land_5609,Letland
+DEM_opr_land_5611,Litauen
+DEM_opr_land_5621,Sao Tome og Principe
+DEM_opr_land_5623,Salomonøerne
+DEM_opr_land_5625,Skt. Kitts og Nevis
+DEM_opr_land_5700,Rusland
+DEM_opr_land_5704,Ukraine
+DEM_opr_land_5706,Hviderusland
+DEM_opr_land_5708,Armenien
+DEM_opr_land_5710,Aserbajdsjan
+DEM_opr_land_5712,Moldova
+DEM_opr_land_5714,Usbekistan
+DEM_opr_land_5716,Kasakhstan
+DEM_opr_land_5718,Turkmenistan
+DEM_opr_land_5720,Kirgisistan
+DEM_opr_land_5722,Tadsjikistan
+DEM_opr_land_5724,Georgien
+DEM_opr_land_5750,Kroatien
+DEM_opr_land_5752,Slovenien
+DEM_opr_land_5754,Bosnien-Hercegovina
+DEM_opr_land_5756,Nordmakedonien
+DEM_opr_land_5757,Serbien
+DEM_opr_land_5758,"Jugoslavien, Forbundsrepublikken"
+DEM_opr_land_5759,Montenegro
+DEM_opr_land_5761,Kosovo
+DEM_opr_land_5776,Tjekkiet
+DEM_opr_land_5778,Slovakiet
+DEM_opr_land_5779,Cookøerne
+DEM_opr_land_5800,Helt uoplyst
+DEM_opr_land_5901,Færøerne uoplyst
+DEM_opr_land_5902,Færøerne
+DEM_opr_land_5906,Helt uoplyst
+DEM_opr_land_5999,Udlandet uoplyst

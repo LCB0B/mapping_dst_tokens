@@ -1,0 +1,33 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_ansted_klas_01,SOC,ansted,klas_01,Netværksplejefamilie (incl. Slægtsanbringelse),pt_dictionaries,highest,danish
+SOC_ansted_klas_02,SOC,ansted,klas_02,"Almindelig plejefamilie, generelt godkendt",pt_dictionaries,highest,danish
+SOC_ansted_klas_03,SOC,ansted,klas_03,"Almindelig plejefamilie, konkret godkendt",pt_dictionaries,highest,danish
+SOC_ansted_klas_04,SOC,ansted,klas_04,"Kommunal plejefamilie, generelt godkendt",pt_dictionaries,highest,danish
+SOC_ansted_klas_05,SOC,ansted,klas_05,"Kommunal plejefamilie, konkret godkendt",pt_dictionaries,highest,danish
+SOC_ansted_klas_06,SOC,ansted,klas_06,"Eget værelse, kollegium, kollegielignende opholdssted",pt_dictionaries,highest,danish
+SOC_ansted_klas_07,SOC,ansted,klas_07,Delvis lukket døgninstitution eller delvis lukket afdeling på åben døgninstitution,pt_dictionaries,highest,danish
+SOC_ansted_klas_08,SOC,ansted,klas_08,"Døgninstitution, sikret afdeling",pt_dictionaries,highest,danish
+SOC_ansted_klas_09,SOC,ansted,klas_09,"Døgninstitution, almindelig afdeling",pt_dictionaries,highest,danish
+SOC_ansted_klas_10,SOC,ansted,klas_10,Døgninstitution for børn og unge med nedsat fysisk eller psykisk funktionsevne,pt_dictionaries,highest,danish
+SOC_ansted_klas_11,SOC,ansted,klas_11,Kost- og eller efterskole,pt_dictionaries,highest,danish
+SOC_ansted_klas_12,SOC,ansted,klas_12,Socialpædagogisk opholdssted,pt_dictionaries,highest,danish
+SOC_ansted_klas_13,SOC,ansted,klas_13,Skibsprojekt,pt_dictionaries,highest,danish
+SOC_ansted_klas_14,SOC,ansted,klas_14,almindelig plejefamilie (indtil 2014),pt_dictionaries,highest,danish
+SOC_ansted_klas_15,SOC,ansted,klas_15,kommunal plejefamilie (fra 2011),pt_dictionaries,highest,danish
+SOC_ansted_klas_16,SOC,ansted,klas_16,kommunalt døgntilbud (2006-2009),pt_dictionaries,highest,danish
+SOC_ansted_klas_17,SOC,ansted,klas_17,17 akutinstitution (2006-2009),pt_dictionaries,highest,danish
+SOC_ansted_klas_18,SOC,ansted,klas_18,18 Netværksplejefamilie efter § 76 a (unge medfunktionsnedsættelse),pt_dictionaries,highest,danish
+SOC_ansted_klas_19,SOC,ansted,klas_19,19 Almindelig plejefamilie efter § 76 a (unge medfunktionsnedsættelse),pt_dictionaries,highest,danish
+SOC_ansted_klas_20,SOC,ansted,klas_20,20 Kommunal plejefamilie efter § 76 a (unge medfunktionsnedsættelse),pt_dictionaries,highest,danish
+SOC_ansted_klas_21,SOC,ansted,klas_21,21 Almen plejefamilie,pt_dictionaries,highest,danish
+SOC_ansted_klas_22,SOC,ansted,klas_22,"22 Almen plejefamilie, unge med funktionsnedsættelse",pt_dictionaries,highest,danish
+SOC_ansted_klas_23,SOC,ansted,klas_23,23 Forstærket plejefamilie,pt_dictionaries,highest,danish
+SOC_ansted_klas_24,SOC,ansted,klas_24,"24 Forstærket plejefamilie, unge med funktionsnedsættelse",pt_dictionaries,highest,danish
+SOC_ansted_klas_25,SOC,ansted,klas_25,25 Specialiseret plejefamilie,pt_dictionaries,highest,danish
+SOC_ansted_klas_26,SOC,ansted,klas_26,"26 Specialiseret plejefamilie, unge med funktionsnedsættelse",pt_dictionaries,highest,danish
+SOC_ansted_klas_27,SOC,ansted,klas_27,"27 Almindelig plejefamilie, konkret godkendt, unge med funktionsnedsættelse",pt_dictionaries,highest,danish
+SOC_ansted_klas_28,SOC,ansted,klas_28,"28 Almindelig plejefamilie, generelt godkendt, unge med funktionsnedsættelse",pt_dictionaries,highest,danish
+SOC_ansted_klas_29,SOC,ansted,klas_29,"29 Kommunal plejefamilie, generelt godkendt, unge med funktionsnedsættelse",pt_dictionaries,highest,danish
+SOC_ansted_klas_30,SOC,ansted,klas_30,"30 Kommunal plejefamilie, konkret godkendt, unge med funktionsnedsættelse",pt_dictionaries,highest,danish
+SOC_ansted_klas_98,SOC,ansted,klas_98,98 Sygehus,pt_dictionaries,highest,danish
+SOC_ansted_klas_99,SOC,ansted,klas_99,99 Uoplyst/ikke relevant,pt_dictionaries,highest,danish

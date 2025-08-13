@@ -1,0 +1,17 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_mor_foed_adop_unknown,DEM,mor_foed_adop,unknown,[UNMAPPED] DEM_mor_foed_adop code: unknown,none,none,none
+DEM_mor_foed_adop_21,DEM,mor_foed_adop,21,Parents registered shortly after childbirth,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_33,DEM,mor_foed_adop,33,Child born before 1973,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_99,DEM,mor_foed_adop,99,[UNMAPPED] DEM_mor_foed_adop code: 99,none,none,none
+DEM_mor_foed_adop_31,DEM,mor_foed_adop,31,Child is an Immigrant,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_32,DEM,mor_foed_adop,32,Child is registered for birth abroad,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_0,DEM,mor_foed_adop,0,No parent in the square,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_39,DEM,mor_foed_adop,39,Other parent relations,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_35,DEM,mor_foed_adop,35,Child born abroad or before 1973 and subsequently adopted,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_18,DEM,mor_foed_adop,18,"Only mothers of children born after 1 January 1991: The child is registered for birth abroad, while mother is resident in DK",raw_foed_adop_files,high,english
+DEM_mor_foed_adop_11,DEM,mor_foed_adop,11,Adoptive relationship according to Adoption register,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_12,DEM,mor_foed_adop,12,"Child in Adoption Register, but the adoptive relationship may be with other parent",raw_foed_adop_files,high,english
+DEM_mor_foed_adop_17,DEM,mor_foed_adop,17,Mothers only: Adoption mark in previous FTDB,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_15,DEM,mor_foed_adop,15,Adoption Marking in CPR,raw_foed_adop_files,high,english
+DEM_mor_foed_adop_14,DEM,mor_foed_adop,14,Parent has other sex (Dad is a woman or mother is male),raw_foed_adop_files,high,english
+DEM_mor_foed_adop_2,DEM,mor_foed_adop,2,[UNMAPPED] DEM_mor_foed_adop code: 2,none,none,none

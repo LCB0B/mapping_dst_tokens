@@ -1,0 +1,11 @@
+code,prefix,database,value,description,source,confidence,language
+LAB_gron_check_Q1,LAB,gron,check_Q1,Green check benefits (percentile): check_Q1,enhanced_english,medium,english
+LAB_gron_check_Q10,LAB,gron,check_Q10,Green check benefits (percentile): check_Q10,enhanced_english,medium,english
+LAB_gron_check_Q2,LAB,gron,check_Q2,Green check benefits (percentile): check_Q2,enhanced_english,medium,english
+LAB_gron_check_Q3,LAB,gron,check_Q3,Green check benefits (percentile): check_Q3,enhanced_english,medium,english
+LAB_gron_check_Q4,LAB,gron,check_Q4,Green check benefits (percentile): check_Q4,enhanced_english,medium,english
+LAB_gron_check_Q5,LAB,gron,check_Q5,Green check benefits (percentile): check_Q5,enhanced_english,medium,english
+LAB_gron_check_Q6,LAB,gron,check_Q6,Green check benefits (percentile): check_Q6,enhanced_english,medium,english
+LAB_gron_check_Q7,LAB,gron,check_Q7,Green check benefits (percentile): check_Q7,enhanced_english,medium,english
+LAB_gron_check_Q8,LAB,gron,check_Q8,Green check benefits (percentile): check_Q8,enhanced_english,medium,english
+LAB_gron_check_Q9,LAB,gron,check_Q9,Green check benefits (percentile): check_Q9,enhanced_english,medium,english

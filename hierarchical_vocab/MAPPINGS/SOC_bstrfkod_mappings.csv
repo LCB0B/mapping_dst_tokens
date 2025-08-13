@@ -1,0 +1,4 @@
+value,description,code,token_id,source,mapped
+1,Booklet (discontinued 1.7.2001),SOC_bstrfkod_1,41075,CSV:SOC_bstrfkod_from_raw,True
+2,Prison sentence,SOC_bstrfkod_2,41074,CSV:SOC_bstrfkod_from_raw,True
+4,Punishment determination postponed,SOC_bstrfkod_4,41076,CSV:SOC_bstrfkod_from_raw,True

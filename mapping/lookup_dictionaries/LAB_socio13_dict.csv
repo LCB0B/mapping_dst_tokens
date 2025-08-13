@@ -1,0 +1,23 @@
+code,description
+LAB_socio13_0,Ikke i AKM
+LAB_socio13_110,Selvstændig
+LAB_socio13_111,"Selvstændig, 10 eller flere ansatte"
+LAB_socio13_112,"Selvstændig, 5 - 9 ansatte"
+LAB_socio13_113,"Selvstændig, 1 - 4 ansatte"
+LAB_socio13_114,"Selvstændig, ingen ansatte"
+LAB_socio13_120,Medarbejdende ægtefælle
+LAB_socio13_131,Lønmodtager med ledelsesarbejde
+LAB_socio13_132,Lønmodtager i arbejde der forudsætter færdigheder på højeste niveau
+LAB_socio13_133,Lønmodtager i arbejde der forudsætter færdigheder på mellemniveau
+LAB_socio13_134,Lønmodtager i arbejde der forudsætter færdigheder på grundniveau
+LAB_socio13_135,Andre lønmodtagere	01-01-1600	31-12-9999	Andre lønmodtagere
+LAB_socio13_139,"Lønmodtager, stillingsangivelse ikke oplyst"
+LAB_socio13_210,Arbejdsløs mindst halvdelen af året
+LAB_socio13_220,"Modtager af sygedagpenge, uddannelsesgodtgørelse, orlovsydelser mm."
+LAB_socio13_310,"Under uddannelse, inkl.skoleelever min. 15 år"
+LAB_socio13_321,Førtidspensionister
+LAB_socio13_322,Folkepensionister
+LAB_socio13_323,Efterlønsmodtager mv.
+LAB_socio13_330,Kontanthjælpsmodtager
+LAB_socio13_410,Andre
+LAB_socio13_420,Børn under 15 år ultimo året

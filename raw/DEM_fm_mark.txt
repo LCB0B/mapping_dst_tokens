@@ -1,0 +1,7 @@
+Valid from 	Valid for 	Code 	Text
+01-01-1980 		1 	Lives with both parents
+01-01-1980 		2 	For children: Live with mom, who is in new couple. For adults: Live with mom.
+01-01-1980 		3 	For children: Live with a single mother. For adult value does not exist.
+01-01-1980 		4 	For children: Live with father who is in new couple. For adults: Live with Dad.
+01-01-1980 		5 	For children: Live with a single father. For adults: The value does not exist.
+01-01-1980 		6 	Don't live with parents

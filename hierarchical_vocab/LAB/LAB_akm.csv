@@ -1,0 +1,4 @@
+code,prefix,database,value,token_id
+LAB_akm_type_akm_primary,LAB,akm,type_akm_primary,1244
+LAB_akm_type_akm_independent,LAB,akm,type_akm_independent,1245
+LAB_akm_type_akm_wagereceiver,LAB,akm,type_akm_wagereceiver,1246

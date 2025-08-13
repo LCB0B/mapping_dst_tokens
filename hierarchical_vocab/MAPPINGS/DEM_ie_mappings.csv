@@ -1,0 +1,5 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_ie_type_1,DEM,ie,type_1,Immigrant,enhanced_english,medium,english
+DEM_ie_type_2,DEM,ie,type_2,Descendant of immigrant,enhanced_english,medium,english
+DEM_ie_type_3,DEM,ie,type_3,Danish origin,enhanced_english,medium,english
+DEM_ie_type_unknown,DEM,ie,type_unknown,Unknown immigration status,enhanced_english,medium,english

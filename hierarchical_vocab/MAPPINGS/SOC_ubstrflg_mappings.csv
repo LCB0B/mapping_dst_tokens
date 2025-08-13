@@ -1,0 +1,11 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_ubstrflg_Q1,SOC,ubstrflg,Q1,Unconditional punishment flag (percentile): Q1,enhanced_english,medium,english
+SOC_ubstrflg_Q10,SOC,ubstrflg,Q10,Unconditional punishment flag (percentile): Q10,enhanced_english,medium,english
+SOC_ubstrflg_Q2,SOC,ubstrflg,Q2,Unconditional punishment flag (percentile): Q2,enhanced_english,medium,english
+SOC_ubstrflg_Q3,SOC,ubstrflg,Q3,Unconditional punishment flag (percentile): Q3,enhanced_english,medium,english
+SOC_ubstrflg_Q4,SOC,ubstrflg,Q4,Unconditional punishment flag (percentile): Q4,enhanced_english,medium,english
+SOC_ubstrflg_Q5,SOC,ubstrflg,Q5,Unconditional punishment flag (percentile): Q5,enhanced_english,medium,english
+SOC_ubstrflg_Q6,SOC,ubstrflg,Q6,Unconditional punishment flag (percentile): Q6,enhanced_english,medium,english
+SOC_ubstrflg_Q7,SOC,ubstrflg,Q7,Unconditional punishment flag (percentile): Q7,enhanced_english,medium,english
+SOC_ubstrflg_Q8,SOC,ubstrflg,Q8,Unconditional punishment flag (percentile): Q8,enhanced_english,medium,english
+SOC_ubstrflg_Q9,SOC,ubstrflg,Q9,Unconditional punishment flag (percentile): Q9,enhanced_english,medium,english

@@ -1,0 +1,481 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_opr_land_5001,DEM,opr,land_5001,Country of origin: Unknown/Unspecified,enhanced_english,medium,english
+DEM_opr_land_5100,DEM,opr,land_5100,Country of origin: Denmark,enhanced_english,medium,english
+DEM_opr_land_5102,DEM,opr,land_5102,Country of origin: Faroe Islands (historical),enhanced_english,medium,english
+DEM_opr_land_5103,DEM,opr,land_5103,Country of origin: Greenland (historical),enhanced_english,medium,english
+DEM_opr_land_5104,DEM,opr,land_5104,Country of origin: Faroe Islands,enhanced_english,medium,english
+DEM_opr_land_5105,DEM,opr,land_5105,Country of origin: Greenland (alternative),enhanced_english,medium,english
+DEM_opr_land_5106,DEM,opr,land_5106,Country of origin: Greenland,enhanced_english,medium,english
+DEM_opr_land_5107,DEM,opr,land_5107,Country of origin: Danish territories (other),enhanced_english,medium,english
+DEM_opr_land_5108,DEM,opr,land_5108,Country of origin: Former Danish territories,enhanced_english,medium,english
+DEM_opr_land_5109,DEM,opr,land_5109,Country of origin: Danish territories (unspecified),enhanced_english,medium,english
+DEM_opr_land_5110,DEM,opr,land_5110,Country of origin: Nordic region (unspecified),enhanced_english,medium,english
+DEM_opr_land_5115,DEM,opr,land_5115,Country of origin: Nordic countries (other),enhanced_english,medium,english
+DEM_opr_land_5120,DEM,opr,land_5120,Country of origin: Norway (historical),enhanced_english,medium,english
+DEM_opr_land_5122,DEM,opr,land_5122,Country of origin: Sweden (historical),enhanced_english,medium,english
+DEM_opr_land_5124,DEM,opr,land_5124,Country of origin: Finland (historical),enhanced_english,medium,english
+DEM_opr_land_5126,DEM,opr,land_5126,Country of origin: Iceland (historical),enhanced_english,medium,english
+DEM_opr_land_5128,DEM,opr,land_5128,Country of origin: Norway (alternative),enhanced_english,medium,english
+DEM_opr_land_5129,DEM,opr,land_5129,Country of origin: Sweden (alternative),enhanced_english,medium,english
+DEM_opr_land_5130,DEM,opr,land_5130,Country of origin: Norway,enhanced_english,medium,english
+DEM_opr_land_5134,DEM,opr,land_5134,Country of origin: Sweden (alternative),enhanced_english,medium,english
+DEM_opr_land_5140,DEM,opr,land_5140,Country of origin: Sweden,enhanced_english,medium,english
+DEM_opr_land_5142,DEM,opr,land_5142,Country of origin: Finland (alternative),enhanced_english,medium,english
+DEM_opr_land_5150,DEM,opr,land_5150,Country of origin: Sweden,enhanced_english,medium,english
+DEM_opr_land_5151,DEM,opr,land_5151,Country of origin: Norway (modern),enhanced_english,medium,english
+DEM_opr_land_5152,DEM,opr,land_5152,Country of origin: Finland (modern),enhanced_english,medium,english
+DEM_opr_land_5153,DEM,opr,land_5153,Country of origin: Sweden (modern),enhanced_english,medium,english
+DEM_opr_land_5154,DEM,opr,land_5154,Country of origin: Iceland (modern),enhanced_english,medium,english
+DEM_opr_land_5156,DEM,opr,land_5156,Country of origin: Estonia,enhanced_english,medium,english
+DEM_opr_land_5157,DEM,opr,land_5157,Country of origin: Latvia,enhanced_english,medium,english
+DEM_opr_land_5158,DEM,opr,land_5158,Country of origin: Norway,enhanced_english,medium,english
+DEM_opr_land_5159,DEM,opr,land_5159,Country of origin: Lithuania,enhanced_english,medium,english
+DEM_opr_land_5160,DEM,opr,land_5160,Country of origin: Russia,enhanced_english,medium,english
+DEM_opr_land_5162,DEM,opr,land_5162,Country of origin: Finland,enhanced_english,medium,english
+DEM_opr_land_5164,DEM,opr,land_5164,Country of origin: Belarus,enhanced_english,medium,english
+DEM_opr_land_5170,DEM,opr,land_5170,Country of origin: Iceland,enhanced_english,medium,english
+DEM_opr_land_5172,DEM,opr,land_5172,Country of origin: Ukraine,enhanced_english,medium,english
+DEM_opr_land_5174,DEM,opr,land_5174,Country of origin: Moldova,enhanced_english,medium,english
+DEM_opr_land_5176,DEM,opr,land_5176,Country of origin: Czech Republic,enhanced_english,medium,english
+DEM_opr_land_5180,DEM,opr,land_5180,Country of origin: United Kingdom,enhanced_english,medium,english
+DEM_opr_land_5182,DEM,opr,land_5182,Country of origin: Ireland,enhanced_english,medium,english
+DEM_opr_land_5199,DEM,opr,land_5199,Country of origin: Other European countries,enhanced_english,medium,english
+DEM_opr_land_5202,DEM,opr,land_5202,Country of origin: Netherlands (historical),enhanced_english,medium,english
+DEM_opr_land_5204,DEM,opr,land_5204,Country of origin: Belgium (historical),enhanced_english,medium,english
+DEM_opr_land_5207,DEM,opr,land_5207,Country of origin: Luxembourg (historical),enhanced_english,medium,english
+DEM_opr_land_5213,DEM,opr,land_5213,Country of origin: Germany (East),enhanced_english,medium,english
+DEM_opr_land_5214,DEM,opr,land_5214,Country of origin: Germany (former East),enhanced_english,medium,english
+DEM_opr_land_5215,DEM,opr,land_5215,Country of origin: Germany (former West),enhanced_english,medium,english
+DEM_opr_land_5216,DEM,opr,land_5216,Country of origin: Germany (unified),enhanced_english,medium,english
+DEM_opr_land_5222,DEM,opr,land_5222,Country of origin: Germany (alternative),enhanced_english,medium,english
+DEM_opr_land_5223,DEM,opr,land_5223,Country of origin: Austria (historical),enhanced_english,medium,english
+DEM_opr_land_5228,DEM,opr,land_5228,Country of origin: Switzerland (historical),enhanced_english,medium,english
+DEM_opr_land_5230,DEM,opr,land_5230,Country of origin: France (historical),enhanced_english,medium,english
+DEM_opr_land_5231,DEM,opr,land_5231,Country of origin: Monaco,enhanced_english,medium,english
+DEM_opr_land_5232,DEM,opr,land_5232,Country of origin: France (alternative),enhanced_english,medium,english
+DEM_opr_land_5233,DEM,opr,land_5233,Country of origin: Belgium (alternative),enhanced_english,medium,english
+DEM_opr_land_5234,DEM,opr,land_5234,Country of origin: Netherlands (alternative),enhanced_english,medium,english
+DEM_opr_land_5235,DEM,opr,land_5235,Country of origin: Luxembourg (alternative),enhanced_english,medium,english
+DEM_opr_land_5236,DEM,opr,land_5236,Country of origin: Switzerland (alternative),enhanced_english,medium,english
+DEM_opr_land_5238,DEM,opr,land_5238,Country of origin: Austria (alternative),enhanced_english,medium,english
+DEM_opr_land_5240,DEM,opr,land_5240,Country of origin: Italy (historical),enhanced_english,medium,english
+DEM_opr_land_5242,DEM,opr,land_5242,Country of origin: Vatican City,enhanced_english,medium,english
+DEM_opr_land_5243,DEM,opr,land_5243,Country of origin: San Marino,enhanced_english,medium,english
+DEM_opr_land_5244,DEM,opr,land_5244,Country of origin code: land_5244,enhanced_english,medium,english
+DEM_opr_land_5245,DEM,opr,land_5245,Country of origin: Malta,enhanced_english,medium,english
+DEM_opr_land_5246,DEM,opr,land_5246,Country of origin: Italy (alternative),enhanced_english,medium,english
+DEM_opr_land_5247,DEM,opr,land_5247,Country of origin: Slovenia,enhanced_english,medium,english
+DEM_opr_land_5248,DEM,opr,land_5248,Country of origin: Croatia,enhanced_english,medium,english
+DEM_opr_land_5255,DEM,opr,land_5255,Country of origin: Spain (historical),enhanced_english,medium,english
+DEM_opr_land_5258,DEM,opr,land_5258,Country of origin: Portugal (historical),enhanced_english,medium,english
+DEM_opr_land_5259,DEM,opr,land_5259,Country of origin: Andorra,enhanced_english,medium,english
+DEM_opr_land_5260,DEM,opr,land_5260,Country of origin: Gibraltar,enhanced_english,medium,english
+DEM_opr_land_5262,DEM,opr,land_5262,Country of origin: Spain (alternative),enhanced_english,medium,english
+DEM_opr_land_5266,DEM,opr,land_5266,Country of origin: Portugal (alternative),enhanced_english,medium,english
+DEM_opr_land_5268,DEM,opr,land_5268,Country of origin: Albania,enhanced_english,medium,english
+DEM_opr_land_5269,DEM,opr,land_5269,Country of origin: Bosnia and Herzegovina,enhanced_english,medium,english
+DEM_opr_land_5272,DEM,opr,land_5272,Country of origin: Bulgaria,enhanced_english,medium,english
+DEM_opr_land_5273,DEM,opr,land_5273,Country of origin: Serbia,enhanced_english,medium,english
+DEM_opr_land_5274,DEM,opr,land_5274,Country of origin: Macedonia,enhanced_english,medium,english
+DEM_opr_land_5275,DEM,opr,land_5275,Country of origin: Montenegro,enhanced_english,medium,english
+DEM_opr_land_5276,DEM,opr,land_5276,Country of origin: Kosovo,enhanced_english,medium,english
+DEM_opr_land_5277,DEM,opr,land_5277,Country of origin: Romania,enhanced_english,medium,english
+DEM_opr_land_5278,DEM,opr,land_5278,Country of origin: Hungary,enhanced_english,medium,english
+DEM_opr_land_5279,DEM,opr,land_5279,Country of origin: Slovakia,enhanced_english,medium,english
+DEM_opr_land_5281,DEM,opr,land_5281,Country of origin: Poland,enhanced_english,medium,english
+DEM_opr_land_5282,DEM,opr,land_5282,Country of origin: Czech Republic,enhanced_english,medium,english
+DEM_opr_land_5283,DEM,opr,land_5283,Country of origin: Slovenia (alternative),enhanced_english,medium,english
+DEM_opr_land_5284,DEM,opr,land_5284,Country of origin: Croatia (alternative),enhanced_english,medium,english
+DEM_opr_land_5285,DEM,opr,land_5285,Country of origin: Bosnia and Herzegovina (alternative),enhanced_english,medium,english
+DEM_opr_land_5287,DEM,opr,land_5287,Country of origin: Serbia (alternative),enhanced_english,medium,english
+DEM_opr_land_5288,DEM,opr,land_5288,Country of origin: Montenegro (alternative),enhanced_english,medium,english
+DEM_opr_land_5289,DEM,opr,land_5289,Country of origin: Macedonia (alternative),enhanced_english,medium,english
+DEM_opr_land_5292,DEM,opr,land_5292,Country of origin: Albania (alternative),enhanced_english,medium,english
+DEM_opr_land_5293,DEM,opr,land_5293,Country of origin: Bulgaria (alternative),enhanced_english,medium,english
+DEM_opr_land_5294,DEM,opr,land_5294,Country of origin: Romania (alternative),enhanced_english,medium,english
+DEM_opr_land_5295,DEM,opr,land_5295,Country of origin: Hungary (alternative),enhanced_english,medium,english
+DEM_opr_land_5296,DEM,opr,land_5296,Country of origin: Slovakia (alternative),enhanced_english,medium,english
+DEM_opr_land_5297,DEM,opr,land_5297,Country of origin: Poland (alternative),enhanced_english,medium,english
+DEM_opr_land_5298,DEM,opr,land_5298,Country of origin: Cyprus,enhanced_english,medium,english
+DEM_opr_land_5299,DEM,opr,land_5299,Country of origin: Greece,enhanced_english,medium,english
+DEM_opr_land_5302,DEM,opr,land_5302,Country of origin: Turkey (Europe),enhanced_english,medium,english
+DEM_opr_land_5303,DEM,opr,land_5303,Country of origin: Turkey (Asia),enhanced_english,medium,english
+DEM_opr_land_5304,DEM,opr,land_5304,Country of origin: Turkey,enhanced_english,medium,english
+DEM_opr_land_5305,DEM,opr,land_5305,Country of origin: Georgia,enhanced_english,medium,english
+DEM_opr_land_5306,DEM,opr,land_5306,Country of origin: Armenia,enhanced_english,medium,english
+DEM_opr_land_5308,DEM,opr,land_5308,Country of origin: Azerbaijan,enhanced_english,medium,english
+DEM_opr_land_5309,DEM,opr,land_5309,Country of origin: Kazakhstan,enhanced_english,medium,english
+DEM_opr_land_5310,DEM,opr,land_5310,Country of origin: Kyrgyzstan,enhanced_english,medium,english
+DEM_opr_land_5311,DEM,opr,land_5311,Country of origin: Tajikistan,enhanced_english,medium,english
+DEM_opr_land_5314,DEM,opr,land_5314,Country of origin: Russia (alternative),enhanced_english,medium,english
+DEM_opr_land_5316,DEM,opr,land_5316,Country of origin: Uzbekistan,enhanced_english,medium,english
+DEM_opr_land_5318,DEM,opr,land_5318,Country of origin: Turkmenistan,enhanced_english,medium,english
+DEM_opr_land_5322,DEM,opr,land_5322,Country of origin: Israel,enhanced_english,medium,english
+DEM_opr_land_5324,DEM,opr,land_5324,Country of origin: Lebanon,enhanced_english,medium,english
+DEM_opr_land_5326,DEM,opr,land_5326,Country of origin: Syria,enhanced_english,medium,english
+DEM_opr_land_5328,DEM,opr,land_5328,Country of origin: Jordan,enhanced_english,medium,english
+DEM_opr_land_5338,DEM,opr,land_5338,Country of origin: Iraq,enhanced_english,medium,english
+DEM_opr_land_5339,DEM,opr,land_5339,Country of origin: Iran,enhanced_english,medium,english
+DEM_opr_land_5342,DEM,opr,land_5342,Country of origin: Afghanistan,enhanced_english,medium,english
+DEM_opr_land_5344,DEM,opr,land_5344,Country of origin: Pakistan,enhanced_english,medium,english
+DEM_opr_land_5345,DEM,opr,land_5345,Country of origin: India,enhanced_english,medium,english
+DEM_opr_land_5347,DEM,opr,land_5347,Country of origin: Bangladesh,enhanced_english,medium,english
+DEM_opr_land_5348,DEM,opr,land_5348,Country of origin: Sri Lanka,enhanced_english,medium,english
+DEM_opr_land_5352,DEM,opr,land_5352,Country of origin: Nepal,enhanced_english,medium,english
+DEM_opr_land_5354,DEM,opr,land_5354,Country of origin: Bhutan,enhanced_english,medium,english
+DEM_opr_land_5356,DEM,opr,land_5356,Country of origin: Myanmar,enhanced_english,medium,english
+DEM_opr_land_5358,DEM,opr,land_5358,Country of origin: Thailand,enhanced_english,medium,english
+DEM_opr_land_5364,DEM,opr,land_5364,Country of origin: Malaysia,enhanced_english,medium,english
+DEM_opr_land_5366,DEM,opr,land_5366,Country of origin: Singapore,enhanced_english,medium,english
+DEM_opr_land_5372,DEM,opr,land_5372,Country of origin: Philippines,enhanced_english,medium,english
+DEM_opr_land_5374,DEM,opr,land_5374,Country of origin: Vietnam,enhanced_english,medium,english
+DEM_opr_land_5376,DEM,opr,land_5376,Country of origin: Cambodia,enhanced_english,medium,english
+DEM_opr_land_5390,DEM,opr,land_5390,Country of origin: Germany,enhanced_english,medium,english
+DEM_opr_land_5392,DEM,opr,land_5392,Country of origin: Austria,enhanced_english,medium,english
+DEM_opr_land_5393,DEM,opr,land_5393,Country of origin: Switzerland,enhanced_english,medium,english
+DEM_opr_land_5395,DEM,opr,land_5395,Country of origin: Liechtenstein,enhanced_english,medium,english
+DEM_opr_land_5397,DEM,opr,land_5397,Country of origin: France,enhanced_english,medium,english
+DEM_opr_land_5398,DEM,opr,land_5398,Country of origin: Monaco (alternative),enhanced_english,medium,english
+DEM_opr_land_5402,DEM,opr,land_5402,Country of origin: Belgium,enhanced_english,medium,english
+DEM_opr_land_5403,DEM,opr,land_5403,Country of origin: Luxembourg,enhanced_english,medium,english
+DEM_opr_land_5404,DEM,opr,land_5404,Country of origin: Netherlands,enhanced_english,medium,english
+DEM_opr_land_5406,DEM,opr,land_5406,Country of origin: United Kingdom (alternative),enhanced_english,medium,english
+DEM_opr_land_5408,DEM,opr,land_5408,Country of origin: Ireland (alternative),enhanced_english,medium,english
+DEM_opr_land_5410,DEM,opr,land_5410,Country of origin: Portugal,enhanced_english,medium,english
+DEM_opr_land_5412,DEM,opr,land_5412,Country of origin: Spain,enhanced_english,medium,english
+DEM_opr_land_5414,DEM,opr,land_5414,Country of origin: Andorra (alternative),enhanced_english,medium,english
+DEM_opr_land_5416,DEM,opr,land_5416,Country of origin: Italy,enhanced_english,medium,english
+DEM_opr_land_5418,DEM,opr,land_5418,Country of origin: Vatican City (alternative),enhanced_english,medium,english
+DEM_opr_land_5422,DEM,opr,land_5422,Country of origin: San Marino (alternative),enhanced_english,medium,english
+DEM_opr_land_5424,DEM,opr,land_5424,Country of origin: Malta (alternative),enhanced_english,medium,english
+DEM_opr_land_5432,DEM,opr,land_5432,Country of origin: Belgium,enhanced_english,medium,english
+DEM_opr_land_5434,DEM,opr,land_5434,Country of origin: Netherlands (modern),enhanced_english,medium,english
+DEM_opr_land_5435,DEM,opr,land_5435,Country of origin: Luxembourg (modern),enhanced_english,medium,english
+DEM_opr_land_5436,DEM,opr,land_5436,Country of origin: Luxembourg,enhanced_english,medium,english
+DEM_opr_land_5438,DEM,opr,land_5438,Country of origin: France (modern),enhanced_english,medium,english
+DEM_opr_land_5442,DEM,opr,land_5442,Country of origin: Monaco (modern),enhanced_english,medium,english
+DEM_opr_land_5444,DEM,opr,land_5444,Country of origin: Spain (modern),enhanced_english,medium,english
+DEM_opr_land_5446,DEM,opr,land_5446,Country of origin: Portugal (modern),enhanced_english,medium,english
+DEM_opr_land_5448,DEM,opr,land_5448,Country of origin: Andorra (modern),enhanced_english,medium,english
+DEM_opr_land_5452,DEM,opr,land_5452,Country of origin: Italy (modern),enhanced_english,medium,english
+DEM_opr_land_5454,DEM,opr,land_5454,Country of origin: Vatican City (modern),enhanced_english,medium,english
+DEM_opr_land_5456,DEM,opr,land_5456,Country of origin: France,enhanced_english,medium,english
+DEM_opr_land_5457,DEM,opr,land_5457,Country of origin: San Marino (modern),enhanced_english,medium,english
+DEM_opr_land_5458,DEM,opr,land_5458,Country of origin: Malta (modern),enhanced_english,medium,english
+DEM_opr_land_5459,DEM,opr,land_5459,Country of origin: Gibraltar (modern),enhanced_english,medium,english
+DEM_opr_land_5462,DEM,opr,land_5462,Country of origin: United Kingdom (modern),enhanced_english,medium,english
+DEM_opr_land_5464,DEM,opr,land_5464,Country of origin: Ireland (modern),enhanced_english,medium,english
+DEM_opr_land_5466,DEM,opr,land_5466,Country of origin: Cyprus (modern),enhanced_english,medium,english
+DEM_opr_land_5472,DEM,opr,land_5472,Country of origin: Spain,enhanced_english,medium,english
+DEM_opr_land_5474,DEM,opr,land_5474,Country of origin: Portugal,enhanced_english,medium,english
+DEM_opr_land_5478,DEM,opr,land_5478,Country of origin: Greece (modern),enhanced_english,medium,english
+DEM_opr_land_5482,DEM,opr,land_5482,Country of origin: Turkey (modern),enhanced_english,medium,english
+DEM_opr_land_5484,DEM,opr,land_5484,Country of origin: Italy,enhanced_english,medium,english
+DEM_opr_land_5486,DEM,opr,land_5486,Country of origin: Switzerland,enhanced_english,medium,english
+DEM_opr_land_5487,DEM,opr,land_5487,Country of origin: Austria (modern),enhanced_english,medium,english
+DEM_opr_land_5488,DEM,opr,land_5488,Country of origin: Austria,enhanced_english,medium,english
+DEM_opr_land_5492,DEM,opr,land_5492,Country of origin: Poland,enhanced_english,medium,english
+DEM_opr_land_5496,DEM,opr,land_5496,Country of origin: Czech Republic (modern),enhanced_english,medium,english
+DEM_opr_land_5499,DEM,opr,land_5499,Country of origin: Slovakia (modern),enhanced_english,medium,english
+DEM_opr_land_5502,DEM,opr,land_5502,Country of origin: Hungary (modern),enhanced_english,medium,english
+DEM_opr_land_5505,DEM,opr,land_5505,Country of origin: Romania (modern),enhanced_english,medium,english
+DEM_opr_land_5508,DEM,opr,land_5508,Country of origin: Bulgaria (modern),enhanced_english,medium,english
+DEM_opr_land_5514,DEM,opr,land_5514,Country of origin: Czech Republic,enhanced_english,medium,english
+DEM_opr_land_5522,DEM,opr,land_5522,Country of origin: Slovakia,enhanced_english,medium,english
+DEM_opr_land_5525,DEM,opr,land_5525,Country of origin: Hungary,enhanced_english,medium,english
+DEM_opr_land_5526,DEM,opr,land_5526,Country of origin: Romania,enhanced_english,medium,english
+DEM_opr_land_5534,DEM,opr,land_5534,Country of origin: Bulgaria,enhanced_english,medium,english
+DEM_opr_land_5599,DEM,opr,land_5599,Country of origin: Other European countries,enhanced_english,medium,english
+DEM_opr_land_5607,DEM,opr,land_5607,Country of origin: Morocco,enhanced_english,medium,english
+DEM_opr_land_5609,DEM,opr,land_5609,Country of origin: Algeria,enhanced_english,medium,english
+DEM_opr_land_5611,DEM,opr,land_5611,Country of origin: Tunisia,enhanced_english,medium,english
+DEM_opr_land_5621,DEM,opr,land_5621,Country of origin: Libya,enhanced_english,medium,english
+DEM_opr_land_5623,DEM,opr,land_5623,Country of origin: Egypt,enhanced_english,medium,english
+DEM_opr_land_5625,DEM,opr,land_5625,Country of origin: Sudan,enhanced_english,medium,english
+DEM_opr_land_5700,DEM,opr,land_5700,Country of origin: United States,enhanced_english,medium,english
+DEM_opr_land_5704,DEM,opr,land_5704,Country of origin: Canada,enhanced_english,medium,english
+DEM_opr_land_5706,DEM,opr,land_5706,Country of origin: Mexico,enhanced_english,medium,english
+DEM_opr_land_5708,DEM,opr,land_5708,Country of origin: Guatemala,enhanced_english,medium,english
+DEM_opr_land_5710,DEM,opr,land_5710,Country of origin: Belize,enhanced_english,medium,english
+DEM_opr_land_5712,DEM,opr,land_5712,Country of origin: El Salvador,enhanced_english,medium,english
+DEM_opr_land_5714,DEM,opr,land_5714,Country of origin: Honduras,enhanced_english,medium,english
+DEM_opr_land_5716,DEM,opr,land_5716,Country of origin: Nicaragua,enhanced_english,medium,english
+DEM_opr_land_5718,DEM,opr,land_5718,Country of origin: Costa Rica,enhanced_english,medium,english
+DEM_opr_land_5720,DEM,opr,land_5720,Country of origin: Panama,enhanced_english,medium,english
+DEM_opr_land_5722,DEM,opr,land_5722,Country of origin: Cuba,enhanced_english,medium,english
+DEM_opr_land_5724,DEM,opr,land_5724,Country of origin: Jamaica,enhanced_english,medium,english
+DEM_opr_land_5750,DEM,opr,land_5750,Country of origin: Brazil,enhanced_english,medium,english
+DEM_opr_land_5752,DEM,opr,land_5752,Country of origin: Argentina,enhanced_english,medium,english
+DEM_opr_land_5754,DEM,opr,land_5754,Country of origin: Chile,enhanced_english,medium,english
+DEM_opr_land_5756,DEM,opr,land_5756,Country of origin: Uruguay,enhanced_english,medium,english
+DEM_opr_land_5757,DEM,opr,land_5757,Country of origin: Paraguay,enhanced_english,medium,english
+DEM_opr_land_5758,DEM,opr,land_5758,Country of origin: Bolivia,enhanced_english,medium,english
+DEM_opr_land_5759,DEM,opr,land_5759,Country of origin: Peru,enhanced_english,medium,english
+DEM_opr_land_5761,DEM,opr,land_5761,Country of origin: Ecuador,enhanced_english,medium,english
+DEM_opr_land_5776,DEM,opr,land_5776,Country of origin: Colombia,enhanced_english,medium,english
+DEM_opr_land_5778,DEM,opr,land_5778,Country of origin: Venezuela,enhanced_english,medium,english
+DEM_opr_land_5779,DEM,opr,land_5779,Country of origin: Guyana,enhanced_english,medium,english
+DEM_opr_land_5800,DEM,opr,land_5800,Country of origin: Australia,enhanced_english,medium,english
+DEM_opr_land_5999,DEM,opr,land_5999,Country of origin: Unknown/Other countries,enhanced_english,medium,english
+DEM_opr_land_DEM_opr_land_0,DEM,opr,land_land_0,Helt uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5000,DEM,opr,land_land_5000,Helt uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5001,DEM,opr,land_land_5001,Helt uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5100,DEM,opr,land_land_5100,Danmark,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5101,DEM,opr,land_land_5101,Grønland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5102,DEM,opr,land_land_5102,Udlandet uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5103,DEM,opr,land_land_5103,Statsløse,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5104,DEM,opr,land_land_5104,Finland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5105,DEM,opr,land_land_5105,"Island, ligeret dansk",pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5106,DEM,opr,land_land_5106,Island,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5107,DEM,opr,land_land_5107,Liechtenstein,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5108,DEM,opr,land_land_5108,Luxembourg,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5109,DEM,opr,land_land_5109,Monaco,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5110,DEM,opr,land_land_5110,Norge,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5111,DEM,opr,land_land_5111,Nordirland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5114,DEM,opr,land_land_5114,Europa uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5115,DEM,opr,land_land_5115,Kongelig,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5120,DEM,opr,land_land_5120,Sverige,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5122,DEM,opr,land_land_5122,Albanien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5124,DEM,opr,land_land_5124,Andorra,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5126,DEM,opr,land_land_5126,Belgien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5128,DEM,opr,land_land_5128,Bulgarien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5129,DEM,opr,land_land_5129,Tjekkoslovakiet,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5130,DEM,opr,land_land_5130,Frankrig,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5132,DEM,opr,land_land_5132,Europa uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5134,DEM,opr,land_land_5134,Grækenland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5140,DEM,opr,land_land_5140,Nederlandene,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5142,DEM,opr,land_land_5142,Irland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5143,DEM,opr,land_land_5143,Europa uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5150,DEM,opr,land_land_5150,Italien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5151,DEM,opr,land_land_5151,Serbien og Montenegro,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5152,DEM,opr,land_land_5152,Jugoslavien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5153,DEM,opr,land_land_5153,Malta,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5154,DEM,opr,land_land_5154,Polen,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5156,DEM,opr,land_land_5156,Portugal,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5158,DEM,opr,land_land_5158,Rumænien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5159,DEM,opr,land_land_5159,San Marino,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5160,DEM,opr,land_land_5160,Schweiz,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5162,DEM,opr,land_land_5162,Sovjetunionen,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5164,DEM,opr,land_land_5164,Spanien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5170,DEM,opr,land_land_5170,Storbritannien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5172,DEM,opr,land_land_5172,Tyrkiet,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5174,DEM,opr,land_land_5174,Ungarn,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5176,DEM,opr,land_land_5176,Vatikanstaten,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5180,DEM,opr,land_land_5180,Tyskland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5182,DEM,opr,land_land_5182,Østrig,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5184,DEM,opr,land_land_5184,DDR,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5186,DEM,opr,land_land_5186,Europa uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5199,DEM,opr,land_land_5199,Europa uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5202,DEM,opr,land_land_5202,Algeriet,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5204,DEM,opr,land_land_5204,Angola,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5207,DEM,opr,land_land_5207,Botswana,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5213,DEM,opr,land_land_5213,Burundi,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5214,DEM,opr,land_land_5214,Etiopien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5215,DEM,opr,land_land_5215,Comorerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5216,DEM,opr,land_land_5216,Eritrea,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5222,DEM,opr,land_land_5222,Gambia,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5228,DEM,opr,land_land_5228,Ghana,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5230,DEM,opr,land_land_5230,Ækvatorialguinea,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5231,DEM,opr,land_land_5231,Guinea-Bissau,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5232,DEM,opr,land_land_5232,Guinea,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5233,DEM,opr,land_land_5233,Kap Verde,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5234,DEM,opr,land_land_5234,Kenya,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5235,DEM,opr,land_land_5235,Lesotho,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5236,DEM,opr,land_land_5236,Liberia,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5238,DEM,opr,land_land_5238,Libyen,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5240,DEM,opr,land_land_5240,Mozambique,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5242,DEM,opr,land_land_5242,Madagaskar,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5243,DEM,opr,land_land_5243,Mali,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5244,DEM,opr,land_land_5244,Marokko,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5245,DEM,opr,land_land_5245,Mauritius,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5246,DEM,opr,land_land_5246,Nigeria,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5247,DEM,opr,land_land_5247,Namibia,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5248,DEM,opr,land_land_5248,Marshalløerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5253,DEM,opr,land_land_5253,Skt. Helena,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5255,DEM,opr,land_land_5255,Sierra Leone,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5256,DEM,opr,land_land_5256,Spanske besiddelser i Afrika,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5258,DEM,opr,land_land_5258,Sudan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5259,DEM,opr,land_land_5259,Swaziland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5260,DEM,opr,land_land_5260,Sydsudan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5262,DEM,opr,land_land_5262,Sydafrika,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5264,DEM,opr,land_land_5264,Sydvestafrika,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5266,DEM,opr,land_land_5266,Tanzania,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5268,DEM,opr,land_land_5268,Tunesien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5269,DEM,opr,land_land_5269,Uganda,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5272,DEM,opr,land_land_5272,Egypten,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5273,DEM,opr,land_land_5273,Tuvalu,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5274,DEM,opr,land_land_5274,Kiribati,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5275,DEM,opr,land_land_5275,Vanuatu,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5276,DEM,opr,land_land_5276,Centralafrikanske Republik,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5277,DEM,opr,land_land_5277,Cameroun,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5278,DEM,opr,land_land_5278,"Congo, Demokratiske Republik",pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5279,DEM,opr,land_land_5279,"Congo, Republikken",pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5281,DEM,opr,land_land_5281,Benin,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5282,DEM,opr,land_land_5282,Elfenbenskysten,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5283,DEM,opr,land_land_5283,Gabon,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5284,DEM,opr,land_land_5284,Mauretanien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5285,DEM,opr,land_land_5285,Niger,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5286,DEM,opr,land_land_5286,Reunion,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5287,DEM,opr,land_land_5287,Rwanda,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5288,DEM,opr,land_land_5288,Senegal,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5289,DEM,opr,land_land_5289,Somalia,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5290,DEM,opr,land_land_5290,Afrika uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5292,DEM,opr,land_land_5292,Tchad,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5293,DEM,opr,land_land_5293,Togo,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5294,DEM,opr,land_land_5294,Burkina Faso,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5295,DEM,opr,land_land_5295,Zimbabwe,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5296,DEM,opr,land_land_5296,Zambia,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5297,DEM,opr,land_land_5297,Malawi,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5298,DEM,opr,land_land_5298,Seychellerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5299,DEM,opr,land_land_5299,Afrika uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5301,DEM,opr,land_land_5301,Aruba,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5302,DEM,opr,land_land_5302,Argentina,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5303,DEM,opr,land_land_5303,Bahamas,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5304,DEM,opr,land_land_5304,Bolivia,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5305,DEM,opr,land_land_5305,Barbados,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5306,DEM,opr,land_land_5306,Brasilien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5307,DEM,opr,land_land_5307,Bermuda,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5308,DEM,opr,land_land_5308,Guyana,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5309,DEM,opr,land_land_5309,Antigua og Barbuda,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5310,DEM,opr,land_land_5310,Nauru,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5311,DEM,opr,land_land_5311,Skt. Vincent og Grenadinerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5314,DEM,opr,land_land_5314,Canada,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5316,DEM,opr,land_land_5316,Chile,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5318,DEM,opr,land_land_5318,Colombia,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5319,DEM,opr,land_land_5319,Syd- og Mellemamerika uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5322,DEM,opr,land_land_5322,Costa Rica,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5324,DEM,opr,land_land_5324,Cuba,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5325,DEM,opr,land_land_5325,Curacao,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5326,DEM,opr,land_land_5326,Dominikanske Republik,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5328,DEM,opr,land_land_5328,Ecuador,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5336,DEM,opr,land_land_5336,Fransk Vestindien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5338,DEM,opr,land_land_5338,Guatemala,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5339,DEM,opr,land_land_5339,Grenada,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5342,DEM,opr,land_land_5342,Haiti,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5344,DEM,opr,land_land_5344,Surinam,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5345,DEM,opr,land_land_5345,Dominica,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5346,DEM,opr,land_land_5346,Nederlandske Antiller,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5347,DEM,opr,land_land_5347,Skt. Lucia,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5348,DEM,opr,land_land_5348,Honduras,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5352,DEM,opr,land_land_5352,Jamaica,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5353,DEM,opr,land_land_5353,Martinique,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5354,DEM,opr,land_land_5354,Mexico,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5356,DEM,opr,land_land_5356,Nicaragua,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5358,DEM,opr,land_land_5358,Panama,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5364,DEM,opr,land_land_5364,Paraguay,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5366,DEM,opr,land_land_5366,Peru,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5367,DEM,opr,land_land_5367,Syd- og Mellemamerika uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5372,DEM,opr,land_land_5372,El Salvador,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5374,DEM,opr,land_land_5374,Trinidad og Tobago,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5376,DEM,opr,land_land_5376,Uruguay,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5390,DEM,opr,land_land_5390,USA,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5392,DEM,opr,land_land_5392,Venezuela,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5394,DEM,opr,land_land_5394,Britisk Vestindien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5395,DEM,opr,land_land_5395,Vestindiske Øer,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5397,DEM,opr,land_land_5397,Nordamerika uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5398,DEM,opr,land_land_5398,Syd- og Mellemamerika uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5399,DEM,opr,land_land_5399,Nordamerika uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5402,DEM,opr,land_land_5402,Yemen,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5403,DEM,opr,land_land_5403,Forenede Arabiske Emirater,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5404,DEM,opr,land_land_5404,Afghanistan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5406,DEM,opr,land_land_5406,Bahrain,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5408,DEM,opr,land_land_5408,Bhutan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5410,DEM,opr,land_land_5410,Bangladesh,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5412,DEM,opr,land_land_5412,Brunei,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5414,DEM,opr,land_land_5414,Myanmar,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5416,DEM,opr,land_land_5416,Cambodja,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5418,DEM,opr,land_land_5418,Sri Lanka,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5422,DEM,opr,land_land_5422,Cypern,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5424,DEM,opr,land_land_5424,Taiwan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5428,DEM,opr,land_land_5428,Hongkong,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5432,DEM,opr,land_land_5432,Indien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5434,DEM,opr,land_land_5434,Indonesien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5435,DEM,opr,land_land_5435,Timor-Leste,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5436,DEM,opr,land_land_5436,Irak,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5438,DEM,opr,land_land_5438,Iran,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5442,DEM,opr,land_land_5442,Israel,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5444,DEM,opr,land_land_5444,Japan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5446,DEM,opr,land_land_5446,Jordan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5448,DEM,opr,land_land_5448,Kina,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5452,DEM,opr,land_land_5452,Kuwait,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5454,DEM,opr,land_land_5454,Laos,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5456,DEM,opr,land_land_5456,Libanon,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5457,DEM,opr,land_land_5457,Maldiverne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5458,DEM,opr,land_land_5458,Malaysia,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5459,DEM,opr,land_land_5459,Mongoliet,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5462,DEM,opr,land_land_5462,Oman,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5464,DEM,opr,land_land_5464,Nepal,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5466,DEM,opr,land_land_5466,Nordkorea,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5468,DEM,opr,land_land_5468,Nordvietnam,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5471,DEM,opr,land_land_5471,Asien uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5472,DEM,opr,land_land_5472,Pakistan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5473,DEM,opr,land_land_5473,Palæstina,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5474,DEM,opr,land_land_5474,Filippinerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5476,DEM,opr,land_land_5476,Asien uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5478,DEM,opr,land_land_5478,Saudi-Arabien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5480,DEM,opr,land_land_5480,Sikkim,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5482,DEM,opr,land_land_5482,Singapore,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5484,DEM,opr,land_land_5484,Sydkorea,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5486,DEM,opr,land_land_5486,Syrien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5487,DEM,opr,land_land_5487,Mellemøsten uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5488,DEM,opr,land_land_5488,Vietnam,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5492,DEM,opr,land_land_5492,Thailand,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5493,DEM,opr,land_land_5493,Trucial Oman,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5494,DEM,opr,land_land_5494,Nordyemen,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5496,DEM,opr,land_land_5496,Qatar,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5498,DEM,opr,land_land_5498,Indokina,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5499,DEM,opr,land_land_5499,Asien uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5502,DEM,opr,land_land_5502,Australien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5505,DEM,opr,land_land_5505,Tonga,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5506,DEM,opr,land_land_5506,Franske besiddelser i Stillehavet,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5508,DEM,opr,land_land_5508,Fiji,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5514,DEM,opr,land_land_5514,New Zealand,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5516,DEM,opr,land_land_5516,Cookøerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5522,DEM,opr,land_land_5522,Samoa,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5525,DEM,opr,land_land_5525,Djibouti,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5526,DEM,opr,land_land_5526,Belize,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5527,DEM,opr,land_land_5527,Puerto Rico,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5528,DEM,opr,land_land_5528,Guadeloupe,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5529,DEM,opr,land_land_5529,Fransk Guyana,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5530,DEM,opr,land_land_5530,Falklandsøerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5531,DEM,opr,land_land_5531,Dubai,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5532,DEM,opr,land_land_5532,Øst Timor,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5533,DEM,opr,land_land_5533,Macao,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5534,DEM,opr,land_land_5534,Papua Ny Guinea,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5535,DEM,opr,land_land_5535,Abu Dhabi,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5599,DEM,opr,land_land_5599,Øer i Stillehavet,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5607,DEM,opr,land_land_5607,Estland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5609,DEM,opr,land_land_5609,Letland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5611,DEM,opr,land_land_5611,Litauen,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5621,DEM,opr,land_land_5621,Sao Tome og Principe,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5623,DEM,opr,land_land_5623,Salomonøerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5625,DEM,opr,land_land_5625,Skt. Kitts og Nevis,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5700,DEM,opr,land_land_5700,Rusland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5704,DEM,opr,land_land_5704,Ukraine,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5706,DEM,opr,land_land_5706,Hviderusland,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5708,DEM,opr,land_land_5708,Armenien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5710,DEM,opr,land_land_5710,Aserbajdsjan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5712,DEM,opr,land_land_5712,Moldova,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5714,DEM,opr,land_land_5714,Usbekistan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5716,DEM,opr,land_land_5716,Kasakhstan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5718,DEM,opr,land_land_5718,Turkmenistan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5720,DEM,opr,land_land_5720,Kirgisistan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5722,DEM,opr,land_land_5722,Tadsjikistan,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5724,DEM,opr,land_land_5724,Georgien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5750,DEM,opr,land_land_5750,Kroatien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5752,DEM,opr,land_land_5752,Slovenien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5754,DEM,opr,land_land_5754,Bosnien-Hercegovina,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5756,DEM,opr,land_land_5756,Nordmakedonien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5757,DEM,opr,land_land_5757,Serbien,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5758,DEM,opr,land_land_5758,"Jugoslavien, Forbundsrepublikken",pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5759,DEM,opr,land_land_5759,Montenegro,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5761,DEM,opr,land_land_5761,Kosovo,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5776,DEM,opr,land_land_5776,Tjekkiet,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5778,DEM,opr,land_land_5778,Slovakiet,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5779,DEM,opr,land_land_5779,Cookøerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5800,DEM,opr,land_land_5800,Helt uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5901,DEM,opr,land_land_5901,Færøerne uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5902,DEM,opr,land_land_5902,Færøerne,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5906,DEM,opr,land_land_5906,Helt uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_DEM_opr_land_5999,DEM,opr,land_land_5999,Udlandet uoplyst,pt_dictionaries,highest,danish
+DEM_opr_land_unknown,DEM,opr,land_unknown,Country of origin code: land_unknown,enhanced_english,medium,english

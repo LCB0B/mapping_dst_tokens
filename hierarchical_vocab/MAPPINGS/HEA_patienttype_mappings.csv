@@ -1,0 +1,5 @@
+code,prefix,database,value,description,source,confidence,language
+HEA_patienttype_0,HEA,patienttype,0,Outpatient,enhanced_english,medium,english
+HEA_patienttype_1,HEA,patienttype,1,Inpatient,enhanced_english,medium,english
+HEA_patienttype_2,HEA,patienttype,2,Emergency patient,enhanced_english,medium,english
+HEA_patienttype_3,HEA,patienttype,3,Day surgery patient,enhanced_english,medium,english

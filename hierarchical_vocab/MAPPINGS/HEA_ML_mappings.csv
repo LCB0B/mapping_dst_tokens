@@ -1,0 +1,17 @@
+code,prefix,database,value,description,source,confidence,language
+HEA_ML_manual_bin_10,HEA,ML,manual_bin_10,HEA ML code: manual_bin_10,enhanced_english,medium,english
+HEA_ML_manual_bin_100_500,HEA,ML,manual_bin_100_500,HEA ML code: manual_bin_100_500,enhanced_english,medium,english
+HEA_ML_manual_bin_10_15,HEA,ML,manual_bin_10_15,HEA ML code: manual_bin_10_15,enhanced_english,medium,english
+HEA_ML_manual_bin_15_20,HEA,ML,manual_bin_15_20,HEA ML code: manual_bin_15_20,enhanced_english,medium,english
+HEA_ML_manual_bin_20_30,HEA,ML,manual_bin_20_30,HEA ML code: manual_bin_20_30,enhanced_english,medium,english
+HEA_ML_manual_bin_3,HEA,ML,manual_bin_3,HEA ML code: manual_bin_3,enhanced_english,medium,english
+HEA_ML_manual_bin_30_40,HEA,ML,manual_bin_30_40,HEA ML code: manual_bin_30_40,enhanced_english,medium,english
+HEA_ML_manual_bin_4,HEA,ML,manual_bin_4,HEA ML code: manual_bin_4,enhanced_english,medium,english
+HEA_ML_manual_bin_40_50,HEA,ML,manual_bin_40_50,HEA ML code: manual_bin_40_50,enhanced_english,medium,english
+HEA_ML_manual_bin_5,HEA,ML,manual_bin_5,HEA ML code: manual_bin_5,enhanced_english,medium,english
+HEA_ML_manual_bin_500_1000,HEA,ML,manual_bin_500_1000,HEA ML code: manual_bin_500_1000,enhanced_english,medium,english
+HEA_ML_manual_bin_50_100,HEA,ML,manual_bin_50_100,HEA ML code: manual_bin_50_100,enhanced_english,medium,english
+HEA_ML_manual_bin_7,HEA,ML,manual_bin_7,HEA ML code: manual_bin_7,enhanced_english,medium,english
+HEA_ML_manual_bin_8,HEA,ML,manual_bin_8,HEA ML code: manual_bin_8,enhanced_english,medium,english
+HEA_ML_manual_bin_9,HEA,ML,manual_bin_9,HEA ML code: manual_bin_9,enhanced_english,medium,english
+HEA_ML_over_1000,HEA,ML,over_1000,HEA ML code: over_1000,enhanced_english,medium,english

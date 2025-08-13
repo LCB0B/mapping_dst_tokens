@@ -1,0 +1,6 @@
+code,prefix,database,value,description,source,confidence,language
+HEA_TU_manual_bin_1,HEA,TU,manual_bin_1,HEA TU code: manual_bin_1,enhanced_english,medium,english
+HEA_TU_manual_bin_10,HEA,TU,manual_bin_10,HEA TU code: manual_bin_10,enhanced_english,medium,english
+HEA_TU_manual_bin_100_500,HEA,TU,manual_bin_100_500,HEA TU code: manual_bin_100_500,enhanced_english,medium,english
+HEA_TU_manual_bin_3,HEA,TU,manual_bin_3,HEA TU code: manual_bin_3,enhanced_english,medium,english
+HEA_TU_manual_bin_500_1000,HEA,TU,manual_bin_500_1000,HEA TU code: manual_bin_500_1000,enhanced_english,medium,english

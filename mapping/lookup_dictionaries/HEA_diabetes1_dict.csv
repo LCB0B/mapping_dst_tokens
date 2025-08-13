@@ -1,0 +1,15 @@
+code,description
+HEA_ICD10_DE109,Type-1 diabetes uden komplikationer
+HEA_ICD10_DE107,Type-1 diabetes med multiple komplikationer
+HEA_ICD10_DE100,Type-1 diabetes med koma
+HEA_ICD10_DE105B,Type-1 diabetes med fodsår
+HEA_ICD10_DE105,Type-1 diabetes med komplikationer i perifere karsystem
+HEA_ICD10_DE109A,Type-1 diabetes UNS
+HEA_ICD10_DE104,Type-1 diabetes med neurologisk komplikation
+HEA_ICD10_DE108,Type-1 diabetes med komplikation UNS
+HEA_ICD10_DE101,Type-1 diabetes ketoacidose
+HEA_ICD10_DE103,Type-1 diabetes øjenkomplikation
+HEA_ICD10_DE102,Type-1 diabetes nyrekomplikation
+HEA_ICD10_DE106,Type-1 diabetes med anden komplikation
+HEA_ICD10_DE10,Type-1 diabetes basis
+HEA_ICD10_DE105C,Type-1 diabetes med gangræn

@@ -1,0 +1,11 @@
+code,prefix,database,value,description,source,confidence,language
+LAB_stip_Q3,LAB,stip,Q3,Scholarships from State Educational Support - SU - 3th percentile,generated_pattern,medium,english
+LAB_stip_Q6,LAB,stip,Q6,Scholarships from State Educational Support - SU - 6th percentile,generated_pattern,medium,english
+LAB_stip_Q9,LAB,stip,Q9,Scholarships from State Educational Support - SU - 9th percentile,generated_pattern,medium,english
+LAB_stip_Q10,LAB,stip,Q10,Scholarships from State Educational Support - SU - 10th percentile,generated_pattern,medium,english
+LAB_stip_Q5,LAB,stip,Q5,Scholarships from State Educational Support - SU - 5th percentile,generated_pattern,medium,english
+LAB_stip_Q4,LAB,stip,Q4,Scholarships from State Educational Support - SU - 4th percentile,generated_pattern,medium,english
+LAB_stip_Q7,LAB,stip,Q7,Scholarships from State Educational Support - SU - 7th percentile,generated_pattern,medium,english
+LAB_stip_Q1,LAB,stip,Q1,Scholarships from State Educational Support - SU - 1th percentile,generated_pattern,medium,english
+LAB_stip_Q8,LAB,stip,Q8,Scholarships from State Educational Support - SU - 8th percentile,generated_pattern,medium,english
+LAB_stip_Q2,LAB,stip,Q2,Scholarships from State Educational Support - SU - 2th percentile,generated_pattern,medium,english

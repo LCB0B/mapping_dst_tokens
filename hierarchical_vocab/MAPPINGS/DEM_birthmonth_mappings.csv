@@ -1,0 +1,13 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_birthmonth_1,DEM,birthmonth,1,January,enhanced_english,medium,english
+DEM_birthmonth_10,DEM,birthmonth,10,October,enhanced_english,medium,english
+DEM_birthmonth_11,DEM,birthmonth,11,November,enhanced_english,medium,english
+DEM_birthmonth_12,DEM,birthmonth,12,December,enhanced_english,medium,english
+DEM_birthmonth_2,DEM,birthmonth,2,February,enhanced_english,medium,english
+DEM_birthmonth_3,DEM,birthmonth,3,March,enhanced_english,medium,english
+DEM_birthmonth_4,DEM,birthmonth,4,April,enhanced_english,medium,english
+DEM_birthmonth_5,DEM,birthmonth,5,May,enhanced_english,medium,english
+DEM_birthmonth_6,DEM,birthmonth,6,June,enhanced_english,medium,english
+DEM_birthmonth_7,DEM,birthmonth,7,July,enhanced_english,medium,english
+DEM_birthmonth_8,DEM,birthmonth,8,August,enhanced_english,medium,english
+DEM_birthmonth_9,DEM,birthmonth,9,September,enhanced_english,medium,english

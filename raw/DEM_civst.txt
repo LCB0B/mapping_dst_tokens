@@ -1,0 +1,10 @@
+Valid from 	Valid for 	Code 	Text
+		D 	Death
+		E 	Widow/Sock Man
+		F 	Divorce
+		G 	Married (+ separated)
+		L 	Longest live of 2 partners
+		O 	Revoked partnership
+		P 	Registered partnership
+		U 	Unmarried
+		9 	Undisclosed marital status

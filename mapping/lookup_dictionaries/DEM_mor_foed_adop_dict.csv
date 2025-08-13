@@ -1,0 +1,17 @@
+code,description
+DEM_mor_foed_adop_0,Ingen forælder på pladsen
+DEM_mor_foed_adop_11,Adoptivrelation iflg. Adoptionsregister
+DEM_mor_foed_adop_12,"Barn i Adoptionsregister, men adoptivrelationen kan være med anden forælder"
+DEM_mor_foed_adop_14,Forælder har andet køn (far er kvinde eller mor er mand)
+DEM_mor_foed_adop_15,Adoptionsmarkering i CPR
+DEM_mor_foed_adop_16,Kun mødre: CPR-relation er først gældende fra efter barnet er 30 dage gammelt
+DEM_mor_foed_adop_17,Kun mødre: Adoptionsmarkering i tidligere FTDB
+DEM_mor_foed_adop_18,"Kun mødre til børn født efter 1. januar 1991: Barnet er fødselsregistreret i udlandet, mens mor er bosiddende i DK"
+DEM_mor_foed_adop_21,Forælder registreret kort efter fødsel
+DEM_mor_foed_adop_22,"Forælder registreret kort efter fødsel, barnet adopteret efterfølgende"
+DEM_mor_foed_adop_23,"Forælder registreret kort efter fødsel, barnet adopteret efterfølgende, adoption ophævet"
+DEM_mor_foed_adop_31,Barn er indvandrer
+DEM_mor_foed_adop_32,Barn er fødselsregistreret i udlandet
+DEM_mor_foed_adop_33,Barn født før 1973
+DEM_mor_foed_adop_35,Barn født i udlandet eller før 1973 og efterfølgende adopteret
+DEM_mor_foed_adop_39,Øvrige forælderrelationer

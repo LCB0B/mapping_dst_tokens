@@ -1,0 +1,164 @@
+code,prefix,database,value,description,source,confidence,language
+EDU_course_Afsætning,EDU,course,Afsætning,Course name: Afsætning,enhanced_english,medium,english
+EDU_course_Almen sprogforståelse,EDU,course,Almen sprogforståelse,Course name: Almen sprogforståelse,enhanced_english,medium,english
+EDU_course_Almen studieforberedelse,EDU,course,Almen studieforberedelse,Course name: Almen studieforberedelse,enhanced_english,medium,english
+EDU_course_Andet,EDU,course,Andet,Course name: Andet,enhanced_english,medium,english
+EDU_course_Arabisk begyndersprog,EDU,course,Arabisk begyndersprog,Course name: Arabisk begyndersprog,enhanced_english,medium,english
+EDU_course_Arktisk teknologi,EDU,course,Arktisk teknologi,Course name: Arktisk teknologi,enhanced_english,medium,english
+EDU_course_Astrofysik,EDU,course,Astrofysik,Course name: Astrofysik,enhanced_english,medium,english
+EDU_course_Astronomi,EDU,course,Astronomi,Course name: Astronomi,enhanced_english,medium,english
+EDU_course_Billedkunst,EDU,course,Billedkunst,Course name: Billedkunst,enhanced_english,medium,english
+EDU_course_Biologi,EDU,course,Biologi,Course name: Biologi,enhanced_english,medium,english
+EDU_course_Biologi/fysik/kemi,EDU,course,Biologi/fysik/kemi,Course name: Biologi/fysik/kemi,enhanced_english,medium,english
+EDU_course_Bioteknologi,EDU,course,Bioteknologi,Course name: Bioteknologi,enhanced_english,medium,english
+EDU_course_Byggeteknologi,EDU,course,Byggeteknologi,Course name: Byggeteknologi,enhanced_english,medium,english
+EDU_course_Dans,EDU,course,Dans,Course name: Dans,enhanced_english,medium,english
+EDU_course_Dansk,EDU,course,Dansk,Course name: Dansk,enhanced_english,medium,english
+EDU_course_Dansk IT,EDU,course,Dansk IT,Course name: Dansk IT,enhanced_english,medium,english
+EDU_course_Dansk som andetsprog,EDU,course,Dansk som andetsprog,Course name: Dansk som andetsprog,enhanced_english,medium,english
+EDU_course_Datalogi,EDU,course,Datalogi,Course name: Datalogi,enhanced_english,medium,english
+EDU_course_Design,EDU,course,Design,Course name: Design,enhanced_english,medium,english
+EDU_course_Design og arkitektur,EDU,course,Design og arkitektur,Course name: Design og arkitektur,enhanced_english,medium,english
+EDU_course_Dramatik,EDU,course,Dramatik,Course name: Dramatik,enhanced_english,medium,english
+EDU_course_EU og internationalt økonomisk samarbejde,EDU,course,EU og internationalt økonomisk samarbejde,Course name: EU og internationalt økonomisk samarbejde,enhanced_english,medium,english
+EDU_course_Eksamensprojekt,EDU,course,Eksamensprojekt,Course name: Eksamensprojekt,enhanced_english,medium,english
+EDU_course_Engelsk,EDU,course,Engelsk,Course name: Engelsk,enhanced_english,medium,english
+EDU_course_Engelsk IT,EDU,course,Engelsk IT,Course name: Engelsk IT,enhanced_english,medium,english
+EDU_course_Erhvervscase,EDU,course,Erhvervscase,Course name: Erhvervscase,enhanced_english,medium,english
+EDU_course_Erhvervsinformatik,EDU,course,Erhvervsinformatik,Course name: Erhvervsinformatik,enhanced_english,medium,english
+EDU_course_Erhvervsjura,EDU,course,Erhvervsjura,Course name: Erhvervsjura,enhanced_english,medium,english
+EDU_course_Erhvervsområdeprojekt,EDU,course,Erhvervsområdeprojekt,Course name: Erhvervsområdeprojekt,enhanced_english,medium,english
+EDU_course_Erhvervspsykologi,EDU,course,Erhvervspsykologi,Course name: Erhvervspsykologi,enhanced_english,medium,english
+EDU_course_Erhvervsøkonomi,EDU,course,Erhvervsøkonomi,Course name: Erhvervsøkonomi,enhanced_english,medium,english
+EDU_course_Filosofi,EDU,course,Filosofi,Course name: Filosofi,enhanced_english,medium,english
+EDU_course_Filosofi og teknologi,EDU,course,Filosofi og teknologi,Course name: Filosofi og teknologi,enhanced_english,medium,english
+EDU_course_Finansiering,EDU,course,Finansiering,Course name: Finansiering,enhanced_english,medium,english
+EDU_course_Fransk,EDU,course,Fransk,Course name: Fransk,enhanced_english,medium,english
+EDU_course_Fransk 2. fremmedsprog,EDU,course,Fransk 2. fremmedsprog,Course name: Fransk 2. fremmedsprog,enhanced_english,medium,english
+EDU_course_Fransk 3. fremmedsprog,EDU,course,Fransk 3. fremmedsprog,Course name: Fransk 3. fremmedsprog,enhanced_english,medium,english
+EDU_course_Fransk begyndersprog,EDU,course,Fransk begyndersprog,Course name: Fransk begyndersprog,enhanced_english,medium,english
+EDU_course_Fransk fortsættersprog,EDU,course,Fransk fortsættersprog,Course name: Fransk fortsættersprog,enhanced_english,medium,english
+EDU_course_Fri selvvalgt opgave,EDU,course,Fri selvvalgt opgave,Course name: Fri selvvalgt opgave,enhanced_english,medium,english
+EDU_course_Frivillig projektopgave (naturfag),EDU,course,Frivillig projektopgave (naturfag),Course name: Frivillig projektopgave (naturfag),enhanced_english,medium,english
+EDU_course_Frivillig selvvalgt opgave,EDU,course,Frivillig selvvalgt opgave,Course name: Frivillig selvvalgt opgave,enhanced_english,medium,english
+EDU_course_FyMa,EDU,course,FyMa,Course name: FyMa,enhanced_english,medium,english
+EDU_course_Fysik,EDU,course,Fysik,Course name: Fysik,enhanced_english,medium,english
+EDU_course_Fysik-kemi,EDU,course,Fysik-kemi,Course name: Fysik-kemi,enhanced_english,medium,english
+EDU_course_Fysik/kemi,EDU,course,Fysik/kemi,Course name: Fysik/kemi,enhanced_english,medium,english
+"EDU_course_Fællesprøve i fysik/kemi, biologi og geografi",EDU,course,"Fællesprøve i fysik/kemi, biologi og geografi","Course name: Fællesprøve i fysik/kemi, biologi og geografi",enhanced_english,medium,english
+EDU_course_Fællesprøve i samfundsfag og historie,EDU,course,Fællesprøve i samfundsfag og historie,Course name: Fællesprøve i samfundsfag og historie,enhanced_english,medium,english
+"EDU_course_Fællesprøve i samfundsfag, historie",EDU,course,"Fællesprøve i samfundsfag, historie","Course name: Fællesprøve i samfundsfag, historie",enhanced_english,medium,english
+EDU_course_Fødevareteknologi,EDU,course,Fødevareteknologi,Course name: Fødevareteknologi,enhanced_english,medium,english
+EDU_course_Geografi,EDU,course,Geografi,Course name: Geografi,enhanced_english,medium,english
+EDU_course_Geovidenskab,EDU,course,Geovidenskab,Course name: Geovidenskab,enhanced_english,medium,english
+EDU_course_Græsk begyndersprog,EDU,course,Græsk begyndersprog,Course name: Græsk begyndersprog,enhanced_english,medium,english
+EDU_course_Grønlandsk,EDU,course,Grønlandsk,Course name: Grønlandsk,enhanced_english,medium,english
+EDU_course_Historie,EDU,course,Historie,Course name: Historie,enhanced_english,medium,english
+EDU_course_Håndarbejde,EDU,course,Håndarbejde,Course name: Håndarbejde,enhanced_english,medium,english
+EDU_course_Håndværk og design,EDU,course,Håndværk og design,Course name: Håndværk og design,enhanced_english,medium,english
+EDU_course_Idehistorie,EDU,course,Idehistorie,Course name: Idehistorie,enhanced_english,medium,english
+EDU_course_Idræt,EDU,course,Idræt,Course name: Idræt,enhanced_english,medium,english
+EDU_course_Industriteknologi,EDU,course,Industriteknologi,Course name: Industriteknologi,enhanced_english,medium,english
+EDU_course_Informatik,EDU,course,Informatik,Course name: Informatik,enhanced_english,medium,english
+EDU_course_Informationsteknologi,EDU,course,Informationsteknologi,Course name: Informationsteknologi,enhanced_english,medium,english
+EDU_course_Innovation,EDU,course,Innovation,Course name: Innovation,enhanced_english,medium,english
+EDU_course_International (USA),EDU,course,International (USA),Course name: International (USA),enhanced_english,medium,english
+EDU_course_International teknologi og kultur,EDU,course,International teknologi og kultur,Course name: International teknologi og kultur,enhanced_english,medium,english
+EDU_course_International økonomi,EDU,course,International økonomi,Course name: International økonomi,enhanced_english,medium,english
+EDU_course_Islandsk,EDU,course,Islandsk,Course name: Islandsk,enhanced_english,medium,english
+EDU_course_It,EDU,course,It,Course name: It,enhanced_english,medium,english
+EDU_course_Italiensk begyndersprog,EDU,course,Italiensk begyndersprog,Course name: Italiensk begyndersprog,enhanced_english,medium,english
+EDU_course_Iværksætter,EDU,course,Iværksætter,Course name: Iværksætter,enhanced_english,medium,english
+EDU_course_Japansk begyndersprog,EDU,course,Japansk begyndersprog,Course name: Japansk begyndersprog,enhanced_english,medium,english
+EDU_course_Kemi,EDU,course,Kemi,Course name: Kemi,enhanced_english,medium,english
+EDU_course_Kinesisk begyndersprog,EDU,course,Kinesisk begyndersprog,Course name: Kinesisk begyndersprog,enhanced_english,medium,english
+EDU_course_Kinesisk fortsættersprog,EDU,course,Kinesisk fortsættersprog,Course name: Kinesisk fortsættersprog,enhanced_english,medium,english
+EDU_course_Kinesisk områdestudium,EDU,course,Kinesisk områdestudium,Course name: Kinesisk områdestudium,enhanced_english,medium,english
+EDU_course_Kommunikation/it,EDU,course,Kommunikation/it,Course name: Kommunikation/it,enhanced_english,medium,english
+EDU_course_Kristendomskundskab,EDU,course,Kristendomskundskab,Course name: Kristendomskundskab,enhanced_english,medium,english
+EDU_course_Kultur- og samfundsfaggruppe,EDU,course,Kultur- og samfundsfaggruppe,Course name: Kultur- og samfundsfaggruppe,enhanced_english,medium,english
+EDU_course_Kultur- og samfundsfaggruppe - Historie,EDU,course,Kultur- og samfundsfaggruppe - Historie,Course name: Kultur- og samfundsfaggruppe - Historie,enhanced_english,medium,english
+EDU_course_Kultur- og samfundsfaggruppe - Religion,EDU,course,Kultur- og samfundsfaggruppe - Religion,Course name: Kultur- og samfundsfaggruppe - Religion,enhanced_english,medium,english
+EDU_course_Kultur- og samfundsfaggruppe - Samfundsfag,EDU,course,Kultur- og samfundsfaggruppe - Samfundsfag,Course name: Kultur- og samfundsfaggruppe - Samfundsfag,enhanced_english,medium,english
+EDU_course_Kultur/historie,EDU,course,Kultur/historie,Course name: Kultur/historie,enhanced_english,medium,english
+EDU_course_Kulturfag,EDU,course,Kulturfag,Course name: Kulturfag,enhanced_english,medium,english
+EDU_course_Kulturforståelse,EDU,course,Kulturforståelse,Course name: Kulturforståelse,enhanced_english,medium,english
+EDU_course_Kvalitetsstyring,EDU,course,Kvalitetsstyring,Course name: Kvalitetsstyring,enhanced_english,medium,english
+EDU_course_Latin,EDU,course,Latin,Course name: Latin,enhanced_english,medium,english
+EDU_course_Latin begyndersprog,EDU,course,Latin begyndersprog,Course name: Latin begyndersprog,enhanced_english,medium,english
+EDU_course_Madkundskab,EDU,course,Madkundskab,Course name: Madkundskab,enhanced_english,medium,english
+EDU_course_Markedskommunikation,EDU,course,Markedskommunikation,Course name: Markedskommunikation,enhanced_english,medium,english
+EDU_course_Marketing,EDU,course,Marketing,Course name: Marketing,enhanced_english,medium,english
+EDU_course_Matematik,EDU,course,Matematik,Course name: Matematik,enhanced_english,medium,english
+EDU_course_Materialeteknologi,EDU,course,Materialeteknologi,Course name: Materialeteknologi,enhanced_english,medium,english
+EDU_course_Mediefag,EDU,course,Mediefag,Course name: Mediefag,enhanced_english,medium,english
+EDU_course_Medier,EDU,course,Medier,Course name: Medier,enhanced_english,medium,english
+EDU_course_Metal og motorværksted,EDU,course,Metal og motorværksted,Course name: Metal og motorværksted,enhanced_english,medium,english
+EDU_course_Multimedier,EDU,course,Multimedier,Course name: Multimedier,enhanced_english,medium,english
+EDU_course_Musik,EDU,course,Musik,Course name: Musik,enhanced_english,medium,english
+EDU_course_Musik og lydproduktion,EDU,course,Musik og lydproduktion,Course name: Musik og lydproduktion,enhanced_english,medium,english
+EDU_course_Nationaløkonomi,EDU,course,Nationaløkonomi,Course name: Nationaløkonomi,enhanced_english,medium,english
+EDU_course_Naturfag,EDU,course,Naturfag,Course name: Naturfag,enhanced_english,medium,english
+EDU_course_Naturgeografi,EDU,course,Naturgeografi,Course name: Naturgeografi,enhanced_english,medium,english
+EDU_course_Naturvidenskabelig faggruppe,EDU,course,Naturvidenskabelig faggruppe,Course name: Naturvidenskabelig faggruppe,enhanced_english,medium,english
+EDU_course_Naturvidenskabelig faggruppe - Biologi,EDU,course,Naturvidenskabelig faggruppe - Biologi,Course name: Naturvidenskabelig faggruppe - Biologi,enhanced_english,medium,english
+EDU_course_Naturvidenskabelig faggruppe - Geografi,EDU,course,Naturvidenskabelig faggruppe - Geografi,Course name: Naturvidenskabelig faggruppe - Geografi,enhanced_english,medium,english
+EDU_course_Naturvidenskabelig faggruppe - Kemi,EDU,course,Naturvidenskabelig faggruppe - Kemi,Course name: Naturvidenskabelig faggruppe - Kemi,enhanced_english,medium,english
+EDU_course_Naturvidenskabeligt grundforløb,EDU,course,Naturvidenskabeligt grundforløb,Course name: Naturvidenskabeligt grundforløb,enhanced_english,medium,english
+EDU_course_OBL,EDU,course,OBL,Course name: OBL,enhanced_english,medium,english
+EDU_course_Obligatorisk projektopgave,EDU,course,Obligatorisk projektopgave,Course name: Obligatorisk projektopgave,enhanced_english,medium,english
+EDU_course_Obligatorisk selvvalgt opgave,EDU,course,Obligatorisk selvvalgt opgave,Course name: Obligatorisk selvvalgt opgave,enhanced_english,medium,english
+EDU_course_Oldtidskundskab,EDU,course,Oldtidskundskab,Course name: Oldtidskundskab,enhanced_english,medium,english
+EDU_course_Organisation,EDU,course,Organisation,Course name: Organisation,enhanced_english,medium,english
+EDU_course_Portugisisk begyndersprog,EDU,course,Portugisisk begyndersprog,Course name: Portugisisk begyndersprog,enhanced_english,medium,english
+EDU_course_Produktudvikling,EDU,course,Produktudvikling,Course name: Produktudvikling,enhanced_english,medium,english
+EDU_course_Programmering,EDU,course,Programmering,Course name: Programmering,enhanced_english,medium,english
+EDU_course_Projektfag,EDU,course,Projektfag,Course name: Projektfag,enhanced_english,medium,english
+EDU_course_Projektopgave,EDU,course,Projektopgave,Course name: Projektopgave,enhanced_english,medium,english
+EDU_course_Psykologi,EDU,course,Psykologi,Course name: Psykologi,enhanced_english,medium,english
+EDU_course_Religion,EDU,course,Religion,Course name: Religion,enhanced_english,medium,english
+EDU_course_Retorik,EDU,course,Retorik,Course name: Retorik,enhanced_english,medium,english
+EDU_course_Russisk begyndersprog,EDU,course,Russisk begyndersprog,Course name: Russisk begyndersprog,enhanced_english,medium,english
+EDU_course_Samfundsfag,EDU,course,Samfundsfag,Course name: Samfundsfag,enhanced_english,medium,english
+EDU_course_Samtidshistorie,EDU,course,Samtidshistorie,Course name: Samtidshistorie,enhanced_english,medium,english
+EDU_course_Science,EDU,course,Science,Course name: Science,enhanced_english,medium,english
+EDU_course_Sløjd,EDU,course,Sløjd,Course name: Sløjd,enhanced_english,medium,english
+EDU_course_Spansk,EDU,course,Spansk,Course name: Spansk,enhanced_english,medium,english
+EDU_course_Spansk begyndersprog,EDU,course,Spansk begyndersprog,Course name: Spansk begyndersprog,enhanced_english,medium,english
+EDU_course_Spansk fortsættersprog,EDU,course,Spansk fortsættersprog,Course name: Spansk fortsættersprog,enhanced_english,medium,english
+EDU_course_Statik og styrkelære,EDU,course,Statik og styrkelære,Course name: Statik og styrkelære,enhanced_english,medium,english
+EDU_course_Statistik,EDU,course,Statistik,Course name: Statistik,enhanced_english,medium,english
+EDU_course_Studieområde,EDU,course,Studieområde,Course name: Studieområde,enhanced_english,medium,english
+EDU_course_Studieområde - det internationale område,EDU,course,Studieområde - det internationale område,Course name: Studieområde - det internationale område,enhanced_english,medium,english
+EDU_course_Studieområde - erhvervscase,EDU,course,Studieområde - erhvervscase,Course name: Studieområde - erhvervscase,enhanced_english,medium,english
+EDU_course_Studieområde del 1,EDU,course,Studieområde del 1,Course name: Studieområde del 1,enhanced_english,medium,english
+EDU_course_Studieområdeprojekt,EDU,course,Studieområdeprojekt,Course name: Studieområdeprojekt,enhanced_english,medium,english
+EDU_course_Studieområdet del 2,EDU,course,Studieområdet del 2,Course name: Studieområdet del 2,enhanced_english,medium,english
+EDU_course_Studieretningsopgave,EDU,course,Studieretningsopgave,Course name: Studieretningsopgave,enhanced_english,medium,english
+EDU_course_Studieretningsprojekt,EDU,course,Studieretningsprojekt,Course name: Studieretningsprojekt,enhanced_english,medium,english
+EDU_course_Større skriftlig opgave,EDU,course,Større skriftlig opgave,Course name: Større skriftlig opgave,enhanced_english,medium,english
+EDU_course_Sundhed og sociale forhold,EDU,course,Sundhed og sociale forhold,Course name: Sundhed og sociale forhold,enhanced_english,medium,english
+EDU_course_Teater,EDU,course,Teater,Course name: Teater,enhanced_english,medium,english
+EDU_course_Teknikfag,EDU,course,Teknikfag,Course name: Teknikfag,enhanced_english,medium,english
+EDU_course_Teknikfag - byggeri og energi,EDU,course,Teknikfag - byggeri og energi,Course name: Teknikfag - byggeri og energi,enhanced_english,medium,english
+EDU_course_Teknikfag - design og produktion,EDU,course,Teknikfag - design og produktion,Course name: Teknikfag - design og produktion,enhanced_english,medium,english
+EDU_course_Teknikfag - digitalt design og udvikling,EDU,course,Teknikfag - digitalt design og udvikling,Course name: Teknikfag - digitalt design og udvikling,enhanced_english,medium,english
+EDU_course_Teknikfag - proces levnedsmiddel og sundhed,EDU,course,Teknikfag - proces levnedsmiddel og sundhed,Course name: Teknikfag - proces levnedsmiddel og sundhed,enhanced_english,medium,english
+EDU_course_Teknikfag - udvikling og produktion,EDU,course,Teknikfag - udvikling og produktion,Course name: Teknikfag - udvikling og produktion,enhanced_english,medium,english
+"EDU_course_Teknikfag byggeri og energi, el",EDU,course,"Teknikfag byggeri og energi, el","Course name: Teknikfag byggeri og energi, el",enhanced_english,medium,english
+EDU_course_Teknologi,EDU,course,Teknologi,Course name: Teknologi,enhanced_english,medium,english
+EDU_course_Teknologihistorie,EDU,course,Teknologihistorie,Course name: Teknologihistorie,enhanced_english,medium,english
+EDU_course_Tyrkisk begyndersprog,EDU,course,Tyrkisk begyndersprog,Course name: Tyrkisk begyndersprog,enhanced_english,medium,english
+EDU_course_Tysk,EDU,course,Tysk,Course name: Tysk,enhanced_english,medium,english
+EDU_course_Tysk 2. fremmedsprog,EDU,course,Tysk 2. fremmedsprog,Course name: Tysk 2. fremmedsprog,enhanced_english,medium,english
+EDU_course_Tysk 3. fremmedsprog,EDU,course,Tysk 3. fremmedsprog,Course name: Tysk 3. fremmedsprog,enhanced_english,medium,english
+EDU_course_Tysk begyndersprog,EDU,course,Tysk begyndersprog,Course name: Tysk begyndersprog,enhanced_english,medium,english
+EDU_course_Tysk fortsættersprog,EDU,course,Tysk fortsættersprog,Course name: Tysk fortsættersprog,enhanced_english,medium,english
+EDU_course_Verdenslitteratur,EDU,course,Verdenslitteratur,Course name: Verdenslitteratur,enhanced_english,medium,english
+EDU_course_Virksomhedsinformation,EDU,course,Virksomhedsinformation,Course name: Virksomhedsinformation,enhanced_english,medium,english
+EDU_course_Virksomhedsøkonomi,EDU,course,Virksomhedsøkonomi,Course name: Virksomhedsøkonomi,enhanced_english,medium,english
+EDU_course_level_-,EDU,course,level_-,Course name: level_-,enhanced_english,medium,english
+EDU_course_level_A,EDU,course,level_A,Course name: level_A,enhanced_english,medium,english
+EDU_course_level_B,EDU,course,level_B,Course name: level_B,enhanced_english,medium,english
+EDU_course_level_C,EDU,course,level_C,Course name: level_C,enhanced_english,medium,english
+EDU_course_Økonomisk grundforløb,EDU,course,Økonomisk grundforløb,Course name: Økonomisk grundforløb,enhanced_english,medium,english

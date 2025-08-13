@@ -1,0 +1,9 @@
+code,prefix,database,value,description,source,confidence,language
+EDU_tilg_art_1 ,EDU,tilg,art_1 ,Education access type: art_1 ,enhanced_english,medium,english
+EDU_tilg_art_11,EDU,tilg,art_11,Education access type: art_11,enhanced_english,medium,english
+EDU_tilg_art_2 ,EDU,tilg,art_2 ,Education access type: art_2 ,enhanced_english,medium,english
+EDU_tilg_art_20,EDU,tilg,art_20,Education access type: art_20,enhanced_english,medium,english
+EDU_tilg_art_21,EDU,tilg,art_21,Education access type: art_21,enhanced_english,medium,english
+EDU_tilg_art_3 ,EDU,tilg,art_3 ,Education access type: art_3 ,enhanced_english,medium,english
+EDU_tilg_art_30,EDU,tilg,art_30,Education access type: art_30,enhanced_english,medium,english
+EDU_tilg_art_31,EDU,tilg,art_31,Education access type: art_31,enhanced_english,medium,english

@@ -1,0 +1,164 @@
+code,prefix,database,value,token_id
+EDU_course_Engelsk,EDU,course,Engelsk,31780
+EDU_course_Fysik/kemi,EDU,course,Fysik/kemi,31781
+EDU_course_Dansk,EDU,course,Dansk,31782
+EDU_course_OBL,EDU,course,OBL,31783
+EDU_course_Matematik,EDU,course,Matematik,31784
+EDU_course_Tysk,EDU,course,Tysk,31785
+EDU_course_Historie,EDU,course,Historie,31786
+EDU_course_Madkundskab,EDU,course,Madkundskab,31787
+EDU_course_Biologi,EDU,course,Biologi,31788
+EDU_course_Geografi,EDU,course,Geografi,31789
+EDU_course_Håndværk og design,EDU,course,Håndværk og design,31790
+EDU_course_Idræt,EDU,course,Idræt,31791
+EDU_course_Kristendomskundskab,EDU,course,Kristendomskundskab,31792
+EDU_course_Samfundsfag,EDU,course,Samfundsfag,31793
+EDU_course_Tysk 2. fremmedsprog,EDU,course,Tysk 2. fremmedsprog,31794
+"EDU_course_Fællesprøve i fysik/kemi, biologi og geografi",EDU,course,"Fællesprøve i fysik/kemi, biologi og geografi",31795
+EDU_course_Obligatorisk projektopgave,EDU,course,Obligatorisk projektopgave,31796
+EDU_course_Billedkunst,EDU,course,Billedkunst,31797
+EDU_course_Håndarbejde,EDU,course,Håndarbejde,31798
+EDU_course_Fransk,EDU,course,Fransk,31799
+EDU_course_Fransk 2. fremmedsprog,EDU,course,Fransk 2. fremmedsprog,31800
+EDU_course_Musik,EDU,course,Musik,31801
+EDU_course_Obligatorisk selvvalgt opgave,EDU,course,Obligatorisk selvvalgt opgave,31802
+EDU_course_Frivillig selvvalgt opgave,EDU,course,Frivillig selvvalgt opgave,31803
+EDU_course_Latin,EDU,course,Latin,31804
+EDU_course_Sløjd,EDU,course,Sløjd,31805
+EDU_course_Biologi/fysik/kemi,EDU,course,Biologi/fysik/kemi,31806
+EDU_course_Fri selvvalgt opgave,EDU,course,Fri selvvalgt opgave,31807
+EDU_course_Frivillig projektopgave (naturfag),EDU,course,Frivillig projektopgave (naturfag),31808
+EDU_course_Tysk 3. fremmedsprog,EDU,course,Tysk 3. fremmedsprog,31809
+EDU_course_Fransk 3. fremmedsprog,EDU,course,Fransk 3. fremmedsprog,31810
+EDU_course_Medier,EDU,course,Medier,31811
+EDU_course_Spansk,EDU,course,Spansk,31812
+"EDU_course_Fællesprøve i samfundsfag, historie",EDU,course,"Fællesprøve i samfundsfag, historie",31813
+EDU_course_Fællesprøve i samfundsfag og historie,EDU,course,Fællesprøve i samfundsfag og historie,31814
+EDU_course_Iværksætter,EDU,course,Iværksætter,31815
+EDU_course_Metal og motorværksted,EDU,course,Metal og motorværksted,31816
+EDU_course_Sundhed og sociale forhold,EDU,course,Sundhed og sociale forhold,31817
+EDU_course_Naturfag,EDU,course,Naturfag,31818
+EDU_course_Oldtidskundskab,EDU,course,Oldtidskundskab,31826
+EDU_course_Studieretningsprojekt,EDU,course,Studieretningsprojekt,31827
+EDU_course_Religion,EDU,course,Religion,31828
+EDU_course_Almen sprogforståelse,EDU,course,Almen sprogforståelse,31829
+EDU_course_Naturgeografi,EDU,course,Naturgeografi,31830
+EDU_course_Almen studieforberedelse,EDU,course,Almen studieforberedelse,31831
+EDU_course_Spansk begyndersprog,EDU,course,Spansk begyndersprog,31832
+EDU_course_Fysik,EDU,course,Fysik,31833
+EDU_course_Kemi,EDU,course,Kemi,31834
+EDU_course_Naturvidenskabeligt grundforløb,EDU,course,Naturvidenskabeligt grundforløb,31835
+EDU_course_Studieområde - erhvervscase,EDU,course,Studieområde - erhvervscase,31836
+EDU_course_Virksomhedsøkonomi,EDU,course,Virksomhedsøkonomi,31837
+EDU_course_Kulturforståelse,EDU,course,Kulturforståelse,31838
+EDU_course_Tysk fortsættersprog,EDU,course,Tysk fortsættersprog,31839
+EDU_course_Afsætning,EDU,course,Afsætning,31840
+EDU_course_Mediefag,EDU,course,Mediefag,31841
+EDU_course_Studieområde - det internationale område,EDU,course,Studieområde - det internationale område,31842
+EDU_course_Psykologi,EDU,course,Psykologi,31843
+EDU_course_Erhvervsøkonomi,EDU,course,Erhvervsøkonomi,31844
+EDU_course_Organisation,EDU,course,Organisation,31845
+EDU_course_International økonomi,EDU,course,International økonomi,31846
+EDU_course_Samtidshistorie,EDU,course,Samtidshistorie,31847
+EDU_course_Finansiering,EDU,course,Finansiering,31848
+EDU_course_Erhvervsjura,EDU,course,Erhvervsjura,31849
+EDU_course_Informationsteknologi,EDU,course,Informationsteknologi,31850
+EDU_course_Fransk begyndersprog,EDU,course,Fransk begyndersprog,31851
+EDU_course_Bioteknologi,EDU,course,Bioteknologi,31852
+EDU_course_Innovation,EDU,course,Innovation,31853
+EDU_course_Markedskommunikation,EDU,course,Markedskommunikation,31854
+EDU_course_Filosofi,EDU,course,Filosofi,31855
+EDU_course_Kommunikation/it,EDU,course,Kommunikation/it,31856
+EDU_course_Idehistorie,EDU,course,Idehistorie,31857
+EDU_course_Studieområde,EDU,course,Studieområde,31858
+EDU_course_Teknikfag - byggeri og energi,EDU,course,Teknikfag - byggeri og energi,31859
+EDU_course_Teknologi,EDU,course,Teknologi,31860
+EDU_course_Retorik,EDU,course,Retorik,31861
+EDU_course_Dramatik,EDU,course,Dramatik,31862
+EDU_course_Større skriftlig opgave,EDU,course,Større skriftlig opgave,31863
+EDU_course_Kultur- og samfundsfaggruppe - Historie,EDU,course,Kultur- og samfundsfaggruppe - Historie,31864
+EDU_course_Kultur- og samfundsfaggruppe,EDU,course,Kultur- og samfundsfaggruppe,31865
+EDU_course_Naturvidenskabelig faggruppe,EDU,course,Naturvidenskabelig faggruppe,31866
+EDU_course_Naturvidenskabelig faggruppe - Kemi,EDU,course,Naturvidenskabelig faggruppe - Kemi,31867
+EDU_course_Eksamensprojekt,EDU,course,Eksamensprojekt,31868
+EDU_course_Økonomisk grundforløb,EDU,course,Økonomisk grundforløb,31869
+EDU_course_Informatik,EDU,course,Informatik,31870
+EDU_course_Studieområdeprojekt,EDU,course,Studieområdeprojekt,31871
+EDU_course_Erhvervscase,EDU,course,Erhvervscase,31872
+EDU_course_Teknikfag - digitalt design og udvikling,EDU,course,Teknikfag - digitalt design og udvikling,31873
+EDU_course_Programmering,EDU,course,Programmering,31874
+EDU_course_Fransk fortsættersprog,EDU,course,Fransk fortsættersprog,31875
+EDU_course_Industriteknologi,EDU,course,Industriteknologi,31876
+EDU_course_Multimedier,EDU,course,Multimedier,31877
+EDU_course_Design,EDU,course,Design,31878
+EDU_course_Astronomi,EDU,course,Astronomi,31879
+EDU_course_Erhvervsområdeprojekt,EDU,course,Erhvervsområdeprojekt,31880
+EDU_course_Produktudvikling,EDU,course,Produktudvikling,31881
+EDU_course_Naturvidenskabelig faggruppe - Geografi,EDU,course,Naturvidenskabelig faggruppe - Geografi,31882
+EDU_course_Kultur- og samfundsfaggruppe - Religion,EDU,course,Kultur- og samfundsfaggruppe - Religion,31883
+EDU_course_Teknologihistorie,EDU,course,Teknologihistorie,31884
+EDU_course_Teknikfag - proces levnedsmiddel og sundhed,EDU,course,Teknikfag - proces levnedsmiddel og sundhed,31885
+EDU_course_Teknikfag - design og produktion,EDU,course,Teknikfag - design og produktion,31886
+EDU_course_Naturvidenskabelig faggruppe - Biologi,EDU,course,Naturvidenskabelig faggruppe - Biologi,31887
+EDU_course_Kinesisk begyndersprog,EDU,course,Kinesisk begyndersprog,31888
+EDU_course_Latin begyndersprog,EDU,course,Latin begyndersprog,31889
+EDU_course_Italiensk begyndersprog,EDU,course,Italiensk begyndersprog,31890
+EDU_course_It,EDU,course,It,31891
+EDU_course_Design og arkitektur,EDU,course,Design og arkitektur,31892
+EDU_course_Tyrkisk begyndersprog,EDU,course,Tyrkisk begyndersprog,31893
+EDU_course_Dans,EDU,course,Dans,31894
+EDU_course_Kultur- og samfundsfaggruppe - Samfundsfag,EDU,course,Kultur- og samfundsfaggruppe - Samfundsfag,31895
+EDU_course_Græsk begyndersprog,EDU,course,Græsk begyndersprog,31896
+EDU_course_Musik og lydproduktion,EDU,course,Musik og lydproduktion,31897
+EDU_course_Statik og styrkelære,EDU,course,Statik og styrkelære,31898
+EDU_course_International teknologi og kultur,EDU,course,International teknologi og kultur,31899
+EDU_course_Teknikfag - udvikling og produktion,EDU,course,Teknikfag - udvikling og produktion,31900
+EDU_course_Arabisk begyndersprog,EDU,course,Arabisk begyndersprog,31901
+EDU_course_Fysik-kemi,EDU,course,Fysik-kemi,31902
+EDU_course_Geovidenskab,EDU,course,Geovidenskab,31903
+EDU_course_Teknikfag,EDU,course,Teknikfag,31904
+EDU_course_Virksomhedsinformation,EDU,course,Virksomhedsinformation,31905
+EDU_course_Datalogi,EDU,course,Datalogi,31906
+EDU_course_Statistik,EDU,course,Statistik,31907
+EDU_course_Erhvervspsykologi,EDU,course,Erhvervspsykologi,31908
+EDU_course_EU og internationalt økonomisk samarbejde,EDU,course,EU og internationalt økonomisk samarbejde,31909
+EDU_course_Studieområdet del 2,EDU,course,Studieområdet del 2,31910
+EDU_course_Dansk IT,EDU,course,Dansk IT,31911
+EDU_course_Engelsk IT,EDU,course,Engelsk IT,31912
+EDU_course_Russisk begyndersprog,EDU,course,Russisk begyndersprog,31913
+EDU_course_Andet,EDU,course,Andet,31914
+EDU_course_Filosofi og teknologi,EDU,course,Filosofi og teknologi,31915
+EDU_course_Materialeteknologi,EDU,course,Materialeteknologi,31916
+EDU_course_Projektfag,EDU,course,Projektfag,31917
+EDU_course_Japansk begyndersprog,EDU,course,Japansk begyndersprog,31918
+EDU_course_Tysk begyndersprog,EDU,course,Tysk begyndersprog,31919
+EDU_course_Dansk som andetsprog,EDU,course,Dansk som andetsprog,31920
+EDU_course_Astrofysik,EDU,course,Astrofysik,31921
+EDU_course_Projektopgave,EDU,course,Projektopgave,31922
+EDU_course_Kinesisk områdestudium,EDU,course,Kinesisk områdestudium,31923
+EDU_course_Spansk fortsættersprog,EDU,course,Spansk fortsættersprog,31924
+EDU_course_Byggeteknologi,EDU,course,Byggeteknologi,31925
+EDU_course_Studieretningsopgave,EDU,course,Studieretningsopgave,31926
+EDU_course_FyMa,EDU,course,FyMa,31927
+EDU_course_Marketing,EDU,course,Marketing,31928
+EDU_course_Studieområde del 1,EDU,course,Studieområde del 1,31929
+EDU_course_Kultur/historie,EDU,course,Kultur/historie,31930
+EDU_course_Science,EDU,course,Science,31931
+EDU_course_Kvalitetsstyring,EDU,course,Kvalitetsstyring,31932
+EDU_course_Islandsk,EDU,course,Islandsk,31933
+EDU_course_Kulturfag,EDU,course,Kulturfag,31934
+EDU_course_Arktisk teknologi,EDU,course,Arktisk teknologi,31935
+EDU_course_Grønlandsk,EDU,course,Grønlandsk,31936
+EDU_course_International (USA),EDU,course,International (USA),31937
+EDU_course_Fødevareteknologi,EDU,course,Fødevareteknologi,31938
+EDU_course_Nationaløkonomi,EDU,course,Nationaløkonomi,31939
+EDU_course_Portugisisk begyndersprog,EDU,course,Portugisisk begyndersprog,31940
+EDU_course_Teater,EDU,course,Teater,31941
+EDU_course_Erhvervsinformatik,EDU,course,Erhvervsinformatik,31942
+"EDU_course_Teknikfag byggeri og energi, el",EDU,course,"Teknikfag byggeri og energi, el",31943
+EDU_course_Kinesisk fortsættersprog,EDU,course,Kinesisk fortsættersprog,31944
+EDU_course_Verdenslitteratur,EDU,course,Verdenslitteratur,31945
+EDU_course_level_C,EDU,course,level_C,31946
+EDU_course_level_-,EDU,course,level_-,31947
+EDU_course_level_B,EDU,course,level_B,31948
+EDU_course_level_A,EDU,course,level_A,31949

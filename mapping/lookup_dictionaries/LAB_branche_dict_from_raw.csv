@@ -1,0 +1,598 @@
+code,description
+LAB_branche_77_00000,Branche-oplysning mgl.
+LAB_branche_77_10000,Brancher uden indhold
+LAB_branche_77_10001,Landbrug
+LAB_branche_77_11101,Landbrug
+LAB_branche_77_11102,"Gartnerier, frugtplant. og planteskoler"
+LAB_branche_77_11103,Anlægsgartnerier
+LAB_branche_77_11104,Pelsdyravl
+LAB_branche_77_11105,Biavl
+LAB_branche_77_11106,Stutterier
+LAB_branche_77_11107,Kenneler
+LAB_branche_77_11201,Landbrugsmaskinstationer
+LAB_branche_77_11202,Drift af afvandingssyst. for landbrugsjord
+LAB_branche_77_11209,"Servicevirksomhed for landbrug, gartneri o.l"
+LAB_branche_77_11300,Jagt og vildtpleje
+LAB_branche_77_12000,Skovbrug
+LAB_branche_77_13010,Hav- og kystfiskeri
+LAB_branche_77_13021,Dambrug
+LAB_branche_77_13029,Diverse fiskerivirksomhed(herunder fiskeri-se
+LAB_branche_77_21000,Brunkulslejer
+LAB_branche_77_22000,Udvinding og efterforskn.af olie og naturgas
+LAB_branche_77_23000,Malmgravning
+LAB_branche_77_29011,Ler- og grusgrave samt stenbrud
+LAB_branche_77_29012,Stenfiskeri
+LAB_branche_77_29013,Kalk- og kridtbrud
+LAB_branche_77_29020,Udvinding af mineraler t.gødnings- og kemisk
+LAB_branche_77_29030,Saltudvinding
+LAB_branche_77_29090,"Udvinding af ikke-metall.råstoffer, + brikett"
+LAB_branche_77_30000,Fremstillingsvirksomhed uoplyst vareområde
+LAB_branche_77_30001,Fremstilling
+LAB_branche_77_31111,Svineslagterier
+LAB_branche_77_31112,Kødv.- og kødkonservesfabrikker
+LAB_branche_77_31113,Kreaturslagterier
+LAB_branche_77_31114,Offentlige slagtehuse
+LAB_branche_77_31115,Talgsmelterier
+LAB_branche_77_31116,Tarmrenserier
+LAB_branche_77_31117,Fjerkræslagterier
+LAB_branche_77_31119,Hjemmeslagtere samt røgning og saltning
+LAB_branche_77_31121,Mejerier
+LAB_branche_77_31122,Smelteostfabrikker
+LAB_branche_77_31123,Mælkekondenseringsfabr.
+LAB_branche_77_31124,Konsumisfabrikker
+LAB_branche_77_31130,Grønt- og frugtkonserves-fabr. samt æblemoste
+LAB_branche_77_31141,Røgning og saltn. af fisk
+LAB_branche_77_31142,"Fiskehermetik-,fiskefars-og fiskefiletfabrikk"
+LAB_branche_77_31151,Oliemøller
+LAB_branche_77_31152,Margarinefabrikker
+LAB_branche_77_31153,Fiskemelsfabrikker
+LAB_branche_77_31154,Destruktionsanstalter og kødfoderfabrikker
+LAB_branche_77_31160,"Møller (fremstilling af mel, gryn og corn-fla"
+LAB_branche_77_31171,Brødfabrikker
+LAB_branche_77_31172,Kiks- og vaffelfabrikker
+LAB_branche_77_31173,Kagefabrikker
+LAB_branche_77_31174,Bagerforretninger og konditorier
+LAB_branche_77_31179,Fremstilling af makaroni og spaghetti mv
+LAB_branche_77_31180,Sukkerfabrikker og -raffinaderier
+LAB_branche_77_31190,Chokolade- og sukkervarefabrikker
+LAB_branche_77_31211,Kartoffelmels- eller stivelsesfabrikker
+LAB_branche_77_31219,Fremstilling af næringsmidler i.a.n
+LAB_branche_77_31220,Fremstilling af færdige foderstoffer
+LAB_branche_77_31310,Sprit- og likørfabrikker
+LAB_branche_77_31330,Bryggerier og maltfabr.
+LAB_branche_77_31340,Mineralvandsfabrikker
+LAB_branche_77_31400,Tobaksfabrikker
+LAB_branche_77_32111,Uldspinderier og -væverier
+LAB_branche_77_32112,Bomuldsspinderier og -væverier
+LAB_branche_77_32113,Fremstilling af garner og stoffer af kemofibr
+LAB_branche_77_32114,Håndvæverier
+LAB_branche_77_32115,"Fremstilling af bånd, possement samt elastik"
+LAB_branche_77_32116,Andre spinderier og væverier
+LAB_branche_77_32117,Tekstilfarverier og imprægneringsfabrikker
+LAB_branche_77_32121,Fremstilling af broderier
+LAB_branche_77_32122,Plisse- og hulsømforretn.
+LAB_branche_77_32123,Flag- og teltfabrikker);(inkl. sejlmagerier)
+LAB_branche_77_32124,"Fremstilling af gardiner,sengetæpper og linne"
+LAB_branche_77_32129,Fremstilling af div. færdige tekstilvarer
+LAB_branche_77_32130,Trikotagefabrikker
+LAB_branche_77_32140,Tæppefabrikker
+LAB_branche_77_32151,Rebslagerier
+LAB_branche_77_32152,Fiskenetfabrikker
+LAB_branche_77_32190,"Fremst. af div. tekstilv.heru. tvist-og vat,"
+LAB_branche_77_32211,Herrekonfektionsfabrikker
+LAB_branche_77_32212,Kjolekonfektionsfabrikker
+LAB_branche_77_32213,Konfektionsfabrikker for dameovertøj
+LAB_branche_77_32214,Skjortefabrikker
+LAB_branche_77_32215,Fremst. af korsetter m.v.
+LAB_branche_77_32219,Anden konfektionsindustri
+LAB_branche_77_32291,Skrædderforretninger
+LAB_branche_77_32292,Kjolesyning
+LAB_branche_77_32293,Hattefabrikker
+LAB_branche_77_32294,Buntmagerier
+LAB_branche_77_32295,Damehatte- og modevarefremstilling
+LAB_branche_77_32296,Handskefabrikker
+LAB_branche_77_32299,Beklædningsindustri i øvrigt
+LAB_branche_77_32310,Garverier
+LAB_branche_77_32320,Pelsberedning m.v.
+LAB_branche_77_32330,Lædervarefabrikker
+LAB_branche_77_32401,Skotøjsfabrikker
+LAB_branche_77_32402,Håndskomagere
+LAB_branche_77_32403,Træskofabrikker
+LAB_branche_77_32409,Fodtøjsindustri i øvrigt
+LAB_branche_77_33111,Savværker m.v.
+LAB_branche_77_33112,Træimprægneringsanstalter
+LAB_branche_77_33113,"Fremstilling af spånplader, finer m.v."
+LAB_branche_77_33114,Fremstilling af bygningsartikler
+LAB_branche_77_33121,Træemballagefabrikker
+LAB_branche_77_33122,Bødkere
+LAB_branche_77_33123,Kurvemagere
+LAB_branche_77_33191,Trævarefabrikker
+LAB_branche_77_33192,Rammelistefabrikker
+LAB_branche_77_33193,Trædrejere
+LAB_branche_77_33194,Billedskærere
+LAB_branche_77_33195,Modelsnedkere
+LAB_branche_77_33196,Korkvarefabrikker
+LAB_branche_77_33197,Ligkistefabrikker
+LAB_branche_77_33201,Træ- og polstermøbelfabr.
+LAB_branche_77_33202,Møbelpolstrere og sadelm.
+LAB_branche_77_33203,Madrasfabrikker
+LAB_branche_77_33209,Lakering samt afsyring mv af møbler
+LAB_branche_77_34110,Papir- og papfabrikker
+LAB_branche_77_34120,Papir- og papembalagefabrikker
+LAB_branche_77_34191,Tapetfabrikker
+LAB_branche_77_34199,Papir- og papvareindustri (undtagen tapetfabr
+LAB_branche_77_34211,Reproduktionsanstalter
+LAB_branche_77_34212,Sætterier
+LAB_branche_77_34221,Bogtrykkerier
+LAB_branche_77_34222,Offsettrykker. (plantryk)
+LAB_branche_77_34223,Serigrafiske trykkerier
+LAB_branche_77_34224,Anilintrykkerier
+LAB_branche_77_34229,Anden grafisk virksomhed
+LAB_branche_77_34230,Bogbinderier
+LAB_branche_77_34240,Dagblade
+LAB_branche_77_34291,Bog- og kunstforlag
+LAB_branche_77_34292,Ugeblade og magasiner
+LAB_branche_77_34293,Distr.- og annonceblade
+LAB_branche_77_34299,Udgivelse af fagblade og foreningsblade m.v.
+LAB_branche_77_35111,Fremstilling af ilt og andre industrigasser
+LAB_branche_77_35119,Fremst. af primære kemiske forb. og grundstof
+LAB_branche_77_35121,Fremst. af kunstgødning
+LAB_branche_77_35122,Fremstilling af færdige bekæmpelsesmidler
+LAB_branche_77_35131,Fremst. af basisplast
+LAB_branche_77_35132,"Fremstilling af plader, folier, rør m.v. af p"
+LAB_branche_77_35133,Fremst. af klæbestrimler
+LAB_branche_77_35210,Farve- og lakfabrikker
+LAB_branche_77_35220,Medicinalvarefabrikker
+LAB_branche_77_35231,Sæbefabrikker
+LAB_branche_77_35232,Kosmetikfabrikker
+LAB_branche_77_35291,Sprængstoffabrikker
+LAB_branche_77_35292,Pudse- og rensemiddelfabrikker
+LAB_branche_77_35293,Fremst. af stearinlys
+LAB_branche_77_35294,Limfabrikker
+LAB_branche_77_35295,Fremstilling af lysfølsomt papir og pap
+LAB_branche_77_35299,Kemisk industri i øvrigt
+LAB_branche_77_35300,Mineralolieraffinaderier
+LAB_branche_77_35401,Asfaltfabrikker
+LAB_branche_77_35402,Tagpapfabrikker
+LAB_branche_77_35409,Fremstilling af olie- og kulprodukter
+LAB_branche_77_35510,Vulkaniseringsanstalter
+LAB_branche_77_35590,Gummifabrikker
+LAB_branche_77_35601,Fremstilling af plastemballage
+LAB_branche_77_35609,Fremst. af plastvarer
+LAB_branche_77_36101,Porcelæns- og fajancefabrikker
+LAB_branche_77_36102,Fremstilling af keramik- og lervarer
+LAB_branche_77_36103,Porcelænsmalere og -brænderier
+LAB_branche_77_36201,Glasværker
+LAB_branche_77_36202,Glasbearbejdning
+LAB_branche_77_36911,Teglværker
+LAB_branche_77_36912,Fremstilling af molerprodukter
+LAB_branche_77_36921,Cementfabrikker
+LAB_branche_77_36922,Kalk- og kridtværker
+LAB_branche_77_36923,Mørtelfabrikker
+LAB_branche_77_36991,Stenhuggerier
+LAB_branche_77_36992,Fremstilling af færdigblandet beton
+LAB_branche_77_36993,Betonvarefabrikker
+LAB_branche_77_36994,Fremstilling af glasuld og glasfiber
+LAB_branche_77_36995,Fremstilling af kalksand-sten og gipsplader
+LAB_branche_77_36996,Fremstilling af slibematerialer
+LAB_branche_77_36999,"Fremstilling af sten-,ler- og glasprodukter"
+LAB_branche_77_37101,Jern- og stålværker
+LAB_branche_77_37102,Jernstøberier
+LAB_branche_77_37201,Metalværker
+LAB_branche_77_37202,Metalstøberier
+LAB_branche_77_38110,"Fremstilling af værktøj, beslag samt bestik"
+LAB_branche_77_38121,Metalmøbelfabrikker
+LAB_branche_77_38122,Lampefabrikker
+LAB_branche_77_38131,"Fremstilling af jern- og metalkonstruktioner,"
+LAB_branche_77_38132,Fremstilling af stationære beholdere
+LAB_branche_77_38133,Rørfabrikker
+LAB_branche_77_38190,Fremstilling af centralvarmekedler
+LAB_branche_77_38191,Metalemballagefabrikker
+LAB_branche_77_38192,Fremstilling af ovne og radiatorer
+LAB_branche_77_38193,Armaturfabrikker
+LAB_branche_77_38194,"Fremstilling af bolte, skruer og søm"
+LAB_branche_77_38195,Galvaniseringsanst. m.v.
+LAB_branche_77_38196,Industrilakering
+LAB_branche_77_38197,Fremstilling af fjedre ogkæder
+LAB_branche_77_38198,Fremstilling af tråd og trådvarer
+LAB_branche_77_38199,Fremstilling af jern- og metalvarer i øvrigt
+LAB_branche_77_38210,Fremstilling af motorer
+LAB_branche_77_38220,Fremstilling af landbrugsmaskiner og tilbehør
+LAB_branche_77_38231,Fremstilling af maskiner til træforarbejdning
+LAB_branche_77_38232,Fremstilling af maskiner til metalforarbejdni
+LAB_branche_77_38233,Fremstilling af støberimaskiner
+LAB_branche_77_38241,Fremstilling af tekstil- maskiner og tilbehør
+LAB_branche_77_38242,Fremst. af maskiner til næringsmiddel-og kemi
+LAB_branche_77_38243,"Fremst. af maskiner til skotøjs-,papir-,pap-"
+LAB_branche_77_38249,Fremstilling af industrimaskiner i øvrigt
+LAB_branche_77_38251,Fremst. og reparation af kontor- og datamaski
+LAB_branche_77_38252,Vægtfabrikker
+LAB_branche_77_38280,Smede- og maskinreparationsværksteder
+LAB_branche_77_38291,Fremstilling af storkøkkenmateriel
+LAB_branche_77_38292,Fremst. af komfurer og kogeapparater
+LAB_branche_77_38293,Fremstilling af husholdningsmaskiner
+LAB_branche_77_38294,Fremstilling af internt transportmateriel
+LAB_branche_77_38295,Fremstilling og reparation af symaskiner
+LAB_branche_77_38296,Fremstilling af tandhjul og transmissionsaksl
+LAB_branche_77_38297,Fremstilling af maskiner til renserier
+LAB_branche_77_38298,Underleverandørfabr. med jern- og metalforarb
+LAB_branche_77_38299,"Fremst. af div. maskiner,kompressorer, pumper"
+LAB_branche_77_38311,Fremstill. af el-motorer samt el-apparatur
+LAB_branche_77_38312,Elektromek. værksteder
+LAB_branche_77_38321,Radio- og fjernsynsfabr.
+LAB_branche_77_38329,Fremstilling af telemateriel
+LAB_branche_77_38331,"Fremstilling af el-vand- varmere, el-radiator"
+LAB_branche_77_38332,Fremstilling af el-husholdningsartikler i øvr
+LAB_branche_77_38391,Kabelfabrikker
+LAB_branche_77_38392,Akkumulator- og tørelementfabrikker
+LAB_branche_77_38393,Fremstilling af glødelamper og lysstofrør
+LAB_branche_77_38399,Fremstilling af elektrisk materiel i øvrigt
+LAB_branche_77_38411,Jern- og stålskibsværfter
+LAB_branche_77_38412,Træskibsværfter og bådebyggerier
+LAB_branche_77_38413,Skibsmotorfabrikker
+LAB_branche_77_38419,Fremstilling af skibsmateriel
+LAB_branche_77_38420,Fremstilling af banemateriel
+LAB_branche_77_38431,Samling og fremstilling af biler m.v.
+LAB_branche_77_38432,Karosserifabrikker
+LAB_branche_77_38439,"Fremstilling af motorer, bremser, gear"
+LAB_branche_77_38440,Cykel- og knallertfabr.
+LAB_branche_77_38450,Flyvemaskineværksteder
+LAB_branche_77_38491,Fremstilling af håndtransportvogne
+LAB_branche_77_38492,Barnevognsfabrikker
+LAB_branche_77_38499,Transportmiddelindustri i øvrigt
+LAB_branche_77_38511,Fremstilling af medicinske ikke-el. instrumen
+LAB_branche_77_38512,Fremstilling af medicinske el.-instrumenter
+LAB_branche_77_38513,Fremstilling af ikke-el. måleinstrumenter
+LAB_branche_77_38514,Fremstilling af elektr. måleinstrumenter
+LAB_branche_77_38515,Bandagister
+LAB_branche_77_38520,Fremstilling af optisk og fotografisk udstyr
+LAB_branche_77_39011,Guld- og sølvvarefabr.
+LAB_branche_77_39012,Guld- og sølvsmedeværkst.
+LAB_branche_77_39020,Fremstilling af musikinstrumenter
+LAB_branche_77_39030,Fremstilling af sportsrekvisitter
+LAB_branche_77_39091,Legetøjsfabrikker
+LAB_branche_77_39092,Fremstill. af børstevarer
+LAB_branche_77_39093,Pibefabrikker
+LAB_branche_77_39094,"Fremstilling af karbonpapir, blyanter mm"
+LAB_branche_77_39095,Fremstilling af kontorartikler i øvrigt
+LAB_branche_77_39096,Fremstill. af lampeskærme
+LAB_branche_77_39097,Skiltefabrikker og skiltemalere
+LAB_branche_77_39099,Fremstilling af div. varer i.a.n.
+LAB_branche_77_41010,Fremst. og distribution af elektricitet
+LAB_branche_77_41020,Gasforsyning
+LAB_branche_77_41030,Varmeværker
+LAB_branche_77_42000,Vandværker m.v.
+LAB_branche_77_50000,Bygge- og anlægsvirksomh.uden nærmere angivel
+LAB_branche_77_50001,Bygge- og anlægsvirksomhed
+LAB_branche_77_50110,Offentlig bygge- og anlægsvirksomhed
+LAB_branche_77_50121,Entreprenørforretninger
+LAB_branche_77_50122,Dræningsmestre
+LAB_branche_77_50123,Brolæggermestre
+LAB_branche_77_50124,Kloakmestre
+LAB_branche_77_50130,Murerforretninger
+LAB_branche_77_50140,Tømrer- og snedkerforretninger
+LAB_branche_77_50150,Malerforretninger
+LAB_branche_77_50160,"Vvs-installatører, blikkenslagerforretn."
+LAB_branche_77_50170,Elektroinstallationsforretninger
+LAB_branche_77_50180,Glarmesterforretninger
+LAB_branche_77_50191,Gulvbelægnings- og terrazzoforretninger
+LAB_branche_77_50192,Isoleringsforretninger
+LAB_branche_77_50193,Tagtækkere og tagpapdækkere
+LAB_branche_77_50194,Brøndborere
+LAB_branche_77_50195,Ovnsætning
+LAB_branche_77_50196,Stilladsforretninger
+LAB_branche_77_50199,Byggevirksomhed i øvrigt
+LAB_branche_77_61000,"Engroshandel, uoplyst); vareområde"
+LAB_branche_77_61001,Engroshandel
+LAB_branche_77_61111,Engroshandel med kolonialvarer
+LAB_branche_77_61112,"Engroshandel med kød, kødvarer, fjerkræ"
+LAB_branche_77_61113,Engroshandel med fisk
+LAB_branche_77_61114,Engroshandel med frugt og grøntsager
+LAB_branche_77_61115,"Engroshandel med mælk, smør, ost og æg"
+LAB_branche_77_61116,"Engroshandel med kaffe, te og kakao"
+LAB_branche_77_61117,Engroshandel med chokolade og sukkervarer
+LAB_branche_77_61118,"Engroshandel med brød, kager og bisquits"
+LAB_branche_77_61119,Engroshandel med øl og mineralvand
+LAB_branche_77_61121,Engroshandel med vin og spiritus
+LAB_branche_77_61122,Engroshandel med tobaksvarer
+LAB_branche_77_61131,"Engroshandel med beklædning, trikotage og man"
+LAB_branche_77_61132,"Engroshandel med tæpper, møbelstoffer og bol"
+LAB_branche_77_61133,Engroshandel med skotøj
+LAB_branche_77_61141,Engroshandel med møbler
+LAB_branche_77_61142,"Engroshandel med radio, fjernsyn"
+LAB_branche_77_61143,"Engrosh. m. isenkram,husholdningsart., kunsth"
+LAB_branche_77_61144,Engrosh.m. hårde hvidevarer og belysningsarti
+LAB_branche_77_61151,"Engrosh.m. toilet-, parfumeri- og rengørings"
+LAB_branche_77_61152,Engrosh.m. medicinalvarer og sygeplejeartikle
+LAB_branche_77_61153,"Engrosh.m. guld- og sølvvarer, ure, optik og"
+LAB_branche_77_61154,"Engrosh.m. cykler, knallerter, barnevogne og"
+LAB_branche_77_61155,"Engrosh.m. legetøj, sportsartikler, camp.-uds"
+LAB_branche_77_61156,"Engrosh.m. bøger, blade, papir og papirvarer"
+LAB_branche_77_61157,"Engrosh.m. lædervarer, galanteri varer og sou"
+LAB_branche_77_61158,Engrosh. med blomster og planter
+LAB_branche_77_61161,"Handel med korn, foder- og gødningsstoffer"
+LAB_branche_77_61162,"Engrosh. med frø, såsæd og blomsterløg"
+LAB_branche_77_61163,Handel med kreaturer og grise
+LAB_branche_77_61164,"Handel med råhuder, læder og skind"
+LAB_branche_77_61165,"Handel med råuld, garner og metervarer"
+LAB_branche_77_61166,Handel med kemikalier
+LAB_branche_77_61167,Handel med jern og andre metaller
+LAB_branche_77_61168,"Handel med træ, trælast og bygningsartikler"
+LAB_branche_77_61169,"Handel med rør, sanitet og støbegods"
+LAB_branche_77_61171,"Engrosh. med farver, tapet og gulvbelægningsa"
+LAB_branche_77_61172,Handel med elinstallationsmateriel og elektro
+LAB_branche_77_61173,"Handel med gammelt jern, metal, og papir m.v."
+LAB_branche_77_61179,Handel med råvarer og halvfabrikata
+LAB_branche_77_61181,Handel med landbrugsmask.
+LAB_branche_77_61182,Handel med industrimask. og entreprenørmateri
+LAB_branche_77_61183,"Handel med værktøjsmaskiner, værktøj mm"
+LAB_branche_77_61184,Handel med kontor- og datamaskiner og udstyr
+LAB_branche_77_61185,Handel med læge- og hospitalsartikler
+LAB_branche_77_61189,Engroshandel med maskiner og andet udstyr i.a
+LAB_branche_77_61191,"Engroshandel med biler,motorcykler og dele he"
+LAB_branche_77_61192,"Engrosh.m. benzin, fast og flydende brændsel"
+LAB_branche_77_61291,Skibsproviantering
+LAB_branche_77_61299,Engroshandel
+LAB_branche_77_61311,Engrosagenturer
+LAB_branche_77_61312,Kvægkommisionærer
+LAB_branche_77_61313,Kommissionshandel
+LAB_branche_77_61314,Frugt- og grøntauktioner
+LAB_branche_77_61315,Fiskeauktioner
+LAB_branche_77_61319,Auktionsforretninger
+LAB_branche_77_62000,Detailhandel uoplyst vareområde
+LAB_branche_77_62001,Detailhandel
+LAB_branche_77_62111,Kolonial og blandet købmandshandel uden grovv
+LAB_branche_77_62112,Kolonial og blandet købmandshandel med grovva
+LAB_branche_77_62113,Supermarkeder
+LAB_branche_77_62114,Varehuse (dobbeltsupermarkeder)
+LAB_branche_77_62121,Slagter- og viktualieforretninger
+LAB_branche_77_62122,Fiskeforretninger
+LAB_branche_77_62123,Mejeri- og brødudsalg
+LAB_branche_77_62124,Osteforretninger
+LAB_branche_77_62125,Frugt- og grøntforretn.
+LAB_branche_77_62126,Tobaks- og vinforretn.
+LAB_branche_77_62127,"Kaffe-,te- og delikatesseforretninger"
+LAB_branche_77_62128,Chokoladeforretninger
+LAB_branche_77_62129,Iskiosker
+LAB_branche_77_62131,Farve- og tapetforretning
+LAB_branche_77_62132,Parfumerier
+LAB_branche_77_62133,Materialister
+LAB_branche_77_62134,Apoteker
+LAB_branche_77_62135,Håndkøbsudsalg
+LAB_branche_77_62140,Stormagasiner
+LAB_branche_77_62151,Manufakturforretninger
+LAB_branche_77_62152,Boligtekstilforretninger
+LAB_branche_77_62153,Trikotageforretninger
+LAB_branche_77_62154,Herreekviperingsforretn.
+LAB_branche_77_62155,Damekonfektionsforretn.
+LAB_branche_77_62156,Herre- og damekonfektionsforretninger
+LAB_branche_77_62157,Skotøjsforretninger
+LAB_branche_77_62158,Lædervareforretninger
+LAB_branche_77_62159,Detailha. m tekstil-og beklædningsvarer i.a.n
+LAB_branche_77_62161,Møbelforretninger
+LAB_branche_77_62162,Tæppeforretninger
+LAB_branche_77_62163,Kunst- og antikvitetsforretninger
+LAB_branche_77_62164,Detailhandel med gaveartikler og brugskunst
+LAB_branche_77_62171,Isenkramforretninger
+LAB_branche_77_62172,Specialforretninger for hårde hvidevarer
+LAB_branche_77_62173,"Jagt-,sports- og camping-udstyrsforretninger"
+LAB_branche_77_62174,Cykel- og knallert forretninger samt barnevog
+LAB_branche_77_62175,Kombinerede cykel- og radioforretninger
+LAB_branche_77_62176,"Radio- og tv-forhandlere,grammofonpladeforret"
+LAB_branche_77_62177,Musikforretninger
+LAB_branche_77_62179,"Salg af symaskiner, støvsugere,lamper og træv"
+LAB_branche_77_62181,Urmagerforretninger
+LAB_branche_77_62182,Urmager- og guldsmedeforretninger
+LAB_branche_77_62183,Guldsmede- og juvelerforretninger
+LAB_branche_77_62184,Specialoptikere
+LAB_branche_77_62185,Fotoforretninger
+LAB_branche_77_62191,Boghandlere
+LAB_branche_77_62192,Bog-antikvariater
+LAB_branche_77_62193,Papirvareforretninger
+LAB_branche_77_62194,Bladkiosker
+LAB_branche_77_62195,Frimærke- og møntforretninger
+LAB_branche_77_62211,"Bil- og motorcykelforretninger, herunder dæk"
+LAB_branche_77_62212,"Autoudstyr, campingvogne, både,incudlejn. af"
+LAB_branche_77_62213,Servicestationer
+LAB_branche_77_62221,Detailhandel med fyringsolie og fast brændsel
+LAB_branche_77_62222,Detailhandel med flaskegas
+LAB_branche_77_62291,Legetøjs- og hobbyforretninger
+LAB_branche_77_62292,Blomsterforretninger
+LAB_branche_77_62293,Fugle- og akvarieforretn.
+LAB_branche_77_62299,Anden detailhandel i.a.n.
+LAB_branche_77_63001,Restaurations- og hotelvirksomhed
+LAB_branche_77_63101,Restaurationer
+LAB_branche_77_63102,Marketenderier
+LAB_branche_77_63109,Grill- og burgerbarer samt pølsevogne
+LAB_branche_77_63201,Hoteller og moteller
+LAB_branche_77_63202,Vandrerhjem
+LAB_branche_77_63203,Campingpladser
+LAB_branche_77_63209,"Pensionater,feriekolonierog kursusejendomme m"
+LAB_branche_77_70001,Transportvirksomhed
+LAB_branche_77_71110,Jernbaner
+LAB_branche_77_71121,Busdrift (rutebiler)
+LAB_branche_77_71122,Rutebilstationer
+LAB_branche_77_71131,Turistvognmænd
+LAB_branche_77_71132,Taxivognmænd
+LAB_branche_77_71133,Taxicentraler
+LAB_branche_77_71141,Vognmandsforretninger (undt. taxi- og turist
+LAB_branche_77_71142,Flytteforretninger
+LAB_branche_77_71143,Fragtcentraler
+LAB_branche_77_71149,Transportforretninger i.a.n.
+LAB_branche_77_71150,Rørtransport
+LAB_branche_77_71161,Udlejning af køretøjer u.fører (herunder leas
+LAB_branche_77_71162,Redningskorps
+LAB_branche_77_71169,Hjælpevirksomheder for landtransport
+LAB_branche_77_71211,Rederier
+LAB_branche_77_71212,Færgefart
+LAB_branche_77_71219,Bådfart m.v.
+LAB_branche_77_71231,"Bugserings-, bjærgnings- og redningsvæsen"
+LAB_branche_77_71232,Havne
+LAB_branche_77_71233,Laste- og losseentreprenører (stevedorer)
+LAB_branche_77_71234,Fyrvæsen og lodserier
+LAB_branche_77_71239,Hjælpevirksomheder for søtransport
+LAB_branche_77_71311,Ruteflyvnings- og charterselskaber
+LAB_branche_77_71319,Lufttransport
+LAB_branche_77_71321,Lufthavne
+LAB_branche_77_71329,Hjælpevirksomheder for lufttransport
+LAB_branche_77_71911,Rejse- og turistbureauer
+LAB_branche_77_71912,Skibsmæglere
+LAB_branche_77_71913,Speditører og shippingvirksomhed
+LAB_branche_77_71914,Vejere og målere
+LAB_branche_77_71919,Tjenesteydelser iforbindelse med transport
+LAB_branche_77_71920,Pakhus- og oplagringsvirksomhed
+LAB_branche_77_72000,"Telefonselskaber,post- og telegrafvæsen"
+LAB_branche_77_72001,Postvæsen
+LAB_branche_77_72002,Telekommunikation
+LAB_branche_77_80001,Bank- og finansieringsvirksomhed
+LAB_branche_77_81011,Nationalbank
+LAB_branche_77_81012,Forretningsbanker
+LAB_branche_77_81013,Sparekasser
+LAB_branche_77_81014,Andelskasser
+LAB_branche_77_81015,Postgiro
+LAB_branche_77_81021,Reakkreditinstitutter
+LAB_branche_77_81022,Øvrige obligationsudstedende institutter
+LAB_branche_77_81023,Finansieringsfonde
+LAB_branche_77_81024,"Holding-, investerings-, finansierings-selska"
+LAB_branche_77_81027,Børsmæglerselskaber
+LAB_branche_77_81028,Investeringsforeninger
+LAB_branche_77_81029,Finansieringsvirksomheder i øvrigt
+LAB_branche_77_81030,Tjenesteydelser i forbindelse med finansierin
+LAB_branche_77_81090,Hvilende selskaber
+LAB_branche_77_82001,Livsforsikringsselsk. og skadesforsikringssel
+LAB_branche_77_82003,Tjenesteydelser i forbindelse med livs- og sk
+LAB_branche_77_82004,Pensionskasser
+LAB_branche_77_82005,Pensionsforsikringsselsk.
+LAB_branche_77_82006,Sygeforsikringsselskaber
+LAB_branche_77_82007,Arbejdsløshedskasser
+LAB_branche_77_82008,Begravelseskasser
+LAB_branche_77_82009,Anden forsikringsvirksomhed
+LAB_branche_77_83111,Administration og udlejn.af egne ejendomme
+LAB_branche_77_83112,Administration af fremmede ejendomme
+LAB_branche_77_83121,Ejendomsmæglere og ejendomshandlere
+LAB_branche_77_83122,Boliganvisning
+LAB_branche_77_83129,Handel og formidling vedr. fast ejendom
+LAB_branche_77_83210,Advokatvirksomheder
+LAB_branche_77_83220,Revisions- og bogføringsvirksomheder
+LAB_branche_77_83230,Databehandlingsvirksomh.
+LAB_branche_77_83241,Rådgivende ingeniør virksomheder
+LAB_branche_77_83242,Landinspektører
+LAB_branche_77_83243,Arkitektvirksomheder
+LAB_branche_77_83244,Havearkitektvirksomheder
+LAB_branche_77_83245,Tekniske og kemiske laboratorier
+LAB_branche_77_83249,Anden teknisk rådgivning
+LAB_branche_77_83250,Reklamebureauer og markedsanalyse
+LAB_branche_77_83291,Presse- og telegrambureau
+LAB_branche_77_83292,Maskinskrivningsbureauer
+LAB_branche_77_83293,"Adresseringsbureauer, udgivelse af vejvisere"
+LAB_branche_77_83294,Landbrugskonsulenter
+LAB_branche_77_83295,Rationaliserings- og planlægningskonsulenter
+LAB_branche_77_83299,Forretningsservice i øvrigt
+LAB_branche_77_83300,Udl. el. leasing af maskiner og andre driftsm
+LAB_branche_77_83310,Finansiel leasing
+LAB_branche_77_83321,Udlejning af landbrugsmaskiner og -driftsmidl
+LAB_branche_77_83322,Udlejning af maskiner til bygge- og anlægsvir
+LAB_branche_77_83323,Udlejning af industrimaskiner
+LAB_branche_77_83324,Udlejning af edbudstyr og kontormaskiner
+LAB_branche_77_83329,Udlejning af andre maskiner og andet driftsma
+LAB_branche_77_91011,Centraladministration
+LAB_branche_77_91019,Statslig administration
+LAB_branche_77_91020,Politi og retsvæsen
+LAB_branche_77_91030,Forsvar og civilforsvar
+LAB_branche_77_91040,Amtskomm. administration
+LAB_branche_77_91050,Kommunal administration
+LAB_branche_77_92011,Kloakvæsen
+LAB_branche_77_92012,Renovationsvirksomheder
+LAB_branche_77_92021,Rengøringsvirksomheder (sanitører)
+LAB_branche_77_92022,Vinduespolering
+LAB_branche_77_92023,Skorstensfejere
+LAB_branche_77_92024,"Desinfektion, skadedyrsbekæmpelse o. lign."
+LAB_branche_77_93101,Højere læreanstalter
+LAB_branche_77_93102,"Gymnasier, hf- og studenterkurser"
+LAB_branche_77_93103,Børneskoler
+LAB_branche_77_93104,"Højskoler, efterskoler og aftenskoler"
+LAB_branche_77_93105,"Handelsskoler, tekniske skoler, efg-skoler"
+LAB_branche_77_93106,Fagskoler
+LAB_branche_77_93107,Specialskoler for handicappede
+LAB_branche_77_93108,Køreskoler
+LAB_branche_77_93109,Undervisning i øvrigt
+LAB_branche_77_93200,Forskningsinstitutioner
+LAB_branche_77_93311,"Hospitaler, sanatorier og lignende"
+LAB_branche_77_93312,Praktiserende læger
+LAB_branche_77_93313,Praktiserende tandlæger
+LAB_branche_77_93314,Praktiserende tandteknik.
+LAB_branche_77_93315,Dentallaboratorier
+LAB_branche_77_93316,Fødeklinikker og praktiserende jordemødre
+LAB_branche_77_93317,Fysioterapeutiske klinik.og praktiserende fys
+LAB_branche_77_93319,Institutioner og praktiserende inden for sun
+LAB_branche_77_93320,Dyrlægevirksomheder
+LAB_branche_77_93401,Velfærdsinstitutioner og foreninger for mødre
+LAB_branche_77_93402,Vuggestuer og børnehaver
+LAB_branche_77_93403,Daginstitutioner for børn og unge
+LAB_branche_77_93404,Hjem for børn og unge
+LAB_branche_77_93405,Velfærdsinstitutioner og foreninger for børn
+LAB_branche_77_93406,Velfærdsinstitutioner og foreninger for syge
+LAB_branche_77_93407,Velfærdsinstitutioner og foreninger for alkoh
+LAB_branche_77_93408,Velfærdsinstitutioner og foreninger for ældre
+LAB_branche_77_93409,Velfærdsinstitutioner og foreninger i øvrigt
+LAB_branche_77_93501,Arbejdsgiverforeninger og erhvervsorganisatio
+LAB_branche_77_93502,Lønmodtagerorganisationer
+LAB_branche_77_93503,Grundejerforeninger
+LAB_branche_77_93504,Lejerforeninger
+LAB_branche_77_93509,Økonomiske interesseorganisationer i øvrigt
+LAB_branche_77_93910,Religiøse foreninger og institutioner
+LAB_branche_77_93991,Politiske partier
+LAB_branche_77_93992,Politiske og ideologiske organisationer
+LAB_branche_77_93993,Faglige og oplysende foreninger
+LAB_branche_77_93994,Oplysende og kulturelle foreninger og institu
+LAB_branche_77_93995,Friluftsorganisationer
+LAB_branche_77_93996,Selskabelige foreninger og loger
+LAB_branche_77_93997,Elevråd
+LAB_branche_77_93998,Personaleforeninger
+LAB_branche_77_93999,Organisationer og institutioner i øvrigt
+LAB_branche_77_94110,Filmproduktion
+LAB_branche_77_94121,Filmudlejning
+LAB_branche_77_94122,Biografer
+LAB_branche_77_94129,Virksomheder i relation til film i øvrigt
+LAB_branche_77_94130,Radio og tv
+LAB_branche_77_94141,Teatre
+LAB_branche_77_94142,Orkestre
+LAB_branche_77_94143,Grammofonpladeindspilning
+LAB_branche_77_94149,Teatervirksomheder o.l.
+LAB_branche_77_94150,Selvstændigt udøvende kunstnere
+LAB_branche_77_94200,"Biblioteker, museer, botan. og zoolog. haver"
+LAB_branche_77_94901,Forlystelsesparker og cirkus m.v.
+LAB_branche_77_94902,Idrætsklubber og -sammenslutninger
+LAB_branche_77_94903,Idrætsanlæg
+LAB_branche_77_94909,"Forlystelser, rekreation,heru. ride- og danse"
+LAB_branche_77_95001,Reparation og anden servicevirksomhed
+LAB_branche_77_95110,Reparation af skotøj og andre lædervarer
+LAB_branche_77_95121,Radio- og tv-reparations-værksteder
+LAB_branche_77_95122,Reparation af elektriske husholdningsmask. o.
+LAB_branche_77_95131,Autoreparationsværksteder
+LAB_branche_77_95132,"Karosseriværksteder, undervognsbehandling"
+LAB_branche_77_95133,Autolakerier
+LAB_branche_77_95134,Autoelektrikere
+LAB_branche_77_95139,Autoservice i øvrigt
+LAB_branche_77_95140,Reparation af ure
+LAB_branche_77_95150,Cykelreparationsværksted.
+LAB_branche_77_95190,"Reparationsvirksomheder, herunder låsesmede"
+LAB_branche_77_95201,Vaskerier
+LAB_branche_77_95202,Selvbetjeningsvaskerier
+LAB_branche_77_95203,Rulleforretninger
+LAB_branche_77_95204,Renserier og farverier
+LAB_branche_77_95205,Selvbetjeningsrenserier
+LAB_branche_77_95206,Indleveringssteder for renserier og vaskerie
+LAB_branche_77_95207,"Udlejning af kitler,håndklæder o.l."
+LAB_branche_77_95400,Private husholdninger medans. medhjælp (barne
+LAB_branche_77_95911,"Damefrisører, skønheds- saloner og solarier"
+LAB_branche_77_95912,Herrefrisører
+LAB_branche_77_95913,Herre- og damefrisører
+LAB_branche_77_95920,Fotografiske virksomheder
+LAB_branche_77_95991,Udlejning af service o.l.
+LAB_branche_77_95992,Udlejningsvirksomhed i øvrigt
+LAB_branche_77_95993,Bedemænd og begravelsesvæsen
+LAB_branche_77_95999,Personlige tjenesteydelser i øvrigt
+LAB_branche_77_96001,Internationale organer
+LAB_branche_77_96002,Fremmede staters repræsentationer
+LAB_branche_77_99999,Uoplyst

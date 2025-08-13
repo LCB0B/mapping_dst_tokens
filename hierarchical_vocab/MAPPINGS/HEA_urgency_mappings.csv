@@ -1,0 +1,10 @@
+code,prefix,database,value,description,source,confidence,language
+HEA_urgency_1,HEA,urgency,1,Emergency (life-threatening),enhanced_english,medium,english
+HEA_urgency_2,HEA,urgency,2,Urgent,enhanced_english,medium,english
+HEA_urgency_9,HEA,urgency,9,Non-urgent/planned,enhanced_english,medium,english
+HEA_urgency_ATA1,HEA,urgency,ATA1,Ambulance transport - emergency,enhanced_english,medium,english
+HEA_urgency_ATA11,HEA,urgency,ATA11,Urgency level: ATA11,enhanced_english,medium,english
+HEA_urgency_ATA11A,HEA,urgency,ATA11A,Urgency level: ATA11A,enhanced_english,medium,english
+HEA_urgency_ATA11B,HEA,urgency,ATA11B,Urgency level: ATA11B,enhanced_english,medium,english
+HEA_urgency_ATA12,HEA,urgency,ATA12,Urgency level: ATA12,enhanced_english,medium,english
+HEA_urgency_ATA3,HEA,urgency,ATA3,Urgency level: ATA3,enhanced_english,medium,english

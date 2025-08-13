@@ -1,0 +1,10 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_loeslkod_0.0,SOC,loeslkod,0.0,Release condition code: 0.0,enhanced_english,medium,english
+SOC_loeslkod_1.0,SOC,loeslkod,1.0,Release condition code: 1.0,enhanced_english,medium,english
+SOC_loeslkod_2.0,SOC,loeslkod,2.0,Release condition code: 2.0,enhanced_english,medium,english
+SOC_loeslkod_3.0,SOC,loeslkod,3.0,Release condition code: 3.0,enhanced_english,medium,english
+SOC_loeslkod_4.0,SOC,loeslkod,4.0,Release condition code: 4.0,enhanced_english,medium,english
+SOC_loeslkod_5.0,SOC,loeslkod,5.0,Release condition code: 5.0,enhanced_english,medium,english
+SOC_loeslkod_7.0,SOC,loeslkod,7.0,Release condition code: 7.0,enhanced_english,medium,english
+SOC_loeslkod_8.0,SOC,loeslkod,8.0,Release condition code: 8.0,enhanced_english,medium,english
+SOC_loeslkod_9.0,SOC,loeslkod,9.0,Release condition code: 9.0,enhanced_english,medium,english

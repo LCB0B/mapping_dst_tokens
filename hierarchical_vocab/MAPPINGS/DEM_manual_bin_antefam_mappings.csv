@@ -1,0 +1,19 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_manual_bin_antefam_manual_bin_2,DEM,manual_bin_antefam,2,Manual bin: 2 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_1,DEM,manual_bin_antefam,1,Manual bin: 1 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_3,DEM,manual_bin_antefam,3,Manual bin: 3 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_100_500,DEM,manual_bin_antefam,100_500,Manual bin: 100-500 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_4,DEM,manual_bin_antefam,4,Manual bin: 4 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_5,DEM,manual_bin_antefam,5,Manual bin: 5 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_7,DEM,manual_bin_antefam,7,Manual bin: 7 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_6,DEM,manual_bin_antefam,6,Manual bin: 6 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_8,DEM,manual_bin_antefam,8,Manual bin: 8 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_10_15,DEM,manual_bin_antefam,10_15,Manual bin: 10-15 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_10,DEM,manual_bin_antefam,10,Manual bin: 10 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_500_1000,DEM,manual_bin_antefam,500_1000,Manual bin: 500-1000 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_20_30,DEM,manual_bin_antefam,20_30,Manual bin: 20-30 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_9,DEM,manual_bin_antefam,9,Manual bin: 9 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_30_40,DEM,manual_bin_antefam,30_40,Manual bin: 30-40 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_50_100,DEM,manual_bin_antefam,50_100,Manual bin: 50-100 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_40_50,DEM,manual_bin_antefam,40_50,Manual bin: 40-50 families in the household,generated_pattern,medium,english
+DEM_manual_bin_antefam_manual_bin_15_20,DEM,manual_bin_antefam,15_20,Manual bin: 15-20 families in the household,generated_pattern,medium,english

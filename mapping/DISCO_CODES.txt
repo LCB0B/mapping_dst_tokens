@@ -1,0 +1,794 @@
+000000	Uoplyst
+011000	Militær/civilforsvar
+100000	Ledelse på øverste plan i virksomheder, organisationer og den offentlige sektor
+110000	Lovgivningsarbejde samt ledelse i offentlig administration og interesseorganisationer
+111000	Lovgivningsarbejde og overordnet administration af lovgivning, før 2004 inkl. overordnet offentlig ledelse
+112000	Overordnet offentlig ledelse
+114000	Overordnet ledelse af interesseorganisationer og humanitære organisationer
+114100	Ledelse af politiske partiorganisationer
+114200	Ledelse af økonomiske interesseorganisationer
+114210	Politisk ansvarlige/politisk valgte ledere i økonomiske interesseorganisationer
+114220	Ansatte ledere i økonomiske interesseorganisationer
+114300	Ledelsesarbejde i humanitære eller andre interesseorganisationer
+120000	Øverste ledelse i virksomheden i virksomhed med mindst 10 beskæftigede
+121000	Ledelse omfattende virksomheden som helhed i virksomhed med mindst 10 beskæftigede
+121010	Øverste ledelsesniveau, administrerende direktører eller tilsvarende i virksomhed med mindst 10 beskæftigede
+121020	Tværgående direktører i virksomhed med mindst 10 beskæftigede
+122000	Ledelse af hovedaktiviteten i virksomhed med mindst 10 beskæftigede
+122100	Ledelse af bedriften inden for landbrug, skovbrug og fiskeri i virksomhed med mindst 10 beskæftigede
+122200	Produktionsledelse i industrivirksomheder i virksomhed med mindst 10 beskæftigede
+122210	Øverste ledelse af produktionen i industrivirksomheder i virksomhed med mindst 10 beskæftigede
+122220	Ledelse af produktionen i industrivirksomheder i øvrigt i virksomhed med mindst 10 beskæftigede
+122400	Ledelse af salget i engros- og detailhandelsvirksomhed i virksomhed med mindst 10 beskæftigede
+122800	Ledelse af hovedaktiviteten i virksomheder inden for personlige tjenesteydelser i virksomhed med mindst 10 beskæftigede
+122900	Ledelse af hovedaktiviteten i andre virksomheder i virksomhed med mindst 10 beskæftigede
+122990	Ledelse af hovedaktiviteten i øvrigt i virksomhed med mindst 10 beskæftigede
+123000	Ledelse af specialområder i virksomhed med mindst 10 beskæftigede
+123400	Informations- og markedsføringsledelse i virksomhed med mindst 10 beskæftigede
+123600	Edb-ledelse, ledelse af edb-virksomhed placeres i gruppe 131700 i virksomhed med mindst 10 beskæftigede
+131000	Ledelse af virksomhed med færre end 10 beskæftigede
+131200	Produktionsledelse i industrivirksomheder i virksomhed med færre end 10 beskæftigede
+131400	Ledelse af salget i engros- og detailhandelsvirksomhed i virksomhed med færre end 10 beskæftigede
+131600	Ledelse af hovedaktiviteten i virksomheder inden for transport og kommunikation i virksomhed med færre end 10 beskæftigede
+131900	Ledelse af hovedaktiviteten i andre virksomheder i virksomhed med færre end 10 beskæftigede
+131920	Ledelse i undervisningssektoren i virksomhed med færre end 10 beskæftigede
+210000	Arbejde inden for de ikke-biologiske grene af naturvidenskab samt datalogi, statistik, arkitektur og tekniske videnskaber
+211100	Arbejde inden for fysik og astronomi
+211400	Arbejde inden for geologi og geofysik
+213110	Projektstyring, IT-systemudvikling (2003 arbejde med edb-design og analyse i idé og analysefasen)
+213130	Overordnet drift af IT-systemer, herunder planlægning, implementering og vedligeholdelse af drifts-systemer
+214200	Ingeniørarbejde vedr. bygninger, infrastruktur og anlæg
+214500	Ingeniørarbejde vedr. ikke-elektriske motorer og maskinanlæg
+221000	Arbejde inden for naturvidenskab
+221200	Arbejde inden for anatomi, biokemi, fysiologi, patologi og farmakologi
+222000	Arbejde inden for medicin og farmaci
+230000	Undervisning i folkeskoler, erhvervsskoler, gymnasier samt højere læreanstalter, forskningstilrettelæggelse og kontrol af undervisningsarbejde
+232000	Undervisning på gymnasier og erhvervsskoler
+233120	Undervisning i ungdomsskoler
+234000	Undervisning af handicappede
+235920	Undervisning ved almen voksenuddannelse
+235960	Kursusvirksomhed i øvrigt
+241900	Specialfunktioner i erhvervsvirksomheder, interesseorganisationer og offentlige virksomheder
+242000	Juridisk arbejde
+242120	Advokatfuldmægtigarbejde
+244200	Arbejde inden for sociologi og antropologi
+244420	Oversættelsesarbejde
+245000	Journalist- og skribentarbejde samt kunstnerisk arbejde
+245190	Andet skribentarbejde
+245240	Konservatorarbejde
+245310	Kunstnerisk arbejde som udøvende musiker og sanger
+300000	Arbejde, der forudsætter viden på mellemniveau
+310000	Teknikerarbejde inden for ikke biologiske emner
+311130	Laboratorieteknikerarbejde
+311200	Teknikerarbejde vedr. bygnings- og anlægsarbejder
+311600	Teknikerarbejde vedr. kemiske processer
+311800	Teknisk design- og tegnearbejde
+311920	Teknikerarbejde vedr. produktion
+312110	Programmeringsarbejde, tilpasning af applikationer, design af skabeloner
+312130	Hotline-/IT-teknikerarbejde internt i virksomheden
+312300	Arbejde med industri-robotprogrammer
+313100	Optagelse af lyd og billeder
+313110	Fotografarbejde, nyhedsformidling, pressefotograf
+313140	Film- og videooptagelse, ekskl. nyhedsformidling
+313170	Redigering af lyd og billede, nyhedsformidling
+313190	Andet arbejde med lyd, lys og billeder ved film og teater
+313300	Betjening af hospitalsudstyr
+313900	Arbejde lyd, lys og billeder i øvrigt
+314200	Skibsførerarbejde
+314410	Flyvelederarbejde
+314420	Planlægning og afvikling af flytrafik i øvrigt
+314500	Flymaskinistarbejde
+315000	Sikkerhedsarbejde og kvalitetskontrol
+315100	Arbejde med bygnings- og brandsikkerhed
+315200	Teknisk kontrolarbejde
+315210	Kontrolarbejde vedr. miljø
+315220	Kontrolarbejde vedr. sikkerhed
+315230	Kontrolarbejde vedr. kvalitet
+320000	Teknikerarbejde samt andet arbejde inden for biologiske emner
+321000	Teknikerarbejde inden for biologi, biokemi, farmakologi, zoologi, botanik, landbrug og skovbrug
+321100	Teknikerarbejde inden for biologi, biokemi, farmakologi og zoologi
+321111	Laborantarbejde, medicinalindustri
+321112	Assistentarbejde i laboratorier, medicinalindustri
+321113	Laboratorieteknikerarbejde, medicinalindustri
+321114	Andet teknikerarbejde, medicinalindustri
+321121	Laborantarbejde, fødevareindustri
+321122	Assistentarbejde i laboratorier, fødevareindustri
+321123	Laboratorieteknikerarbejde, fødevareindustri
+321131	Bioanalytiker- og laborantarbejde, hospitaler
+321132	Assistentarbejde i laboratorier, hospitaler
+321134	Andet teknikerarbejde, hospitaler
+321141	Laborantarbejde vedr. forskning
+321190	Teknikerarbejde inden for biologi, biokemi, farmakologi og zoologi i øvrigt
+321200	Teknikerarbejde inden for landbrugs- og skovbrugsvidenskab
+322100	Assistentarbejde og rådgivning vedr. sundhed, fødsel, diæt og sygdomsbehandling
+322300	Arbejde med kostforplejning og kostens sammensætning og tilberedning, fx økonomaarbejde
+322600	Fysioterapi, kiropraktik og andet terapeutarbejde
+322810	Apoteksassistent
+323000	Sygeplejearbejde
+332000	Pædagogisk arbejde med børn under den undervisningspligtige alder
+334020	Køreteknisk undervisningsarbejde o.l.
+341000	Salgs- og finansieringsarbejde
+341130	Kreditarbejde vedr. opfølgning/rapportering
+341150	Handel med værdipapirer, valuta og andre finansielle instrumenter
+341300	Køb og salg af ejendom
+341500	Salgsarbejde
+341520	Produktsupport vedr. salg
+341710	Vurderings- og takseringsarbejde
+341910	Marketingsarbejde
+341940	Generel finansiel og forsikringsmæssig rådgivning
+342000	Agentarbejde inden for forretningsservice og mæglerarbejde, herunder interne konsulenter
+342220	Spedition vedr. søtransport
+342990	Andet agentarbejde inden for forretningsservice
+343110	Oversættelse af korrespondance m.v.
+343310	Bogholderiarbejde
+343900	Andet administrationsarbejde
+343990	Administrativ forvaltning og sagsbehandling
+344400	Arbejde vedr. udstedelse af pas, licens mv.
+344900	Administrative funktioner i offentlig virksomhed i øvrigt
+347111	Blomsterdekoration
+347130	Indretningsarkitektarbejde
+347400	Cirkusartistarbejde mv.
+347510	Trænervirksomhed, sport
+400000	Kontorarbejde
+411000	Sekretærarbejde, indtastningsarbejde
+411200	Betjening af teleprinter, telefax, varslingsanlæg og lignende maskiner
+411300	Indtastningsarbejde
+412000	Beregningsarbejde
+412100	Beregningsarbejde vedr. bogføring og revision
+412120	Beregningsarbejde vedr. revision
+413100	Lagerføring, omfatter registrering, fakturering, forvaltning og udlevering af lagerbeholdningen
+413200	Kontrol af ordrer, forbrug og drift af produktionsprogrammer
+413310	Transporttilrettelæggelse vedr. jernbanetransport
+413320	Transporttilrettelæggelse vedr. luftfart - ikke flyveledere
+413340	Transporttilrettelæggelse vedr. bustransport
+413350	Transporttilrettelæggelse vedr. godstransport med last- og varevogn
+413360	Transporttilrettelæggelse vedr. hyrevognskørsel
+414100	Registreringsarbejde vedr. bestand, udlån og hjemtagning af bøger mv.
+414200	Postarbejde
+414210	Betjentarbejde, herunder intern postbehandling
+420000	Kontorarbejde med kundebetjening
+421000	Arbejde vedrørende pengetransaktioner
+421100	Kassererarbejde og billetsalg
+421220	Kassererarbejde i bank og sparekasse
+421400	Pantelånerarbejde
+421500	Inkassoarbejde
+422000	Kundebetjening i øvrigt
+422200	Receptions- og lægesekretærarbejde
+422300	Telefonomstilling og callcenterarbejde
+422320	Hotline- og callcenterarbejde
+510000	Service- og omsorgsarbejde
+511120	Passagerbetjening i lufthavne og i havneterminaler
+512000	Arbejde i restaurant, cafeteria og husholdning
+512300	Serveringsarbejde
+513120	Pædagogisk medhjælp i institutioner
+513210	Social- og sundhedspersonale på institutioner
+513900	Omsorgsarbejde i øvrigt
+514300	Bedemandsarbejde
+516100	Brandbekæmpelse
+516900	Overvågnings- og redningsarbejde i øvrigt
+521000	Modelarbejde
+522040	Merchandising
+612000	Arbejde med levende dyr
+615200	Kystfiskeri
+710000	Arbejde med råstofudvinding og bygningshåndværk
+711100	Mine- og stenbrudsarbejde
+711300	Stenhuggerarbejde
+712200	Murer- og brolægningsarbejde
+712300	Beton-, cement- og terrazzoarbejde
+712320	Brobygning og bygning af lignende betonkonstruktioner, ekskl. medhjælpere
+712330	Terrazzoarbejde
+712410	Tømrer- og snedkerarbejde vedr. byggeri
+712430	Tømrer- og snedkerarbejde (industriel forarbejdning uden anvendelse af maskiner)
+712900	Andet bygningsarbejde
+712930	Opsætning og nedtagning af stilladser
+713000	Bygningsarbejde (finish)
+713200	Gulvlægning, vedligeholdelse af gulve og lignende
+713500	Glarmesterarbejde
+713900	Andet bygningshåndværk, fx køkkenmontering
+714100	Maler- og tapetsererarbejde
+714120	Skibsmalerarbejde
+714190	Andet malerarbejde
+714300	Bygningsrengøringsarbejde
+720000	Metal- og maskinarbejde
+721000	Svejsning og anden forarbejdning af metalemner samt dykkerarbejde
+721200	Svejsning
+721500	Rigger- og kabelsplejsningsarbejde
+722000	Grovsmede-, værktøjsmagerarbejde o.l.
+722200	Værktøjsmager- og klejnsmedearbejde
+722400	Polerings- og slibearbejde i metal
+723000	Mekaniker- og montørarbejde
+723100	Automekaniker- og automontørarbejde
+723120	Automekanikerarbejde, lastvogne
+931000	Manuelt arbejde inden for bygge- og anlægssektoren
+931100	Mine- og stenbrudsarbejde
+931200	Anlægsarbejde
+931220	Medhjælp ved brolæggerarbejde
+931290	Jord-, kloak- og andet anlægsarbejde
+931300	Bygningsarbejde, medhjælp
+931320	Tagdækningsarbejde uden særlige kvalifikationer
+931330	Medhjælp ved murerarbejde
+931390	Andet bygningsarbejde uden særlige kvalifikationer
+932000	Manuelt arbejde inden for fremstillingsvirksomhed
+932010	Manuelt pakningsarbejde
+932020	Andet industriarbejde uden betjening af stationære maskiner
+933010	Lager- og pakhusarbejde
+933020	Lastning og losning af skibe ekskl. bulk og fisk
+933040	Lastning og losning af skibe, fisk
+933050	Håndtering af bagage og flyttegods
+933090	Medhjælp ved transportarbejde i øvrigt
+999999	Uoplyst
+122300	Ledelse af produktionen i bygge- og anlægssektoren i virksomhed med mindst 10 beskæftigede
+122500	Ledelse af hovedaktiviteten i hotel- og restaurationsvirksomhed i virksomhed med mindst 10 beskæftigede
+122700	Ledelse af hovedaktiviteten i virksomheder inden for forretningsservice i virksomhed med mindst 10 beskæftigede
+122910	Ledelse i politi og retsvæsen i virksomhed med mindst 10 beskæftigede
+122930	Ledelse i social- og sundhedssektoren i virksomhed med mindst 10 beskæftigede
+122940	Ledelse af andre offentlige områder, herunder sport, kultur og servicevirksomhed i virksomhed med mindst 10 beskæftigede
+123100	Arbejde vedr. administration og finansiering i ikke-finansielle virksomheder i virksomhed med mindst 10 beskæftigede
+123300	Salgs- og afsætningsledelse, ekskl. salgsvirksomhed i virksomhed med mindst 10 beskæftigede
+123700	Forsknings- og udviklingsledelse i virksomhed med mindst 10 beskæftigede
+130000	Ledelse af virksomhed med færre end 10 beskæftigede
+131210	Øverste ledelse af produktionen i industrivirksomheder i virksomhed med færre end 10 beskæftigede
+131300	Ledelse af produktionen i bygge- og anlægssektoren i virksomhed med færre end 10 beskæftigede
+131700	Ledelse af hovedaktiviteten i virksomheder inden for forretningsservice i virksomhed med færre end 10 beskæftigede
+131910	Ledelse i politi og retsvæsen i virksomhed med færre end 10 beskæftigede
+131930	Ledelse i social- og sundhedssektoren i virksomhed med færre end 10 beskæftigede
+200000	Arbejde der forudsætter viden på højeste niveau inden for område
+211000	Arbejde inden for fysik, kemi, astronomi, meteorologi, geologi og geofysik
+211300	Arbejde inden for kemi
+212100	Arbejde med matematiske begreber, teorier og metoder
+213000	IT-arbejde på teknisk højt niveau
+213120	IT-systemudvikling, herunder analyse, design og udarbejdelse af kravspecifikationer (2003 arbejde med overordnet design af edb-systemer inkl. design af driftssystemet)
+214000	Arkitekt- og ingeniørarbejde
+214100	Arkitektarbejde og planlægning af anlægsarbejder
+214300	Ingeniørarbejde vedr. stærkstrøm
+214600	Ingeniørarbejde vedr. kemiske processer ved industriel produktion
+214900	Ingeniør- og arkitektarbejde i øvrigt
+221110	Arbejde inden for levnedsmiddelområdet
+221120	Arbejde inden for biologi, genetik, zoologi, botanik og økologi
+221300	Arbejde inden for planteavl og husdyravl, herunder agronom- og konsulentarbejde
+222200	Tandlægearbejde
+222400	Farmaceutarbejde
+222900	Videnskabeligt arbejde inden for medicin og farmaci i øvrigt
+223020	Sundhedsplejerskearbejde
+231000	Undervisning på universiteter mm., herunder undervisning med forskningspligt
+232010	Undervisning i gymnasier
+233100	Undervisning på folkeskoleniveau, ekskl. børnehaveklasse
+233130	Undervisning på efter-, husholdnings- og håndarbejdsskoler
+235000	Arbejde vedrørende undervisning i øvrigt
+235900	Andet undervisningsarbejde
+235910	Undervisning på høj-, daghøj- og produktionsskoler
+235940	Undervisning ved arbejdsmarkedsuddannelser
+235990	Andet arbejde vedr. undervisning
+241100	Arbejde inden for revision og regnskab på overordnet niveau
+241200	Personalearbejde på professionelt niveau, herunder ansatte i konsulentbureauer
+241930	Specialfunktioner i offentlige virksomheder vedr. organisation, økonomi, forvaltning mv.
+242100	Advokatarbejde
+242200	Dommerarbejde
+243000	Kulturformidling og informationsarbejde
+243100	Museums- og arkivarbejde
+244000	Arbejde inden for samfundsøkonomi og socialvidenskab
+244100	Arbejde inden for samfundsøkonomi
+244300	Arbejde inden for filosofi og historie
+244400	Arbejde inden for sprogvidenskab
+244410	Forskning inden for sprogvidenskab
+244430	Tolkearbejde
+244490	Andet arbejde vedr. sprog, sprogteknologi og kommunikation
+244600	Socialrådgivningsarbejde, der forudsætter efteruddannelse, fx gennemført årskursus eller tilsvarende erfaringsgrundlag opnået
+245100	Journalistik og skribentarbejde
+245110	Journalistisk arbejde
+245130	Reklametekstarbejde
+245140	Presse- og kommunikationsarbejde
+245150	Webmasterarbejde (indhold)
+245200	Illustrations- og formgivningsarbejde
+245211	Illustrationsgrafisk arbejde vedr. nyhedsformidling
+245219	Illustrationsgrafisk arbejde i øvrigt
+723200	Flymekaniker- og flymontørarbejde
+723300	Mekaniker- og montørarbejde, andre motorer, maskiner og anlæg
+723390	Mekaniker- og montørarbejde i øvrigt
+724300	Elektronikmekanikerarbejde
+724400	Telefon- og telegrafmekanikerarbejde
+730000	Præcisionshåndværk, grafisk arbejde o.l.
+731000	Præcisionshåndværk i metal og andre materialer
+731110	Instrument- og urmagerarbejde o.l.
+731120	Fremstilling af ortopædiske hjælpemidler
+731200	Musikinstrumentbygger- og stemmearbejde
+731300	Juveler-, guld- og sølvsmedearbejde
+732100	Pottemager-, dreje- og støbearbejde
+732200	Glasblæserarbejde
+732400	Glas- og porcelænsmalingsarbejde
+733000	Håndarbejde i træ, tekstil o.l.
+733100	Håndarbejde i træ o.l. materiale
+734000	Formfremstilling, håndbogbinding og serigrafi
+734100	Grafisk formfremstilling
+734300	Gravør- og ætserarbejde
+734400	Andet fototeknisk arbejde, fx filmfremkaldelse
+734600	Serigrafisk arbejde
+740000	Andet håndværkspræget arbejde
+741100	Slagterarbejde og behandling af fisk
+741110	Fiskefiletering, håndfiletering
+741120	Behandling af skaldyr
+741140	Slagterarbejde vedr. butik o.l.
+741200	Bager-, konfekture- og chokoladearbejde
+741400	Konservering af frugt og grønt samt juicefremstilling
+741500	Prøvesmagningsarbejde
+742000	Træindustriarbejde
+742100	Træimprægneringsarbejde
+742300	Opstilling og betjening af maskiner inden for træindustri
+742400	Kurvemager- og børstenbinderarbejde o.l.
+743100	Garnforberedende arbejde (håndarbejde)
+743200	Spinde-, væve- og strikkearbejde (håndarbejde)
+743400	Buntmagerarbejde
+743500	Tilskærerarbejde (ikke maskinelt)
+743600	Sy- og broderiarbejde (ikke maskinelt)
+744000	Skind-, læder- og skotøjsarbejde
+744100	Garveriarbejde
+744200	Skomager- og læderarbejde
+810000	Arbejde med stationære procesanlæg
+811000	Mine- og mineraludvindingsanlægsarbejde
+811200	Mineral- og stenbrudsanlægsarbejde, ekskl. varmebehandlingsanlæg
+812000	Jern- og metalværkanlæg og støberianlægsarbejde
+812100	Smelteovnsarbejde
+812300	Støberiarbejde
+813000	Glas-, keramik- og teglprocesanlægsarbejde
+813900	Andre procesoperatører ved glas-, keramik- og teglproduktion
+814000	Træ- og papirprocesanlægsarbejde
+814200	Operatør ved papirmasseprocesanlæg
+814300	Operatør ved papirfremstillingsanlæg
+815100	Knuse-, blandings- og procesanlægsarbejde o.l.
+815300	Operatør ved filtrerings- og separeringsanlæg
+815400	Destilleringsarbejde
+815900	Øvrige procesoperatørarbejde
+816000	Energi- og vandforsyningsanlægsarbejde
+816200	Kedelpasning
+817000	Industrirobotoperatører
+820000	Betjening af industrimaskiner
+821100	Betjening af metalforarbejdningsmaskiner
+821200	Betjening af maskiner i mineralindustri
+822100	Betjening af maskiner i medicinalvare-, sæbe- og kosmetikindustrien
+822400	Betjening af maskiner til produktion af fotografiske artikler
+823000	Betjening af maskiner inden for gummi-og plastindustri
+824000	Betjening af maskiner vedr. færdige produkter i træ
+825100	Betjening af trykmaskiner
+826000	Betjening af maskiner inden for tekstil-, skind- og læderindustri
+826200	Betjening af væve- og strikkemaskiner
+826910	Maskinel tilskæring af tekstilvarer
+826930	Betjening af vodbindingsmaskiner
+827110	Industrielt slagteriarbejde, behandling af råvarer (ekskl. fjerkræ)
+827130	Maskinel behandling af råvarer inden for fiskeindustrien
+827500	Betjening af maskiner i frugt- og grøntkonservesproduktion og margarinefremstilling
+828000	Monterings- og samlebåndsarbejde
+828300	Montering af elektronisk udstyr
+828700	Andet monterings og samlebåndsarbejde
+829010	Maskinel pakning og mærkning
+831200	Betjent- og rangerarbejde
+832200	Hyre- og varevognschauffører
+832230	Varevognschauffører med farligt gods, national transport
+832250	Varevognschauffører med flytteopgaver
+832280	Andre varevognschauffører, national transport
+832300	Buschauffører
+832330	Buschauffører, international rutefart
+832410	Last- og tankbilschauffører med farligt gods, national transport
+832430	Last- og tankbilschauffører med flytteopgaver
+832460	Andre last- og tankbilschauffører, national transport
+833000	Arbejde med andre mobile maskiner og køretøjer
+833300	Kran- og liftførerarbejde
+833400	Truckførere
+900000	Andet arbejde
+910000	Rengørings- og renovationsarbejde, bud- og vagttjeneste, telefon- og dørsalg m.v.
+911000	Salg og service fra gade eller telefon
+911300	salgs- og servicearbejde fra gade eller telefon
+911320	Interviewarbejde vedr. undersøgelser, herunder personlig henvendelse
+913000	Rengørings- og køkkenhjælpsarbejde
+913100	Rengørings- og køkkenhjælpsarbejde i private hjem
+913210	Rengøring af kontorer og beboelsesområder
+913220	Rengøring på hospitaler o.l.
+913240	Medhjælp i køkken
+913245	Afrydder i restauranter o.l.
+913260	Rengøring af passagerområder i fly, tog og busser
+913270	Serviceassistentarbejde, tværgående serviceopgaver mv.
+913300	Vaskeri- og renseriarbejde
+914100	Ejendomsservice og pedelarbejde
+914111	Ejendomsserviceassistentarbejde
+914112	Arbejde som gårdmand o.l.
+914200	Vinduespolering og klargøring af biler
+914210	Vinduespolering
+915000	Budtjeneste, vagtarbejde og måleraflæsning o.l.
+915100	Bude, dragere o.l.
+915300	Måleraflæsning, automattømning
+916000	Renovationsarbejde ekskl. kørsel af renovationsvogne
+916200	Gadefejere, snerydning o.l.
+921000	Medhjælp inden for landbrug, gartneri, fiskeri og skovbrug
+921100	Landbrugs- og gartnerimedhjælperarbejde, frugtplukkerarbejde
+921200	Medhjælp ved skovbrug
+930000	Manuelt arbejde inden for bygge- og anlægssektoren, fremstillingsvirksomhed samt transportsektoren
+245230	Kunstnerisk formgivningsarbejde vedrørende produkter
+245290	Andet kunstnerisk arbejde inden for billedkunst og formgivning
+245300	Kunstnerisk arbejde vedr. musik og sang
+245320	Kunstnerisk arbejde som instruktør inden for sang og musik
+246000	Arbejde inden for religion, herunder præster o.l.
+311000	Teknikerarbejde inden for fysik og kemi, mekanik mv.
+311110	Laborantarbejde
+311120	Assistentarbejde i laboratorier
+311300	Teknikerarbejde vedr. elektriske anlæg og udstyr
+311500	Teknikerarbejde vedr. maskiner og røranlæg, ikke på skibe
+311700	Teknikerarbejde vedr. industrielle udvindingsanlæg
+311910	Teknikerarbejde vedr. drift, planlægning og kvalitetskontrol
+312000	IT-teknisk arbejde
+312100	Programmørarbejde og IT-driftsarbejde
+312200	IT-operatørarbejde, herunder konsol- og maskinoperatørarbejde
+313000	Arbejde med lyd, lys og billeder samt betjening af hospitalsudstyr
+313120	Fototeknisk arbejde
+313150	Lydoptagelse og lydteknik, nyhedsformidling
+313180	Redigering af lyd og billede, ekskl. nyhedsformidling
+313200	Betjening af maskiner ved radio- og fjernsynsudsendelser samt telegrafi
+314100	Teknisk arbejde om bord på skibe
+314300	Flypilotarbejde
+322000	Assistentarbejde inden for sundhedssektoren, ekskl. sygeplejearbejde
+322200	Assistentarbejde og rådgivning vedr. hygiejne, og miljøteknisk arbejde
+322510	Tandklinikassistentarbejde
+322610	Fysioterapeutarbejde
+322620	Fodterapeutarbejde
+322700	Assistentarbejde hos dyrlæge
+322820	Apotekstekniker
+322900	Assistentarbejde inden for sundhedssektoren i øvrigt, herunder zoneterapeutarbejde
+331000	Skoleundervisning af børn under den undervisningspligtige alder
+334010	Undervisning og pædagogisk arbejde i institutioner i øvrigt
+340000	Arbejde med salg, finansiering, forretningsservice, administration m.v.
+341100	Kreditarbejde og omsætning af værdipapirer
+341140	Kreditarbejde vedr. nødlidende engagementer
+341160	Rådgivningsarbejde vedr. omsætning af værdipapirer, valuta og andre finansielle instrumenter
+341310	Ejendomsmægler
+341400	Arbejde vedrørende tilrettelæggelse af rejser
+341510	Opsøgende salgsarbejde ekskl. detailsalg
+341590	Andet salgsarbejde ekskl. detailsalg
+341600	Indkøbsarbejde
+341720	Forsikringsteknisk arbejde vedr. sagsbehandling af forsikringsskader
+341920	Finansielt arbejde vedr. boligrådgivning
+341950	Forsikringsteknisk arbejde vedr. oprettelse og vedligeholdelse af forsikringspolicer
+342100	Mæglerarbejde
+342210	Spedition vedr. land- og lufttransport
+342300	Jobformidlingsarbejde
+342920	Agentarbejde for fx sportsudøvere og kunstnere
+343000	Administrationsarbejde
+343120	Administrativt arbejde, intern sagsbehandling og direktionssekretærarbejde
+343300	Bogholderi-, revisions- og regnskabsarbejde
+343400	Assistentarbejde ved matematiske beregninger og udarbejdelse af statistik
+344000	Arbejde vedr. offentlige ydelser og afgifter
+344100	Toldarbejde (publikumsbetjening)
+344300	Arbejde vedr. tildeling af offentlige ydelser, herunder socialformidling i stat og kommune
+346000	Socialrådgivning og tilsvarende omsorgsarbejde
+347112	Butiksdekoration
+347119	Dekorationsarbejde i øvrigt
+347140	Grafisk designarbejde
+347150	Illustrations- og tegnearbejde
+347300	Sangere og dansere, der ikke placeres i hovedgruppe 2
+347500	Trænervirksomhed og sportsudøvelse
+347520	Sportsudøvelse
+348000	Arbejde med tilknytning til religion
+411100	Stenografering og maskinskrivning
+411400	Betjening af bogføringsmaskiner, regnemaskiner o.l.
+412110	Beregningsarbejde vedr. bogføring
+413000	Administration af lager, produktion og transport
+413300	Transporttilrettelæggelse
+413330	Udryknings- og transporttilrettelæggelse vedr. redningstjeneste
+414000	Arkivarbejde, post- og betjentarbejde og korrekturlæsning
+414220	Postbudarbejde
+419000	Kartoteksarbejde og andre specialopgaver, ekskl. kundebetjening
+421200	Alment bank- og sparekassearbejde
+421300	Bookmaker-, croupier- og kollektørarbejde
+422100	Rejsebureauarbejde
+422210	Receptionsarbejde
+422230	Lægesekretærarbejde
+422310	Telefonomstillingsarbejde
+500000	Detailsalg, service- og omsorgsarbejde
+511000	Servicearbejde vedr. transport, rejser og turisme
+511110	Passagerbetjening under rejse og transport
+511200	Billettering, informations- og kontrolarbejde under rejser
+512100	Generelt husholdningsarbejde
+512200	Tilberedning af måltider, fx kok og køkkenleder
+513100	Børnepasning og pædagogisk hjælp
+513110	Børnepasning i private hjem
+513200	Social- og sundhedspersonale på institutioner, samt portørarbejde
+513300	Social- og sundhedspersonale i private hjem
+514000	Servicearbejde
+514100	Personpleje
+514110	Frisør- og barberarbejde
+514200	Kammertjenerarbejde
+514900	Servicearbejde i øvrigt
+516000	Overvågnings- og redningsarbejde
+516200	Politiarbejde
+516300	Overvågningsarbejde i fængsler
+516910	Butiksdetektivarbejde
+516930	Redningsarbejde
+520000	Detailsalg og modelarbejde
+522000	Detailsalg og demonstrationsarbejde
+522010	Kasseekspedientarbejde
+522030	Ekspedientarbejde
+600000	Arbejde inden for landbrug, gartneri, skovbrug, jagt og fiskeri
+610000	Arbejde inden for landbrug, gartneri, skovbrug, jagt og fiskeri
+611200	Gartnerarbejde
+611210	Produktions- og væksthusgartnerarbejde (2003 avl af frugt og grøntsager)
+612100	Arbejde med tamme husdyr undtagen fjerkræ
+612900	Arbejde med dyr i øvrigt
+614100	Skovbrugsarbejde
+614200	kulsvierarbejde
+615100	Arbejde med opdræt af fisk, østers o.l.
+615400	Jagt
+700000	Håndværkspræget arbejde
+711000	Mine- og stenbrudsarbejde
+712000	Bygningsarbejde (basis)
+712100	Bygningsarbejde med naturmaterialer
+712310	Fremstilling af råhuse og montagearbejde, ekskl. medhjælpere
+712400	Tømrer- og snedkerarbejde
+712910	Fremstilling af bygningskonstruktioner i stål
+712990	Andet bygningsarbejde
+713100	Tagdækningsarbejde
+713400	Isoleringsarbejde
+713600	Vvs-arbejde
+714000	Malerarbejde og bygningsrengøring
+714110	Bygningsmaler- og tapetsererarbejde
+714200	Sprøjtelakeringsarbejde
+714310	Skorstensfejning
+721100	Formningsarbejde
+721300	Tyndpladearbejde
+721400	Stålkonstruktionsarbejde
+722100	Grovsmedearbejde
+722300	Maskinelt præcisionsarbejde i metal og indstilling af metalforarbejdningsmaskiner
+723190	Automekaniker- og automontørarbejde i øvrigt
+723310	Kølemontørarbejde
+724000	Elektro? og elektronikmekanikerarbejde mv.
+822300	Betjening af maskiner ved galvanisering og industrilakering
+823100	Betjening af maskiner i gummivareindustrien
+823220	Betjening af maskiner ved produktion af plastprodukter
+825000	Betjening af maskiner inden for grafisk- og papirvareindustri
+825120	Betjening af trykmaskiner, rotation
+825130	Betjening af trykmaskiner, digitaltryk og -print
+826100	Betjening af maskiner i garnforberedende arbejde, spinderiarbejde
+826400	Betjening af maskiner til efterbehandlingsarbejde
+826600	Betjening af maskiner til skoproduktion
+826920	Betjening af rebslagerimaskiner
+826940	Betjening af lædervaremaskiner ekskl. skoproduktion
+827100	Industrislagtning, maskinel behandling af råvarer inden for fiskeindustri mv.
+827120	Fjerkræslagteriarbejde, behandling af råvarer
+827300	Betjening af maskiner på møllerier
+827400	Betjening af bageri- og sukkervareproduktionsmaskiner
+827800	Betjening af maskiner i bryggeriproduktion
+828100	Montering af me­kaniske maskiner
+828200	Montering af elektrisk udstyr
+828600	Samlebåndsarbejde inden for papir-, tekstil- og tilsvarende produktion
+829000	Betjening af andre maskiner og kvalitetskontrol af varer i produktionen
+829030	Kontrol af varer efter bearbejdning
+830000	Transport- og anlægsarbejde
+831100	Lokomotiv- og elektroførerarbejde
+832000	Chaufførarbejde
+832100	Motorcykelbude
+832220	Hyrevognschauffører med godstransport
+832260	Varevognschauffører med renovationsopgaver
+832270	Varevognschauffører med salgs- og repræsentationsopgaver
+832310	Buschauffører, national rutefart
+832320	Buschauffører, national turistfart
+832340	Buschauffører, international turistfart
+832400	Last- og tankbilschauffører
+832420	Last- og tankbilschauffører med farligt gods, international transport
+832440	Last- og tankbilschauffører med renovationsopgaver
+832450	Last- og tankbilschauffører med salgs- og repræsentationsopgaver
+832470	Andre last- og tankbilschauffører, international transport
+833100	Landbrugsmaskinførere
+833200	Entreprenørmaskinførere
+833310	Kranførere ved stationære kraner
+833320	Kran- og liftførere ved mobile kraner og lifte
+834000	Dæksarbejde og medhjælperarbejde ombord på skibe
+911310	Dør- og telefonsalg
+912000	Skopudsning o.l. gadeservicearbejde
+913200	Rengøring, køkkenhjælp mv. (ikke private hjem)
+913230	Rengøring af fabrikslokaler o.l.
+913250	Klargøring af værelser på hoteller o.l.
+914000	Vedligeholdelse af bygninger og anlæg samt vinduespolering o.l.
+914113	Pedelarbejde på skoler o.l.
+914220	Rengøring og klargøring af biler
+915200	Dørvogtere, billettering og opsyn o.l.
+916100	Renovationsarbejde
+920000	Medhjælp inden for landbrug, gartneri, fiskeri og skovbrug
+921300	Medhjælp i fiskerierhverv på land, samt medhjælp ved jagt o.l.
+931210	Asfaltarbejde
+931230	Kabelarbejde
+931240	Montage af luftledninger
+931310	Isoleringsarbejde uden særlige kvalifikationer
+931340	Beton- jernbeton- og montagearbejde uden særlige kvalifikationer
+933000	Manuelt transport- og lagerarbejde m.v.
+933030	Lastning og losning af skibe, bulk
+933060	Medhjælp i butik mv. (uden kassearbejde)
+611290	Gartneriarbejde i øvrigt
+611220	2003 avl af blomster og planter
+734410	2003 repofotografisk arbejde
+734490	2003 andet fototeknisk arbejde (mørkekammerarbejde)
+999900	Uoplyst
+122600	Ledelse af hovedaktiviteten i virksomheder inden for transport og kommunikation i virksomhed med mindst 10 beskæftigede
+122920	Ledelse i undervisningssektoren i virksomhed med mindst 10 beskæftigede
+123200	Personaleledelse i virksomhed med mindst 10 beskæftigede
+123900	Ledelse af andre specialområder i virksomhed med mindst 10 beskæftigede
+131220	Ledelse af produktionen i industrivirksomheder i øvrigt i virksomhed med færre end 10 beskæftigede
+131800	Ledelse af hovedaktiviteten i virksomheder inden for personlige tjenesteydelser i virksomhed med færre end 10 beskæftigede
+131940	Ledelse af andre offentlige områder, herunder sport, kultur og servicevirksomhed i virksomhed med færre end 10 beskæftigede
+212200	Arbejde med statistiske begreber, teorier og metoder
+213900	Andet IT-arbejde på teknisk højt niveau, herunder rådgivning om implementering og vedligeholdelse af software og hardware
+214800	Landinspektørarbejde
+221100	Arbejde inden for levnedsmiddelområdet, biologi, genetik, zoologi, botanik og økologi
+223000	Jordemoderarbejde, sundhedsplejerskearbejde og overordnet sygeplejearbejde
+233000	Undervisning på folkeskoleniveau, ekskl. børnehaveklasse
+235200	Kontrol og tilrettelæggelse af undervisning
+241000	Arbejde med virksomheders organisation og økonomi
+241920	Specialfunktioner i interesseorganisationer vedr. organisation, økonomi mv.
+243200	Bibliotekararbejde
+244500	Arbejde inden for psykologi
+245120	Redaktionelt arbejde
+245212	Illustrationsgrafisk arbejde vedr. marketing
+245500	Film- og skuespilarbejde
+311100	Teknikerarbejde inden for fysik, kemi, geologi mv.
+311400	Teknikerarbejde vedr. elektroniske anlæg og udstyr, inkl. tele- og datakommunikation
+311930	Grafiker- og Dtp-arbejde
+321124	Andet teknikerarbejde, fødevareindustri
+321133	Laboratorieteknikerarbejde, hospitaler
+321142	Laboratorieteknikerarbejde vedr. forskning
+321300	Rådgivningsarbejde ved landbrug og skovbrug
+322400	Optikerarbejde
+322640	Ergoterapeutarbejde
+330000	Omsorgs- og pædagogisk arbejde
+334000	Undervisnings- og pædagogisk arbejde i øvrigt
+341110	Kreditarbejde vedr. kreditanalyse
+341170	Analysearbejde vedr. omsætning af værdipapirer, valuta og andre finansielle instrumenter
+341540	Salg af lastbiler og andre erhvervskøretøjer
+341900	Andet salgs- og finansieringsarbejde
+341990	Andet salgs- og finansieringsarbejde i øvrigt
+342910	Salgs- og rådgivningsarbejde vedr. reklamer
+343200	Advokatsekretærarbejde
+343910	Tilsyns- og inspektørarbejde
+344200	Toldarbejde (administrative funktioner)
+347000	Arbejde inden for design, kunst, underholdning og sport
+347190	Andet dekorations-, design og illustrationsarbejde
+410000	Internt kontorarbejde
+411500	Alment kontor- og sekretærarbejde
+412200	Beregningsarbejde vedr. finansielle transaktioner, statistik, standardforsikringspræmier mv.
+413390	Transporttilrettelæggelse i øvrigt
+414300	Korrekturlæsning, kodning o.l.
+421210	Bank- og sparekassearbejde med generel kundebetjening
+422220	Receptionsarbejde inden for sundhedssektoren
+511100	Passagerbetjening
+511300	Turist- og rejselederarbejde
+513000	Omsorgsarbejde
+513220	Portørarbejde
+514120	Kosmetolog- og massørarbejde samt anden personpleje
+516920	Vagtarbejde
+522020	Demonstrationsarbejde
+611000	Arbejde inden for plantevækst
+614000	Skovbrugsarbejde
+712210	Murerarbejde, ekskl. medhjælpere
+123500	Indkøbs- og forsyningsledelse i virksomhed med mindst 10 beskæftigede
+131100	Ledelse af bedriften inden for landbrug, skovbrug og fiskeri i virksomhed med færre end 10 beskæftigede
+131500	Ledelse af hovedaktiviteten i hotel- og restaurationsvirksomhed i virksomhed med færre end 10 beskæftigede
+131990	Ledelse af hovedaktiviteten i øvrigt i virksomhed med færre end 10 beskæftigede
+211200	Arbejde inden for meteorologi
+212000	Arbejde med matematiske og statistiske begreber, teorier og metoder
+213100	Udvikling og overordnet drift af IT-systemer
+213200	Programmeringsarbejde på teknisk højt niveau, herunder overordnet konfiguration af database- og filstrukturer
+214400	Ingeniørarbejde vedr. svagstrøm
+214700	Mineingeniørarbejde
+220000	Arbejde inden for medicin, farmaci, og de biologiske grene af naturvidenskab, samt jordemoderarbejde, overordnet sygeplejearbejde mv.
+222100	Lægearbejde
+222300	Veterinærarbejde
+223010	Jordemoderarbejde
+223030	Overordnet sygeplejerskearbejde og hjemmesygeplejearbejde
+232020	Undervisning i erhvervsuddannelsesskoler
+233110	Undervisning i folkeskoler, ekskl. børnehaveklasse
+235100	Forskning, udvikling og rådgivning vedr. undervisningsmetoder
+235930	Undervisning af indvandrere
+235950	Undervisning på aftenskoler
+240000	Arbejde inden for samfundsvidenskaberne og humaniora
+241910	Specialfunktioner i erhvervsvirksomheder vedr. organisation, økonomi, salg mv.
+242110	Advokatarbejde
+242900	Juridisk arbejde i øvrigt
+724100	Elektromekanikerarbejde
+724500	Kabelmontørarbejde
+731100	Finmekanisk arbejde mv.
+731130	Tandteknikerarbejde
+732000	Glas-, keramik- og teglarbejde
+732300	Glasætsnings- og sandblæsningsarbejde
+733200	Håndarbejde i tekstil og læder
+734200	Stereotypi- og elektrotypiarbejde
+734500	Håndbogbinding
+741000	Arbejde inden for nærings- og nydelsesmiddelindustri
+741130	Røgearbejde
+741300	Mejeriarbejde
+741600	Tobaksproduktionsarbejde
+742200	Bødker- og møbelsnedkerarbejde
+743000	Tekstil- og beklædningsarbejde
+743300	Skrædderarbejde, modister og hattemagere
+743700	Møbelpolstre-, autosadelmagerarbejde
+800000	Proces- og maskinoperatørarbejde samt transport- og anlægsarbejde
+811100	Mineanlægsarbejde
+811300	Olie-, gas- og andet boreanlægsarbejde
+812200	Stålværksarbejde
+812400	Tråd- og rørtrækning
+813100	Operatør ved glas- og keramikovne
+814100	Forarbejdning af træ til yderligere bearbejdning
+815000	Kemisk procesanlægsarbejde
+815200	Operatør ved varmebehandlingsanlæg i kemisk- og mineralindustri
+815500	Benzin- og naturgasraffinering
+816100	Elværksoperatørarbejde
+816300	Operatør ved forbrændings- og vandforsyningsanlæg
+821000	Betjening af maskiner inden for metal- og mineralindustri
+822000	Betjening af maskiner inden for kemisk industri
+822200	Betjening af maskiner ved ammunitions- og krudtværksproduktion
+823210	Betjening af maskiner ved produktion af plast
+825200	Betjening af bogbinderimaskiner
+826500	Betjening af maskiner til garvning og pelsberedningsarbejde
+827000	Betjening af maskiner inden for nærings- og nydelsesmiddelindustri
+827200	Betjening af maskiner i mejeriproduktion
+827700	Betjening af maskiner ved te-, kaffe- og kakaoristningsproduktion
+828500	Monterings- og samlebåndsarbejde inden for træproduktion
+829090	Betjening af øvrige maskiner
+245400	Kunstnerisk arbejde som danser og koreograf
+247000	Arbejde med administration af lovgivningen inden for den offentlige sektor
+311140	Teknikerarbejde inden for geologi, meteorologi og astronomi
+311900	Teknikerarbejde inden for andre områder
+311990	Teknikerarbejde i øvrigt
+312120	IT-driftsplanlægning og -administration, herunder administration af brugerrettigheder
+313130	Film- og videooptagelse, nyhedsformidling
+313160	Lydoptagelse og lydteknik, ekskl. nyhedsformidling
+314000	Arbejde inden for skibsfart og luftfart
+314400	Planlægning og afvikling af flytrafik
+322500	Arbejde med tandpleje
+322520	Tandplejerarbejde
+322630	Kiropraktorarbejde
+322800	Farmaceutisk assistentarbejde
+323100	Sygeplejearbejde
+333000	Omsorgs- og pædagogisk arbejde for børn og voksne i specialinstitutioner
+341120	Kreditarbejde vedr. behandling/bevilling
+341200	Forsikringssalgsarbejde
+341320	Ejendomshandler
+341530	Salg af person- og varebiler, herunder motorcykler
+341700	Vurdering, taksering og sagsbehandling af forsikringsskader
+341930	Arbejde vedr. pensions- og investeringsrådgivning
+342200	Spedition
+342290	Spedition i øvrigt
+342900	Andet forretningsservicearbejde
+343100	Administrativt sekretærarbejde mv.
+343320	Revisions- og regnskabsarbejde
+343920	Administrativ arbejdstilrettelæggelse og personaleledelse
+345000	Politimæssigt arbejde og detektivarbejde
+347100	Dekoration, design og illustration
+347120	Design og formgivningsarbejde
+347200	Speakerarbejde
+611100	Arbejde med markafgrøder på landbrug
+611230	Anlægsgartnerarbejde
+612200	Arbejde med opdræt af fjerkræ
+613000	Arbejde med såvel markafgrøder som husdyr, fx som landmand
+615000	Fiskeri og jagt
+615300	Havfiskeri
+711200	Minørarbejde
+712220	Brolægningsarbejde, ekskl. medhjælpere
+712420	Fremstilling og reparation af skibe i træ
+713300	Stukkatørarbejde
+713700	Elektrikerarbejde
+714130	Skiltemalerarbejde
+714320	Kemisk rensning og sandblæsning af overflader
+721600	Dykkerarbejde vedr. reparation o.l.
+723110	Automekanikerarbejde, person- og varevogne
+724200	Montørarbejde vedr. elektronik
+822900	Betjening af maskiner ved andet kemisk arbejde
+823200	Betjening af maskiner inden for plastindustri
+825110	Betjening af trykmaskiner, ark
+825300	Betjening af papirbearbejdningsmaskiner
+826300	Betjening af symaskiner
+826900	Betjening af andre maskiner inden for tekstil-, skind- og læderindustri
+826990	Øvrigt maskinarbejde inden for tekstil-, skind- og læderindustri
+827140	Færdigvareproduktion, kød-, fjerkræ- og fiskeprodukter
+827600	Betjening af maskiner i sukkerproduktion
+827900	Betjening af maskiner i tobaksindustrien
+828400	Monterings- og samlebåndsarbejde inden for metal-, gummi- og plastproduktion
+829020	Kontrol af varer før bearbejdning
+831000	Jernbanedrift
+831210	Betjent- og rangerarbejde
+832210	Hyrevognschauffører og anden persontransport
+832240	Varevognschauffører med farligt gods, international transport
+832290	Andre varevognschauffører, international transport

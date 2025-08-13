@@ -1,0 +1,120 @@
+# Python virtual environments
+torch_env/
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Development/temporary Python scripts (keep locally, exclude from git)
+add_*.py
+cleanup_*.py
+convert_*.py
+create_*.py
+download_*.py
+enhance_*.py
+extract_*.py
+final_*.py
+fix_*.py
+map_*.py
+organize_*.py
+parse_*.py
+process_*.py
+simple_*.py
+update_*.py
+*_parser.py
+
+# Temporary processing directories
+hierarchical_mappings/
+temp_*
+*_temp.*
+
+# Summary/memory files
+ALL_MAPPINGS_SUMMARY.py
+FINAL_*_SUMMARY.md
+MEMORY_*.md

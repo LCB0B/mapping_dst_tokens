@@ -1,0 +1,32 @@
+code,description
+LAB_nace_0,Ikke oplyst
+LAB_nace_11110,Kornavl
+LAB_nace_11190,Agerbrug i øvrigt
+LAB_nace_11210,Gartnerier
+LAB_nace_11220,Planteskoler
+LAB_nace_11300,"Dyrkning af frugt og bær, nødder og krydderiplanter"
+LAB_nace_12110,Malkekvæghold
+LAB_nace_12190,Anden kvægavl
+LAB_nace_12210,Stutterier
+LAB_nace_12220,Fåre- og gedeavl
+LAB_nace_12300,Svineavl
+LAB_nace_12400,Fjerkræavl
+LAB_nace_12510,Pelsdyravl
+LAB_nace_12520,Biavl
+LAB_nace_12530,Kenneler
+LAB_nace_12590,Opdræt af andre dyr
+LAB_nace_01,"Agriculture, forestry and fishing"
+LAB_nace_02,Forestry and logging
+LAB_nace_10,Manufacture of food products
+LAB_nace_11,Manufacture of beverages
+LAB_nace_46,Wholesale trade
+LAB_nace_47,Retail trade
+LAB_nace_55,Accommodation
+LAB_nace_56,Food and beverage service activities
+LAB_nace_62,"Computer programming, consultancy"
+LAB_nace_68,Real estate activities
+LAB_nace_84,Public administration and defence
+LAB_nace_85,Education
+LAB_nace_86,Human health activities
+LAB_nace_87,Residential care activities
+LAB_nace_88,Social work activities

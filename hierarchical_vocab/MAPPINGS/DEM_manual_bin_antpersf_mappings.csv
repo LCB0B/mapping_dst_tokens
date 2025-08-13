@@ -1,0 +1,11 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_manual_bin_antpersf_manual_bin_1,DEM,manual_bin_antpersf,1,Manual bin: 1 persons in the family,generated_pattern,medium,english
+DEM_manual_bin_antpersf_manual_bin_2,DEM,manual_bin_antpersf,2,Manual bin: 2 persons in the family,generated_pattern,medium,english
+DEM_manual_bin_antpersf_manual_bin_3,DEM,manual_bin_antpersf,3,Manual bin: 3 persons in the family,generated_pattern,medium,english
+DEM_manual_bin_antpersf_manual_bin_4,DEM,manual_bin_antpersf,4,Manual bin: 4 persons in the family,generated_pattern,medium,english
+DEM_manual_bin_antpersf_manual_bin_6,DEM,manual_bin_antpersf,6,Manual bin: 6 persons in the family,generated_pattern,medium,english
+DEM_manual_bin_antpersf_manual_bin_5,DEM,manual_bin_antpersf,5,Manual bin: 5 persons in the family,generated_pattern,medium,english
+DEM_manual_bin_antpersf_manual_bin_7,DEM,manual_bin_antpersf,7,Manual bin: 7 persons in the family,generated_pattern,medium,english
+DEM_manual_bin_antpersf_manual_bin_8,DEM,manual_bin_antpersf,8,Manual bin: 8 persons in the family,generated_pattern,medium,english
+DEM_manual_bin_antpersf_manual_bin_9,DEM,manual_bin_antpersf,9,Manual bin: 9 persons in the family,generated_pattern,medium,english
+DEM_manual_bin_antpersf_manual_bin_10,DEM,manual_bin_antpersf,10,Manual bin: 10 persons in the family,generated_pattern,medium,english

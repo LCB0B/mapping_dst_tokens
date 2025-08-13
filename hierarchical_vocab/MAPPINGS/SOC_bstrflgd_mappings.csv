@@ -1,0 +1,11 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_bstrflgd_Q1,SOC,bstrflgd,Q1,Punishment flag days (percentile): Q1,enhanced_english,medium,english
+SOC_bstrflgd_Q10,SOC,bstrflgd,Q10,Punishment flag days (percentile): Q10,enhanced_english,medium,english
+SOC_bstrflgd_Q2,SOC,bstrflgd,Q2,Punishment flag days (percentile): Q2,enhanced_english,medium,english
+SOC_bstrflgd_Q3,SOC,bstrflgd,Q3,Punishment flag days (percentile): Q3,enhanced_english,medium,english
+SOC_bstrflgd_Q4,SOC,bstrflgd,Q4,Punishment flag days (percentile): Q4,enhanced_english,medium,english
+SOC_bstrflgd_Q5,SOC,bstrflgd,Q5,Punishment flag days (percentile): Q5,enhanced_english,medium,english
+SOC_bstrflgd_Q6,SOC,bstrflgd,Q6,Punishment flag days (percentile): Q6,enhanced_english,medium,english
+SOC_bstrflgd_Q7,SOC,bstrflgd,Q7,Punishment flag days (percentile): Q7,enhanced_english,medium,english
+SOC_bstrflgd_Q8,SOC,bstrflgd,Q8,Punishment flag days (percentile): Q8,enhanced_english,medium,english
+SOC_bstrflgd_Q9,SOC,bstrflgd,Q9,Punishment flag days (percentile): Q9,enhanced_english,medium,english

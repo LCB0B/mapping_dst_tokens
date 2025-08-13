@@ -1,0 +1,102 @@
+code,description
+SOC_afgtypko_0,Unenlightened
+SOC_afgtypko_1,Unconditional judgment alone
+SOC_afgtypko_2,Finedom
+SOC_afgtypko_3,"Penal Code §68-70, Measure/ Custody"
+SOC_afgtypko_4,Conditional judgment alone
+SOC_afgtypko_5,Conditional judgment and fine
+SOC_afgtypko_6,Partially suspended judgment
+SOC_afgtypko_7,No-show Judgment
+SOC_afgtypko_8,Fine adoption in court
+SOC_afgtypko_9,Warning in court
+SOC_afgtypko_10,Ended in court
+SOC_afgtypko_11,Acquitted
+SOC_afgtypko_12,Domestic by law of fine and driver's right
+SOC_afgtypko_13,Domestic services of fines and driving bans
+SOC_afgtypko_14,Internal court district of fine and disqualification
+SOC_afgtypko_15,Military punishment
+SOC_afgtypko_16,Decreekeeping of fine/disqualification of the right to drive small moped
+SOC_afgtypko_17,Extrajudicial adoption of a fine/disqualification of the right to drive small moped
+SOC_afgtypko_18,Extrajudicial adoption of a fine and disqualification of rights
+SOC_afgtypko_19,Out-of-court goods of fines and waivers
+SOC_afgtypko_20,Out-of-courts of fine and driving ban
+SOC_afgtypko_21,Fines
+SOC_afgtypko_22,"Waiver waiver with conditions Rpl p.723, paragraph 1, no.1"
+SOC_afgtypko_23,"Waiver waiver with conditions Rpl p.723, paragraph 1, no.2"
+SOC_afgtypko_24,"Waiver waiver with conditions Rpl p.723, paragraph 1, no.5"
+SOC_afgtypko_25,"Waiver dropout-outpage without conditions Rpl p.723, paragraph 1, no.3"
+SOC_afgtypko_26,"Waiver dropout without conditions Rpl p.723, paragraph 1, no.4"
+SOC_afgtypko_27,"Waiver dropout-out rate Rpl p.723, paragraph 1, no.5"
+SOC_afgtypko_28,"Waiver waiver without conditions Rpl p.723, paragraph.2"
+SOC_afgtypko_29,"Indictment omitted Rpl p.723, paragraph.1"
+SOC_afgtypko_30,Unenlightened
+SOC_afgtypko_31,Indictment omitted (Faroese) is not included in the count.
+SOC_afgtypko_33,"Waiver waiver with conditions Rpl p.723, paragraph.2"
+SOC_afgtypko_34,"Charge baseless criminal law, rtpl. 721.1.1"
+SOC_afgtypko_35,Charge baseless (Faroese) is not included in a count.
+SOC_afgtypko_36,Indictment omitted with warning Penal Code
+SOC_afgtypko_37,Indictment omitted without warning Penal Code
+SOC_afgtypko_38,Indictment omitted with warning Special legislation
+SOC_afgtypko_39,Indictment omitted without warning Special legislation
+SOC_afgtypko_40,Other
+SOC_afgtypko_41,Youth contract
+SOC_afgtypko_42,"Indictment waiver with a fine Rpl p.723, paragraph 4 cf.s.1,a."
+SOC_afgtypko_43,"Indictment waiver with a fine Rpl p.723, paragraph 4 cf.s.1,n.2"
+SOC_afgtypko_44,"Waiver waiver with a fine Rpl p.723, paragraph 4 cf.s.1,n.5"
+SOC_afgtypko_45,"Rpl p.723, paragraph 4 cf.s.1,n.3"
+SOC_afgtypko_46,"Rpl p.723, paragraph 4 cf. 1,n4."
+SOC_afgtypko_47,"Rpl p.723, paragraph 4 cf.s.1,n5"
+SOC_afgtypko_48,"Rpl p.723, paragraph 4 cf. paragraph 2"
+SOC_afgtypko_49,"Rpl p.723, paragraph 4 cf. paragraph 1"
+SOC_afgtypko_50,"Rpl p.723, paragraph 4 cf. paragraph 2"
+SOC_afgtypko_51,"Rpl p.723, paragraph 4 cf. paragraph 3"
+SOC_afgtypko_52,"Rpl p.722, paragraph 1, no.2 juvenile contract (formed by DST from FP code = 62. Occurs only in the period 1999-2006)"
+SOC_afgtypko_53,"Rpl p.722, paragraph 1, no.3 ungd.contract (formed by DST from RP code = 63. Occurs only in the period 1999-2006)"
+SOC_afgtypko_60,"Prohibition of residence by judgment, cf. section 79 (a), paragraph. 2"
+SOC_afgtypko_61,"Rpl p.723, paragraph.3"
+SOC_afgtypko_62,"Indictment waiver with conditions Rpl p.722, paragraph 1, no.2"
+SOC_afgtypko_63,"Indictment waiver with conditions Rpl p.722, paragraph 1, no.3"
+SOC_afgtypko_64,"Indictment waiver with conditions Rpl p.722, paragraph 1, no.7"
+SOC_afgtypko_65,"Waiver-off excluding Rpl p.722, paragraph 1, no.6"
+SOC_afgtypko_66,"Offences of instalment without conditions Rpl p.722, paragraph 1, no.4"
+SOC_afgtypko_67,"Waiver waiver without conditions Rpl p.722, paragraph 1 no.7"
+SOC_afgtypko_68,"Waiver dropout-outpage Rpl p.722, paragraph.2 cf."
+SOC_afgtypko_69,"Reprimand given Rpl p.721, paragraph 1 no.2"
+SOC_afgtypko_70,Judgment without a hearing
+SOC_afgtypko_71,"Waiver dropout-off excluding Rpl p.722, paragraph 1 paragraph 5"
+SOC_afgtypko_72,"Reprimand given RPCH:81 rpl p.721, paragraph.1 no.3"
+SOC_afgtypko_73,"Waiver waiver with conditions Rpl p.722, paragraph.c.3"
+SOC_afgtypko_74,The charge baseless penal code (721 paragraph 1(1))
+SOC_afgtypko_75,The term baseless special legislation (721 paragraph 1(1))
+SOC_afgtypko_76,"Indictment omitted by warning - Penal Code (Rpl. section 722, paragraph 1 no. 1)"
+SOC_afgtypko_77,"Indictment omitted without warning - Penal Code (Rpl. section 722, paragraph 1 no. 1)"
+SOC_afgtypko_78,"Indictment omitted with warning - special legislation (Rpl. section 722, paragraph 1 no. 1 or 7)"
+SOC_afgtypko_79,"Indictment omitted - special legislation (Rpl. § 722, paragraph 1, no. 1)"
+SOC_afgtypko_80,"Sentencing for a residence ban, cf. section 79 (a) of the Criminal Code"
+SOC_afgtypko_81,Conditional judgment and samf.tj.
+SOC_afgtypko_82,"Bet. judgment, fine and samf.tj. (formed by DST based on FP-code = 05. Occurs only in the period 1983-2006)"
+SOC_afgtypko_83,Partially conditional and samf.tj. (formed by DST from FP-code = 06. Occurs only in the period 1983-2006)
+SOC_afgtypko_84,Unconditional judgment and samf.tj.
+SOC_afgtypko_86,Unconditional judgment and fine
+SOC_afgtypko_87,Punishment lapsed
+SOC_afgtypko_88,Ended in custody
+SOC_afgtypko_89,"Contact ban by judgment, cf. section 79 (a), paragraph. 3"
+SOC_afgtypko_90,"Travel ban by judgment, cf. section 79 (e) of the Criminal Code"
+SOC_afgtypko_91,"Rpl p.723, paragraph 1, no.1"
+SOC_afgtypko_92,"Rpl p.723, paragraph 1, no. 2,"
+SOC_afgtypko_93,"Rpl p.723, paragraph 1, paragraph 5,"
+SOC_afgtypko_94,"Rpl p.723, paragraph 2"
+SOC_afgtypko_95,"Rpl p.723, paragraph 4 cf.s.1,n1"
+SOC_afgtypko_96,"Rpl p.723, paragraph 4 cf.s.1,n.2"
+SOC_afgtypko_97,"Rpl p.723, paragraph 4 cf.s.1,n5"
+SOC_afgtypko_98,"Rpl p.723, paragraph 4 cf. paragraph 2"
+SOC_afgtypko_99,"Rpl p.723, paragraph 4 cf. paragraph 3"
+SOC_afgtypko_100,Laid out without restraining order
+SOC_afgtypko_101,Laid down the ud.warning (§265 gek.74262)
+SOC_afgtypko_104,Injunctions according to dog law (gerk.89151)
+SOC_afgtypko_110,"Driving licence frak.gr.gyd.dragk, etc."
+SOC_afgtypko_118,"Decommitted as obsolete, cf. section 93 of the Criminal Code (all codes)"
+SOC_afgtypko_121,Transferred to abroad (all German codes)
+SOC_afgtypko_200,Decree-Feas of the decommissioned by the right of vehicles to be driven by heavy-duty (assumed by DST on the basis of FP = 52)
+SOC_afgtypko_201,Out-of-court adoption fine/exported right to drive heavy-duty vehicles (assumed by DST on the basis of FP code = 53)
+SOC_afgtypko_202,Decree-General adoption of fine/driver's right and the right to drive heavy-duty vehicles (formed by DST from FP code = 54)

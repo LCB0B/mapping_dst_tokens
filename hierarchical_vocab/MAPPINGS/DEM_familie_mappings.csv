@@ -1,0 +1,10 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_familie_type_1.0,DEM,familie,type_1.0,Single person household,enhanced_english,medium,english
+DEM_familie_type_10.0,DEM,familie,type_10.0,Family type: type_10.0,enhanced_english,medium,english
+DEM_familie_type_2.0,DEM,familie,type_2.0,Married couple without children,enhanced_english,medium,english
+DEM_familie_type_3.0,DEM,familie,type_3.0,Married couple with children,enhanced_english,medium,english
+DEM_familie_type_4.0,DEM,familie,type_4.0,Single parent with children,enhanced_english,medium,english
+DEM_familie_type_5.0,DEM,familie,type_5.0,Other family type,enhanced_english,medium,english
+DEM_familie_type_7.0,DEM,familie,type_7.0,Family type: type_7.0,enhanced_english,medium,english
+DEM_familie_type_8.0,DEM,familie,type_8.0,Family type: type_8.0,enhanced_english,medium,english
+DEM_familie_type_9.0,DEM,familie,type_9.0,Family type: type_9.0,enhanced_english,medium,english

@@ -1,0 +1,6 @@
+code,prefix,database,value,description,source,confidence,language
+HEA_GI_manual_bin_10,HEA,GI,manual_bin_10,HEA GI code: manual_bin_10,enhanced_english,medium,english
+HEA_GI_manual_bin_100_500,HEA,GI,manual_bin_100_500,HEA GI code: manual_bin_100_500,enhanced_english,medium,english
+HEA_GI_manual_bin_10_15,HEA,GI,manual_bin_10_15,HEA GI code: manual_bin_10_15,enhanced_english,medium,english
+HEA_GI_manual_bin_500_1000,HEA,GI,manual_bin_500_1000,HEA GI code: manual_bin_500_1000,enhanced_english,medium,english
+HEA_GI_manual_bin_50_100,HEA,GI,manual_bin_50_100,HEA GI code: manual_bin_50_100,enhanced_english,medium,english

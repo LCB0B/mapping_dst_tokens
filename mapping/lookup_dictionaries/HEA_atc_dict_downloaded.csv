@@ -1,0 +1,534 @@
+code,description
+HEA_atc_A01,STOMATOLOGICAL PREPARATIONS
+HEA_atc_A01A,STOMATOLOGICAL PREPARATIONS
+HEA_atc_A01AA,Caries prophylactic agents
+HEA_atc_A01AA01,sodium fluoride
+HEA_atc_A01AA02,sodium monofluorophosphate
+HEA_atc_A01AA03,olaflur
+HEA_atc_A01AA04,stannous fluoride
+HEA_atc_A01AA30,combinations
+HEA_atc_A01AA51,"sodium fluoride, combinations"
+HEA_atc_A01AB,Antiinfectives and antiseptics for local oral treatment
+HEA_atc_A01AB02,hydrogen peroxide
+HEA_atc_A01AB03,chlorhexidine
+HEA_atc_A01AB04,amphotericin B
+HEA_atc_A01AB05,polynoxylin
+HEA_atc_A01AB06,domiphen
+HEA_atc_A01AB07,oxyquinoline
+HEA_atc_A01AB08,neomycin
+HEA_atc_A01AB09,miconazole
+HEA_atc_A01AB10,natamycin
+HEA_atc_A01AB11,various
+HEA_atc_A01AB12,hexetidine
+HEA_atc_A01AB13,tetracycline
+HEA_atc_A01AB14,benzoxonium chloride
+HEA_atc_A01AB15,tibezonium iodide
+HEA_atc_A01AB16,mepartricin
+HEA_atc_A01AB17,metronidazole
+HEA_atc_A01AB18,clotrimazole
+HEA_atc_A01AB19,sodium perborate
+HEA_atc_A01AB21,chlortetracycline
+HEA_atc_A01AB22,doxycycline
+HEA_atc_A01AB23,minocycline
+HEA_atc_A01AC,Corticosteroids for local oral treatment
+HEA_atc_A01AC01,triamcinolone
+HEA_atc_A01AC02,dexamethasone
+HEA_atc_A01AC03,hydrocortisone
+HEA_atc_A01AC54,"prednisolone, combinations"
+HEA_atc_A01AD,Other agents for local oral treatment
+HEA_atc_A01AD01,epinephrine
+HEA_atc_A01AD02,benzydamine
+HEA_atc_A01AD05,acetylsalicylic acid
+HEA_atc_A01AD06,adrenalone
+HEA_atc_A01AD07,amlexanox
+HEA_atc_A01AD08,becaplermin
+HEA_atc_A01AD11,various
+HEA_atc_A02,DRUGS FOR ACID RELATED DISORDERS
+HEA_atc_A02A,ANTACIDS
+HEA_atc_A02AA,Magnesium compounds
+HEA_atc_A02AA01,magnesium carbonate
+HEA_atc_A02AA02,magnesium oxide
+HEA_atc_A02AA03,magnesium peroxide
+HEA_atc_A02AA04,magnesium hydroxide
+HEA_atc_A02AA05,magnesium silicate
+HEA_atc_A02AA10,combinations
+HEA_atc_A02AB,Aluminium compounds
+HEA_atc_A02AB01,aluminium hydroxide
+HEA_atc_A02AB02,algeldrate
+HEA_atc_A02AB03,aluminium phosphate
+HEA_atc_A02AB04,dihydroxialumini sodium carbonate
+HEA_atc_A02AB05,aluminium acetoacetate
+HEA_atc_A02AB06,aloglutamol
+HEA_atc_A02AB07,aluminium glycinate
+HEA_atc_A02AB10,combinations
+HEA_atc_A02AC,Calcium compounds
+HEA_atc_A02AC01,calcium carbonate
+HEA_atc_A02AC02,calcium silicate
+HEA_atc_A02AC10,combinations
+HEA_atc_A02AD,"Combinations and complexes of aluminium, calcium and magnesium compounds"
+HEA_atc_A02AD01,ordinary salt combinations
+HEA_atc_A02AD02,magaldrate
+HEA_atc_A02AD03,almagate
+HEA_atc_A02AD04,hydrotalcite
+HEA_atc_A02AD05,almasilate
+HEA_atc_A02AF,Antacids with antiflatulents
+HEA_atc_A02AF01,magaldrate and antiflatulents
+HEA_atc_A02AF02,ordinary salt combinations and antiflatulents
+HEA_atc_A02AG,Antacids with antispasmodics
+HEA_atc_A02AH,Antacids with sodium bicarbonate
+HEA_atc_A02AX,"Antacids, other combinations"
+HEA_atc_A02B,DRUGS FOR PEPTIC ULCER AND GASTRO-OESOPHAGEAL REFLUX DISEASE (GORD)
+HEA_atc_A02BA,H2-receptor antagonists
+HEA_atc_A02BA01,cimetidine
+HEA_atc_A02BA02,ranitidine
+HEA_atc_A02BA03,famotidine
+HEA_atc_A02BA04,nizatidine
+HEA_atc_A02BA05,niperotidine
+HEA_atc_A02BA06,roxatidine
+HEA_atc_A02BA07,ranitidine bismuth citrate
+HEA_atc_A02BA08,lafutidine
+HEA_atc_A02BA51,"cimetidine, combinations"
+HEA_atc_A02BA53,"famotidine, combinations"
+HEA_atc_A02BB,Prostaglandins
+HEA_atc_A02BB01,misoprostol
+HEA_atc_A02BB02,enprostil
+HEA_atc_A02BC,Proton pump inhibitors
+HEA_atc_A02BC01,omeprazole
+HEA_atc_A02BC02,pantoprazole
+HEA_atc_A02BC03,lansoprazole
+HEA_atc_A02BC04,rabeprazole
+HEA_atc_A02BC05,esomeprazole
+HEA_atc_A02BC06,dexlansoprazole
+HEA_atc_A02BC07,dexrabeprazole
+HEA_atc_A02BC53,"lansoprazole, combinations"
+HEA_atc_A02BC54,"rabeprazole, combinations"
+HEA_atc_A02BD,Combinations for eradication of Helicobacter pylori
+HEA_atc_A02BD01,"omeprazole, amoxicillin and metronidazole"
+HEA_atc_A02BD02,"lansoprazole, tetracycline and metronidazole"
+HEA_atc_A02BD03,"lansoprazole, amoxicillin and metronidazole"
+HEA_atc_A02BD04,"pantoprazole, amoxicillin and clarithromycin"
+HEA_atc_A02BD05,"omeprazole, amoxicillin and clarithromycin"
+HEA_atc_A02BD06,"esomeprazole, amoxicillin and clarithromycin"
+HEA_atc_A02BD07,"lansoprazole, amoxicillin and clarithromycin"
+HEA_atc_A02BD08,"bismuth subcitrate, tetracycline and metronidazole"
+HEA_atc_A02BD09,"lansoprazole, clarithromycin and tinidazole"
+HEA_atc_A02BD10,"lansoprazole, amoxicillin and levofloxacin"
+HEA_atc_A02BD11,"pantoprazole, amoxicillin, clarithromycin and metronidazole"
+HEA_atc_A02BX,Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+HEA_atc_A02BX01,carbenoxolone
+HEA_atc_A02BX02,sucralfate
+HEA_atc_A02BX03,pirenzepine
+HEA_atc_A02BX04,methiosulfonium chloride
+HEA_atc_A02BX05,bismuth subcitrate
+HEA_atc_A02BX06,proglumide
+HEA_atc_A02BX07,gefarnate
+HEA_atc_A02BX08,sulglicotide
+HEA_atc_A02BX09,acetoxolone
+HEA_atc_A02BX10,zolimidine
+HEA_atc_A02BX11,troxipide
+HEA_atc_A02BX12,bismuth subnitrate
+HEA_atc_A02BX13,alginic acid
+HEA_atc_A02BX51,"carbenoxolone, combinations excl. psycholeptics"
+HEA_atc_A02BX71,"carbenoxolone, combinations with psycholeptics"
+HEA_atc_A02BX77,"gefarnate, combinations with psycholeptics"
+HEA_atc_A02X,OTHER DRUGS FOR ACID RELATED DISORDERS
+HEA_atc_A03,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS
+HEA_atc_A03A,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS
+HEA_atc_A03AA,"Synthetic anticholinergics, esters with tertiary amino group"
+HEA_atc_A03AA01,oxyphencyclimine
+HEA_atc_A03AA03,camylofin
+HEA_atc_A03AA04,mebeverine
+HEA_atc_A03AA05,trimebutine
+HEA_atc_A03AA06,rociverine
+HEA_atc_A03AA07,dicycloverine
+HEA_atc_A03AA08,dihexyverine
+HEA_atc_A03AA09,difemerine
+HEA_atc_A03AA30,piperidolate
+HEA_atc_A03AB,"Synthetic anticholinergics, quaternary ammonium compounds"
+HEA_atc_A03AB01,benzilone
+HEA_atc_A03AB02,glycopyrronium bromide
+HEA_atc_A03AB03,oxyphenonium
+HEA_atc_A03AB04,penthienate
+HEA_atc_A03AB05,propantheline
+HEA_atc_A03AB06,otilonium bromide
+HEA_atc_A03AB07,methantheline
+HEA_atc_A03AB08,tridihexethyl
+HEA_atc_A03AB09,isopropamide
+HEA_atc_A03AB10,hexocyclium
+HEA_atc_A03AB11,poldine
+HEA_atc_A03AB12,mepenzolate
+HEA_atc_A03AB13,bevonium
+HEA_atc_A03AB14,pipenzolate
+HEA_atc_A03AB15,diphemanil
+HEA_atc_A03AB16,(2-benzhydryloxyethyl)diethyl-methylammonium iodide
+HEA_atc_A03AB17,tiemonium iodide
+HEA_atc_A03AB18,prifinium bromide
+HEA_atc_A03AB19,timepidium bromide
+HEA_atc_A03AB21,fenpiverinium
+HEA_atc_A03AB53,"oxyphenonium, combinations"
+HEA_atc_A03AC,"Synthetic antispasmodics, amides with tertiary amines"
+HEA_atc_A03AC02,dimethylaminopropionylphenothiazine
+HEA_atc_A03AC04,nicofetamide
+HEA_atc_A03AC05,tiropramide
+HEA_atc_A03AD,Papaverine and derivatives
+HEA_atc_A03AD01,papaverine
+HEA_atc_A03AD02,drotaverine
+HEA_atc_A03AD30,moxaverine
+HEA_atc_A03AE,Serotonin receptor antagonists
+HEA_atc_A03AE01,alosetron
+HEA_atc_A03AE03,cilansetron
+HEA_atc_A03AX,Other drugs for functional gastrointestinal disorders
+HEA_atc_A03AX01,fenpiprane
+HEA_atc_A03AX02,diisopromine
+HEA_atc_A03AX03,chlorbenzoxamine
+HEA_atc_A03AX04,pinaverium
+HEA_atc_A03AX05,fenoverine
+HEA_atc_A03AX06,idanpramine
+HEA_atc_A03AX07,proxazole
+HEA_atc_A03AX08,alverine
+HEA_atc_A03AX09,trepibutone
+HEA_atc_A03AX10,isometheptene
+HEA_atc_A03AX11,caroverine
+HEA_atc_A03AX12,phloroglucinol
+HEA_atc_A03AX13,silicones
+HEA_atc_A03AX14,valethamate
+HEA_atc_A03AX30,trimethyldiphenylpropylamine
+HEA_atc_A03AX58,"alverine, combinations"
+HEA_atc_A03B,"BELLADONNA AND DERIVATIVES, PLAIN"
+HEA_atc_A03BA,"Belladonna alkaloids, tertiary amines"
+HEA_atc_A03BA01,atropine
+HEA_atc_A03BA03,hyoscyamine
+HEA_atc_A03BA04,belladonna total alkaloids
+HEA_atc_A03BB,"Belladonna alkaloids, semisynthetic, quaternary ammonium compounds"
+HEA_atc_A03BB01,butylscopolamine
+HEA_atc_A03BB02,methylatropine
+HEA_atc_A03BB03,methylscopolamine
+HEA_atc_A03BB04,fentonium
+HEA_atc_A03BB05,cimetropium bromide
+HEA_atc_A03C,ANTISPASMODICS IN COMBINATION WITH PSYCHOLEPTICS
+HEA_atc_A03CA,Synthetic anticholinergic agents in combination with psycholeptics
+HEA_atc_A03CA01,isopropamide and psycholeptics
+HEA_atc_A03CA02,clidinium and psycholeptics
+HEA_atc_A03CA03,oxyphencyclimine and psycholeptics
+HEA_atc_A03CA04,otilonium bromide and psycholeptics
+HEA_atc_A03CA05,glycopyrronium bromide and psycholeptics
+HEA_atc_A03CA06,bevonium and psycholeptics
+HEA_atc_A03CA07,ambutonium and psycholeptics
+HEA_atc_A03CA08,diphemanil and psycholeptics
+HEA_atc_A03CA09,pipenzolate and psycholeptics
+HEA_atc_A03CA30,emepronium and psycholeptics
+HEA_atc_A03CA34,propantheline and psycholeptics
+HEA_atc_A03CB,Belladonna and derivatives in combination with psycholeptics
+HEA_atc_A03CB01,methylscopolamine and psycholeptics
+HEA_atc_A03CB02,belladonna total alkaloids and psycholeptics
+HEA_atc_A03CB03,atropine and psycholeptics
+HEA_atc_A03CB04,methylhomatropine and psycholeptics
+HEA_atc_A03CB31,hyoscyamine and psycholeptics
+HEA_atc_A03CC,Other antispasmodics in combination with psycholeptics
+HEA_atc_A03D,ANTISPASMODICS IN COMBINATION WITH ANALGESICS
+HEA_atc_A03DA,Synthetic anticholinergic agents in combination with analgesics
+HEA_atc_A03DA01,tropenzilone and analgesics
+HEA_atc_A03DA02,pitofenone and analgesics
+HEA_atc_A03DA03,bevonium and analgesics
+HEA_atc_A03DA04,ciclonium and analgesics
+HEA_atc_A03DA05,camylofin and analgesics
+HEA_atc_A03DA06,trospium and analgesics
+HEA_atc_A03DA07,tiemonium iodide and analgesics
+HEA_atc_A03DB,Belladonna and derivatives in combination with analgesics
+HEA_atc_A03DB04,butylscopolamine and analgesics
+HEA_atc_A03DC,Other antispasmodics in combination with analgesics
+HEA_atc_A03E,ANTISPASMODICS AND ANTICHOLINERGICS IN COMBINATION WITH OTHER DRUGS
+HEA_atc_A03EA,"Antispasmodics, psycholeptics and analgesics in combination"
+HEA_atc_A03ED,Antispasmodics in combination with other drugs
+HEA_atc_A03F,PROPULSIVES
+HEA_atc_A03FA,Propulsives
+HEA_atc_A03FA01,metoclopramide
+HEA_atc_A03FA02,cisapride
+HEA_atc_A03FA03,domperidone
+HEA_atc_A03FA04,bromopride
+HEA_atc_A03FA05,alizapride
+HEA_atc_A03FA06,clebopride
+HEA_atc_A03FA07,itopride
+HEA_atc_A04,ANTIEMETICS AND ANTINAUSEANTS
+HEA_atc_A04A,ANTIEMETICS AND ANTINAUSEANTS
+HEA_atc_A04AA,Serotonin (5HT3) antagonists
+HEA_atc_A04AA01,ondansetron
+HEA_atc_A04AA02,granisetron
+HEA_atc_A04AA03,tropisetron
+HEA_atc_A04AA04,dolasetron
+HEA_atc_A04AA05,palonosetron
+HEA_atc_A04AA55,"palonosetron, combinations"
+HEA_atc_A04AD,Other antiemetics
+HEA_atc_A04AD01,scopolamine
+HEA_atc_A04AD02,cerium oxalate
+HEA_atc_A04AD04,chlorobutanol
+HEA_atc_A04AD05,metopimazine
+HEA_atc_A04AD10,dronabinol
+HEA_atc_A04AD11,nabilone
+HEA_atc_A04AD12,aprepitant
+HEA_atc_A04AD13,casopitant
+HEA_atc_A04AD51,"scopolamine, combinations"
+HEA_atc_A04AD54,"chlorobutanol, combinations"
+HEA_atc_ALIMENTARY TRACT AND METABOLISM,A
+HEA_atc_ANTACIDS,A02A
+HEA_atc_ANTIEMETICS AND ANTINAUSEANTS,A04
+HEA_atc_ANTISPASMODICS AND ANTICHOLINERGICS IN COMBINATION WITH OTHER DRUGS,A03E
+HEA_atc_ANTISPASMODICS IN COMBINATION WITH ANALGESICS,A03D
+HEA_atc_ANTISPASMODICS IN COMBINATION WITH PSYCHOLEPTICS,A03C
+HEA_atc_Aluminium compounds,A02AB
+HEA_atc_Antacids with antiflatulents,A02AF
+HEA_atc_Antacids with antispasmodics,A02AG
+HEA_atc_Antacids with sodium bicarbonate,A02AH
+"HEA_atc_Antacids, other combinations",A02AX
+HEA_atc_Antiinfectives and antiseptics for local oral treatment,A01AB
+HEA_atc_Antispasmodics in combination with other drugs,A03ED
+"HEA_atc_Antispasmodics, psycholeptics and analgesics in combination",A03EA
+"HEA_atc_BELLADONNA AND DERIVATIVES, PLAIN",A03B
+"HEA_atc_Belladonna alkaloids, semisynthetic, quaternary ammonium compounds",A03BB
+"HEA_atc_Belladonna alkaloids, tertiary amines",A03BA
+HEA_atc_Belladonna and derivatives in combination with analgesics,A03DB
+HEA_atc_Belladonna and derivatives in combination with psycholeptics,A03CB
+HEA_atc_Calcium compounds,A02AC
+HEA_atc_Caries prophylactic agents,A01AA
+"HEA_atc_Combinations and complexes of aluminium, calcium and magnesium compounds",A02AD
+HEA_atc_Combinations for eradication of Helicobacter pylori,A02BD
+HEA_atc_Corticosteroids for local oral treatment,A01AC
+HEA_atc_DRUGS FOR ACID RELATED DISORDERS,A02
+HEA_atc_DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS,A03
+HEA_atc_DRUGS FOR PEPTIC ULCER AND GASTRO-OESOPHAGEAL REFLUX DISEASE (GORD),A02B
+HEA_atc_H2-receptor antagonists,A02BA
+HEA_atc_Magnesium compounds,A02AA
+HEA_atc_OTHER DRUGS FOR ACID RELATED DISORDERS,A02X
+HEA_atc_Other agents for local oral treatment,A01AD
+HEA_atc_Other antiemetics,A04AD
+HEA_atc_Other antispasmodics in combination with analgesics,A03DC
+HEA_atc_Other antispasmodics in combination with psycholeptics,A03CC
+HEA_atc_Other drugs for functional gastrointestinal disorders,A03AX
+HEA_atc_Other drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD),A02BX
+HEA_atc_PROPULSIVES,A03F
+HEA_atc_Papaverine and derivatives,A03AD
+HEA_atc_Propulsives,A03FA
+HEA_atc_Prostaglandins,A02BB
+HEA_atc_Proton pump inhibitors,A02BC
+HEA_atc_STOMATOLOGICAL PREPARATIONS,A01
+HEA_atc_Serotonin (5HT3) antagonists,A04AA
+HEA_atc_Serotonin receptor antagonists,A03AE
+HEA_atc_Synthetic anticholinergic agents in combination with analgesics,A03DA
+HEA_atc_Synthetic anticholinergic agents in combination with psycholeptics,A03CA
+"HEA_atc_Synthetic anticholinergics, esters with tertiary amino group",A03AA
+"HEA_atc_Synthetic anticholinergics, quaternary ammonium compounds",A03AB
+"HEA_atc_Synthetic antispasmodics, amides with tertiary amines",A03AC
+HEA_atc_acetoxolone,A02BX09
+HEA_atc_acetylsalicylic acid,A01AD05
+HEA_atc_adrenalone,A01AD06
+HEA_atc_algeldrate,A02AB02
+HEA_atc_alginic acid,A02BX13
+HEA_atc_alizapride,A03FA05
+HEA_atc_almagate,A02AD03
+HEA_atc_almasilate,A02AD05
+HEA_atc_aloglutamol,A02AB06
+HEA_atc_alosetron,A03AE01
+HEA_atc_aluminium acetoacetate,A02AB05
+HEA_atc_aluminium glycinate,A02AB07
+HEA_atc_aluminium hydroxide,A02AB01
+HEA_atc_aluminium phosphate,A02AB03
+HEA_atc_alverine,A03AX08
+"HEA_atc_alverine, combinations",A03AX58
+HEA_atc_ambutonium and psycholeptics,A03CA07
+HEA_atc_amlexanox,A01AD07
+HEA_atc_amphotericin B,A01AB04
+HEA_atc_aprepitant,A04AD12
+HEA_atc_atropine,A03BA01
+HEA_atc_atropine and psycholeptics,A03CB03
+HEA_atc_becaplermin,A01AD08
+HEA_atc_belladonna total alkaloids,A03BA04
+HEA_atc_belladonna total alkaloids and psycholeptics,A03CB02
+HEA_atc_benzilone,A03AB01
+HEA_atc_benzoxonium chloride,A01AB14
+HEA_atc_benzydamine,A01AD02
+HEA_atc_bevonium,A03AB13
+HEA_atc_bevonium and analgesics,A03DA03
+HEA_atc_bevonium and psycholeptics,A03CA06
+HEA_atc_bismuth subcitrate,A02BX05
+"HEA_atc_bismuth subcitrate, tetracycline and metronidazole",A02BD08
+HEA_atc_bismuth subnitrate,A02BX12
+HEA_atc_bromopride,A03FA04
+HEA_atc_butylscopolamine,A03BB01
+HEA_atc_butylscopolamine and analgesics,A03DB04
+HEA_atc_calcium carbonate,A02AC01
+HEA_atc_calcium silicate,A02AC02
+HEA_atc_camylofin,A03AA03
+HEA_atc_camylofin and analgesics,A03DA05
+HEA_atc_carbenoxolone,A02BX01
+"HEA_atc_carbenoxolone, combinations excl. psycholeptics",A02BX51
+"HEA_atc_carbenoxolone, combinations with psycholeptics",A02BX71
+HEA_atc_caroverine,A03AX11
+HEA_atc_casopitant,A04AD13
+HEA_atc_cerium oxalate,A04AD02
+HEA_atc_chlorbenzoxamine,A03AX03
+HEA_atc_chlorhexidine,A01AB03
+HEA_atc_chlorobutanol,A04AD04
+"HEA_atc_chlorobutanol, combinations",A04AD54
+HEA_atc_chlortetracycline,A01AB21
+HEA_atc_ciclonium and analgesics,A03DA04
+HEA_atc_cilansetron,A03AE03
+HEA_atc_cimetidine,A02BA01
+"HEA_atc_cimetidine, combinations",A02BA51
+HEA_atc_cimetropium bromide,A03BB05
+HEA_atc_cisapride,A03FA02
+HEA_atc_clebopride,A03FA06
+HEA_atc_clidinium and psycholeptics,A03CA02
+HEA_atc_clotrimazole,A01AB18
+HEA_atc_combinations,A01AA30
+HEA_atc_dexamethasone,A01AC02
+HEA_atc_dexlansoprazole,A02BC06
+HEA_atc_dexrabeprazole,A02BC07
+HEA_atc_dicycloverine,A03AA07
+HEA_atc_difemerine,A03AA09
+HEA_atc_dihexyverine,A03AA08
+HEA_atc_dihydroxialumini sodium carbonate,A02AB04
+HEA_atc_diisopromine,A03AX02
+HEA_atc_dimethylaminopropionylphenothiazine,A03AC02
+HEA_atc_diphemanil,A03AB15
+HEA_atc_diphemanil and psycholeptics,A03CA08
+HEA_atc_dolasetron,A04AA04
+HEA_atc_domiphen,A01AB06
+HEA_atc_domperidone,A03FA03
+HEA_atc_doxycycline,A01AB22
+HEA_atc_dronabinol,A04AD10
+HEA_atc_drotaverine,A03AD02
+HEA_atc_emepronium and psycholeptics,A03CA30
+HEA_atc_enprostil,A02BB02
+HEA_atc_epinephrine,A01AD01
+HEA_atc_esomeprazole,A02BC05
+"HEA_atc_esomeprazole, amoxicillin and clarithromycin",A02BD06
+HEA_atc_famotidine,A02BA03
+"HEA_atc_famotidine, combinations",A02BA53
+HEA_atc_fenoverine,A03AX05
+HEA_atc_fenpiprane,A03AX01
+HEA_atc_fenpiverinium,A03AB21
+HEA_atc_fentonium,A03BB04
+HEA_atc_gefarnate,A02BX07
+"HEA_atc_gefarnate, combinations with psycholeptics",A02BX77
+HEA_atc_glycopyrronium bromide,A03AB02
+HEA_atc_glycopyrronium bromide and psycholeptics,A03CA05
+HEA_atc_granisetron,A04AA02
+HEA_atc_hexetidine,A01AB12
+HEA_atc_hexocyclium,A03AB10
+HEA_atc_hydrocortisone,A01AC03
+HEA_atc_hydrogen peroxide,A01AB02
+HEA_atc_hydrotalcite,A02AD04
+HEA_atc_hyoscyamine,A03BA03
+HEA_atc_hyoscyamine and psycholeptics,A03CB31
+HEA_atc_idanpramine,A03AX06
+HEA_atc_isometheptene,A03AX10
+HEA_atc_isopropamide,A03AB09
+HEA_atc_isopropamide and psycholeptics,A03CA01
+HEA_atc_itopride,A03FA07
+HEA_atc_lafutidine,A02BA08
+HEA_atc_lansoprazole,A02BC03
+"HEA_atc_lansoprazole, amoxicillin and clarithromycin",A02BD07
+"HEA_atc_lansoprazole, amoxicillin and levofloxacin",A02BD10
+"HEA_atc_lansoprazole, amoxicillin and metronidazole",A02BD03
+"HEA_atc_lansoprazole, clarithromycin and tinidazole",A02BD09
+"HEA_atc_lansoprazole, combinations",A02BC53
+"HEA_atc_lansoprazole, tetracycline and metronidazole",A02BD02
+HEA_atc_magaldrate,A02AD02
+HEA_atc_magaldrate and antiflatulents,A02AF01
+HEA_atc_magnesium carbonate,A02AA01
+HEA_atc_magnesium hydroxide,A02AA04
+HEA_atc_magnesium oxide,A02AA02
+HEA_atc_magnesium peroxide,A02AA03
+HEA_atc_magnesium silicate,A02AA05
+HEA_atc_mebeverine,A03AA04
+HEA_atc_mepartricin,A01AB16
+HEA_atc_mepenzolate,A03AB12
+HEA_atc_methantheline,A03AB07
+HEA_atc_methiosulfonium chloride,A02BX04
+HEA_atc_methylatropine,A03BB02
+HEA_atc_methylhomatropine and psycholeptics,A03CB04
+HEA_atc_methylscopolamine,A03BB03
+HEA_atc_methylscopolamine and psycholeptics,A03CB01
+HEA_atc_metoclopramide,A03FA01
+HEA_atc_metopimazine,A04AD05
+HEA_atc_metronidazole,A01AB17
+HEA_atc_miconazole,A01AB09
+HEA_atc_minocycline,A01AB23
+HEA_atc_misoprostol,A02BB01
+HEA_atc_moxaverine,A03AD30
+HEA_atc_nabilone,A04AD11
+HEA_atc_natamycin,A01AB10
+HEA_atc_neomycin,A01AB08
+HEA_atc_nicofetamide,A03AC04
+HEA_atc_niperotidine,A02BA05
+HEA_atc_nizatidine,A02BA04
+HEA_atc_olaflur,A01AA03
+HEA_atc_omeprazole,A02BC01
+"HEA_atc_omeprazole, amoxicillin and clarithromycin",A02BD05
+"HEA_atc_omeprazole, amoxicillin and metronidazole",A02BD01
+HEA_atc_ondansetron,A04AA01
+HEA_atc_ordinary salt combinations,A02AD01
+HEA_atc_ordinary salt combinations and antiflatulents,A02AF02
+HEA_atc_otilonium bromide,A03AB06
+HEA_atc_otilonium bromide and psycholeptics,A03CA04
+HEA_atc_oxyphencyclimine,A03AA01
+HEA_atc_oxyphencyclimine and psycholeptics,A03CA03
+HEA_atc_oxyphenonium,A03AB03
+"HEA_atc_oxyphenonium, combinations",A03AB53
+HEA_atc_oxyquinoline,A01AB07
+HEA_atc_palonosetron,A04AA05
+"HEA_atc_palonosetron, combinations",A04AA55
+HEA_atc_pantoprazole,A02BC02
+"HEA_atc_pantoprazole, amoxicillin and clarithromycin",A02BD04
+"HEA_atc_pantoprazole, amoxicillin, clarithromycin and metronidazole",A02BD11
+HEA_atc_papaverine,A03AD01
+HEA_atc_penthienate,A03AB04
+HEA_atc_phloroglucinol,A03AX12
+HEA_atc_pinaverium,A03AX04
+HEA_atc_pipenzolate,A03AB14
+HEA_atc_pipenzolate and psycholeptics,A03CA09
+HEA_atc_piperidolate,A03AA30
+HEA_atc_pirenzepine,A02BX03
+HEA_atc_pitofenone and analgesics,A03DA02
+HEA_atc_poldine,A03AB11
+HEA_atc_polynoxylin,A01AB05
+"HEA_atc_prednisolone, combinations",A01AC54
+HEA_atc_prifinium bromide,A03AB18
+HEA_atc_proglumide,A02BX06
+HEA_atc_propantheline,A03AB05
+HEA_atc_propantheline and psycholeptics,A03CA34
+HEA_atc_proxazole,A03AX07
+HEA_atc_rabeprazole,A02BC04
+"HEA_atc_rabeprazole, combinations",A02BC54
+HEA_atc_ranitidine,A02BA02
+HEA_atc_ranitidine bismuth citrate,A02BA07
+HEA_atc_rociverine,A03AA06
+HEA_atc_roxatidine,A02BA06
+HEA_atc_scopolamine,A04AD01
+"HEA_atc_scopolamine, combinations",A04AD51
+HEA_atc_silicones,A03AX13
+HEA_atc_sodium fluoride,A01AA01
+"HEA_atc_sodium fluoride, combinations",A01AA51
+HEA_atc_sodium monofluorophosphate,A01AA02
+HEA_atc_sodium perborate,A01AB19
+HEA_atc_stannous fluoride,A01AA04
+HEA_atc_sucralfate,A02BX02
+HEA_atc_sulglicotide,A02BX08
+HEA_atc_tetracycline,A01AB13
+HEA_atc_tibezonium iodide,A01AB15
+HEA_atc_tiemonium iodide,A03AB17
+HEA_atc_tiemonium iodide and analgesics,A03DA07
+HEA_atc_timepidium bromide,A03AB19
+HEA_atc_tiropramide,A03AC05
+HEA_atc_trepibutone,A03AX09
+HEA_atc_triamcinolone,A01AC01
+HEA_atc_tridihexethyl,A03AB08
+HEA_atc_trimebutine,A03AA05
+HEA_atc_trimethyldiphenylpropylamine,A03AX30
+HEA_atc_tropenzilone and analgesics,A03DA01
+HEA_atc_tropisetron,A04AA03
+HEA_atc_trospium and analgesics,A03DA06
+HEA_atc_troxipide,A02BX11
+HEA_atc_valethamate,A03AX14
+HEA_atc_various,A01AB11
+HEA_atc_zolimidine,A02BX10

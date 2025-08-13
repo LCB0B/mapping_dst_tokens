@@ -1,0 +1,5 @@
+code,prefix,database,value,description,source,confidence,language
+SOC_frakbkod_1,SOC,frakbkod,1,Criminal offense category: 1,enhanced_english,medium,english
+SOC_frakbkod_2,SOC,frakbkod,2,Criminal offense category: 2,enhanced_english,medium,english
+SOC_frakbkod_3,SOC,frakbkod,3,Criminal offense category: 3,enhanced_english,medium,english
+SOC_frakbkod_4,SOC,frakbkod,4,Criminal offense category: 4,enhanced_english,medium,english

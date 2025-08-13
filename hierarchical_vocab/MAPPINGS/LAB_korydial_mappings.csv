@@ -1,0 +1,11 @@
+code,prefix,database,value,description,source,confidence,language
+LAB_korydial_Q1,LAB,korydial,Q1,Paid child allowances and family benefits after registration for the entire calendar year - 1th percentile,generated_pattern,medium,english
+LAB_korydial_Q2,LAB,korydial,Q2,Paid child allowances and family benefits after registration for the entire calendar year - 2th percentile,generated_pattern,medium,english
+LAB_korydial_Q4,LAB,korydial,Q4,Paid child allowances and family benefits after registration for the entire calendar year - 4th percentile,generated_pattern,medium,english
+LAB_korydial_Q5,LAB,korydial,Q5,Paid child allowances and family benefits after registration for the entire calendar year - 5th percentile,generated_pattern,medium,english
+LAB_korydial_Q3,LAB,korydial,Q3,Paid child allowances and family benefits after registration for the entire calendar year - 3th percentile,generated_pattern,medium,english
+LAB_korydial_Q6,LAB,korydial,Q6,Paid child allowances and family benefits after registration for the entire calendar year - 6th percentile,generated_pattern,medium,english
+LAB_korydial_Q7,LAB,korydial,Q7,Paid child allowances and family benefits after registration for the entire calendar year - 7th percentile,generated_pattern,medium,english
+LAB_korydial_Q8,LAB,korydial,Q8,Paid child allowances and family benefits after registration for the entire calendar year - 8th percentile,generated_pattern,medium,english
+LAB_korydial_Q9,LAB,korydial,Q9,Paid child allowances and family benefits after registration for the entire calendar year - 9th percentile,generated_pattern,medium,english
+LAB_korydial_Q10,LAB,korydial,Q10,Paid child allowances and family benefits after registration for the entire calendar year - 10th percentile,generated_pattern,medium,english

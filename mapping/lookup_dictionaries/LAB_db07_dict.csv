@@ -1,0 +1,273 @@
+code,description
+LAB_db07_011,Dyrkning af etårige afgrøder
+LAB_db07_012,Dyrkning af flerårige afgrøder
+LAB_db07_013,Planteformering
+LAB_db07_014,Husdyravl
+LAB_db07_015,Blandet drift
+LAB_db07_016,Serviceydelser til landbrug og forarbejdning af afgrøder efter høst
+LAB_db07_017,"Jagt, fældefangst og serviceydelser i forbindelse hermed"
+LAB_db07_021,Dyrkning af træer og andre skovbrugsaktiviteter
+LAB_db07_022,Skovning
+LAB_db07_023,Indsamling af vildtvoksende forstmateriale undtagen træer
+LAB_db07_024,Serviceydelser til skovbrug
+LAB_db07_031,Fiskeri
+LAB_db07_032,Akvakultur
+LAB_db07_051,Indvinding af stenkul
+LAB_db07_052,Indvinding af brunkul
+LAB_db07_061,Indvinding af råolie
+LAB_db07_062,Indvinding af naturgas
+LAB_db07_071,Brydning af jernmalm
+LAB_db07_072,Brydning af ikke-jernholdige metalmalme
+LAB_db07_081,Brydning af sten og indvinding af sand og ler
+LAB_db07_089,Råstofindvinding i.a.n.
+LAB_db07_091,Serviceydelser i forbindelse med indvinding af råolie og naturgas
+LAB_db07_099,Serviceydelser i forbindelse med anden råstofindvinding
+LAB_db07_101,Forarbejdning og konservering af kød og produktion af kødprodukter
+LAB_db07_102,"Forarbejdning og konservering af fisk, krebsdyr og bløddyr"
+LAB_db07_103,Forarbejdning og konservering af frugt og grøntsager
+LAB_db07_104,Fremstilling af vegetabilske og animalske olier og fedtstoffer
+LAB_db07_105,Fremstilling af mejeriprodukter
+LAB_db07_106,"Fremstilling af mølleriprodukter, stivelse og stivelsesprodukter"
+LAB_db07_107,Fremstilling af bageri- og dejprodukter
+LAB_db07_108,Fremstilling af andre fødevarer
+LAB_db07_109,Fremstilling af færdige foderblandinger
+LAB_db07_110,Fremstilling af drikkevarer
+LAB_db07_120,Fremstilling af tobaksprodukter
+LAB_db07_131,Forbehandling og spinding af tekstilfibre
+LAB_db07_132,Vævning af tekstiler
+LAB_db07_133,Efterbehandling af tekstiler
+LAB_db07_139,Fremstilling af andre tekstiler
+LAB_db07_141,Fremstilling af beklædningsartikler undtagen beklædningsartikler af pelsskind
+LAB_db07_142,Fremstilling af varer af pelsskind
+LAB_db07_143,Fremstilling af strikkede og hæklede beklædningsartikler
+LAB_db07_151,"Garvning og beredning af læder; fremstilling af tasker, kufferter, sadelmagervarer mv.; beredning og farvning af pelsskind"
+LAB_db07_152,Fremstilling af fodtøj
+LAB_db07_161,Udsavning og høvling af træ
+LAB_db07_162,"Fremstilling af varer af træ, kork, strå og flettematerialer"
+LAB_db07_171,"Fremstilling af papirmasse, papir og pap"
+LAB_db07_172,Fremstilling af papir- og papvarer
+LAB_db07_181,Trykning og serviceydelser i forbindelse hermed
+LAB_db07_182,Reproduktion af indspillede medier
+LAB_db07_191,Fremstilling af koks mv.
+LAB_db07_192,Fremstilling af raffinerede mineralolieprodukter
+LAB_db07_201,"Fremstilling af basiskemikalier, gødningsstoffer og nitrogenprodukter, plast og syntetisk gummi i ubearbejdet form"
+LAB_db07_202,Fremstilling af pesticider og andre agrokemiske produkter
+LAB_db07_203,"Fremstilling af maling, lak og lignende overfladebehandlingsmidler, trykfarver samt tætningsmaterialer"
+LAB_db07_204,"Fremstilling af sæbe, rengørings- og rensemidler samt poleremidler, parfume, hårshampoo, tandpasta mv."
+LAB_db07_205,Fremstilling af andre kemiske produkter
+LAB_db07_206,Fremstilling af kemofibre
+LAB_db07_211,Fremstilling af farmaceutiske råvarer
+LAB_db07_212,Fremstilling af farmaceutiske præparater
+LAB_db07_221,Fremstilling af gummiprodukter
+LAB_db07_222,Fremstilling af plastprodukter
+LAB_db07_231,Fremstilling af glas og glasprodukter
+LAB_db07_232,Fremstilling af ildfaste produkter
+LAB_db07_233,Fremstilling af byggematerialer af ler
+LAB_db07_234,Fremstilling af andre porcelænsvarer og keramiske produkter
+LAB_db07_235,"Fremstilling af cement, kalk og gips"
+LAB_db07_236,"Fremstilling af produkter af beton, cement og gips"
+LAB_db07_237,"Tilhugning, tilskæring og færdigbearbejdning af sten"
+LAB_db07_239,Fremstilling af slibemidler og ikke-metalholdige mineralske produkter i.a.n.
+LAB_db07_241,Fremstilling af råjern og råstål samt jernlegeringer
+LAB_db07_242,Fremstilling af rør og hule profiler og tilhørende fittings af stål
+LAB_db07_243,Fremstilling af andre produkter af den primære forarbejdning af stål
+LAB_db07_244,Fremstilling af ædelmetaller og andre ikke-jernholdige metaller
+LAB_db07_245,Støbning af metalprodukter
+LAB_db07_251,Fremstilling af metalkonstruktioner
+LAB_db07_252,Fremstilling af tanke og beholdere af metal
+LAB_db07_253,Fremstilling af dampkedler undtagen centralvarmekedler
+LAB_db07_254,Fremstilling af våben og ammunition
+LAB_db07_255,"Smedning, presning, sænksmedning og valsning af metal; pulvermetallurgi"
+LAB_db07_256,"Overfladebehandling af metal, maskinforarbejdning"
+LAB_db07_257,"Fremstilling af bestik, skære- og klipperedskaber, håndværktøj og diverse metalprodukter"
+LAB_db07_259,Fremstilling af andre færdige metalprodukter
+LAB_db07_261,Fremstilling af elektroniske komponenter og plader
+LAB_db07_262,Fremstilling af computere og ydre enheder
+LAB_db07_263,Fremstilling af kommunikationsudstyr
+LAB_db07_264,Fremstilling af elektronik til husholdninger
+LAB_db07_265,"Fremstilling af udstyr til måling, afprøvning, navigation og kontrol; ure"
+LAB_db07_266,Fremstilling af bestrålingsudstyr og elektromedicinsk og elektroterapeutisk udstyr
+LAB_db07_267,Fremstilling af optiske instrumenter og fotografisk udstyr
+LAB_db07_268,Fremstilling af magnetiske og optiske media
+LAB_db07_271,"Fremstilling af elektriske motorer, generatorer, transformere og elektriske fordelings- og kontroltavler"
+LAB_db07_272,Fremstilling af batterier og akkumulatorer
+LAB_db07_273,Fremstilling af ledninger og kabler og tilbehør hertil
+LAB_db07_274,Fremstilling af elektriske belysningsartikler
+LAB_db07_275,Fremstilling af husholdningsapparater
+LAB_db07_279,Fremstilling af andet elektrisk udstyr
+LAB_db07_281,Fremstilling af maskiner til generelle formål
+LAB_db07_282,Fremstilling af øvrige maskiner til generelle formål
+LAB_db07_283,Fremstilling af landbrugs- og skovbrugsmaskiner
+LAB_db07_284,Fremstilling af metalforarbejdningsmaskiner og værktøjsmaskiner
+LAB_db07_289,Fremstilling af øvrige maskiner til specielle formål
+LAB_db07_291,Fremstilling af motorkøretøjer
+LAB_db07_292,Fremstilling af karosserier til motorkøretøjer; fremstilling af påhængsvogne og sættevogne
+LAB_db07_293,Fremstilling af dele og tilbehør til motorkøretøjer
+LAB_db07_301,Bygning af skibe og både
+LAB_db07_302,Fremstilling af lokomotiver og andet rullende materiel til jernbaner og sporveje
+LAB_db07_303,Fremstilling af luft- og rumfartøjer o.l.
+LAB_db07_304,Fremstilling af militære kampkøretøjer
+LAB_db07_309,Fremstilling af transportmidler i.a.n.
+LAB_db07_310,Fremstilling af møbler
+LAB_db07_321,"Fremstilling af smykker, bijouteri, mønter og lignende varer"
+LAB_db07_322,Fremstilling af musikinstrumenter
+LAB_db07_323,Fremstilling af sportsudstyr
+LAB_db07_324,Fremstilling af spil og legetøj
+LAB_db07_325,Fremstilling af medicinske og dentale instrumenter samt udstyr hertil
+LAB_db07_329,Fremstillingsvirksomhed i.a.n.
+LAB_db07_331,"Reparation af jern- og metalvarer, maskiner og udstyr"
+LAB_db07_332,Installation af industrimaskiner og -udstyr
+LAB_db07_351,Elforsyning
+LAB_db07_352,Gasforsyning
+LAB_db07_353,Varmeforsyning
+LAB_db07_360,Vandforsyning
+LAB_db07_370,Opsamling og behandling af spildevand
+LAB_db07_381,Indsamling af affald
+LAB_db07_382,Behandling og bortskaffelse af affald
+LAB_db07_383,Genbrug
+LAB_db07_390,Rensning af jord og grundvand og anden form for forureningsbekæmpelse
+LAB_db07_411,Gennemførelse af byggeprojekter
+LAB_db07_412,Opførelse af bygninger
+LAB_db07_421,Anlæg af veje og jernbaner
+LAB_db07_422,Anlæg af ledningsnet
+LAB_db07_429,Anden anlægsvirksomhed
+LAB_db07_431,Nedrivning og forberedende byggepladsarbejder
+LAB_db07_432,"El-installation, VVS- og blikkenslagerforretninger samt anden bygningsinstallationsvirksomhed"
+LAB_db07_433,Bygningsfærdiggørelse
+LAB_db07_439,"Anden bygge- og anlægsvirksomhed, som kræver specialisering"
+LAB_db07_451,Salg af motorkøretøjer
+LAB_db07_452,Vedligeholdelse og reparation af motorkøretøjer
+LAB_db07_453,Salg af reservedele og tilbehør til motorkøretøjer
+LAB_db07_454,"Salg, vedligeholdelse og reparation af motorcykler og reservedele og tilbehør hertil"
+LAB_db07_461,Agenturhandel (engroshandel på honorar- eller kontraktbasis)
+LAB_db07_462,Engroshandel med landbrugsråvarer og levende dyr
+LAB_db07_463,"Engroshandel med føde-, drikke- og tobaksvarer"
+LAB_db07_464,Engroshandel med husholdningsartikler
+LAB_db07_465,Engroshandel med informations- og kommunikationsudstyr
+LAB_db07_466,"Engroshandel med andre maskiner, andet udstyr og tilbehør"
+LAB_db07_467,Anden specialiseret engroshandel
+LAB_db07_469,Ikke-specialiseret engroshandel
+LAB_db07_471,Detailhandel fra ikke-specialiserede forretninger
+LAB_db07_472,"Detailhandel med føde-, drikke- og tobaksvarer i specialforretninger"
+LAB_db07_473,Servicestationer
+LAB_db07_474,Detailhandel med informations- og telekommunikationsudstyr i specialforretninger
+LAB_db07_475,Detailhandel med husholdningsudstyr i specialforreninger
+LAB_db07_476,Detailhandel med varer til kulturelle formål og til fritid
+LAB_db07_477,Detailhandel med andre varer i specialforretninger
+LAB_db07_478,Detailhandel fra stadepladser og markeder
+LAB_db07_479,"Detailhandel undtagen fra forretninger, stadepladser og markeder"
+LAB_db07_491,Passagertransport med regional- eller fjerntog
+LAB_db07_492,Godstransport med tog
+LAB_db07_493,Anden landpassagertransport
+LAB_db07_494,Vejgodstransport og flytning
+LAB_db07_495,Rørtransport
+LAB_db07_501,Sø- og kysttransport af passagerer
+LAB_db07_502,Sø- og kysttransport af gods
+LAB_db07_503,Transport af passagerer ad indre vandveje
+LAB_db07_504,Transport af gods ad indre vandveje
+LAB_db07_511,Lufttransport af passagerer
+LAB_db07_512,Lufttransport af gods og rumfart
+LAB_db07_521,Oplagrings- og pakhusvirksomhed
+LAB_db07_522,Anden hjælpevirksomhed i forbindelse med transport
+LAB_db07_531,Posttjenester omfattet af forsyningspligten
+LAB_db07_532,Andre post- og kurertjenester
+LAB_db07_551,Hoteller og lignende overnatningsfaciliteter
+LAB_db07_552,Ferieboliger og andre indlogeringsfaciliteter til kortvarige ophold
+LAB_db07_553,Campingpladser
+LAB_db07_559,Andre overnatningsfaciliteter
+LAB_db07_561,Restauranter og levering af mad ud af huset
+LAB_db07_562,Event catering og anden restaurationsvirksomhed
+LAB_db07_563,"Cafeér, værtshuse, diskoteker mv."
+LAB_db07_581,"Udgivelse af bøger, tidsskrifter og anden udgivervirksomhed"
+LAB_db07_582,Udgivelse af software
+LAB_db07_591,"Produktion af film, video- og tv-programmer"
+LAB_db07_592,Indspilning af lydoptagelser og udgivelse af musik
+LAB_db07_601,Radiovirksomhed
+LAB_db07_602,Tv-virksomhed
+LAB_db07_611,Fastnetbaseret telekommunikation
+LAB_db07_612,Trådløs telekommunikation
+LAB_db07_613,Satellitbaseret telekommunikation
+LAB_db07_619,Anden telekommunikation
+LAB_db07_620,"Computerprogrammering, konsulentbistand vedrørende informationsteknologi og lignende aktiviteter"
+LAB_db07_631,"Databehandling, webhosting og lignende serviceydelser; webportaler"
+LAB_db07_639,Andre informationstjenester
+LAB_db07_641,Pengeinstitutvirksomhed
+LAB_db07_642,Holdingselskabers virksomhed
+LAB_db07_643,"Investeringsforeninger, investeringsselskaber o.l."
+LAB_db07_649,"Anden finansiel formidling, undtagen forsikring og pensionsforsikring"
+LAB_db07_651,Forsikring
+LAB_db07_652,Genforsikring
+LAB_db07_653,Pensionsforsikring
+LAB_db07_661,Hjælpetjenester i forbindelse med finansieringsvirksomhed undtagen forsikring og pensionsforsikring
+LAB_db07_662,Hjælpetjenester i forbindelse med forsikring og pensionsforsikring
+LAB_db07_663,Formueforvaltning
+LAB_db07_681,Køb og salg af egen fast ejendom
+LAB_db07_682,Udlejning af og virksomhed i forbindelse med egen eller leaset fast ejendom
+LAB_db07_683,Virksomhed i forbindelse med fast ejendom på honorar- eller kontraktbasis
+LAB_db07_691,Juridisk bistand
+LAB_db07_692,Bogføring og revision; skatterådgivning
+LAB_db07_701,Hovedsæders virksomhed
+LAB_db07_702,Virksomhedsrådgivning
+LAB_db07_711,Arkitekt- og ingeniørvirksomhed og lignende teknisk rådgivning
+LAB_db07_712,Teknisk afprøvning og analyse
+LAB_db07_721,Forskning og eksperimentel udvikling indenfor naturvidenskab og teknik
+LAB_db07_722,Forskning og eksperimentel udvikling inden for samfundsvidenskab og humanistiske videnskaber
+LAB_db07_731,Reklame
+LAB_db07_732,Markedsanalyse og offentlig meningsmåling
+LAB_db07_741,Specialiseret designarbejde
+LAB_db07_742,Fotografisk virksomhed
+LAB_db07_743,Oversættelse og tolkning
+LAB_db07_749,"Andre liberale, videnskabelige og tekniske tjenesteydelser i.a.n."
+LAB_db07_750,Dyrlæger
+LAB_db07_771,Udlejning og leasing af motorkøretøjer
+LAB_db07_772,Udlejning og leasing af varer til personligt brug og husholdningsbrug
+LAB_db07_773,"Udlejning og leasing af andet materiel, udstyr og andre materielle aktiver"
+LAB_db07_774,"Leasing af intellektuelle ejendomsrettigheder og lignende, dog ikke ophavsretsbeskyttede værker"
+LAB_db07_781,Arbejdsformidlingskontorer
+LAB_db07_782,Vikarbureauer
+LAB_db07_783,Anden personaleformidling
+LAB_db07_791,Rejsebureauer og rejsearrangører
+LAB_db07_799,Andre reservationstjenesteydelser og tjenesteydelser i forbindelse hermed
+LAB_db07_801,Private vagt- og sikkerhedstjenester
+LAB_db07_802,Serviceydelser i forbindelse med sikkerhedssystemer
+LAB_db07_803,Overvågning
+LAB_db07_811,Kombinerede serviceydelser
+LAB_db07_812,Renhold
+LAB_db07_813,Landskabspleje
+LAB_db07_821,Administrationsservice og kontorservice
+LAB_db07_822,Call centres virksomhed
+LAB_db07_823,"Organisering af kongresser, messer og udstillinger"
+LAB_db07_829,Anden forretningsservice i.a.n.
+LAB_db07_841,Forvaltning af staten og den økonomiske og sociale politik
+LAB_db07_842,Tjenesteydelser til samfundet som helhed
+LAB_db07_843,Lovpligtig socialsikring mv.
+LAB_db07_851,Førskoleundervisning
+LAB_db07_852,Folke- og specialskoler
+LAB_db07_853,Gymnasier og erhvervsfaglige skoler
+LAB_db07_854,Videregående uddannelsesinstitutioner
+LAB_db07_855,Anden undervisning
+LAB_db07_856,Hjælpeydelser i forbindelse med undervisning
+LAB_db07_861,Hospitaler
+LAB_db07_862,Praktiserende læger og tandlæger
+LAB_db07_869,Sundhedsvæsen i øvrigt
+LAB_db07_871,Institutionsophold med sygepleje
+LAB_db07_872,"Institutionsophold for psykisk handicappede, psykisk syge og stofmisbrugere"
+LAB_db07_873,Institutionsophold for ældre og handicappede
+LAB_db07_879,Andre former for institutionsophold
+LAB_db07_881,Sociale foranstaltninger for ældre og handicappede uden institutionsophold
+LAB_db07_889,Andre sociale foranstaltninger uden institutionsophold
+LAB_db07_900,"Kreative aktiviteter, kunst og forlystelser"
+LAB_db07_910,"Biblioteker, arkiver, museer og anden kulturel virksomhed"
+LAB_db07_920,Lotteri- og anden spillevirksomhed
+LAB_db07_931,Sport
+LAB_db07_932,Forlystelser og fritidsaktiviteter
+LAB_db07_941,Erhvervs- og arbejdsgiverorganisationer samt faglige sammenslutninger
+LAB_db07_942,Fagforeninger
+LAB_db07_949,Andre organisationer og foreninger
+LAB_db07_951,Reparation af computere og kommunikationsudstyr
+LAB_db07_952,Reparation af varer til personligt brug og husholdningsbrug
+LAB_db07_960,Andre personlige serviceydelser
+LAB_db07_970,Husholdninger med ansat medhjælp
+LAB_db07_981,"Private husholdningers produktion af varer til eget brug, i.a.n."
+LAB_db07_982,"Private husholdningers produktion af tjenesteydelser til eget brug, i.a.n."
+LAB_db07_990,Ekstraterritoriale organisationer og organer

@@ -1,0 +1,8 @@
+code,prefix,database,value,description,source,confidence,language
+EDU_dnt_bin_1,EDU,dnt,bin_1,Days not in education (binned): bin_1,enhanced_english,medium,english
+EDU_dnt_bin_2,EDU,dnt,bin_2,Days not in education (binned): bin_2,enhanced_english,medium,english
+EDU_dnt_bin_3,EDU,dnt,bin_3,Days not in education (binned): bin_3,enhanced_english,medium,english
+EDU_dnt_bin_4,EDU,dnt,bin_4,Days not in education (binned): bin_4,enhanced_english,medium,english
+EDU_dnt_bin_5,EDU,dnt,bin_5,Days not in education (binned): bin_5,enhanced_english,medium,english
+EDU_dnt_bin_6,EDU,dnt,bin_6,Days not in education (binned): bin_6,enhanced_english,medium,english
+EDU_dnt_bin_7,EDU,dnt,bin_7,Days not in education (binned): bin_7,enhanced_english,medium,english

@@ -1,0 +1,229 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_statsb_0,DEM,statsb,0,Uoplyst (1),pt_dictionaries,highest,danish
+DEM_statsb_5001,DEM,statsb,5001,Uoplyst (2),pt_dictionaries,highest,danish
+DEM_statsb_5100,DEM,statsb,5100,Danmark,pt_dictionaries,highest,danish
+DEM_statsb_5101,DEM,statsb,5101,Grønland,pt_dictionaries,highest,danish
+DEM_statsb_5102,DEM,statsb,5102,Udlandet uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5103,DEM,statsb,5103,Statsløs,pt_dictionaries,highest,danish
+DEM_statsb_5104,DEM,statsb,5104,Finland,pt_dictionaries,highest,danish
+DEM_statsb_5105,DEM,statsb,5105,"Island, ligeret dansk",pt_dictionaries,highest,danish
+DEM_statsb_5106,DEM,statsb,5106,Island,pt_dictionaries,highest,danish
+DEM_statsb_5107,DEM,statsb,5107,Liechtenstein,pt_dictionaries,highest,danish
+DEM_statsb_5108,DEM,statsb,5108,Luxembourg,pt_dictionaries,highest,danish
+DEM_statsb_5109,DEM,statsb,5109,Monaco,pt_dictionaries,highest,danish
+DEM_statsb_5110,DEM,statsb,5110,Norge,pt_dictionaries,highest,danish
+DEM_statsb_5114,DEM,statsb,5114,Europa uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5115,DEM,statsb,5115,Kongelig,pt_dictionaries,highest,danish
+DEM_statsb_5120,DEM,statsb,5120,Sverige,pt_dictionaries,highest,danish
+DEM_statsb_5122,DEM,statsb,5122,Albanien,pt_dictionaries,highest,danish
+DEM_statsb_5124,DEM,statsb,5124,Andorra,pt_dictionaries,highest,danish
+DEM_statsb_5126,DEM,statsb,5126,Belgien,pt_dictionaries,highest,danish
+DEM_statsb_5128,DEM,statsb,5128,Bulgarien,pt_dictionaries,highest,danish
+DEM_statsb_5129,DEM,statsb,5129,Tjekkoslovakiet,pt_dictionaries,highest,danish
+DEM_statsb_5130,DEM,statsb,5130,Frankrig,pt_dictionaries,highest,danish
+DEM_statsb_5134,DEM,statsb,5134,Grækenland,pt_dictionaries,highest,danish
+DEM_statsb_5140,DEM,statsb,5140,Nederlandene,pt_dictionaries,highest,danish
+DEM_statsb_5142,DEM,statsb,5142,Irland,pt_dictionaries,highest,danish
+DEM_statsb_5150,DEM,statsb,5150,Italien,pt_dictionaries,highest,danish
+DEM_statsb_5151,DEM,statsb,5151,Serbien og Montenegro,pt_dictionaries,highest,danish
+DEM_statsb_5152,DEM,statsb,5152,Jugoslavien,pt_dictionaries,highest,danish
+DEM_statsb_5153,DEM,statsb,5153,Malta,pt_dictionaries,highest,danish
+DEM_statsb_5154,DEM,statsb,5154,Polen,pt_dictionaries,highest,danish
+DEM_statsb_5156,DEM,statsb,5156,Portugal,pt_dictionaries,highest,danish
+DEM_statsb_5157,DEM,statsb,5157,Palæstina,pt_dictionaries,highest,danish
+DEM_statsb_5158,DEM,statsb,5158,Rumænien,pt_dictionaries,highest,danish
+DEM_statsb_5159,DEM,statsb,5159,San Marino,pt_dictionaries,highest,danish
+DEM_statsb_5160,DEM,statsb,5160,Schweiz,pt_dictionaries,highest,danish
+DEM_statsb_5162,DEM,statsb,5162,Sovjetunionen,pt_dictionaries,highest,danish
+DEM_statsb_5164,DEM,statsb,5164,Spanien,pt_dictionaries,highest,danish
+DEM_statsb_5170,DEM,statsb,5170,Storbritannien,pt_dictionaries,highest,danish
+DEM_statsb_5172,DEM,statsb,5172,Tyrkiet,pt_dictionaries,highest,danish
+DEM_statsb_5174,DEM,statsb,5174,Ungarn,pt_dictionaries,highest,danish
+DEM_statsb_5176,DEM,statsb,5176,Vatikanstaten,pt_dictionaries,highest,danish
+DEM_statsb_5180,DEM,statsb,5180,Tyskland,pt_dictionaries,highest,danish
+DEM_statsb_5182,DEM,statsb,5182,Østrig,pt_dictionaries,highest,danish
+DEM_statsb_5199,DEM,statsb,5199,Europa uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5202,DEM,statsb,5202,Algeriet,pt_dictionaries,highest,danish
+DEM_statsb_5204,DEM,statsb,5204,Angola,pt_dictionaries,highest,danish
+DEM_statsb_5207,DEM,statsb,5207,Botswana,pt_dictionaries,highest,danish
+DEM_statsb_5213,DEM,statsb,5213,Burundi,pt_dictionaries,highest,danish
+DEM_statsb_5214,DEM,statsb,5214,Etiopien,pt_dictionaries,highest,danish
+DEM_statsb_5215,DEM,statsb,5215,Comorerne,pt_dictionaries,highest,danish
+DEM_statsb_5216,DEM,statsb,5216,Eritrea,pt_dictionaries,highest,danish
+DEM_statsb_5222,DEM,statsb,5222,Gambia,pt_dictionaries,highest,danish
+DEM_statsb_5223,DEM,statsb,5223,Gaza,pt_dictionaries,highest,danish
+DEM_statsb_5228,DEM,statsb,5228,Ghana,pt_dictionaries,highest,danish
+DEM_statsb_5230,DEM,statsb,5230,Ækvatorialguinea,pt_dictionaries,highest,danish
+DEM_statsb_5231,DEM,statsb,5231,Guinea-Bissau,pt_dictionaries,highest,danish
+DEM_statsb_5232,DEM,statsb,5232,Guinea,pt_dictionaries,highest,danish
+DEM_statsb_5233,DEM,statsb,5233,Kap Verde,pt_dictionaries,highest,danish
+DEM_statsb_5234,DEM,statsb,5234,Kenya,pt_dictionaries,highest,danish
+DEM_statsb_5235,DEM,statsb,5235,Lesotho,pt_dictionaries,highest,danish
+DEM_statsb_5236,DEM,statsb,5236,Liberia,pt_dictionaries,highest,danish
+DEM_statsb_5238,DEM,statsb,5238,Libyen,pt_dictionaries,highest,danish
+DEM_statsb_5240,DEM,statsb,5240,Mozambique,pt_dictionaries,highest,danish
+DEM_statsb_5242,DEM,statsb,5242,Madagaskar,pt_dictionaries,highest,danish
+DEM_statsb_5243,DEM,statsb,5243,Mali,pt_dictionaries,highest,danish
+DEM_statsb_5244,DEM,statsb,5244,Marokko,pt_dictionaries,highest,danish
+DEM_statsb_5245,DEM,statsb,5245,Mauritius,pt_dictionaries,highest,danish
+DEM_statsb_5246,DEM,statsb,5246,Nigeria,pt_dictionaries,highest,danish
+DEM_statsb_5247,DEM,statsb,5247,Namibia,pt_dictionaries,highest,danish
+DEM_statsb_5248,DEM,statsb,5248,Marshalløerne,pt_dictionaries,highest,danish
+DEM_statsb_5255,DEM,statsb,5255,Sierra Leone,pt_dictionaries,highest,danish
+DEM_statsb_5258,DEM,statsb,5258,Sudan,pt_dictionaries,highest,danish
+DEM_statsb_5259,DEM,statsb,5259,Eswatini,pt_dictionaries,highest,danish
+DEM_statsb_5260,DEM,statsb,5260,Sydsudan,pt_dictionaries,highest,danish
+DEM_statsb_5262,DEM,statsb,5262,Sydafrika,pt_dictionaries,highest,danish
+DEM_statsb_5266,DEM,statsb,5266,Tanzania,pt_dictionaries,highest,danish
+DEM_statsb_5268,DEM,statsb,5268,Tunesien,pt_dictionaries,highest,danish
+DEM_statsb_5269,DEM,statsb,5269,Uganda,pt_dictionaries,highest,danish
+DEM_statsb_5272,DEM,statsb,5272,Egypten,pt_dictionaries,highest,danish
+DEM_statsb_5273,DEM,statsb,5273,Tuvalu,pt_dictionaries,highest,danish
+DEM_statsb_5274,DEM,statsb,5274,Kiribati,pt_dictionaries,highest,danish
+DEM_statsb_5275,DEM,statsb,5275,Vanuatu,pt_dictionaries,highest,danish
+DEM_statsb_5276,DEM,statsb,5276,Centralafrikanske Republik,pt_dictionaries,highest,danish
+DEM_statsb_5277,DEM,statsb,5277,Cameroun,pt_dictionaries,highest,danish
+DEM_statsb_5278,DEM,statsb,5278,"Congo, Demokratiske Republik",pt_dictionaries,highest,danish
+DEM_statsb_5279,DEM,statsb,5279,"Congo, Republikken",pt_dictionaries,highest,danish
+DEM_statsb_5281,DEM,statsb,5281,Benin,pt_dictionaries,highest,danish
+DEM_statsb_5282,DEM,statsb,5282,Elfenbenskysten,pt_dictionaries,highest,danish
+DEM_statsb_5283,DEM,statsb,5283,Gabon,pt_dictionaries,highest,danish
+DEM_statsb_5284,DEM,statsb,5284,Mauretanien,pt_dictionaries,highest,danish
+DEM_statsb_5285,DEM,statsb,5285,Niger,pt_dictionaries,highest,danish
+DEM_statsb_5287,DEM,statsb,5287,Rwanda,pt_dictionaries,highest,danish
+DEM_statsb_5288,DEM,statsb,5288,Senegal,pt_dictionaries,highest,danish
+DEM_statsb_5289,DEM,statsb,5289,Somalia,pt_dictionaries,highest,danish
+DEM_statsb_5292,DEM,statsb,5292,Tchad,pt_dictionaries,highest,danish
+DEM_statsb_5293,DEM,statsb,5293,Togo,pt_dictionaries,highest,danish
+DEM_statsb_5294,DEM,statsb,5294,Burkina Faso,pt_dictionaries,highest,danish
+DEM_statsb_5295,DEM,statsb,5295,Zimbabwe,pt_dictionaries,highest,danish
+DEM_statsb_5296,DEM,statsb,5296,Zambia,pt_dictionaries,highest,danish
+DEM_statsb_5297,DEM,statsb,5297,Malawi,pt_dictionaries,highest,danish
+DEM_statsb_5298,DEM,statsb,5298,Seychellerne,pt_dictionaries,highest,danish
+DEM_statsb_5299,DEM,statsb,5299,Afrika uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5302,DEM,statsb,5302,Argentina,pt_dictionaries,highest,danish
+DEM_statsb_5303,DEM,statsb,5303,Bahamas,pt_dictionaries,highest,danish
+DEM_statsb_5304,DEM,statsb,5304,Bolivia,pt_dictionaries,highest,danish
+DEM_statsb_5305,DEM,statsb,5305,Barbados,pt_dictionaries,highest,danish
+DEM_statsb_5306,DEM,statsb,5306,Brasilien,pt_dictionaries,highest,danish
+DEM_statsb_5308,DEM,statsb,5308,Guyana,pt_dictionaries,highest,danish
+DEM_statsb_5309,DEM,statsb,5309,Antigua og Barbuda,pt_dictionaries,highest,danish
+DEM_statsb_5310,DEM,statsb,5310,Nauru,pt_dictionaries,highest,danish
+DEM_statsb_5311,DEM,statsb,5311,Skt. Vincent og Grenadinerne,pt_dictionaries,highest,danish
+DEM_statsb_5314,DEM,statsb,5314,Canada,pt_dictionaries,highest,danish
+DEM_statsb_5316,DEM,statsb,5316,Chile,pt_dictionaries,highest,danish
+DEM_statsb_5318,DEM,statsb,5318,Colombia,pt_dictionaries,highest,danish
+DEM_statsb_5319,DEM,statsb,5319,Syd- og Mellemamerika uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5322,DEM,statsb,5322,Costa Rica,pt_dictionaries,highest,danish
+DEM_statsb_5324,DEM,statsb,5324,Cuba,pt_dictionaries,highest,danish
+DEM_statsb_5326,DEM,statsb,5326,Dominikanske Republik,pt_dictionaries,highest,danish
+DEM_statsb_5328,DEM,statsb,5328,Ecuador,pt_dictionaries,highest,danish
+DEM_statsb_5338,DEM,statsb,5338,Guatemala,pt_dictionaries,highest,danish
+DEM_statsb_5339,DEM,statsb,5339,Grenada,pt_dictionaries,highest,danish
+DEM_statsb_5342,DEM,statsb,5342,Haiti,pt_dictionaries,highest,danish
+DEM_statsb_5344,DEM,statsb,5344,Surinam,pt_dictionaries,highest,danish
+DEM_statsb_5345,DEM,statsb,5345,Dominica,pt_dictionaries,highest,danish
+DEM_statsb_5347,DEM,statsb,5347,Skt. Lucia,pt_dictionaries,highest,danish
+DEM_statsb_5348,DEM,statsb,5348,Honduras,pt_dictionaries,highest,danish
+DEM_statsb_5352,DEM,statsb,5352,Jamaica,pt_dictionaries,highest,danish
+DEM_statsb_5354,DEM,statsb,5354,Mexico,pt_dictionaries,highest,danish
+DEM_statsb_5356,DEM,statsb,5356,Nicaragua,pt_dictionaries,highest,danish
+DEM_statsb_5358,DEM,statsb,5358,Panama,pt_dictionaries,highest,danish
+DEM_statsb_5364,DEM,statsb,5364,Paraguay,pt_dictionaries,highest,danish
+DEM_statsb_5366,DEM,statsb,5366,Peru,pt_dictionaries,highest,danish
+DEM_statsb_5372,DEM,statsb,5372,El Salvador,pt_dictionaries,highest,danish
+DEM_statsb_5374,DEM,statsb,5374,Trinidad og Tobago,pt_dictionaries,highest,danish
+DEM_statsb_5376,DEM,statsb,5376,Uruguay,pt_dictionaries,highest,danish
+DEM_statsb_5390,DEM,statsb,5390,USA,pt_dictionaries,highest,danish
+DEM_statsb_5392,DEM,statsb,5392,Venezuela,pt_dictionaries,highest,danish
+DEM_statsb_5393,DEM,statsb,5393,Vestbredden,pt_dictionaries,highest,danish
+DEM_statsb_5395,DEM,statsb,5395,Vestindiske Øer,pt_dictionaries,highest,danish
+DEM_statsb_5397,DEM,statsb,5397,Nordamerika uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5398,DEM,statsb,5398,Syd- og Mellemamerika uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5402,DEM,statsb,5402,Yemen,pt_dictionaries,highest,danish
+DEM_statsb_5403,DEM,statsb,5403,Forenede Arabiske Emirater,pt_dictionaries,highest,danish
+DEM_statsb_5404,DEM,statsb,5404,Afghanistan,pt_dictionaries,highest,danish
+DEM_statsb_5406,DEM,statsb,5406,Bahrain,pt_dictionaries,highest,danish
+DEM_statsb_5408,DEM,statsb,5408,Bhutan,pt_dictionaries,highest,danish
+DEM_statsb_5410,DEM,statsb,5410,Bangladesh,pt_dictionaries,highest,danish
+DEM_statsb_5412,DEM,statsb,5412,Brunei,pt_dictionaries,highest,danish
+DEM_statsb_5414,DEM,statsb,5414,Myanmar,pt_dictionaries,highest,danish
+DEM_statsb_5416,DEM,statsb,5416,Cambodja,pt_dictionaries,highest,danish
+DEM_statsb_5418,DEM,statsb,5418,Sri Lanka,pt_dictionaries,highest,danish
+DEM_statsb_5422,DEM,statsb,5422,Cypern,pt_dictionaries,highest,danish
+DEM_statsb_5424,DEM,statsb,5424,Taiwan,pt_dictionaries,highest,danish
+DEM_statsb_5432,DEM,statsb,5432,Indien,pt_dictionaries,highest,danish
+DEM_statsb_5434,DEM,statsb,5434,Indonesien,pt_dictionaries,highest,danish
+DEM_statsb_5435,DEM,statsb,5435,Østtimor,pt_dictionaries,highest,danish
+DEM_statsb_5436,DEM,statsb,5436,Irak,pt_dictionaries,highest,danish
+DEM_statsb_5437,DEM,statsb,5437,Østjerusalem,pt_dictionaries,highest,danish
+DEM_statsb_5438,DEM,statsb,5438,Iran,pt_dictionaries,highest,danish
+DEM_statsb_5442,DEM,statsb,5442,Israel,pt_dictionaries,highest,danish
+DEM_statsb_5444,DEM,statsb,5444,Japan,pt_dictionaries,highest,danish
+DEM_statsb_5446,DEM,statsb,5446,Jordan,pt_dictionaries,highest,danish
+DEM_statsb_5448,DEM,statsb,5448,Kina,pt_dictionaries,highest,danish
+DEM_statsb_5452,DEM,statsb,5452,Kuwait,pt_dictionaries,highest,danish
+DEM_statsb_5454,DEM,statsb,5454,Laos,pt_dictionaries,highest,danish
+DEM_statsb_5456,DEM,statsb,5456,Libanon,pt_dictionaries,highest,danish
+DEM_statsb_5457,DEM,statsb,5457,Maldiverne,pt_dictionaries,highest,danish
+DEM_statsb_5458,DEM,statsb,5458,Malaysia,pt_dictionaries,highest,danish
+DEM_statsb_5459,DEM,statsb,5459,Mongoliet,pt_dictionaries,highest,danish
+DEM_statsb_5462,DEM,statsb,5462,Oman,pt_dictionaries,highest,danish
+DEM_statsb_5464,DEM,statsb,5464,Nepal,pt_dictionaries,highest,danish
+DEM_statsb_5466,DEM,statsb,5466,Nordkorea,pt_dictionaries,highest,danish
+DEM_statsb_5468,DEM,statsb,5468,Vietnam (1),pt_dictionaries,highest,danish
+DEM_statsb_5471,DEM,statsb,5471,Asien uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5472,DEM,statsb,5472,Pakistan,pt_dictionaries,highest,danish
+DEM_statsb_5474,DEM,statsb,5474,Filippinerne,pt_dictionaries,highest,danish
+DEM_statsb_5478,DEM,statsb,5478,Saudi-Arabien,pt_dictionaries,highest,danish
+DEM_statsb_5482,DEM,statsb,5482,Singapore,pt_dictionaries,highest,danish
+DEM_statsb_5484,DEM,statsb,5484,Sydkorea,pt_dictionaries,highest,danish
+DEM_statsb_5486,DEM,statsb,5486,Syrien,pt_dictionaries,highest,danish
+DEM_statsb_5487,DEM,statsb,5487,Mellemøsten uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5488,DEM,statsb,5488,Vietnam (2),pt_dictionaries,highest,danish
+DEM_statsb_5492,DEM,statsb,5492,Thailand,pt_dictionaries,highest,danish
+DEM_statsb_5496,DEM,statsb,5496,Qatar,pt_dictionaries,highest,danish
+DEM_statsb_5499,DEM,statsb,5499,Asien uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5502,DEM,statsb,5502,Australien,pt_dictionaries,highest,danish
+DEM_statsb_5505,DEM,statsb,5505,Tonga,pt_dictionaries,highest,danish
+DEM_statsb_5508,DEM,statsb,5508,Fiji,pt_dictionaries,highest,danish
+DEM_statsb_5514,DEM,statsb,5514,New Zealand,pt_dictionaries,highest,danish
+DEM_statsb_5522,DEM,statsb,5522,Samoa,pt_dictionaries,highest,danish
+DEM_statsb_5525,DEM,statsb,5525,Djibouti,pt_dictionaries,highest,danish
+DEM_statsb_5526,DEM,statsb,5526,Belize,pt_dictionaries,highest,danish
+DEM_statsb_5534,DEM,statsb,5534,Papua Ny Guinea,pt_dictionaries,highest,danish
+DEM_statsb_5599,DEM,statsb,5599,Øer i Stillehavet,pt_dictionaries,highest,danish
+DEM_statsb_5607,DEM,statsb,5607,Estland,pt_dictionaries,highest,danish
+DEM_statsb_5609,DEM,statsb,5609,Letland,pt_dictionaries,highest,danish
+DEM_statsb_5611,DEM,statsb,5611,Litauen,pt_dictionaries,highest,danish
+DEM_statsb_5621,DEM,statsb,5621,Sao Tome og Principe,pt_dictionaries,highest,danish
+DEM_statsb_5623,DEM,statsb,5623,Salomonøerne,pt_dictionaries,highest,danish
+DEM_statsb_5625,DEM,statsb,5625,Skt. Kitts og Nevis,pt_dictionaries,highest,danish
+DEM_statsb_5700,DEM,statsb,5700,Rusland,pt_dictionaries,highest,danish
+DEM_statsb_5704,DEM,statsb,5704,Ukraine,pt_dictionaries,highest,danish
+DEM_statsb_5706,DEM,statsb,5706,Belarus,pt_dictionaries,highest,danish
+DEM_statsb_5708,DEM,statsb,5708,Armenien,pt_dictionaries,highest,danish
+DEM_statsb_5710,DEM,statsb,5710,Aserbajdsjan,pt_dictionaries,highest,danish
+DEM_statsb_5712,DEM,statsb,5712,Moldova,pt_dictionaries,highest,danish
+DEM_statsb_5714,DEM,statsb,5714,Usbekistan,pt_dictionaries,highest,danish
+DEM_statsb_5716,DEM,statsb,5716,Kasakhstan,pt_dictionaries,highest,danish
+DEM_statsb_5718,DEM,statsb,5718,Turkmenistan,pt_dictionaries,highest,danish
+DEM_statsb_5720,DEM,statsb,5720,Kirgisistan,pt_dictionaries,highest,danish
+DEM_statsb_5722,DEM,statsb,5722,Tadsjikistan,pt_dictionaries,highest,danish
+DEM_statsb_5724,DEM,statsb,5724,Georgien,pt_dictionaries,highest,danish
+DEM_statsb_5750,DEM,statsb,5750,Kroatien,pt_dictionaries,highest,danish
+DEM_statsb_5752,DEM,statsb,5752,Slovenien,pt_dictionaries,highest,danish
+DEM_statsb_5754,DEM,statsb,5754,Bosnien-Hercegovina,pt_dictionaries,highest,danish
+DEM_statsb_5756,DEM,statsb,5756,Nordmakedonien,pt_dictionaries,highest,danish
+DEM_statsb_5757,DEM,statsb,5757,Serbien,pt_dictionaries,highest,danish
+DEM_statsb_5758,DEM,statsb,5758,"Jugoslavien, Forbundsrepublikken",pt_dictionaries,highest,danish
+DEM_statsb_5759,DEM,statsb,5759,Montenegro,pt_dictionaries,highest,danish
+DEM_statsb_5761,DEM,statsb,5761,Kosovo,pt_dictionaries,highest,danish
+DEM_statsb_5776,DEM,statsb,5776,Tjekkiet,pt_dictionaries,highest,danish
+DEM_statsb_5778,DEM,statsb,5778,Slovakiet,pt_dictionaries,highest,danish
+DEM_statsb_5779,DEM,statsb,5779,Cookøerne,pt_dictionaries,highest,danish
+DEM_statsb_5800,DEM,statsb,5800,Land ukendt (2),pt_dictionaries,highest,danish
+DEM_statsb_5901,DEM,statsb,5901,Færøerne uoplyst,pt_dictionaries,highest,danish
+DEM_statsb_5902,DEM,statsb,5902,Færøerne,pt_dictionaries,highest,danish
+DEM_statsb_5999,DEM,statsb,5999,Land ukendt (1),pt_dictionaries,highest,danish
+DEM_statsb_unknown,DEM,statsb,unknown,Country of residence code: unknown,enhanced_english,medium,english

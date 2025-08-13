@@ -1,0 +1,209 @@
+Værdisæt
+D281700.TXT_FRAKKOD - Frakendelsens paragraf i lovgivningen Gyldig fra 	Gyldig til 	Kode 	Tekst
+		BA 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 5 jf. stk. 4. 3 overtrædelser vedr. kørehviletidsbestemmelser, mere end 30 pct. (tidl. 79)
+		BB 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 6 jf. stk. 4. 3 overtrædelser vedr. kontrolapperat indenfor 3 år. (tidl.80)
+		BC 	Betinget førerretsfrakendelse jf. færdsl. § 126, stk. 2
+		BD 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 1
+		BE 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 2 jf. stk. 4. Hastidhedsoverskridelse på mere end 60% (tidl.83)
+		BF 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 3 jf. stk. 4. Hastidhedsoverskridelse på mere end 40% i de § 43 og § 86 nævnte køretøjer eller ved slæbning(tidl.84)
+		BG 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 4 jf. stk. 4. Overlæs med mere end 30% (tidl.85)
+		BH 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 7 jf. stk. 4. Spirituskørsel m. promille mellem 0,5-1,2 (tidl.86)
+		BI 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 8 jf. stk. 4. Overtræd. af færdselslov. § 54 stk.1 (påvirket af euforiserende stoffer) med mere end 30% (tidl.85)
+		BJ 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 9 jf. stk. 4. Aktuelle forseelser samt øvrige forhold (tidl.87)
+		BK 	Betinget førerretsfrakendelse jf. færdsl. § 126, stk. 1 nr. 3, jf. stk. 2
+		BL 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 2
+		BM 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 2
+		BN 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 3
+		BO 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 4
+		BP 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 5
+		BR 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 6
+		BS 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 7
+		BT 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 8
+		BU 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 9
+		BV 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 10
+		BX 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 11
+		CA 	Betinget førerretsfrakendelse jf. Færdselslovens § 125 stk. 1 nr. 5
+		CB 	Betinget førerretsfrakendelse jf. Færdselslovens § 125 stk. 1 nr. 6
+		CC 	Betinget førerretsfrakendelse jf. Færdselslovens § 125 stk. 1 nr. 8
+		DA 	Ubetinget rettighedsfrakendelse til erhvervsmæssig transport af dyr. Uden klip. Dyreværnslovens § 29a stk. 1
+		DB 	Betinget rettighedsfrakendelse til erhvervsmæssig transport af dyr pga. 3 klip. Dyreværnslovens § 29b
+		DC 	Ubetinget rettighedsfrakendelse til erhvervsmæssig transport af dyr pga. 6 klip. Dyreværnslovens § 29c
+		DD 	Betinget rettighedsfrakendelse, pga. formildende omstændigheder. Dyreværnslovens § 29a stk. 2
+		DE 	Ubetinget rettighedsfrakendelse, som følge af tidl. betinget frakendelse. Et klip i prøvetiden. Dyreværnslovens § 29d
+		FA 	Meddelt opholdsforbud jf. straffelovens § 132b, stk. 1
+		FB 	Opholdsforbud ved dom jf. straffelovens § 79 a
+		FC 	Forbud i medfør af straffelovens § 236. Startdato 01-07-2018
+		FK 	Karantæne/forbud, idrætsbegivenheder
+		GA 	Betinget frakendt ret til at føre tunge køretøjer jf. færdsl. § 129 A stk. 1 nr. 1
+		GB 	Betinget frakendt ret til at føre tunge køretøjer jf. færdsl. § 129 A stk. 1 nr. 2
+		GC 	Betinget frakendt ret til at føre tunge køretøjer jf. færdsl. § 129 A stk. 1 nr. 3
+		GD 	Betinget frakendt ret til at føre tunge køretøjer jf. færdsl. § 129 B stk. 4
+		HA 	Frakendt ret til at føre tunge køretøjer jf. færdsl. § 129 B stk. 1 nr. 1 jf. § 128
+		HB 	Frakendt ret til at føre tunge køretøjer jf. færdsl. § 129 B stk. 1 nr. 2 jf. § 128
+		HC 	Frakendt ret til at føre tunge køretøjer jf. færdsl. § 129 B stk. 1 nr. 3 jf. § 128
+		HD 	Frakendt ret til at føre tunge køretøjer jf. færdsl. § 129 B stk. 1 nr. 4 jf. § 128
+		KA 	Kørselsforbud jf. færdsl. § 127.
+		KB 	Kørselsforbud jf. færdsl. § 125 stk. 2 jf. stk. 3 jf. § 127.
+		LA 	Betinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 1, nr. 1
+		LB 	Betinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 1, nr. 2
+		LC 	Betinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 1, nr. 3
+		LD 	Betinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 1, nr. 4
+		LE 	Betinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 1, nr. 5
+		LF 	Betinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 1, nr. 6
+		LM 	Betinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 5
+		LN 	Ubetinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 3, nr. 1
+		LO 	Ubetinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 3, nr. 2
+		LP 	Ubetinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 3, nr. 3
+		LQ 	Ubetinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 3, nr. 4
+		LR 	Ubetinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 3, nr. 5
+		LS 	Ubetinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 3, nr. 6
+		LT 	Ubetinget frakendelse af retten til at føre lille knallert jf. færdsl. § 129, stk. 3, nr. 7
+		LU 	Førerretsfrakendelse jf. færdsl. § 129 stk. 4, 2. pkt
+		PA 	Administrativ inddragelse af pas, jf. paslovens § 2, stk. 1, nr. 4
+		PB 	Administrativ nægtelse af pas jf. paslovens § 2, stk. 1 nr. 4
+		PC 	Udrejseforbud
+		SA 	Betinget førerretsfrakendelse jf. færdsl. § 125, stk. 1, nr. 10
+		SB 	Betinget førerretsfrakendelse jf. Færdselslovens § 125 stk. 1 nr. 7
+		UA 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 1 jf. § 128
+		UB 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 2 jf. § 128
+		UC 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 3, jf. § 128
+		UD 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 4 jf. § 128
+		UE 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 5 jf. § 128
+		UF 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 126 stk. 1 nr. 6 jf. § 128. Hensynsløs kørsel eller flere forhold til samtidig påbedømmelse (tidl.62)
+		UG 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 126 stk. 1 nr. 7 jf. § 128. Kørsel i prøvetiden for en betinget frakendelse (tidl.65)
+		UH 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 126 stk. 1 nr. 8 jf. § 128. Nyt forhold inden for 3 år efter kørselsforbud (tidl.67)
+		UI 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 126 stk. 1 nr. 9 jf. § 128. Nyt forhold begået i prøvetiden for en tidl. ubet. frakendelse el. inden for 5 år efter udløbet (tidl.69)
+		UJ 	Ubetinget førerretsfrakendelse imf. færdselsl. § 126 stk. 1 nr. 6 jf. § 125 stk. 2 ¿ 6 klip (tidl.63)
+		UK 	Ubetinget førerretsfrakendelse imf. færdselsl. § 126 stk. 1 nr. 7 jf. § 125 stk. 2. 3 klip i prøvetiden for en betinget frakendelse (tidl.64)
+		UL 	Ubetinget førerretsfrakendelse imf. færdselsl. § 126 stk. 1 nr. 8 jf. § 125 stk. 2. 3 klip,begået indenfor 3 år efter kørselsforbud(tidl.68)
+		UM 	Ubetinget førerretsfrakendelse imf. færdselsl. § 126 stk. 1 nr. 9 jf. § 125 stk. 2. 3 klip med gentagelsesvirkning efter tidl. ubetinget frakendelse (tidl.70)
+		UN 	Ubetinget førerretsfrakendelse imf. færdselsl. § 126 stk. 1 nr. 6 jf. § 125 stk. 2 og 3. 4 klip, begået indenfor 3 år fra førstegangserhvervelsen (tidl.71)
+		UO 	Ubetinget førerretsfrakendelse imf. færdselsl. § 126 stk. 1 nr. 6 jf. § 125 stk. 2 + selvstændig frakendelse. 3 klip til samtidig pådømmelse samme forhold der i sig selv medfører en betinget frakendelse
+		UP 	Ubetinget førerretsfrakendelse imf. færdselsl. § 126 stk. 1 nr. 6 jf. § 125 stk. 3. 2 klip til samtidig pådømmelse sammen med et forhold der i sig selv medfører kørselsforbud
+		UQ 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 6, jf. § 128
+		UR 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 7, jf. § 128
+		US 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 8, jf. § 128
+		UT 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 9, jf. § 128
+		UU 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 10, jf. § 128
+		UV 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 7, jf. § 125, stk. 2 - 6 klip
+		UX 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 8, jf. § 125, stk. 2
+		UY 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 9, jf. § 125, stk. 2
+		UZ 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 10, jf. § 125, stk. 2
+		UÆ 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 7, jf. § 125, stk. 2 og 3
+		UØ 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 7, jf. § 125, stk. 2 + selvstændig frak.
+		UÅ 	Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 7, jf. § 125, stk. 3
+		VA 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 11
+		VB 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 12
+		VD 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 4 jf. § 128
+		VE 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 5 jf. § 128
+		VF 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 6 jf. § 128
+		VG 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 7 jf. § 128
+		VH 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 8 jf. § 128
+		VI 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 9 jf. § 128
+		VJ 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 10 jf. § 128
+		VK 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 11 jf. § 128
+		VL 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 12 jf. § 128
+		VM 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 13 jf. § 128
+		VN 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 1 jf. § 128
+		VO 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 1 jf. § 128 HØJ PROMILLE/MG
+		WA 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 6 jf. § 125 stk. 2
+		WB 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 7 jf. § 125 stk. 2
+		WC 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 8 jf. § 125 stk. 2
+		WD 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 9 jf. § 125 stk. 2
+		WE 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 6 jf. § 125 stk. 2 og stk. 3
+		WF 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 6 jf. § 125 stk. 2
+		WG 	Førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 6 jf. § 125 stk. 3
+		X1 	Frakendt førerretten
+		X2 	Frakendt førerretten
+		X3 	Frakendt førerretten
+		X4 	Frakendt førerretten
+		X5 	Frakendt førerretten
+		X6 	Frakendt førerretten betinget
+		X7 	Frakendt førerretten betinget
+		X8 	Frakendt førerretten betinget
+		X9 	Frakendt førerretten betinget
+		ØA 	Frakendt ret til at udøve kørerlærervirksomhed jf. færdselsloven § 66a, stk. 1
+		ÅA 	Alkolås jf. færdselslovens § 60a, stk. 3 (indtrådt i obligatorisk ordning)
+		ÅB 	Alkolås jf. færdselslovens § 132a, stk. 1 (indtrådt i frivillig ordning)
+		ÅC 	Udtrådt af alkolåsordningen
+		ÅD 	Omfattet af regler om OBLIGATORISK alkolåsordning (ÅD - generhvervelse udskudt)
+		0 	Frakendelse af andet - ikke kørekort
+		00 	Frakendelse af andet-ikke kørekort
+		01 	Frakendelse af kørekort i medfør af færdselslovens § 125, jf. § 127. Gældende til 150599
+		02 	Frakendelse af kørekort i medfør af færdselslovens § 126, stk. 2, nr. 1, jf. § 127. Gældende til 150599
+		03 	Frakendelse af kørekort i medfør af færdselslovens § 126, stk. 2, nr. 2, jf. § 127. Gældende til 150599
+		04 	Frakendelse af kørekort i medfør af færdselslovens § 126, stk. 2, nr. 3, jf. § 127. Gældende til 150599
+		05 	Frakendelse af kørekort i medfør af færdselslovens § 126, stk. 2, nr. 4, jf. § 127. Gældende til 150599
+		06 	Frakendt førerretten betinget i medfør af færdselslovens § 125, stk. 2, jf. § 128. Gældende til 150599
+		07 	Frakendt førerretten betinget i medfør af færdselslovens § 126, stk. 1, nr. 1, jf. § 128
+		08 	Frakendt førerretten betinget i medfør af færdselslovens § 126, stk. 1, nr. 2, jf. § 128. Gældende til 010797
+		09 	Frakendt førerretten betinget i medfør af færdselslovens § 126, stk. 1, jf. § 128. Gældende til 010797
+		1A 	Ikke omfattet af regler om alkolås
+		1B 	Omfattet af regler om FRIVILLIG alkolåsordning
+		1C 	Ny obl. Alkolåsperiode efter suspension pga. ny frakendelse (ÅD - generhvervelse udskudt)
+		1D 	Restperiode for frivillig alkolåsordning efter ny frakendelse (ÅD - generhvervelse udskudt)
+		10 	(Anvendes kun af RPCH) Førerretsfrakendelse i øvrigt (Udlandet)
+		11 	(Anvendes kun af RPCH) Frakendt førerretten (Grønland og Færøerne)
+		12 	(Anvendes kun af RPCH) Frakendt førerretten betinget (Grønland og Færøerne)
+		13 	Frakendt førerretten betinget i medfør af færdselslovens § 126, stk. 1, nr. 2, jf. § 128. Gældende til 150599
+		14 	Frakendt førerretten betinget i medfør af færdselslovens § 126, stk. 1, nr. 3, jf. § 128. Gældende til 150599
+		15 	Frakendt førerretten betinget i medfør af færdselslovens § 126, stk. 1, nr. 4, jf. § 128. Gældende til 150599
+		16 	(Anvendes kun af RPCH) Kørselsforbud, Færøerne (pr.1.januar 2008)
+		19 	Forbud mod ophold i/på bestemte ejendomme og besøgende i bestemte lokaler
+		20 	Udskydelse af retten til at erhverve førerret
+		22 	Forbud i medfør af restaurationsloven
+		26 	Advarsel (udvisning), jf. udlændingelovens § 24 b
+		27 	Indrejseforbud, Retsplejeloven 723, 23-28
+		30 	(Udgået)Advarsel i medfør af straffelovens § 265
+		31 	Forbud/påbud
+		34 	Indrejseforbud, Schengen
+		35 	Offer for æresforbrydelser, beskyttelsesoplysninger
+		38 	Tilhold i henhold til bortvisningslov
+		39 	Meddelt opholdsforbud, særlov
+		40 	Bortvisning i henhold til bortvisningslov
+		41 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 125, jf. § 127
+		42 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 2, nr. 1, jf. § 127
+		43 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 2, nr. 2, jf. § 127
+		44 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 2, nr. 3, jf. § 127
+		45 	Ubetinget førerretsfrakendelse i medfør af færdselslovens § 126, stk. 2, nr. 4, jf. § 127
+		46 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 125 a, stk. 1, jf. § 127
+		47 	Ubetinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 2, nr. 4, jf. § 127
+		48 	Tidligere ubetinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 2, nr. 5, jf. § 127
+		49 	Meddelt strakstilhold
+		50 	Kørselsforbud inden for 2 til 3 år i medf. af færdsl. § 126 stk. 4 (ny fra 2002)
+		51 	Betinget førerretsfrakendelse i medf. af færdsl. § 125, stk. 2, jf. § 128
+		52 	Betinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 1, nr. 1, jf. § 128
+		53 	Betinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 1, nr. 2, jf. § 128
+		54 	Betinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 1, nr. 3, jf. § 128
+		55 	Betinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 1, nr. 4, jf. § 128
+		56 	Betinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 1, nr. 5, jf. § 128
+		57 	Betinget førerretsfrakendelse i medf. af færdsl. § 126, stk. 1, nr. 6, jf. § 128
+		58 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 a, stk. 2, jf. § 128
+		60 	Førerretsfrakendelse i medfør af færdselslovens § 126 stk. 1 nr. 1 jf. § 128. Spirituskørsel når prom. er over 1,2
+		61 	Førerretsfrakendelse i medf. af færdsl. § 126 stk. 1 nr. 4 jf. § 128. Se kode 42
+		62 	Førerretsfrakendelse i medf. af færdsl. § 126 stk. 1 nr. 5 jf. § 128. Se kode 43
+		63 	Ubetinget førerretsfrakendelse pga. 6 klip jf. færdsl. § 125 stk. 2 jf. § 126 stk. 1 nr. 5 jf. § 128
+		64 	Ubetinget førerretsfrakendelse pga. 3 klip jf. færdsl. § 125 stk. 2 jf. § 126 stk. 1 nr. 6 jf. § 128
+		65 	Førerretsfrakendelse i medf. af færdsl. § 126 stk. 1 nr. 6 jf. § 128. Se kode 44
+		66 	Førerretsfrakendelse i medf. af færdsl. § 126, stk.1, nr. 2. Se kode 46
+		67 	Førerretsfrakendelse i medf. af færdsl. § 126 stk. 1 nr. 7 jf. § 128. Se kode 47
+		68 	Ubetinget førerretsfrakendelse pga. 3 klip jf. færdsl. § 125 stk. 2 jf. § 126 stk. 1 nr. 7 jf. § 128
+		69 	Førerretsfrakendelse i medf. af færdsl. § 126 stk. 1 nr. 8 jf. § 128. Se kode 48
+		70 	Førerretsfrakendelse jf. færdsl. § 125 stk. 2 jf. § 126 stk. 1 nr. 8 jf. § 128. 3 klip med gentagende virkning
+		71 	Ubetinget førerretsfrakendelse pga. 4 eller flere klip jf. færdsl. § 126 stk. 1 nr. 5 jf. § 125 stk. 2 og 3 jf. § 128 (nr.8 jf.128 3 klip med gent.virkn.?)
+		72 	Førerretsfrakendelse jf. Færdsl. § 126 stk. 1 nr. 3 jf. § 128. Ulovlig indgreb i kontrolapparat
+		75 	Kørselsforbud i medf. af færdsl. § 127
+		76 	Kørselsforbud pga.2 klip indenfor 3 år osv. pga. 3 klip, i medf. af færdsl. § 125 stk. 2 jf. stk. 3 jf. § 127.
+		79 	Betinget førerretskendelse i medfør af færdselslovens § 125 stk. 1 nr. 5 jf. stk. 4. Overskridelse af kørehviletidsbestem. med mere end 30 pct.
+		80 	Betinget førerretskendelse i medfør af færdselslovens § 125 stk. 1 nr. 6 jf. stk. 4. Overtrædelse vedr. kontrol apparat inden for 3 år
+		81 	Betinget førerretskendelse i medfør af færdselslovens § 126 stk. 2 jf. § 125 stk. 4. Se kode 51 (nr.8 jf.128 3 klip med gentagne virkn.?)
+		82 	Betinget førerretskendelse i medfør af færdselslovens § 125 stk. 1 nr. 1 jf. stk. 4. Se kode 52
+		83 	Betinget førerretskendelse i medfør af færdselslovens § 125 stk. 1 nr. 2 jf. stk. 4. Se kode 53
+		84 	Betinget førerretskendelse i medfør af færdselslovens § 125 stk. 1 nr. 3 jf. stk. 4. Se kode 54
+		85 	Betinget førerretskendelse i medfør af færdselslovens § 125 stk. 1 nr. 4 jf. stk. 4. Se kode 55
+		86 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 7 jf. stk. 4. Spirituskørsel, promille ikke over 1,2. Se kode 56
+		87 	Betinget førerretsfrakendelse i medf. af færdsl. § 125 stk. 1 nr. 8 jf. stk. 4. Se kode 57
+		88 	Betinget førerretsfrakendelse jf. færdsl. § 126 stk. 1 nr. 2 jf. stk. 2 jf. § 125 stk. 4. Se kode 58
+		89 	Betinget førerretskendelse i medfør af færdselslovens § 125 stk. 2 jf. stk. 4. 3 klip begået indenfor en periode på 3 år
+		90 	Blank kode fra RPCH, der er konverteret til 90
+		98 	Uoplyst type af førerretsfrakendelse

@@ -1,0 +1,893 @@
+code,prefix,database,value,description,source,confidence,language
+EDU_disced_0510,EDU,disced,0510,Førskoleuddannelser,pt_dictionaries,highest,danish
+EDU_disced_1001,EDU,disced,1001,Ingen uddannelse,pt_dictionaries,highest,danish
+EDU_disced_10011010,EDU,disced,10011010,DISCED education classification: 10011010,enhanced_english,medium,english
+EDU_disced_1010,EDU,disced,1010,Grundskole til og med 6. klasse,pt_dictionaries,highest,danish
+EDU_disced_10101010,EDU,disced,10101010,DISCED education classification: 10101010,enhanced_english,medium,english
+EDU_disced_10101011,EDU,disced,10101011,DISCED education classification: 10101011,enhanced_english,medium,english
+EDU_disced_10101012,EDU,disced,10101012,DISCED education classification: 10101012,enhanced_english,medium,english
+EDU_disced_10101013,EDU,disced,10101013,DISCED education classification: 10101013,enhanced_english,medium,english
+EDU_disced_10101014,EDU,disced,10101014,DISCED education classification: 10101014,enhanced_english,medium,english
+EDU_disced_10101015,EDU,disced,10101015,DISCED education classification: 10101015,enhanced_english,medium,english
+EDU_disced_10101016,EDU,disced,10101016,DISCED education classification: 10101016,enhanced_english,medium,english
+EDU_disced_10101020,EDU,disced,10101020,DISCED education classification: 10101020,enhanced_english,medium,english
+EDU_disced_1020,EDU,disced,1020,Grundskole 7.-9. klasse,pt_dictionaries,highest,danish
+EDU_disced_10201010,EDU,disced,10201010,DISCED education classification: 10201010,enhanced_english,medium,english
+EDU_disced_10201011,EDU,disced,10201011,DISCED education classification: 10201011,enhanced_english,medium,english
+EDU_disced_10201012,EDU,disced,10201012,DISCED education classification: 10201012,enhanced_english,medium,english
+EDU_disced_10201020,EDU,disced,10201020,DISCED education classification: 10201020,enhanced_english,medium,english
+EDU_disced_1030,EDU,disced,1030,Grundskole 10. klasse,pt_dictionaries,highest,danish
+EDU_disced_10301010,EDU,disced,10301010,DISCED education classification: 10301010,enhanced_english,medium,english
+EDU_disced_10301020,EDU,disced,10301020,DISCED education classification: 10301020,enhanced_english,medium,english
+EDU_disced_1040,EDU,disced,1040,Grundskolefag for voksne,pt_dictionaries,highest,danish
+EDU_disced_1510,EDU,disced,1510,Højskoleforløb,pt_dictionaries,highest,danish
+EDU_disced_1520,EDU,disced,1520,Introducerende og erhvervsrettede forløb,pt_dictionaries,highest,danish
+EDU_disced_15201010,EDU,disced,15201010,DISCED education classification: 15201010,enhanced_english,medium,english
+EDU_disced_15201020,EDU,disced,15201020,DISCED education classification: 15201020,enhanced_english,medium,english
+EDU_disced_15203010,EDU,disced,15203010,DISCED education classification: 15203010,enhanced_english,medium,english
+EDU_disced_15204010,EDU,disced,15204010,DISCED education classification: 15204010,enhanced_english,medium,english
+EDU_disced_15205030,EDU,disced,15205030,DISCED education classification: 15205030,enhanced_english,medium,english
+EDU_disced_2010,EDU,disced,2010,Alment gymnasiale uddannelser,pt_dictionaries,highest,danish
+EDU_disced_20101010,EDU,disced,20101010,DISCED education classification: 20101010,enhanced_english,medium,english
+EDU_disced_20101011,EDU,disced,20101011,DISCED education classification: 20101011,enhanced_english,medium,english
+EDU_disced_20101012,EDU,disced,20101012,DISCED education classification: 20101012,enhanced_english,medium,english
+EDU_disced_20101013,EDU,disced,20101013,DISCED education classification: 20101013,enhanced_english,medium,english
+EDU_disced_20101020,EDU,disced,20101020,DISCED education classification: 20101020,enhanced_english,medium,english
+EDU_disced_20101021,EDU,disced,20101021,DISCED education classification: 20101021,enhanced_english,medium,english
+EDU_disced_20101022,EDU,disced,20101022,DISCED education classification: 20101022,enhanced_english,medium,english
+EDU_disced_20101023,EDU,disced,20101023,DISCED education classification: 20101023,enhanced_english,medium,english
+EDU_disced_20101030,EDU,disced,20101030,DISCED education classification: 20101030,enhanced_english,medium,english
+EDU_disced_20101031,EDU,disced,20101031,DISCED education classification: 20101031,enhanced_english,medium,english
+EDU_disced_20101032,EDU,disced,20101032,DISCED education classification: 20101032,enhanced_english,medium,english
+EDU_disced_20101033,EDU,disced,20101033,DISCED education classification: 20101033,enhanced_english,medium,english
+EDU_disced_20102010,EDU,disced,20102010,DISCED education classification: 20102010,enhanced_english,medium,english
+EDU_disced_20102011,EDU,disced,20102011,DISCED education classification: 20102011,enhanced_english,medium,english
+EDU_disced_20102012,EDU,disced,20102012,DISCED education classification: 20102012,enhanced_english,medium,english
+EDU_disced_20103010,EDU,disced,20103010,DISCED education classification: 20103010,enhanced_english,medium,english
+EDU_disced_20103011,EDU,disced,20103011,DISCED education classification: 20103011,enhanced_english,medium,english
+EDU_disced_20103012,EDU,disced,20103012,DISCED education classification: 20103012,enhanced_english,medium,english
+EDU_disced_20103020,EDU,disced,20103020,DISCED education classification: 20103020,enhanced_english,medium,english
+EDU_disced_20103021,EDU,disced,20103021,DISCED education classification: 20103021,enhanced_english,medium,english
+EDU_disced_20103022,EDU,disced,20103022,DISCED education classification: 20103022,enhanced_english,medium,english
+EDU_disced_20103030,EDU,disced,20103030,DISCED education classification: 20103030,enhanced_english,medium,english
+EDU_disced_20103031,EDU,disced,20103031,DISCED education classification: 20103031,enhanced_english,medium,english
+EDU_disced_20103032,EDU,disced,20103032,DISCED education classification: 20103032,enhanced_english,medium,english
+EDU_disced_2020,EDU,disced,2020,Erhvervsrettede gymnasiale uddannelser,pt_dictionaries,highest,danish
+EDU_disced_20201010,EDU,disced,20201010,DISCED education classification: 20201010,enhanced_english,medium,english
+EDU_disced_20203010,EDU,disced,20203010,DISCED education classification: 20203010,enhanced_english,medium,english
+EDU_disced_20203011,EDU,disced,20203011,DISCED education classification: 20203011,enhanced_english,medium,english
+EDU_disced_20203012,EDU,disced,20203012,DISCED education classification: 20203012,enhanced_english,medium,english
+EDU_disced_20203013,EDU,disced,20203013,DISCED education classification: 20203013,enhanced_english,medium,english
+EDU_disced_20204010,EDU,disced,20204010,DISCED education classification: 20204010,enhanced_english,medium,english
+EDU_disced_20204011,EDU,disced,20204011,DISCED education classification: 20204011,enhanced_english,medium,english
+EDU_disced_20204012,EDU,disced,20204012,DISCED education classification: 20204012,enhanced_english,medium,english
+EDU_disced_20204013,EDU,disced,20204013,DISCED education classification: 20204013,enhanced_english,medium,english
+EDU_disced_2030,EDU,disced,2030,Internationale gymnasiale uddannelser,pt_dictionaries,highest,danish
+EDU_disced_20301010,EDU,disced,20301010,DISCED education classification: 20301010,enhanced_english,medium,english
+EDU_disced_20302020,EDU,disced,20302020,DISCED education classification: 20302020,enhanced_english,medium,english
+EDU_disced_20302021,EDU,disced,20302021,DISCED education classification: 20302021,enhanced_english,medium,english
+EDU_disced_20302022,EDU,disced,20302022,DISCED education classification: 20302022,enhanced_english,medium,english
+EDU_disced_20303010,EDU,disced,20303010,DISCED education classification: 20303010,enhanced_english,medium,english
+EDU_disced_20304010,EDU,disced,20304010,DISCED education classification: 20304010,enhanced_english,medium,english
+EDU_disced_20305010,EDU,disced,20305010,DISCED education classification: 20305010,enhanced_english,medium,english
+EDU_disced_20306010,EDU,disced,20306010,DISCED education classification: 20306010,enhanced_english,medium,english
+EDU_disced_2510,EDU,disced,2510,Danskundervisning ved sprogcentre,pt_dictionaries,highest,danish
+EDU_disced_2910,EDU,disced,2910,"Omsorg, sundhed og pædagogik (OSP), grundforløb",pt_dictionaries,highest,danish
+EDU_disced_29101010,EDU,disced,29101010,DISCED education classification: 29101010,enhanced_english,medium,english
+EDU_disced_2915,EDU,disced,2915,"Kontor, handel og forretningsservice (KHF), grundforløb",pt_dictionaries,highest,danish
+EDU_disced_29151010,EDU,disced,29151010,DISCED education classification: 29151010,enhanced_english,medium,english
+EDU_disced_29151510,EDU,disced,29151510,DISCED education classification: 29151510,enhanced_english,medium,english
+EDU_disced_2920,EDU,disced,2920,"Fødevarer, jordbrug og oplevelser (FJO), grundforløb",pt_dictionaries,highest,danish
+EDU_disced_29201010,EDU,disced,29201010,DISCED education classification: 29201010,enhanced_english,medium,english
+EDU_disced_29201015,EDU,disced,29201015,DISCED education classification: 29201015,enhanced_english,medium,english
+EDU_disced_29201020,EDU,disced,29201020,DISCED education classification: 29201020,enhanced_english,medium,english
+EDU_disced_29201025,EDU,disced,29201025,DISCED education classification: 29201025,enhanced_english,medium,english
+EDU_disced_2925,EDU,disced,2925,"Teknologi, byggeri og transport (TBT), grundforløb",pt_dictionaries,highest,danish
+EDU_disced_29251010,EDU,disced,29251010,DISCED education classification: 29251010,enhanced_english,medium,english
+EDU_disced_29251015,EDU,disced,29251015,DISCED education classification: 29251015,enhanced_english,medium,english
+EDU_disced_29251020,EDU,disced,29251020,DISCED education classification: 29251020,enhanced_english,medium,english
+EDU_disced_29251025,EDU,disced,29251025,DISCED education classification: 29251025,enhanced_english,medium,english
+EDU_disced_29251030,EDU,disced,29251030,DISCED education classification: 29251030,enhanced_english,medium,english
+EDU_disced_29251035,EDU,disced,29251035,DISCED education classification: 29251035,enhanced_english,medium,english
+EDU_disced_29251040,EDU,disced,29251040,DISCED education classification: 29251040,enhanced_english,medium,english
+EDU_disced_29251045,EDU,disced,29251045,DISCED education classification: 29251045,enhanced_english,medium,english
+EDU_disced_29251050,EDU,disced,29251050,DISCED education classification: 29251050,enhanced_english,medium,english
+EDU_disced_29251055,EDU,disced,29251055,DISCED education classification: 29251055,enhanced_english,medium,english
+EDU_disced_3010,EDU,disced,3010,"Omsorg, sundhed og pædagogik (OSP)",pt_dictionaries,highest,danish
+EDU_disced_30101010,EDU,disced,30101010,DISCED education classification: 30101010,enhanced_english,medium,english
+EDU_disced_30101510,EDU,disced,30101510,DISCED education classification: 30101510,enhanced_english,medium,english
+EDU_disced_30102010,EDU,disced,30102010,DISCED education classification: 30102010,enhanced_english,medium,english
+EDU_disced_30102015,EDU,disced,30102015,DISCED education classification: 30102015,enhanced_english,medium,english
+EDU_disced_30102020,EDU,disced,30102020,DISCED education classification: 30102020,enhanced_english,medium,english
+EDU_disced_30102510,EDU,disced,30102510,DISCED education classification: 30102510,enhanced_english,medium,english
+EDU_disced_30103010,EDU,disced,30103010,DISCED education classification: 30103010,enhanced_english,medium,english
+EDU_disced_30103510,EDU,disced,30103510,DISCED education classification: 30103510,enhanced_english,medium,english
+EDU_disced_3015,EDU,disced,3015,"Kontor, handel og forretningsservice (KHF)",pt_dictionaries,highest,danish
+EDU_disced_30151010,EDU,disced,30151010,DISCED education classification: 30151010,enhanced_english,medium,english
+EDU_disced_30151510,EDU,disced,30151510,DISCED education classification: 30151510,enhanced_english,medium,english
+EDU_disced_30152010,EDU,disced,30152010,DISCED education classification: 30152010,enhanced_english,medium,english
+EDU_disced_30152510,EDU,disced,30152510,DISCED education classification: 30152510,enhanced_english,medium,english
+EDU_disced_30153010,EDU,disced,30153010,DISCED education classification: 30153010,enhanced_english,medium,english
+EDU_disced_30153510,EDU,disced,30153510,DISCED education classification: 30153510,enhanced_english,medium,english
+EDU_disced_30154010,EDU,disced,30154010,DISCED education classification: 30154010,enhanced_english,medium,english
+EDU_disced_30154510,EDU,disced,30154510,DISCED education classification: 30154510,enhanced_english,medium,english
+EDU_disced_30155010,EDU,disced,30155010,DISCED education classification: 30155010,enhanced_english,medium,english
+EDU_disced_30155510,EDU,disced,30155510,DISCED education classification: 30155510,enhanced_english,medium,english
+EDU_disced_30156010,EDU,disced,30156010,DISCED education classification: 30156010,enhanced_english,medium,english
+EDU_disced_30156510,EDU,disced,30156510,DISCED education classification: 30156510,enhanced_english,medium,english
+EDU_disced_3020,EDU,disced,3020,Fødevarer mv. (FJO),pt_dictionaries,highest,danish
+EDU_disced_30201010,EDU,disced,30201010,DISCED education classification: 30201010,enhanced_english,medium,english
+EDU_disced_30201510,EDU,disced,30201510,DISCED education classification: 30201510,enhanced_english,medium,english
+EDU_disced_30201515,EDU,disced,30201515,DISCED education classification: 30201515,enhanced_english,medium,english
+EDU_disced_30202010,EDU,disced,30202010,DISCED education classification: 30202010,enhanced_english,medium,english
+EDU_disced_30202510,EDU,disced,30202510,DISCED education classification: 30202510,enhanced_english,medium,english
+EDU_disced_30203010,EDU,disced,30203010,DISCED education classification: 30203010,enhanced_english,medium,english
+EDU_disced_30203510,EDU,disced,30203510,DISCED education classification: 30203510,enhanced_english,medium,english
+EDU_disced_30203515,EDU,disced,30203515,DISCED education classification: 30203515,enhanced_english,medium,english
+EDU_disced_30204010,EDU,disced,30204010,DISCED education classification: 30204010,enhanced_english,medium,english
+EDU_disced_30204510,EDU,disced,30204510,DISCED education classification: 30204510,enhanced_english,medium,english
+EDU_disced_30205010,EDU,disced,30205010,DISCED education classification: 30205010,enhanced_english,medium,english
+EDU_disced_3025,EDU,disced,3025,Jordbrug og natur (FJO),pt_dictionaries,highest,danish
+EDU_disced_30251010,EDU,disced,30251010,DISCED education classification: 30251010,enhanced_english,medium,english
+EDU_disced_30251015,EDU,disced,30251015,DISCED education classification: 30251015,enhanced_english,medium,english
+EDU_disced_30251020,EDU,disced,30251020,DISCED education classification: 30251020,enhanced_english,medium,english
+EDU_disced_30251510,EDU,disced,30251510,DISCED education classification: 30251510,enhanced_english,medium,english
+EDU_disced_30251515,EDU,disced,30251515,DISCED education classification: 30251515,enhanced_english,medium,english
+EDU_disced_30251520,EDU,disced,30251520,DISCED education classification: 30251520,enhanced_english,medium,english
+EDU_disced_30251525,EDU,disced,30251525,DISCED education classification: 30251525,enhanced_english,medium,english
+EDU_disced_30251526,EDU,disced,30251526,DISCED education classification: 30251526,enhanced_english,medium,english
+EDU_disced_30251527,EDU,disced,30251527,DISCED education classification: 30251527,enhanced_english,medium,english
+EDU_disced_30251528,EDU,disced,30251528,DISCED education classification: 30251528,enhanced_english,medium,english
+EDU_disced_30252010,EDU,disced,30252010,DISCED education classification: 30252010,enhanced_english,medium,english
+EDU_disced_30252510,EDU,disced,30252510,DISCED education classification: 30252510,enhanced_english,medium,english
+EDU_disced_30252515,EDU,disced,30252515,DISCED education classification: 30252515,enhanced_english,medium,english
+EDU_disced_30252520,EDU,disced,30252520,DISCED education classification: 30252520,enhanced_english,medium,english
+EDU_disced_30253010,EDU,disced,30253010,DISCED education classification: 30253010,enhanced_english,medium,english
+EDU_disced_30253510,EDU,disced,30253510,DISCED education classification: 30253510,enhanced_english,medium,english
+EDU_disced_30254010,EDU,disced,30254010,DISCED education classification: 30254010,enhanced_english,medium,english
+EDU_disced_3030,EDU,disced,3030,Oplevelsesområdet (FJO),pt_dictionaries,highest,danish
+EDU_disced_30301010,EDU,disced,30301010,DISCED education classification: 30301010,enhanced_english,medium,english
+EDU_disced_30301510,EDU,disced,30301510,DISCED education classification: 30301510,enhanced_english,medium,english
+EDU_disced_30302010,EDU,disced,30302010,DISCED education classification: 30302010,enhanced_english,medium,english
+EDU_disced_30302510,EDU,disced,30302510,DISCED education classification: 30302510,enhanced_english,medium,english
+EDU_disced_3035,EDU,disced,3035,Byggeriområdet (TBT),pt_dictionaries,highest,danish
+EDU_disced_30351010,EDU,disced,30351010,DISCED education classification: 30351010,enhanced_english,medium,english
+EDU_disced_30351510,EDU,disced,30351510,DISCED education classification: 30351510,enhanced_english,medium,english
+EDU_disced_30352010,EDU,disced,30352010,DISCED education classification: 30352010,enhanced_english,medium,english
+EDU_disced_30352510,EDU,disced,30352510,DISCED education classification: 30352510,enhanced_english,medium,english
+EDU_disced_30353010,EDU,disced,30353010,DISCED education classification: 30353010,enhanced_english,medium,english
+EDU_disced_30353510,EDU,disced,30353510,DISCED education classification: 30353510,enhanced_english,medium,english
+EDU_disced_30353515,EDU,disced,30353515,DISCED education classification: 30353515,enhanced_english,medium,english
+EDU_disced_30354010,EDU,disced,30354010,DISCED education classification: 30354010,enhanced_english,medium,english
+EDU_disced_30354510,EDU,disced,30354510,DISCED education classification: 30354510,enhanced_english,medium,english
+EDU_disced_30355010,EDU,disced,30355010,DISCED education classification: 30355010,enhanced_english,medium,english
+EDU_disced_30355510,EDU,disced,30355510,DISCED education classification: 30355510,enhanced_english,medium,english
+EDU_disced_30355515,EDU,disced,30355515,DISCED education classification: 30355515,enhanced_english,medium,english
+EDU_disced_30355520,EDU,disced,30355520,DISCED education classification: 30355520,enhanced_english,medium,english
+EDU_disced_30355525,EDU,disced,30355525,DISCED education classification: 30355525,enhanced_english,medium,english
+EDU_disced_30355530,EDU,disced,30355530,DISCED education classification: 30355530,enhanced_english,medium,english
+EDU_disced_30355535,EDU,disced,30355535,DISCED education classification: 30355535,enhanced_english,medium,english
+EDU_disced_3040,EDU,disced,3040,"Teknologiområdet, strøm og elektronik mv. (TBT)",pt_dictionaries,highest,danish
+EDU_disced_30401010,EDU,disced,30401010,DISCED education classification: 30401010,enhanced_english,medium,english
+EDU_disced_30401510,EDU,disced,30401510,DISCED education classification: 30401510,enhanced_english,medium,english
+EDU_disced_30402010,EDU,disced,30402010,DISCED education classification: 30402010,enhanced_english,medium,english
+EDU_disced_30402510,EDU,disced,30402510,DISCED education classification: 30402510,enhanced_english,medium,english
+EDU_disced_30403010,EDU,disced,30403010,DISCED education classification: 30403010,enhanced_english,medium,english
+EDU_disced_30403015,EDU,disced,30403015,DISCED education classification: 30403015,enhanced_english,medium,english
+EDU_disced_30403020,EDU,disced,30403020,DISCED education classification: 30403020,enhanced_english,medium,english
+EDU_disced_30403510,EDU,disced,30403510,DISCED education classification: 30403510,enhanced_english,medium,english
+EDU_disced_30404010,EDU,disced,30404010,DISCED education classification: 30404010,enhanced_english,medium,english
+EDU_disced_30404015,EDU,disced,30404015,DISCED education classification: 30404015,enhanced_english,medium,english
+EDU_disced_30404020,EDU,disced,30404020,DISCED education classification: 30404020,enhanced_english,medium,english
+EDU_disced_3045,EDU,disced,3045,"Teknologiområdet, grafisk teknik og medieproduktion (TBT)",pt_dictionaries,highest,danish
+EDU_disced_30451010,EDU,disced,30451010,DISCED education classification: 30451010,enhanced_english,medium,english
+EDU_disced_30451510,EDU,disced,30451510,DISCED education classification: 30451510,enhanced_english,medium,english
+EDU_disced_30452010,EDU,disced,30452010,DISCED education classification: 30452010,enhanced_english,medium,english
+EDU_disced_30452510,EDU,disced,30452510,DISCED education classification: 30452510,enhanced_english,medium,english
+EDU_disced_30452515,EDU,disced,30452515,DISCED education classification: 30452515,enhanced_english,medium,english
+EDU_disced_30452520,EDU,disced,30452520,DISCED education classification: 30452520,enhanced_english,medium,english
+EDU_disced_30453010,EDU,disced,30453010,DISCED education classification: 30453010,enhanced_english,medium,english
+EDU_disced_30453510,EDU,disced,30453510,DISCED education classification: 30453510,enhanced_english,medium,english
+EDU_disced_3050,EDU,disced,3050,"Teknologiområdet, cykel-, auto- og skibsmekanik mv. (TBT)",pt_dictionaries,highest,danish
+EDU_disced_30501010,EDU,disced,30501010,DISCED education classification: 30501010,enhanced_english,medium,english
+EDU_disced_30501510,EDU,disced,30501510,DISCED education classification: 30501510,enhanced_english,medium,english
+EDU_disced_30501515,EDU,disced,30501515,DISCED education classification: 30501515,enhanced_english,medium,english
+EDU_disced_30501520,EDU,disced,30501520,DISCED education classification: 30501520,enhanced_english,medium,english
+EDU_disced_30501525,EDU,disced,30501525,DISCED education classification: 30501525,enhanced_english,medium,english
+EDU_disced_30501530,EDU,disced,30501530,DISCED education classification: 30501530,enhanced_english,medium,english
+EDU_disced_30501535,EDU,disced,30501535,DISCED education classification: 30501535,enhanced_english,medium,english
+EDU_disced_30502010,EDU,disced,30502010,DISCED education classification: 30502010,enhanced_english,medium,english
+EDU_disced_30502510,EDU,disced,30502510,DISCED education classification: 30502510,enhanced_english,medium,english
+EDU_disced_3055,EDU,disced,3055,"Teknologiområdet, maskinteknik og produktion (TBT)",pt_dictionaries,highest,danish
+EDU_disced_30551010,EDU,disced,30551010,DISCED education classification: 30551010,enhanced_english,medium,english
+EDU_disced_30551510,EDU,disced,30551510,DISCED education classification: 30551510,enhanced_english,medium,english
+EDU_disced_30551515,EDU,disced,30551515,DISCED education classification: 30551515,enhanced_english,medium,english
+EDU_disced_30552010,EDU,disced,30552010,DISCED education classification: 30552010,enhanced_english,medium,english
+EDU_disced_30552015,EDU,disced,30552015,DISCED education classification: 30552015,enhanced_english,medium,english
+EDU_disced_30552510,EDU,disced,30552510,DISCED education classification: 30552510,enhanced_english,medium,english
+EDU_disced_30553010,EDU,disced,30553010,DISCED education classification: 30553010,enhanced_english,medium,english
+EDU_disced_30553510,EDU,disced,30553510,DISCED education classification: 30553510,enhanced_english,medium,english
+EDU_disced_30553515,EDU,disced,30553515,DISCED education classification: 30553515,enhanced_english,medium,english
+EDU_disced_30553520,EDU,disced,30553520,DISCED education classification: 30553520,enhanced_english,medium,english
+EDU_disced_30553525,EDU,disced,30553525,DISCED education classification: 30553525,enhanced_english,medium,english
+EDU_disced_30554010,EDU,disced,30554010,DISCED education classification: 30554010,enhanced_english,medium,english
+EDU_disced_30554510,EDU,disced,30554510,DISCED education classification: 30554510,enhanced_english,medium,english
+EDU_disced_30555010,EDU,disced,30555010,DISCED education classification: 30555010,enhanced_english,medium,english
+EDU_disced_30555510,EDU,disced,30555510,DISCED education classification: 30555510,enhanced_english,medium,english
+EDU_disced_30556010,EDU,disced,30556010,DISCED education classification: 30556010,enhanced_english,medium,english
+EDU_disced_30556015,EDU,disced,30556015,DISCED education classification: 30556015,enhanced_english,medium,english
+EDU_disced_30556510,EDU,disced,30556510,DISCED education classification: 30556510,enhanced_english,medium,english
+EDU_disced_30556515,EDU,disced,30556515,DISCED education classification: 30556515,enhanced_english,medium,english
+EDU_disced_30557010,EDU,disced,30557010,DISCED education classification: 30557010,enhanced_english,medium,english
+EDU_disced_30557510,EDU,disced,30557510,DISCED education classification: 30557510,enhanced_english,medium,english
+EDU_disced_30558010,EDU,disced,30558010,DISCED education classification: 30558010,enhanced_english,medium,english
+EDU_disced_30558510,EDU,disced,30558510,DISCED education classification: 30558510,enhanced_english,medium,english
+EDU_disced_30559010,EDU,disced,30559010,DISCED education classification: 30559010,enhanced_english,medium,english
+EDU_disced_30559015,EDU,disced,30559015,DISCED education classification: 30559015,enhanced_english,medium,english
+EDU_disced_30559020,EDU,disced,30559020,DISCED education classification: 30559020,enhanced_english,medium,english
+EDU_disced_3060,EDU,disced,3060,Teknik- og industriuddannelser i øvrigt (TBT),pt_dictionaries,highest,danish
+EDU_disced_30601010,EDU,disced,30601010,DISCED education classification: 30601010,enhanced_english,medium,english
+EDU_disced_30601015,EDU,disced,30601015,DISCED education classification: 30601015,enhanced_english,medium,english
+EDU_disced_30601020,EDU,disced,30601020,DISCED education classification: 30601020,enhanced_english,medium,english
+EDU_disced_30601025,EDU,disced,30601025,DISCED education classification: 30601025,enhanced_english,medium,english
+EDU_disced_3065,EDU,disced,3065,Transport og logistikområdet (TBT),pt_dictionaries,highest,danish
+EDU_disced_30651010,EDU,disced,30651010,DISCED education classification: 30651010,enhanced_english,medium,english
+EDU_disced_30651510,EDU,disced,30651510,DISCED education classification: 30651510,enhanced_english,medium,english
+EDU_disced_30651515,EDU,disced,30651515,DISCED education classification: 30651515,enhanced_english,medium,english
+EDU_disced_30652010,EDU,disced,30652010,DISCED education classification: 30652010,enhanced_english,medium,english
+EDU_disced_30652510,EDU,disced,30652510,DISCED education classification: 30652510,enhanced_english,medium,english
+EDU_disced_30653010,EDU,disced,30653010,DISCED education classification: 30653010,enhanced_english,medium,english
+EDU_disced_30653510,EDU,disced,30653510,DISCED education classification: 30653510,enhanced_english,medium,english
+EDU_disced_30653515,EDU,disced,30653515,DISCED education classification: 30653515,enhanced_english,medium,english
+EDU_disced_30653520,EDU,disced,30653520,DISCED education classification: 30653520,enhanced_english,medium,english
+EDU_disced_30654010,EDU,disced,30654010,DISCED education classification: 30654010,enhanced_english,medium,english
+EDU_disced_3090,EDU,disced,3090,Andre erhvervsfaglige uddannelser,pt_dictionaries,highest,danish
+EDU_disced_30901010,EDU,disced,30901010,DISCED education classification: 30901010,enhanced_english,medium,english
+EDU_disced_30901510,EDU,disced,30901510,DISCED education classification: 30901510,enhanced_english,medium,english
+EDU_disced_30902010,EDU,disced,30902010,DISCED education classification: 30902010,enhanced_english,medium,english
+EDU_disced_30902510,EDU,disced,30902510,DISCED education classification: 30902510,enhanced_english,medium,english
+EDU_disced_3091,EDU,disced,3091,Grundforløb,pt_dictionaries,highest,danish
+EDU_disced_30911111,EDU,disced,30911111,DISCED education classification: 30911111,enhanced_english,medium,english
+EDU_disced_3097,EDU,disced,3097,Erhvervsfaglige uddannelser uden nærmere angivelse,pt_dictionaries,highest,danish
+EDU_disced_30971010,EDU,disced,30971010,DISCED education classification: 30971010,enhanced_english,medium,english
+EDU_disced_3510,EDU,disced,3510,Gymnasial supplering,pt_dictionaries,highest,danish
+EDU_disced_35101010,EDU,disced,35101010,DISCED education classification: 35101010,enhanced_english,medium,english
+EDU_disced_35101020,EDU,disced,35101020,DISCED education classification: 35101020,enhanced_english,medium,english
+EDU_disced_3520,EDU,disced,3520,Adgangseksamen - videregående uddannelse,pt_dictionaries,highest,danish
+EDU_disced_35201010,EDU,disced,35201010,DISCED education classification: 35201010,enhanced_english,medium,english
+EDU_disced_35301010,EDU,disced,35301010,DISCED education classification: 35301010,enhanced_english,medium,english
+EDU_disced_3910,EDU,disced,3910,"Omsorg, sundhed og pædagogik, AMU",pt_dictionaries,highest,danish
+EDU_disced_39101010,EDU,disced,39101010,DISCED education classification: 39101010,enhanced_english,medium,english
+EDU_disced_39101510,EDU,disced,39101510,DISCED education classification: 39101510,enhanced_english,medium,english
+EDU_disced_3915,EDU,disced,3915,"Kontor, handel og forretningsservice, AMU",pt_dictionaries,highest,danish
+EDU_disced_39152510,EDU,disced,39152510,DISCED education classification: 39152510,enhanced_english,medium,english
+EDU_disced_39155010,EDU,disced,39155010,DISCED education classification: 39155010,enhanced_english,medium,english
+EDU_disced_3920,EDU,disced,3920,"Fødevarer, AMU",pt_dictionaries,highest,danish
+EDU_disced_39202030,EDU,disced,39202030,DISCED education classification: 39202030,enhanced_english,medium,english
+EDU_disced_3925,EDU,disced,3925,"Jordbrug og natur, AMU",pt_dictionaries,highest,danish
+EDU_disced_39254010,EDU,disced,39254010,DISCED education classification: 39254010,enhanced_english,medium,english
+EDU_disced_3935,EDU,disced,3935,"Byggeriområdet, AMU",pt_dictionaries,highest,danish
+EDU_disced_39351010,EDU,disced,39351010,DISCED education classification: 39351010,enhanced_english,medium,english
+EDU_disced_3940,EDU,disced,3940,"Teknologiområdet, strøm og elektronik mv., AMU",pt_dictionaries,highest,danish
+EDU_disced_3945,EDU,disced,3945,"Teknologiområdet, grafisk teknik og medieproduktion, AMU",pt_dictionaries,highest,danish
+EDU_disced_39453010,EDU,disced,39453010,DISCED education classification: 39453010,enhanced_english,medium,english
+EDU_disced_3950,EDU,disced,3950,"Teknologiområdet, cykel-, auto- og skibsmekanik mv., AMU",pt_dictionaries,highest,danish
+EDU_disced_3955,EDU,disced,3955,"Teknologiområdet, maskinteknik og produktion, AMU",pt_dictionaries,highest,danish
+EDU_disced_39551060,EDU,disced,39551060,DISCED education classification: 39551060,enhanced_english,medium,english
+EDU_disced_39553525,EDU,disced,39553525,DISCED education classification: 39553525,enhanced_english,medium,english
+EDU_disced_3965,EDU,disced,3965,"Transport og logistikområdet, AMU",pt_dictionaries,highest,danish
+EDU_disced_39654010,EDU,disced,39654010,DISCED education classification: 39654010,enhanced_english,medium,english
+EDU_disced_3990,EDU,disced,3990,"Andre arbejdsmarkedsuddannelser, AMU",pt_dictionaries,highest,danish
+EDU_disced_3998,EDU,disced,3998,"Efterudd., specialarb., fagl., andre grupper, AMU",pt_dictionaries,highest,danish
+EDU_disced_4020,EDU,disced,4020,"Pædagogisk, KVU",pt_dictionaries,highest,danish
+EDU_disced_40202515,EDU,disced,40202515,DISCED education classification: 40202515,enhanced_english,medium,english
+EDU_disced_4024,EDU,disced,4024,"Medier og kommunikation, KVU",pt_dictionaries,highest,danish
+EDU_disced_40241010,EDU,disced,40241010,DISCED education classification: 40241010,enhanced_english,medium,english
+EDU_disced_40241510,EDU,disced,40241510,DISCED education classification: 40241510,enhanced_english,medium,english
+EDU_disced_40242010,EDU,disced,40242010,DISCED education classification: 40242010,enhanced_english,medium,english
+EDU_disced_40244010,EDU,disced,40244010,DISCED education classification: 40244010,enhanced_english,medium,english
+EDU_disced_4025,EDU,disced,4025,"Humanistisk og teologisk, KVU",pt_dictionaries,highest,danish
+EDU_disced_40258010,EDU,disced,40258010,DISCED education classification: 40258010,enhanced_english,medium,english
+EDU_disced_40259015,EDU,disced,40259015,DISCED education classification: 40259015,enhanced_english,medium,english
+EDU_disced_4030,EDU,disced,4030,"Kunstnerisk, KVU",pt_dictionaries,highest,danish
+EDU_disced_40301010,EDU,disced,40301010,DISCED education classification: 40301010,enhanced_english,medium,english
+EDU_disced_40305510,EDU,disced,40305510,DISCED education classification: 40305510,enhanced_english,medium,english
+EDU_disced_40306555,EDU,disced,40306555,DISCED education classification: 40306555,enhanced_english,medium,english
+EDU_disced_40309010,EDU,disced,40309010,DISCED education classification: 40309010,enhanced_english,medium,english
+EDU_disced_4038,EDU,disced,4038,"Samfundsfaglig, Økonomisk-Merkantil, KVU",pt_dictionaries,highest,danish
+EDU_disced_40381010,EDU,disced,40381010,DISCED education classification: 40381010,enhanced_english,medium,english
+EDU_disced_40381510,EDU,disced,40381510,DISCED education classification: 40381510,enhanced_english,medium,english
+EDU_disced_40382010,EDU,disced,40382010,DISCED education classification: 40382010,enhanced_english,medium,english
+EDU_disced_40382510,EDU,disced,40382510,DISCED education classification: 40382510,enhanced_english,medium,english
+EDU_disced_40383010,EDU,disced,40383010,DISCED education classification: 40383010,enhanced_english,medium,english
+EDU_disced_40383510,EDU,disced,40383510,DISCED education classification: 40383510,enhanced_english,medium,english
+EDU_disced_4058,EDU,disced,4058,"Teknisk, KVU",pt_dictionaries,highest,danish
+EDU_disced_40581010,EDU,disced,40581010,DISCED education classification: 40581010,enhanced_english,medium,english
+EDU_disced_40581515,EDU,disced,40581515,DISCED education classification: 40581515,enhanced_english,medium,english
+EDU_disced_40582010,EDU,disced,40582010,DISCED education classification: 40582010,enhanced_english,medium,english
+EDU_disced_40582015,EDU,disced,40582015,DISCED education classification: 40582015,enhanced_english,medium,english
+EDU_disced_40582020,EDU,disced,40582020,DISCED education classification: 40582020,enhanced_english,medium,english
+EDU_disced_40582410,EDU,disced,40582410,DISCED education classification: 40582410,enhanced_english,medium,english
+EDU_disced_40582415,EDU,disced,40582415,DISCED education classification: 40582415,enhanced_english,medium,english
+EDU_disced_40582420,EDU,disced,40582420,DISCED education classification: 40582420,enhanced_english,medium,english
+EDU_disced_40582510,EDU,disced,40582510,DISCED education classification: 40582510,enhanced_english,medium,english
+EDU_disced_40583015,EDU,disced,40583015,DISCED education classification: 40583015,enhanced_english,medium,english
+EDU_disced_40583510,EDU,disced,40583510,DISCED education classification: 40583510,enhanced_english,medium,english
+EDU_disced_40584010,EDU,disced,40584010,DISCED education classification: 40584010,enhanced_english,medium,english
+EDU_disced_40585010,EDU,disced,40585010,DISCED education classification: 40585010,enhanced_english,medium,english
+EDU_disced_40585015,EDU,disced,40585015,DISCED education classification: 40585015,enhanced_english,medium,english
+EDU_disced_40585020,EDU,disced,40585020,DISCED education classification: 40585020,enhanced_english,medium,english
+EDU_disced_40589515,EDU,disced,40589515,DISCED education classification: 40589515,enhanced_english,medium,english
+EDU_disced_40589530,EDU,disced,40589530,DISCED education classification: 40589530,enhanced_english,medium,english
+EDU_disced_4075,EDU,disced,4075,"Fødevarer, bio- og laboratorieteknik, KVU",pt_dictionaries,highest,danish
+EDU_disced_40751010,EDU,disced,40751010,DISCED education classification: 40751010,enhanced_english,medium,english
+EDU_disced_40751510,EDU,disced,40751510,DISCED education classification: 40751510,enhanced_english,medium,english
+EDU_disced_40751590,EDU,disced,40751590,DISCED education classification: 40751590,enhanced_english,medium,english
+EDU_disced_40751710,EDU,disced,40751710,DISCED education classification: 40751710,enhanced_english,medium,english
+EDU_disced_4080,EDU,disced,4080,"Jordbrug, natur og miljø, KVU",pt_dictionaries,highest,danish
+EDU_disced_40801010,EDU,disced,40801010,DISCED education classification: 40801010,enhanced_english,medium,english
+EDU_disced_40801510,EDU,disced,40801510,DISCED education classification: 40801510,enhanced_english,medium,english
+EDU_disced_4085,EDU,disced,4085,"Maritimt, KVU",pt_dictionaries,highest,danish
+EDU_disced_40851510,EDU,disced,40851510,DISCED education classification: 40851510,enhanced_english,medium,english
+EDU_disced_40859510,EDU,disced,40859510,DISCED education classification: 40859510,enhanced_english,medium,english
+EDU_disced_4089,EDU,disced,4089,"Sundhedsfaglig, KVU",pt_dictionaries,highest,danish
+EDU_disced_40891010,EDU,disced,40891010,DISCED education classification: 40891010,enhanced_english,medium,english
+EDU_disced_40892510,EDU,disced,40892510,DISCED education classification: 40892510,enhanced_english,medium,english
+EDU_disced_40894010,EDU,disced,40894010,DISCED education classification: 40894010,enhanced_english,medium,english
+EDU_disced_40894515,EDU,disced,40894515,DISCED education classification: 40894515,enhanced_english,medium,english
+EDU_disced_40894525,EDU,disced,40894525,DISCED education classification: 40894525,enhanced_english,medium,english
+EDU_disced_40894590,EDU,disced,40894590,DISCED education classification: 40894590,enhanced_english,medium,english
+EDU_disced_4095,EDU,disced,4095,"Politi og forsvar mv., KVU",pt_dictionaries,highest,danish
+EDU_disced_40951010,EDU,disced,40951010,DISCED education classification: 40951010,enhanced_english,medium,english
+EDU_disced_40951510,EDU,disced,40951510,DISCED education classification: 40951510,enhanced_english,medium,english
+EDU_disced_4097,EDU,disced,4097,"Videregående uddannelser uden nærmere angivelse, KVU",pt_dictionaries,highest,danish
+EDU_disced_40971010,EDU,disced,40971010,DISCED education classification: 40971010,enhanced_english,medium,english
+EDU_disced_5020,EDU,disced,5020,"Pædagogisk, MVU",pt_dictionaries,highest,danish
+EDU_disced_50201010,EDU,disced,50201010,DISCED education classification: 50201010,enhanced_english,medium,english
+EDU_disced_50201510,EDU,disced,50201510,DISCED education classification: 50201510,enhanced_english,medium,english
+EDU_disced_50202010,EDU,disced,50202010,DISCED education classification: 50202010,enhanced_english,medium,english
+EDU_disced_50202510,EDU,disced,50202510,DISCED education classification: 50202510,enhanced_english,medium,english
+EDU_disced_50202515,EDU,disced,50202515,DISCED education classification: 50202515,enhanced_english,medium,english
+EDU_disced_50203015,EDU,disced,50203015,DISCED education classification: 50203015,enhanced_english,medium,english
+EDU_disced_50203020,EDU,disced,50203020,DISCED education classification: 50203020,enhanced_english,medium,english
+EDU_disced_5024,EDU,disced,5024,"Medier og kommunikation, MVU",pt_dictionaries,highest,danish
+EDU_disced_50241010,EDU,disced,50241010,DISCED education classification: 50241010,enhanced_english,medium,english
+EDU_disced_50242010,EDU,disced,50242010,DISCED education classification: 50242010,enhanced_english,medium,english
+EDU_disced_50242510,EDU,disced,50242510,DISCED education classification: 50242510,enhanced_english,medium,english
+EDU_disced_50243010,EDU,disced,50243010,DISCED education classification: 50243010,enhanced_english,medium,english
+EDU_disced_50243510,EDU,disced,50243510,DISCED education classification: 50243510,enhanced_english,medium,english
+EDU_disced_50244010,EDU,disced,50244010,DISCED education classification: 50244010,enhanced_english,medium,english
+EDU_disced_5025,EDU,disced,5025,"Humanistisk og teologisk, MVU",pt_dictionaries,highest,danish
+EDU_disced_50253510,EDU,disced,50253510,DISCED education classification: 50253510,enhanced_english,medium,english
+EDU_disced_50258015,EDU,disced,50258015,DISCED education classification: 50258015,enhanced_english,medium,english
+EDU_disced_50258210,EDU,disced,50258210,DISCED education classification: 50258210,enhanced_english,medium,english
+EDU_disced_50258215,EDU,disced,50258215,DISCED education classification: 50258215,enhanced_english,medium,english
+EDU_disced_50259010,EDU,disced,50259010,DISCED education classification: 50259010,enhanced_english,medium,english
+EDU_disced_50259020,EDU,disced,50259020,DISCED education classification: 50259020,enhanced_english,medium,english
+EDU_disced_5030,EDU,disced,5030,"Kunstnerisk, MVU",pt_dictionaries,highest,danish
+EDU_disced_50301010,EDU,disced,50301010,DISCED education classification: 50301010,enhanced_english,medium,english
+EDU_disced_50303010,EDU,disced,50303010,DISCED education classification: 50303010,enhanced_english,medium,english
+EDU_disced_50303015,EDU,disced,50303015,DISCED education classification: 50303015,enhanced_english,medium,english
+EDU_disced_50303020,EDU,disced,50303020,DISCED education classification: 50303020,enhanced_english,medium,english
+EDU_disced_50303025,EDU,disced,50303025,DISCED education classification: 50303025,enhanced_english,medium,english
+EDU_disced_50303030,EDU,disced,50303030,DISCED education classification: 50303030,enhanced_english,medium,english
+EDU_disced_50303035,EDU,disced,50303035,DISCED education classification: 50303035,enhanced_english,medium,english
+EDU_disced_50303040,EDU,disced,50303040,DISCED education classification: 50303040,enhanced_english,medium,english
+EDU_disced_50303045,EDU,disced,50303045,DISCED education classification: 50303045,enhanced_english,medium,english
+EDU_disced_50303050,EDU,disced,50303050,DISCED education classification: 50303050,enhanced_english,medium,english
+EDU_disced_50303510,EDU,disced,50303510,DISCED education classification: 50303510,enhanced_english,medium,english
+EDU_disced_50303515,EDU,disced,50303515,DISCED education classification: 50303515,enhanced_english,medium,english
+EDU_disced_50303520,EDU,disced,50303520,DISCED education classification: 50303520,enhanced_english,medium,english
+EDU_disced_50304010,EDU,disced,50304010,DISCED education classification: 50304010,enhanced_english,medium,english
+EDU_disced_50304510,EDU,disced,50304510,DISCED education classification: 50304510,enhanced_english,medium,english
+EDU_disced_50305010,EDU,disced,50305010,DISCED education classification: 50305010,enhanced_english,medium,english
+EDU_disced_50306540,EDU,disced,50306540,DISCED education classification: 50306540,enhanced_english,medium,english
+EDU_disced_50306555,EDU,disced,50306555,DISCED education classification: 50306555,enhanced_english,medium,english
+EDU_disced_5038,EDU,disced,5038,"Samfundsfaglig, Økonomisk-Merkantil, MVU",pt_dictionaries,highest,danish
+EDU_disced_50381010,EDU,disced,50381010,DISCED education classification: 50381010,enhanced_english,medium,english
+EDU_disced_50381510,EDU,disced,50381510,DISCED education classification: 50381510,enhanced_english,medium,english
+EDU_disced_50382010,EDU,disced,50382010,DISCED education classification: 50382010,enhanced_english,medium,english
+EDU_disced_50382510,EDU,disced,50382510,DISCED education classification: 50382510,enhanced_english,medium,english
+EDU_disced_50383010,EDU,disced,50383010,DISCED education classification: 50383010,enhanced_english,medium,english
+EDU_disced_50384010,EDU,disced,50384010,DISCED education classification: 50384010,enhanced_english,medium,english
+EDU_disced_50384510,EDU,disced,50384510,DISCED education classification: 50384510,enhanced_english,medium,english
+EDU_disced_5039,EDU,disced,5039,"Samfundsvidenskab, MVU",pt_dictionaries,highest,danish
+EDU_disced_50391510,EDU,disced,50391510,DISCED education classification: 50391510,enhanced_english,medium,english
+EDU_disced_5058,EDU,disced,5058,"Teknisk, MVU",pt_dictionaries,highest,danish
+EDU_disced_50581010,EDU,disced,50581010,DISCED education classification: 50581010,enhanced_english,medium,english
+EDU_disced_50581510,EDU,disced,50581510,DISCED education classification: 50581510,enhanced_english,medium,english
+EDU_disced_50581515,EDU,disced,50581515,DISCED education classification: 50581515,enhanced_english,medium,english
+EDU_disced_50582010,EDU,disced,50582010,DISCED education classification: 50582010,enhanced_english,medium,english
+EDU_disced_50582015,EDU,disced,50582015,DISCED education classification: 50582015,enhanced_english,medium,english
+EDU_disced_50582020,EDU,disced,50582020,DISCED education classification: 50582020,enhanced_english,medium,english
+EDU_disced_50582510,EDU,disced,50582510,DISCED education classification: 50582510,enhanced_english,medium,english
+EDU_disced_50583010,EDU,disced,50583010,DISCED education classification: 50583010,enhanced_english,medium,english
+EDU_disced_50583015,EDU,disced,50583015,DISCED education classification: 50583015,enhanced_english,medium,english
+EDU_disced_50584010,EDU,disced,50584010,DISCED education classification: 50584010,enhanced_english,medium,english
+EDU_disced_50584510,EDU,disced,50584510,DISCED education classification: 50584510,enhanced_english,medium,english
+EDU_disced_50585015,EDU,disced,50585015,DISCED education classification: 50585015,enhanced_english,medium,english
+EDU_disced_50585020,EDU,disced,50585020,DISCED education classification: 50585020,enhanced_english,medium,english
+EDU_disced_50589510,EDU,disced,50589510,DISCED education classification: 50589510,enhanced_english,medium,english
+EDU_disced_50589515,EDU,disced,50589515,DISCED education classification: 50589515,enhanced_english,medium,english
+EDU_disced_50589520,EDU,disced,50589520,DISCED education classification: 50589520,enhanced_english,medium,english
+EDU_disced_50589525,EDU,disced,50589525,DISCED education classification: 50589525,enhanced_english,medium,english
+EDU_disced_50589530,EDU,disced,50589530,DISCED education classification: 50589530,enhanced_english,medium,english
+EDU_disced_5059,EDU,disced,5059,"Teknisk videnskab, MVU",pt_dictionaries,highest,danish
+EDU_disced_50591010,EDU,disced,50591010,DISCED education classification: 50591010,enhanced_english,medium,english
+EDU_disced_50591520,EDU,disced,50591520,DISCED education classification: 50591520,enhanced_english,medium,english
+EDU_disced_50592510,EDU,disced,50592510,DISCED education classification: 50592510,enhanced_english,medium,english
+EDU_disced_50593010,EDU,disced,50593010,DISCED education classification: 50593010,enhanced_english,medium,english
+EDU_disced_50593510,EDU,disced,50593510,DISCED education classification: 50593510,enhanced_english,medium,english
+EDU_disced_50594015,EDU,disced,50594015,DISCED education classification: 50594015,enhanced_english,medium,english
+EDU_disced_50595010,EDU,disced,50595010,DISCED education classification: 50595010,enhanced_english,medium,english
+EDU_disced_50597010,EDU,disced,50597010,DISCED education classification: 50597010,enhanced_english,medium,english
+EDU_disced_5075,EDU,disced,5075,"Fødevarer, Bio- og laboratorieteknik, MVU",pt_dictionaries,highest,danish
+EDU_disced_50751010,EDU,disced,50751010,DISCED education classification: 50751010,enhanced_english,medium,english
+EDU_disced_50751510,EDU,disced,50751510,DISCED education classification: 50751510,enhanced_english,medium,english
+EDU_disced_50752010,EDU,disced,50752010,DISCED education classification: 50752010,enhanced_english,medium,english
+EDU_disced_5080,EDU,disced,5080,"Jordbrug, natur og miljø, MVU",pt_dictionaries,highest,danish
+EDU_disced_50801010,EDU,disced,50801010,DISCED education classification: 50801010,enhanced_english,medium,english
+EDU_disced_50802015,EDU,disced,50802015,DISCED education classification: 50802015,enhanced_english,medium,english
+EDU_disced_50802016,EDU,disced,50802016,DISCED education classification: 50802016,enhanced_english,medium,english
+EDU_disced_50804510,EDU,disced,50804510,DISCED education classification: 50804510,enhanced_english,medium,english
+EDU_disced_50805090,EDU,disced,50805090,DISCED education classification: 50805090,enhanced_english,medium,english
+EDU_disced_5085,EDU,disced,5085,"Maritimt, MVU",pt_dictionaries,highest,danish
+EDU_disced_50851510,EDU,disced,50851510,DISCED education classification: 50851510,enhanced_english,medium,english
+EDU_disced_50852010,EDU,disced,50852010,DISCED education classification: 50852010,enhanced_english,medium,english
+EDU_disced_50852015,EDU,disced,50852015,DISCED education classification: 50852015,enhanced_english,medium,english
+EDU_disced_50852020,EDU,disced,50852020,DISCED education classification: 50852020,enhanced_english,medium,english
+EDU_disced_50859510,EDU,disced,50859510,DISCED education classification: 50859510,enhanced_english,medium,english
+EDU_disced_5089,EDU,disced,5089,"Sundhedsfaglig, MVU",pt_dictionaries,highest,danish
+EDU_disced_50891010,EDU,disced,50891010,DISCED education classification: 50891010,enhanced_english,medium,english
+EDU_disced_50891210,EDU,disced,50891210,DISCED education classification: 50891210,enhanced_english,medium,english
+EDU_disced_50891510,EDU,disced,50891510,DISCED education classification: 50891510,enhanced_english,medium,english
+EDU_disced_50892010,EDU,disced,50892010,DISCED education classification: 50892010,enhanced_english,medium,english
+EDU_disced_50892510,EDU,disced,50892510,DISCED education classification: 50892510,enhanced_english,medium,english
+EDU_disced_50893010,EDU,disced,50893010,DISCED education classification: 50893010,enhanced_english,medium,english
+EDU_disced_50893510,EDU,disced,50893510,DISCED education classification: 50893510,enhanced_english,medium,english
+EDU_disced_50894010,EDU,disced,50894010,DISCED education classification: 50894010,enhanced_english,medium,english
+EDU_disced_50894510,EDU,disced,50894510,DISCED education classification: 50894510,enhanced_english,medium,english
+EDU_disced_50894520,EDU,disced,50894520,DISCED education classification: 50894520,enhanced_english,medium,english
+EDU_disced_50894525,EDU,disced,50894525,DISCED education classification: 50894525,enhanced_english,medium,english
+EDU_disced_50894590,EDU,disced,50894590,DISCED education classification: 50894590,enhanced_english,medium,english
+EDU_disced_5095,EDU,disced,5095,"Politi og forsvar mv., MVU",pt_dictionaries,highest,danish
+EDU_disced_50951010,EDU,disced,50951010,DISCED education classification: 50951010,enhanced_english,medium,english
+EDU_disced_50952510,EDU,disced,50952510,DISCED education classification: 50952510,enhanced_english,medium,english
+EDU_disced_50952515,EDU,disced,50952515,DISCED education classification: 50952515,enhanced_english,medium,english
+EDU_disced_50952520,EDU,disced,50952520,DISCED education classification: 50952520,enhanced_english,medium,english
+EDU_disced_50952525,EDU,disced,50952525,DISCED education classification: 50952525,enhanced_english,medium,english
+EDU_disced_50952530,EDU,disced,50952530,DISCED education classification: 50952530,enhanced_english,medium,english
+EDU_disced_5097,EDU,disced,5097,"Videregående uddannelser uden nærmere angivelse, MVU",pt_dictionaries,highest,danish
+EDU_disced_50971010,EDU,disced,50971010,DISCED education classification: 50971010,enhanced_english,medium,english
+EDU_disced_6020,EDU,disced,6020,"Pædagogisk, BACH",pt_dictionaries,highest,danish
+EDU_disced_60203010,EDU,disced,60203010,DISCED education classification: 60203010,enhanced_english,medium,english
+EDU_disced_60203020,EDU,disced,60203020,DISCED education classification: 60203020,enhanced_english,medium,english
+EDU_disced_6025,EDU,disced,6025,"Humanistisk og teologisk, BACH",pt_dictionaries,highest,danish
+EDU_disced_60251010,EDU,disced,60251010,DISCED education classification: 60251010,enhanced_english,medium,english
+EDU_disced_60251205,EDU,disced,60251205,DISCED education classification: 60251205,enhanced_english,medium,english
+EDU_disced_60251210,EDU,disced,60251210,DISCED education classification: 60251210,enhanced_english,medium,english
+EDU_disced_60251215,EDU,disced,60251215,DISCED education classification: 60251215,enhanced_english,medium,english
+EDU_disced_60251220,EDU,disced,60251220,DISCED education classification: 60251220,enhanced_english,medium,english
+EDU_disced_60251225,EDU,disced,60251225,DISCED education classification: 60251225,enhanced_english,medium,english
+EDU_disced_60251510,EDU,disced,60251510,DISCED education classification: 60251510,enhanced_english,medium,english
+EDU_disced_60251710,EDU,disced,60251710,DISCED education classification: 60251710,enhanced_english,medium,english
+EDU_disced_60252010,EDU,disced,60252010,DISCED education classification: 60252010,enhanced_english,medium,english
+EDU_disced_60252210,EDU,disced,60252210,DISCED education classification: 60252210,enhanced_english,medium,english
+EDU_disced_60252510,EDU,disced,60252510,DISCED education classification: 60252510,enhanced_english,medium,english
+EDU_disced_60252610,EDU,disced,60252610,DISCED education classification: 60252610,enhanced_english,medium,english
+EDU_disced_60252615,EDU,disced,60252615,DISCED education classification: 60252615,enhanced_english,medium,english
+EDU_disced_60252620,EDU,disced,60252620,DISCED education classification: 60252620,enhanced_english,medium,english
+EDU_disced_60252710,EDU,disced,60252710,DISCED education classification: 60252710,enhanced_english,medium,english
+EDU_disced_60253010,EDU,disced,60253010,DISCED education classification: 60253010,enhanced_english,medium,english
+EDU_disced_60253015,EDU,disced,60253015,DISCED education classification: 60253015,enhanced_english,medium,english
+EDU_disced_60253210,EDU,disced,60253210,DISCED education classification: 60253210,enhanced_english,medium,english
+EDU_disced_60253215,EDU,disced,60253215,DISCED education classification: 60253215,enhanced_english,medium,english
+EDU_disced_60253510,EDU,disced,60253510,DISCED education classification: 60253510,enhanced_english,medium,english
+EDU_disced_60254010,EDU,disced,60254010,DISCED education classification: 60254010,enhanced_english,medium,english
+EDU_disced_60254210,EDU,disced,60254210,DISCED education classification: 60254210,enhanced_english,medium,english
+EDU_disced_60254510,EDU,disced,60254510,DISCED education classification: 60254510,enhanced_english,medium,english
+EDU_disced_60255010,EDU,disced,60255010,DISCED education classification: 60255010,enhanced_english,medium,english
+EDU_disced_60255210,EDU,disced,60255210,DISCED education classification: 60255210,enhanced_english,medium,english
+EDU_disced_60255510,EDU,disced,60255510,DISCED education classification: 60255510,enhanced_english,medium,english
+EDU_disced_60255515,EDU,disced,60255515,DISCED education classification: 60255515,enhanced_english,medium,english
+EDU_disced_60255520,EDU,disced,60255520,DISCED education classification: 60255520,enhanced_english,medium,english
+EDU_disced_60255525,EDU,disced,60255525,DISCED education classification: 60255525,enhanced_english,medium,english
+EDU_disced_60255530,EDU,disced,60255530,DISCED education classification: 60255530,enhanced_english,medium,english
+EDU_disced_60255710,EDU,disced,60255710,DISCED education classification: 60255710,enhanced_english,medium,english
+EDU_disced_60255715,EDU,disced,60255715,DISCED education classification: 60255715,enhanced_english,medium,english
+EDU_disced_60255720,EDU,disced,60255720,DISCED education classification: 60255720,enhanced_english,medium,english
+EDU_disced_60255725,EDU,disced,60255725,DISCED education classification: 60255725,enhanced_english,medium,english
+EDU_disced_60255730,EDU,disced,60255730,DISCED education classification: 60255730,enhanced_english,medium,english
+EDU_disced_60256010,EDU,disced,60256010,DISCED education classification: 60256010,enhanced_english,medium,english
+EDU_disced_60256210,EDU,disced,60256210,DISCED education classification: 60256210,enhanced_english,medium,english
+EDU_disced_60256215,EDU,disced,60256215,DISCED education classification: 60256215,enhanced_english,medium,english
+EDU_disced_60256220,EDU,disced,60256220,DISCED education classification: 60256220,enhanced_english,medium,english
+EDU_disced_60256310,EDU,disced,60256310,DISCED education classification: 60256310,enhanced_english,medium,english
+EDU_disced_60256315,EDU,disced,60256315,DISCED education classification: 60256315,enhanced_english,medium,english
+EDU_disced_60256320,EDU,disced,60256320,DISCED education classification: 60256320,enhanced_english,medium,english
+EDU_disced_60256325,EDU,disced,60256325,DISCED education classification: 60256325,enhanced_english,medium,english
+EDU_disced_60256330,EDU,disced,60256330,DISCED education classification: 60256330,enhanced_english,medium,english
+EDU_disced_60256510,EDU,disced,60256510,DISCED education classification: 60256510,enhanced_english,medium,english
+EDU_disced_60256515,EDU,disced,60256515,DISCED education classification: 60256515,enhanced_english,medium,english
+EDU_disced_60256520,EDU,disced,60256520,DISCED education classification: 60256520,enhanced_english,medium,english
+EDU_disced_60257010,EDU,disced,60257010,DISCED education classification: 60257010,enhanced_english,medium,english
+EDU_disced_60257025,EDU,disced,60257025,DISCED education classification: 60257025,enhanced_english,medium,english
+EDU_disced_60257110,EDU,disced,60257110,DISCED education classification: 60257110,enhanced_english,medium,english
+EDU_disced_60257510,EDU,disced,60257510,DISCED education classification: 60257510,enhanced_english,medium,english
+EDU_disced_60257515,EDU,disced,60257515,DISCED education classification: 60257515,enhanced_english,medium,english
+EDU_disced_60257520,EDU,disced,60257520,DISCED education classification: 60257520,enhanced_english,medium,english
+EDU_disced_60257525,EDU,disced,60257525,DISCED education classification: 60257525,enhanced_english,medium,english
+EDU_disced_60257530,EDU,disced,60257530,DISCED education classification: 60257530,enhanced_english,medium,english
+EDU_disced_60258510,EDU,disced,60258510,DISCED education classification: 60258510,enhanced_english,medium,english
+EDU_disced_60258910,EDU,disced,60258910,DISCED education classification: 60258910,enhanced_english,medium,english
+EDU_disced_60258915,EDU,disced,60258915,DISCED education classification: 60258915,enhanced_english,medium,english
+EDU_disced_60258920,EDU,disced,60258920,DISCED education classification: 60258920,enhanced_english,medium,english
+EDU_disced_60259510,EDU,disced,60259510,DISCED education classification: 60259510,enhanced_english,medium,english
+EDU_disced_60259525,EDU,disced,60259525,DISCED education classification: 60259525,enhanced_english,medium,english
+EDU_disced_60259710,EDU,disced,60259710,DISCED education classification: 60259710,enhanced_english,medium,english
+EDU_disced_6030,EDU,disced,6030,"Kunstnerisk, BACH",pt_dictionaries,highest,danish
+EDU_disced_60301010,EDU,disced,60301010,DISCED education classification: 60301010,enhanced_english,medium,english
+EDU_disced_60301510,EDU,disced,60301510,DISCED education classification: 60301510,enhanced_english,medium,english
+EDU_disced_60302010,EDU,disced,60302010,DISCED education classification: 60302010,enhanced_english,medium,english
+EDU_disced_60303510,EDU,disced,60303510,DISCED education classification: 60303510,enhanced_english,medium,english
+EDU_disced_60303515,EDU,disced,60303515,DISCED education classification: 60303515,enhanced_english,medium,english
+EDU_disced_60303520,EDU,disced,60303520,DISCED education classification: 60303520,enhanced_english,medium,english
+EDU_disced_60304010,EDU,disced,60304010,DISCED education classification: 60304010,enhanced_english,medium,english
+EDU_disced_60304510,EDU,disced,60304510,DISCED education classification: 60304510,enhanced_english,medium,english
+EDU_disced_60305010,EDU,disced,60305010,DISCED education classification: 60305010,enhanced_english,medium,english
+EDU_disced_60305015,EDU,disced,60305015,DISCED education classification: 60305015,enhanced_english,medium,english
+EDU_disced_60305020,EDU,disced,60305020,DISCED education classification: 60305020,enhanced_english,medium,english
+EDU_disced_60305030,EDU,disced,60305030,DISCED education classification: 60305030,enhanced_english,medium,english
+EDU_disced_60305035,EDU,disced,60305035,DISCED education classification: 60305035,enhanced_english,medium,english
+EDU_disced_60305040,EDU,disced,60305040,DISCED education classification: 60305040,enhanced_english,medium,english
+EDU_disced_60305045,EDU,disced,60305045,DISCED education classification: 60305045,enhanced_english,medium,english
+EDU_disced_60305050,EDU,disced,60305050,DISCED education classification: 60305050,enhanced_english,medium,english
+EDU_disced_60306010,EDU,disced,60306010,DISCED education classification: 60306010,enhanced_english,medium,english
+EDU_disced_60306015,EDU,disced,60306015,DISCED education classification: 60306015,enhanced_english,medium,english
+EDU_disced_60306020,EDU,disced,60306020,DISCED education classification: 60306020,enhanced_english,medium,english
+EDU_disced_60306025,EDU,disced,60306025,DISCED education classification: 60306025,enhanced_english,medium,english
+EDU_disced_60306030,EDU,disced,60306030,DISCED education classification: 60306030,enhanced_english,medium,english
+EDU_disced_60306035,EDU,disced,60306035,DISCED education classification: 60306035,enhanced_english,medium,english
+EDU_disced_60306510,EDU,disced,60306510,DISCED education classification: 60306510,enhanced_english,medium,english
+EDU_disced_60306515,EDU,disced,60306515,DISCED education classification: 60306515,enhanced_english,medium,english
+EDU_disced_60306520,EDU,disced,60306520,DISCED education classification: 60306520,enhanced_english,medium,english
+EDU_disced_60306525,EDU,disced,60306525,DISCED education classification: 60306525,enhanced_english,medium,english
+EDU_disced_60306530,EDU,disced,60306530,DISCED education classification: 60306530,enhanced_english,medium,english
+EDU_disced_60306540,EDU,disced,60306540,DISCED education classification: 60306540,enhanced_english,medium,english
+EDU_disced_60306555,EDU,disced,60306555,DISCED education classification: 60306555,enhanced_english,medium,english
+EDU_disced_6035,EDU,disced,6035,"Naturvidenskab, BACH",pt_dictionaries,highest,danish
+EDU_disced_60351010,EDU,disced,60351010,DISCED education classification: 60351010,enhanced_english,medium,english
+EDU_disced_60351510,EDU,disced,60351510,DISCED education classification: 60351510,enhanced_english,medium,english
+EDU_disced_60351710,EDU,disced,60351710,DISCED education classification: 60351710,enhanced_english,medium,english
+EDU_disced_60352010,EDU,disced,60352010,DISCED education classification: 60352010,enhanced_english,medium,english
+EDU_disced_60352015,EDU,disced,60352015,DISCED education classification: 60352015,enhanced_english,medium,english
+EDU_disced_60352210,EDU,disced,60352210,DISCED education classification: 60352210,enhanced_english,medium,english
+EDU_disced_60352510,EDU,disced,60352510,DISCED education classification: 60352510,enhanced_english,medium,english
+EDU_disced_60353010,EDU,disced,60353010,DISCED education classification: 60353010,enhanced_english,medium,english
+EDU_disced_60353015,EDU,disced,60353015,DISCED education classification: 60353015,enhanced_english,medium,english
+EDU_disced_60353020,EDU,disced,60353020,DISCED education classification: 60353020,enhanced_english,medium,english
+EDU_disced_60353025,EDU,disced,60353025,DISCED education classification: 60353025,enhanced_english,medium,english
+EDU_disced_60353510,EDU,disced,60353510,DISCED education classification: 60353510,enhanced_english,medium,english
+EDU_disced_60353710,EDU,disced,60353710,DISCED education classification: 60353710,enhanced_english,medium,english
+EDU_disced_60353715,EDU,disced,60353715,DISCED education classification: 60353715,enhanced_english,medium,english
+EDU_disced_60354010,EDU,disced,60354010,DISCED education classification: 60354010,enhanced_english,medium,english
+EDU_disced_60354510,EDU,disced,60354510,DISCED education classification: 60354510,enhanced_english,medium,english
+EDU_disced_60354710,EDU,disced,60354710,DISCED education classification: 60354710,enhanced_english,medium,english
+EDU_disced_60355010,EDU,disced,60355010,DISCED education classification: 60355010,enhanced_english,medium,english
+EDU_disced_60355015,EDU,disced,60355015,DISCED education classification: 60355015,enhanced_english,medium,english
+EDU_disced_60355020,EDU,disced,60355020,DISCED education classification: 60355020,enhanced_english,medium,english
+EDU_disced_60355510,EDU,disced,60355510,DISCED education classification: 60355510,enhanced_english,medium,english
+EDU_disced_60356010,EDU,disced,60356010,DISCED education classification: 60356010,enhanced_english,medium,english
+EDU_disced_60356015,EDU,disced,60356015,DISCED education classification: 60356015,enhanced_english,medium,english
+EDU_disced_60356020,EDU,disced,60356020,DISCED education classification: 60356020,enhanced_english,medium,english
+EDU_disced_60356025,EDU,disced,60356025,DISCED education classification: 60356025,enhanced_english,medium,english
+EDU_disced_60356030,EDU,disced,60356030,DISCED education classification: 60356030,enhanced_english,medium,english
+EDU_disced_60356035,EDU,disced,60356035,DISCED education classification: 60356035,enhanced_english,medium,english
+EDU_disced_60356040,EDU,disced,60356040,DISCED education classification: 60356040,enhanced_english,medium,english
+EDU_disced_6039,EDU,disced,6039,"Samfundsvidenskab, BACH",pt_dictionaries,highest,danish
+EDU_disced_60391010,EDU,disced,60391010,DISCED education classification: 60391010,enhanced_english,medium,english
+EDU_disced_60391510,EDU,disced,60391510,DISCED education classification: 60391510,enhanced_english,medium,english
+EDU_disced_60392010,EDU,disced,60392010,DISCED education classification: 60392010,enhanced_english,medium,english
+EDU_disced_60392515,EDU,disced,60392515,DISCED education classification: 60392515,enhanced_english,medium,english
+EDU_disced_60393010,EDU,disced,60393010,DISCED education classification: 60393010,enhanced_english,medium,english
+EDU_disced_60393510,EDU,disced,60393510,DISCED education classification: 60393510,enhanced_english,medium,english
+EDU_disced_60393515,EDU,disced,60393515,DISCED education classification: 60393515,enhanced_english,medium,english
+EDU_disced_60394010,EDU,disced,60394010,DISCED education classification: 60394010,enhanced_english,medium,english
+EDU_disced_60394510,EDU,disced,60394510,DISCED education classification: 60394510,enhanced_english,medium,english
+EDU_disced_60394525,EDU,disced,60394525,DISCED education classification: 60394525,enhanced_english,medium,english
+EDU_disced_60395010,EDU,disced,60395010,DISCED education classification: 60395010,enhanced_english,medium,english
+EDU_disced_60395510,EDU,disced,60395510,DISCED education classification: 60395510,enhanced_english,medium,english
+EDU_disced_60396510,EDU,disced,60396510,DISCED education classification: 60396510,enhanced_english,medium,english
+EDU_disced_60397010,EDU,disced,60397010,DISCED education classification: 60397010,enhanced_english,medium,english
+EDU_disced_6059,EDU,disced,6059,"Teknisk videnskab, BACH",pt_dictionaries,highest,danish
+EDU_disced_60591010,EDU,disced,60591010,DISCED education classification: 60591010,enhanced_english,medium,english
+EDU_disced_60591510,EDU,disced,60591510,DISCED education classification: 60591510,enhanced_english,medium,english
+EDU_disced_60591515,EDU,disced,60591515,DISCED education classification: 60591515,enhanced_english,medium,english
+EDU_disced_60591520,EDU,disced,60591520,DISCED education classification: 60591520,enhanced_english,medium,english
+EDU_disced_60592010,EDU,disced,60592010,DISCED education classification: 60592010,enhanced_english,medium,english
+EDU_disced_60592510,EDU,disced,60592510,DISCED education classification: 60592510,enhanced_english,medium,english
+EDU_disced_60592515,EDU,disced,60592515,DISCED education classification: 60592515,enhanced_english,medium,english
+EDU_disced_60593010,EDU,disced,60593010,DISCED education classification: 60593010,enhanced_english,medium,english
+EDU_disced_60593015,EDU,disced,60593015,DISCED education classification: 60593015,enhanced_english,medium,english
+EDU_disced_60593510,EDU,disced,60593510,DISCED education classification: 60593510,enhanced_english,medium,english
+EDU_disced_60594015,EDU,disced,60594015,DISCED education classification: 60594015,enhanced_english,medium,english
+EDU_disced_60594510,EDU,disced,60594510,DISCED education classification: 60594510,enhanced_english,medium,english
+EDU_disced_60595010,EDU,disced,60595010,DISCED education classification: 60595010,enhanced_english,medium,english
+EDU_disced_60595510,EDU,disced,60595510,DISCED education classification: 60595510,enhanced_english,medium,english
+EDU_disced_60596010,EDU,disced,60596010,DISCED education classification: 60596010,enhanced_english,medium,english
+EDU_disced_60596015,EDU,disced,60596015,DISCED education classification: 60596015,enhanced_english,medium,english
+EDU_disced_60596020,EDU,disced,60596020,DISCED education classification: 60596020,enhanced_english,medium,english
+EDU_disced_60596510,EDU,disced,60596510,DISCED education classification: 60596510,enhanced_english,medium,english
+EDU_disced_60597010,EDU,disced,60597010,DISCED education classification: 60597010,enhanced_english,medium,english
+EDU_disced_60599515,EDU,disced,60599515,DISCED education classification: 60599515,enhanced_english,medium,english
+EDU_disced_60599530,EDU,disced,60599530,DISCED education classification: 60599530,enhanced_english,medium,english
+EDU_disced_6075,EDU,disced,6075,"Fødevarer, Bio- og laboratorieteknik, BACH",pt_dictionaries,highest,danish
+EDU_disced_60752510,EDU,disced,60752510,DISCED education classification: 60752510,enhanced_english,medium,english
+EDU_disced_60752515,EDU,disced,60752515,DISCED education classification: 60752515,enhanced_english,medium,english
+EDU_disced_60759510,EDU,disced,60759510,DISCED education classification: 60759510,enhanced_english,medium,english
+EDU_disced_6080,EDU,disced,6080,"Jordbrug, natur og miljø, BACH",pt_dictionaries,highest,danish
+EDU_disced_60802010,EDU,disced,60802010,DISCED education classification: 60802010,enhanced_english,medium,english
+EDU_disced_60802015,EDU,disced,60802015,DISCED education classification: 60802015,enhanced_english,medium,english
+EDU_disced_60802510,EDU,disced,60802510,DISCED education classification: 60802510,enhanced_english,medium,english
+EDU_disced_60803010,EDU,disced,60803010,DISCED education classification: 60803010,enhanced_english,medium,english
+EDU_disced_60803510,EDU,disced,60803510,DISCED education classification: 60803510,enhanced_english,medium,english
+EDU_disced_60804010,EDU,disced,60804010,DISCED education classification: 60804010,enhanced_english,medium,english
+EDU_disced_60804510,EDU,disced,60804510,DISCED education classification: 60804510,enhanced_english,medium,english
+EDU_disced_60805010,EDU,disced,60805010,DISCED education classification: 60805010,enhanced_english,medium,english
+EDU_disced_60805090,EDU,disced,60805090,DISCED education classification: 60805090,enhanced_english,medium,english
+EDU_disced_6090,EDU,disced,6090,"Sundhedsvidenskab, BACH",pt_dictionaries,highest,danish
+EDU_disced_60902510,EDU,disced,60902510,DISCED education classification: 60902510,enhanced_english,medium,english
+EDU_disced_60903010,EDU,disced,60903010,DISCED education classification: 60903010,enhanced_english,medium,english
+EDU_disced_60903510,EDU,disced,60903510,DISCED education classification: 60903510,enhanced_english,medium,english
+EDU_disced_60905010,EDU,disced,60905010,DISCED education classification: 60905010,enhanced_english,medium,english
+EDU_disced_60905510,EDU,disced,60905510,DISCED education classification: 60905510,enhanced_english,medium,english
+EDU_disced_60909510,EDU,disced,60909510,DISCED education classification: 60909510,enhanced_english,medium,english
+EDU_disced_6097,EDU,disced,6097,"Videregående uddannelser uden nærmere angivelse, BACH",pt_dictionaries,highest,danish
+EDU_disced_60971010,EDU,disced,60971010,DISCED education classification: 60971010,enhanced_english,medium,english
+EDU_disced_7020,EDU,disced,7020,"Pædagogisk, LVU",pt_dictionaries,highest,danish
+EDU_disced_70201010,EDU,disced,70201010,DISCED education classification: 70201010,enhanced_english,medium,english
+EDU_disced_70202510,EDU,disced,70202510,DISCED education classification: 70202510,enhanced_english,medium,english
+EDU_disced_70203010,EDU,disced,70203010,DISCED education classification: 70203010,enhanced_english,medium,english
+EDU_disced_70203015,EDU,disced,70203015,DISCED education classification: 70203015,enhanced_english,medium,english
+EDU_disced_70203020,EDU,disced,70203020,DISCED education classification: 70203020,enhanced_english,medium,english
+EDU_disced_7025,EDU,disced,7025,"Humanistisk og teologisk, LVU",pt_dictionaries,highest,danish
+EDU_disced_70251010,EDU,disced,70251010,DISCED education classification: 70251010,enhanced_english,medium,english
+EDU_disced_70251210,EDU,disced,70251210,DISCED education classification: 70251210,enhanced_english,medium,english
+EDU_disced_70251215,EDU,disced,70251215,DISCED education classification: 70251215,enhanced_english,medium,english
+EDU_disced_70251220,EDU,disced,70251220,DISCED education classification: 70251220,enhanced_english,medium,english
+EDU_disced_70251225,EDU,disced,70251225,DISCED education classification: 70251225,enhanced_english,medium,english
+EDU_disced_70251230,EDU,disced,70251230,DISCED education classification: 70251230,enhanced_english,medium,english
+EDU_disced_70251510,EDU,disced,70251510,DISCED education classification: 70251510,enhanced_english,medium,english
+EDU_disced_70251710,EDU,disced,70251710,DISCED education classification: 70251710,enhanced_english,medium,english
+EDU_disced_70252010,EDU,disced,70252010,DISCED education classification: 70252010,enhanced_english,medium,english
+EDU_disced_70252210,EDU,disced,70252210,DISCED education classification: 70252210,enhanced_english,medium,english
+EDU_disced_70252215,EDU,disced,70252215,DISCED education classification: 70252215,enhanced_english,medium,english
+EDU_disced_70252510,EDU,disced,70252510,DISCED education classification: 70252510,enhanced_english,medium,english
+EDU_disced_70252515,EDU,disced,70252515,DISCED education classification: 70252515,enhanced_english,medium,english
+EDU_disced_70252610,EDU,disced,70252610,DISCED education classification: 70252610,enhanced_english,medium,english
+EDU_disced_70252615,EDU,disced,70252615,DISCED education classification: 70252615,enhanced_english,medium,english
+EDU_disced_70252620,EDU,disced,70252620,DISCED education classification: 70252620,enhanced_english,medium,english
+EDU_disced_70252625,EDU,disced,70252625,DISCED education classification: 70252625,enhanced_english,medium,english
+EDU_disced_70252710,EDU,disced,70252710,DISCED education classification: 70252710,enhanced_english,medium,english
+EDU_disced_70253010,EDU,disced,70253010,DISCED education classification: 70253010,enhanced_english,medium,english
+EDU_disced_70253015,EDU,disced,70253015,DISCED education classification: 70253015,enhanced_english,medium,english
+EDU_disced_70253210,EDU,disced,70253210,DISCED education classification: 70253210,enhanced_english,medium,english
+EDU_disced_70253215,EDU,disced,70253215,DISCED education classification: 70253215,enhanced_english,medium,english
+EDU_disced_70253510,EDU,disced,70253510,DISCED education classification: 70253510,enhanced_english,medium,english
+EDU_disced_70253710,EDU,disced,70253710,DISCED education classification: 70253710,enhanced_english,medium,english
+EDU_disced_70254010,EDU,disced,70254010,DISCED education classification: 70254010,enhanced_english,medium,english
+EDU_disced_70254210,EDU,disced,70254210,DISCED education classification: 70254210,enhanced_english,medium,english
+EDU_disced_70254510,EDU,disced,70254510,DISCED education classification: 70254510,enhanced_english,medium,english
+EDU_disced_70255010,EDU,disced,70255010,DISCED education classification: 70255010,enhanced_english,medium,english
+EDU_disced_70255210,EDU,disced,70255210,DISCED education classification: 70255210,enhanced_english,medium,english
+EDU_disced_70255510,EDU,disced,70255510,DISCED education classification: 70255510,enhanced_english,medium,english
+EDU_disced_70255515,EDU,disced,70255515,DISCED education classification: 70255515,enhanced_english,medium,english
+EDU_disced_70255520,EDU,disced,70255520,DISCED education classification: 70255520,enhanced_english,medium,english
+EDU_disced_70255525,EDU,disced,70255525,DISCED education classification: 70255525,enhanced_english,medium,english
+EDU_disced_70255530,EDU,disced,70255530,DISCED education classification: 70255530,enhanced_english,medium,english
+EDU_disced_70255710,EDU,disced,70255710,DISCED education classification: 70255710,enhanced_english,medium,english
+EDU_disced_70255715,EDU,disced,70255715,DISCED education classification: 70255715,enhanced_english,medium,english
+EDU_disced_70255720,EDU,disced,70255720,DISCED education classification: 70255720,enhanced_english,medium,english
+EDU_disced_70255725,EDU,disced,70255725,DISCED education classification: 70255725,enhanced_english,medium,english
+EDU_disced_70255730,EDU,disced,70255730,DISCED education classification: 70255730,enhanced_english,medium,english
+EDU_disced_70256010,EDU,disced,70256010,DISCED education classification: 70256010,enhanced_english,medium,english
+EDU_disced_70256015,EDU,disced,70256015,DISCED education classification: 70256015,enhanced_english,medium,english
+EDU_disced_70256020,EDU,disced,70256020,DISCED education classification: 70256020,enhanced_english,medium,english
+EDU_disced_70256025,EDU,disced,70256025,DISCED education classification: 70256025,enhanced_english,medium,english
+EDU_disced_70256030,EDU,disced,70256030,DISCED education classification: 70256030,enhanced_english,medium,english
+EDU_disced_70256035,EDU,disced,70256035,DISCED education classification: 70256035,enhanced_english,medium,english
+EDU_disced_70256210,EDU,disced,70256210,DISCED education classification: 70256210,enhanced_english,medium,english
+EDU_disced_70256215,EDU,disced,70256215,DISCED education classification: 70256215,enhanced_english,medium,english
+EDU_disced_70256220,EDU,disced,70256220,DISCED education classification: 70256220,enhanced_english,medium,english
+EDU_disced_70256310,EDU,disced,70256310,DISCED education classification: 70256310,enhanced_english,medium,english
+EDU_disced_70256315,EDU,disced,70256315,DISCED education classification: 70256315,enhanced_english,medium,english
+EDU_disced_70256320,EDU,disced,70256320,DISCED education classification: 70256320,enhanced_english,medium,english
+EDU_disced_70256330,EDU,disced,70256330,DISCED education classification: 70256330,enhanced_english,medium,english
+EDU_disced_70256510,EDU,disced,70256510,DISCED education classification: 70256510,enhanced_english,medium,english
+EDU_disced_70256515,EDU,disced,70256515,DISCED education classification: 70256515,enhanced_english,medium,english
+EDU_disced_70256520,EDU,disced,70256520,DISCED education classification: 70256520,enhanced_english,medium,english
+EDU_disced_70257010,EDU,disced,70257010,DISCED education classification: 70257010,enhanced_english,medium,english
+EDU_disced_70257015,EDU,disced,70257015,DISCED education classification: 70257015,enhanced_english,medium,english
+EDU_disced_70257020,EDU,disced,70257020,DISCED education classification: 70257020,enhanced_english,medium,english
+EDU_disced_70257025,EDU,disced,70257025,DISCED education classification: 70257025,enhanced_english,medium,english
+EDU_disced_70257110,EDU,disced,70257110,DISCED education classification: 70257110,enhanced_english,medium,english
+EDU_disced_70257510,EDU,disced,70257510,DISCED education classification: 70257510,enhanced_english,medium,english
+EDU_disced_70257515,EDU,disced,70257515,DISCED education classification: 70257515,enhanced_english,medium,english
+EDU_disced_70257520,EDU,disced,70257520,DISCED education classification: 70257520,enhanced_english,medium,english
+EDU_disced_70257525,EDU,disced,70257525,DISCED education classification: 70257525,enhanced_english,medium,english
+EDU_disced_70257530,EDU,disced,70257530,DISCED education classification: 70257530,enhanced_english,medium,english
+EDU_disced_70257535,EDU,disced,70257535,DISCED education classification: 70257535,enhanced_english,medium,english
+EDU_disced_70258710,EDU,disced,70258710,DISCED education classification: 70258710,enhanced_english,medium,english
+EDU_disced_70258810,EDU,disced,70258810,DISCED education classification: 70258810,enhanced_english,medium,english
+EDU_disced_70258920,EDU,disced,70258920,DISCED education classification: 70258920,enhanced_english,medium,english
+EDU_disced_70259510,EDU,disced,70259510,DISCED education classification: 70259510,enhanced_english,medium,english
+EDU_disced_70259515,EDU,disced,70259515,DISCED education classification: 70259515,enhanced_english,medium,english
+EDU_disced_70259520,EDU,disced,70259520,DISCED education classification: 70259520,enhanced_english,medium,english
+EDU_disced_70259525,EDU,disced,70259525,DISCED education classification: 70259525,enhanced_english,medium,english
+EDU_disced_70259710,EDU,disced,70259710,DISCED education classification: 70259710,enhanced_english,medium,english
+EDU_disced_7030,EDU,disced,7030,"Kunstnerisk, LVU",pt_dictionaries,highest,danish
+EDU_disced_70301010,EDU,disced,70301010,DISCED education classification: 70301010,enhanced_english,medium,english
+EDU_disced_70301510,EDU,disced,70301510,DISCED education classification: 70301510,enhanced_english,medium,english
+EDU_disced_70302010,EDU,disced,70302010,DISCED education classification: 70302010,enhanced_english,medium,english
+EDU_disced_70302015,EDU,disced,70302015,DISCED education classification: 70302015,enhanced_english,medium,english
+EDU_disced_70304010,EDU,disced,70304010,DISCED education classification: 70304010,enhanced_english,medium,english
+EDU_disced_70305010,EDU,disced,70305010,DISCED education classification: 70305010,enhanced_english,medium,english
+EDU_disced_70305015,EDU,disced,70305015,DISCED education classification: 70305015,enhanced_english,medium,english
+EDU_disced_70305020,EDU,disced,70305020,DISCED education classification: 70305020,enhanced_english,medium,english
+EDU_disced_70305030,EDU,disced,70305030,DISCED education classification: 70305030,enhanced_english,medium,english
+EDU_disced_70305035,EDU,disced,70305035,DISCED education classification: 70305035,enhanced_english,medium,english
+EDU_disced_70305040,EDU,disced,70305040,DISCED education classification: 70305040,enhanced_english,medium,english
+EDU_disced_70305045,EDU,disced,70305045,DISCED education classification: 70305045,enhanced_english,medium,english
+EDU_disced_70305050,EDU,disced,70305050,DISCED education classification: 70305050,enhanced_english,medium,english
+EDU_disced_70306010,EDU,disced,70306010,DISCED education classification: 70306010,enhanced_english,medium,english
+EDU_disced_70306015,EDU,disced,70306015,DISCED education classification: 70306015,enhanced_english,medium,english
+EDU_disced_70306020,EDU,disced,70306020,DISCED education classification: 70306020,enhanced_english,medium,english
+EDU_disced_70306025,EDU,disced,70306025,DISCED education classification: 70306025,enhanced_english,medium,english
+EDU_disced_70306030,EDU,disced,70306030,DISCED education classification: 70306030,enhanced_english,medium,english
+EDU_disced_70306520,EDU,disced,70306520,DISCED education classification: 70306520,enhanced_english,medium,english
+EDU_disced_70306530,EDU,disced,70306530,DISCED education classification: 70306530,enhanced_english,medium,english
+EDU_disced_70306540,EDU,disced,70306540,DISCED education classification: 70306540,enhanced_english,medium,english
+EDU_disced_70306550,EDU,disced,70306550,DISCED education classification: 70306550,enhanced_english,medium,english
+EDU_disced_70306555,EDU,disced,70306555,DISCED education classification: 70306555,enhanced_english,medium,english
+EDU_disced_70307010,EDU,disced,70307010,DISCED education classification: 70307010,enhanced_english,medium,english
+EDU_disced_7035,EDU,disced,7035,"Naturvidenskab, LVU",pt_dictionaries,highest,danish
+EDU_disced_70351010,EDU,disced,70351010,DISCED education classification: 70351010,enhanced_english,medium,english
+EDU_disced_70351510,EDU,disced,70351510,DISCED education classification: 70351510,enhanced_english,medium,english
+EDU_disced_70351710,EDU,disced,70351710,DISCED education classification: 70351710,enhanced_english,medium,english
+EDU_disced_70351715,EDU,disced,70351715,DISCED education classification: 70351715,enhanced_english,medium,english
+EDU_disced_70351720,EDU,disced,70351720,DISCED education classification: 70351720,enhanced_english,medium,english
+EDU_disced_70352010,EDU,disced,70352010,DISCED education classification: 70352010,enhanced_english,medium,english
+EDU_disced_70352015,EDU,disced,70352015,DISCED education classification: 70352015,enhanced_english,medium,english
+EDU_disced_70352020,EDU,disced,70352020,DISCED education classification: 70352020,enhanced_english,medium,english
+EDU_disced_70352210,EDU,disced,70352210,DISCED education classification: 70352210,enhanced_english,medium,english
+EDU_disced_70352510,EDU,disced,70352510,DISCED education classification: 70352510,enhanced_english,medium,english
+EDU_disced_70353010,EDU,disced,70353010,DISCED education classification: 70353010,enhanced_english,medium,english
+EDU_disced_70353015,EDU,disced,70353015,DISCED education classification: 70353015,enhanced_english,medium,english
+EDU_disced_70353020,EDU,disced,70353020,DISCED education classification: 70353020,enhanced_english,medium,english
+EDU_disced_70353025,EDU,disced,70353025,DISCED education classification: 70353025,enhanced_english,medium,english
+EDU_disced_70353510,EDU,disced,70353510,DISCED education classification: 70353510,enhanced_english,medium,english
+EDU_disced_70353710,EDU,disced,70353710,DISCED education classification: 70353710,enhanced_english,medium,english
+EDU_disced_70354010,EDU,disced,70354010,DISCED education classification: 70354010,enhanced_english,medium,english
+EDU_disced_70354510,EDU,disced,70354510,DISCED education classification: 70354510,enhanced_english,medium,english
+EDU_disced_70354710,EDU,disced,70354710,DISCED education classification: 70354710,enhanced_english,medium,english
+EDU_disced_70355010,EDU,disced,70355010,DISCED education classification: 70355010,enhanced_english,medium,english
+EDU_disced_70355015,EDU,disced,70355015,DISCED education classification: 70355015,enhanced_english,medium,english
+EDU_disced_70355020,EDU,disced,70355020,DISCED education classification: 70355020,enhanced_english,medium,english
+EDU_disced_70355510,EDU,disced,70355510,DISCED education classification: 70355510,enhanced_english,medium,english
+EDU_disced_70356010,EDU,disced,70356010,DISCED education classification: 70356010,enhanced_english,medium,english
+EDU_disced_70356015,EDU,disced,70356015,DISCED education classification: 70356015,enhanced_english,medium,english
+EDU_disced_70356020,EDU,disced,70356020,DISCED education classification: 70356020,enhanced_english,medium,english
+EDU_disced_70356030,EDU,disced,70356030,DISCED education classification: 70356030,enhanced_english,medium,english
+EDU_disced_70356035,EDU,disced,70356035,DISCED education classification: 70356035,enhanced_english,medium,english
+EDU_disced_70356040,EDU,disced,70356040,DISCED education classification: 70356040,enhanced_english,medium,english
+EDU_disced_70359510,EDU,disced,70359510,DISCED education classification: 70359510,enhanced_english,medium,english
+EDU_disced_70359520,EDU,disced,70359520,DISCED education classification: 70359520,enhanced_english,medium,english
+EDU_disced_7039,EDU,disced,7039,"Samfundsvidenskab, LVU",pt_dictionaries,highest,danish
+EDU_disced_70391010,EDU,disced,70391010,DISCED education classification: 70391010,enhanced_english,medium,english
+EDU_disced_70391510,EDU,disced,70391510,DISCED education classification: 70391510,enhanced_english,medium,english
+EDU_disced_70392010,EDU,disced,70392010,DISCED education classification: 70392010,enhanced_english,medium,english
+EDU_disced_70392510,EDU,disced,70392510,DISCED education classification: 70392510,enhanced_english,medium,english
+EDU_disced_70392515,EDU,disced,70392515,DISCED education classification: 70392515,enhanced_english,medium,english
+EDU_disced_70393010,EDU,disced,70393010,DISCED education classification: 70393010,enhanced_english,medium,english
+EDU_disced_70393510,EDU,disced,70393510,DISCED education classification: 70393510,enhanced_english,medium,english
+EDU_disced_70393515,EDU,disced,70393515,DISCED education classification: 70393515,enhanced_english,medium,english
+EDU_disced_70394010,EDU,disced,70394010,DISCED education classification: 70394010,enhanced_english,medium,english
+EDU_disced_70394510,EDU,disced,70394510,DISCED education classification: 70394510,enhanced_english,medium,english
+EDU_disced_70394515,EDU,disced,70394515,DISCED education classification: 70394515,enhanced_english,medium,english
+EDU_disced_70394520,EDU,disced,70394520,DISCED education classification: 70394520,enhanced_english,medium,english
+EDU_disced_70394525,EDU,disced,70394525,DISCED education classification: 70394525,enhanced_english,medium,english
+EDU_disced_70395010,EDU,disced,70395010,DISCED education classification: 70395010,enhanced_english,medium,english
+EDU_disced_70395510,EDU,disced,70395510,DISCED education classification: 70395510,enhanced_english,medium,english
+EDU_disced_70396010,EDU,disced,70396010,DISCED education classification: 70396010,enhanced_english,medium,english
+EDU_disced_70397010,EDU,disced,70397010,DISCED education classification: 70397010,enhanced_english,medium,english
+EDU_disced_7059,EDU,disced,7059,"Teknisk videnskab, LVU",pt_dictionaries,highest,danish
+EDU_disced_70591010,EDU,disced,70591010,DISCED education classification: 70591010,enhanced_english,medium,english
+EDU_disced_70591510,EDU,disced,70591510,DISCED education classification: 70591510,enhanced_english,medium,english
+EDU_disced_70591515,EDU,disced,70591515,DISCED education classification: 70591515,enhanced_english,medium,english
+EDU_disced_70591520,EDU,disced,70591520,DISCED education classification: 70591520,enhanced_english,medium,english
+EDU_disced_70592010,EDU,disced,70592010,DISCED education classification: 70592010,enhanced_english,medium,english
+EDU_disced_70592510,EDU,disced,70592510,DISCED education classification: 70592510,enhanced_english,medium,english
+EDU_disced_70592515,EDU,disced,70592515,DISCED education classification: 70592515,enhanced_english,medium,english
+EDU_disced_70593010,EDU,disced,70593010,DISCED education classification: 70593010,enhanced_english,medium,english
+EDU_disced_70593015,EDU,disced,70593015,DISCED education classification: 70593015,enhanced_english,medium,english
+EDU_disced_70593510,EDU,disced,70593510,DISCED education classification: 70593510,enhanced_english,medium,english
+EDU_disced_70594010,EDU,disced,70594010,DISCED education classification: 70594010,enhanced_english,medium,english
+EDU_disced_70594015,EDU,disced,70594015,DISCED education classification: 70594015,enhanced_english,medium,english
+EDU_disced_70594510,EDU,disced,70594510,DISCED education classification: 70594510,enhanced_english,medium,english
+EDU_disced_70595010,EDU,disced,70595010,DISCED education classification: 70595010,enhanced_english,medium,english
+EDU_disced_70595510,EDU,disced,70595510,DISCED education classification: 70595510,enhanced_english,medium,english
+EDU_disced_70596010,EDU,disced,70596010,DISCED education classification: 70596010,enhanced_english,medium,english
+EDU_disced_70596015,EDU,disced,70596015,DISCED education classification: 70596015,enhanced_english,medium,english
+EDU_disced_70596020,EDU,disced,70596020,DISCED education classification: 70596020,enhanced_english,medium,english
+EDU_disced_70596510,EDU,disced,70596510,DISCED education classification: 70596510,enhanced_english,medium,english
+EDU_disced_70597010,EDU,disced,70597010,DISCED education classification: 70597010,enhanced_english,medium,english
+EDU_disced_70599510,EDU,disced,70599510,DISCED education classification: 70599510,enhanced_english,medium,english
+EDU_disced_70599515,EDU,disced,70599515,DISCED education classification: 70599515,enhanced_english,medium,english
+EDU_disced_70599520,EDU,disced,70599520,DISCED education classification: 70599520,enhanced_english,medium,english
+EDU_disced_70599525,EDU,disced,70599525,DISCED education classification: 70599525,enhanced_english,medium,english
+EDU_disced_70599530,EDU,disced,70599530,DISCED education classification: 70599530,enhanced_english,medium,english
+EDU_disced_7075,EDU,disced,7075,"Fødevarer, Bio- og laboratorieteknik, LVU",pt_dictionaries,highest,danish
+EDU_disced_70752510,EDU,disced,70752510,DISCED education classification: 70752510,enhanced_english,medium,english
+EDU_disced_70752515,EDU,disced,70752515,DISCED education classification: 70752515,enhanced_english,medium,english
+EDU_disced_70759510,EDU,disced,70759510,DISCED education classification: 70759510,enhanced_english,medium,english
+EDU_disced_7080,EDU,disced,7080,"Jordbrug, natur og miljø, LVU",pt_dictionaries,highest,danish
+EDU_disced_70801010,EDU,disced,70801010,DISCED education classification: 70801010,enhanced_english,medium,english
+EDU_disced_70802010,EDU,disced,70802010,DISCED education classification: 70802010,enhanced_english,medium,english
+EDU_disced_70802015,EDU,disced,70802015,DISCED education classification: 70802015,enhanced_english,medium,english
+EDU_disced_70802510,EDU,disced,70802510,DISCED education classification: 70802510,enhanced_english,medium,english
+EDU_disced_70803010,EDU,disced,70803010,DISCED education classification: 70803010,enhanced_english,medium,english
+EDU_disced_70803510,EDU,disced,70803510,DISCED education classification: 70803510,enhanced_english,medium,english
+EDU_disced_70804010,EDU,disced,70804010,DISCED education classification: 70804010,enhanced_english,medium,english
+EDU_disced_70804510,EDU,disced,70804510,DISCED education classification: 70804510,enhanced_english,medium,english
+EDU_disced_70805010,EDU,disced,70805010,DISCED education classification: 70805010,enhanced_english,medium,english
+EDU_disced_70805015,EDU,disced,70805015,DISCED education classification: 70805015,enhanced_english,medium,english
+EDU_disced_70805020,EDU,disced,70805020,DISCED education classification: 70805020,enhanced_english,medium,english
+EDU_disced_70805090,EDU,disced,70805090,DISCED education classification: 70805090,enhanced_english,medium,english
+EDU_disced_7090,EDU,disced,7090,"Sundhedsvidenskab, LVU",pt_dictionaries,highest,danish
+EDU_disced_70901010,EDU,disced,70901010,DISCED education classification: 70901010,enhanced_english,medium,english
+EDU_disced_70901510,EDU,disced,70901510,DISCED education classification: 70901510,enhanced_english,medium,english
+EDU_disced_70902010,EDU,disced,70902010,DISCED education classification: 70902010,enhanced_english,medium,english
+EDU_disced_70902510,EDU,disced,70902510,DISCED education classification: 70902510,enhanced_english,medium,english
+EDU_disced_70903010,EDU,disced,70903010,DISCED education classification: 70903010,enhanced_english,medium,english
+EDU_disced_70903510,EDU,disced,70903510,DISCED education classification: 70903510,enhanced_english,medium,english
+EDU_disced_70904010,EDU,disced,70904010,DISCED education classification: 70904010,enhanced_english,medium,english
+EDU_disced_70904510,EDU,disced,70904510,DISCED education classification: 70904510,enhanced_english,medium,english
+EDU_disced_70905010,EDU,disced,70905010,DISCED education classification: 70905010,enhanced_english,medium,english
+EDU_disced_70905510,EDU,disced,70905510,DISCED education classification: 70905510,enhanced_english,medium,english
+EDU_disced_70909510,EDU,disced,70909510,DISCED education classification: 70909510,enhanced_english,medium,english
+EDU_disced_70909515,EDU,disced,70909515,DISCED education classification: 70909515,enhanced_english,medium,english
+EDU_disced_70909520,EDU,disced,70909520,DISCED education classification: 70909520,enhanced_english,medium,english
+EDU_disced_70909525,EDU,disced,70909525,DISCED education classification: 70909525,enhanced_english,medium,english
+EDU_disced_7095,EDU,disced,7095,"Politi og forsvar mv., LVU",pt_dictionaries,highest,danish
+EDU_disced_70951010,EDU,disced,70951010,DISCED education classification: 70951010,enhanced_english,medium,english
+EDU_disced_70952510,EDU,disced,70952510,DISCED education classification: 70952510,enhanced_english,medium,english
+EDU_disced_70952515,EDU,disced,70952515,DISCED education classification: 70952515,enhanced_english,medium,english
+EDU_disced_70952520,EDU,disced,70952520,DISCED education classification: 70952520,enhanced_english,medium,english
+EDU_disced_70952525,EDU,disced,70952525,DISCED education classification: 70952525,enhanced_english,medium,english
+EDU_disced_7097,EDU,disced,7097,"Videregående uddannelser uden nærmere angivelse, LVU",pt_dictionaries,highest,danish
+EDU_disced_70971010,EDU,disced,70971010,DISCED education classification: 70971010,enhanced_english,medium,english
+EDU_disced_8020,EDU,disced,8020,"Pædagogisk, Ph.d.",pt_dictionaries,highest,danish
+EDU_disced_80203020,EDU,disced,80203020,DISCED education classification: 80203020,enhanced_english,medium,english
+EDU_disced_8025,EDU,disced,8025,"Humanistisk og teologisk, Ph.d.",pt_dictionaries,highest,danish
+EDU_disced_80252010,EDU,disced,80252010,DISCED education classification: 80252010,enhanced_english,medium,english
+EDU_disced_80253510,EDU,disced,80253510,DISCED education classification: 80253510,enhanced_english,medium,english
+EDU_disced_8030,EDU,disced,8030,"Kunstnerisk, Ph.d.",pt_dictionaries,highest,danish
+EDU_disced_80306530,EDU,disced,80306530,DISCED education classification: 80306530,enhanced_english,medium,english
+EDU_disced_80306540,EDU,disced,80306540,DISCED education classification: 80306540,enhanced_english,medium,english
+EDU_disced_80306555,EDU,disced,80306555,DISCED education classification: 80306555,enhanced_english,medium,english
+EDU_disced_8035,EDU,disced,8035,"Naturvidenskab, Ph.d.",pt_dictionaries,highest,danish
+EDU_disced_80351010,EDU,disced,80351010,DISCED education classification: 80351010,enhanced_english,medium,english
+EDU_disced_8039,EDU,disced,8039,"Samfundsvidenskab, Ph.d.",pt_dictionaries,highest,danish
+EDU_disced_80393510,EDU,disced,80393510,DISCED education classification: 80393510,enhanced_english,medium,english
+EDU_disced_8059,EDU,disced,8059,"Teknisk videnskab, Ph.d.",pt_dictionaries,highest,danish
+EDU_disced_80591010,EDU,disced,80591010,DISCED education classification: 80591010,enhanced_english,medium,english
+EDU_disced_8080,EDU,disced,8080,"Jordbrug, natur og miljø, Ph.d.",pt_dictionaries,highest,danish
+EDU_disced_80801010,EDU,disced,80801010,DISCED education classification: 80801010,enhanced_english,medium,english
+EDU_disced_8090,EDU,disced,8090,"Sundhedsvidenskab, Ph.d.",pt_dictionaries,highest,danish
+EDU_disced_80905010,EDU,disced,80905010,DISCED education classification: 80905010,enhanced_english,medium,english
+EDU_disced_8097,EDU,disced,8097,"Videregående uddannelser uden nærmere angivelse, Ph.d.",pt_dictionaries,highest,danish
+EDU_disced_80971010,EDU,disced,80971010,DISCED education classification: 80971010,enhanced_english,medium,english
+EDU_disced_9099,EDU,disced,9099,Uoplyst mv.,pt_dictionaries,highest,danish
+EDU_disced_90991020,EDU,disced,90991020,DISCED education classification: 90991020,enhanced_english,medium,english
+EDU_disced_90992010,EDU,disced,90992010,DISCED education classification: 90992010,enhanced_english,medium,english
+EDU_disced_90994010,EDU,disced,90994010,DISCED education classification: 90994010,enhanced_english,medium,english

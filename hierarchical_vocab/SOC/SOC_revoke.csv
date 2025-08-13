@@ -1,0 +1,11 @@
+code,prefix,database,value,token_id
+SOC_revoke_license_days_Q7,SOC,revoke,license_days_Q7,40993
+SOC_revoke_license_days_Q3,SOC,revoke,license_days_Q3,40994
+SOC_revoke_license_days_Q8,SOC,revoke,license_days_Q8,40995
+SOC_revoke_license_days_Q4,SOC,revoke,license_days_Q4,40996
+SOC_revoke_license_days_Q5,SOC,revoke,license_days_Q5,40997
+SOC_revoke_license_days_Q10,SOC,revoke,license_days_Q10,40998
+SOC_revoke_license_days_Q9,SOC,revoke,license_days_Q9,40999
+SOC_revoke_license_days_Q1,SOC,revoke,license_days_Q1,41000
+SOC_revoke_license_days_Q2,SOC,revoke,license_days_Q2,41001
+SOC_revoke_license_days_Q6,SOC,revoke,license_days_Q6,41002

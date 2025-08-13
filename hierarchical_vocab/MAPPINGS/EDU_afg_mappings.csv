@@ -1,0 +1,23 @@
+code,prefix,database,value,description,source,confidence,language
+EDU_afg_art_1 ,EDU,afg,art_1 ,Education completion type: art_1 ,enhanced_english,medium,english
+EDU_afg_art_11,EDU,afg,art_11,Education completion type: art_11,enhanced_english,medium,english
+EDU_afg_art_2 ,EDU,afg,art_2 ,Education completion type: art_2 ,enhanced_english,medium,english
+EDU_afg_art_20,EDU,afg,art_20,Education completion type: art_20,enhanced_english,medium,english
+EDU_afg_art_21,EDU,afg,art_21,Education completion type: art_21,enhanced_english,medium,english
+EDU_afg_art_3 ,EDU,afg,art_3 ,Education completion type: art_3 ,enhanced_english,medium,english
+EDU_afg_art_30,EDU,afg,art_30,Education completion type: art_30,enhanced_english,medium,english
+EDU_afg_art_31,EDU,afg,art_31,Education completion type: art_31,enhanced_english,medium,english
+EDU_afg_art_4 ,EDU,afg,art_4 ,Education completion type: art_4 ,enhanced_english,medium,english
+EDU_afg_art_44,EDU,afg,art_44,Education completion type: art_44,enhanced_english,medium,english
+EDU_afg_art_EDU_afg_art_1,EDU,afg,art_art_1,Uddannelse afgang,pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_10,EDU,afg,art_art_10,Uddannelse afgang (udgår med ELEV3 version 2014 V1),pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_11,EDU,afg,art_art_11,Uddannelse og klassetrin afgang,pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_2,EDU,afg,art_art_2,"Uddannelsespause, fortsætter på samme institution",pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_20,EDU,afg,art_art_20,"Uddannelse/klassetrin pause, fortsætter på samme institution",pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_21,EDU,afg,art_art_21,"Klassetrin afgang, fortsætter på samme institution",pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_3,EDU,afg,art_art_3,"Uddannelsespause, fortsætter på anden institution",pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_30,EDU,afg,art_art_30,"Uddannelse/klassetrin pause, fortsætter på anden institution",pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_31,EDU,afg,art_art_31,"Klassetrin afgang, fortsætter på anden institution",pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_4,EDU,afg,art_art_4,I gang,pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_40,EDU,afg,art_art_40,I gang (udgår med ELEV3 version 2014 V1),pt_dictionaries,highest,danish
+EDU_afg_art_EDU_afg_art_44,EDU,afg,art_art_44,"I gang, almene uddannelser",pt_dictionaries,highest,danish

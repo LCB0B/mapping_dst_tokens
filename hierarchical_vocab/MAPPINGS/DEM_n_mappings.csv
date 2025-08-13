@@ -1,0 +1,21 @@
+code,prefix,database,value,description,source,confidence,language
+DEM_n_siblings_at_birth_0,DEM,n,siblings_at_birth_0,Number of siblings at birth: 0,enhanced_english,medium,english
+DEM_n_siblings_at_birth_1,DEM,n,siblings_at_birth_1,Number of siblings at birth: 1,enhanced_english,medium,english
+DEM_n_siblings_at_birth_10,DEM,n,siblings_at_birth_10,Number of siblings at birth: 10,enhanced_english,medium,english
+DEM_n_siblings_at_birth_11,DEM,n,siblings_at_birth_11,Number of siblings at birth: 11,enhanced_english,medium,english
+DEM_n_siblings_at_birth_12,DEM,n,siblings_at_birth_12,Number of siblings at birth: 12,enhanced_english,medium,english
+DEM_n_siblings_at_birth_13,DEM,n,siblings_at_birth_13,Number of siblings at birth: 13,enhanced_english,medium,english
+DEM_n_siblings_at_birth_14,DEM,n,siblings_at_birth_14,Number of siblings at birth: 14,enhanced_english,medium,english
+DEM_n_siblings_at_birth_15,DEM,n,siblings_at_birth_15,Number of siblings at birth: 15,enhanced_english,medium,english
+DEM_n_siblings_at_birth_16,DEM,n,siblings_at_birth_16,Number of siblings at birth: 16,enhanced_english,medium,english
+DEM_n_siblings_at_birth_17,DEM,n,siblings_at_birth_17,Number of siblings at birth: 17,enhanced_english,medium,english
+DEM_n_siblings_at_birth_18,DEM,n,siblings_at_birth_18,Number of siblings at birth: 18,enhanced_english,medium,english
+DEM_n_siblings_at_birth_19,DEM,n,siblings_at_birth_19,Number of siblings at birth: 19,enhanced_english,medium,english
+DEM_n_siblings_at_birth_2,DEM,n,siblings_at_birth_2,Number of siblings at birth: 2,enhanced_english,medium,english
+DEM_n_siblings_at_birth_3,DEM,n,siblings_at_birth_3,Number of siblings at birth: 3,enhanced_english,medium,english
+DEM_n_siblings_at_birth_4,DEM,n,siblings_at_birth_4,Number of siblings at birth: 4,enhanced_english,medium,english
+DEM_n_siblings_at_birth_5,DEM,n,siblings_at_birth_5,Number of siblings at birth: 5,enhanced_english,medium,english
+DEM_n_siblings_at_birth_6,DEM,n,siblings_at_birth_6,Number of siblings at birth: 6,enhanced_english,medium,english
+DEM_n_siblings_at_birth_7,DEM,n,siblings_at_birth_7,Number of siblings at birth: 7,enhanced_english,medium,english
+DEM_n_siblings_at_birth_8,DEM,n,siblings_at_birth_8,Number of siblings at birth: 8,enhanced_english,medium,english
+DEM_n_siblings_at_birth_9,DEM,n,siblings_at_birth_9,Number of siblings at birth: 9,enhanced_english,medium,english

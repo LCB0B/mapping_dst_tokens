@@ -1,0 +1,11 @@
+code,description
+SOC_revoke_license_days_Q1,Sentence revocation - 1th percentile
+SOC_revoke_license_days_Q2,Sentence revocation - 2th percentile
+SOC_revoke_license_days_Q3,Sentence revocation - 3th percentile
+SOC_revoke_license_days_Q4,Sentence revocation - 4th percentile
+SOC_revoke_license_days_Q5,Sentence revocation - 5th percentile
+SOC_revoke_license_days_Q6,Sentence revocation - 6th percentile
+SOC_revoke_license_days_Q7,Sentence revocation - 7th percentile
+SOC_revoke_license_days_Q8,Sentence revocation - 8th percentile
+SOC_revoke_license_days_Q9,Sentence revocation - 9th percentile
+SOC_revoke_license_days_Q10,Sentence revocation - 10th percentile

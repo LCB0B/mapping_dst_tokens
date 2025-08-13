@@ -1,0 +1,4 @@
+code,prefix,database,value,description,source,confidence,language
+LAB_akm_type_akm_independent,LAB,akm,type_akm_independent,Self-employed independent worker,enhanced_english,medium,english
+LAB_akm_type_akm_primary,LAB,akm,type_akm_primary,Primary wage earner,enhanced_english,medium,english
+LAB_akm_type_akm_wagereceiver,LAB,akm,type_akm_wagereceiver,Wage receiver,enhanced_english,medium,english

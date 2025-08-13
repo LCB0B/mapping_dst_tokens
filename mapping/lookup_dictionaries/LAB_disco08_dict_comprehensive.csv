@@ -1,0 +1,156 @@
+code,description
+LAB_disco08_1,Ledere
+LAB_disco08_11,Direktører og administrerende direktører
+LAB_disco08_111,Lovgivende og udøvende magt
+LAB_disco08_1111,Lovgivende magt
+LAB_disco08_1112,Politiske ledere
+LAB_disco08_1113,Traditionelle høvdinge og stammeledere
+LAB_disco08_1114,Øverste ledelse i interesseorganisationer
+LAB_disco08_112,Administrerende direktører og generaldirektører
+LAB_disco08_1120,Administrerende direktører og generaldirektører
+LAB_disco08_12,Administrations- og handelsledere
+LAB_disco08_121,Virksomheds- og administrationsledere
+LAB_disco08_1211,Økonomidirektører
+LAB_disco08_1212,HR-direktører
+LAB_disco08_1213,Strategidirektører
+LAB_disco08_1219,Anden virksomheds- og administrationsledelse
+LAB_disco08_122,"Salgs-, marketing- og udviklingsledere"
+LAB_disco08_1221,Salgsdirektører
+LAB_disco08_1222,Reklamedirektører
+LAB_disco08_1223,Forsknings- og udviklingsdirektører
+LAB_disco08_2,Akademikere
+LAB_disco08_21,Naturvidenskabelige og tekniske fagfolk
+LAB_disco08_211,"Fysikere, kemikere og beslægtede fagfolk"
+LAB_disco08_2111,Fysikere og astronomer
+LAB_disco08_2112,Meteorologer
+LAB_disco08_2113,Kemikere
+LAB_disco08_2114,Geologer og geofysikere
+LAB_disco08_212,"Matematikere, aktuarer og statistikere"
+LAB_disco08_2120,"Matematikere, aktuarer og statistikere"
+LAB_disco08_213,Specialister i biovidenskab og relaterede områder
+LAB_disco08_2131,"Biologer, botanikere, zoologer og beslægtede fagfolk"
+LAB_disco08_2132,Landbrugsingeniører og relaterede fagfolk
+LAB_disco08_2133,Miljøspecialister
+LAB_disco08_214,Ingeniører (undtagen elektroingeniører)
+LAB_disco08_2141,Bygge- og anlægsingeniører
+LAB_disco08_2142,Maskiningeniører
+LAB_disco08_2143,Miljøingeniører
+LAB_disco08_2144,Produktions- og virksomhedsingeniører
+LAB_disco08_2145,Kemiske ingeniører
+LAB_disco08_2146,"Grubedriftsingeniører, metallurger og beslægtede fagfolk"
+LAB_disco08_2149,Ingeniører i.a.n.
+LAB_disco08_215,Elektroingeniører
+LAB_disco08_2151,Elektroingeniører
+LAB_disco08_2152,Elektronikingeniører
+LAB_disco08_2153,Telekommunikationsingeniører
+LAB_disco08_216,"Arkitekter, planlæggere, designere og landskabsarkitekter"
+LAB_disco08_2161,Bygningsarkitekter
+LAB_disco08_2162,Landskabsarkitekter
+LAB_disco08_2163,Produktdesignere og kunsthåndværkere
+LAB_disco08_2164,Planlæggere af arealanvendelse
+LAB_disco08_2165,Kartografer og landmålere
+LAB_disco08_2166,Grafiske designere og multimediedesignere
+LAB_disco08_3,Teknikere og tilsvarende fagfolk
+LAB_disco08_31,Naturvidenskabelige og tekniske teknikere
+LAB_disco08_311,Fysiske og tekniske teknikere
+LAB_disco08_3111,Kemiske og fysiske teknikere
+LAB_disco08_3112,Bygge- og anlægsteknikere
+LAB_disco08_3113,Elektroteknikere
+LAB_disco08_3114,Elektronik- og telekommunikationsteknikere
+LAB_disco08_3115,Maskinteknikere
+LAB_disco08_3116,Kemiteknikere
+LAB_disco08_3117,Grubedrifts- og metallurgiske teknikere
+LAB_disco08_3118,Tekniske tegnere
+LAB_disco08_3119,Fysiske og tekniske teknikere i.a.n.
+LAB_disco08_4,Kontorpersonale
+LAB_disco08_41,Generelt kontorpersonale
+LAB_disco08_411,Generelt kontorpersonale
+LAB_disco08_4110,Generelt kontorpersonale
+LAB_disco08_412,Sekretærer (generelle)
+LAB_disco08_4120,Sekretærer (generelle)
+LAB_disco08_413,Kontorpersonale til dataregistrering og beregning
+LAB_disco08_4131,Kontorpersonale til dataregistrering
+LAB_disco08_4132,Kontorpersonale til databehandling
+LAB_disco08_5,Service- og salgspersonale
+LAB_disco08_51,Personlige servicepersonale
+LAB_disco08_511,"Rejseledere, stewarder og lignende"
+LAB_disco08_5111,Rejseledere og flyveledere
+LAB_disco08_5112,Togkonduktører
+LAB_disco08_5113,Rejseledere
+LAB_disco08_512,Kokke
+LAB_disco08_5120,Kokke
+LAB_disco08_513,Tjenere og barmænd
+LAB_disco08_5131,Tjenere
+LAB_disco08_5132,Barmænd
+LAB_disco08_6,"Faglærte arbejdere inden for landbrug, skovbrug og fiskeri"
+LAB_disco08_61,Markortienterede landbrugs- og fiskeriarbejdere
+LAB_disco08_611,Markortienterede landbrugsarbejdere og gartnere
+LAB_disco08_6111,Landbrugsarbejdere
+LAB_disco08_6112,Gartnere og planteavlere
+LAB_disco08_6113,Skovarbejdere og træfældere
+LAB_disco08_6114,Fiskere
+LAB_disco08_7,Håndværkere og andre faglærte arbejdere
+LAB_disco08_71,Byggearbejdere og beslægtede fagfolk undtagen elektrikere
+LAB_disco08_711,Bygningsarbejdere og beslægtede fagfolk
+LAB_disco08_7111,Husbyggere
+LAB_disco08_7112,Murere
+LAB_disco08_7113,Tømrere
+LAB_disco08_7114,Vedligeholdelse og reparation af bygninger
+LAB_disco08_712,Bygge- og anlægsarbejdere
+LAB_disco08_7121,Tagdækkere
+LAB_disco08_7122,Gulvlæggere og flisesættere
+LAB_disco08_7123,Gipsere
+LAB_disco08_7124,Isolerings- og rørarbejdere
+LAB_disco08_7125,Glasmagere
+LAB_disco08_7126,VVS-arbejdere
+LAB_disco08_7127,Aircondition- og køletekniske installere
+LAB_disco08_8,Operatører og montører
+LAB_disco08_81,Operatører af stationære anlæg og maskiner
+LAB_disco08_811,Operatører af mineudvindingsanlæg
+LAB_disco08_8111,Mineoperatører
+LAB_disco08_8112,Operatører af mineralforarbejdningsanlæg
+LAB_disco08_8113,Operatører af brøndboringsanlæg
+LAB_disco08_812,Operatører af metalforarbejdningsanlæg
+LAB_disco08_8121,Operatører af metalsmeltningsanlæg
+LAB_disco08_8122,Operatører af metalvalseanlæg
+LAB_disco08_82,Montører
+LAB_disco08_821,Montører
+LAB_disco08_8211,Maskimontører
+LAB_disco08_8212,Elektronik- og telekommunikationsmonører
+LAB_disco08_83,Førere af køretøjer og operatører af mobilt udstyr
+LAB_disco08_831,Lokomotivførere og beslægtede arbejdere
+LAB_disco08_8311,Lokomotivførere
+LAB_disco08_8312,"Togbremser, signalmænd og sporskiftere"
+LAB_disco08_832,Bilførere og operatører af mobilt udstyr
+LAB_disco08_8321,Motorcykel- og cykeloperatører
+LAB_disco08_8322,"Bil-, taxi- og varebilchauffører"
+LAB_disco08_8329,Førere af andre køretøjer
+LAB_disco08_9,Ufaglærte arbejdere
+LAB_disco08_91,Rengøringspersonale og hjælpere
+LAB_disco08_911,Hjemmepersonale og rengøringspersonale
+LAB_disco08_9111,Hjemmepersonale
+LAB_disco08_9112,"Rengøringspersonale og hjælpere på kontorer, hoteller mv."
+LAB_disco08_912,Hjælpere inden for køkken
+LAB_disco08_9120,Hjælpere inden for køkken
+LAB_disco08_92,"Landbrugs-, skovbrugs- og fiskerihjælpere"
+LAB_disco08_921,"Landbrugs-, skovbrugs- og fiskerihjælpere"
+LAB_disco08_9211,Landbrugshjælpere
+LAB_disco08_9212,Skovbrugshjælpere
+LAB_disco08_9213,Akvakulturhjælpere og fiskerihjælpere
+LAB_disco08_93,"Hjælpere inden for minedrift, byggeri, fremstilling og transport"
+LAB_disco08_931,Hjælpere inden for minedrift og byggeri
+LAB_disco08_9311,Hjælpere inden for minedrift og stenbrud
+LAB_disco08_9312,Bygge- og anlægshjælpere
+LAB_disco08_9313,Bygningsrengøringspersonale og beslægtede fagfolk
+LAB_disco08_932,Fremstillingshjælpere
+LAB_disco08_9321,Håndpakkere og andre fremstillingshjælpere
+LAB_disco08_9329,Fremstillingshjælpere i.a.n.
+LAB_disco08_933,Transport- og lagerhjælpere
+LAB_disco08_9331,Håndløftere og godshåndtere
+LAB_disco08_9332,Førere af håndvogne og cykelbude
+LAB_disco08_9333,Fragtarbejdere
+LAB_disco08_9334,Tankpåfyldere og beslægtede fagfolk
+LAB_disco08_94,"Fødevarelavere, gadesælgere og anden servicepersonale"
+LAB_disco08_941,Fødevarelavere
+LAB_disco08_9411,Hurtigmadslavere
+LAB_disco08_9412,Køkkenhjælpere

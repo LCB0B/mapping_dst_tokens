@@ -1,0 +1,6 @@
+category,prefix,database,count,file
+DEM_Birth,DEM,Birth,1,MISSING/DEM_Birth_MISSING.csv
+DEM_Death,DEM,Death,1,MISSING/DEM_Death_MISSING.csv
+DEM_Indvandret,DEM,Indvandret,1,MISSING/DEM_Indvandret_MISSING.csv
+DEM_Udvandret,DEM,Udvandret,1,MISSING/DEM_Udvandret_MISSING.csv
+DEM_unknown,DEM,unknown,1,MISSING/DEM_unknown_MISSING.csv

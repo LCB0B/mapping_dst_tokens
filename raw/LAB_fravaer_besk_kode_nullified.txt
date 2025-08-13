@@ -1,0 +1,6 @@
+Valid from 	Valid for 	Code 	Text
+01-01-2008 		0 	Not absent
+01-01-2008 		1 	Childcare Leave
+01-01-2008 		2 	Absence due to illness
+01-01-2008 		3 	Absence due to maternity leave
+01-01-2008 		4 	Imputed job in case of short-term absence
