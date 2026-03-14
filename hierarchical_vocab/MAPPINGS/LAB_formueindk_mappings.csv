@@ -1,101 +1,101 @@
-code,prefix,database,value,description,source,confidence,language
-LAB_formueindk_brutto_Q1,LAB,formueindk,brutto_Q1,Wealth income (percentile): brutto_Q1,enhanced_english,medium,english
-LAB_formueindk_brutto_Q10,LAB,formueindk,brutto_Q10,Wealth income (percentile): brutto_Q10,enhanced_english,medium,english
-LAB_formueindk_brutto_Q100,LAB,formueindk,brutto_Q100,Wealth income (percentile): brutto_Q100,enhanced_english,medium,english
-LAB_formueindk_brutto_Q11,LAB,formueindk,brutto_Q11,Wealth income (percentile): brutto_Q11,enhanced_english,medium,english
-LAB_formueindk_brutto_Q12,LAB,formueindk,brutto_Q12,Wealth income (percentile): brutto_Q12,enhanced_english,medium,english
-LAB_formueindk_brutto_Q13,LAB,formueindk,brutto_Q13,Wealth income (percentile): brutto_Q13,enhanced_english,medium,english
-LAB_formueindk_brutto_Q14,LAB,formueindk,brutto_Q14,Wealth income (percentile): brutto_Q14,enhanced_english,medium,english
-LAB_formueindk_brutto_Q15,LAB,formueindk,brutto_Q15,Wealth income (percentile): brutto_Q15,enhanced_english,medium,english
-LAB_formueindk_brutto_Q16,LAB,formueindk,brutto_Q16,Wealth income (percentile): brutto_Q16,enhanced_english,medium,english
-LAB_formueindk_brutto_Q17,LAB,formueindk,brutto_Q17,Wealth income (percentile): brutto_Q17,enhanced_english,medium,english
-LAB_formueindk_brutto_Q18,LAB,formueindk,brutto_Q18,Wealth income (percentile): brutto_Q18,enhanced_english,medium,english
-LAB_formueindk_brutto_Q19,LAB,formueindk,brutto_Q19,Wealth income (percentile): brutto_Q19,enhanced_english,medium,english
-LAB_formueindk_brutto_Q2,LAB,formueindk,brutto_Q2,Wealth income (percentile): brutto_Q2,enhanced_english,medium,english
-LAB_formueindk_brutto_Q20,LAB,formueindk,brutto_Q20,Wealth income (percentile): brutto_Q20,enhanced_english,medium,english
-LAB_formueindk_brutto_Q21,LAB,formueindk,brutto_Q21,Wealth income (percentile): brutto_Q21,enhanced_english,medium,english
-LAB_formueindk_brutto_Q22,LAB,formueindk,brutto_Q22,Wealth income (percentile): brutto_Q22,enhanced_english,medium,english
-LAB_formueindk_brutto_Q23,LAB,formueindk,brutto_Q23,Wealth income (percentile): brutto_Q23,enhanced_english,medium,english
-LAB_formueindk_brutto_Q24,LAB,formueindk,brutto_Q24,Wealth income (percentile): brutto_Q24,enhanced_english,medium,english
-LAB_formueindk_brutto_Q25,LAB,formueindk,brutto_Q25,Wealth income (percentile): brutto_Q25,enhanced_english,medium,english
-LAB_formueindk_brutto_Q26,LAB,formueindk,brutto_Q26,Wealth income (percentile): brutto_Q26,enhanced_english,medium,english
-LAB_formueindk_brutto_Q27,LAB,formueindk,brutto_Q27,Wealth income (percentile): brutto_Q27,enhanced_english,medium,english
-LAB_formueindk_brutto_Q28,LAB,formueindk,brutto_Q28,Wealth income (percentile): brutto_Q28,enhanced_english,medium,english
-LAB_formueindk_brutto_Q29,LAB,formueindk,brutto_Q29,Wealth income (percentile): brutto_Q29,enhanced_english,medium,english
-LAB_formueindk_brutto_Q3,LAB,formueindk,brutto_Q3,Wealth income (percentile): brutto_Q3,enhanced_english,medium,english
-LAB_formueindk_brutto_Q30,LAB,formueindk,brutto_Q30,Wealth income (percentile): brutto_Q30,enhanced_english,medium,english
-LAB_formueindk_brutto_Q31,LAB,formueindk,brutto_Q31,Wealth income (percentile): brutto_Q31,enhanced_english,medium,english
-LAB_formueindk_brutto_Q32,LAB,formueindk,brutto_Q32,Wealth income (percentile): brutto_Q32,enhanced_english,medium,english
-LAB_formueindk_brutto_Q33,LAB,formueindk,brutto_Q33,Wealth income (percentile): brutto_Q33,enhanced_english,medium,english
-LAB_formueindk_brutto_Q34,LAB,formueindk,brutto_Q34,Wealth income (percentile): brutto_Q34,enhanced_english,medium,english
-LAB_formueindk_brutto_Q35,LAB,formueindk,brutto_Q35,Wealth income (percentile): brutto_Q35,enhanced_english,medium,english
-LAB_formueindk_brutto_Q36,LAB,formueindk,brutto_Q36,Wealth income (percentile): brutto_Q36,enhanced_english,medium,english
-LAB_formueindk_brutto_Q37,LAB,formueindk,brutto_Q37,Wealth income (percentile): brutto_Q37,enhanced_english,medium,english
-LAB_formueindk_brutto_Q38,LAB,formueindk,brutto_Q38,Wealth income (percentile): brutto_Q38,enhanced_english,medium,english
-LAB_formueindk_brutto_Q39,LAB,formueindk,brutto_Q39,Wealth income (percentile): brutto_Q39,enhanced_english,medium,english
-LAB_formueindk_brutto_Q4,LAB,formueindk,brutto_Q4,Wealth income (percentile): brutto_Q4,enhanced_english,medium,english
-LAB_formueindk_brutto_Q40,LAB,formueindk,brutto_Q40,Wealth income (percentile): brutto_Q40,enhanced_english,medium,english
-LAB_formueindk_brutto_Q41,LAB,formueindk,brutto_Q41,Wealth income (percentile): brutto_Q41,enhanced_english,medium,english
-LAB_formueindk_brutto_Q42,LAB,formueindk,brutto_Q42,Wealth income (percentile): brutto_Q42,enhanced_english,medium,english
-LAB_formueindk_brutto_Q43,LAB,formueindk,brutto_Q43,Wealth income (percentile): brutto_Q43,enhanced_english,medium,english
-LAB_formueindk_brutto_Q44,LAB,formueindk,brutto_Q44,Wealth income (percentile): brutto_Q44,enhanced_english,medium,english
-LAB_formueindk_brutto_Q45,LAB,formueindk,brutto_Q45,Wealth income (percentile): brutto_Q45,enhanced_english,medium,english
-LAB_formueindk_brutto_Q46,LAB,formueindk,brutto_Q46,Wealth income (percentile): brutto_Q46,enhanced_english,medium,english
-LAB_formueindk_brutto_Q47,LAB,formueindk,brutto_Q47,Wealth income (percentile): brutto_Q47,enhanced_english,medium,english
-LAB_formueindk_brutto_Q48,LAB,formueindk,brutto_Q48,Wealth income (percentile): brutto_Q48,enhanced_english,medium,english
-LAB_formueindk_brutto_Q49,LAB,formueindk,brutto_Q49,Wealth income (percentile): brutto_Q49,enhanced_english,medium,english
-LAB_formueindk_brutto_Q5,LAB,formueindk,brutto_Q5,Wealth income (percentile): brutto_Q5,enhanced_english,medium,english
-LAB_formueindk_brutto_Q50,LAB,formueindk,brutto_Q50,Wealth income (percentile): brutto_Q50,enhanced_english,medium,english
-LAB_formueindk_brutto_Q51,LAB,formueindk,brutto_Q51,Wealth income (percentile): brutto_Q51,enhanced_english,medium,english
-LAB_formueindk_brutto_Q52,LAB,formueindk,brutto_Q52,Wealth income (percentile): brutto_Q52,enhanced_english,medium,english
-LAB_formueindk_brutto_Q53,LAB,formueindk,brutto_Q53,Wealth income (percentile): brutto_Q53,enhanced_english,medium,english
-LAB_formueindk_brutto_Q54,LAB,formueindk,brutto_Q54,Wealth income (percentile): brutto_Q54,enhanced_english,medium,english
-LAB_formueindk_brutto_Q55,LAB,formueindk,brutto_Q55,Wealth income (percentile): brutto_Q55,enhanced_english,medium,english
-LAB_formueindk_brutto_Q56,LAB,formueindk,brutto_Q56,Wealth income (percentile): brutto_Q56,enhanced_english,medium,english
-LAB_formueindk_brutto_Q57,LAB,formueindk,brutto_Q57,Wealth income (percentile): brutto_Q57,enhanced_english,medium,english
-LAB_formueindk_brutto_Q58,LAB,formueindk,brutto_Q58,Wealth income (percentile): brutto_Q58,enhanced_english,medium,english
-LAB_formueindk_brutto_Q59,LAB,formueindk,brutto_Q59,Wealth income (percentile): brutto_Q59,enhanced_english,medium,english
-LAB_formueindk_brutto_Q6,LAB,formueindk,brutto_Q6,Wealth income (percentile): brutto_Q6,enhanced_english,medium,english
-LAB_formueindk_brutto_Q60,LAB,formueindk,brutto_Q60,Wealth income (percentile): brutto_Q60,enhanced_english,medium,english
-LAB_formueindk_brutto_Q61,LAB,formueindk,brutto_Q61,Wealth income (percentile): brutto_Q61,enhanced_english,medium,english
-LAB_formueindk_brutto_Q62,LAB,formueindk,brutto_Q62,Wealth income (percentile): brutto_Q62,enhanced_english,medium,english
-LAB_formueindk_brutto_Q63,LAB,formueindk,brutto_Q63,Wealth income (percentile): brutto_Q63,enhanced_english,medium,english
-LAB_formueindk_brutto_Q64,LAB,formueindk,brutto_Q64,Wealth income (percentile): brutto_Q64,enhanced_english,medium,english
-LAB_formueindk_brutto_Q65,LAB,formueindk,brutto_Q65,Wealth income (percentile): brutto_Q65,enhanced_english,medium,english
-LAB_formueindk_brutto_Q66,LAB,formueindk,brutto_Q66,Wealth income (percentile): brutto_Q66,enhanced_english,medium,english
-LAB_formueindk_brutto_Q67,LAB,formueindk,brutto_Q67,Wealth income (percentile): brutto_Q67,enhanced_english,medium,english
-LAB_formueindk_brutto_Q68,LAB,formueindk,brutto_Q68,Wealth income (percentile): brutto_Q68,enhanced_english,medium,english
-LAB_formueindk_brutto_Q69,LAB,formueindk,brutto_Q69,Wealth income (percentile): brutto_Q69,enhanced_english,medium,english
-LAB_formueindk_brutto_Q7,LAB,formueindk,brutto_Q7,Wealth income (percentile): brutto_Q7,enhanced_english,medium,english
-LAB_formueindk_brutto_Q70,LAB,formueindk,brutto_Q70,Wealth income (percentile): brutto_Q70,enhanced_english,medium,english
-LAB_formueindk_brutto_Q71,LAB,formueindk,brutto_Q71,Wealth income (percentile): brutto_Q71,enhanced_english,medium,english
-LAB_formueindk_brutto_Q72,LAB,formueindk,brutto_Q72,Wealth income (percentile): brutto_Q72,enhanced_english,medium,english
-LAB_formueindk_brutto_Q73,LAB,formueindk,brutto_Q73,Wealth income (percentile): brutto_Q73,enhanced_english,medium,english
-LAB_formueindk_brutto_Q74,LAB,formueindk,brutto_Q74,Wealth income (percentile): brutto_Q74,enhanced_english,medium,english
-LAB_formueindk_brutto_Q75,LAB,formueindk,brutto_Q75,Wealth income (percentile): brutto_Q75,enhanced_english,medium,english
-LAB_formueindk_brutto_Q76,LAB,formueindk,brutto_Q76,Wealth income (percentile): brutto_Q76,enhanced_english,medium,english
-LAB_formueindk_brutto_Q77,LAB,formueindk,brutto_Q77,Wealth income (percentile): brutto_Q77,enhanced_english,medium,english
-LAB_formueindk_brutto_Q78,LAB,formueindk,brutto_Q78,Wealth income (percentile): brutto_Q78,enhanced_english,medium,english
-LAB_formueindk_brutto_Q79,LAB,formueindk,brutto_Q79,Wealth income (percentile): brutto_Q79,enhanced_english,medium,english
-LAB_formueindk_brutto_Q8,LAB,formueindk,brutto_Q8,Wealth income (percentile): brutto_Q8,enhanced_english,medium,english
-LAB_formueindk_brutto_Q80,LAB,formueindk,brutto_Q80,Wealth income (percentile): brutto_Q80,enhanced_english,medium,english
-LAB_formueindk_brutto_Q81,LAB,formueindk,brutto_Q81,Wealth income (percentile): brutto_Q81,enhanced_english,medium,english
-LAB_formueindk_brutto_Q82,LAB,formueindk,brutto_Q82,Wealth income (percentile): brutto_Q82,enhanced_english,medium,english
-LAB_formueindk_brutto_Q83,LAB,formueindk,brutto_Q83,Wealth income (percentile): brutto_Q83,enhanced_english,medium,english
-LAB_formueindk_brutto_Q84,LAB,formueindk,brutto_Q84,Wealth income (percentile): brutto_Q84,enhanced_english,medium,english
-LAB_formueindk_brutto_Q85,LAB,formueindk,brutto_Q85,Wealth income (percentile): brutto_Q85,enhanced_english,medium,english
-LAB_formueindk_brutto_Q86,LAB,formueindk,brutto_Q86,Wealth income (percentile): brutto_Q86,enhanced_english,medium,english
-LAB_formueindk_brutto_Q87,LAB,formueindk,brutto_Q87,Wealth income (percentile): brutto_Q87,enhanced_english,medium,english
-LAB_formueindk_brutto_Q88,LAB,formueindk,brutto_Q88,Wealth income (percentile): brutto_Q88,enhanced_english,medium,english
-LAB_formueindk_brutto_Q89,LAB,formueindk,brutto_Q89,Wealth income (percentile): brutto_Q89,enhanced_english,medium,english
-LAB_formueindk_brutto_Q9,LAB,formueindk,brutto_Q9,Wealth income (percentile): brutto_Q9,enhanced_english,medium,english
-LAB_formueindk_brutto_Q90,LAB,formueindk,brutto_Q90,Wealth income (percentile): brutto_Q90,enhanced_english,medium,english
-LAB_formueindk_brutto_Q91,LAB,formueindk,brutto_Q91,Wealth income (percentile): brutto_Q91,enhanced_english,medium,english
-LAB_formueindk_brutto_Q92,LAB,formueindk,brutto_Q92,Wealth income (percentile): brutto_Q92,enhanced_english,medium,english
-LAB_formueindk_brutto_Q93,LAB,formueindk,brutto_Q93,Wealth income (percentile): brutto_Q93,enhanced_english,medium,english
-LAB_formueindk_brutto_Q94,LAB,formueindk,brutto_Q94,Wealth income (percentile): brutto_Q94,enhanced_english,medium,english
-LAB_formueindk_brutto_Q95,LAB,formueindk,brutto_Q95,Wealth income (percentile): brutto_Q95,enhanced_english,medium,english
-LAB_formueindk_brutto_Q96,LAB,formueindk,brutto_Q96,Wealth income (percentile): brutto_Q96,enhanced_english,medium,english
-LAB_formueindk_brutto_Q97,LAB,formueindk,brutto_Q97,Wealth income (percentile): brutto_Q97,enhanced_english,medium,english
-LAB_formueindk_brutto_Q98,LAB,formueindk,brutto_Q98,Wealth income (percentile): brutto_Q98,enhanced_english,medium,english
-LAB_formueindk_brutto_Q99,LAB,formueindk,brutto_Q99,Wealth income (percentile): brutto_Q99,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+LAB_formueindk_brutto_Q27,LAB,formueindk,brutto_Q27,Capital income - 27th percentile,,Capital income - 27th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q30,LAB,formueindk,brutto_Q30,Capital income - 30th percentile,,Capital income - 30th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q28,LAB,formueindk,brutto_Q28,Capital income - 28th percentile,,Capital income - 28th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q18,LAB,formueindk,brutto_Q18,Capital income - 18th percentile,,Capital income - 18th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q21,LAB,formueindk,brutto_Q21,Capital income - 21th percentile,,Capital income - 21th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q24,LAB,formueindk,brutto_Q24,Capital income - 24th percentile,,Capital income - 24th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q13,LAB,formueindk,brutto_Q13,Capital income - 13th percentile,,Capital income - 13th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q22,LAB,formueindk,brutto_Q22,Capital income - 22th percentile,,Capital income - 22th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q14,LAB,formueindk,brutto_Q14,Capital income - 14th percentile,,Capital income - 14th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q29,LAB,formueindk,brutto_Q29,Capital income - 29th percentile,,Capital income - 29th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q31,LAB,formueindk,brutto_Q31,Capital income - 31th percentile,,Capital income - 31th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q11,LAB,formueindk,brutto_Q11,Capital income - 11th percentile,,Capital income - 11th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q12,LAB,formueindk,brutto_Q12,Capital income - 12th percentile,,Capital income - 12th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q15,LAB,formueindk,brutto_Q15,Capital income - 15th percentile,,Capital income - 15th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q10,LAB,formueindk,brutto_Q10,Capital income - 10th percentile,,Capital income - 10th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q17,LAB,formueindk,brutto_Q17,Capital income - 17th percentile,,Capital income - 17th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q20,LAB,formueindk,brutto_Q20,Capital income - 20th percentile,,Capital income - 20th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q25,LAB,formueindk,brutto_Q25,Capital income - 25th percentile,,Capital income - 25th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q38,LAB,formueindk,brutto_Q38,Capital income - 38th percentile,,Capital income - 38th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q47,LAB,formueindk,brutto_Q47,Capital income - 47th percentile,,Capital income - 47th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q78,LAB,formueindk,brutto_Q78,Capital income - 78th percentile,,Capital income - 78th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q41,LAB,formueindk,brutto_Q41,Capital income - 41th percentile,,Capital income - 41th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q64,LAB,formueindk,brutto_Q64,Capital income - 64th percentile,,Capital income - 64th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q19,LAB,formueindk,brutto_Q19,Capital income - 19th percentile,,Capital income - 19th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q2,LAB,formueindk,brutto_Q2,Capital income - 2th percentile,,Capital income - 2th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q46,LAB,formueindk,brutto_Q46,Capital income - 46th percentile,,Capital income - 46th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q68,LAB,formueindk,brutto_Q68,Capital income - 68th percentile,,Capital income - 68th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q26,LAB,formueindk,brutto_Q26,Capital income - 26th percentile,,Capital income - 26th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q43,LAB,formueindk,brutto_Q43,Capital income - 43th percentile,,Capital income - 43th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q9,LAB,formueindk,brutto_Q9,Capital income - 9th percentile,,Capital income - 9th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q16,LAB,formueindk,brutto_Q16,Capital income - 16th percentile,,Capital income - 16th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q32,LAB,formueindk,brutto_Q32,Capital income - 32th percentile,,Capital income - 32th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q54,LAB,formueindk,brutto_Q54,Capital income - 54th percentile,,Capital income - 54th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q45,LAB,formueindk,brutto_Q45,Capital income - 45th percentile,,Capital income - 45th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q23,LAB,formueindk,brutto_Q23,Capital income - 23th percentile,,Capital income - 23th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q1,LAB,formueindk,brutto_Q1,Capital income - 1th percentile,,Capital income - 1th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q49,LAB,formueindk,brutto_Q49,Capital income - 49th percentile,,Capital income - 49th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q50,LAB,formueindk,brutto_Q50,Capital income - 50th percentile,,Capital income - 50th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q34,LAB,formueindk,brutto_Q34,Capital income - 34th percentile,,Capital income - 34th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q90,LAB,formueindk,brutto_Q90,Capital income - 90th percentile,,Capital income - 90th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q62,LAB,formueindk,brutto_Q62,Capital income - 62th percentile,,Capital income - 62th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q69,LAB,formueindk,brutto_Q69,Capital income - 69th percentile,,Capital income - 69th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q59,LAB,formueindk,brutto_Q59,Capital income - 59th percentile,,Capital income - 59th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q94,LAB,formueindk,brutto_Q94,Capital income - 94th percentile,,Capital income - 94th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q7,LAB,formueindk,brutto_Q7,Capital income - 7th percentile,,Capital income - 7th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q75,LAB,formueindk,brutto_Q75,Capital income - 75th percentile,,Capital income - 75th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q99,LAB,formueindk,brutto_Q99,Capital income - 99th percentile,,Capital income - 99th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q82,LAB,formueindk,brutto_Q82,Capital income - 82th percentile,,Capital income - 82th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q66,LAB,formueindk,brutto_Q66,Capital income - 66th percentile,,Capital income - 66th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q35,LAB,formueindk,brutto_Q35,Capital income - 35th percentile,,Capital income - 35th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q48,LAB,formueindk,brutto_Q48,Capital income - 48th percentile,,Capital income - 48th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q61,LAB,formueindk,brutto_Q61,Capital income - 61th percentile,,Capital income - 61th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q53,LAB,formueindk,brutto_Q53,Capital income - 53th percentile,,Capital income - 53th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q83,LAB,formueindk,brutto_Q83,Capital income - 83th percentile,,Capital income - 83th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q92,LAB,formueindk,brutto_Q92,Capital income - 92th percentile,,Capital income - 92th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q93,LAB,formueindk,brutto_Q93,Capital income - 93th percentile,,Capital income - 93th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q60,LAB,formueindk,brutto_Q60,Capital income - 60th percentile,,Capital income - 60th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q85,LAB,formueindk,brutto_Q85,Capital income - 85th percentile,,Capital income - 85th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q77,LAB,formueindk,brutto_Q77,Capital income - 77th percentile,,Capital income - 77th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q72,LAB,formueindk,brutto_Q72,Capital income - 72th percentile,,Capital income - 72th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q8,LAB,formueindk,brutto_Q8,Capital income - 8th percentile,,Capital income - 8th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q33,LAB,formueindk,brutto_Q33,Capital income - 33th percentile,,Capital income - 33th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q36,LAB,formueindk,brutto_Q36,Capital income - 36th percentile,,Capital income - 36th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q44,LAB,formueindk,brutto_Q44,Capital income - 44th percentile,,Capital income - 44th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q79,LAB,formueindk,brutto_Q79,Capital income - 79th percentile,,Capital income - 79th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q74,LAB,formueindk,brutto_Q74,Capital income - 74th percentile,,Capital income - 74th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q51,LAB,formueindk,brutto_Q51,Capital income - 51th percentile,,Capital income - 51th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q80,LAB,formueindk,brutto_Q80,Capital income - 80th percentile,,Capital income - 80th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q84,LAB,formueindk,brutto_Q84,Capital income - 84th percentile,,Capital income - 84th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q52,LAB,formueindk,brutto_Q52,Capital income - 52th percentile,,Capital income - 52th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q57,LAB,formueindk,brutto_Q57,Capital income - 57th percentile,,Capital income - 57th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q58,LAB,formueindk,brutto_Q58,Capital income - 58th percentile,,Capital income - 58th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q56,LAB,formueindk,brutto_Q56,Capital income - 56th percentile,,Capital income - 56th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q4,LAB,formueindk,brutto_Q4,Capital income - 4th percentile,,Capital income - 4th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q65,LAB,formueindk,brutto_Q65,Capital income - 65th percentile,,Capital income - 65th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q67,LAB,formueindk,brutto_Q67,Capital income - 67th percentile,,Capital income - 67th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q73,LAB,formueindk,brutto_Q73,Capital income - 73th percentile,,Capital income - 73th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q42,LAB,formueindk,brutto_Q42,Capital income - 42th percentile,,Capital income - 42th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q76,LAB,formueindk,brutto_Q76,Capital income - 76th percentile,,Capital income - 76th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q81,LAB,formueindk,brutto_Q81,Capital income - 81th percentile,,Capital income - 81th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q39,LAB,formueindk,brutto_Q39,Capital income - 39th percentile,,Capital income - 39th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q71,LAB,formueindk,brutto_Q71,Capital income - 71th percentile,,Capital income - 71th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q55,LAB,formueindk,brutto_Q55,Capital income - 55th percentile,,Capital income - 55th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q3,LAB,formueindk,brutto_Q3,Capital income - 3th percentile,,Capital income - 3th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q5,LAB,formueindk,brutto_Q5,Capital income - 5th percentile,,Capital income - 5th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q37,LAB,formueindk,brutto_Q37,Capital income - 37th percentile,,Capital income - 37th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q40,LAB,formueindk,brutto_Q40,Capital income - 40th percentile,,Capital income - 40th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q6,LAB,formueindk,brutto_Q6,Capital income - 6th percentile,,Capital income - 6th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q63,LAB,formueindk,brutto_Q63,Capital income - 63th percentile,,Capital income - 63th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q88,LAB,formueindk,brutto_Q88,Capital income - 88th percentile,,Capital income - 88th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q98,LAB,formueindk,brutto_Q98,Capital income - 98th percentile,,Capital income - 98th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q95,LAB,formueindk,brutto_Q95,Capital income - 95th percentile,,Capital income - 95th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q100,LAB,formueindk,brutto_Q100,Capital income - 100th percentile,,Capital income - 100th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q97,LAB,formueindk,brutto_Q97,Capital income - 97th percentile,,Capital income - 97th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q70,LAB,formueindk,brutto_Q70,Capital income - 70th percentile,,Capital income - 70th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q91,LAB,formueindk,brutto_Q91,Capital income - 91th percentile,,Capital income - 91th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q89,LAB,formueindk,brutto_Q89,Capital income - 89th percentile,,Capital income - 89th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q86,LAB,formueindk,brutto_Q86,Capital income - 86th percentile,,Capital income - 86th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q87,LAB,formueindk,brutto_Q87,Capital income - 87th percentile,,Capital income - 87th percentile,generated:quantile_percentile,medium,english,,
+LAB_formueindk_brutto_Q96,LAB,formueindk,brutto_Q96,Capital income - 96th percentile,,Capital income - 96th percentile,generated:quantile_percentile,medium,english,,

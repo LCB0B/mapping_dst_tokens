@@ -1,10 +1,10 @@
-code,prefix,database,value,description,source,confidence,language
-SOC_loeslkod_0.0,SOC,loeslkod,0.0,Release condition code: 0.0,enhanced_english,medium,english
-SOC_loeslkod_1.0,SOC,loeslkod,1.0,Release condition code: 1.0,enhanced_english,medium,english
-SOC_loeslkod_2.0,SOC,loeslkod,2.0,Release condition code: 2.0,enhanced_english,medium,english
-SOC_loeslkod_3.0,SOC,loeslkod,3.0,Release condition code: 3.0,enhanced_english,medium,english
-SOC_loeslkod_4.0,SOC,loeslkod,4.0,Release condition code: 4.0,enhanced_english,medium,english
-SOC_loeslkod_5.0,SOC,loeslkod,5.0,Release condition code: 5.0,enhanced_english,medium,english
-SOC_loeslkod_7.0,SOC,loeslkod,7.0,Release condition code: 7.0,enhanced_english,medium,english
-SOC_loeslkod_8.0,SOC,loeslkod,8.0,Release condition code: 8.0,enhanced_english,medium,english
-SOC_loeslkod_9.0,SOC,loeslkod,9.0,Release condition code: 9.0,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+SOC_loeslkod_2.0,SOC,loeslkod,2.0,Released by police within 24 hours without constitutional interrogation,Released by police within 24 hours without constitutional interrogation,,none|dict_fill,medium,danish,,
+SOC_loeslkod_1.0,SOC,loeslkod,1.0,Released by the judge in constitutional interrogation,Released by the judge in constitutional interrogation,,none|dict_fill,medium,danish,,
+SOC_loeslkod_4.0,SOC,loeslkod,4.0,Released after pre-trial detention,Released after pre-trial detention,,none|dict_fill,medium,danish,,
+SOC_loeslkod_0.0,SOC,loeslkod,0.0,Unenlightened,Unenlightened,,none|dict_fill,medium,danish,,
+SOC_loeslkod_3.0,SOC,loeslkod,3.0,Released by police after maintained arrest u. reforestim.i Grundls.inter interrogation,Released by police after maintained arrest u. reforestim.i Grundls.inter interrogation,,none|dict_fill,medium,danish,,
+SOC_loeslkod_9.0,SOC,loeslkod,9.0,Released after detention,Released after detention,,none|dict_fill,medium,danish,,
+SOC_loeslkod_8.0,SOC,loeslkod,8.0,Released after administrative detention,Released after administrative detention,,none|dict_fill,medium,danish,,
+SOC_loeslkod_5.0,SOC,loeslkod,5.0,Directly to serving after constitutional interrogation (prison/tempt extended),Directly to serving after constitutional interrogation (prison/tempt extended),,none|dict_fill,medium,danish,,
+SOC_loeslkod_7.0,SOC,loeslkod,7.0,Detention maintained,Detention maintained,,none|dict_fill,medium,danish,,

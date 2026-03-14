@@ -1,5 +1,5 @@
-code,prefix,database,value,description,source,confidence,language
-HEA_patienttype_0,HEA,patienttype,0,Outpatient,enhanced_english,medium,english
-HEA_patienttype_1,HEA,patienttype,1,Inpatient,enhanced_english,medium,english
-HEA_patienttype_2,HEA,patienttype,2,Emergency patient,enhanced_english,medium,english
-HEA_patienttype_3,HEA,patienttype,3,Day surgery patient,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+HEA_patienttype_2,HEA,patienttype,2,Emergency,,Emergency,none|generated,medium,danish,,
+HEA_patienttype_0,HEA,patienttype,0,Outpatient,,Outpatient,none|generated,medium,danish,,
+HEA_patienttype_3,HEA,patienttype,3,Ambulatory,,Ambulatory,none|generated,medium,danish,,
+HEA_patienttype_1,HEA,patienttype,1,Inpatient,,Inpatient,none|generated,medium,danish,,

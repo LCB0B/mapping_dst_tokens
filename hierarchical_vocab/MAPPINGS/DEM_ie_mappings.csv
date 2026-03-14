@@ -1,5 +1,5 @@
-code,prefix,database,value,description,source,confidence,language
-DEM_ie_type_1,DEM,ie,type_1,Immigrant,enhanced_english,medium,english
-DEM_ie_type_2,DEM,ie,type_2,Descendant of immigrant,enhanced_english,medium,english
-DEM_ie_type_3,DEM,ie,type_3,Danish origin,enhanced_english,medium,english
-DEM_ie_type_unknown,DEM,ie,type_unknown,Unknown immigration status,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+DEM_ie_type_1,DEM,ie,type_1,Immigration event,,Immigration event,none|generated,medium,danish,,
+DEM_ie_type_unknown,DEM,ie,type_unknown,Unknown immigration/emigration event,,Unknown immigration/emigration event,none|generated,medium,danish,,
+DEM_ie_type_2,DEM,ie,type_2,Emigration event,,Emigration event,none|generated,medium,danish,,
+DEM_ie_type_3,DEM,ie,type_3,Immigration/emigration type 3,,Immigration/emigration type 3,none|generated,medium,danish,,

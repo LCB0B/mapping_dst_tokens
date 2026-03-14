@@ -1,0 +1,2 @@
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+DEM_Birth,DEM,Birth,,Birth event indicator - marks a birth record in Danish administrative data,,Birth event indicator - marks a birth record in Danish administrative data,manual_demographic_events,medium,english,,

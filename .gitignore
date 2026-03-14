@@ -91,30 +91,37 @@ Thumbs.db
 *.temp
 *.log
 
-# Development/temporary Python scripts (keep locally, exclude from git)
-add_*.py
-cleanup_*.py
-convert_*.py
-create_*.py
-download_*.py
-enhance_*.py
-extract_*.py
-final_*.py
-fix_*.py
-map_*.py
-organize_*.py
-parse_*.py
-process_*.py
-simple_*.py
-update_*.py
-*_parser.py
+# One-off Python scripts at root (keep locally, exclude from git)
+# Permanent scripts go in scripts/ directory
+/add_*.py
+/cleanup_*.py
+/convert_*.py
+/create_*.py
+/download_*.py
+/enhance_*.py
+/extract_*.py
+/final_*.py
+/fix_*.py
+/map_*.py
+/organize_*.py
+/parse_*.py
+/process_*.py
+/simple_*.py
+/update_*.py
+/*_parser.py
 
 # Temporary processing directories
 hierarchical_mappings/
 temp_*
 *_temp.*
 
-# Summary/memory files
+# Ephemeral notes
 ALL_MAPPINGS_SUMMARY.py
 FINAL_*_SUMMARY.md
 MEMORY_*.md
+
+# Intermediate data files (data is in MASTER_CATEGORY_MAPPINGS.csv)
+extracted_mappings.json
+pt_extracted_mappings.json
+lookup_reference_data.json
+REPOSITORY_STRUCTURE.csv

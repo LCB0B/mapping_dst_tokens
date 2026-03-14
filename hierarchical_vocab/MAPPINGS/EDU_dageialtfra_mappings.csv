@@ -1,24 +1,24 @@
-code,prefix,database,value,description,source,confidence,language
-EDU_dageialtfra_1,EDU,dageialtfra,1,Total days absent from education: 1,enhanced_english,medium,english
-EDU_dageialtfra_10,EDU,dageialtfra,10,Total days absent from education: 10,enhanced_english,medium,english
-EDU_dageialtfra_11,EDU,dageialtfra,11,Total days absent from education: 11,enhanced_english,medium,english
-EDU_dageialtfra_12,EDU,dageialtfra,12,Total days absent from education: 12,enhanced_english,medium,english
-EDU_dageialtfra_13,EDU,dageialtfra,13,Total days absent from education: 13,enhanced_english,medium,english
-EDU_dageialtfra_14,EDU,dageialtfra,14,Total days absent from education: 14,enhanced_english,medium,english
-EDU_dageialtfra_15,EDU,dageialtfra,15,Total days absent from education: 15,enhanced_english,medium,english
-EDU_dageialtfra_16,EDU,dageialtfra,16,Total days absent from education: 16,enhanced_english,medium,english
-EDU_dageialtfra_17,EDU,dageialtfra,17,Total days absent from education: 17,enhanced_english,medium,english
-EDU_dageialtfra_18,EDU,dageialtfra,18,Total days absent from education: 18,enhanced_english,medium,english
-EDU_dageialtfra_19,EDU,dageialtfra,19,Total days absent from education: 19,enhanced_english,medium,english
-EDU_dageialtfra_2,EDU,dageialtfra,2,Total days absent from education: 2,enhanced_english,medium,english
-EDU_dageialtfra_20,EDU,dageialtfra,20,Total days absent from education: 20,enhanced_english,medium,english
-EDU_dageialtfra_21,EDU,dageialtfra,21,Total days absent from education: 21,enhanced_english,medium,english
-EDU_dageialtfra_22,EDU,dageialtfra,22,Total days absent from education: 22,enhanced_english,medium,english
-EDU_dageialtfra_23,EDU,dageialtfra,23,Total days absent from education: 23,enhanced_english,medium,english
-EDU_dageialtfra_3,EDU,dageialtfra,3,Total days absent from education: 3,enhanced_english,medium,english
-EDU_dageialtfra_4,EDU,dageialtfra,4,Total days absent from education: 4,enhanced_english,medium,english
-EDU_dageialtfra_5,EDU,dageialtfra,5,Total days absent from education: 5,enhanced_english,medium,english
-EDU_dageialtfra_6,EDU,dageialtfra,6,Total days absent from education: 6,enhanced_english,medium,english
-EDU_dageialtfra_7,EDU,dageialtfra,7,Total days absent from education: 7,enhanced_english,medium,english
-EDU_dageialtfra_8,EDU,dageialtfra,8,Total days absent from education: 8,enhanced_english,medium,english
-EDU_dageialtfra_9,EDU,dageialtfra,9,Total days absent from education: 9,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+EDU_dageialtfra_2,EDU,dageialtfra,2,total absence days: 2 (bin),,total absence days: 2 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_5,EDU,dageialtfra,5,total absence days: 5 (bin),,total absence days: 5 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_3,EDU,dageialtfra,3,total absence days: 3 (bin),,total absence days: 3 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_1,EDU,dageialtfra,1,total absence days: 1 (bin),,total absence days: 1 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_4,EDU,dageialtfra,4,total absence days: 4 (bin),,total absence days: 4 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_7,EDU,dageialtfra,7,total absence days: 7 (bin),,total absence days: 7 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_6,EDU,dageialtfra,6,total absence days: 6 (bin),,total absence days: 6 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_8,EDU,dageialtfra,8,total absence days: 8 (bin),,total absence days: 8 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_10,EDU,dageialtfra,10,total absence days: 10 (bin),,total absence days: 10 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_9,EDU,dageialtfra,9,total absence days: 9 (bin),,total absence days: 9 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_12,EDU,dageialtfra,12,total absence days: 12 (bin),,total absence days: 12 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_13,EDU,dageialtfra,13,total absence days: 13 (bin),,total absence days: 13 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_23,EDU,dageialtfra,23,total absence days: 23 (bin),,total absence days: 23 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_14,EDU,dageialtfra,14,total absence days: 14 (bin),,total absence days: 14 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_16,EDU,dageialtfra,16,total absence days: 16 (bin),,total absence days: 16 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_11,EDU,dageialtfra,11,total absence days: 11 (bin),,total absence days: 11 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_18,EDU,dageialtfra,18,total absence days: 18 (bin),,total absence days: 18 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_15,EDU,dageialtfra,15,total absence days: 15 (bin),,total absence days: 15 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_20,EDU,dageialtfra,20,total absence days: 20 (bin),,total absence days: 20 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_22,EDU,dageialtfra,22,total absence days: 22 (bin),,total absence days: 22 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_19,EDU,dageialtfra,19,total absence days: 19 (bin),,total absence days: 19 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_17,EDU,dageialtfra,17,total absence days: 17 (bin),,total absence days: 17 (bin),none|generated,medium,danish,,
+EDU_dageialtfra_21,EDU,dageialtfra,21,total absence days: 21 (bin),,total absence days: 21 (bin),none|generated,medium,danish,,

@@ -1,211 +1,133 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Claude Code when working with this repository.
 
 ## Repository Overview
-This is a hierarchical vocabulary mapping repository for Danish administrative and educational data systems. The repository contains a complete hierarchical organization of vocab.json codes with comprehensive mappings to English and Danish descriptions.
 
-## Project Goals ✅ COMPLETED
-1. **Hierarchical Organization**: Split vocab.json into systematic hierarchical structure ✅
-2. **CSV Format**: All data organized in easily accessible CSV format ✅  
-3. **Complete Mappings**: Comprehensive mappings from multiple authoritative sources ✅
-4. **Source Tracking**: Track mapping sources and confidence levels ✅
-5. **Missing Identification**: Identify categories needing manual mappings ✅
+Hierarchical vocabulary mapping system for 41,201 codes used in Danish administrative register data (health, education, labor, demographics, social/criminal justice). Each code maps to a token ID in a transformer model vocabulary.
 
-**Result**: Clean hierarchical structure with 124 categories, 117 with mappings, 5 needing manual input
+## Architecture
 
-## Repository Structure
+**MASTER_CATEGORY_MAPPINGS.csv** is the single source of truth. All per-category MAPPINGS/ files are regenerated from it via `scripts/regenerate_mappings.py`. Never edit MAPPINGS/ files directly — edit MASTER and regenerate.
 
-### Core Files
-- **vocab.json**: Original vocabulary file (41,201 codes)
-- **HIERARCHY_SUMMARY.csv**: Complete overview of all categories
-- **REPOSITORY_STRUCTURE.csv**: Directory structure summary
+## File Inventory
 
-### Original Data Sources  
-- **mapping/**: Original mapping files (DISCO_CODES.txt, lookup_dictionaries/*.pt, raw/*)
-- **pt_extracted_mappings.json**: Extracted from PyTorch dictionary files (36,092 mappings)
-- **extracted_mappings.json**: Extracted from DISCO and SAS files (6,463 mappings)
-- **lookup_reference_data.json**: Reference data (ICD-10, municipalities, countries)
+### Root — Core Data
+| File | What it is | Why it's here |
+|------|-----------|---------------|
+| `vocab.json` | Original vocabulary: 41,201 code-to-token_id pairs | Source of truth for token IDs |
+| `MASTER_CATEGORY_MAPPINGS.csv` | Every code with description, source, confidence (41,201 rows) | Central data file, source of truth for descriptions |
+| `HIERARCHY_SUMMARY.csv` | Overview of all 127 categories with counts | Quick reference for category structure |
+| `README.md` | Project description and usage | Documentation |
+| `.gitignore` | Git ignore rules | Excludes one-off scripts, virtual envs, intermediate files |
 
-### Hierarchical Structure: `/hierarchical_vocab/`
+### `scripts/` — Permanent Utilities
+| File | Purpose |
+|------|---------|
+| `regenerate_mappings.py` | Regenerate MAPPINGS/ files from MASTER |
+| `build_hierarchies.py` | Fill description gaps from dict files + build parent_code/hierarchy_level |
+| `add_language_columns.py` | Split descriptions into description_da/description_en columns |
 
-#### Vocabulary by Category
+### `hierarchical_vocab/` — Per-Category Data
+
+#### Vocabulary Files (`DEM/`, `EDU/`, `HEA/`, `LAB/`, `SOC/`, `SPECIAL/`)
+One CSV per category. Columns: `code, prefix, database, value, token_id`. These define which codes belong to each category.
+
+- **DEM/** (25 categories): Demographics — municipalities (kom), countries (statsb, opr), birth data, family structure, immigration/emigration events
+- **EDU/** (18 categories): Education — AUDD post-secondary, UDD higher ed, DISCED classification, grades, ECTS, courses
+- **HEA/** (19 categories): Health — ICD-10 diagnoses, ICD-8 codes (numeric values without D prefix), ATC medications, medical specialties, procedure codes (DDK, DW, DWG, DWK, GA, GI, GP, L, MG, ML, PK, ST, TU)
+- **LAB/** (41 categories): Labor market — DISCO/DISCO-08 occupations, DB07/NACE/branche industries, socio-economic status, income quantiles, employment
+- **SOC/** (23 categories): Social/criminal — GER7 offense codes, legal paragraphs (pgf), sentence types, placement types
+- **SPECIAL/** (1 category): Model tokens [PAD], [CLS], [SEP], [UNK], [MASK]
+
+#### `MAPPINGS/` (127 files)
+Per-category mapping files with descriptions and sources. Columns: `code, prefix, database, value, description, source, confidence, language`. **Generated from MASTER** — do not edit directly.
+
+#### `MISSING/` (6 files)
+Templates for categories needing manual descriptions (Birth, Death, Immigration, Emigration, unknown events).
+
+### `mapping/` — Original Source Data
+| Path | What it is |
+|------|-----------|
+| `DISCO_CODES.txt` | Danish occupational classification codes (source for LAB_disco) |
+| `13_to_7_mapping.txt` | GER 13-digit to 7-digit offense code mapping (source for SOC_ger7) |
+| `lookup_dictionaries/*.csv` | Extracted classification dictionaries (40+ files) — richest reference data per category |
+| `lookup_dictionaries/*.pt` | Original PyTorch dictionary files (16 files) — binary source for the CSV extractions |
+| `edu_code_related/*.parquet` | AUDD-to-DISCED crosswalk tables (4 files) |
+| `edu_len_mapping.parquet` | Education program length mapping |
+| `raw/AUDD_PRIA_L1LX_K.txt` | Raw education priority data |
+
+### `raw/` — Classification Reference Files
+| File | What it is |
+|------|-----------|
+| `atc.csv` | ATC medication classification (222KB, comprehensive reference) |
+| `nace.txt` | NACE/DB93 industry codes 1992-2007 (partial English translation) |
+| `LAB_nace.txt` | NACE/DB93 industry codes (clean Danish version) |
+| `branche77.txt` | Danish industry codes (branche format) |
+| `disco.csv` | DISCO occupation codes |
+| `csv_da.csv` | Danish CSV classification data |
+| `Speciale_koder_med_tekst_samt_vejledning.csv` | Medical specialty codes with text and guidance (2.5MB) |
+| `Special2.txt` | HEA_speciale specialty mapping reference |
+| `groups_of_medicines_text.txt` | ATC medicine group descriptions |
+| `speciale_instructions.txt` | HEA_speciale 6-digit structure documentation |
+| `bin_instructions.txt` | Manual mapping instructions for bins/quantiles |
+| `DEM_*.txt`, `DEN_*.txt` | Demographic category SAS format definitions (civst, far_foed_adop, fm_mark, mor_foed_adop) |
+| `EDU_field.txt` | Education field classification |
+| `SOC_*.txt` | Social/criminal SAS format definitions (afgtypko, bstrfkod, frakkod, haendelse, loeslkod, pgf, samtykke) |
+| `LAB_*.txt` | Labor SAS format definitions (fravaer, stoette, tilstand_kode) |
+| `far-foed-adop.txt`, `mor-foed-adop.txt` | Father/mother birth/adoption event codes |
+
+## MASTER_CATEGORY_MAPPINGS.csv Schema
+
 ```
-DEM/     - Demographics (22 categories)
-├── DEM_birthyear.csv         (158 codes)
-├── DEM_kom.csv               (356 municipality codes)  
-├── DEM_statsb.csv            (214 country residence codes)
-├── DEM_opr.csv               (219 country origin codes)
-└── ... (18 more demographic categories)
-
-EDU/     - Education (16 categories)  
-├── EDU_audd.csv              (3,758 post-secondary codes)
-├── EDU_udd.csv               (2,416 higher education codes)
-├── EDU_disced.csv            (790 DISCED classifications)
-└── ... (13 more education categories)
-
-HEA/     - Health (19 categories)
-├── HEA_icd10.csv             (15,206 medical diagnosis codes)
-├── HEA_speciale.csv          (6,134 medical specialty codes)
-├── HEA_atc.csv               (1,657 medication codes)  
-└── ... (16 more health categories)
-
-LAB/     - Labor Market (42 categories)
-├── LAB_disco.csv             (793 occupation codes)
-├── LAB_disco08.csv           (756 DISCO-08 codes)
-├── LAB_db07.csv              (1,483 industry codes)
-├── LAB_socio13.csv           (21 socio-economic codes)
-└── ... (38 more labor categories)
-
-SOC/     - Social/Criminal (22 categories)
-├── SOC_ger7.csv              (938 criminal offense codes)
-├── SOC_ansted.csv            (32 placement type codes)
-├── SOC_frakkod.csv           (186 offense type codes)
-└── ... (19 more social categories)
-
-SPECIAL/ - Special tokens (1 category)
-└── special_tokens.csv        (5 model tokens: [PAD], [CLS], etc.)
-```
-
-#### Mappings with Sources: `/hierarchical_vocab/MAPPINGS/`
-```
-MAPPINGS/
-├── SOURCES_DOCUMENTATION.csv           # Documentation of all mapping sources
-├── DEM_kom_mappings.csv                # Municipality mappings with sources
-├── EDU_audd_mappings.csv               # Education mappings with sources  
-├── HEA_icd10_mappings.csv              # Medical mappings with sources
-├── LAB_disco_mappings.csv              # Occupation mappings with sources
-└── ... (117 mapping files total)
-
-Each mapping CSV contains:
-- code: The vocabulary code
-- prefix: Category prefix (DEM, EDU, HEA, LAB, SOC)
-- database: Database/subcategory  
-- value: The specific value/identifier
-- description: English/Danish description
-- source: Source of mapping (pt_dictionaries, disco_codes, etc.)
-- confidence: Confidence level (highest, high, medium, low)
-- language: Original language of description
-```
-
-#### Missing Mappings: `/hierarchical_vocab/MISSING/`
-```
-MISSING/
-├── MISSING_CATEGORIES_SUMMARY.csv      # Overview of categories needing mappings
-├── DEM_Birth_MISSING.csv               # Template for Birth event codes
-├── DEM_Death_MISSING.csv               # Template for Death event codes  
-├── DEM_Indvandret_MISSING.csv          # Template for Immigration codes
-├── DEM_Udvandret_MISSING.csv           # Template for Emigration codes
-└── DEM_unknown_MISSING.csv             # Template for Unknown codes
-
-Each missing CSV contains template with:
-- code: The vocabulary code
-- prefix, database, value: Structure information  
-- description_en: [TO BE FILLED]
-- description_da: [TO BE FILLED]  
-- notes: [FOR ADDITIONAL INFO]
-- confidence: [TO BE SET]
-- source: manual
+code            — Unique code (e.g., HEA_ICD10_DA001)
+token_id        — Transformer vocabulary token ID
+prefix          — Domain: DEM, EDU, HEA, LAB, SOC, SPECIAL
+variable        — Sub-classification (e.g., ICD10, disco, kom). Called "database" in MAPPINGS/ files.
+value           — The specific code value
+category        — Full category name (prefix_variable)
+description     — Human-readable description (Danish or English)
+description_da  — Danish description (empty if English-only)
+description_en  — English description (empty if Danish-only)
+source          — Where the description came from
+mapped          — Whether description exists (True/False)
+total_codes     — Total codes in this category (summary stat, may be empty)
+mapped_codes    — Mapped codes in this category (summary stat, may be empty)
+mapping_percentage — Coverage percentage (summary stat, may be empty)
+primary_source  — Primary data source for this category (may be empty)
+confidence_level — highest/high/medium/low
+parent_code     — Parent code in hierarchy (empty for flat categories or top-level)
+hierarchy_level — Level name in hierarchy (e.g., chapter, block, category, subcategory)
 ```
 
-## Mapping Sources and Confidence Levels
+## Key Domain Knowledge
 
-### 🔥 **Highest Confidence** - PT Dictionaries (36,092 mappings)
-- **Source**: PyTorch files from `mapping/lookup_dictionaries/*.pt`
-- **Description**: Official Danish administrative classification dictionaries
-- **Language**: Danish
-- **Coverage**: DEM (municipalities, countries), EDU (education levels), HEA (medical), LAB (socio-economic), SOC (criminal)
+### ICD Codes in HEA_ICD10
+- Codes with `D` prefix (e.g., DA001, DG4732) are **ICD-10** with Danish chapter prefixes
+- Numeric-only codes (e.g., 00009, 01101) are **ICD-8** codes — a legacy classification
+- 556 ICD-8 codes currently have placeholder descriptions
 
-### 🎯 **High Confidence** - External Official Sources (6,463 mappings)  
-- **DISCO Codes**: Danish occupational classifications from `mapping/DISCO_CODES.txt`
-- **SAS Formats**: Code definitions from `mapping/raw/*.txt` files
-- **Language**: Mixed Danish/English
+### Hierarchical Classifications
+Eight categories have hierarchical parent-child structure encoded in `parent_code` and `hierarchy_level` columns:
+HEA_ICD10, HEA_ATC, LAB_disco, LAB_disco08, LAB_db07, LAB_nace, EDU_disced, SOC_ger7
 
-### 📊 **Medium Confidence** - Research Enhanced (remaining mappings)
-- **External APIs**: ICD-10 from GitHub, ATC medication categories
-- **Research**: Municipality names, country mappings from official sources
-- **Generated**: Pattern-based descriptions for percentiles and bins
+Total hierarchy relationships built: ~21,500 codes with parent_code set.
 
-## Working with this Repository
+### Confidence Levels
+- **highest**: PyTorch dictionaries (36,092 mappings from official Danish admin classifications)
+- **high**: DISCO codes, SAS format definitions
+- **medium**: External APIs, research-enhanced, generated patterns
+- **low**: Unverified or placeholder descriptions
 
-### Getting Started
-1. **Explore categories**: Check `HIERARCHY_SUMMARY.csv` for overview
-2. **Find your codes**: Look in appropriate `PREFIX/PREFIX_database.csv` file
-3. **Get mappings**: Check `MAPPINGS/PREFIX_database_mappings.csv` for descriptions
-4. **Identify gaps**: Review `MISSING/MISSING_CATEGORIES_SUMMARY.csv`
+## Common Operations
 
-### Adding Missing Mappings  
-1. Open relevant file in `MISSING/` directory
-2. Fill in `description_en` and `description_da` columns
-3. Set appropriate `confidence` level  
-4. Add `notes` for context
-5. Update `source` if using external reference
-
-### Key Danish Administrative Systems
-- **DISCED**: Education classification adapted for Denmark  
-- **DISCO-08**: Danish occupational classification (6-digit hierarchical)
-- **Municipality codes**: Danish administrative areas (kom codes)
-- **Country codes**: Origin (opr_land) and residence (statsb) classifications
-- **ICD-10**: International medical diagnosis codes (with D prefix)
-- **ATC**: Anatomical Therapeutic Chemical medication codes
-- **Socio codes**: Socio-economic status classifications
-
-## File Navigation Guide
-
-### For Demographics Research
-- **Municipalities**: `DEM/DEM_kom.csv` + `MAPPINGS/DEM_kom_mappings.csv`
-- **Countries**: `DEM/DEM_statsb.csv` + `DEM/DEM_opr.csv` + mappings
-- **Birth data**: `DEM/DEM_birthyear.csv`, `DEM/DEM_birthmonth.csv` + mappings
-
-### For Education Research  
-- **Post-secondary**: `EDU/EDU_audd.csv` + `MAPPINGS/EDU_audd_mappings.csv`
-- **Higher education**: `EDU/EDU_udd.csv` + `MAPPINGS/EDU_udd_mappings.csv`
-- **DISCED**: `EDU/EDU_disced.csv` + `MAPPINGS/EDU_disced_mappings.csv`
-
-### For Health Research
-- **Medical diagnoses**: `HEA/HEA_icd10.csv` + `MAPPINGS/HEA_icd10_mappings.csv`  
-- **Medications**: `HEA/HEA_atc.csv` + `MAPPINGS/HEA_atc_mappings.csv`
-- **Specialties**: `HEA/HEA_speciale.csv` + `MAPPINGS/HEA_speciale_mappings.csv`
-
-### For Labor Research
-- **Occupations**: `LAB/LAB_disco.csv` + `LAB/LAB_disco08.csv` + mappings
-- **Industries**: `LAB/LAB_db07.csv` + `LAB/LAB_nace.csv` + mappings  
-- **Socio-economic**: `LAB/LAB_socio13.csv` + `MAPPINGS/LAB_socio13_mappings.csv`
-
-### For Social/Criminal Research
-- **Criminal offenses**: `SOC/SOC_ger7.csv` + `MAPPINGS/SOC_ger7_mappings.csv`
-- **Placements**: `SOC/SOC_ansted.csv` + `MAPPINGS/SOC_ansted_mappings.csv`
-
-## Quick Statistics
-- **Total vocabulary codes**: 41,201
-- **Hierarchical categories**: 124
-- **Categories with mappings**: 117 (94.4%)
-- **Categories needing work**: 5 (4.0%)
-- **Highest confidence mappings**: 36,092 (87.6%)
-- **CSV files created**: 246 total
-- **Repository structure**: Clean and systematic
-
-## Usage Examples
-
-### Finding Municipality Name
+### Regenerate MAPPINGS/ from MASTER
 ```bash
-# Check municipality code 237
-grep "DEM_kom_237" hierarchical_vocab/MAPPINGS/DEM_kom_mappings.csv
-# Result: Ølstykke
+python3 scripts/regenerate_mappings.py
 ```
 
-### Finding Country Name  
+### Find a code's description
 ```bash
-# Check country residence code 5159
-grep "DEM_statsb_5159" hierarchical_vocab/MAPPINGS/DEM_statsb_mappings.csv  
-# Result: San Marino
+grep "DEM_kom_101" MASTER_CATEGORY_MAPPINGS.csv
+# → København
 ```
-
-### Finding Education Level
-```bash
-# Check education code 1006
-grep "EDU_audd_1006" hierarchical_vocab/MAPPINGS/EDU_audd_mappings.csv
-# Result: 6. klasse (6th grade)
-```
-
-The repository is now organized hierarchically and ready for systematic vocabulary research and mapping completion.

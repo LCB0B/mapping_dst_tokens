@@ -1,6 +1,6 @@
-code,prefix,database,value,description,source,confidence,language
-HEA_TU_manual_bin_1,HEA,TU,manual_bin_1,HEA TU code: manual_bin_1,enhanced_english,medium,english
-HEA_TU_manual_bin_10,HEA,TU,manual_bin_10,HEA TU code: manual_bin_10,enhanced_english,medium,english
-HEA_TU_manual_bin_100_500,HEA,TU,manual_bin_100_500,HEA TU code: manual_bin_100_500,enhanced_english,medium,english
-HEA_TU_manual_bin_3,HEA,TU,manual_bin_3,HEA TU code: manual_bin_3,enhanced_english,medium,english
-HEA_TU_manual_bin_500_1000,HEA,TU,manual_bin_500_1000,HEA TU code: manual_bin_500_1000,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+HEA_TU_manual_bin_1,HEA,TU,manual_bin_1,emergency visits (TU): 1 (bin),,emergency visits (TU): 1 (bin),none|generated,medium,danish,,
+HEA_TU_manual_bin_100_500,HEA,TU,manual_bin_100_500,emergency visits (TU): 100-500 (bin),,emergency visits (TU): 100-500 (bin),none|generated,medium,danish,,
+HEA_TU_manual_bin_3,HEA,TU,manual_bin_3,emergency visits (TU): 3 (bin),,emergency visits (TU): 3 (bin),none|generated,medium,danish,,
+HEA_TU_manual_bin_10,HEA,TU,manual_bin_10,emergency visits (TU): 10 (bin),,emergency visits (TU): 10 (bin),none|generated,medium,danish,,
+HEA_TU_manual_bin_500_1000,HEA,TU,manual_bin_500_1000,emergency visits (TU): 500-1000 (bin),,emergency visits (TU): 500-1000 (bin),none|generated,medium,danish,,

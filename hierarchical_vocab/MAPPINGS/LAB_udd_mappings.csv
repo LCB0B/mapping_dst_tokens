@@ -1,2 +1,2 @@
-code,prefix,database,value,description,source,confidence,language
-LAB_udd_besk_kode_nullified_1,LAB,udd,besk_kode_nullified_1,Education in labor context: besk_kode_nullified_1,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+LAB_udd_besk_kode_nullified_1,LAB,udd,besk_kode_nullified_1,Employment code: nullified/not applicable,,Employment code: nullified/not applicable,none|generated|generated|generated,medium,danish,,

@@ -1,52 +1,52 @@
-code,prefix,database,value,description,source,confidence,language
-LAB_socio_gl_1,LAB,socio,gl_1,Socio-economic classification: gl_1,enhanced_english,medium,english
-LAB_socio_gl_10,LAB,socio,gl_10,Socio-economic classification: gl_10,enhanced_english,medium,english
-LAB_socio_gl_11,LAB,socio,gl_11,Socio-economic classification: gl_11,enhanced_english,medium,english
-LAB_socio_gl_12,LAB,socio,gl_12,Socio-economic classification: gl_12,enhanced_english,medium,english
-LAB_socio_gl_19,LAB,socio,gl_19,Socio-economic classification: gl_19,enhanced_english,medium,english
-LAB_socio_gl_2,LAB,socio,gl_2,Socio-economic classification: gl_2,enhanced_english,medium,english
-LAB_socio_gl_20,LAB,socio,gl_20,Socio-economic classification: gl_20,enhanced_english,medium,english
-LAB_socio_gl_21,LAB,socio,gl_21,Socio-economic classification: gl_21,enhanced_english,medium,english
-LAB_socio_gl_22,LAB,socio,gl_22,Socio-economic classification: gl_22,enhanced_english,medium,english
-LAB_socio_gl_23,LAB,socio,gl_23,Socio-economic classification: gl_23,enhanced_english,medium,english
-LAB_socio_gl_25,LAB,socio,gl_25,Socio-economic classification: gl_25,enhanced_english,medium,english
-LAB_socio_gl_26,LAB,socio,gl_26,Socio-economic classification: gl_26,enhanced_english,medium,english
-LAB_socio_gl_27,LAB,socio,gl_27,Socio-economic classification: gl_27,enhanced_english,medium,english
-LAB_socio_gl_28,LAB,socio,gl_28,Socio-economic classification: gl_28,enhanced_english,medium,english
-LAB_socio_gl_29,LAB,socio,gl_29,Socio-economic classification: gl_29,enhanced_english,medium,english
-LAB_socio_gl_3,LAB,socio,gl_3,Socio-economic classification: gl_3,enhanced_english,medium,english
-LAB_socio_gl_30,LAB,socio,gl_30,Socio-economic classification: gl_30,enhanced_english,medium,english
-LAB_socio_gl_31,LAB,socio,gl_31,Socio-economic classification: gl_31,enhanced_english,medium,english
-LAB_socio_gl_32,LAB,socio,gl_32,Socio-economic classification: gl_32,enhanced_english,medium,english
-LAB_socio_gl_33,LAB,socio,gl_33,Socio-economic classification: gl_33,enhanced_english,medium,english
-LAB_socio_gl_39,LAB,socio,gl_39,Socio-economic classification: gl_39,enhanced_english,medium,english
-LAB_socio_gl_4,LAB,socio,gl_4,Socio-economic classification: gl_4,enhanced_english,medium,english
-LAB_socio_gl_40,LAB,socio,gl_40,Socio-economic classification: gl_40,enhanced_english,medium,english
-LAB_socio_gl_41,LAB,socio,gl_41,Socio-economic classification: gl_41,enhanced_english,medium,english
-LAB_socio_gl_42,LAB,socio,gl_42,Socio-economic classification: gl_42,enhanced_english,medium,english
-LAB_socio_gl_43,LAB,socio,gl_43,Socio-economic classification: gl_43,enhanced_english,medium,english
-LAB_socio_gl_49,LAB,socio,gl_49,Socio-economic classification: gl_49,enhanced_english,medium,english
-LAB_socio_gl_5,LAB,socio,gl_5,Socio-economic classification: gl_5,enhanced_english,medium,english
-LAB_socio_gl_50,LAB,socio,gl_50,Socio-economic classification: gl_50,enhanced_english,medium,english
-LAB_socio_gl_51,LAB,socio,gl_51,Socio-economic classification: gl_51,enhanced_english,medium,english
-LAB_socio_gl_52,LAB,socio,gl_52,Socio-economic classification: gl_52,enhanced_english,medium,english
-LAB_socio_gl_53,LAB,socio,gl_53,Socio-economic classification: gl_53,enhanced_english,medium,english
-LAB_socio_gl_59,LAB,socio,gl_59,Socio-economic classification: gl_59,enhanced_english,medium,english
-LAB_socio_gl_6,LAB,socio,gl_6,Socio-economic classification: gl_6,enhanced_english,medium,english
-LAB_socio_gl_60,LAB,socio,gl_60,Socio-economic classification: gl_60,enhanced_english,medium,english
-LAB_socio_gl_61,LAB,socio,gl_61,Socio-economic classification: gl_61,enhanced_english,medium,english
-LAB_socio_gl_62,LAB,socio,gl_62,Socio-economic classification: gl_62,enhanced_english,medium,english
-LAB_socio_gl_63,LAB,socio,gl_63,Socio-economic classification: gl_63,enhanced_english,medium,english
-LAB_socio_gl_69,LAB,socio,gl_69,Socio-economic classification: gl_69,enhanced_english,medium,english
-LAB_socio_gl_7,LAB,socio,gl_7,Socio-economic classification: gl_7,enhanced_english,medium,english
-LAB_socio_gl_70,LAB,socio,gl_70,Socio-economic classification: gl_70,enhanced_english,medium,english
-LAB_socio_gl_71,LAB,socio,gl_71,Socio-economic classification: gl_71,enhanced_english,medium,english
-LAB_socio_gl_72,LAB,socio,gl_72,Socio-economic classification: gl_72,enhanced_english,medium,english
-LAB_socio_gl_73,LAB,socio,gl_73,Socio-economic classification: gl_73,enhanced_english,medium,english
-LAB_socio_gl_79,LAB,socio,gl_79,Socio-economic classification: gl_79,enhanced_english,medium,english
-LAB_socio_gl_8,LAB,socio,gl_8,Socio-economic classification: gl_8,enhanced_english,medium,english
-LAB_socio_gl_80,LAB,socio,gl_80,Socio-economic classification: gl_80,enhanced_english,medium,english
-LAB_socio_gl_81,LAB,socio,gl_81,Socio-economic classification: gl_81,enhanced_english,medium,english
-LAB_socio_gl_82,LAB,socio,gl_82,Socio-economic classification: gl_82,enhanced_english,medium,english
-LAB_socio_gl_89,LAB,socio,gl_89,Socio-economic classification: gl_89,enhanced_english,medium,english
-LAB_socio_gl_9,LAB,socio,gl_9,Socio-economic classification: gl_9,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+LAB_socio_gl_80,LAB,socio,gl_80,"Ikke i arbejdsstyrken i øvrigt (Not in labor force otherwise, old)",,"Ikke i arbejdsstyrken i øvrigt (Not in labor force otherwise, old)",none|generated,medium,danish,,
+LAB_socio_gl_89,LAB,socio,gl_89,"Socio-økonomisk status uoplyst (Socio-economic status unknown, old)",,"Socio-økonomisk status uoplyst (Socio-economic status unknown, old)",none|generated,medium,danish,,
+LAB_socio_gl_1,LAB,socio,gl_1,"Selvstændige (Self-employed, old classification)",,"Selvstændige (Self-employed, old classification)",none|generated,medium,danish,,
+LAB_socio_gl_41,LAB,socio,gl_41,"Arbejdsløs mindst halvdelen af året (Unemployed at least half the year, old)",,"Arbejdsløs mindst halvdelen af året (Unemployed at least half the year, old)",none|generated,medium,danish,,
+LAB_socio_gl_71,LAB,socio,gl_71,"Barn 0-15 år (Child 0-15 years, old)",,"Barn 0-15 år (Child 0-15 years, old)",none|generated,medium,danish,,
+LAB_socio_gl_27,LAB,socio,gl_27,Old socio-economic classification code 27,,Old socio-economic classification code 27,none|generated,medium,danish,,
+LAB_socio_gl_62,LAB,socio,gl_62,Old socio-economic classification code 62,,Old socio-economic classification code 62,none|generated,medium,danish,,
+LAB_socio_gl_72,LAB,socio,gl_72,Old socio-economic classification code 72,,Old socio-economic classification code 72,none|generated,medium,danish,,
+LAB_socio_gl_6,LAB,socio,gl_6,Old socio-economic classification code 6,,Old socio-economic classification code 6,none|generated,medium,danish,,
+LAB_socio_gl_7,LAB,socio,gl_7,Old socio-economic classification code 7,,Old socio-economic classification code 7,none|generated,medium,danish,,
+LAB_socio_gl_79,LAB,socio,gl_79,Old socio-economic classification code 79,,Old socio-economic classification code 79,none|generated,medium,danish,,
+LAB_socio_gl_2,LAB,socio,gl_2,"Medhjælpende ægtefælle (Assisting spouse, old)",,"Medhjælpende ægtefælle (Assisting spouse, old)",none|generated,medium,danish,,
+LAB_socio_gl_9,LAB,socio,gl_9,Old socio-economic classification code 9,,Old socio-economic classification code 9,none|generated,medium,danish,,
+LAB_socio_gl_31,LAB,socio,gl_31,"Direktør mv. (Director etc., old)",,"Direktør mv. (Director etc., old)",none|generated,medium,danish,,
+LAB_socio_gl_32,LAB,socio,gl_32,"Overordnet funktionær (Senior employee, old)",,"Overordnet funktionær (Senior employee, old)",none|generated,medium,danish,,
+LAB_socio_gl_33,LAB,socio,gl_33,"Ledende funktionær (Leading employee, old)",,"Ledende funktionær (Leading employee, old)",none|generated,medium,danish,,
+LAB_socio_gl_12,LAB,socio,gl_12,"Selvstændig, 5-9 ansatte (Self-employed, 5-9 employees, old)",,"Selvstændig, 5-9 ansatte (Self-employed, 5-9 employees, old)",none|generated,medium,danish,,
+LAB_socio_gl_19,LAB,socio,gl_19,Old socio-economic classification code 19,,Old socio-economic classification code 19,none|generated,medium,danish,,
+LAB_socio_gl_43,LAB,socio,gl_43,Old socio-economic classification code 43,,Old socio-economic classification code 43,none|generated,medium,danish,,
+LAB_socio_gl_73,LAB,socio,gl_73,Old socio-economic classification code 73,,Old socio-economic classification code 73,none|generated,medium,danish,,
+LAB_socio_gl_3,LAB,socio,gl_3,"Topleder (Top manager, old)",,"Topleder (Top manager, old)",none|generated,medium,danish,,
+LAB_socio_gl_28,LAB,socio,gl_28,Old socio-economic classification code 28,,Old socio-economic classification code 28,none|generated,medium,danish,,
+LAB_socio_gl_42,LAB,socio,gl_42,Old socio-economic classification code 42,,Old socio-economic classification code 42,none|generated,medium,danish,,
+LAB_socio_gl_21,LAB,socio,gl_21,"Medhjælpende ægtefælle (Assisting spouse, old)",,"Medhjælpende ægtefælle (Assisting spouse, old)",none|generated,medium,danish,,
+LAB_socio_gl_22,LAB,socio,gl_22,Old socio-economic classification code 22,,Old socio-economic classification code 22,none|generated,medium,danish,,
+LAB_socio_gl_63,LAB,socio,gl_63,Old socio-economic classification code 63,,Old socio-economic classification code 63,none|generated,medium,danish,,
+LAB_socio_gl_61,LAB,socio,gl_61,Old socio-economic classification code 61,,Old socio-economic classification code 61,none|generated,medium,danish,,
+LAB_socio_gl_51,LAB,socio,gl_51,"Efterlønsmodtager (Early retirement benefit recipient, old)",,"Efterlønsmodtager (Early retirement benefit recipient, old)",none|generated,medium,danish,,
+LAB_socio_gl_26,LAB,socio,gl_26,Old socio-economic classification code 26,,Old socio-economic classification code 26,none|generated,medium,danish,,
+LAB_socio_gl_29,LAB,socio,gl_29,Old socio-economic classification code 29,,Old socio-economic classification code 29,none|generated,medium,danish,,
+LAB_socio_gl_8,LAB,socio,gl_8,Old socio-economic classification code 8,,Old socio-economic classification code 8,none|generated,medium,danish,,
+LAB_socio_gl_53,LAB,socio,gl_53,"Øvrige ikke-erhvervsaktive (Other inactive, old)",,"Øvrige ikke-erhvervsaktive (Other inactive, old)",none|generated,medium,danish,,
+LAB_socio_gl_82,LAB,socio,gl_82,Old socio-economic classification code 82,,Old socio-economic classification code 82,none|generated,medium,danish,,
+LAB_socio_gl_52,LAB,socio,gl_52,"Pensionist (Pensioner, old)",,"Pensionist (Pensioner, old)",none|generated,medium,danish,,
+LAB_socio_gl_39,LAB,socio,gl_39,"Lønmodtager uoplyst (Employee, unspecified, old)",,"Lønmodtager uoplyst (Employee, unspecified, old)",none|generated,medium,danish,,
+LAB_socio_gl_59,LAB,socio,gl_59,"Uddannelsessøgende (Student, old)",,"Uddannelsessøgende (Student, old)",none|generated,medium,danish,,
+LAB_socio_gl_30,LAB,socio,gl_30,Old socio-economic classification code 30,,Old socio-economic classification code 30,none|generated,medium,danish,,
+LAB_socio_gl_69,LAB,socio,gl_69,Old socio-economic classification code 69,,Old socio-economic classification code 69,none|generated,medium,danish,,
+LAB_socio_gl_4,LAB,socio,gl_4,"Lønmodtager, højeste niveau (Employee, highest level, old)",,"Lønmodtager, højeste niveau (Employee, highest level, old)",none|generated,medium,danish,,
+LAB_socio_gl_60,LAB,socio,gl_60,"Kontanthjælpsmodtager (Cash benefit recipient, old)",,"Kontanthjælpsmodtager (Cash benefit recipient, old)",none|generated,medium,danish,,
+LAB_socio_gl_50,LAB,socio,gl_50,Old socio-economic classification code 50,,Old socio-economic classification code 50,none|generated,medium,danish,,
+LAB_socio_gl_10,LAB,socio,gl_10,"Selvstændig, 20+ ansatte (Self-employed, 20+ employees, old)",,"Selvstændig, 20+ ansatte (Self-employed, 20+ employees, old)",none|generated,medium,danish,,
+LAB_socio_gl_49,LAB,socio,gl_49,Old socio-economic classification code 49,,Old socio-economic classification code 49,none|generated,medium,danish,,
+LAB_socio_gl_11,LAB,socio,gl_11,"Selvstændig, 10-19 ansatte (Self-employed, 10-19 employees, old)",,"Selvstændig, 10-19 ansatte (Self-employed, 10-19 employees, old)",none|generated,medium,danish,,
+LAB_socio_gl_5,LAB,socio,gl_5,"Lønmodtager, mellemste niveau (Employee, middle level, old)",,"Lønmodtager, mellemste niveau (Employee, middle level, old)",none|generated,medium,danish,,
+LAB_socio_gl_70,LAB,socio,gl_70,Old socio-economic classification code 70,,Old socio-economic classification code 70,none|generated,medium,danish,,
+LAB_socio_gl_23,LAB,socio,gl_23,Old socio-economic classification code 23,,Old socio-economic classification code 23,none|generated,medium,danish,,
+LAB_socio_gl_81,LAB,socio,gl_81,Old socio-economic classification code 81,,Old socio-economic classification code 81,none|generated,medium,danish,,
+LAB_socio_gl_25,LAB,socio,gl_25,Old socio-economic classification code 25,,Old socio-economic classification code 25,none|generated,medium,danish,,
+LAB_socio_gl_40,LAB,socio,gl_40,Old socio-economic classification code 40,,Old socio-economic classification code 40,none|generated,medium,danish,,
+LAB_socio_gl_20,LAB,socio,gl_20,Old socio-economic classification code 20,,Old socio-economic classification code 20,none|generated,medium,danish,,

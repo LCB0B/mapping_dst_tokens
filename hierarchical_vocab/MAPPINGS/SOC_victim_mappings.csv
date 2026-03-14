@@ -1,2 +1,2 @@
-code,prefix,database,value,description,source,confidence,language
-SOC_victim_1,SOC,victim,1,Victim status: 1,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+SOC_victim_1,SOC,victim,1,Victim status: 1,,Victim status: 1,none|generated,medium,danish,,

@@ -1,101 +1,101 @@
-code,prefix,database,value,description,source,confidence,language
-LAB_honny_Q1,LAB,honny,Q1,Honey income measure (percentile): Q1,enhanced_english,medium,english
-LAB_honny_Q10,LAB,honny,Q10,Honey income measure (percentile): Q10,enhanced_english,medium,english
-LAB_honny_Q100,LAB,honny,Q100,Honey income measure (percentile): Q100,enhanced_english,medium,english
-LAB_honny_Q11,LAB,honny,Q11,Honey income measure (percentile): Q11,enhanced_english,medium,english
-LAB_honny_Q12,LAB,honny,Q12,Honey income measure (percentile): Q12,enhanced_english,medium,english
-LAB_honny_Q13,LAB,honny,Q13,Honey income measure (percentile): Q13,enhanced_english,medium,english
-LAB_honny_Q14,LAB,honny,Q14,Honey income measure (percentile): Q14,enhanced_english,medium,english
-LAB_honny_Q15,LAB,honny,Q15,Honey income measure (percentile): Q15,enhanced_english,medium,english
-LAB_honny_Q16,LAB,honny,Q16,Honey income measure (percentile): Q16,enhanced_english,medium,english
-LAB_honny_Q17,LAB,honny,Q17,Honey income measure (percentile): Q17,enhanced_english,medium,english
-LAB_honny_Q18,LAB,honny,Q18,Honey income measure (percentile): Q18,enhanced_english,medium,english
-LAB_honny_Q19,LAB,honny,Q19,Honey income measure (percentile): Q19,enhanced_english,medium,english
-LAB_honny_Q2,LAB,honny,Q2,Honey income measure (percentile): Q2,enhanced_english,medium,english
-LAB_honny_Q20,LAB,honny,Q20,Honey income measure (percentile): Q20,enhanced_english,medium,english
-LAB_honny_Q21,LAB,honny,Q21,Honey income measure (percentile): Q21,enhanced_english,medium,english
-LAB_honny_Q22,LAB,honny,Q22,Honey income measure (percentile): Q22,enhanced_english,medium,english
-LAB_honny_Q23,LAB,honny,Q23,Honey income measure (percentile): Q23,enhanced_english,medium,english
-LAB_honny_Q24,LAB,honny,Q24,Honey income measure (percentile): Q24,enhanced_english,medium,english
-LAB_honny_Q25,LAB,honny,Q25,Honey income measure (percentile): Q25,enhanced_english,medium,english
-LAB_honny_Q26,LAB,honny,Q26,Honey income measure (percentile): Q26,enhanced_english,medium,english
-LAB_honny_Q27,LAB,honny,Q27,Honey income measure (percentile): Q27,enhanced_english,medium,english
-LAB_honny_Q28,LAB,honny,Q28,Honey income measure (percentile): Q28,enhanced_english,medium,english
-LAB_honny_Q29,LAB,honny,Q29,Honey income measure (percentile): Q29,enhanced_english,medium,english
-LAB_honny_Q3,LAB,honny,Q3,Honey income measure (percentile): Q3,enhanced_english,medium,english
-LAB_honny_Q30,LAB,honny,Q30,Honey income measure (percentile): Q30,enhanced_english,medium,english
-LAB_honny_Q31,LAB,honny,Q31,Honey income measure (percentile): Q31,enhanced_english,medium,english
-LAB_honny_Q32,LAB,honny,Q32,Honey income measure (percentile): Q32,enhanced_english,medium,english
-LAB_honny_Q33,LAB,honny,Q33,Honey income measure (percentile): Q33,enhanced_english,medium,english
-LAB_honny_Q34,LAB,honny,Q34,Honey income measure (percentile): Q34,enhanced_english,medium,english
-LAB_honny_Q35,LAB,honny,Q35,Honey income measure (percentile): Q35,enhanced_english,medium,english
-LAB_honny_Q36,LAB,honny,Q36,Honey income measure (percentile): Q36,enhanced_english,medium,english
-LAB_honny_Q37,LAB,honny,Q37,Honey income measure (percentile): Q37,enhanced_english,medium,english
-LAB_honny_Q38,LAB,honny,Q38,Honey income measure (percentile): Q38,enhanced_english,medium,english
-LAB_honny_Q39,LAB,honny,Q39,Honey income measure (percentile): Q39,enhanced_english,medium,english
-LAB_honny_Q4,LAB,honny,Q4,Honey income measure (percentile): Q4,enhanced_english,medium,english
-LAB_honny_Q40,LAB,honny,Q40,Honey income measure (percentile): Q40,enhanced_english,medium,english
-LAB_honny_Q41,LAB,honny,Q41,Honey income measure (percentile): Q41,enhanced_english,medium,english
-LAB_honny_Q42,LAB,honny,Q42,Honey income measure (percentile): Q42,enhanced_english,medium,english
-LAB_honny_Q43,LAB,honny,Q43,Honey income measure (percentile): Q43,enhanced_english,medium,english
-LAB_honny_Q44,LAB,honny,Q44,Honey income measure (percentile): Q44,enhanced_english,medium,english
-LAB_honny_Q45,LAB,honny,Q45,Honey income measure (percentile): Q45,enhanced_english,medium,english
-LAB_honny_Q46,LAB,honny,Q46,Honey income measure (percentile): Q46,enhanced_english,medium,english
-LAB_honny_Q47,LAB,honny,Q47,Honey income measure (percentile): Q47,enhanced_english,medium,english
-LAB_honny_Q48,LAB,honny,Q48,Honey income measure (percentile): Q48,enhanced_english,medium,english
-LAB_honny_Q49,LAB,honny,Q49,Honey income measure (percentile): Q49,enhanced_english,medium,english
-LAB_honny_Q5,LAB,honny,Q5,Honey income measure (percentile): Q5,enhanced_english,medium,english
-LAB_honny_Q50,LAB,honny,Q50,Honey income measure (percentile): Q50,enhanced_english,medium,english
-LAB_honny_Q51,LAB,honny,Q51,Honey income measure (percentile): Q51,enhanced_english,medium,english
-LAB_honny_Q52,LAB,honny,Q52,Honey income measure (percentile): Q52,enhanced_english,medium,english
-LAB_honny_Q53,LAB,honny,Q53,Honey income measure (percentile): Q53,enhanced_english,medium,english
-LAB_honny_Q54,LAB,honny,Q54,Honey income measure (percentile): Q54,enhanced_english,medium,english
-LAB_honny_Q55,LAB,honny,Q55,Honey income measure (percentile): Q55,enhanced_english,medium,english
-LAB_honny_Q56,LAB,honny,Q56,Honey income measure (percentile): Q56,enhanced_english,medium,english
-LAB_honny_Q57,LAB,honny,Q57,Honey income measure (percentile): Q57,enhanced_english,medium,english
-LAB_honny_Q58,LAB,honny,Q58,Honey income measure (percentile): Q58,enhanced_english,medium,english
-LAB_honny_Q59,LAB,honny,Q59,Honey income measure (percentile): Q59,enhanced_english,medium,english
-LAB_honny_Q6,LAB,honny,Q6,Honey income measure (percentile): Q6,enhanced_english,medium,english
-LAB_honny_Q60,LAB,honny,Q60,Honey income measure (percentile): Q60,enhanced_english,medium,english
-LAB_honny_Q61,LAB,honny,Q61,Honey income measure (percentile): Q61,enhanced_english,medium,english
-LAB_honny_Q62,LAB,honny,Q62,Honey income measure (percentile): Q62,enhanced_english,medium,english
-LAB_honny_Q63,LAB,honny,Q63,Honey income measure (percentile): Q63,enhanced_english,medium,english
-LAB_honny_Q64,LAB,honny,Q64,Honey income measure (percentile): Q64,enhanced_english,medium,english
-LAB_honny_Q65,LAB,honny,Q65,Honey income measure (percentile): Q65,enhanced_english,medium,english
-LAB_honny_Q66,LAB,honny,Q66,Honey income measure (percentile): Q66,enhanced_english,medium,english
-LAB_honny_Q67,LAB,honny,Q67,Honey income measure (percentile): Q67,enhanced_english,medium,english
-LAB_honny_Q68,LAB,honny,Q68,Honey income measure (percentile): Q68,enhanced_english,medium,english
-LAB_honny_Q69,LAB,honny,Q69,Honey income measure (percentile): Q69,enhanced_english,medium,english
-LAB_honny_Q7,LAB,honny,Q7,Honey income measure (percentile): Q7,enhanced_english,medium,english
-LAB_honny_Q70,LAB,honny,Q70,Honey income measure (percentile): Q70,enhanced_english,medium,english
-LAB_honny_Q71,LAB,honny,Q71,Honey income measure (percentile): Q71,enhanced_english,medium,english
-LAB_honny_Q72,LAB,honny,Q72,Honey income measure (percentile): Q72,enhanced_english,medium,english
-LAB_honny_Q73,LAB,honny,Q73,Honey income measure (percentile): Q73,enhanced_english,medium,english
-LAB_honny_Q74,LAB,honny,Q74,Honey income measure (percentile): Q74,enhanced_english,medium,english
-LAB_honny_Q75,LAB,honny,Q75,Honey income measure (percentile): Q75,enhanced_english,medium,english
-LAB_honny_Q76,LAB,honny,Q76,Honey income measure (percentile): Q76,enhanced_english,medium,english
-LAB_honny_Q77,LAB,honny,Q77,Honey income measure (percentile): Q77,enhanced_english,medium,english
-LAB_honny_Q78,LAB,honny,Q78,Honey income measure (percentile): Q78,enhanced_english,medium,english
-LAB_honny_Q79,LAB,honny,Q79,Honey income measure (percentile): Q79,enhanced_english,medium,english
-LAB_honny_Q8,LAB,honny,Q8,Honey income measure (percentile): Q8,enhanced_english,medium,english
-LAB_honny_Q80,LAB,honny,Q80,Honey income measure (percentile): Q80,enhanced_english,medium,english
-LAB_honny_Q81,LAB,honny,Q81,Honey income measure (percentile): Q81,enhanced_english,medium,english
-LAB_honny_Q82,LAB,honny,Q82,Honey income measure (percentile): Q82,enhanced_english,medium,english
-LAB_honny_Q83,LAB,honny,Q83,Honey income measure (percentile): Q83,enhanced_english,medium,english
-LAB_honny_Q84,LAB,honny,Q84,Honey income measure (percentile): Q84,enhanced_english,medium,english
-LAB_honny_Q85,LAB,honny,Q85,Honey income measure (percentile): Q85,enhanced_english,medium,english
-LAB_honny_Q86,LAB,honny,Q86,Honey income measure (percentile): Q86,enhanced_english,medium,english
-LAB_honny_Q87,LAB,honny,Q87,Honey income measure (percentile): Q87,enhanced_english,medium,english
-LAB_honny_Q88,LAB,honny,Q88,Honey income measure (percentile): Q88,enhanced_english,medium,english
-LAB_honny_Q89,LAB,honny,Q89,Honey income measure (percentile): Q89,enhanced_english,medium,english
-LAB_honny_Q9,LAB,honny,Q9,Honey income measure (percentile): Q9,enhanced_english,medium,english
-LAB_honny_Q90,LAB,honny,Q90,Honey income measure (percentile): Q90,enhanced_english,medium,english
-LAB_honny_Q91,LAB,honny,Q91,Honey income measure (percentile): Q91,enhanced_english,medium,english
-LAB_honny_Q92,LAB,honny,Q92,Honey income measure (percentile): Q92,enhanced_english,medium,english
-LAB_honny_Q93,LAB,honny,Q93,Honey income measure (percentile): Q93,enhanced_english,medium,english
-LAB_honny_Q94,LAB,honny,Q94,Honey income measure (percentile): Q94,enhanced_english,medium,english
-LAB_honny_Q95,LAB,honny,Q95,Honey income measure (percentile): Q95,enhanced_english,medium,english
-LAB_honny_Q96,LAB,honny,Q96,Honey income measure (percentile): Q96,enhanced_english,medium,english
-LAB_honny_Q97,LAB,honny,Q97,Honey income measure (percentile): Q97,enhanced_english,medium,english
-LAB_honny_Q98,LAB,honny,Q98,Honey income measure (percentile): Q98,enhanced_english,medium,english
-LAB_honny_Q99,LAB,honny,Q99,Honey income measure (percentile): Q99,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+LAB_honny_Q59,LAB,honny,Q59,"Fee-based remuneration, subject to social security contributions - 59/100 quantile",,"Fee-based remuneration, subject to social security contributions - 59/100 quantile",manual_update,medium,english,,
+LAB_honny_Q7,LAB,honny,Q7,"Fee-based remuneration, subject to social security contributions - 7/100 quantile",,"Fee-based remuneration, subject to social security contributions - 7/100 quantile",manual_update,medium,english,,
+LAB_honny_Q5,LAB,honny,Q5,"Fee-based remuneration, subject to social security contributions - 5/100 quantile",,"Fee-based remuneration, subject to social security contributions - 5/100 quantile",manual_update,medium,english,,
+LAB_honny_Q6,LAB,honny,Q6,"Fee-based remuneration, subject to social security contributions - 6/100 quantile",,"Fee-based remuneration, subject to social security contributions - 6/100 quantile",manual_update,medium,english,,
+LAB_honny_Q43,LAB,honny,Q43,"Fee-based remuneration, subject to social security contributions - 43/100 quantile",,"Fee-based remuneration, subject to social security contributions - 43/100 quantile",manual_update,medium,english,,
+LAB_honny_Q2,LAB,honny,Q2,"Fee-based remuneration, subject to social security contributions - 2/100 quantile",,"Fee-based remuneration, subject to social security contributions - 2/100 quantile",manual_update,medium,english,,
+LAB_honny_Q3,LAB,honny,Q3,"Fee-based remuneration, subject to social security contributions - 3/100 quantile",,"Fee-based remuneration, subject to social security contributions - 3/100 quantile",manual_update,medium,english,,
+LAB_honny_Q15,LAB,honny,Q15,"Fee-based remuneration, subject to social security contributions - 15/100 quantile",,"Fee-based remuneration, subject to social security contributions - 15/100 quantile",manual_update,medium,english,,
+LAB_honny_Q65,LAB,honny,Q65,"Fee-based remuneration, subject to social security contributions - 65/100 quantile",,"Fee-based remuneration, subject to social security contributions - 65/100 quantile",manual_update,medium,english,,
+LAB_honny_Q44,LAB,honny,Q44,"Fee-based remuneration, subject to social security contributions - 44/100 quantile",,"Fee-based remuneration, subject to social security contributions - 44/100 quantile",manual_update,medium,english,,
+LAB_honny_Q4,LAB,honny,Q4,"Fee-based remuneration, subject to social security contributions - 4/100 quantile",,"Fee-based remuneration, subject to social security contributions - 4/100 quantile",manual_update,medium,english,,
+LAB_honny_Q1,LAB,honny,Q1,"Fee-based remuneration, subject to social security contributions - 1/100 quantile",,"Fee-based remuneration, subject to social security contributions - 1/100 quantile",manual_update,medium,english,,
+LAB_honny_Q32,LAB,honny,Q32,"Fee-based remuneration, subject to social security contributions - 32/100 quantile",,"Fee-based remuneration, subject to social security contributions - 32/100 quantile",manual_update,medium,english,,
+LAB_honny_Q18,LAB,honny,Q18,"Fee-based remuneration, subject to social security contributions - 18/100 quantile",,"Fee-based remuneration, subject to social security contributions - 18/100 quantile",manual_update,medium,english,,
+LAB_honny_Q11,LAB,honny,Q11,"Fee-based remuneration, subject to social security contributions - 11/100 quantile",,"Fee-based remuneration, subject to social security contributions - 11/100 quantile",manual_update,medium,english,,
+LAB_honny_Q38,LAB,honny,Q38,"Fee-based remuneration, subject to social security contributions - 38/100 quantile",,"Fee-based remuneration, subject to social security contributions - 38/100 quantile",manual_update,medium,english,,
+LAB_honny_Q12,LAB,honny,Q12,"Fee-based remuneration, subject to social security contributions - 12/100 quantile",,"Fee-based remuneration, subject to social security contributions - 12/100 quantile",manual_update,medium,english,,
+LAB_honny_Q29,LAB,honny,Q29,"Fee-based remuneration, subject to social security contributions - 29/100 quantile",,"Fee-based remuneration, subject to social security contributions - 29/100 quantile",manual_update,medium,english,,
+LAB_honny_Q39,LAB,honny,Q39,"Fee-based remuneration, subject to social security contributions - 39/100 quantile",,"Fee-based remuneration, subject to social security contributions - 39/100 quantile",manual_update,medium,english,,
+LAB_honny_Q40,LAB,honny,Q40,"Fee-based remuneration, subject to social security contributions - 40/100 quantile",,"Fee-based remuneration, subject to social security contributions - 40/100 quantile",manual_update,medium,english,,
+LAB_honny_Q10,LAB,honny,Q10,"Fee-based remuneration, subject to social security contributions - 10/100 quantile",,"Fee-based remuneration, subject to social security contributions - 10/100 quantile",manual_update,medium,english,,
+LAB_honny_Q17,LAB,honny,Q17,"Fee-based remuneration, subject to social security contributions - 17/100 quantile",,"Fee-based remuneration, subject to social security contributions - 17/100 quantile",manual_update,medium,english,,
+LAB_honny_Q8,LAB,honny,Q8,"Fee-based remuneration, subject to social security contributions - 8/100 quantile",,"Fee-based remuneration, subject to social security contributions - 8/100 quantile",manual_update,medium,english,,
+LAB_honny_Q9,LAB,honny,Q9,"Fee-based remuneration, subject to social security contributions - 9/100 quantile",,"Fee-based remuneration, subject to social security contributions - 9/100 quantile",manual_update,medium,english,,
+LAB_honny_Q24,LAB,honny,Q24,"Fee-based remuneration, subject to social security contributions - 24/100 quantile",,"Fee-based remuneration, subject to social security contributions - 24/100 quantile",manual_update,medium,english,,
+LAB_honny_Q49,LAB,honny,Q49,"Fee-based remuneration, subject to social security contributions - 49/100 quantile",,"Fee-based remuneration, subject to social security contributions - 49/100 quantile",manual_update,medium,english,,
+LAB_honny_Q16,LAB,honny,Q16,"Fee-based remuneration, subject to social security contributions - 16/100 quantile",,"Fee-based remuneration, subject to social security contributions - 16/100 quantile",manual_update,medium,english,,
+LAB_honny_Q56,LAB,honny,Q56,"Fee-based remuneration, subject to social security contributions - 56/100 quantile",,"Fee-based remuneration, subject to social security contributions - 56/100 quantile",manual_update,medium,english,,
+LAB_honny_Q41,LAB,honny,Q41,"Fee-based remuneration, subject to social security contributions - 41/100 quantile",,"Fee-based remuneration, subject to social security contributions - 41/100 quantile",manual_update,medium,english,,
+LAB_honny_Q70,LAB,honny,Q70,"Fee-based remuneration, subject to social security contributions - 70/100 quantile",,"Fee-based remuneration, subject to social security contributions - 70/100 quantile",manual_update,medium,english,,
+LAB_honny_Q27,LAB,honny,Q27,"Fee-based remuneration, subject to social security contributions - 27/100 quantile",,"Fee-based remuneration, subject to social security contributions - 27/100 quantile",manual_update,medium,english,,
+LAB_honny_Q67,LAB,honny,Q67,"Fee-based remuneration, subject to social security contributions - 67/100 quantile",,"Fee-based remuneration, subject to social security contributions - 67/100 quantile",manual_update,medium,english,,
+LAB_honny_Q80,LAB,honny,Q80,"Fee-based remuneration, subject to social security contributions - 80/100 quantile",,"Fee-based remuneration, subject to social security contributions - 80/100 quantile",manual_update,medium,english,,
+LAB_honny_Q62,LAB,honny,Q62,"Fee-based remuneration, subject to social security contributions - 62/100 quantile",,"Fee-based remuneration, subject to social security contributions - 62/100 quantile",manual_update,medium,english,,
+LAB_honny_Q68,LAB,honny,Q68,"Fee-based remuneration, subject to social security contributions - 68/100 quantile",,"Fee-based remuneration, subject to social security contributions - 68/100 quantile",manual_update,medium,english,,
+LAB_honny_Q33,LAB,honny,Q33,"Fee-based remuneration, subject to social security contributions - 33/100 quantile",,"Fee-based remuneration, subject to social security contributions - 33/100 quantile",manual_update,medium,english,,
+LAB_honny_Q55,LAB,honny,Q55,"Fee-based remuneration, subject to social security contributions - 55/100 quantile",,"Fee-based remuneration, subject to social security contributions - 55/100 quantile",manual_update,medium,english,,
+LAB_honny_Q84,LAB,honny,Q84,"Fee-based remuneration, subject to social security contributions - 84/100 quantile",,"Fee-based remuneration, subject to social security contributions - 84/100 quantile",manual_update,medium,english,,
+LAB_honny_Q61,LAB,honny,Q61,"Fee-based remuneration, subject to social security contributions - 61/100 quantile",,"Fee-based remuneration, subject to social security contributions - 61/100 quantile",manual_update,medium,english,,
+LAB_honny_Q74,LAB,honny,Q74,"Fee-based remuneration, subject to social security contributions - 74/100 quantile",,"Fee-based remuneration, subject to social security contributions - 74/100 quantile",manual_update,medium,english,,
+LAB_honny_Q25,LAB,honny,Q25,"Fee-based remuneration, subject to social security contributions - 25/100 quantile",,"Fee-based remuneration, subject to social security contributions - 25/100 quantile",manual_update,medium,english,,
+LAB_honny_Q57,LAB,honny,Q57,"Fee-based remuneration, subject to social security contributions - 57/100 quantile",,"Fee-based remuneration, subject to social security contributions - 57/100 quantile",manual_update,medium,english,,
+LAB_honny_Q45,LAB,honny,Q45,"Fee-based remuneration, subject to social security contributions - 45/100 quantile",,"Fee-based remuneration, subject to social security contributions - 45/100 quantile",manual_update,medium,english,,
+LAB_honny_Q81,LAB,honny,Q81,"Fee-based remuneration, subject to social security contributions - 81/100 quantile",,"Fee-based remuneration, subject to social security contributions - 81/100 quantile",manual_update,medium,english,,
+LAB_honny_Q87,LAB,honny,Q87,"Fee-based remuneration, subject to social security contributions - 87/100 quantile",,"Fee-based remuneration, subject to social security contributions - 87/100 quantile",manual_update,medium,english,,
+LAB_honny_Q35,LAB,honny,Q35,"Fee-based remuneration, subject to social security contributions - 35/100 quantile",,"Fee-based remuneration, subject to social security contributions - 35/100 quantile",manual_update,medium,english,,
+LAB_honny_Q36,LAB,honny,Q36,"Fee-based remuneration, subject to social security contributions - 36/100 quantile",,"Fee-based remuneration, subject to social security contributions - 36/100 quantile",manual_update,medium,english,,
+LAB_honny_Q31,LAB,honny,Q31,"Fee-based remuneration, subject to social security contributions - 31/100 quantile",,"Fee-based remuneration, subject to social security contributions - 31/100 quantile",manual_update,medium,english,,
+LAB_honny_Q83,LAB,honny,Q83,"Fee-based remuneration, subject to social security contributions - 83/100 quantile",,"Fee-based remuneration, subject to social security contributions - 83/100 quantile",manual_update,medium,english,,
+LAB_honny_Q92,LAB,honny,Q92,"Fee-based remuneration, subject to social security contributions - 92/100 quantile",,"Fee-based remuneration, subject to social security contributions - 92/100 quantile",manual_update,medium,english,,
+LAB_honny_Q42,LAB,honny,Q42,"Fee-based remuneration, subject to social security contributions - 42/100 quantile",,"Fee-based remuneration, subject to social security contributions - 42/100 quantile",manual_update,medium,english,,
+LAB_honny_Q60,LAB,honny,Q60,"Fee-based remuneration, subject to social security contributions - 60/100 quantile",,"Fee-based remuneration, subject to social security contributions - 60/100 quantile",manual_update,medium,english,,
+LAB_honny_Q63,LAB,honny,Q63,"Fee-based remuneration, subject to social security contributions - 63/100 quantile",,"Fee-based remuneration, subject to social security contributions - 63/100 quantile",manual_update,medium,english,,
+LAB_honny_Q19,LAB,honny,Q19,"Fee-based remuneration, subject to social security contributions - 19/100 quantile",,"Fee-based remuneration, subject to social security contributions - 19/100 quantile",manual_update,medium,english,,
+LAB_honny_Q48,LAB,honny,Q48,"Fee-based remuneration, subject to social security contributions - 48/100 quantile",,"Fee-based remuneration, subject to social security contributions - 48/100 quantile",manual_update,medium,english,,
+LAB_honny_Q13,LAB,honny,Q13,"Fee-based remuneration, subject to social security contributions - 13/100 quantile",,"Fee-based remuneration, subject to social security contributions - 13/100 quantile",manual_update,medium,english,,
+LAB_honny_Q71,LAB,honny,Q71,"Fee-based remuneration, subject to social security contributions - 71/100 quantile",,"Fee-based remuneration, subject to social security contributions - 71/100 quantile",manual_update,medium,english,,
+LAB_honny_Q20,LAB,honny,Q20,"Fee-based remuneration, subject to social security contributions - 20/100 quantile",,"Fee-based remuneration, subject to social security contributions - 20/100 quantile",manual_update,medium,english,,
+LAB_honny_Q58,LAB,honny,Q58,"Fee-based remuneration, subject to social security contributions - 58/100 quantile",,"Fee-based remuneration, subject to social security contributions - 58/100 quantile",manual_update,medium,english,,
+LAB_honny_Q21,LAB,honny,Q21,"Fee-based remuneration, subject to social security contributions - 21/100 quantile",,"Fee-based remuneration, subject to social security contributions - 21/100 quantile",manual_update,medium,english,,
+LAB_honny_Q28,LAB,honny,Q28,"Fee-based remuneration, subject to social security contributions - 28/100 quantile",,"Fee-based remuneration, subject to social security contributions - 28/100 quantile",manual_update,medium,english,,
+LAB_honny_Q26,LAB,honny,Q26,"Fee-based remuneration, subject to social security contributions - 26/100 quantile",,"Fee-based remuneration, subject to social security contributions - 26/100 quantile",manual_update,medium,english,,
+LAB_honny_Q14,LAB,honny,Q14,"Fee-based remuneration, subject to social security contributions - 14/100 quantile",,"Fee-based remuneration, subject to social security contributions - 14/100 quantile",manual_update,medium,english,,
+LAB_honny_Q46,LAB,honny,Q46,"Fee-based remuneration, subject to social security contributions - 46/100 quantile",,"Fee-based remuneration, subject to social security contributions - 46/100 quantile",manual_update,medium,english,,
+LAB_honny_Q73,LAB,honny,Q73,"Fee-based remuneration, subject to social security contributions - 73/100 quantile",,"Fee-based remuneration, subject to social security contributions - 73/100 quantile",manual_update,medium,english,,
+LAB_honny_Q37,LAB,honny,Q37,"Fee-based remuneration, subject to social security contributions - 37/100 quantile",,"Fee-based remuneration, subject to social security contributions - 37/100 quantile",manual_update,medium,english,,
+LAB_honny_Q51,LAB,honny,Q51,"Fee-based remuneration, subject to social security contributions - 51/100 quantile",,"Fee-based remuneration, subject to social security contributions - 51/100 quantile",manual_update,medium,english,,
+LAB_honny_Q85,LAB,honny,Q85,"Fee-based remuneration, subject to social security contributions - 85/100 quantile",,"Fee-based remuneration, subject to social security contributions - 85/100 quantile",manual_update,medium,english,,
+LAB_honny_Q23,LAB,honny,Q23,"Fee-based remuneration, subject to social security contributions - 23/100 quantile",,"Fee-based remuneration, subject to social security contributions - 23/100 quantile",manual_update,medium,english,,
+LAB_honny_Q22,LAB,honny,Q22,"Fee-based remuneration, subject to social security contributions - 22/100 quantile",,"Fee-based remuneration, subject to social security contributions - 22/100 quantile",manual_update,medium,english,,
+LAB_honny_Q52,LAB,honny,Q52,"Fee-based remuneration, subject to social security contributions - 52/100 quantile",,"Fee-based remuneration, subject to social security contributions - 52/100 quantile",manual_update,medium,english,,
+LAB_honny_Q95,LAB,honny,Q95,"Fee-based remuneration, subject to social security contributions - 95/100 quantile",,"Fee-based remuneration, subject to social security contributions - 95/100 quantile",manual_update,medium,english,,
+LAB_honny_Q94,LAB,honny,Q94,"Fee-based remuneration, subject to social security contributions - 94/100 quantile",,"Fee-based remuneration, subject to social security contributions - 94/100 quantile",manual_update,medium,english,,
+LAB_honny_Q96,LAB,honny,Q96,"Fee-based remuneration, subject to social security contributions - 96/100 quantile",,"Fee-based remuneration, subject to social security contributions - 96/100 quantile",manual_update,medium,english,,
+LAB_honny_Q93,LAB,honny,Q93,"Fee-based remuneration, subject to social security contributions - 93/100 quantile",,"Fee-based remuneration, subject to social security contributions - 93/100 quantile",manual_update,medium,english,,
+LAB_honny_Q75,LAB,honny,Q75,"Fee-based remuneration, subject to social security contributions - 75/100 quantile",,"Fee-based remuneration, subject to social security contributions - 75/100 quantile",manual_update,medium,english,,
+LAB_honny_Q53,LAB,honny,Q53,"Fee-based remuneration, subject to social security contributions - 53/100 quantile",,"Fee-based remuneration, subject to social security contributions - 53/100 quantile",manual_update,medium,english,,
+LAB_honny_Q72,LAB,honny,Q72,"Fee-based remuneration, subject to social security contributions - 72/100 quantile",,"Fee-based remuneration, subject to social security contributions - 72/100 quantile",manual_update,medium,english,,
+LAB_honny_Q47,LAB,honny,Q47,"Fee-based remuneration, subject to social security contributions - 47/100 quantile",,"Fee-based remuneration, subject to social security contributions - 47/100 quantile",manual_update,medium,english,,
+LAB_honny_Q69,LAB,honny,Q69,"Fee-based remuneration, subject to social security contributions - 69/100 quantile",,"Fee-based remuneration, subject to social security contributions - 69/100 quantile",manual_update,medium,english,,
+LAB_honny_Q78,LAB,honny,Q78,"Fee-based remuneration, subject to social security contributions - 78/100 quantile",,"Fee-based remuneration, subject to social security contributions - 78/100 quantile",manual_update,medium,english,,
+LAB_honny_Q99,LAB,honny,Q99,"Fee-based remuneration, subject to social security contributions - 99/100 quantile",,"Fee-based remuneration, subject to social security contributions - 99/100 quantile",manual_update,medium,english,,
+LAB_honny_Q97,LAB,honny,Q97,"Fee-based remuneration, subject to social security contributions - 97/100 quantile",,"Fee-based remuneration, subject to social security contributions - 97/100 quantile",manual_update,medium,english,,
+LAB_honny_Q98,LAB,honny,Q98,"Fee-based remuneration, subject to social security contributions - 98/100 quantile",,"Fee-based remuneration, subject to social security contributions - 98/100 quantile",manual_update,medium,english,,
+LAB_honny_Q34,LAB,honny,Q34,"Fee-based remuneration, subject to social security contributions - 34/100 quantile",,"Fee-based remuneration, subject to social security contributions - 34/100 quantile",manual_update,medium,english,,
+LAB_honny_Q77,LAB,honny,Q77,"Fee-based remuneration, subject to social security contributions - 77/100 quantile",,"Fee-based remuneration, subject to social security contributions - 77/100 quantile",manual_update,medium,english,,
+LAB_honny_Q66,LAB,honny,Q66,"Fee-based remuneration, subject to social security contributions - 66/100 quantile",,"Fee-based remuneration, subject to social security contributions - 66/100 quantile",manual_update,medium,english,,
+LAB_honny_Q79,LAB,honny,Q79,"Fee-based remuneration, subject to social security contributions - 79/100 quantile",,"Fee-based remuneration, subject to social security contributions - 79/100 quantile",manual_update,medium,english,,
+LAB_honny_Q88,LAB,honny,Q88,"Fee-based remuneration, subject to social security contributions - 88/100 quantile",,"Fee-based remuneration, subject to social security contributions - 88/100 quantile",manual_update,medium,english,,
+LAB_honny_Q100,LAB,honny,Q100,"Fee-based remuneration, subject to social security contributions - 100/100 quantile",,"Fee-based remuneration, subject to social security contributions - 100/100 quantile",manual_update,medium,english,,
+LAB_honny_Q86,LAB,honny,Q86,"Fee-based remuneration, subject to social security contributions - 86/100 quantile",,"Fee-based remuneration, subject to social security contributions - 86/100 quantile",manual_update,medium,english,,
+LAB_honny_Q64,LAB,honny,Q64,"Fee-based remuneration, subject to social security contributions - 64/100 quantile",,"Fee-based remuneration, subject to social security contributions - 64/100 quantile",manual_update,medium,english,,
+LAB_honny_Q82,LAB,honny,Q82,"Fee-based remuneration, subject to social security contributions - 82/100 quantile",,"Fee-based remuneration, subject to social security contributions - 82/100 quantile",manual_update,medium,english,,
+LAB_honny_Q30,LAB,honny,Q30,"Fee-based remuneration, subject to social security contributions - 30/100 quantile",,"Fee-based remuneration, subject to social security contributions - 30/100 quantile",manual_update,medium,english,,
+LAB_honny_Q54,LAB,honny,Q54,"Fee-based remuneration, subject to social security contributions - 54/100 quantile",,"Fee-based remuneration, subject to social security contributions - 54/100 quantile",manual_update,medium,english,,
+LAB_honny_Q50,LAB,honny,Q50,"Fee-based remuneration, subject to social security contributions - 50/100 quantile",,"Fee-based remuneration, subject to social security contributions - 50/100 quantile",manual_update,medium,english,,
+LAB_honny_Q90,LAB,honny,Q90,"Fee-based remuneration, subject to social security contributions - 90/100 quantile",,"Fee-based remuneration, subject to social security contributions - 90/100 quantile",manual_update,medium,english,,
+LAB_honny_Q91,LAB,honny,Q91,"Fee-based remuneration, subject to social security contributions - 91/100 quantile",,"Fee-based remuneration, subject to social security contributions - 91/100 quantile",manual_update,medium,english,,
+LAB_honny_Q76,LAB,honny,Q76,"Fee-based remuneration, subject to social security contributions - 76/100 quantile",,"Fee-based remuneration, subject to social security contributions - 76/100 quantile",manual_update,medium,english,,
+LAB_honny_Q89,LAB,honny,Q89,"Fee-based remuneration, subject to social security contributions - 89/100 quantile",,"Fee-based remuneration, subject to social security contributions - 89/100 quantile",manual_update,medium,english,,

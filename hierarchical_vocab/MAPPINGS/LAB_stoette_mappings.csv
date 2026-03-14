@@ -1,8 +1,8 @@
-code,prefix,database,value,description,source,confidence,language
-LAB_stoette_besk_kode_nullified_1,LAB,stoette,besk_kode_nullified_1,Employment support: besk_kode_nullified_1,enhanced_english,medium,english
-LAB_stoette_besk_kode_nullified_2,LAB,stoette,besk_kode_nullified_2,Employment support: besk_kode_nullified_2,enhanced_english,medium,english
-LAB_stoette_besk_kode_nullified_3,LAB,stoette,besk_kode_nullified_3,Employment support: besk_kode_nullified_3,enhanced_english,medium,english
-LAB_stoette_besk_kode_nullified_4,LAB,stoette,besk_kode_nullified_4,Employment support: besk_kode_nullified_4,enhanced_english,medium,english
-LAB_stoette_besk_kode_nullified_5,LAB,stoette,besk_kode_nullified_5,Employment support: besk_kode_nullified_5,enhanced_english,medium,english
-LAB_stoette_besk_kode_nullified_6,LAB,stoette,besk_kode_nullified_6,Employment support: besk_kode_nullified_6,enhanced_english,medium,english
-LAB_stoette_besk_kode_nullified_7,LAB,stoette,besk_kode_nullified_7,Employment support: besk_kode_nullified_7,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+LAB_stoette_besk_kode_nullified_3,LAB,stoette,besk_kode_nullified_3,Employment code: nullified category 3,,Employment code: nullified category 3,none|generated,medium,danish,,
+LAB_stoette_besk_kode_nullified_6,LAB,stoette,besk_kode_nullified_6,Employment code: nullified category 6,,Employment code: nullified category 6,none|generated,medium,danish,,
+LAB_stoette_besk_kode_nullified_1,LAB,stoette,besk_kode_nullified_1,Employment code: nullified category 1,,Employment code: nullified category 1,none|generated,medium,danish,,
+LAB_stoette_besk_kode_nullified_4,LAB,stoette,besk_kode_nullified_4,Employment code: nullified category 4,,Employment code: nullified category 4,none|generated,medium,danish,,
+LAB_stoette_besk_kode_nullified_2,LAB,stoette,besk_kode_nullified_2,Employment code: nullified category 2,,Employment code: nullified category 2,none|generated,medium,danish,,
+LAB_stoette_besk_kode_nullified_7,LAB,stoette,besk_kode_nullified_7,Employment code: nullified category 7,,Employment code: nullified category 7,none|generated,medium,danish,,
+LAB_stoette_besk_kode_nullified_5,LAB,stoette,besk_kode_nullified_5,Employment code: nullified category 5,,Employment code: nullified category 5,none|generated,medium,danish,,

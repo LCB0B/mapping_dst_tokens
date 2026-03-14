@@ -1,101 +1,101 @@
-code,prefix,database,value,description,source,confidence,language
-LAB_lejev_egen_bolig_Q1,LAB,lejev,egen_bolig_Q1,Rental value (percentile): egen_bolig_Q1,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q10,LAB,lejev,egen_bolig_Q10,Rental value (percentile): egen_bolig_Q10,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q100,LAB,lejev,egen_bolig_Q100,Rental value (percentile): egen_bolig_Q100,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q11,LAB,lejev,egen_bolig_Q11,Rental value (percentile): egen_bolig_Q11,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q12,LAB,lejev,egen_bolig_Q12,Rental value (percentile): egen_bolig_Q12,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q13,LAB,lejev,egen_bolig_Q13,Rental value (percentile): egen_bolig_Q13,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q14,LAB,lejev,egen_bolig_Q14,Rental value (percentile): egen_bolig_Q14,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q15,LAB,lejev,egen_bolig_Q15,Rental value (percentile): egen_bolig_Q15,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q16,LAB,lejev,egen_bolig_Q16,Rental value (percentile): egen_bolig_Q16,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q17,LAB,lejev,egen_bolig_Q17,Rental value (percentile): egen_bolig_Q17,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q18,LAB,lejev,egen_bolig_Q18,Rental value (percentile): egen_bolig_Q18,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q19,LAB,lejev,egen_bolig_Q19,Rental value (percentile): egen_bolig_Q19,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q2,LAB,lejev,egen_bolig_Q2,Rental value (percentile): egen_bolig_Q2,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q20,LAB,lejev,egen_bolig_Q20,Rental value (percentile): egen_bolig_Q20,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q21,LAB,lejev,egen_bolig_Q21,Rental value (percentile): egen_bolig_Q21,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q22,LAB,lejev,egen_bolig_Q22,Rental value (percentile): egen_bolig_Q22,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q23,LAB,lejev,egen_bolig_Q23,Rental value (percentile): egen_bolig_Q23,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q24,LAB,lejev,egen_bolig_Q24,Rental value (percentile): egen_bolig_Q24,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q25,LAB,lejev,egen_bolig_Q25,Rental value (percentile): egen_bolig_Q25,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q26,LAB,lejev,egen_bolig_Q26,Rental value (percentile): egen_bolig_Q26,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q27,LAB,lejev,egen_bolig_Q27,Rental value (percentile): egen_bolig_Q27,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q28,LAB,lejev,egen_bolig_Q28,Rental value (percentile): egen_bolig_Q28,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q29,LAB,lejev,egen_bolig_Q29,Rental value (percentile): egen_bolig_Q29,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q3,LAB,lejev,egen_bolig_Q3,Rental value (percentile): egen_bolig_Q3,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q30,LAB,lejev,egen_bolig_Q30,Rental value (percentile): egen_bolig_Q30,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q31,LAB,lejev,egen_bolig_Q31,Rental value (percentile): egen_bolig_Q31,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q32,LAB,lejev,egen_bolig_Q32,Rental value (percentile): egen_bolig_Q32,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q33,LAB,lejev,egen_bolig_Q33,Rental value (percentile): egen_bolig_Q33,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q34,LAB,lejev,egen_bolig_Q34,Rental value (percentile): egen_bolig_Q34,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q35,LAB,lejev,egen_bolig_Q35,Rental value (percentile): egen_bolig_Q35,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q36,LAB,lejev,egen_bolig_Q36,Rental value (percentile): egen_bolig_Q36,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q37,LAB,lejev,egen_bolig_Q37,Rental value (percentile): egen_bolig_Q37,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q38,LAB,lejev,egen_bolig_Q38,Rental value (percentile): egen_bolig_Q38,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q39,LAB,lejev,egen_bolig_Q39,Rental value (percentile): egen_bolig_Q39,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q4,LAB,lejev,egen_bolig_Q4,Rental value (percentile): egen_bolig_Q4,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q40,LAB,lejev,egen_bolig_Q40,Rental value (percentile): egen_bolig_Q40,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q41,LAB,lejev,egen_bolig_Q41,Rental value (percentile): egen_bolig_Q41,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q42,LAB,lejev,egen_bolig_Q42,Rental value (percentile): egen_bolig_Q42,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q43,LAB,lejev,egen_bolig_Q43,Rental value (percentile): egen_bolig_Q43,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q44,LAB,lejev,egen_bolig_Q44,Rental value (percentile): egen_bolig_Q44,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q45,LAB,lejev,egen_bolig_Q45,Rental value (percentile): egen_bolig_Q45,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q46,LAB,lejev,egen_bolig_Q46,Rental value (percentile): egen_bolig_Q46,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q47,LAB,lejev,egen_bolig_Q47,Rental value (percentile): egen_bolig_Q47,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q48,LAB,lejev,egen_bolig_Q48,Rental value (percentile): egen_bolig_Q48,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q49,LAB,lejev,egen_bolig_Q49,Rental value (percentile): egen_bolig_Q49,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q5,LAB,lejev,egen_bolig_Q5,Rental value (percentile): egen_bolig_Q5,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q50,LAB,lejev,egen_bolig_Q50,Rental value (percentile): egen_bolig_Q50,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q51,LAB,lejev,egen_bolig_Q51,Rental value (percentile): egen_bolig_Q51,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q52,LAB,lejev,egen_bolig_Q52,Rental value (percentile): egen_bolig_Q52,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q53,LAB,lejev,egen_bolig_Q53,Rental value (percentile): egen_bolig_Q53,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q54,LAB,lejev,egen_bolig_Q54,Rental value (percentile): egen_bolig_Q54,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q55,LAB,lejev,egen_bolig_Q55,Rental value (percentile): egen_bolig_Q55,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q56,LAB,lejev,egen_bolig_Q56,Rental value (percentile): egen_bolig_Q56,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q57,LAB,lejev,egen_bolig_Q57,Rental value (percentile): egen_bolig_Q57,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q58,LAB,lejev,egen_bolig_Q58,Rental value (percentile): egen_bolig_Q58,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q59,LAB,lejev,egen_bolig_Q59,Rental value (percentile): egen_bolig_Q59,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q6,LAB,lejev,egen_bolig_Q6,Rental value (percentile): egen_bolig_Q6,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q60,LAB,lejev,egen_bolig_Q60,Rental value (percentile): egen_bolig_Q60,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q61,LAB,lejev,egen_bolig_Q61,Rental value (percentile): egen_bolig_Q61,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q62,LAB,lejev,egen_bolig_Q62,Rental value (percentile): egen_bolig_Q62,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q63,LAB,lejev,egen_bolig_Q63,Rental value (percentile): egen_bolig_Q63,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q64,LAB,lejev,egen_bolig_Q64,Rental value (percentile): egen_bolig_Q64,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q65,LAB,lejev,egen_bolig_Q65,Rental value (percentile): egen_bolig_Q65,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q66,LAB,lejev,egen_bolig_Q66,Rental value (percentile): egen_bolig_Q66,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q67,LAB,lejev,egen_bolig_Q67,Rental value (percentile): egen_bolig_Q67,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q68,LAB,lejev,egen_bolig_Q68,Rental value (percentile): egen_bolig_Q68,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q69,LAB,lejev,egen_bolig_Q69,Rental value (percentile): egen_bolig_Q69,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q7,LAB,lejev,egen_bolig_Q7,Rental value (percentile): egen_bolig_Q7,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q70,LAB,lejev,egen_bolig_Q70,Rental value (percentile): egen_bolig_Q70,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q71,LAB,lejev,egen_bolig_Q71,Rental value (percentile): egen_bolig_Q71,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q72,LAB,lejev,egen_bolig_Q72,Rental value (percentile): egen_bolig_Q72,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q73,LAB,lejev,egen_bolig_Q73,Rental value (percentile): egen_bolig_Q73,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q74,LAB,lejev,egen_bolig_Q74,Rental value (percentile): egen_bolig_Q74,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q75,LAB,lejev,egen_bolig_Q75,Rental value (percentile): egen_bolig_Q75,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q76,LAB,lejev,egen_bolig_Q76,Rental value (percentile): egen_bolig_Q76,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q77,LAB,lejev,egen_bolig_Q77,Rental value (percentile): egen_bolig_Q77,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q78,LAB,lejev,egen_bolig_Q78,Rental value (percentile): egen_bolig_Q78,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q79,LAB,lejev,egen_bolig_Q79,Rental value (percentile): egen_bolig_Q79,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q8,LAB,lejev,egen_bolig_Q8,Rental value (percentile): egen_bolig_Q8,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q80,LAB,lejev,egen_bolig_Q80,Rental value (percentile): egen_bolig_Q80,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q81,LAB,lejev,egen_bolig_Q81,Rental value (percentile): egen_bolig_Q81,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q82,LAB,lejev,egen_bolig_Q82,Rental value (percentile): egen_bolig_Q82,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q83,LAB,lejev,egen_bolig_Q83,Rental value (percentile): egen_bolig_Q83,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q84,LAB,lejev,egen_bolig_Q84,Rental value (percentile): egen_bolig_Q84,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q85,LAB,lejev,egen_bolig_Q85,Rental value (percentile): egen_bolig_Q85,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q86,LAB,lejev,egen_bolig_Q86,Rental value (percentile): egen_bolig_Q86,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q87,LAB,lejev,egen_bolig_Q87,Rental value (percentile): egen_bolig_Q87,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q88,LAB,lejev,egen_bolig_Q88,Rental value (percentile): egen_bolig_Q88,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q89,LAB,lejev,egen_bolig_Q89,Rental value (percentile): egen_bolig_Q89,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q9,LAB,lejev,egen_bolig_Q9,Rental value (percentile): egen_bolig_Q9,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q90,LAB,lejev,egen_bolig_Q90,Rental value (percentile): egen_bolig_Q90,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q91,LAB,lejev,egen_bolig_Q91,Rental value (percentile): egen_bolig_Q91,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q92,LAB,lejev,egen_bolig_Q92,Rental value (percentile): egen_bolig_Q92,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q93,LAB,lejev,egen_bolig_Q93,Rental value (percentile): egen_bolig_Q93,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q94,LAB,lejev,egen_bolig_Q94,Rental value (percentile): egen_bolig_Q94,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q95,LAB,lejev,egen_bolig_Q95,Rental value (percentile): egen_bolig_Q95,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q96,LAB,lejev,egen_bolig_Q96,Rental value (percentile): egen_bolig_Q96,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q97,LAB,lejev,egen_bolig_Q97,Rental value (percentile): egen_bolig_Q97,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q98,LAB,lejev,egen_bolig_Q98,Rental value (percentile): egen_bolig_Q98,enhanced_english,medium,english
-LAB_lejev_egen_bolig_Q99,LAB,lejev,egen_bolig_Q99,Rental value (percentile): egen_bolig_Q99,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+LAB_lejev_egen_bolig_Q7,LAB,lejev,egen_bolig_Q7,Rental income - 7th percentile,,Rental income - 7th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q91,LAB,lejev,egen_bolig_Q91,Rental income - 91th percentile,,Rental income - 91th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q76,LAB,lejev,egen_bolig_Q76,Rental income - 76th percentile,,Rental income - 76th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q59,LAB,lejev,egen_bolig_Q59,Rental income - 59th percentile,,Rental income - 59th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q68,LAB,lejev,egen_bolig_Q68,Rental income - 68th percentile,,Rental income - 68th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q86,LAB,lejev,egen_bolig_Q86,Rental income - 86th percentile,,Rental income - 86th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q85,LAB,lejev,egen_bolig_Q85,Rental income - 85th percentile,,Rental income - 85th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q83,LAB,lejev,egen_bolig_Q83,Rental income - 83th percentile,,Rental income - 83th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q84,LAB,lejev,egen_bolig_Q84,Rental income - 84th percentile,,Rental income - 84th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q66,LAB,lejev,egen_bolig_Q66,Rental income - 66th percentile,,Rental income - 66th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q79,LAB,lejev,egen_bolig_Q79,Rental income - 79th percentile,,Rental income - 79th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q80,LAB,lejev,egen_bolig_Q80,Rental income - 80th percentile,,Rental income - 80th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q45,LAB,lejev,egen_bolig_Q45,Rental income - 45th percentile,,Rental income - 45th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q32,LAB,lejev,egen_bolig_Q32,Rental income - 32th percentile,,Rental income - 32th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q28,LAB,lejev,egen_bolig_Q28,Rental income - 28th percentile,,Rental income - 28th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q78,LAB,lejev,egen_bolig_Q78,Rental income - 78th percentile,,Rental income - 78th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q88,LAB,lejev,egen_bolig_Q88,Rental income - 88th percentile,,Rental income - 88th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q52,LAB,lejev,egen_bolig_Q52,Rental income - 52th percentile,,Rental income - 52th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q58,LAB,lejev,egen_bolig_Q58,Rental income - 58th percentile,,Rental income - 58th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q62,LAB,lejev,egen_bolig_Q62,Rental income - 62th percentile,,Rental income - 62th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q42,LAB,lejev,egen_bolig_Q42,Rental income - 42th percentile,,Rental income - 42th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q60,LAB,lejev,egen_bolig_Q60,Rental income - 60th percentile,,Rental income - 60th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q57,LAB,lejev,egen_bolig_Q57,Rental income - 57th percentile,,Rental income - 57th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q53,LAB,lejev,egen_bolig_Q53,Rental income - 53th percentile,,Rental income - 53th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q54,LAB,lejev,egen_bolig_Q54,Rental income - 54th percentile,,Rental income - 54th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q43,LAB,lejev,egen_bolig_Q43,Rental income - 43th percentile,,Rental income - 43th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q41,LAB,lejev,egen_bolig_Q41,Rental income - 41th percentile,,Rental income - 41th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q6,LAB,lejev,egen_bolig_Q6,Rental income - 6th percentile,,Rental income - 6th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q47,LAB,lejev,egen_bolig_Q47,Rental income - 47th percentile,,Rental income - 47th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q46,LAB,lejev,egen_bolig_Q46,Rental income - 46th percentile,,Rental income - 46th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q2,LAB,lejev,egen_bolig_Q2,Rental income - 2th percentile,,Rental income - 2th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q30,LAB,lejev,egen_bolig_Q30,Rental income - 30th percentile,,Rental income - 30th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q31,LAB,lejev,egen_bolig_Q31,Rental income - 31th percentile,,Rental income - 31th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q33,LAB,lejev,egen_bolig_Q33,Rental income - 33th percentile,,Rental income - 33th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q27,LAB,lejev,egen_bolig_Q27,Rental income - 27th percentile,,Rental income - 27th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q5,LAB,lejev,egen_bolig_Q5,Rental income - 5th percentile,,Rental income - 5th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q24,LAB,lejev,egen_bolig_Q24,Rental income - 24th percentile,,Rental income - 24th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q4,LAB,lejev,egen_bolig_Q4,Rental income - 4th percentile,,Rental income - 4th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q29,LAB,lejev,egen_bolig_Q29,Rental income - 29th percentile,,Rental income - 29th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q51,LAB,lejev,egen_bolig_Q51,Rental income - 51th percentile,,Rental income - 51th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q13,LAB,lejev,egen_bolig_Q13,Rental income - 13th percentile,,Rental income - 13th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q63,LAB,lejev,egen_bolig_Q63,Rental income - 63th percentile,,Rental income - 63th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q64,LAB,lejev,egen_bolig_Q64,Rental income - 64th percentile,,Rental income - 64th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q55,LAB,lejev,egen_bolig_Q55,Rental income - 55th percentile,,Rental income - 55th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q65,LAB,lejev,egen_bolig_Q65,Rental income - 65th percentile,,Rental income - 65th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q48,LAB,lejev,egen_bolig_Q48,Rental income - 48th percentile,,Rental income - 48th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q25,LAB,lejev,egen_bolig_Q25,Rental income - 25th percentile,,Rental income - 25th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q15,LAB,lejev,egen_bolig_Q15,Rental income - 15th percentile,,Rental income - 15th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q23,LAB,lejev,egen_bolig_Q23,Rental income - 23th percentile,,Rental income - 23th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q73,LAB,lejev,egen_bolig_Q73,Rental income - 73th percentile,,Rental income - 73th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q40,LAB,lejev,egen_bolig_Q40,Rental income - 40th percentile,,Rental income - 40th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q39,LAB,lejev,egen_bolig_Q39,Rental income - 39th percentile,,Rental income - 39th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q50,LAB,lejev,egen_bolig_Q50,Rental income - 50th percentile,,Rental income - 50th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q81,LAB,lejev,egen_bolig_Q81,Rental income - 81th percentile,,Rental income - 81th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q26,LAB,lejev,egen_bolig_Q26,Rental income - 26th percentile,,Rental income - 26th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q10,LAB,lejev,egen_bolig_Q10,Rental income - 10th percentile,,Rental income - 10th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q37,LAB,lejev,egen_bolig_Q37,Rental income - 37th percentile,,Rental income - 37th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q44,LAB,lejev,egen_bolig_Q44,Rental income - 44th percentile,,Rental income - 44th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q56,LAB,lejev,egen_bolig_Q56,Rental income - 56th percentile,,Rental income - 56th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q22,LAB,lejev,egen_bolig_Q22,Rental income - 22th percentile,,Rental income - 22th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q70,LAB,lejev,egen_bolig_Q70,Rental income - 70th percentile,,Rental income - 70th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q61,LAB,lejev,egen_bolig_Q61,Rental income - 61th percentile,,Rental income - 61th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q38,LAB,lejev,egen_bolig_Q38,Rental income - 38th percentile,,Rental income - 38th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q3,LAB,lejev,egen_bolig_Q3,Rental income - 3th percentile,,Rental income - 3th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q49,LAB,lejev,egen_bolig_Q49,Rental income - 49th percentile,,Rental income - 49th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q8,LAB,lejev,egen_bolig_Q8,Rental income - 8th percentile,,Rental income - 8th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q35,LAB,lejev,egen_bolig_Q35,Rental income - 35th percentile,,Rental income - 35th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q20,LAB,lejev,egen_bolig_Q20,Rental income - 20th percentile,,Rental income - 20th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q21,LAB,lejev,egen_bolig_Q21,Rental income - 21th percentile,,Rental income - 21th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q16,LAB,lejev,egen_bolig_Q16,Rental income - 16th percentile,,Rental income - 16th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q17,LAB,lejev,egen_bolig_Q17,Rental income - 17th percentile,,Rental income - 17th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q71,LAB,lejev,egen_bolig_Q71,Rental income - 71th percentile,,Rental income - 71th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q72,LAB,lejev,egen_bolig_Q72,Rental income - 72th percentile,,Rental income - 72th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q11,LAB,lejev,egen_bolig_Q11,Rental income - 11th percentile,,Rental income - 11th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q18,LAB,lejev,egen_bolig_Q18,Rental income - 18th percentile,,Rental income - 18th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q34,LAB,lejev,egen_bolig_Q34,Rental income - 34th percentile,,Rental income - 34th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q12,LAB,lejev,egen_bolig_Q12,Rental income - 12th percentile,,Rental income - 12th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q19,LAB,lejev,egen_bolig_Q19,Rental income - 19th percentile,,Rental income - 19th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q9,LAB,lejev,egen_bolig_Q9,Rental income - 9th percentile,,Rental income - 9th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q36,LAB,lejev,egen_bolig_Q36,Rental income - 36th percentile,,Rental income - 36th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q75,LAB,lejev,egen_bolig_Q75,Rental income - 75th percentile,,Rental income - 75th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q74,LAB,lejev,egen_bolig_Q74,Rental income - 74th percentile,,Rental income - 74th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q69,LAB,lejev,egen_bolig_Q69,Rental income - 69th percentile,,Rental income - 69th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q82,LAB,lejev,egen_bolig_Q82,Rental income - 82th percentile,,Rental income - 82th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q14,LAB,lejev,egen_bolig_Q14,Rental income - 14th percentile,,Rental income - 14th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q1,LAB,lejev,egen_bolig_Q1,Rental income - 1th percentile,,Rental income - 1th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q77,LAB,lejev,egen_bolig_Q77,Rental income - 77th percentile,,Rental income - 77th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q67,LAB,lejev,egen_bolig_Q67,Rental income - 67th percentile,,Rental income - 67th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q87,LAB,lejev,egen_bolig_Q87,Rental income - 87th percentile,,Rental income - 87th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q90,LAB,lejev,egen_bolig_Q90,Rental income - 90th percentile,,Rental income - 90th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q93,LAB,lejev,egen_bolig_Q93,Rental income - 93th percentile,,Rental income - 93th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q92,LAB,lejev,egen_bolig_Q92,Rental income - 92th percentile,,Rental income - 92th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q94,LAB,lejev,egen_bolig_Q94,Rental income - 94th percentile,,Rental income - 94th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q89,LAB,lejev,egen_bolig_Q89,Rental income - 89th percentile,,Rental income - 89th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q100,LAB,lejev,egen_bolig_Q100,Rental income - 100th percentile,,Rental income - 100th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q99,LAB,lejev,egen_bolig_Q99,Rental income - 99th percentile,,Rental income - 99th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q95,LAB,lejev,egen_bolig_Q95,Rental income - 95th percentile,,Rental income - 95th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q96,LAB,lejev,egen_bolig_Q96,Rental income - 96th percentile,,Rental income - 96th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q97,LAB,lejev,egen_bolig_Q97,Rental income - 97th percentile,,Rental income - 97th percentile,generated:quantile_percentile,medium,english,,
+LAB_lejev_egen_bolig_Q98,LAB,lejev,egen_bolig_Q98,Rental income - 98th percentile,,Rental income - 98th percentile,generated:quantile_percentile,medium,english,,

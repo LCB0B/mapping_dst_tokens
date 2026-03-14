@@ -1,0 +1,2 @@
+SPECIAL is the 6-digit specialty, which consists of two sub-elements. The first two digits indicate the specialty of the provider (i.e. whether it is a general practitioner, a dentist, etc.), while the last four digits indicate the type of service that has been given to that person.
+

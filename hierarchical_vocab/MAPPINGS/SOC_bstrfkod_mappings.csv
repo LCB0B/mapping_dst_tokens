@@ -1,4 +1,4 @@
-value,description,code,token_id,source,mapped
-1,Booklet (discontinued 1.7.2001),SOC_bstrfkod_1,41075,CSV:SOC_bstrfkod_from_raw,True
-2,Prison sentence,SOC_bstrfkod_2,41074,CSV:SOC_bstrfkod_from_raw,True
-4,Punishment determination postponed,SOC_bstrfkod_4,41076,CSV:SOC_bstrfkod_from_raw,True
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+SOC_bstrfkod_2,SOC,bstrfkod,2,Prison sentence,Prison sentence,,CSV:SOC_bstrfkod_from_raw,medium,danish,,
+SOC_bstrfkod_1,SOC,bstrfkod,1,Booklet (discontinued 1.7.2001),Booklet (discontinued 1.7.2001),,CSV:SOC_bstrfkod_from_raw,medium,danish,,
+SOC_bstrfkod_4,SOC,bstrfkod,4,Punishment determination postponed,Punishment determination postponed,,CSV:SOC_bstrfkod_from_raw,medium,danish,,

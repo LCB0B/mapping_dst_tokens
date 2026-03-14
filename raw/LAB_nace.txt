@@ -1,0 +1,977 @@
+Gyldig fra 	Gyldig til 	Kode 	Tekst
+01-01-1992 		0 	Ikke oplyst
+01-01-1992 		11110 	Kornavl
+01-01-1992 		11190 	Agerbrug i øvrigt
+01-01-1992 		11210 	Gartnerier
+01-01-1992 		11220 	Planteskoler
+01-01-1992 	31-12-2002 	11300 	Dyrkning af frugt og bær
+01-01-2003 		11300 	Dyrkning af frugt og bær, nødder og krydderiplanter
+01-01-1992 		12110 	Malkekvæghold
+01-01-1992 		12190 	Anden kvægavl
+01-01-1992 		12210 	Stutterier
+01-01-1996 		12220 	Fåre- og gedeavl
+01-01-1992 	31-12-1995 	12220 	Fåreavl
+01-01-1992 		12300 	Svineavl
+01-01-1992 		12400 	Fjerkræavl
+01-01-1992 		12510 	Pelsdyravl
+01-01-1992 		12520 	Biavl
+01-01-1992 		12530 	Kenneler
+01-01-1992 	31-12-1995 	12590 	Gedeavl, kaninavl mv.
+01-01-1996 		12590 	Opdræt af andre dyr
+01-01-1992 		13000 	Planteavl kombineret med husdyravl (blandet drift)
+01-01-1992 		14110 	Landbrugsmaskinstationer
+01-01-1992 		14120 	Anlægsgartnerier
+01-01-1992 		14190 	Servicevirksomhed i forbindelse med agerbrug i øvrigt
+01-01-1992 		14200 	Servicevirksomhed i forbindelse med husdyravl undtagen dyrlægevirksomhed
+01-01-1992 		15000 	Jagt, fangst og servicevirksomhed i forbindelse hermed
+01-01-1992 		20100 	Skovbrug
+01-01-1992 		20200 	Servicevirksomhed i forbindelse med skovbrug
+01-01-1992 		50100 	Fiskeri
+01-01-1992 		50200 	Dambrug og fiskeavl
+01-01-1992 	31-12-1995 	50300 	Servicevirksomhed i forbindelse med fiskeri
+01-01-1992 		101000 	Kulminer
+01-01-1992 		102000 	Brunkulslejer
+01-01-1992 		103000 	Tørvegrave
+01-01-1992 		111000 	Udvinding af råolie og naturgas
+01-01-1992 		112000 	Teknisk servicevirksomhed i forbindelse med olie- og gasudvinding
+01-01-1992 		120000 	Brydning af uran- og thoriummalme
+01-01-1992 		131000 	Brydning af jernmalm
+01-01-1992 		132000 	Brydning af ikke-jernholdige metalmalme undtagen uran- og thoriummalme
+01-01-2003 		141110 	Brydning af sten
+01-01-1992 	31-12-2002 	141110 	Stenbrud
+01-01-1992 		141120 	Stenfiskeri
+01-01-1992 		141200 	Kalkbrud
+01-01-1992 		141300 	Skiferbrud
+01-01-1992 		142100 	Grus- og sandgrave, sandsugning
+01-01-1992 		142200 	Udvinding af ler og kaolin
+01-01-1992 		143000 	Udvinding af mineraler til fremstilling af kemiske produkter og gødningsstoffer
+01-01-1992 		144000 	Saltudvinding
+01-01-1992 		145000 	Anden råstofudvinding i øvrigt
+01-01-1992 		151110 	Svineslagterier
+01-01-1992 		151120 	Kreaturslagterier
+01-01-1992 		151130 	Tarmrenserier
+01-01-1992 		151140 	Destruktionsanstalter og benmelsfabrikker
+01-01-1992 		151200 	Fjerkræslagterier
+01-01-1992 		151310 	Fremstilling af færdigretter
+01-01-1992 		151390 	Kødforarbejdning i øvrigt
+01-01-1992 		152010 	Fiskehermetik-, fiskefars- og fiskefiletfabrikker
+01-01-1992 		152020 	Røgning og saltning af fisk
+01-01-1992 		152030 	Fiskemelsfabrikker
+01-01-1992 		153100 	Forarbejdning og konservering af kartofler
+01-01-1992 		153200 	Fremstilling af frugt- og grønsagssaft
+01-01-1992 		153300 	Forarbejdning og konservering af frugt og grønsager i øvrigt
+01-01-1992 		154100 	Fremstilling af råolier og fedtstoffer
+01-01-1992 		154200 	Fremstilling af raffinerede olier og fedtstoffer
+01-01-1992 		154300 	Margarinefabrikker mv.
+01-01-1992 		155110 	Mejerier samt ostefremstilling
+01-01-1992 		155120 	Mælkekondenseringsfabrikker
+01-01-1992 		155200 	Fremstilling af konsumis
+01-01-1992 	31-12-2002 	156100 	Fremstilling af mølleriprodukter
+01-01-2002 		156110 	Fremstilling af mølleriprodukter
+01-01-2002 		156120 	Industriel fremstilling og forædling af frø
+01-01-1992 		156200 	Fremstilling af stivelse og stivelsesprodukter
+01-01-1992 		157110 	Fremstilling af færdige foderblandinger til landbrug og pelsdyravl
+01-01-1992 		157120 	Fremstilling af færdige foderblandinger til dam- og havbrug
+01-01-1992 		157200 	Fremstilling af færdigt foder til kæledyr
+01-01-1992 		158110 	Brødfabrikker
+01-01-1992 		158120 	Bagerforretninger
+01-01-1992 		158200 	Fremstilling af kager og kiks
+01-01-1992 		158300 	Sukkerfabrikker og -raffinaderier
+01-01-1992 		158400 	Chokolade- og sukkervarefabrikker
+01-01-1992 		158500 	Fremstilling af pastaprodukter og lignende varer
+01-01-1992 		158600 	Forarbejdning af te og kaffe
+01-01-1992 		158700 	Krydderimøller, fremstilling af smagspræparater mv.
+01-01-1992 		158800 	Fremstilling af homogeniserede produkter og diætmad
+01-01-1992 	31-12-2002 	158900 	Fremstilling af andre næringsmidler i øvrigt
+01-01-2002 		158910 	Fremstilling af kosttilskud
+01-01-2002 		158920 	Fremstilling af andre fødevarer i øvrigt
+01-01-1992 		159100 	Fremstilling af spiritus
+01-01-1992 		159200 	Fremstilling af råsprit
+01-01-1996 		159300 	Fremstilling af vin
+01-01-1992 	31-12-1995 	159300 	Fremstilling af vin baseret på druer
+01-01-1992 		159400 	Fremstilling af frugtvin undtagen fra druer
+01-01-1992 		159500 	Fremstilling af vermouth mv.
+01-01-1992 		159600 	Bryggerier
+01-01-1992 		159700 	Maltfabrikker
+01-01-1992 		159800 	Mineralvandsfabrikker mv.
+01-01-1992 	31-12-1995 	159900 	Fremstilling af andre alkoholfrie drikkevarer
+01-01-1992 	31-12-2002 	160000 	Tobaksfabrikker
+01-01-2003 		160000 	Tobaksindustri
+01-01-1992 		171000 	Forbehandling og spinding af tekstilfibre
+01-01-1992 		172000 	Vævning af tekstiler
+01-01-1992 		173000 	Færdigbehandling af tekstiler
+01-01-1992 		174010 	Sejlmagerier, flag- og teltfabrikker mv.
+01-01-1992 		174020 	Fremstilling af boligtekstiler
+01-01-1992 	31-12-2002 	174090 	Anden fremstilling af færdige tekstilvarer
+01-01-2003 		174090 	Fremstilling af andre færdige tekstilvarer i øvrigt
+01-01-1992 		175100 	Tæppefabrikker
+01-01-1992 		175210 	Rebslagerier
+01-01-1992 		175220 	Fiskenetfabrikker (vodbindere)
+01-01-1992 		175300 	Fremstilling af fiberdug og varer heraf undtagen beklædningsartikler
+01-01-1992 		175400 	Fremstilling af filt og andre tekstiler i øvrigt
+01-01-1992 		176000 	Fremstilling af trikotagestoffer
+01-01-1992 		177100 	Strømpefabrikker
+01-01-1992 		177200 	Fremstilling af pullovere, cardigans mv.
+01-01-1992 	31-12-1995 	177300 	Fremstilling af strikket eller hæklet yderbeklædning
+01-01-1992 	31-12-1995 	177400 	Fremstilling af strikket eller hæklet underbeklædning
+01-01-1992 	31-12-1995 	177500 	Fremstilling af andre trikotagevarer samt tilbehør
+01-01-1992 		181000 	Fremstilling af læderbeklædning
+01-01-1992 		182100 	Fremstilling af arbejdsbeklædning
+01-01-2002 		182200 	Fremstilling af overtøj, kjoler, bukser mv.
+01-01-1992 	31-12-2002 	182210 	Fremstilling af herre- og dameovertøj
+01-01-1992 	31-12-2002 	182220 	Fremstilling af jakker, bukser og anden yderbeklædning til herrer og drenge
+01-01-1992 	31-12-2002 	182230 	Fremstilling af kjoler, bukser og anden yderbeklædning til damer og piger
+01-01-2003 		182310 	Fremstilling af skjorter
+01-01-1992 	31-12-2002 	182310 	Skjortefabrikker
+01-01-1992 	31-12-2002 	182390 	Anden fremstilling af underbeklædning
+01-01-2003 		182390 	Fremstilling af anden underbeklædning
+01-01-1992 		182410 	Fremstilling af babytøj
+01-01-1992 		182490 	Beklædningsindustri i øvrigt
+01-01-1992 		183000 	Pelsberedning samt buntmagerier
+01-01-1992 		191000 	Garverier
+01-01-1992 		192000 	Fremstilling af tasker, kufferter mv.
+01-01-1992 		193010 	Skotøjsfabrikker
+01-01-1992 		193020 	Træskofabrikker
+01-01-1992 		201010 	Savværker
+01-01-1992 		201020 	Træimprægneringsvirksomheder mv.
+01-01-1992 		202000 	Fremstilling af krydsfiner, spånplader mv.
+01-01-1992 		203010 	Fremstilling af ramme- og møbellister
+01-01-1992 		203020 	Fremstilling af dele af træ til bygninger
+01-01-1992 		203030 	Fremstilling af præfabrikerede bygninger eller bygningselementer af træ
+01-01-1992 		204000 	Træemballagefabrikker
+01-01-1992 		205110 	Trædrejere
+01-01-1992 		205120 	Ligkistefabrikker
+01-01-1992 		205190 	Fremstilling af andre træprodukter i øvrigt
+01-01-1992 		205200 	Fremstilling af varer af kork, strå og flettematerialer
+01-01-1992 		211100 	Fremstilling af papirmasse
+01-01-1992 		211200 	Fremstilling af papir og pap
+01-01-1992 		212100 	Fremstilling af bølgepap og emballage af papir og pap
+01-01-1992 		212200 	Fremstilling af husholdnings- og toiletartikler af papir og pap
+01-01-2002 		212300 	Fremstilling af kontorartikler af papir og pap
+01-01-1992 	31-12-2002 	212310 	Fremstilling af skrivepapir
+01-01-1992 	31-12-2002 	212390 	Fremstilling af andre kontorartikler af papir og pap
+01-01-1992 		212400 	Fremstilling af tapet
+01-01-1992 	31-12-1995 	212500 	Fremstilling af andre papir- og papvarer
+01-01-1996 		212500 	Fremstilling af andre papir- og papvarer i.a.n.
+01-01-1992 		221110 	Udgivelse af bøger, brochurer mv. med eget trykkeri
+01-01-1992 		221120 	Udgivelse af bøger, brochurer mv. uden eget trykkeri
+01-01-1992 		221210 	Udgivelse af dagblade med eget trykkeri
+01-01-1992 		221220 	Udgivelse af dagblade uden eget trykkeri
+01-01-1992 		221310 	Udgivelse af ugeblade og magasiner med eget trykkeri
+01-01-1992 		221320 	Udgivelse af ugeblade og magasiner uden eget trykkeri
+01-01-1992 		221330 	Udgivelse af distrikts- og annonceblade med eget trykkeri
+01-01-1992 		221340 	Udgivelse af distrikts- og annonceblade uden eget trykkeri
+01-01-1992 		221400 	Udgivelse af lydoptagelser
+01-01-1992 		221500 	Anden udgivervirksomhed
+01-01-1992 		222100 	Avistrykkerier
+01-01-1992 	31-12-1995 	222210 	Bogtrykkerier
+01-01-1996 		222210 	Bogtrykkerier og offsettrykkerier
+01-01-1992 	31-12-1995 	222220 	Offsettrykkerier
+01-01-1992 		222230 	Serigrafiske trykkerier
+01-01-1992 		222290 	Andre trykkerier i øvrigt
+01-01-1992 		222300 	Bogbinderier
+01-01-2002 		222400 	Prepress-arbejde
+01-01-1992 	31-12-2002 	222410 	Reproduktionsanstalter
+01-01-1992 	31-12-2002 	222420 	Sætterier
+01-01-1992 		222500 	Anden virksomhed i forbindelse med trykning
+01-01-1992 		223100 	Reproduktion af lydoptagelser
+01-01-1992 		223200 	Reproduktion af videooptagelser
+01-01-1992 	31-12-2002 	223300 	Reproduktion af edb-medier
+01-01-2003 		223300 	Reproduktion af it-medier
+01-01-1992 		231000 	Fremstilling af koks mv.
+01-01-1992 		232000 	Fremstilling af raffinerede mineralolieprodukter
+01-01-1992 		233000 	Oparbejdning af nukleart brændsel
+01-01-1992 		241100 	Fremstilling af industrigasser
+01-01-1992 		241200 	Fremstilling af farvestoffer og pigmenter
+01-01-1992 		241300 	Fremstilling af andre uorganiske basiskemikalier
+01-01-1992 		241400 	Fremstilling af andre organiske basiskemikalier
+01-01-1992 		241500 	Fremstilling af kunstgødning mv.
+01-01-1992 		241600 	Fremstilling af basisplast
+01-01-1992 		241700 	Fremstilling af syntetisk gummi
+01-01-1992 		242000 	Fremstilling af pesticider og andre agrokemiske produkter
+01-01-1992 		243000 	Fremstilling af maling, lak, trykfarver mv. samt tætningsmaterialer
+01-01-1992 		244100 	Fremstilling af farmaceutiske råvarer
+01-01-1992 		244200 	Medicinalvarefabrikker
+01-01-1992 		245110 	Sæbe- og vaskemiddelfabrikker
+01-01-2003 		245120 	Fremstilling af voks samt pudse- og rensemidler
+01-01-1992 	31-12-2002 	245120 	Pudse- og rensemiddelfabrikker
+01-01-1992 	31-12-2002 	245200 	Fremstilling af parfume og toiletmidler
+01-01-2003 		245200 	Fremstilling af parfume, hårshampoo, tandpasta mv.
+01-01-1992 		246100 	Fremstilling af sprængstoffer mv.
+01-01-1992 		246200 	Limfabrikker
+01-01-1992 		246300 	Fremstilling af æteriske olier
+01-01-1992 		246400 	Fremstilling af fotokemiske produkter
+01-01-1992 		246500 	Fremstilling af uindspillede medier
+01-01-1992 		246600 	Fremstilling af andre kemiske produkter i øvrigt
+01-01-1992 		247000 	Fremstilling af kemofibre
+01-01-1992 		251100 	Fremstilling af gummidæk og gummislanger
+01-01-2003 		251200 	Vulkanisering
+01-01-1992 	31-12-2002 	251200 	Vulkaniseringsanstalter
+01-01-1992 		251300 	Fremstilling af andre gummiprodukter
+01-01-1992 		252110 	Fremstilling af plader, ark, film og andre flade former af plast
+01-01-1992 		252120 	Fremstilling af rør og slanger af plast
+01-01-1992 		252130 	Fremstilling af stænger og profiler af plast
+01-01-1992 		252200 	Fremstilling af plastemballage
+01-01-1992 		252310 	Fremstilling af sanitetsartikler af plast
+01-01-1992 		252390 	Fremstilling af andre bygningsartikler af plast
+01-01-1992 		252410 	Fremstilling af kontor- og skoleartikler af plast
+01-01-1992 		252420 	Fremstilling af bordservice og køkkenudstyr af plast
+01-01-1992 		252490 	Fremstilling af andre plastprodukter i øvrigt
+01-01-1992 		261100 	Fremstilling af planglas
+01-01-1992 		261200 	Formning og forarbejdning af planglas
+01-01-1992 		261300 	Fremstilling af flasker, drikkeglas mv.
+01-01-2003 		261400 	Fremstilling af glasfiber og visse varer heraf
+01-01-1992 	31-12-2002 	261400 	Glasuldsfabrikker
+01-01-1992 		261500 	Fremstilling og bearbejdning af glas i øvrigt
+01-01-1992 		262100 	Fremstilling af keramiske husholdningsartikler og pyntegenstande
+01-01-1992 		262200 	Fremstilling af keramiske sanitetsartikler
+01-01-1992 		262300 	Fremstilling af keramiske isolatorer og isoleringsdele
+01-01-1992 		262400 	Fremstilling af andre keramiske produkter til teknisk brug
+01-01-1992 		262500 	Fremstilling af andre keramiske produkter
+01-01-1992 		262600 	Fremstilling af varmeisolerende og ildfaste keramiske produkter
+01-01-1992 		263000 	Fremstilling af fliser og kakler
+01-01-1992 		264000 	Teglværker
+01-01-1992 		265100 	Cementfabrikker
+01-01-1992 		265200 	Kalkværker
+01-01-1992 		265300 	Fremstilling af gips
+01-01-1992 		266110 	Betonvarefabrikker
+01-01-1992 		266120 	Betonelementfabrikker
+01-01-1992 		266200 	Fremstilling af byggematerialer af gips
+01-01-1992 		266300 	Fremstilling af færdigblandet beton
+01-01-1992 		266400 	Mørtelværker
+01-01-1992 		266500 	Fremstilling af fibercementprodukter
+01-01-1992 		266600 	Fremstilling af andre beton-, gips- og cementprodukter
+01-01-1992 		267000 	Stenhuggere
+01-01-1992 		268100 	Fremstilling af slibemidler
+01-01-1992 		268210 	Asfalt- og tagpapfabrikker
+01-01-1992 		268220 	Stenuldsfabrikker
+01-01-1992 		268290 	Fremstilling af andre ikke-metalholdige mineralske produkter i øvrigt
+01-01-2003 		271000 	Fremstilling af råjern og råstål samt jernlegeringer
+01-01-1992 	31-12-2002 	271000 	Jern- og stålværker
+01-01-1992 		272100 	Fremstilling af støbte jern- og stålrør
+01-01-1992 		272200 	Fremstilling af jern- og stålrør (undtagen støbte rør)
+01-01-1992 		273100 	Koldtrækning af jern og stål
+01-01-1992 		273200 	Koldvalsning af jern- og stålbånd
+01-01-1992 		273300 	Koldbehandling af jern og stål
+01-01-1992 		273400 	Trådtrækning af stål
+01-01-1992 		273500 	Anden bearbejdning af jern og stål i øvrigt
+01-01-1992 		274100 	Fremstilling af ædelmetaller
+01-01-2003 		274200 	Fremstilling af aluminium og komponenter heraf
+01-01-1992 	31-12-2002 	274200 	Fremstilling og første bearbejdning af aluminium
+01-01-2003 		274300 	Fremstilling af bly, zink og tin og komponenter heraf
+01-01-1992 	31-12-2002 	274300 	Fremstilling og første bearbejdning af bly, zink og tin
+01-01-2003 		274400 	Fremstilling af kobber og komponenter heraf
+01-01-1992 	31-12-2002 	274400 	Fremstilling og første bearbejdning af kobber
+01-01-2003 		274500 	Fremstilling af andre ikke-jernholdige metaller og komponenter heraf
+01-01-1992 	31-12-2002 	274500 	Fremstilling og første bearbejdning af andre ikke-jernholdige metaller
+01-01-1992 		275100 	Støbning af jernprodukter
+01-01-1992 		275200 	Støbning af stålprodukter
+01-01-1992 		275300 	Støbning af letmetalprodukter
+01-01-1992 		275400 	Støbning af andre ikke-jernholdige metalprodukter
+01-01-1992 		281100 	Fremstilling af metalkonstruktioner og dele heraf
+01-01-1992 		281200 	Fremstilling af døre og vinduer samt rammer hertil af jern og metal
+01-01-1992 		282100 	Fremstilling af tanke og beholdere af jern/stål og metal
+01-01-1992 		282200 	Fremstilling af radiatorer og kedler til centralvarmeanlæg
+01-01-1992 		283000 	Fremstilling af dampkedler undtagen centralvarmekedler
+01-01-1992 		284000 	Smedning, presning, sænksmedning og valsning af metal; pulvermetallurgi
+01-01-2003 		285100 	Overfladebehandling af metal
+01-01-1992 	31-12-2002 	285100 	Overfladebehandling af metal på kontraktbasis (lønarbejde)
+01-01-2003 		285200 	Almindelige maskinforarbejdningsprocesser
+01-01-1992 	31-12-2002 	285200 	Almindelige maskinforarbejdningsprocesser på kontraktbasis (lønarbejde)
+01-01-1992 		286100 	Fremstilling af bestik, skære- og klipperedskaber
+01-01-1992 		286200 	Fremstilling af håndværktøj
+01-01-1992 		286310 	Låsefabrikker
+01-01-1992 		286320 	Fremstilling af metalbeslag
+01-01-1992 		287100 	Fremstilling af metaltønder og lignende beholdere
+01-01-2003 		287200 	Fremstilling af dåser mv. og lukkeanordninger af metal
+01-01-1992 	31-12-2002 	287200 	Fremstilling af konservesdåser mv.
+01-01-1992 		287300 	Fremstilling af trådvarer
+01-01-1992 		287400 	Fremstilling af bolte, skruer, møtrikker, kæder og fjedre
+01-01-1992 		287510 	Fremstilling af metalskilte
+01-01-1992 		287520 	Fremstilling af sanitets- og husholdningsartikler af metal
+01-01-1992 		287590 	Fremstilling af andre færdige metalprodukter i øvrigt
+01-01-1992 		291110 	Skibsmotorfabrikker
+01-01-1992 		291120 	Reparation af skibsmotorer
+01-01-1992 		291190 	Fremstilling af andre motorer og turbiner
+01-01-1992 		291210 	Fremstilling af luftpumper og -kompressorer
+01-01-1992 		291220 	Fremstilling af væskepumper
+01-01-1992 		291230 	Fremstilling af hydrauliske og pneumatiske maskiner
+01-01-1992 		291300 	Fremstilling af haner og ventiler
+01-01-1992 		291400 	Fremstilling af aksler, lejer og udvekslinger
+01-01-1992 		292100 	Fremstilling af ovne og fyringsaggregater
+01-01-1992 		292210 	Fremstilling af båndtransportører og elevatorer
+01-01-1992 		292220 	Fremstilling af kraner samt talje- og hejseværker
+01-01-1992 		292230 	Fremstilling af trucks
+01-01-1992 		292290 	Fremstilling af andet håndteringsudstyr
+01-01-1996 		292310 	Fremstilling af køle- og fryseanlæg til erhvervsmæssigt brug
+01-01-1992 	31-12-1995 	292310 	Fremstilling af køle- og fryseanlæg til industrielt brug
+01-01-1996 		292320 	Fremstilling af ventilations- og klimaanlæg til erhvervsmæssigt brug
+01-01-1992 	31-12-1995 	292320 	Fremstilling af ventilations- og klimaanlæg til industrielt brug
+01-01-1992 		292410 	Vægtfabrikker
+01-01-1992 		292420 	Fremstilling af emballeringsmaskiner
+01-01-1992 		292430 	Fremstilling af højtryksrensere, ildslukkere, sandblæsere mv.
+01-01-1992 		292490 	Fremstilling af salgsautomater, varmevekslere, centrifuger mv.
+01-01-1992 		293100 	Fremstilling af traktorer
+01-01-1992 		293210 	Fremstilling af høstmaskiner mv.
+01-01-1992 		293220 	Fremstilling af jordbearbejdningsmaskiner til landbrug
+01-01-1992 	31-12-2002 	293230 	Fremstilling af maskiner til land- og skovbrug i øvrigt
+01-01-2003 		293230 	Fremstilling af maskiner til land-, have- og skovbrug i øvrigt
+01-01-1992 	31-12-2002 	293240 	Reparation af maskiner til land- og skovbrug
+01-01-2003 		293240 	Reparation af maskiner til land-, have- og skovbrug
+01-01-1992 	31-12-2002 	294000 	Fremstilling af værktøjsmaskiner
+01-01-2002 		294100 	Fremstilling af håndholdt motordrevet værktøj
+01-01-2002 		294200 	Fremstilling af andre værktøjsmaskiner til metalforarbejdning
+01-01-2002 		294300 	Fremstilling af andre værktøjsmaskiner i.a.n.
+01-01-1992 		295100 	Fremstilling af maskiner til metalindustri
+01-01-1992 		295210 	Fremstilling af maskiner til fremstilling af mørtel, cement, beton og betonvarer
+01-01-1992 		295290 	Fremstilling af maskiner til entreprenørarbejde mv.
+01-01-1992 		295310 	Fremstilling af mejerimaskiner
+01-01-1992 		295320 	Fremstilling af maskiner og apparater til behandling af korn
+01-01-1992 		295330 	Fremstilling af maskiner til sukkervareindustri samt bagerimaskiner
+01-01-1992 		295340 	Fremstilling af maskiner til forarbejdning af kød, fjerkræ, fisk og skaldyr
+01-01-2003 		295390 	Fremstilling af andre maskiner til føde-, drikke- og tobaksvareindustri
+01-01-1992 	31-12-2002 	295390 	Fremstilling af andre maskiner til nærings- og nydelsesmiddelindustri
+01-01-1992 		295400 	Fremstilling af maskiner til beklædnings- og læderindustri
+01-01-1992 		295500 	Fremstilling af maskiner til papir- og papindustri
+01-01-1992 		295610 	Fremstilling af støbeforme
+01-01-1996 		295620 	Fremstilling af tørringsanlæg
+01-01-1992 	31-12-1995 	295620 	Fremstilling af tørringsanlæg unbdtagen til landbrugsvarer
+01-01-1992 		295690 	Fremstilling af industrimaskiner i øvrigt
+01-01-1992 		296000 	Fremstilling af våben og ammunition
+01-01-1996 		297110 	Fremstilling af køleskabe og dybfrysere til husholdningsbrug
+01-01-1992 	31-12-1995 	297110 	Fremstilling af køleskabe og frysebokse til husholdningsbrug
+01-01-1992 		297120 	Fremstilling af elektriske komfurer, kogeapparater og ovne til husholdningsbrug
+01-01-1992 		297130 	Fremstilling af opvaske-, vaske- og tørremaskiner til husholdningsbrug
+01-01-1992 		297190 	Fremstilling af støvsugere, vandvarmere, el-radiatorer, kaffemaskiner mv. til husholdningsbrug
+01-01-1992 		297200 	Fremstilling af ikke-elektriske husholdningsapparater samt brændeovne
+01-01-1992 		300100 	Fremstilling af kontormaskiner
+01-01-2003 		300200 	Fremstilling af computere og andet it-udstyr
+01-01-1992 	31-12-2002 	300200 	Fremstilling af edb-maskiner og andet edb-udstyr
+01-01-1992 	31-12-2002 	311010 	Fremstilling af elmotorer og -generatorer
+01-01-2003 		311010 	Fremstilling af elmotorer og generatorer
+01-01-1992 		311020 	Fremstilling af generatorsæt med forbrændingsmotor mv.
+01-01-1992 		311030 	Fremstilling af transformatorer og omformere
+01-01-1992 	31-12-2002 	311040 	Fremstilling af vindmøller
+01-01-2003 		311040 	Fremstilling af vindmøller og dele hertil
+01-01-1992 		312010 	Fremstilling af elektriske fordelings- og kontroltavler
+01-01-1992 		312090 	Fremstilling af elektriske afbrydere, relæer, sikringer mv.
+01-01-1992 		313000 	Fremstilling af isolerede ledninger og kabler
+01-01-1992 		314000 	Akkumulator- og tørelementfabrikker
+01-01-1992 		315000 	Fremstilling af belysningsarmaturer mv.
+01-01-1992 	31-12-1995 	316100 	Fremstilling af andet elektrisk udstyr til motorer og køretøjer
+01-01-1996 		316100 	Fremstilling af andet elektrisk udstyr til motorer og køretøjer i.a.n.
+01-01-1992 		316210 	Fremstilling af elektrisk trafikreguleringsudstyr
+01-01-1992 		316220 	Elektromekaniske værksteder
+01-01-1992 		316290 	Fremstilling af andet elektrisk og elektronisk udstyr i øvrigt
+01-01-1992 		321010 	Fremstilling af trykte og integrerede kredsløb
+01-01-1992 		321090 	Fremstilling af halvlederkomponenter, kondensatorer, modstande mv.
+01-01-1992 		322010 	Fremstilling af apparater til radiotelegrafi og radiotelefoni
+01-01-1992 		322020 	Fremstilling af telefonapparater og -anlæg samt telefaxapparater
+01-01-1992 		323010 	Fremstilling af radioer, fjernsyn mv.
+01-01-1992 		323020 	Fremstilling af højtalere mv.
+01-01-1992 		323030 	Fremstilling af antenner og antenneanlæg
+01-01-1992 	31-12-2002 	331010 	Fremstilling af kanyler og sprøjter
+01-01-2003 		331010 	Fremstilling af kanyler, sprøjter, katetre og infusionssæt
+01-01-1992 		331020 	Fremstilling af høreapparater og dele hertil
+01-01-1992 		331030 	Fremstilling af elektrodiagnostiske apparater
+01-01-1992 		331040 	Fremstilling af inventar til medicinsk og dental brug
+01-01-1992 		331090 	Fremstilling af røntgenapparatur, tandlægeapparatur, respirationsapparater, ortopædiske artikler, proteser mv.
+01-01-1992 		332010 	Fremstilling af navigationsudstyr
+01-01-1992 		332020 	Fremstilling af apparater til måling af forbrug, tryk mv. i væsker og gasser
+01-01-1992 		332030 	Fremstilling af apparater til måling eller kontrol af elektriske størrelser
+01-01-1992 		332040 	Fremstilling af instrumenter og apparater til brug ved fysiske og kemiske analyser
+01-01-1992 		332090 	Fremstilling af andet måle- og kontroludstyr
+01-01-1992 		333000 	Fremstilling af udstyr til industrielle processtyringsanlæg
+01-01-1992 		334010 	Fremstilling af brilleglas og optiske instrumenter mv.
+01-01-1992 		334020 	Fremstilling af reproduktionskameraer
+01-01-1992 		334090 	Fremstilling af fotografisk og kinematografisk udstyr i øvrigt
+01-01-1992 		335000 	Fremstilling af ure
+01-01-1992 		341000 	Bilfabrikker
+01-01-1992 		342000 	Karosserifabrikker
+01-01-1992 		343000 	Fremstilling af dele og tilbehør til motorkøretøjer
+01-01-2003 		351100 	Bygning og reparation af skibe
+01-01-1992 	31-12-2002 	351100 	Skibsværfter
+01-01-2003 		351200 	Bygning og reparation af både
+01-01-1992 	31-12-2002 	351200 	Bådbyggerier
+01-01-1992 		352000 	Fremstilling af lokomotiver og jernbanevogne mv.
+01-01-1992 		353000 	Flyfabrikker og -værksteder
+01-01-1992 		354100 	Fremstilling af motorcykler og knallerter
+01-01-1992 		354200 	Fremstilling af cykler
+01-01-1992 		354300 	Fremstilling af invalidekøretøjer
+01-01-1992 		355000 	Fremstilling af andre transportmidler i øvrigt
+01-01-1992 		361110 	Fremstilling af stole og andre siddemøbler
+01-01-1992 		361120 	Møbelpolstrervirksomhed
+01-01-1992 	31-12-2002 	361200 	Fremstilling af kontor- og butiksmøbler undtagen stole
+01-01-2003 		361200 	Fremstilling af kontor-, butiks- og lagermøbler undtagen stole
+01-01-2003 		361300 	Fremstilling af køkkenelementer og -møbler mv.
+01-01-1992 	31-12-2002 	361300 	Fremstilling af køkkeninventar mv.
+01-01-1992 		361410 	Fremstilling af andre møbler til boliger
+01-01-1992 		361490 	Møbellakererier, afsyring af møbler mv.
+01-01-1992 		361500 	Madrasfabrikker
+01-01-1992 		362100 	Fremstilling af mønter og medaljer
+01-01-1992 		362210 	Guld- og sølvvarefabrikker
+01-01-1992 		362220 	Guld- og sølvsmedeværksteder samt juvelerer
+01-01-1992 		363000 	Fremstilling af musikinstrumenter
+01-01-1992 	31-12-2002 	364000 	Fremstilling af sportsrekvisitter
+01-01-2003 		364000 	Fremstilling af sportsrekvistitter
+01-01-1992 		365000 	Fremstilling af legetøj og spil
+01-01-1992 		366100 	Fremstilling af bijouterivarer
+01-01-1992 		366200 	Børstefabrikker
+01-01-1992 		366310 	Stearinlysfabrikker
+01-01-1992 		366390 	Fremstilling af andre varer i øvrigt
+01-01-1992 		371000 	Genbrug af metalaffaldsprodukter
+01-01-1992 		372000 	Genbrug af ikke-metalholdige affaldsprodukter
+01-01-1992 	31-12-2002 	401000 	Elforsyning
+01-01-2002 		401100 	Produktion af elektricitet
+01-01-2002 		401200 	Transmission af elektricitet
+01-01-2002 		401300 	Distribution af og handel med elektricitet
+01-01-1992 	31-12-2002 	402000 	Gasforsyning
+01-01-2002 		402100 	Fremstilling af gas
+01-01-2002 		402200 	Distribution af og handel med gas gennem rørledninger
+01-01-1992 		403000 	Varmeforsyning
+01-01-1992 		410000 	Vandforsyning
+01-01-1992 		451100 	Nedrivnings- og jordarbejdsentreprenører
+01-01-1992 		451200 	Funderingsundersøgelser
+01-01-2003 		452100 	Bygge- og anlægsentreprenører (bortset fra nedrivnings- og
+01-01-1992 	31-12-2002 	452100 	Bygge- og anlægsentreprenører (bortset fra nedrivnings- og jordarbejdsentreprenører)
+01-01-1992 		452200 	Tagdækningsvirksomhed
+01-01-1992 		452510 	Murerforretninger
+01-01-1992 		452520 	Brolæggermestre
+01-01-1992 		452530 	Kloakmestre
+01-01-1992 		452540 	Stilladsforretninger
+01-01-1992 		452590 	Bygge- og anlægsvirksomhed, som kræver specialisering i øvrigt
+01-01-2003 		453100 	El-installation
+01-01-1992 	31-12-2002 	453100 	Elektroinstallationsforretninger
+01-01-1992 		453200 	Isoleringsvirksomhed
+01-01-1992 		453300 	VVS-installatører og blikkenslagerforretninger
+01-01-1992 		454100 	Stukkatørvirksomhed
+01-01-1992 		454200 	Tømrer- og bygningssnedkerforretninger
+01-01-1992 		454310 	Gulvbelægnings- og vægbeklædningsvirksomhed
+01-01-1992 		454320 	Gulvafhøvling og gulvafslibning
+01-01-1992 		454410 	Malerforretninger
+01-01-1992 		454420 	Glarmesterforretninger
+01-01-1992 		454500 	Andet færdiggørelsesarbejde i øvrigt
+01-01-1992 		455000 	Udlejning af entreprenørmateriel med betjeningspersonale
+01-01-1992 	31-12-2002 	501010 	Engroshandel med biler
+01-01-2003 		501010 	Engroshandel med biler mv.
+01-01-1992 		501020 	Detailhandel med biler
+01-01-1992 		501030 	Engros- og detailhandel med campingvogne mv.
+01-01-1992 		502010 	Autoreparationsværksteder
+01-01-1992 		502020 	Karosseriværksteder (pladesmede)
+01-01-1992 		502030 	Autoelektrikere
+01-01-1992 		502040 	Undervognsbehandling
+01-01-1992 		502050 	Autolakererier
+01-01-1992 		502060 	Dækservice
+01-01-1992 		502090 	Autoservice i øvrigt
+01-01-1992 		503010 	Engroshandel med reservedele og tilbehør til biler mv.
+01-01-1992 		503020 	Detailhandel med reservedele og tilbehør til biler mv. (autoudstyrsforretninger)
+01-01-1992 		504000 	Engros- og detailhandel med motorcykler, reservedele og tilbehør samt reparation og vedligeholdelse heraf
+01-01-1992 		505010 	Servicestationer uden kiosksalg
+01-01-1992 		505020 	Servicestationer med kiosksalg
+01-01-1992 		511100 	Agenturhandel med råvarer til landbruget, landbrugsprodukter, levende dyr, tekstilmaterialer og halvfabrikata
+01-01-1992 		511200 	Agenturhandel med brændstoffer, malme, metaller og kemiske produkter til industrien
+01-01-1992 		511300 	Agenturhandel med tømmer og andre byggematerialer
+01-01-1992 		511400 	Agenturhandel med maskiner, teknisk udstyr, skibe samt flyvemaskiner
+01-01-1992 		511500 	Agenturhandel med møbler, husholdningsartikler og isenkram
+01-01-1992 		511600 	Agenturhandel med tekstiler, beklædning, fodtøj og lædervarer
+01-01-1992 		511710 	Fiskeauktioner
+01-01-2003 		511790 	Anden agenturhandel med føde-, drikke- og tobaksvarer
+01-01-1992 	31-12-2002 	511790 	Anden agenturhandel med nærings- og nydelsesmidler
+01-01-1992 		511800 	Agenturhandel med andet specialiseret sortiment
+01-01-1992 		511900 	Agenturhandel med blandet sortiment
+01-01-1992 		512100 	Engroshandel med korn, såsæd og foderstoffer
+01-01-1992 		512200 	Engroshandel med blomster og planter
+01-01-1992 		512300 	Engroshandel med levende dyr
+01-01-1992 		512400 	Engroshandel med råhuder, skind og læder
+01-01-1992 		512500 	Engroshandel med råtobak
+01-01-1992 		513100 	Engroshandel med frugt og grønsager
+01-01-1992 		513200 	Engroshandel med kød og kødprodukter
+01-01-1992 		513300 	Engroshandel med mejeriprodukter, æg, spiseolier og fedtstoffer
+01-01-1992 		513410 	Engroshandel med øl og mineralvand
+01-01-1992 		513420 	Engroshandel med vin og spiritus
+01-01-1992 		513490 	Engroshandel med frugt- og grønsagssaft mv.
+01-01-1992 		513500 	Engroshandel med tobaksvarer
+01-01-2003 		513600 	Engroshandel med brød, kager, sukker, chokolade og sukkervarer, fx slik
+01-01-1992 	31-12-2002 	513600 	Engroshandel med sukker, chokolade og sukkervarer
+01-01-1992 		513700 	Engroshandel med kaffe, te, kakao og krydderier
+01-01-1992 	31-12-1995 	513800 	Ikke-specialiseret engroshandel med nærings- og nydelsesmidler
+01-01-1992 		513810 	Engroshandel med fisk og fiskeprodukter
+01-01-1992 	31-12-2002 	513820 	Engroshandel med brød, kager og kiks
+01-01-1992 		513830 	Engroshandel med helsekostprodukter
+01-01-2003 		513890 	Anden specialiseret engroshandel med føde-, drikke- og tobaksvarer
+01-01-1992 	31-12-2002 	513890 	Anden specialiseret engroshandel med nærings- og nydelsesmidler
+01-01-2003 		513900 	Ikke-specialiseret engroshandel med føde-, drikke- og tobaksvarer
+01-01-1992 	31-12-2002 	513900 	Ikke-specialiseret engroshandel med nærings- og nydelsesmidler
+01-01-1992 	31-12-1995 	513910 	Engroshandel med fisk og fiskeprodukter
+01-01-1992 	31-12-1995 	513920 	Engroshandel med brød, kager og kiks
+01-01-1992 	31-12-1995 	513930 	Engroshandel med helsekostprodukter
+01-01-1992 	31-12-1995 	513990 	Anden specialiseret engroshandel med nærings- og nydelsesmidler
+01-01-1992 		514100 	Engroshandel med tekstiler
+01-01-1992 		514210 	Engroshandel med beklædning
+01-01-1992 		514220 	Engroshandel med fodtøj
+01-01-1992 		514310 	Engroshandel med hårde hvidevarer
+01-01-1992 	31-12-2002 	514320 	Engroshandel med radio og tv
+01-01-2003 		514320 	Engroshandel med radio og tv mv.
+01-01-1992 	31-12-2002 	514330 	Engroshandel med grammofonplader samt indspillede og uindspillede videobånd mv.
+01-01-2003 		514330 	Engroshandel med indspillede og uindspillede videobånd, cd'er, dvd'er mv.
+01-01-1992 		514340 	Engroshandel med elektriske husholdningsartikler
+01-01-1992 		514410 	Engroshandel med porcelæns- og glasvarer
+01-01-1992 		514420 	Engroshandel med rengøringsmidler
+01-01-2003 		514500 	Engroshandel med parfumerivarer og kosmetik
+01-01-1992 	31-12-2002 	514500 	Engroshandel med toiletartikler og parfumerivarer
+01-01-1992 		514610 	Engroshandel med medicinalvarer og sygeplejeartikler
+01-01-1992 		514620 	Engroshandel med læge- og hospitalsartikler
+01-01-1992 		514705 	Engroshandel med møbler
+01-01-1992 		514710 	Engroshandel med tæpper
+01-01-1992 		514715 	Engroshandel med guld- og sølvvarer
+01-01-1992 		514720 	Engroshandel med ure og optik
+01-01-1992 		514725 	Engroshandel med fotografiske artikler
+01-01-1992 		514730 	Engroshandel med cykler og knallerter
+01-01-1992 		514735 	Engroshandel med sportsartikler, campingudstyr og lystbåde
+01-01-1992 		514740 	Engroshandel med legetøj og spil
+01-01-1992 		514745 	Engroshandel med bøger, papir og papirvarer
+01-01-1992 		514750 	Engroshandel med kufferter, lædervarer og kunsthåndværk
+01-01-1992 		514790 	Engroshandel med andre husholdningsartikler
+01-01-1992 		515100 	Engroshandel med motorbrændstof, brændsel, smøreolie mv.
+01-01-1992 		515200 	Engroshandel med uforarbejdede metaller og metalmalme
+01-01-1992 		515310 	Engroshandel med træ, trælast og byggematerialer
+01-01-1992 	31-12-2002 	515320 	Engroshandel med lak, maling og tapet
+01-01-2003 		515320 	Engroshandel med lak, maling, tapet, malerpensler mv.
+01-01-1992 		515400 	Engroshandel med isenkram og varmeanlæg samt tilbehør
+01-01-1992 		515500 	Engroshandel med kemiske produkter
+01-01-1992 		515610 	Engroshandel med emballageartikler
+01-01-1992 		515690 	Engroshandel med andre råvarer og halvfabrikata
+01-01-1992 		515700 	Engroshandel med affaldsprodukter
+01-01-1996 	31-12-2002 	516100 	Engroshandel med værktøjsmaskiner og tilbehør til bearbejdning af metal og træ
+01-01-1992 	31-12-1995 	516100 	Engroshandel med værktøjsmaskiner, værktøj og tilbehør til bearbejdning af metal og træ
+01-01-1992 	31-12-2002 	516200 	Engroshandel med maskiner, udstyr og tilbehør til bygge- og anlægsvirksomhed
+01-01-1992 	31-12-2002 	516300 	Engroshandel med maskiner, udstyr og tilbehør til tekstilindustrien
+01-01-1992 	31-12-2002 	516410 	Engroshandel med kontormaskiner, edb-maskiner og -udstyr
+01-01-1992 	31-12-2002 	516420 	Engroshandel med kontormøbler og kontorartikler
+01-01-1992 	31-12-2002 	516510 	Engroshandel med el-installationsmateriel
+01-01-1992 	31-12-2002 	516520 	Engroshandel med elektroniske komponenter
+01-01-1992 	31-12-2002 	516590 	Engroshandel med andre maskiner, udstyr og tilbehør
+01-01-1992 	31-12-2002 	516600 	Engroshandel med landbrugsmaskiner og -redskaber samt tilbehør, herunder traktorer
+01-01-1992 	31-12-2002 	517000 	Anden engroshandel
+01-01-2002 		518100 	Engroshandel med værktøjsmaskiner og tilbehør til bearbejdning af metal og træ
+01-01-2002 		518200 	Engroshandel med maskiner, udstyr og tilbehør til bygge- og anlægsvirksomhed
+01-01-2002 		518300 	Engroshandel med maskiner, udstyr og tilbehør til tekstilindustrien
+01-01-2002 		518410 	Engroshandel med computere og it-udstyr
+01-01-2002 		518420 	Engroshandel med telekommunikationsudstyr
+01-01-2002 		518500 	Engroshandel med kontormaskiner og kontorudstyr
+01-01-2002 		518600 	Engroshandel med elektroniske komponenter
+01-01-2002 		518710 	Engroshandel med el-installationsmateriel
+01-01-2002 		518790 	Engroshandel med andre maskiner, udstyr og tilbehør
+01-01-2002 		518800 	Engroshandel med landbrugsmaskiner og -redskaber samt tilbehør, herunder traktorer
+01-01-2002 		519000 	Anden engroshandel
+01-01-1992 		521110 	Kolonialhandel
+01-01-1992 		521120 	Døgnkiosker
+01-01-1992 		521130 	Supermarkeder
+01-01-2002 		521140 	Discountforretninger
+01-01-1992 		521210 	Varehuse
+01-01-1992 		521220 	Stormagasiner
+01-01-1992 		522100 	Frugt- og grøntforretninger
+01-01-1992 		522200 	Slagter- og viktualieforretninger
+01-01-1992 		522300 	Fisk- og vildtforretninger
+01-01-1992 	31-12-1995 	522400 	Brødudsalg
+01-01-1992 		522410 	Brødudsalg
+01-01-1992 		522420 	Chokolade- og konfektureforretninger
+01-01-1992 		522500 	Vinforretninger
+01-01-1992 	31-12-2002 	522600 	Tobaks- og vinforretninger
+01-01-2003 		522600 	Tobaksforretninger
+01-01-1992 		522710 	Osteforretninger
+01-01-1992 	31-12-1995 	522720 	Chokolade- og konfektureforretninger
+01-01-1992 		522730 	Helsekostforretninger
+01-01-2003 		522790 	Detailhandel med føde-, drikke- og tobaksvarer fra specialforretninger i øvrigt
+01-01-1992 	31-12-2002 	522790 	Detailhandel med nærings- og nydelsesmidler fra specialforretninger i øvrigt
+01-01-1992 		523100 	Apoteker
+01-01-1992 		523200 	Detailhandel med medicinske og ortopædiske artikler
+01-01-1992 		523310 	Parfumerier
+01-01-1992 		523320 	Materialister
+01-01-1992 		524100 	Detailhandel med kjolestoffer, garn, broderier mv.
+01-01-1992 		524210 	Dametøjsforretninger
+01-01-1992 		524220 	Herretøjsforretninger
+01-01-1992 		524230 	Herre- og dametøjsforretninger (blandet)
+01-01-1992 		524240 	Babyudstyrs- og børnetøjsforretninger
+01-01-1992 		524310 	Skotøjsforretninger
+01-01-1992 		524320 	Lædervareforretninger
+01-01-1992 		524410 	Møbelforretninger
+01-01-1992 	31-12-2002 	524420 	Tæppeforretninger
+01-01-1992 		524430 	Boligtekstilforretninger
+01-01-2003 		524440 	Detailhandel med køkkenudstyr, glas, porcelæn, bestik, vaser, lysestager mv.
+01-01-1992 	31-12-2002 	524440 	Detailhandel udelukkende med køkkenudstyr, glas og porcelæn
+01-01-1992 		524450 	Detailhandel med belysningsartikler
+01-01-1996 		524510 	Detailhandel med elektriske husholdningsmaskiner og -apparater
+01-01-1992 	31-12-1995 	524510 	Detailhandel med husholdningsmaskiner og -apparater
+01-01-1992 		524520 	Radio- og tv-forretninger
+01-01-1992 		524530 	Pladeforretninger
+01-01-1992 		524540 	Forhandlere af musikinstrumenter
+01-01-1992 		524610 	Isenkramforretninger
+01-01-1992 		524620 	Byggemarkeder
+01-01-1992 		524630 	Farve- og tapetforretninger
+01-01-1992 		524700 	Bog- og papirhandlere
+01-01-2002 		524801 	Tæppeforretninger
+01-01-1992 		524805 	Urmagerforretninger
+01-01-1992 		524810 	Urmager- og guldsmedeforretninger
+01-01-1992 		524815 	Guldsmede- og juvelerforretninger
+01-01-2003 		524820 	Optikere
+01-01-1992 	31-12-2002 	524820 	Specialoptikere
+01-01-1992 		524825 	Fotoforretninger
+01-01-1992 		524830 	Forhandlere af gaveartikler og brugskunst (gaveboder)
+01-01-1992 		524835 	Kunsthandel og gallerivirksomhed
+01-01-1992 		524840 	Frimærke- og møntforretninger
+01-01-1992 		524845 	Sportsforretninger
+01-01-1996 		524850 	Detailhandel med legetøj og spil
+01-01-1992 	31-12-1995 	524850 	Legetøjsforretninger
+01-01-1992 		524855 	Forhandlere af lystbåde og udstyr hertil
+01-01-1992 		524860 	Cykel- og knallertforretninger
+01-01-1992 	31-12-1995 	524865 	Detailhandel med pc'er, kontormaskiner og programmel
+01-01-1996 	31-12-2002 	524865 	Detailhandel med pc'er, kontormaskiner og standardsoftware
+01-01-2002 		524866 	Detailhandel med computere og standardsoftware
+01-01-2002 		524867 	Detailhandel med kontormaskiner
+01-01-1992 		524870 	Detailhandel med telekommunikationsudstyr
+01-01-1992 		524875 	Blomsterforretninger
+01-01-1992 		524880 	Planteforhandlere og havecentre
+01-01-1992 		524885 	Dyrehandel
+01-01-1992 		524890 	Forhandlere af fyringsolie og fast brændsel til husholdningsbrug
+01-01-1992 		524895 	Pornobutikker
+01-01-1992 		524899 	Detailhandel med andre varer
+01-01-1992 		525010 	Bogantikvariater
+01-01-1992 		525020 	Antikvitetsforretninger
+01-01-1992 		525090 	Andre forhandlere af brugte varer
+01-01-1992 		526100 	Detailhandel fra postordreforretninger
+01-01-1992 		526210 	Frugt- og grøntstader
+01-01-1992 		526290 	Anden detailhandel fra stadepladser og markeder
+01-01-1992 		526300 	Anden detailhandel bortset fra butikshandel
+01-01-1992 		527100 	Reparation af sko eller andre lædervarer
+01-01-1992 		527210 	Reparation af elektriske husholdningsmaskiner og -apparater
+01-01-1992 		527220 	Radio- og tv-reparationsværksteder
+01-01-1992 		527300 	Reparation af ure
+01-01-1992 		527410 	Cykelreparationsværksteder
+01-01-1992 		527420 	Låsesmede
+01-01-1992 		527490 	Anden reparationsvirksomhed af varer til personligt brug eller husholdningsbrug
+01-01-2002 		551010 	Hoteller
+01-01-2002 		551020 	Konferencecentre og kursusejendomme
+01-01-1992 	31-12-2002 	551110 	Hoteller med restauration
+01-01-1992 	31-12-2002 	551120 	Konferencecentre og kursusejendomme
+01-01-1992 	31-12-2002 	551200 	Hoteller uden restauration
+01-01-1992 		552100 	Vandrehjem
+01-01-1992 		552200 	Campingpladser
+01-01-1992 		552310 	Feriecentre
+01-01-1992 		552390 	Andre faciliteter til korttidsophold
+01-01-1992 		553010 	Restauranter
+01-01-1992 		553020 	Cafeterier, pølsevogne, grillbarer, isbarer mv.
+01-01-1992 		553090 	Selskabslokaler, forsamlingshuse mv.
+01-01-1992 		554010 	Værtshuse, bodegaer mv.
+01-01-1992 		554020 	Diskoteker og natklubber
+01-01-2003 		554090 	Caféer og kaffebarer mv.
+01-01-1992 	31-12-2002 	554090 	Kaffebarer mv.
+01-01-1992 		555100 	Kantiner
+01-01-1992 		555200 	Catering og diner transportable
+01-01-1992 		601000 	Jernbaner
+01-01-1992 	31-12-2002 	602100 	Bus- og S-togstrafik mv., rutefart
+01-01-2002 		602110 	Bustrafik
+01-01-2002 		602120 	S-togstrafik, metro og anden sporbaseret trafik
+01-01-1992 		602200 	Taxikørsel
+01-01-1996 		602300 	Anden landpassagertransport
+01-01-1992 	31-12-1995 	602300 	Anden passagertransport, ikke rutefart
+01-01-1992 		602410 	Vognmandsvirksomhed
+01-01-1992 		602420 	Flytteforretninger
+01-01-1992 		603000 	Rørtransport
+01-01-1992 		611010 	Rederivirksomhed, fragtfart
+01-01-1992 		611020 	Rederivirksomhed, færge- og passagerfart
+01-01-1992 	31-12-1995 	611100 	Rederivirksomhed, oceanfart
+01-01-1992 	31-12-1995 	611210 	Færge- og passagerfart
+01-01-1992 	31-12-1995 	611220 	Kystfart med gods
+01-01-1992 		612000 	Transport ad indre vandveje
+01-01-1992 		621000 	Ruteflyvning
+01-01-1992 		622010 	Charterflyvning med passagerer
+01-01-1992 		622020 	Charterflyvning med gods
+01-01-1992 		622030 	Taxiflyvning mv.
+01-01-1992 		623000 	Rumfart
+01-01-1992 		631100 	Godsbehandling
+01-01-1992 		631200 	Oplagrings- og pakhusvirksomhed
+01-01-1992 	31-12-2002 	632110 	Stationer og godsterminaler
+01-01-2003 		632110 	Stationer, godsterminaler mv.
+01-01-1992 		632120 	Parkerings- og garageanlæg
+01-01-1992 		632130 	Drift af betalingsveje, -broer og -tunneler
+01-01-1992 		632210 	Erhvervshavne (trafik- og fiskerihavne)
+01-01-1992 	31-12-2002 	632220 	Lystbådehavne
+01-01-1992 		632230 	Fyrvæsen og lodserier
+01-01-1992 		632240 	Bugserings-, bjærgnings- og redningsvæsen
+01-01-1992 		632300 	Lufthavne mv.
+01-01-1992 		633010 	Turistbureauer
+01-01-1992 		633020 	Rejsebureauer, turarrangerende
+01-01-2003 		633030 	Rejsebureauer, billetformidlende
+01-01-1992 	31-12-2002 	633030 	Rejsebureauer, billetudstedende
+01-01-1992 		633040 	Turistguidevirksomhed
+01-01-1992 		634010 	Skibsmæglervirksomhed
+01-01-1992 		634020 	Speditørvirksomhed
+01-01-1992 		634030 	Vejere og målere
+01-01-1992 		634090 	Andre tjenesteydelser i forbindelse med transport
+01-01-1992 		641100 	Postvæsen
+01-01-1992 		641200 	Kurertjeneste og udbringning af dagblade
+01-01-1992 	31-12-2002 	642000 	Telekommunikation
+01-01-2002 		642010 	Udbydere af fast telekommunikation
+01-01-2002 		642020 	Udbydere af trådløs kommunikation
+01-01-2002 		642030 	Udbydere af internetadgang
+01-01-2002 		642040 	Øvrig telekommunikation
+01-01-1992 		651100 	Danmarks Nationalbank
+01-01-1992 		651200 	Banker, sparekasser og andelskasser
+01-01-1992 		652100 	Finansiel leasing
+01-01-1992 	31-12-1995 	652210 	Realkreditinstitutter mv.
+01-01-1992 	31-12-1995 	652220 	Finansieringsfonde
+01-01-1992 		652230 	Realkreditinstitutter
+01-01-1992 		652240 	Andre kreditinstitutter
+01-01-1992 		652250 	Kreditformidling af andre end kreditinstitutter
+01-01-1992 		652260 	Finansieringsselskaber
+01-01-2002 		652270 	CMO-selskaber
+01-01-1992 	31-12-1995 	652290 	Anden kreditgivning
+01-01-1992 		652295 	Anden udlånsvirksomhed
+01-01-1992 		652310 	Investeringsforeninger
+01-01-2002 		652315 	Innovationsforeninger
+01-01-1992 		652320 	Investeringsselskaber
+01-01-2002 		652325 	Ventureselskaber
+01-01-1992 		652330 	Fondsmæglerselskaber
+01-01-1992 		652340 	Finansielle holdingselskaber
+01-01-1992 	31-12-1995 	652390 	Finansieringsvirksomhed i øvrigt
+01-01-1992 		652395 	Finansieringsvirksomhed i øvrigt
+01-01-1992 		660100 	Livsforsikring
+01-01-1992 		660210 	Pensionskasser
+01-01-1992 		660290 	Anden pensionsforsikring
+01-01-1992 		660310 	Skadesforsikringsvirksomhed
+01-01-1992 		660320 	Sygeforsikring
+01-01-1992 		660390 	Anden forsikringsvirksomhed i øvrigt
+01-01-1992 		671100 	Fondsbørsen mv.
+01-01-1992 		671200 	Børsmæglervirksomhed
+01-01-1992 		671300 	Anden servicevirksomhed i forbindelse med pengeinstitutter og finansieringsvirksomhed
+01-01-1992 		672010 	Forsikringsagenturer
+01-01-1992 		672090 	Anden servicevirksomhed i forbindelse med forsikringsvirksomhed
+01-01-1992 		701100 	Udstykning af fast ejendom
+01-01-1992 		701200 	Køb og salg af fast ejendom for egen regning
+01-01-1992 		702010 	Almennyttige boligselskaber
+01-01-1992 		702020 	Private andelsboligforeninger
+01-01-1992 		702030 	Anden udlejning af boliger
+01-01-1992 		702040 	Udlejning af erhvervsejendomme
+01-01-1992 		703110 	Ejendomsmæglere
+01-01-1992 		703120 	Boliganvisning
+01-01-1992 		703130 	Ferieboligudlejning
+01-01-1992 		703210 	Administration af fast ejendom på kontraktbasis
+01-01-1992 		703220 	Ejerforeninger
+01-01-1992 		711000 	Biludlejning
+01-01-1992 		712110 	Udlejning af containere
+01-01-1992 		712190 	Udlejning af lastbiler og andet materiel til landtransport
+01-01-1992 		712200 	Udlejning af skibe
+01-01-1992 		712300 	Udlejning af luftfartøjer
+01-01-1992 		713100 	Udlejning af landbrugsmaskiner og -udstyr
+01-01-1992 		713200 	Udlejning af entreprenørmateriel
+01-01-2003 		713310 	Udlejning af computere og it-udstyr
+01-01-1992 	31-12-2002 	713310 	Udlejning af edb-maskiner og edb-udstyr
+01-01-1992 		713320 	Udlejning af kontormaskiner
+01-01-1992 		713400 	Udlejning af maskiner og udstyr i øvrigt
+01-01-1992 	31-12-2002 	714010 	Udlejning af videobånd
+01-01-2003 		714010 	Udlejning af videobånd og dvd'er
+01-01-1992 		714090 	Udlejning af varer til personligt brug og til brug i husholdninger i øvrigt
+01-01-1992 		721000 	Konsulentvirksomhed vedr. hardware
+01-01-1992 	31-12-1995 	722000 	Levering af prgrammel og konsulentbistand i forbindelse med software
+01-01-1996 	31-12-2002 	722000 	Udvikling og konsulentbistand i forbindelse med software
+01-01-2002 		722100 	Udvikling af standardsoftware
+01-01-2002 		722200 	Udvikling af kundespecifikt software og konsulentbistand i forbindelse med software
+01-01-1992 		723000 	Databehandling
+01-01-1992 		724000 	Databaseværter og -formidlere
+01-01-1992 	31-12-2002 	725000 	Reparation og vedligeholdelse af kontormaskiner og edb-udstyr
+01-01-2003 		725000 	Reparation og vedligeholdelse af kontormaskiner og it-udstyr
+01-01-1992 	31-12-2002 	726000 	Anden virksomhed i forbindelse med databehandling
+01-01-2003 		726000 	Anden virksomhed i forbindelse med it-servicevirksomhed
+01-01-1992 		731000 	Forskning og udvikling inden for naturvidenskab og teknik
+01-01-1992 		732000 	Forskning og udvikling inden for samfundsvidenskab og humanistiske videnskaber
+01-01-1992 		741100 	Advokatvirksomhed
+01-01-1992 		741200 	Revisions- og bogføringsvirksomhed
+01-01-1992 		741300 	Meningsmåling og markedsanalyse
+01-01-1992 		741410 	Landbrugskonsulenter
+01-01-1992 		741490 	Anden virksomhedsrådgivning
+01-01-1992 		741500 	Ikke-finansielle holdingselskaber
+01-01-1992 		742010 	Rådgivende ingeniørvirksomhed indenfor byggeri og anlægsarbejder
+01-01-1992 		742020 	Rådgivende ingeniørvirksomhed indenfor produktions- og maskinteknik
+01-01-1992 		742030 	Opstilling og levering af færdige fabriksanlæg
+01-01-1992 		742040 	Arkitektvirksomhed
+01-01-1992 		742050 	Have- og landskabsarkitekter
+01-01-1992 		742060 	Geologiske undersøgelser og prospektering
+01-01-1992 		742070 	Landinspektører mv.
+01-01-1992 		742080 	Patentbureauer
+01-01-1992 		742090 	Anden teknisk rådgivning
+01-01-1992 		743010 	Kontrol af levnedsmidler
+01-01-1992 		743020 	Teknisk afprøvning og kontrol
+01-01-1992 		743030 	Miljøtekniske målinger og analyser
+01-01-1992 		743090 	Anden måling og teknisk analyse
+01-01-1992 		744010 	Reklamebureauvirksomhed
+01-01-1992 		744090 	Anden reklamevirksomhed og reklameformidling
+01-01-1992 		745010 	Arbejdsformidling
+01-01-1992 		745020 	Vikarbureauer
+01-01-1992 		745030 	Rådgivning og medvirken ved personaleudvælgelse
+01-01-1992 	31-12-2002 	746000 	Detektiv- og overvågningsvirksomhed
+01-01-2003 		746000 	Vagt- og overvågningsvirksomhed
+01-01-1992 		747010 	Almindelig rengøring
+01-01-1992 		747020 	Specialiseret rengøring
+01-01-1992 		747030 	Vinduespolering
+01-01-1992 		747040 	Skorstensfejning
+01-01-1992 		747050 	Desinfektion og skadedyrsbekæmpelse
+01-01-1992 		748110 	Fotografer
+01-01-1992 		748120 	Fotolaboratorier
+01-01-1992 		748200 	Pakkerier mv.
+01-01-1992 	31-12-2002 	748310 	Adresseringsbureauer
+01-01-1992 	31-12-2002 	748320 	Tolkning og oversættelse
+01-01-1992 	31-12-2002 	748390 	Anden kontorservice
+01-01-1992 	31-12-2002 	748410 	Indretningsarkitekter
+01-01-1992 	31-12-2002 	748420 	Formgivning og industrielt design
+01-01-1992 	31-12-2002 	748430 	Kreditvurdering og kreditværdighedsoplysning
+01-01-1992 	31-12-2002 	748440 	Kongres-, messe- og udstillingsaktiviteter
+01-01-1996 	31-12-2002 	748490 	Anden forretningsservice i.a.n.
+01-01-1992 	31-12-1995 	748490 	Musikbureauer og anden forretningsservice i.a.n.
+01-01-2002 		748510 	Adresseringsbureauer
+01-01-2002 		748520 	Tolkning og oversættelse
+01-01-2002 		748590 	Anden kontorservice
+01-01-2002 		748600 	Call centres virksomhed
+01-01-2002 		748710 	Indretningsarkitekter
+01-01-2002 		748720 	Formgivning og industrielt design
+01-01-2002 		748730 	Kreditvurdering og kreditværdighedsoplysning
+01-01-2002 		748740 	Kongres-, messe- og udstillingsaktiviteter
+01-01-2002 		748790 	Anden forretningsservice i.a.n.
+01-01-1992 		751100 	Generelle offentlige tjenester
+01-01-1992 		751200 	Offentlig administration af sundhedsvæsen, undervisning og sociale forhold
+01-01-1992 		751300 	Offentlig administration vedrørende erhverv, infrastruktur mv.
+01-01-1992 		751400 	Offentlige tjenesteydelser til hjælp og kontrol af den offentlige virksomhed
+01-01-1992 		752100 	Udenrigsanliggender
+01-01-2003 		752200 	Forsvar
+01-01-1992 	31-12-2002 	752200 	Forsvar og civilforsvar
+01-01-1992 		752310 	Domstole
+01-01-1992 		752320 	Fængselsvæsen
+01-01-1992 		752400 	Politiet
+01-01-1992 		752500 	Brandvæsen og redningskorps
+01-01-1992 		753000 	Socialforsikring
+01-01-1992 		801010 	Folkeskole o.l.
+01-01-1992 		801020 	Specialskoler for handicappede
+01-01-1992 		801030 	Ungdoms- og efterskoler
+01-01-1992 		802100 	Gymnasier, studenter- og HF-kurser
+01-01-1992 	31-12-2002 	802210 	Skoler med pædagogiske uddannelser
+01-01-1992 		802220 	Skoler med handels- og kontoruddannelser
+01-01-1992 		802230 	Skoler med industri- og håndværkeruddannelser
+01-01-1992 		802240 	Skoler med landbrugs- og levnedsmiddeluddannelser
+01-01-1992 		802250 	Skoler med transportuddannelser
+01-01-1992 	31-12-1995 	802260 	Skoler med sundheds- og forsorgsuddannelser
+01-01-1996 		802260 	Skoler med sundheds- og omsorgsuddannelser
+01-01-1992 	31-12-2002 	802270 	Politi- og forsvarsskoler
+01-01-1992 		803010 	Universiteter
+01-01-1992 	31-12-2002 	803020 	Læreanstalter med pædagogiske uddannelser
+01-01-2003 		803020 	Lærerseminarier
+01-01-2002 		803025 	Pædagogseminarier
+01-01-1992 		803030 	Læreanstalter med humanistiske og kunstneriske uddannelser
+01-01-1992 		803040 	Læreanstalter med samfundsvidenskabelige uddannelser
+01-01-1992 		803050 	Læreanstalter med tekniske uddannelser
+01-01-1992 		803060 	Læreanstalter med landbrugsvidenskabelige uddannelser
+01-01-1992 		803070 	Læreanstalter med sundhedsuddannelser
+01-01-1992 		803080 	Officersskoler
+01-01-2002 		803085 	Politi- og forsvarsskoler
+01-01-1992 	31-12-1995 	804100 	Køreskoler
+01-01-1996 		804100 	Køreskoler mv.
+01-01-1992 		804210 	Skoler med erhvervsrettet voksenundervisning
+01-01-1992 		804220 	Folkehøjskoler
+01-01-1992 		804230 	Andre skoler med almendannende voksenundervisning
+01-01-1992 		804290 	Undervisning i øvrigt
+01-01-1992 		851100 	Hospitaler
+01-01-1992 		851210 	Alment praktiserende læger
+01-01-1992 		851220 	Praktiserende speciallæger og ambulatorier
+01-01-1992 		851310 	Praktiserende tandlæger
+01-01-1996 		851320 	Praktiserende kliniske tandteknikere
+01-01-1992 	31-12-1995 	851320 	Praktiserende tandteknikere
+01-01-1992 		851410 	Hjemmesygepleje og sundhedspleje
+01-01-1992 		851420 	Jordemødre og jordemodercentre
+01-01-1992 		851430 	Fysioterapeutiske klinikker og praktiserende fysioterapeuter
+01-01-1992 		851440 	Psykologisk rådgivning
+01-01-1992 		851450 	Lægelaboratorier
+01-01-1992 	31-12-2002 	851460 	Bedriftssundhedstjenesten
+01-01-1992 		851470 	Kiropraktorer
+01-01-1992 		851480 	Fodplejere
+01-01-2003 		851490 	Andet sundhedsvæsen
+01-01-1992 	31-12-2002 	851490 	Kuranstalter, naturlæger mv.
+01-01-1992 		852000 	Dyrlæger
+01-01-1992 		853110 	Døgninstitutioner for børn og unge
+01-01-1992 		853120 	Familiepleje
+01-01-1992 		853130 	Institutioner for stofmisbrugere og alkoholskadede
+01-01-1992 		853140 	Døgninstitutioner for voksne med handicap
+01-01-1992 		853150 	Plejehjem og beskyttede boliger
+01-01-1992 		853160 	Forsorgshjem mv.
+01-01-1992 		853190 	Andre sociale foranstaltninger omfattende institutionsophold
+01-01-1992 		853205 	Dagplejemødre
+01-01-1992 		853210 	Vuggestuer
+01-01-1992 		853215 	Børnehaver
+01-01-1992 		853220 	Fritidshjem mv.
+01-01-1992 		853225 	Aldersintegrerede institutioner
+01-01-1992 		853230 	Fritidsklubber for unge
+01-01-1992 		853235 	Hjemmehjælp
+01-01-1992 		853240 	Dagcentre for ældre mv.
+01-01-1992 		853245 	Revalideringsinstitutioner
+01-01-2003 		853250 	Flygtninge- og asylcentre
+01-01-1992 	31-12-2002 	853250 	Flygtningecentre
+01-01-1992 		853255 	Foreninger med sygdomsbekæmpende og sociale formål
+01-01-1992 		853260 	Legater og fonde med velgørende formål
+01-01-1992 		853290 	Andre sociale foranstaltninger uden institutionsophold
+01-01-1992 	31-12-2002 	900010 	Kloakvæsen og rensningsanlæg
+01-01-1992 	31-12-2002 	900020 	Renovation og renholdelse
+01-01-1992 	31-12-2002 	900030 	Lossepladser og forbrændingsanstalter
+01-01-2002 		900100 	Opsamling og behandling af spildevand
+01-01-2002 		900210 	Indsamling af affald
+01-01-2002 		900220 	Drift af affaldsbehandlingsanlæg
+01-01-2002 		900310 	Renovation, snerydning mv.
+01-01-2002 		900320 	Rensning af jord og grundvand
+01-01-1992 		911100 	Arbejdsgiver- og erhvervsorganisationer
+01-01-1992 		911200 	Faglige, oplysende foreninger
+01-01-1992 		912000 	Fagforeninger
+01-01-1992 		913100 	Religiøse institutioner og foreninger
+01-01-1992 	31-12-1995 	913110 	Folkekirken
+01-01-1992 	31-12-1995 	913120 	Andre trossamfund
+01-01-1992 		913200 	Politiske partier
+01-01-1992 		913310 	Lejerforeninger
+01-01-1992 		913320 	Friluftsorganisationer
+01-01-1992 		913330 	Andre politiske og ideologiske organisationer
+01-01-1992 		913340 	Andre oplysende og kulturelle foreninger og institutioner
+01-01-1992 		913390 	Selskabelige foreninger, loger mv.
+01-01-1992 		921100 	Film- og videoproduktion
+01-01-1992 		921200 	Film- og videoformidling
+01-01-1992 		921300 	Biografer
+01-01-1992 	31-12-2002 	922000 	Radio- og tv-virksomhed
+01-01-2002 		922010 	Tv-virksomhed
+01-01-2002 		922020 	Radiovirksomhed
+01-01-1992 		923110 	Teater- og koncertvirksomhed
+01-01-1992 		923120 	Selvstændigt udøvende kunstnere
+01-01-1992 	31-12-2002 	923200 	Drift af teater- og koncertsale
+01-01-2003 		923200 	Drift af teater- og koncertsale, kulturhuse mv.
+01-01-1992 		923300 	Forlystelsesparker
+01-01-1992 		923400 	Anden forlystelsesvirksomhed i øvrigt
+01-01-1992 		924000 	Pressebureauer
+01-01-1992 		925110 	Folkebiblioteker
+01-01-1992 		925120 	Forsknings- og universitetsbiblioteker
+01-01-1992 		925130 	Arkiver
+01-01-1992 		925200 	Museer
+01-01-1992 		925300 	Botaniske og zoologiske haver
+01-01-1992 		926110 	Idræts- og svømmehaller
+01-01-1992 		926190 	Andre sportsanlæg
+01-01-1992 		926210 	Idrætsklubber
+01-01-2002 		926220 	Lystbådehavne
+01-01-1992 		926290 	Andre aktiviteter i forbindelse med sport i øvrigt
+01-01-1992 		927100 	Lotteri- og anden spillevirksomhed
+01-01-1992 		927200 	Andre aktiviteter i forbindelse med fritid i øvrigt
+01-01-1992 		930110 	Erhvervs- og institutionsvaskerier
+01-01-1992 		930120 	Selvbetjeningsvaskerier mv.
+01-01-1992 		930130 	Renserier
+01-01-1992 		930210 	Frisørsaloner
+01-01-1992 		930220 	Skønheds- og hudpleje
+01-01-1992 		930310 	Bedemænd
+01-01-1992 		930320 	Begravelsesvæsen
+01-01-1992 	31-12-2002 	930400 	Sol- og motionscentre mv.
+01-01-2003 		930400 	Sol-, motions- og helsecentre mv.
+01-01-1992 		930500 	Anden servicevirksomhed i øvrigt
+01-01-1992 		950000 	Private husholdninger med ansat medhjælp
+01-01-1992 		980000 	Uoplyst
+01-01-1992 		990000 	Internationale organisationer mv.
+01-01-1992 		999999 	Ikke oplyst

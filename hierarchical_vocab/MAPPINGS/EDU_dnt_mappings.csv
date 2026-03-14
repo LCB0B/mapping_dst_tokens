@@ -1,8 +1,8 @@
-code,prefix,database,value,description,source,confidence,language
-EDU_dnt_bin_1,EDU,dnt,bin_1,Days not in education (binned): bin_1,enhanced_english,medium,english
-EDU_dnt_bin_2,EDU,dnt,bin_2,Days not in education (binned): bin_2,enhanced_english,medium,english
-EDU_dnt_bin_3,EDU,dnt,bin_3,Days not in education (binned): bin_3,enhanced_english,medium,english
-EDU_dnt_bin_4,EDU,dnt,bin_4,Days not in education (binned): bin_4,enhanced_english,medium,english
-EDU_dnt_bin_5,EDU,dnt,bin_5,Days not in education (binned): bin_5,enhanced_english,medium,english
-EDU_dnt_bin_6,EDU,dnt,bin_6,Days not in education (binned): bin_6,enhanced_english,medium,english
-EDU_dnt_bin_7,EDU,dnt,bin_7,Days not in education (binned): bin_7,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+EDU_dnt_bin_2,EDU,dnt,bin_2,education days: 2 (bin),,education days: 2 (bin),none|generated,medium,danish,,
+EDU_dnt_bin_4,EDU,dnt,bin_4,education days: 4 (bin),,education days: 4 (bin),none|generated,medium,danish,,
+EDU_dnt_bin_1,EDU,dnt,bin_1,education days: 1 (bin),,education days: 1 (bin),none|generated,medium,danish,,
+EDU_dnt_bin_3,EDU,dnt,bin_3,education days: 3 (bin),,education days: 3 (bin),none|generated,medium,danish,,
+EDU_dnt_bin_6,EDU,dnt,bin_6,education days: 6 (bin),,education days: 6 (bin),none|generated,medium,danish,,
+EDU_dnt_bin_5,EDU,dnt,bin_5,education days: 5 (bin),,education days: 5 (bin),none|generated,medium,danish,,
+EDU_dnt_bin_7,EDU,dnt,bin_7,education days: 7 (bin),,education days: 7 (bin),none|generated,medium,danish,,

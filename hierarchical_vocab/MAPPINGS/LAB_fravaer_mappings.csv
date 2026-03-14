@@ -1,5 +1,5 @@
-code,prefix,database,value,description,source,confidence,language
-LAB_fravaer_besk_kode_nullified_1,LAB,fravaer,besk_kode_nullified_1,Absence from work: besk_kode_nullified_1,enhanced_english,medium,english
-LAB_fravaer_besk_kode_nullified_2,LAB,fravaer,besk_kode_nullified_2,Absence from work: besk_kode_nullified_2,enhanced_english,medium,english
-LAB_fravaer_besk_kode_nullified_3,LAB,fravaer,besk_kode_nullified_3,Absence from work: besk_kode_nullified_3,enhanced_english,medium,english
-LAB_fravaer_besk_kode_nullified_4,LAB,fravaer,besk_kode_nullified_4,Absence from work: besk_kode_nullified_4,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+LAB_fravaer_besk_kode_nullified_2,LAB,fravaer,besk_kode_nullified_2,Employment code: nullified category 2,,Employment code: nullified category 2,none|generated,medium,danish,,
+LAB_fravaer_besk_kode_nullified_3,LAB,fravaer,besk_kode_nullified_3,Employment code: nullified category 3,,Employment code: nullified category 3,none|generated,medium,danish,,
+LAB_fravaer_besk_kode_nullified_4,LAB,fravaer,besk_kode_nullified_4,Employment code: nullified category 4,,Employment code: nullified category 4,none|generated,medium,danish,,
+LAB_fravaer_besk_kode_nullified_1,LAB,fravaer,besk_kode_nullified_1,Employment code: nullified category 1,,Employment code: nullified category 1,none|generated,medium,danish,,

@@ -1,0 +1,10 @@
+DEM_manual_bin_antboernf_manual_bin_1, manual bins on the number of children in the family, the bins are the number if there is a single number, the range if there is two numbers
+DEM_manual_bin_antpersf_manual_bin_1, manual bins on the number of persons in the family, the bins are the number if there is a single number, the range if there is two numbers
+DEM_manual_bin_antefam_manual_bin_2, manual bins :Number of families in the household, the bins are the number if there is a single number, the range if there is two numbers
+LAB_arblhumv is ' Unemployment benefit and training allowance ' and then by quantiles
+LAB_stip is ' Scholarships from State Educational Support - SU ' and then by quantiles
+LAB_korstoett is ' Housing insurance and housing benefit ' and then by quantiles
+LAB_korydial is ' Paid child allowances and family benefits after registration for the entire calendar year '
+LAB qeftlon is ' Early retirement, transitional allowance and (from 2008 flex benefit) '
+LAB_rentudgpr ' Deductible interest expenses, excluding interest expenses from abroad and excluding interest expenses in self-employment '
+LAB_underhol ' Paid maintenance (deduction in taxable income) '

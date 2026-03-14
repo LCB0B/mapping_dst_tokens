@@ -1,5 +1,5 @@
-code,prefix,database,value,description,source,confidence,language
-SOC_frakbkod_1,SOC,frakbkod,1,Criminal offense category: 1,enhanced_english,medium,english
-SOC_frakbkod_2,SOC,frakbkod,2,Criminal offense category: 2,enhanced_english,medium,english
-SOC_frakbkod_3,SOC,frakbkod,3,Criminal offense category: 3,enhanced_english,medium,english
-SOC_frakbkod_4,SOC,frakbkod,4,Criminal offense category: 4,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+SOC_frakbkod_1,SOC,frakbkod,1,Betinget frakendelse (Conditional withdrawal),,Betinget frakendelse (Conditional withdrawal),none|generated|generated,medium,danish,,
+SOC_frakbkod_2,SOC,frakbkod,2,Ubetinget frakendelse (Unconditional withdrawal),,Ubetinget frakendelse (Unconditional withdrawal),none|generated|generated,medium,danish,,
+SOC_frakbkod_4,SOC,frakbkod,4,Betinget med vilkår (Conditional with conditions),,Betinget med vilkår (Conditional with conditions),none|generated|generated,medium,danish,,
+SOC_frakbkod_3,SOC,frakbkod,3,Kørselsforbud (Driving ban),,Kørselsforbud (Driving ban),none|generated|generated,medium,danish,,

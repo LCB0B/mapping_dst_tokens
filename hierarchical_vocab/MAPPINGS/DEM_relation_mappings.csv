@@ -1,6 +1,6 @@
-code,prefix,database,value,description,source,confidence,language
-DEM_relation_Child,DEM,relation,Child,Family relation: Child,enhanced_english,medium,english
-DEM_relation_Full sibling,DEM,relation,Full sibling,Family relation: Full sibling,enhanced_english,medium,english
-DEM_relation_Half-sibling,DEM,relation,Half-sibling,Family relation: Half-sibling,enhanced_english,medium,english
-DEM_relation_Parent,DEM,relation,Parent,Family relation: Parent,enhanced_english,medium,english
-DEM_relation_Sibling (unknown),DEM,relation,Sibling (unknown),Family relation: Sibling (unknown),enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+DEM_relation_Parent,DEM,relation,Parent,Parent relationship,,Parent relationship,none|generated,medium,danish,,
+DEM_relation_Child,DEM,relation,Child,Child relationship,,Child relationship,none|generated,medium,danish,,
+DEM_relation_Full sibling,DEM,relation,Full sibling,Relationship: Full sibling,,Relationship: Full sibling,none|generated,medium,danish,,
+DEM_relation_Sibling (unknown),DEM,relation,Sibling (unknown),Relationship: Sibling (unknown),,Relationship: Sibling (unknown),none|generated,medium,danish,,
+DEM_relation_Half-sibling,DEM,relation,Half-sibling,Relationship: Half-sibling,,Relationship: Half-sibling,none|generated,medium,danish,,

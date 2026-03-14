@@ -1,11 +1,11 @@
-code,prefix,database,value,description,source,confidence,language
-SOC_revoke_license_days_Q1,SOC,revoke,license_days_Q1,License revocation (percentile): license_days_Q1,enhanced_english,medium,english
-SOC_revoke_license_days_Q10,SOC,revoke,license_days_Q10,License revocation (percentile): license_days_Q10,enhanced_english,medium,english
-SOC_revoke_license_days_Q2,SOC,revoke,license_days_Q2,License revocation (percentile): license_days_Q2,enhanced_english,medium,english
-SOC_revoke_license_days_Q3,SOC,revoke,license_days_Q3,License revocation (percentile): license_days_Q3,enhanced_english,medium,english
-SOC_revoke_license_days_Q4,SOC,revoke,license_days_Q4,License revocation (percentile): license_days_Q4,enhanced_english,medium,english
-SOC_revoke_license_days_Q5,SOC,revoke,license_days_Q5,License revocation (percentile): license_days_Q5,enhanced_english,medium,english
-SOC_revoke_license_days_Q6,SOC,revoke,license_days_Q6,License revocation (percentile): license_days_Q6,enhanced_english,medium,english
-SOC_revoke_license_days_Q7,SOC,revoke,license_days_Q7,License revocation (percentile): license_days_Q7,enhanced_english,medium,english
-SOC_revoke_license_days_Q8,SOC,revoke,license_days_Q8,License revocation (percentile): license_days_Q8,enhanced_english,medium,english
-SOC_revoke_license_days_Q9,SOC,revoke,license_days_Q9,License revocation (percentile): license_days_Q9,enhanced_english,medium,english
+code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
+SOC_revoke_license_days_Q7,SOC,revoke,license_days_Q7,Sentence revocation - 7th percentile,,Sentence revocation - 7th percentile,generated:quantile_percentile,medium,english,,
+SOC_revoke_license_days_Q3,SOC,revoke,license_days_Q3,Sentence revocation - 3th percentile,,Sentence revocation - 3th percentile,generated:quantile_percentile,medium,english,,
+SOC_revoke_license_days_Q8,SOC,revoke,license_days_Q8,Sentence revocation - 8th percentile,,Sentence revocation - 8th percentile,generated:quantile_percentile,medium,english,,
+SOC_revoke_license_days_Q4,SOC,revoke,license_days_Q4,Sentence revocation - 4th percentile,,Sentence revocation - 4th percentile,generated:quantile_percentile,medium,english,,
+SOC_revoke_license_days_Q5,SOC,revoke,license_days_Q5,Sentence revocation - 5th percentile,,Sentence revocation - 5th percentile,generated:quantile_percentile,medium,english,,
+SOC_revoke_license_days_Q10,SOC,revoke,license_days_Q10,Sentence revocation - 10th percentile,,Sentence revocation - 10th percentile,generated:quantile_percentile,medium,english,,
+SOC_revoke_license_days_Q9,SOC,revoke,license_days_Q9,Sentence revocation - 9th percentile,,Sentence revocation - 9th percentile,generated:quantile_percentile,medium,english,,
+SOC_revoke_license_days_Q1,SOC,revoke,license_days_Q1,Sentence revocation - 1th percentile,,Sentence revocation - 1th percentile,generated:quantile_percentile,medium,english,,
+SOC_revoke_license_days_Q2,SOC,revoke,license_days_Q2,Sentence revocation - 2th percentile,,Sentence revocation - 2th percentile,generated:quantile_percentile,medium,english,,
+SOC_revoke_license_days_Q6,SOC,revoke,license_days_Q6,Sentence revocation - 6th percentile,,Sentence revocation - 6th percentile,generated:quantile_percentile,medium,english,,
