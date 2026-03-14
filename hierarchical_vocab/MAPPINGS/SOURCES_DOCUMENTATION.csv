@@ -32,11 +32,13 @@ generated:quantile_percentile,generated:quantile_percentile,2152,medium,english
 generated_pattern,generated_pattern,556,medium,english
 manual_demographic_events,manual_demographic_events,5,medium,english
 manual_update,manual_update,555,medium,english
-none,none,606,medium,danish
+none,none,50,medium,danish
 none|dict_fill,none|dict_fill,24,medium,danish
 none|generated,none|generated,742,medium,danish
 none|generated|generated,none|generated|generated,139,medium,danish
 none|generated|generated|generated,none|generated|generated|generated,5,medium,danish
+none|icd8_raw,none|icd8_raw,549,medium,danish
+none|manual,none|manual,7,medium,danish
 raw_atc_enhanced_hierarchical,raw_atc_enhanced_hierarchical,1656,high,danish
 raw_dem_civst,raw_dem_civst,7,high,danish
 raw_dem_fm_mark,raw_dem_fm_mark,6,high,danish
