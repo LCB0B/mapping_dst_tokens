@@ -27,6 +27,20 @@ CSV:SOC_ger7_hierarchical,CSV:SOC_ger7_hierarchical,892,high,danish
 CSV:SOC_haendelse_from_raw,CSV:SOC_haendelse_from_raw,4,high,danish
 CSV:SOC_pgf_from_raw,CSV:SOC_pgf_from_raw,51,high,danish
 CSV:SOC_samtykke_from_raw,CSV:SOC_samtykke_from_raw,4,high,danish
+DSE77,DSE77,8,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 12)","DSE77_inferred (fully inferred from hierarchy, under 12)",1,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 31.22)","DSE77_inferred (fully inferred from hierarchy, under 31.22)",1,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 34.1)","DSE77_inferred (fully inferred from hierarchy, under 34.1)",1,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 34.24)","DSE77_inferred (fully inferred from hierarchy, under 34.24)",1,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 38.2)","DSE77_inferred (fully inferred from hierarchy, under 38.2)",1,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 81)","DSE77_inferred (fully inferred from hierarchy, under 81)",1,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 81.02)","DSE77_inferred (fully inferred from hierarchy, under 81.02)",1,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 82)","DSE77_inferred (fully inferred from hierarchy, under 82)",1,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 93.1)","DSE77_inferred (fully inferred from hierarchy, under 93.1)",4,medium,danish
+"DSE77_inferred (fully inferred from hierarchy, under 93.9)","DSE77_inferred (fully inferred from hierarchy, under 93.9)",2,medium,danish
+"DSE77_inferred (fully inferred, near 99999 Uoplyst)","DSE77_inferred (fully inferred, near 99999 Uoplyst)",1,medium,danish
+"DSE77_inferred (fully inferred, no group 51 in DSE77)","DSE77_inferred (fully inferred, no group 51 in DSE77)",1,medium,danish
+"DSE77_inferred (fully inferred, outside standard DSE77 range)","DSE77_inferred (fully inferred, outside standard DSE77 range)",1,medium,danish
 dual_source_special2_spec6,dual_source_special2_spec6,4448,medium,danish
 generated:quantile_percentile,generated:quantile_percentile,2152,medium,english
 generated_pattern,generated_pattern,556,medium,english
@@ -34,7 +48,7 @@ manual_demographic_events,manual_demographic_events,5,medium,english
 manual_update,manual_update,555,medium,english
 none,none,50,medium,danish
 none|dict_fill,none|dict_fill,24,medium,danish
-none|generated,none|generated,742,medium,danish
+none|generated,none|generated,717,medium,danish
 none|generated|generated,none|generated|generated,139,medium,danish
 none|generated|generated|generated,none|generated|generated|generated,5,medium,danish
 none|icd8_raw,none|icd8_raw,549,medium,danish
