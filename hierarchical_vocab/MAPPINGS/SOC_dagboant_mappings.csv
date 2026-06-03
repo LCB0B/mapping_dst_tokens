@@ -1,2 +1,2 @@
 code,prefix,database,value,description,description_da,description_da_alt,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-SOC_dagboant_Q1,SOC,dagboant,Q1,daily fine count: quantile 1,,,daily fine count: quantile 1,,,translated,none|generated,medium,danish,,
+SOC_dagboant_Q1,SOC,dagboant,Q1,daily fine count: quantile 1,antal dagbøder: kvantil 1,,daily fine count: quantile 1,,,translated,none|generated,medium,danish,,
