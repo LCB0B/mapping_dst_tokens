@@ -42,3 +42,17 @@ Net effect: `description_en_official` coverage **47.3% → 62.4%** (19,130 → 2
 - **Leave the 36 DB07 5-digit `[Unresolved]`** — correct per HARD RULES; flag for DST retrieval.
 - **SOCIO_gl (34):** investigated `raw/dst_socio_1997.pdf` — it documents the *1997* system, not the pre-1997 `gl_*` codes. **Left `[Unresolved]`; retrieve the old value set from DST Forskningsservice / original `.pt`.**
 - **empty `description_da`:** DONE — 967 filled (90 by copying Danish already in `description`, 877 structural/numeric/quantile); coverage 96.5% → 98.9%. The remaining ~453 empties are `[UNMAPPED]`/placeholder/ambiguous rows, intentionally left blank.
+
+## 6. Code & translation verification (independent cross-check vs source files)
+
+**Source coverage — NOT 100%.** ~992 rows (2.5%) have a description but no external source: almost all are *structural* categories (exam grades, percentile/visit-count bins, quantiles) that have no external authority by nature. Plus **17 `LAB_branche` rows tagged `dse77_inferred` ("fully inferred")** — these are NOT in `raw/branche77.txt` and are unverified guesses; treat as low-confidence / confirm before use.
+
+**Cross-validation of `description_en_official` against the cited authorities:**
+| Category | Result |
+|---|---|
+| HEA_ICD10 (who-icd10) | 8,810 exact match to WHO + 5,766 match a WHO ancestor (category/block level — coarser but valid). **0 wrong among verifiable.** 25 rows falsely claimed WHO (codes not in WHO 2019: 18× `DI84*` haemorrhoids→now K64, 7× `DVR*` Danish supplementary) — **CLEARED** (`scripts/fix_icd_false_official.py`). |
+| HEA_atc | 1,634/1,656 name-consistent with WHO ATC 2021, 0 mismatch, 22 codes absent from 2021 file (older/withdrawn). |
+| HEA_speciale (official, dst-ssr) | Consistent (1 label per 2-digit specialty), matches SSR Danish (Neurokirurgi→Neurosurgery, Øjenlæge→Ophthalmology, …). A couple specialties differ from the 1990–2003 SSR file (code reuse across eras). |
+| LAB_disco08 (isco08) | Correct; apparent "mismatches" are our-label-more-specific-than-major-group artifacts. |
+
+**Translation quality (`description_en`):** 75.9% of all English is machine-translated (`description_en_source=translated`) — this is the broad-coverage field; `description_en_official` (62.4%) is the authority-verified one. MT is reliable for clean Danish (income quantiles, socio, audd all verified correct) but **unreliable for heavily-abbreviated text** — notably **`HEA_speciale` (6,051 MT rows)**, e.g. `802144` "Vejl. af svang." (counselling of pregnant women) → "Evacuation of constipation". `DEM_civst` `description_da` (7 rows) is English because its source `raw/DEM_civst.txt` is itself English (no Danish source in repo). These are flagged, not auto-fixed.
