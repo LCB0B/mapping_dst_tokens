@@ -41,6 +41,7 @@ DSE77,DSE77,8,medium,danish
 "DSE77_inferred (fully inferred, near 99999 Uoplyst)","DSE77_inferred (fully inferred, near 99999 Uoplyst)",1,medium,danish
 "DSE77_inferred (fully inferred, no group 51 in DSE77)","DSE77_inferred (fully inferred, no group 51 in DSE77)",1,medium,danish
 "DSE77_inferred (fully inferred, outside standard DSE77 range)","DSE77_inferred (fully inferred, outside standard DSE77 range)",1,medium,danish
+dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),7,medium,danish
 dual_source_special2_spec6,dual_source_special2_spec6,4448,medium,danish
 generated:quantile_percentile,generated:quantile_percentile,2152,medium,english
 generated_pattern,generated_pattern,556,medium,english
@@ -54,7 +55,6 @@ none|generated|generated|generated,none|generated|generated|generated,5,medium,d
 none|icd8_raw,none|icd8_raw,549,medium,danish
 none|manual,none|manual,7,medium,danish
 raw_atc_enhanced_hierarchical,raw_atc_enhanced_hierarchical,1656,high,danish
-raw_dem_civst,raw_dem_civst,7,high,danish
 raw_dem_fm_mark,raw_dem_fm_mark,6,high,danish
 raw_edu_field,raw_edu_field,409,high,danish
 raw_lab_nace,raw_lab_nace,871,high,danish
