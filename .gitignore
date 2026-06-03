@@ -89,6 +89,12 @@ Thumbs.db
 # Claude Code local session/config (NFS locks, settings) — not repo data
 .claude/
 
+# Large third-party reference binaries — not redistributed; see raw/dst_downloads/SOURCES.md
+raw/dst_downloads/*.pdf
+raw/dst_downloads/*.xls
+raw/dst_downloads/*.xlsx
+raw/*.pdf
+
 # Temporary files
 *.tmp
 *.temp
