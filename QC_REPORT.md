@@ -33,12 +33,12 @@ Net effect: `description_en_official` coverage **47.3% → 62.4%** (19,130 → 2
 | Gap | Count | Resolvable from repo/DST sources? |
 |---|---|---|
 | `[Unresolved]` — `LAB_db07` 5-digit | 36 | **No (not without guessing).** Codes `11100`…`89900` are 5-digit; DST DB07 is 6-digit (`011100`). The leading-zero map is ambiguous (`012100`/`089900` absent). `LAB_db07_dict.csv` (3-digit) lacks them. → **needs DST / original `.pt`** (HARD RULE #5). |
-| `[Unresolved]` — `LAB_socio` (`gl_*`) | 34 | **Source exists but ambiguous.** Only `raw/dst_socio_1997.pdf` covers old SOCIO; no `.pt`/`.csv` dict. PDF text extraction is noisy and 1- vs 2-digit / socioeconomic-vs-occupation code semantics are unclear. → **needs careful human-verified PDF reading** before any fill (high hallucination risk). |
+| `[Unresolved]` — `LAB_socio` (`gl_*`) | 34 | **Confirmed NOT resolvable from repo sources.** Verified by reading `raw/dst_socio_1997.pdf` (Bilag 1, p.14): SOCIO-1997 codes are `1/11/111–114/12/13/131–135/2/3/31/32/321–323/33/4`. The `gl_*` values (`1–10, 21–30, 59–89`) **do not match** — `socio_gl` is the *pre-1997* "arbejdsstilling"/socioøkonomisk system the 1997 PDF replaced, and its value set is not in this PDF or any `.pt`/`.csv` dict. → **needs DST Forskningsservice or the original `.pt`** (HARD RULE #5). Do not map to SOCIO-1997. |
 | empty `description_da` | 1,420 | Mostly numeric/quantile categories (EDU_course 163, DEM_birthyear 158, EDU_grade 143, DEM_vaegt 100, EDU_ects 100, EDU_wellbeing 60, DEM_laengde 52, EDU_dage* ~115, LAB_tilstand 22). English present (100%). Danish fillable from the same source as the English for quantile cats; some self-evident (birthyear). Low risk, optional polish. |
 | `SOC_ger7` partials | **0** | Already complete — `description_en` 100% filled (938/938). |
 | Region Nordjylland §2 | 0 captured | Needs laeger.dk PLO-N source (not yet downloaded). |
 
 ## 5. Recommendation for Phase 3
 - **Leave the 36 DB07 5-digit `[Unresolved]`** — correct per HARD RULES; flag for DST retrieval.
-- **SOCIO_gl (34):** only attempt with human-verified reading of `raw/dst_socio_1997.pdf`; otherwise leave `[Unresolved]`.
-- **empty `description_da` (1,420):** safe to fill the quantile/numeric categories from their existing (sourced) English + DST TIMES, citing source; defer anything not source-backed.
+- **SOCIO_gl (34):** investigated `raw/dst_socio_1997.pdf` — it documents the *1997* system, not the pre-1997 `gl_*` codes. **Left `[Unresolved]`; retrieve the old value set from DST Forskningsservice / original `.pt`.**
+- **empty `description_da`:** DONE — 967 filled (90 by copying Danish already in `description`, 877 structural/numeric/quantile); coverage 96.5% → 98.9%. The remaining ~453 empties are `[UNMAPPED]`/placeholder/ambiguous rows, intentionally left blank.
