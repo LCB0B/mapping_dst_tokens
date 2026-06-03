@@ -1,0 +1,150 @@
+ydelsesnr,description_da,region,agreement
+4101,Vaccination i.f.m. udbrud af smitsomme sygdomme,Sjælland,Vaccination med immunglobin (Vestsjællands Amt)
+4102,Vaccination efter sygdomsbehandling/fjernelse af milt+knoglemarv,Sjælland,Vaccination med immunglobin (Vestsjællands Amt)
+4103,Vaccination efter smitteudsættelse ved arbejdsuheld,Sjælland,Vaccination med immunglobin (Vestsjællands Amt)
+4104,Vaccination af børn født af mødre med smitterisiko,Sjælland,Vaccination med immunglobin (Vestsjællands Amt)
+4105,Hepatitis B-vaccine til mænd,Hovedstaden,Hepatitis B-vaccine
+4118,Udlægning af analyser ved mistanke om kyssesyge,Midtjylland,Lab. analyser
+4122,Test for svangerskabsdiabetes,Sjælland,Oral glukoseintolerancetest (Storstrøms Amt)
+4163,Fødselshjælp eller abortbehandling,Sjælland,Ø-læger fødselshjælp
+4164,Fødselshjælp overgår til sygehus,Sjælland,Ø-læger fødselshjælp
+4179,Medgået tidsforbrug for kørsel pr. påbegyndt 10. minut udover 15 km,Sjælland,Ekstra honorering sygebesøg
+4187,Sygebesøg ved egen læge — behandling af sikrede på aflastningsplads,Hovedstaden,Aflastningsplads
+4188,Sygebesøg ved anden lokal læge — behandling af sikrede på aflastningsplads,Hovedstaden,Aflastningsplads
+4192,Forsendelse,Syddanmark,Teledermatologi
+4200,Oprydning i medicinkort,Sjælland,FMK implementering
+4201,Lægens tidsforbrug til mødestedet,Hovedstaden,Multiple
+4202,Lægens tidsforbrug til mødestedet,Hovedstaden,Multiple
+4203,Lægens tidsforbrug til mødestedet,Hovedstaden,Multiple
+4204,Lægens tidsforbrug til mødestedet,Hovedstaden,Multiple
+4205,Lægens tidsforbrug til mødestedet,Hovedstaden,Multiple
+4206,Lægens tidsforbrug til mødestedet,Hovedstaden,Multiple
+4207,Lægens tidsforbrug til mødestedet,Hovedstaden,Multiple
+4213,Forsøgsordning vedrørende opfølgende hjemmebesøg,Midtjylland,Opfølgende hjemmebesøg
+4214,Forsøgsordning vedrørende opfølgende hjemmebesøg,Midtjylland,Opfølgende hjemmebesøg
+4215,Forsøgsordning vedrørende opfølgende hjemmebesøg,Midtjylland,Opfølgende hjemmebesøg
+4216,Forsøgsordning vedrørende opfølgende hjemmebesøg,Midtjylland,Opfølgende hjemmebesøg
+4230,1. kontakt opfølgende hjemmebesøg,Sjælland,Opfølgende hjemmebesøg (FUI)
+4231,2. kontakt – sygebesøg ind til 4 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4232,2. kontakt – sygebesøg 5-8 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4233,2. kontakt – sygebesøg 9-12 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4234,2. kontakt – sygebesøg 13-16 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4235,2. kontakt – sygebesøg 17-20 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4236,2. kontakt – sygebesøg fra påbegyndt 21 km og over,Sjælland,Opfølgende hjemmebesøg (FUI)
+4237,2. kontakt – konsultation,Sjælland,Opfølgende hjemmebesøg (FUI)
+4238,3. kontakt – sygebesøg ind til 4 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4239,3. kontakt – sygebesøg 5-8 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4240,3. kontakt – sygebesøg 9-12 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4241,3. kontakt – sygebesøg 13-16 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4243,3. kontakt – sygebesøg 17-20 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4244,3. kontakt – konsultation,Sjælland,Opfølgende hjemmebesøg (FUI)
+4245,Gentaget kontakt inden for et år,Sjælland,Opfølgende hjemmebesøg (FUI)
+4246,Foto og forsendelse,Sjælland,Teledermatologi
+4250,Hjemmebesøg,Hovedstaden,Opfølgende hjemmebesøg
+4251,Telefonkonsultation,Hovedstaden,Opfølgende hjemmebesøg
+4252,Medicinlister,Hovedstaden,Opfølgende hjemmebesøg
+4253,Kørselsgodtgørelse pr. kørt km,Hovedstaden,Opfølgende hjemmebesøg
+4259,Telefonisk henvendelse til/fra kommunernes Social- og Sundhedsforvaltninger til/fra lægen,Sjælland,FUI Vordingborg/Roskilde
+4260,Afstandstakst pr. påbegyndt km ud over 21 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4261,Kørselsgodtgørelse ind til 20.000 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4262,Kørselsgodtgørelse over 20.000 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4263,Afstandstillæg ind til 4 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4264,Afstandstillæg 4-8 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4265,Afstandstillæg 8-12 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4266,Afstandstillæg 12-16 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4267,Afstandstillæg 16-20 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4268,Afstandstillæg ud over 20 km,Sjælland,Opfølgende hjemmebesøg (FUI)
+4280,Indkaldelse demensundersøgelse,Hovedstaden,Demensaftalen
+4282,Kontrol demens (årlig),Hovedstaden,Demensaftalen
+4283,Mail kommune,Hovedstaden,Demensaftalen
+4284,Afregning af sygebesøg og møder,Hovedstaden,Multiple
+4286,Årlig helbredsundersøgelse,Hovedstaden,Gentofte/Gladsaxe lokalaftale
+4292,Sygebesøg/Konsultation forebyggelse,Hovedstaden,Indlæggelsesforebyggelse
+4293,Tværsektoriel lægelig kommunikation,Hovedstaden,Indlæggelsesforebyggelse
+4308,Urinundersøgelse stix,Midtjylland,Lab. analyser
+4309,B-Hæmoglobin,Midtjylland,Lab. analyser
+4310,Svælg-streptokokantigen,Midtjylland,Lab. analyser
+4311,C-reaktiv protein,Midtjylland,Lab. analyser
+4312,B-glukose fotometer,Midtjylland,Lab. analyser
+4313,EKG inkl. præcordiale aflødninger,Midtjylland,Lab. analyser
+4324,Sparring præhospitalet,Midtjylland,Præhospital
+4378,Samtaleterapi,Sjælland,Shared Care
+4379,Ekstra psykometriske test,Sjælland,Shared Care
+4381,Deltagelse i Collabri kontrolgruppen,Sjælland,Shared Care
+4383,Sygebesøg inkl. første 10 min.,Hovedstaden,Bornholm lokalaftale
+4384,Tidsforbrug pr. påbegyndt 10 min.,Hovedstaden,Bornholm lokalaftale
+4418,Terminalydelse,Sjælland,Terminalydelse (honorar A-/B-vagt)
+4435,Video-/telekonference pr. påbegyndt 10 min.,Syddanmark,Alvorligt syge og døende / videokonference
+4442,Forebyggelse af indlæggelse — hjemmebesøg op til 4 km,Syddanmark,Forebyggelse af indlæggelser
+4443,Forebyggelse af indlæggelse — hjemmebesøg 5-8 km,Syddanmark,Forebyggelse af indlæggelser
+4444,Forebyggelse af indlæggelse — hjemmebesøg 9-12 km,Syddanmark,Forebyggelse af indlæggelser
+4445,Forebyggelse af indlæggelse — hjemmebesøg 13-16 km,Syddanmark,Forebyggelse af indlæggelser
+4446,Forebyggelse af indlæggelse — hjemmebesøg 17-20 km,Syddanmark,Forebyggelse af indlæggelser
+4447,Forebyggelse af indlæggelse — hjemmebesøg 21+ km,Syddanmark,Forebyggelse af indlæggelser
+4460,Socialmedicinsk hjemmebesøg op til 4 km,Syddanmark,Socialmedicinsk hjemmebesøg
+4461,Socialmedicinsk hjemmebesøg 5-8 km,Syddanmark,Socialmedicinsk hjemmebesøg
+4462,Socialmedicinsk hjemmebesøg 9-12 km,Syddanmark,Socialmedicinsk hjemmebesøg
+4463,Socialmedicinsk hjemmebesøg 13-16 km,Syddanmark,Socialmedicinsk hjemmebesøg
+4464,Socialmedicinsk hjemmebesøg 17-20 km,Syddanmark,Socialmedicinsk hjemmebesøg
+4465,Socialmedicinsk hjemmebesøg 21+ km,Syddanmark,Socialmedicinsk hjemmebesøg
+4503,Honorering for fremsendelse af digitale billeder til speciallæger i dermato-venerologi,Midtjylland,Teledermatologi
+4584,Sygebesøg palliativ aftale op til 4 km,Midtjylland,Palliativ aftale
+4585,Sygebesøg palliativ aftale 5-8 km,Midtjylland,Palliativ aftale
+4586,Sygebesøg palliativ aftale 9-12 km,Midtjylland,Palliativ aftale
+4587,Sygebesøg palliativ aftale 13-16 km,Midtjylland,Palliativ aftale
+4588,Sygebesøg palliativ aftale 17-20 km,Midtjylland,Palliativ aftale
+4589,Sygebesøg palliativ aftale fra 21 km,Midtjylland,Palliativ aftale
+4590,Tidstillægsmodul,Midtjylland,Palliativ aftale
+4591,Planlægningsmøde,Midtjylland,Palliativ aftale
+4592,Samtale med pårørende,Midtjylland,Palliativ aftale
+4593,Skema SPICT,Midtjylland,Palliativ aftale
+4594,Skema sygebesøg palliativ aftale,Midtjylland,Palliativ aftale
+4609,Krisesamtale,Syddanmark,Samtaleterapi og krisesamtaler
+4610,Samtaleterapi,Syddanmark,Samtaleterapi og krisesamtaler
+4612,Type 2-diabetes DD2 model 1 (komplet indrullering),National,DD2-projekt
+4614,Type 2-diabetes DD2 model 3 (henvisning),National,DD2-projekt
+4615,Type 2-diabetes DD2 model 4 (delvis indrullering / blodprøve),National,DD2-projekt
+4616,Samtaleterapi — tillæg pr. ekstra person,Syddanmark,Samtaleterapi
+4620,Tidsforbrugstillæg 15 min.,Syddanmark,Alvorligt syge og døende
+4621,Tidsforbrugstillæg 20 min.,Syddanmark,Alvorligt syge og døende
+4622,Tidsforbrugstillæg 25 min.,Syddanmark,Alvorligt syge og døende
+4623,Tidsforbrugstillæg 30 min.,Syddanmark,Alvorligt syge og døende
+4624,Tidsforbrugstillæg 35 min.,Syddanmark,Alvorligt syge og døende
+4625,Tidsforbrugstillæg 40 min.,Syddanmark,Alvorligt syge og døende
+4626,Tidsforbrugstillæg 45+ min.,Syddanmark,Alvorligt syge og døende
+4657,Samtale med pårørende,Syddanmark,Alvorligt syge og døende / palliation
+4658,Samtale med pårørende (opfølgning),Syddanmark,Alvorligt syge og døende
+4659,Honorar pr. påbegyndt time (udskrivningskonference),Syddanmark,Udskrivningskonference
+4660,Afstandstillæg op til 4 km,Syddanmark,Udskrivningskonference
+4661,Afstandstillæg 5-8 km,Syddanmark,Udskrivningskonference
+4662,Afstandstillæg 9-12 km,Syddanmark,Udskrivningskonference
+4663,Afstandstillæg 13-16 km,Syddanmark,Udskrivningskonference
+4664,Afstandstillæg 17-20 km,Syddanmark,Udskrivningskonference
+4665,Afstandstillæg 21+ km,Syddanmark,Udskrivningskonference
+4666,Afstandstillæg længere distance,Syddanmark,Udskrivningskonference
+4669,Alvorligt syge og døende — fremmøde,Syddanmark,Alvorligt syge og døende
+4670,Alvorligt syge og døende — i lægens konsultation,Syddanmark,Alvorligt syge og døende
+4676,Opfølgning efter indlæggelse — i lægens konsultation,Syddanmark,Opfølgning efter indlæggelse
+4680,Hjemmebesøg alvorligt syge op til 4 km,Syddanmark,Alvorligt syge og døende
+4681,Hjemmebesøg alvorligt syge 5-8 km,Syddanmark,Alvorligt syge og døende
+4682,Hjemmebesøg alvorligt syge 9-12 km,Syddanmark,Alvorligt syge og døende
+4683,Hjemmebesøg alvorligt syge 13-16 km,Syddanmark,Alvorligt syge og døende
+4684,Hjemmebesøg alvorligt syge 17-20 km,Syddanmark,Alvorligt syge og døende
+4685,Hjemmebesøg alvorligt syge 21+ km,Syddanmark,Alvorligt syge og døende
+4687,Alvorligt syge og døende — via telefon pr. 10 min.,Syddanmark,Alvorligt syge og døende
+4688,Opfølgning efter indlæggelse — besøg op til 4 km,Syddanmark,Opfølgning efter indlæggelse
+4689,Opfølgning efter indlæggelse — besøg 5-8 km,Syddanmark,Opfølgning efter indlæggelse
+4690,Opfølgning efter indlæggelse — besøg 9-12 km,Syddanmark,Opfølgning efter indlæggelse
+4691,Opfølgning efter indlæggelse — besøg 13-16 km,Syddanmark,Opfølgning efter indlæggelse
+4692,Opfølgning efter indlæggelse — besøg 17-20 km,Syddanmark,Opfølgning efter indlæggelse
+4693,Opfølgning efter indlæggelse — besøg 21+ km,Syddanmark,Opfølgning efter indlæggelse
+7101,Laboratorieydelse (vagttid),Midtjylland,Laboratorieydelser vagttid
+7108,Laboratorieydelse (vagttid),Midtjylland,Laboratorieydelser vagttid
+7109,Laboratorieydelse (vagttid),Midtjylland,Laboratorieydelser vagttid
+7120,Laboratorieydelse (vagttid),Midtjylland,Laboratorieydelser vagttid
+7136,Laboratorieydelse (vagttid),Midtjylland,Laboratorieydelser vagttid
+7156,Laboratorieydelse (vagttid),Midtjylland,Laboratorieydelser vagttid
+7402,Allergiudredning,Syddanmark,Allergiudredning ved priktest
+7403,HbA1c-undersøgelse,Hovedstaden,HbA1c rammeaftale
+8189,Blodprøvetagning fra åre inkl. præp. og centrifugering (ø-læger),Sjælland,Blodprøvetagning ø-læger
+9001,Kørselsgodtgørelse pr. km,Hovedstaden,Demensaftalen

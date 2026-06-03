@@ -2,6 +2,41 @@
 
 This file provides guidance to Claude Code when working with this repository.
 
+## HARD RULES — READ FIRST
+
+**Do NOT infer, guess, or pattern-match Danish code meanings from LLM knowledge.**
+This has caused real damage (hallucinated SOCIO_gl labels, wrong DB07
+5-digit mappings) that then got committed as if authoritative. Specifically:
+
+1. **Never invent a Danish or English label for a code** just because the
+   numeric range or similar-looking codes suggest a plausible meaning. If you
+   don't know a code from a documented source, leave it empty or mark it
+   `[Unresolved <category> code: <value>]` with `confidence_level=low`.
+2. **Always cite the source** in `description_en_source` when filling a
+   description: file path (e.g. `raw/LAB_nace.txt`, `mapping/lookup_dictionaries/LAB_db07_dict.pt`)
+   or URL (e.g. `dst.dk/.../socstil-kode`).
+3. **Sources to try, in priority order:**
+   - Files in `mapping/lookup_dictionaries/` (`.pt` and `.csv`) — highest confidence, official DST dicts
+   - Files in `raw/` — raw DST classification files (`LAB_nace.txt`, `atc.csv`, SAS format definitions, PDF publications)
+   - Files in `mapping/` (e.g. `DISCO_CODES.txt`, `13_to_7_mapping.txt`)
+   - DST website lookups via WebFetch/WebSearch:
+     - `https://www.dst.dk/da/Statistik/dokumentation/nomenklaturer/` — classification nomenclatures
+     - `https://www.dst.dk/da/Statistik/dokumentation/Times/` — TIMES variable documentation
+     - `https://www.dst.dk/da/Statistik/dokumentation/Times/moduldata-for-arbejdsmarked/` — labour market variables (ARBSTIL, SOCSTIL, NYARB)
+     - `https://www.dst.dk/da/Statistik/dokumentation/Times/ida-databasen/` — IDA database variables (PSTILL, STILL, etc.)
+     - `https://www.dst.dk/da/Statistik/udgivelser/` — historical publications (Statistisk Årbog, SOCIO 1997, DB07)
+     - Publication PDFs via `https://www.dst.dk/pubfile/<id>/<slug>` — save to `raw/` and parse with `pypdf`
+   - Eurostat / international: NACE Rev 2 (EU), ICD-10 (WHO), ATC (WHO), ISCO-08 (ILO)
+4. **If none of the above has it, say so.** Do not fill the field. A
+   placeholder `[Unresolved ... code: X]` plus `confidence_level=low` is the
+   correct output, not a plausible Danish sentence you made up.
+5. **Older classifications (pre-1996) often aren't web-indexed.** When a DST
+   variable has a version history going back to 1980 (ARBSTIL, NYARB,
+   SOCIO_KODE older versions), the value sets live in internal DDI/CSV
+   metadata accessible only via DST Forskningsservice. If you can't retrieve
+   them, mark the codes unresolved and tell the user to contact DST or
+   retrieve them from the original `.pt` file the vocab was built from.
+
 ## Repository Overview
 
 Hierarchical vocabulary mapping system for 41,201 codes used in Danish administrative register data (health, education, labor, demographics, social/criminal justice). Each code maps to a token ID in a transformer model vocabulary.

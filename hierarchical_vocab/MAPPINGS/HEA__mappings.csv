@@ -1,2 +1,2 @@
-code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
-HEA_,HEA,,,Health event (empty/unspecified),,Health event (empty/unspecified),vocab_reconciliation,low,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
+HEA_,HEA,,,Health event (empty/unspecified),,,Health event (empty/unspecified),,,translated,vocab_reconciliation,low,danish,,

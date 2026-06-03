@@ -11,7 +11,7 @@ CSV:EDU_udd,CSV:EDU_udd,2416,high,danish
 CSV:HEA_ICD10,CSV:HEA_ICD10,14650,high,danish
 CSV:HEA_atc_fallback,CSV:HEA_atc_fallback,1,high,danish
 CSV:LAB_branche_from_raw_fixed,CSV:LAB_branche_from_raw_fixed,594,high,danish
-CSV:LAB_db07_hierarchical,CSV:LAB_db07_hierarchical,1398,high,danish
+CSV:LAB_db07_hierarchical,CSV:LAB_db07_hierarchical,703,high,danish
 CSV:LAB_disco08_comprehensive_hierarchical,CSV:LAB_disco08_comprehensive_hierarchical,722,high,danish
 CSV:LAB_disco08_dict.csv,CSV:LAB_disco08_dict.csv,9,high,danish
 CSV:LAB_disco08_dst_hierarchical,CSV:LAB_disco08_dst_hierarchical,20,high,danish
@@ -46,7 +46,7 @@ generated:quantile_percentile,generated:quantile_percentile,2152,medium,english
 generated_pattern,generated_pattern,556,medium,english
 manual_demographic_events,manual_demographic_events,5,medium,english
 manual_update,manual_update,555,medium,english
-none,none,50,medium,danish
+none,none,9,medium,danish
 none|dict_fill,none|dict_fill,24,medium,danish
 none|generated,none|generated,717,medium,danish
 none|generated|generated,none|generated|generated,139,medium,danish

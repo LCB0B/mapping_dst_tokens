@@ -1,4 +1,4 @@
-code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
-SOC_end_parole_1,SOC,end,parole_1,End of parole,,End of parole,none|generated,medium,danish,,
-SOC_end_drug_service_1,SOC,end,drug_service_1,End of drug service,,End of drug service,none|generated,medium,danish,,
-SOC_end_precaution_1,SOC,end,precaution_1,End of precaution,,End of precaution,none|generated,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
+SOC_end_parole_1,SOC,end,parole_1,End of parole,,,End of parole,,,translated,none|generated,medium,danish,,
+SOC_end_drug_service_1,SOC,end,drug_service_1,End of drug service,,,End of drug service,,,translated,none|generated,medium,danish,,
+SOC_end_precaution_1,SOC,end,precaution_1,End of precaution,,,End of precaution,,,translated,none|generated,medium,danish,,

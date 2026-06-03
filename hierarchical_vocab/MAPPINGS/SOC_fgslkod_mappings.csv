@@ -1,7 +1,7 @@
-code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
-SOC_fgslkod_3,SOC,fgslkod,3,Arresthus (Detention center),,Arresthus (Detention center),none|generated|generated,medium,danish,,
-SOC_fgslkod_1,SOC,fgslkod,1,Åbent fængsel (Open prison),,Åbent fængsel (Open prison),none|generated|generated,medium,danish,,
-SOC_fgslkod_5,SOC,fgslkod,5,Pension (Halfway house),,Pension (Halfway house),none|generated|generated,medium,danish,,
-SOC_fgslkod_4,SOC,fgslkod,4,Halvåbent fængsel (Semi-open prison),,Halvåbent fængsel (Semi-open prison),none|generated|generated,medium,danish,,
-SOC_fgslkod_0,SOC,fgslkod,0,Prison type code: 0,,Prison type code: 0,none|generated|generated|generated,medium,danish,,
-SOC_fgslkod_2,SOC,fgslkod,2,Lukket fængsel (Closed prison),,Lukket fængsel (Closed prison),none|generated|generated,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
+SOC_fgslkod_3,SOC,fgslkod,3,Arresthus (Detention center),,,Arresthus (Detention center),,,translated,none|generated|generated,medium,danish,,
+SOC_fgslkod_1,SOC,fgslkod,1,Åbent fængsel (Open prison),,,Open prison,,,translated,none|generated|generated,medium,danish,,
+SOC_fgslkod_5,SOC,fgslkod,5,Pension (Halfway house),,,Pension (Halfway house),,,translated,none|generated|generated,medium,danish,,
+SOC_fgslkod_4,SOC,fgslkod,4,Halvåbent fængsel (Semi-open prison),,,Semi-open prison,,,translated,none|generated|generated,medium,danish,,
+SOC_fgslkod_0,SOC,fgslkod,0,Prison type code: 0,,,Prison type code: 0,,,translated,none|generated|generated|generated,medium,danish,,
+SOC_fgslkod_2,SOC,fgslkod,2,Lukket fængsel (Closed prison),,,Closed prison,,,translated,none|generated|generated,medium,danish,,

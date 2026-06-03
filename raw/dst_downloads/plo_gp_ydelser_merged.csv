@@ -1,0 +1,153 @@
+ydelsesnr,description_da
+0101,Konsultation
+0102,Behandling af 2
+0105,E-konsultation
+0120,Årsstatus (aftalt specifik forebyggelsesindsats)1
+0121,"Opsøgende hjemmebesøg (skrøbelige ældre, normalt over 75 år) + tidsforbrugstillæg og evt"
+0122,Abortstøttesamtale
+0123,Sundhedstjek til borgere på botilbud + tidsforbrugstillæg og evt
+0124,Lægefaglig vurdering af patienter på kommunal akutfunktion/akutteam
+0125,Videokonsultation2
+0126,Videokonference pr
+0127,E-konsultation med kommunen
+0128,Konsulterende samtale til børn og familier3
+0130,"Registrering af patienter med KOL, pr"
+0131,"Registrering af patienter med diabetes type 2, pr"
+0132,"Registrering af patienter med KOL og diabetes type 2, pr"
+0133,"Afslutning, kronikerhonorar"
+0201,Telefonkonsultation
+0204,Aftalt telefonkonsultation
+0301,Telefonkonsultation
+0410,Registrering af ikke udført sygebesøg
+0411,Sygebesøg op til 4 km4 + evt
+0421,Sygebesøg fra 5 km til 8 km4 + evt
+0431,Sygebesøg fra 9 km til 12 km4 + evt
+0441,Sygebesøg fra 13 km til 16 km4 + evt
+0451,Sygebesøg fra 17 km til 20 km4 + evt
+0461,"Sygebesøg fra 21 km4,5 fra sygebesøgsstedet + evt"
+0471,Besøg
+0491,Sygebesøg på ruten (uanset afvigelser fra ruten)
+0703,Telefonkonsultation C-vagt
+1001,Vagtberedskabshonorar pr
+1003,"Registreringsydelse til 0120, 6101 og 6201, hvis de udføres på video"
+1208,Tillæg til konsultationshonorar til 2
+2100,Tillæg til stedlig læge ved sygebesøg
+2101,Blodtagning fra blodåre pr
+2102,"Udtagning af prøve af livmoder,-mund og -hals til cytologisk undersøgelse inkl"
+2104,Blærekaterisation (ekskl
+2105,"Fjernelse af fremmedlegemer fra øje, øregang, næse og svælg"
+2107,Fjernelse af fremmedlegemer under hud eller negl
+2108,"Næsetamponade, standsning af blødning efter tandudtrækning"
+2109,Anlæggelse af immobiliserende bandager
+2111,Første behandling af mindre knoglebrud og reposition af skred i mindre led
+2112,Første behandling af større sår
+2113,Biopsi med efterfølgende mikroskopisk us
+2115,Fjernelse af negl
+2117,Fjernelse af subkutane eller dybereliggende svulster inkl
+2118,Operation for dybereliggende betændelse
+2119,Tapning af væskesamling fra større led i terapeutisk øjemed – ikke i diagnostisk øjemed eller
+2120,Venesektio tilrådet af hospital eller speciallæge samt ved livstruende tilstande
+2121,Andre betydelige operationer
+2122,"Første behandling af brud på skinneben, lår, over-eller underarm"
+2123,"Reposition af store ledskred: fod, knæ, hofte, albue eller skulder"
+2124,Behandling af store udbredte læsioner og forbrændinger
+2125,"Genoplivning, herunder iltbehandling ved livstruende tilstande"
+2131,Ligsyn med udstedelse af dødsattest (side 1 og 2)
+2133,Forsendelse af biologisk materiale ekskl
+2134,Ligsyn kun med udstedelse af dødsattest side 1
+2135,Udfyldelse af dødsattest side 2 inkl
+2137,Udtagning og forsendelse af implanterede stimulatorer og pumper
+2142,Vejledning i svangerskabsforebyggende metoder ved første henvendelse fra patienten eller ved
+2143,Vejledning og undersøgelse i forbindelse med anmodning om svangerskabsafbrydelse og/eller
+2144,Vejledning i benyttelse af svangerskabsforebyggende metoder ved indlæggelse af spiral eller
+2145,Fjernelse af implanen
+2149,"Diagnostik, udredning og opfølgning ved anvendelse af fagligt anerkendte psykometriske test6"
+2150,Fokuseret somatisk undersøgelse til borgere med psykisk sygdom
+2151,Instruktion i brug af flg
+2161,"Tillæg ved ydelse af lægehjælp, hvor der anvendes kvalificeret tolk6"
+2201,"Patientledsagelse i ambulance og rejsetillæg til øer, hvor der ikke er bosat læge pr"
+2301,For hver påbegyndt km ud over 21 til sygebesøgsstedet
+2302,"Tillægstakst ved besøg ud over 10 km, pr"
+2401,Anvendes når en person:
+2402,Anvendes når en person:
+2403,Anvendes når en person
+2502,"Patientledsagelse i ambulance og rejsetillæg til øer, hvor der ikke er bosat læge pr"
+2601,Blodprøvetagning fra åre inkl. præp. og centrifugering pr. forsendelse
+3201,Socialmedicinsk telefonkonsultation
+3304,Møder med social- og sundhedsforvaltninger pr
+3410,Indtil 4 km
+3420,Fra 4 km til 8 km
+3430,Fra 8 km til 12 km
+3440,Fra 12 km til 16 km
+3450,Fra 16 km til 20 km
+3460,Udover 20 km
+3701,+ pr
+5001,1. tvangsindlæggelse (røde eller gule papirer)
+5002,Genindlæggelse ved tvang på samme institution (på røde eller gule papirer)
+5093,Attestarbejde7 ved ansøgning om tilskud til terminalpatienter
+5993,Momspligtigt attestarbejde7 ved ansøgning om tilskud til terminalpatienter
+6101,Samtaleterapi
+6201,"Samtaleterapi, tillæg pr"
+7101,Urinundersøgelse ved stix
+7105,Bakterier
+7108,B-hæmoglobin (fotometer)
+7109,Svælg-streptokok antigen
+7113,Udvidet lungefunktionsundersøgelse ved spirometri
+7115,Maskinel leukocyt- og differentialtælling
+7116,"Fasekontrastmikroskopi af biologisk materiale, eksklusiv urin"
+7118,Audiometri/tympanometri
+7120,C-reaktivt protein (CRP)
+7121,Dobbelt lungefunktionsundersøgelse for anstrengelsesprovokeret astma eller reversibilitetstest
+7122,Fasekontrastmikroskopi af urin
+7126,PP-INR (koagulationsfaktorer)
+7136,B-glukose (fotometer)
+7156,"Elektrokardiografi, inkl"
+7175,"Svangerskabsreaktion, urin choriongonadotropin"
+7177,Sænkningsreaktion
+7183,Lungefunktionsundersøgelse (peak flow)
+7189,Urin til resistensbestemmelse
+7402,Allergiudredning i forbindelse med priktest
+7403,HbA1c-undersøgelse
+8110,eller mikroskopi
+8120,"526,26"
+8130,"59,83"
+8140,"189,71"
+8151,Blodprøvetagning fra blodåre til særlige prøver – fosterdiagnostik og Rhd negativ ved
+8152,Forsendelse af biologisk materiale ekskl
+8153,B-glukose
+8155,Urinundersøgelse ved stix
+8159,Bakterier
+8164,B-hæmoglobin
+8165,Fasekontrastmikroskopi af urin
+8168,"Fasekontrastmikroskopi af biologisk materiale, eksklusiv urin"
+8189,Rammeaftale
+8191,4. Undersøgelse (ca. 8 uger efter fødslen)
+8192,"Urinundersøg., stix"
+8211,"Almen praksis, Sikringsgruppe 1"
+8212,"2. Børneundersøgelse, når barnet er 5 måneder"
+8213,"3. Børneundersøgelse, når barnet er 12 måneder"
+8214,"4. Børneundersøgelse, når barnet er 2 år"
+8215,"5. Børneundersøgelse, når barnet er 3 år"
+8216,"6. Børneundersøgelse, når barnet er 4 år"
+8217,§ 7. Børneundersøgelser
+8291,Vejledning om svangerskabsforebyggende metoder herunder evt
+8292,Vejledning om svangerskabsforebyggende metoder ved indlæggelse af spiral*
+8293,Fortsat kontrol af benyttelse af svangerskabsforebyggende metoder
+8294,Telefonkonsultation
+8310,Vaccination mod hepatitis B efter konkret anbefaling fra Styrelsen for Patientsikkerhed
+8314,"Vaccination mod hepatitis B til børn under 2 år, som er født af en mor med kronisk hepatitis B"
+8318,Hepatitis B-vaccination eller A-B-vaccination til særlige risikogrupper (vaccine gives 3 gange)
+8325,"Di-Te-Ki-Pol-revaccination (vaccination gives 1 gange, som udg"
+8328,Vaccination mod human papilloma virus (HPV-vaccination) (vaccination gives 2-3 gange
+8341,"Di-Te-Ki-Pol-Hib-vaccination (vaccination gives 3 gange, som udg"
+8344,"Pneumokokvaccination (vaccination gives 3 gange, som udg"
+8410,Tillæg ved anvendelse af kvalificeret tolk
+8601,"Vaccination mod mæslinger, fåresyge og røde hunde (MFR-vaccination) (vaccination gives 2"
+8618,Honorar for telefonisk henvendelse til forældrene forud for MFR-vaccination
+8708,"Tillæg til vaccinationshonorar, (ydelsesnummer 8325, 8341, 8344 og 8601) når der ikke"
+8801,Vaccination til kvinder mod røde hunde (vaccine gives 1 gang)
+8802,Vaccination til ikke-immune voksne mod mæslinger (vaccine gives 1 gang)
+8901,"Tillæg til vaccinationshonorar (ydelse 8801 og 8802), når der ikke samtidig er konsultation i"
+8940,Vaccination med klausuleret tilskud
+9001,For de første 20
+9002,For hver efterfølgende km

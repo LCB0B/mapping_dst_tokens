@@ -1,6 +1,6 @@
-code,prefix,database,value,description,description_da,description_en,source,confidence,language,parent_code,hierarchy_level
-HEA_GI_manual_bin_10,HEA,GI,manual_bin_10,inpatient admissions (GI): 10 (bin),,inpatient admissions (GI): 10 (bin),none|generated,medium,danish,,
-HEA_GI_manual_bin_100_500,HEA,GI,manual_bin_100_500,inpatient admissions (GI): 100-500 (bin),,inpatient admissions (GI): 100-500 (bin),none|generated,medium,danish,,
-HEA_GI_manual_bin_10_15,HEA,GI,manual_bin_10_15,inpatient admissions (GI): 10-15 (bin),,inpatient admissions (GI): 10-15 (bin),none|generated,medium,danish,,
-HEA_GI_manual_bin_50_100,HEA,GI,manual_bin_50_100,inpatient admissions (GI): 50-100 (bin),,inpatient admissions (GI): 50-100 (bin),none|generated,medium,danish,,
-HEA_GI_manual_bin_500_1000,HEA,GI,manual_bin_500_1000,inpatient admissions (GI): 500-1000 (bin),,inpatient admissions (GI): 500-1000 (bin),none|generated,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
+HEA_GI_manual_bin_10,HEA,GI,manual_bin_10,inpatient admissions (GI): 10 (bin),,,inpatient admissions (GI): 10 (bin),,,translated,none|generated,medium,danish,,
+HEA_GI_manual_bin_100_500,HEA,GI,manual_bin_100_500,inpatient admissions (GI): 100-500 (bin),,,inpatient admissions (GI): 100-500 (bin),,,translated,none|generated,medium,danish,,
+HEA_GI_manual_bin_10_15,HEA,GI,manual_bin_10_15,inpatient admissions (GI): 10-15 (bin),,,inpatient admissions (GI): 10-15 (bin),,,translated,none|generated,medium,danish,,
+HEA_GI_manual_bin_50_100,HEA,GI,manual_bin_50_100,inpatient admissions (GI): 50-100 (bin),,,inpatient admissions (GI): 50-100 (bin),,,translated,none|generated,medium,danish,,
+HEA_GI_manual_bin_500_1000,HEA,GI,manual_bin_500_1000,inpatient admissions (GI): 500-1000 (bin),,,inpatient admissions (GI): 500-1000 (bin),,,translated,none|generated,medium,danish,,

@@ -1,0 +1,1264 @@
+Gyldig fra,Gyldig til,Kode,Tekst
+,,0,Uoplyst
+,,1000000,Uoplyst straffelov
+,,1000100,"Opholdsforbud ved dom, registrering af"
+,,1000200,"Opholdsforbud jf. straffeloven § 79 b, registrering af"
+,,1000300,"Kontaktforbud jf. straffeloven § 79 b, registrering af"
+,,1000400,"Opholds- og kontaktforbud jf. straffeloven § 79 b, registrering af"
+,,1000500,"Tavshedspligt jf. straffeloven § 79 b, overtrædelse"
+,,1110505,"Blodskam, børn under 15 år"
+,,1110510,Blodskam i øvrigt
+,,1110515,Samleje med plejebarn/stedbarn mv.
+,,1110516,Samleje med plejebarn/stedbarn mv.
+,,1110520,Anden kønslig omgang med plejebarn/stedbarn
+,,1110521,Andet seksuelt forhold med plejebarn/stedbarn mv.
+,,1110525,"Blodskam, anden kønslig omgang, børn under 15 år"
+,,1110526,"Blodskam, andet seksuelt forhold (børn under 15 år)"
+,,1110530,"Blodskam, anden kønslig omgang mellem søskende"
+,,1110531,"Blodskam, andet seksuelt forhold mellem søskende"
+,,1110535,"Blodskam i øvrigt, anden kønslig omgang"
+,,1110536,"Blodskam i øvrigt, andet seksuelt forhold"
+,,1110540,"Blodskam mellem søskende, børn under 15 år"
+,,1110545,"Blodskam i øvrigt, mellem søskende"
+,,1120504,Voldtægt
+,,1120505,Voldtægt
+,,1120506,Voldtægt ved anvendelse af vold eller trussel om vold
+,,1120510,Samleje med ulovlig tvang
+,,1120511,Voldtægt ved ulovlig tvang
+,,1120515,Tilsnigelse til samleje
+,,1120516,Tilsnigelse til samleje
+,,1120519,Andet seksuelt forhold
+,,1120520,Anden kønslig omgang ved vold
+,,1120521,Andet seksuelt forhold ved vold eller trussel om vold
+,,1120525,Anden kønslig omgang ved ulovlig tvang
+,,1120526,Andet seksuelt forhold ved ulovlig tvang
+,,1120530,Anden kønslig omgang ved tilsnigelse
+,,1120531,Andet seksuelt forhold ved tilsnigelse
+,,1130505,"Samleje med barn under 12 år, skærpende omstændigheder"
+,,1130510,Anden kønslig omgang med barn under 12 år
+,,1130515,Uagtsom seksualforbrydelse med barn under 12 år
+,,1131505,Voldtægt ved samleje med barn under 12 år
+,,1131510,Andet seksuelt forhold med barn under 12 år
+,,1140505,Samleje ved udnyttelse af psykisk abnormitet
+,,1140507,Samleje ved udnyttelse af hjælpeløs tilstand
+,,1140510,Samleje med institutionsanbragt
+,,1140515,Samleje ved misbrug af afhængigheds forhold
+,,1140520,Samleje med barn under 15 år
+,,1140525,Samleje ved forførelse
+,,1140530,Anden kønslig omgang ved udnyttelse af psykisk abnormitet
+,,1140535,Anden kønslig omgang med institutionsanbragt
+,,1140540,Anden kønslig omgang ved misbrug af afhængighedsforhold
+,,1140545,Anden kønslig omgang med barn under 15 år
+,,1140550,Anden kønslig omgang ved forførelse
+,,1140555,Uagtsom seksualforbrydelse med barn under 15 år
+,,1140560,Uagtsom seksualforbrydelse i øvrigt
+,,1140565,"Samleje med prostitueret under 18 år, kunde"
+,,1141505,Samleje med barn under 15 år
+,,1141510,Andet seksuelt forhold med barn under 15 år
+,,1141515,Uagtsom seksualforbrydelse mod barn under 15 år
+,,1145505,Samleje ved udnyttelse af psykisk abnormitet
+,,1145510,Voldtægt ved udnyttelse af hjælpeløs tilstand
+,,1145515,Andet seksuelt forhold ved udnyttelse af hjælpeløs tilstand
+,,1145520,Samleje med institutionsanbragt/frihedsberøvet
+,,1145525,Samleje ved misbrug af afhængighedsforhold
+,,1145530,Samleje ved forførelse
+,,1145535,Andet seksuelt forhold ved udnyttelse af psykisk abnormitet
+,,1145540,Andet seksuelt forhold med institutionsanbragt/frihedsberøvet
+,,1145545,Andet seksuelt forhold ved misbrug af afhængighedsforhold
+,,1145550,Andet seksuelt forhold ved forførelse
+,,1145555,Uagtsom seksualforbrydelse i øvrigt
+,,1145560,Samleje med prostitueret under 18 år - kunde
+,,1145565,Medvirken til prostitution (samleje) - person under 18 år
+,,1145570,Medvirken til andet seksuelt forhold i forbindelse med prostitution af person under 18 år
+,,1145575,Andet seksuelt forhold end samleje med prostitueret under 18 år - kunde
+,,1150505,Homoseksuel sædelighedsforbrydelse mod barn under 12 år
+,,1150510,Homoseksuel sædelighedsforbrydelse ved vold mod barn under 12 år
+,,1150515,Homoseksuel sædelighedsforbrydelse ved ulovlig tvang mod barn under 12 år
+,,1160505,Homoseksuel sædelighedsforbrydelse mod barn under 15 år
+,,1160510,Homoseksuel sædelighedsforbrydelse i øvrigt
+,,1160515,Homoseksuel sædelighedsforbrydelse ved vold
+,,1160520,Homoseksuel sædelighedsforbrydelse ved ulovlig tvang
+,,1160525,Homoseksuel sædelighedsforbrydelse ved vold mod barn under 15 år
+,,1160530,Homoseksuel sædelighedsforbrydelse ved ulovlig tvang mod barn under 15 år
+,,1172005,Blufærdighedskrænkelse ved beføling
+,,1172010,Blufærdighedskrænkelse ved beføling
+,,1174005,Blufærdighedskrænkelse ved blotteri
+,,1174010,Blufærdighedskrænkelse ved blotteri
+,,1176005,Blufærdighedskrænkelse ved beluring
+,,1176010,Blufærdighedskrænkelse ved beluring
+,,1176205,Blufærdighedskrænkelse (udgået 1986)
+,,1176405,Blufærdighedskrænkelse ved verbal uterlighed o.l.
+,,1176410,Blufærdighedskrænkelse ved verbal uanstændighed ol.
+,,1176605,Blufærdighedskrænkelse ved anden uterlighed
+,,1176610,Blufærdighedskrænkelse ved anden uanstændighed
+,,1176805,Blufærdighedskrænkelse i øvrigt
+,,1180505,Rufferi
+,,1180506,Rufferi
+,,1180510,Fremmelse af utugt
+,,1180511,Fremmelse af prostitution
+,,1180515,Udlejning af værelse til utugt
+,,1180516,Udlejning af værelse til prostitution
+,,1180520,"Alfonseri, underhold"
+,,1180525,"Alfonseri, dele bolig"
+,,1180530,Forulemper ved opfordring mv. til utugt
+,,1180531,Svigagtig eller anden utilbørlig fremmelse af prostitution
+,,1180535,Pornografi
+,,1180536,"Pornografi, salg til personer under 16 år"
+,,1180540,Børnepornografi
+,,1180541,Rekruttere/medvirke til utugtig optræden af personer under 18 år
+,,1180542,Overvære utugtig optræden af personer under 18 år
+,,1180543,Overvære pornografisk optræden af person under 18 år
+,,1180544,Børnepornografi
+,,1180545,"Børnepornografi, besiddelse af/bekendt med"
+,,1180546,"Børnepornografi, besiddelse af/bekendt med"
+,,1180547,Medvirken til pornografisk optræden af person under 18 år
+,,1180550,Utugtig foto/filmoptagelse af person under 18 år
+,,1180551,Pornografiske foto/filmoptagelser af person under 18 år
+,,1180605,Overtrædelse af pålæg
+,,1180606,Meddelt forbud efter straffelovens §236
+,,1180705,Meddelt pålæg
+,,1180706,Overtrædelse af forbud efter straffelovens §236
+,,1210501,Vold eller trussel mod polititjenestemand
+,,1210502,Lægge hindringer i vejen for udførelse (polititjenestemand)
+,,1210503,Trusler om vold mv. mod overordnet polititjenestemand
+,,1210504,Lægge hindring i vejen for udførelse (polititjenestemand)
+,,1210505,Vold o.l. mod nogen i offentlig tjeneste mv. (Forekommer første gang i 1980)
+,,1210506,Vold mod polititjenestemand
+,,1210507,Trussel mod polititjenestemand
+,,1210508,Vold mod nogen i offentlig tjeneste
+,,1210509,Trussel om vold mod nogen i offentlig tjeneste
+,,1210510,Trusler om vold mv. mod offentlig myndighed
+,,1210515,Hindring af offentlig myndighed
+,,1210516,"Lægge hindring i vejen for udførelsen af offentlig myndighed, skærpende omstændigheder"
+,,1210517,Lægge hindring i vejen for udførelse af offentlig myndighed
+,,1210518,"Lægge hindring i vejen for udførelse af offentlig myndighed, skærpende"
+,,1210520,Fredskrænkelse af person i offentlig tjeneste
+,,1210525,Angreb med genstande mod nogen i offentlig tjeneste
+,,1210705,Vold mod politi mv. ved opløb/opstand
+,,1220505,Ledelse og fremkaldelse af opløb
+,,1220510,Grov forstyrrelse af offentlig ro og orden
+,,1220515,"Maskering, forbud mod"
+,,1220520,"Tildækningsforbud, overtrædelse af"
+,,1230505,Manddrab
+,,1230705,Barnedrab
+,,1240505,Forsøg på manddrab
+,,1250505,Psykisk vold
+,,1252505,Simpel vold
+,,1255305,Alvorligere vold
+,,1255705,Vold med skade på legeme eller helbred
+,,1255710,Vold ved kvindelig omskæring
+,,1258305,Særlig alvorlig vold
+,,1258705,Særlig alvorlig vold med døden til følge
+,,1260505,Vold mod sagesløs
+,,1270305,Legemskrænkelse
+,,1270505,Vold af særlig farlig karakter
+,,1270705,Vold med skade på legeme eller helbred
+,,1280305,Legemsbeskadigelse
+,,1280505,Legemsbeskadigelse med død til følge mv.
+,,1280510,Legemsbeskadigelse med grov skade til følge
+,,1280705,Grov legemsbeskadigelse
+,,1283305,Uagtsomt manddrab
+,,1283505,Uagtsom legemsbeskadigelse
+,,1283705,Uagtsom grov legemsbeskadigelse
+,,1283805,Uagtsom betydelig legemsbeskadigelse
+,,1286505,Drab efter begæring
+,,1286510,Medvirken til selvmord
+,,1286515,Hensættelse i hjælpeløs tilstand
+,,1286520,Uforsvarlig omgang ved barnefødsel
+,,1286525,Forvoldt fare for liv eller førlighed
+,,1286530,Undladt at hjælpe en person i livsfare
+,,1286535,Undladt at hjælpe en person ved ulykke
+,,1286537,Undladt at hjælpe/flugt fra færdselsuheld
+,,1286540,Overladelse af våben eller sprængstof
+,,1286545,Undladt at hjælpe gravid kvinde
+,,1289505,Ulovlig tvang
+,,1289705,Frihedsberøvelse
+,,1289710,Kvalificeret frihedsberøvelse
+,,1289713,"Frihedsberøvelse, grov uagtsomhed"
+,,1289715,Uagtsom frihedsberøvelse
+,,1289720,Menneskehandel
+,,1292505,Trussel på livet
+,,1292510,Bombetrusler/telefonbomber
+,,1292515,Offentlig trussel om voldshandling
+,,1292520,"Trusler, vold o.l. mod vidner og deres nærmeste (Forekommer første gang 1992)"
+,,1292525,Trusler og lignende mod vidner og deres nærmeste
+,,1292530,Vold mod vidner og deres nærmeste
+,,1304505,Dokumentfalsk
+,,1304705,Dokumentfalsk ved anvendelse af dankort
+,,1304805,Dokumentfalsk ved anvendelse af øvrige kontokort
+,,1308505,Dokumentfalsk ved anvendelse af check
+,,1308510,Dokumentfalsk ved anvendelse af eurochecks
+,,1312505,"Brandstiftelse, kvalificeret"
+,,1312510,"Brandstiftelse, forsætlig"
+,,1312705,"Brandstiftelse, uagtsom"
+,,1316105,Indbrud i kommune-/sygesikringskontor
+,,1316110,Indbrud i posthus/postkontor
+,,1316205,Indbrud i bibliotek
+,,1316210,Indbrud i børnehave/vuggestue/fritidshjem
+,,1316215,Indbrud i skole
+,,1316220,Indbrud i kirke/museum
+,,1316225,Indbrud i svømmehal/idrætsanlæg o.l.
+,,1316230,Indbrud i institution/plejehjem
+,,1316235,Indbrud i offentligt kontor/bygning i øvrigt
+,,1316240,Indbrud i kaserne (våben/ammunition)
+,,1316305,Indbrud i bankiers/vekselerer o.l.
+,,1316310,Indbrud i biograf/teater
+,,1316315,Indbrud i campingplads/vandrerhjem
+,,1316320,Indbrud i tankstation/autohandler
+,,1316325,Indbrud i privat institution
+,,1316330,Indbrud i beboerklubber
+,,1316335,Indbrud i privat kontor i øvrigt
+,,1316340,Indbrud i selskabslokaler
+,,1316405,Indbrud i pengeinstitut
+,,1316504,Indbrud i sportsforretning
+,,1316505,Indbrud i beklædnings-/skind-/fodtøjsforretning
+,,1316510,Indbrud i kiosk/cigar-/vinhandel
+,,1316515,Indbrud i købmand/supermarked/mejeri
+,,1316520,Indbrud i radio-/fotoforretning
+,,1316525,Indbrud i urmager/guldsmed
+,,1316530,Indbrud i cafeteria/restaurant
+,,1316535,Indbrud i hotel/motel
+,,1316536,Indbrud i EDB-forretning
+,,1316537,Indbrud i optikerforretning
+,,1316540,Indbrud i forretning i øvrigt
+,,1316545,Indbrud i våbenlager/-fabrik/-forretning
+,,1316605,Indbrud i fabrik
+,,1316610,Indbrud i lager o.l.
+,,1316615,Indbrud i værksted
+,,1316620,Indbrud i tømmerhandel/byggemarked
+,,1316621,Indbrud i EDB-virksomhed
+,,1316625,Indbrud i virksomhed i øvrigt
+,,1316705,Indbrud i apotek
+,,1316710,Indbrud i hospital
+,,1316715,Indbrud i lægekonsultation o.l.
+,,1316805,Pengeskabstyveri ved skærebrænder
+,,1316810,Pengeskabstyveri ved sprængstof
+,,1316815,Pengeskabstyveri ved vinkelslibere
+,,1316820,Pengeskabstyveri
+,,1316905,Indbrud i øvrigt
+,,1320505,Indbrud i villa o.l.
+,,1320510,Indbrud i landejendom
+,,1320705,Indbrud i lejlighed
+,,1320710,Indbrud i værelse
+,,1324305,Indbrud i skib/båd (fast bemandede)
+,,1324310,Indbrud i nybygning/prøvehus
+,,1324315,Indbrud i skib/båd (lystbåde)
+,,1324505,Indbrud i fritidshus
+,,1324510,Indbrud i kolonihavehus
+,,1324705,Indbrud i garage/udhus
+,,1324710,Indbrud i kælder-/lofts-/pulterrum
+,,1324715,Indbrud i campingvogn
+,,1324720,Indbrud i arbejdsskur/kontorvogn o.l.
+,,1324725,Indbrud i isbod/pølsebod
+,,1328505,Tyveri fra personbil
+,,1328510,Tyveri fra lastbil/varebil
+,,1328705,Tyveri fra motorcykel/scooter
+,,1328710,Tyveri fra knallert
+,,1328715,Tyveri fra cykel
+,,1328720,Tyveri fra både
+,,1328725,Tyveri fra andet køretøj
+,,1332305,Tyveri fra automat i møntvaskeri etc.
+,,1332310,Tyveri fra benzinautomat
+,,1332315,Tyveri fra frimærkeautomat
+,,1332320,Tyveri fra vareautomat
+,,1332325,Tyveri fra telefonautomat
+,,1332330,Tyveri fra parkometerautomat
+,,1332335,Tyveri fra spilleautomat
+,,1332502,Butikstyveri fra andre forretninger
+,,1332505,Butikstyveri beklædning/skind/fodtøj
+,,1332510,Butikstyveri kiosk/cigar-/vinhandel
+,,1332515,Butikstyveri købmand/supermarked/mejeri
+,,1332520,Butikstyveri radio-/fotoforretning
+,,1332525,Butikstyveri urmager/guldsmed
+,,1332530,Butikstyveri møntvaskeri
+,,1332535,"Butikstyveri, tricktyveri"
+,,1332705,Rudeknusningstyveri radio-/fotoforretning
+,,1332710,Rudeknusningstyveri fra urmager/guldsmed
+,,1332715,Rudeknusningstyveri iøvrigt
+,,1336305,Tyveri af taske/bagage
+,,1336405,"Tyveri, tricktyveri på gadeplan"
+,,1336502,Tyveri af barnevogn/klapvogn
+,,1336504,Tyveri fra cafeteria/restaurant
+,,1336506,Tyveri fra hotel/motel
+,,1336507,Tyveri fra kasseapparat
+,,1336508,Tyveri fra udstilling
+,,1336510,Tyveri fra møntvaskeri
+,,1336512,Tyveri fra andre butikker
+,,1336513,"Tyveri, tricktyveri i beboelse"
+,,1336514,Tyveri fra campingplads
+,,1336516,Tyveri fra garderobe
+,,1336518,Tyveri fra skole/fritidshjem o.l.
+,,1336520,Tyveri fra lejlighed/værelse/etageejendom
+,,1336522,Tyveri fra villa/landejendom
+,,1336524,Tyveri fra kælder o.l.
+,,1336526,Tyveri fra svømmehal/idrætsanlæg/omklædningsrum
+,,1336528,Tyveri fra udhængsskab
+,,1336530,Tyveri fra hospital/plejehjem
+,,1336531,Tyveri fra fritidshus
+,,1336532,Tyveri fra institution
+,,1336534,Tyveri fra kontor
+,,1336536,Tyveri fra kaserne
+,,1336538,Tyveri fra byggeplads
+,,1336540,Tyveri fra døgnboks
+,,1336541,Tyveri fra kaserne (våben/ammunition)
+,,1336542,Tyveri fra andre steder
+,,1336543,Tyveri fra pengeautomat
+,,1336544,Tyveri af afgrøde (korn o.l.)
+,,1336545,Tyveri fra garage/udhus
+,,1336546,Tyveri af benzin/olie
+,,1336548,Tyveri af el/gas
+,,1336550,Tyveri af forsendelse
+,,1336552,Tyveri af husdyr
+,,1336554,Tyveri af nummerplader
+,,1336556,Tyveri fra lomme/taske/bagage
+,,1336558,Tyveri i tog/skib/fly/bus
+,,1336560,Tyveri i lufthavne
+,,1336562,Tyveri i forbindelse med prostitution
+,,1336564,Tyveri på  banegårde
+,,1336566,Tyveri af narkotika
+,,1336568,Tyveri i plads
+,,1336570,Tyveri i forbindelse med vold
+,,1336572,Tyveri i øvrigt
+,,1336574,Tyveri af våben
+,,1336575,Tyveri af fiskeredskaber/-garn o.l.
+,,1336576,Tyveri af metaller (skrot/afklip/afbrænding)
+,,1339505,Tyveri af registreret køretøj
+,,1339510,Tyveri af uregistreret køretøj
+,,1339515,Brugstyveri af registreret personbil
+,,1339520,Brugstyveri af lastbil/varebil
+,,1339521,Brugstyveri af registreret personbil
+,,1339522,Brugstyveri af registreret lastbil/varebil
+,,1339523,Brugstyveri af udlejningskøretøj
+,,1339524,Brugstyveri af uregistreret personbil
+,,1339525,Brugstyveri af udlejningskøretøj
+,,1339526,Brugstyveri af uregistreret lastbil/varebil
+,,1339530,Brugstyveri af uregistreret personbil
+,,1339535,Brugstyveri af uregistreret lastbil/varebil
+,,1339705,Brugstyveri af registreret motorcykel/scooter
+,,1339706,Brugstyveri af registreret motorcykel/scooter
+,,1339707,Brugstyveri af uregistreret motorcykel/scooter
+,,1339710,Brugstyveri af uregistreret motorcykel/scooter
+,,1342505,Tyveri af knallert
+,,1342510,Brugstyveri af knallert
+,,1345505,Tyveri af cykel
+,,1345510,Brugstyveri af cykel
+,,1348205,Brugstyveri af EDB-materiel
+,,1348505,Tyveri af skib/båd/fly
+,,1348510,Brugstyveri af skib/båd/fly
+,,1348515,Brugstyveri af andet
+,,1348520,"Brugstyveri af påhængskøretøj, registreret knallert m.v."
+,,1348525,Brugstyveri af andet motorkøretøj
+,,1351505,Ulovlig omgang med hittegods
+,,1354505,Underslæb/tilegnelse af ting
+,,1354510,Fragåelsesunderslæb
+,,1354515,Underslæb/forbrug af penge
+,,1354520,Underslæb med hensyn til våben/ammunition
+,,1354705,Underslæb/anvendelse af EDB-materiale
+,,1357505,Bedrageri
+,,1357510,Socialbedrageri
+,,1357511,Socialbedrageri
+,,1357512,"Bedrageri, arbejdsløshedskasse"
+,,1357515,"Bedrageri, arbejdsløshedskasse"
+,,1357520,Bedrageri med øvrig afgifts- eller tilskudslovgivning - grov
+,,1357525,Bedrageri med øvrig afgifts- eller tilskudslovgivning
+,,1357605,"Bedrageri dankort, overtræk egen konto"
+,,1357705,"Bedrageri øvrige kontokort, egen konto"
+,,1357805,"Bedrageri øvrige kontokort, stjålne"
+,,1357810,"Bedrageri, stjålne dankort"
+,,1357905,Databedrageri
+,,1360505,"Bedrageri checks, overtræk  egen konto"
+,,1360510,"Bedrageri, stjålne checks"
+,,1363505,Mandatsvig
+,,1363705,Mandatsvig checks
+,,1363805,Mandatsvig dankort
+,,1363905,"Mandatsvig, anvendelse af EDB-materiale"
+,,1366505,Afpresning
+,,1366705,Åger
+,,1372505,Skyldnersvig
+,,1376505,Hæleri
+,,1376506,Hæleri
+,,1376507,"Hæleri, groft/forretningsmæssig"
+,,1376508,Hæleri med hensyn til våben/ammunition
+,,1376509,"Hæleri med hensyn til våben/ammunition, groft"
+,,1376510,Hæleri med hensyn til våben/ammunition
+,,1376511,Hvidvask
+,,1376512,"Hvidvask, groft/forretningsmæssig"
+,,1380305,Røveri mod pengeinstitut
+,,1380310,Særligt farligt røveri mod pengeinstitut
+,,1380505,Røveri mod offentlig kontor
+,,1380510,Særligt farligt røveri mod offentligt kontor
+,,1380705,Røveri mod forretning
+,,1380710,Røveri mod tankstation
+,,1380715,Særligt farligt røveri mod forretning
+,,1380720,Særligt farligt røveri mod tankstation
+,,1380902,Røveri mod værditransport
+,,1380903,"Røveri, kassetterøveri"
+,,1380904,Røveri mod person i egen bolig
+,,1380905,Røveri mod andre
+,,1380907,Særligt farligt røveri mod værditransport
+,,1380908,"Særligt farligt røveri, kassetterøveri"
+,,1380910,Særligt farligt røveri mod andre
+,,1380911,Særligt farligt røveri mod person i egen bolig
+,,1384505,Grov skattesvig
+,,1384510,Grov momssvig
+,,1384515,Svig med EU-midler
+,,1384705,Groft smugleri
+,,1390505,Hærværk
+,,1390506,"Hærværk, skærpende omstændigheder"
+,,1390510,Groft hærværk
+,,1390511,"Hærværk, groft (skærpende omstændighed)"
+,,1390515,Groft uagtsomt hærværk
+,,1390520,"Hærværk, graffiti"
+,,1390521,"Hærværk, graffiti (skærpende omstændighed)"
+,,1390525,"Hærværk, groft, graffiti"
+,,1390526,"Hærværk, groft, graffiti (skærpende omstændighed)"
+,,1390705,Hærværk med hensyn til EDB-materiale
+,,1394505,Uagtsomt hæleri
+,,1398505,Ødelæggelse af egne ting
+,,1398510,Hindringer af andres ret
+,,1398515,Ulovlig selvtægt
+,,1398520,Ulovlig inddæmning
+,,1398525,"Svig, der ikke er bedrageri"
+,,1398526,"Svig, der ikke er bedrageri (skærpende omstændigheder)"
+,,1398527,Uagtsomt svig (ikke bedrageri)
+,,1398528,"Insiderhandel/kursmanipulation, skærpende omstændigheder"
+,,1398530,Uagtsomt svig (ikke bedrageri)
+,,1398535,Urigtige oplysninger om et firmas økonomi
+,,1398540,Svigagtig opnåelse af kredit
+,,1398545,Ulovligt forbrug af forudbetalt vederlag
+,,1398550,Bortfjernelse uden at betale
+,,1398555,Tilsnigelse af adgang uden at betale
+,,1398560,Returkommission
+,,1398563,"Markedsføringsloven, skærpende omstændigheder"
+,,1398564,"Forretningshemmeligheder, overtrædelse, skærpende omstændigheder"
+,,1398565,Ulovlig forværrelse af formuestilling
+,,1398566,"Piratkopiering, særligt skærpende omstændigheder"
+,,1398567,"Ophavskrænkelse, skærpende omstændigheder"
+,,1398570,Udnyttelse af andres vildfarelse
+,,1398575,Udnyttelse af andres økonomiske vanskeligheder
+,,1398580,Efterfølgende åger
+,,1398583,"Betalingsmiddel/-kort, uberettiget anvendelse, videregivelse"
+,,1398585,Uorden i forretningsbøger
+,,1398587,"Kode til informationssystem, uberettiget anskaffelse/videregivelse"
+,,1398590,Ulovlig stemmeafgivning vedrørende økonomi
+,,1398591,Bestikkelse af voldgiftsdommer
+,,1398595,"Kartelaftale, særligt skærpende omstændigheder"
+,,1410303,Højforræderi
+,,1410306,Krigsanstiftelse
+,,1410309,Farevoldende offentlige udtalelser
+,,1410312,Femte kolonnevirksomhed
+,,1410313,Deltagelse i væbnet konflikt
+,,1410314,Hvervning til væbnet konflikt
+,,1410315,Bistand til fjenden under krig
+,,1410318,Misligholdelse af kontrakt under krig
+,,1410321,Erhvervsmæssigt samarbejde med fjenden
+,,1410324,Utilbørligt forhold til besættelsesmagt
+,,1410327,Diplomatisk landsforræderi
+,,1410330,Spionage
+,,1410333,Hjælp til fremmed efterretningstjeneste
+,,1410336,Videregivelse af hemmelige forhandlinger
+,,1410339,Forfalskning af dokumentation af betydning for staten
+,,1410342,Offentlig beskrivelse af militære anlæg
+,,1410345,Neutralitetskrænkelser mod staten
+,,1410348,Overtrædelse af forbud til værn for staten
+,,1410351,Forbrydelse mod fremmed statsoverhoved
+,,1410354,Offentlig forhånelse af fremmed nation
+,,1410357,Oprør
+,,1410360,Forbrydelse mod den danske regent
+,,1410363,Tvang overfor folketinget
+,,1410364,Terrorisme/modtage økonomisk støtte
+,,1410365,Ulovlig indrejse/ophold i konfliktområde
+,,1410366,Ulovlig korpsvirksomhed
+,,1410367,Terrorisme
+,,1410368,"Terrorisme, økonomisk støtte til"
+,,1410369,Forbrydelse mod kongehuset i øvrigt
+,,1410370,"Terrorisme, tilskyndelse til"
+,,1410371,"Samfundsorden, forstyrrelse af/økonomisk støtte"
+,,1410372,Forhindring af folketingsvalg mv.
+,,1410373,"Ulovlig militær, medlem af"
+,,1410374,"Masseødelæggelsesvåben, spredning af"
+,,1410375,Uberettiget deltagelse i folketingsvalg
+,,1410378,Tvang mod offentlig myndighed mv.
+,,1410379,"Terrorisme, Europakonventionen"
+,,1410380,"Terrorisme, økonomisk støtte til"
+,,1410381,"Terrorisme, hvervning"
+,,1410382,"Terrorisme, oplæring"
+,,1410383,"Terrorisme, tilskyndelse til"
+,,1410384,"Samfundsorden, forstyrrelse af/økonomisk støtte"
+,,1410385,"Ulovlig militær, medlem af"
+,,1410386,"Masseødelæggelsesvåben, spredning af"
+,,1410505,Misbrug af faresignal mv.
+,,1410703,Fornærmelig tiltale af offentlig myndighed
+,,1410706,Bestikkelse af offentlig myndighed
+,,1410707,Fornærmelig tiltale mod polititjenestemand
+,,1410708,Overtrædelse af opholdsforbud jf. straffelov § 79 a
+,,1410709,Hjælp til undvigelse
+,,1410710,"Opholdsforbud jf. straffeloven § 79 b, overtrædelse"
+,,1410711,"Kontaktforbud jf. straffeloven § 79 b, overtrædelse"
+,,1410712,"Fanger mv., ulovlig forbindelse med"
+,,1410713,"Fange, flygtet"
+,,1410714,Hjælp til undvigelse
+,,1410715,Hindring af strafforfølgning/-fuldbyrdelse
+,,1410716,"Menneskesmugling, skærpende omstændighed"
+,,1410717,Ulovlig forbindelse med fanger mv.
+,,1410718,Ødelæggelse af offentlig segl/mærke
+,,1410719,"Frihedsberøvet, uretmæssig besiddelse af mobiltelefon o.l."
+,,1410720,"Besøgende, uretmæssig medtager mobiltelefon mv."
+,,1410721,Ødelæggelse af offentlig bekendtgørelse
+,,1410722,"Forvaring, uretmæssig besiddelse af mobiltelefon o.l."
+,,1410724,Unddragelse fra værnepligt
+,,1410727,Ulovlig hvervning
+,,1410730,Offentliggøre fortrolige forhandlinger mv.
+,,1410733,Offentliggørelse af usandt mødereferat
+,,1410736,Uberettiget udøvelse af offentlig myndighed
+,,1410739,Foregivelse af offentlig myndighed
+,,1410742,Udøver virksomhed uden offentlig bevilling
+,,1410743,Medvirken til udøvelse af virksomhed trods frakendelse
+,,1410745,Uberettiget brug af uniform mv.
+,,1410746,Meddelt påbud (forbudt forening)
+,,1410747,Besidde/anvende forbudt forenings kendetegn
+,,1410748,Deltagelse i forbudt forening
+,,1410749,"Opholdsforbud, overtrædelse af (forbudt forening)"
+,,1410750,Ej efterk. påbud - deltage i forsamling (forbudt forening)
+,,1410751,Ikke efterkomme påbud om at skilles
+,,1410752,"Opholdsforbud, begæring om (forbudt forening)"
+,,1410753,"Opholdsforbud,meddelt (anvendes ikke til journalisering) (forbudt forening)"
+,,1410754,Offentlig tilskyndelse til forbrydelse
+,,1410755,Billigelse af forbrydelse ved religiøs oplæring
+,,1410757,Hindring af offentlig forsamling
+,,1410760,Forstyrrelse af folketingets møder o.l.
+,,1410763,Farlig beruselse
+,,1410766,Krænkelse af gravfreden
+,,1410769,Usømmelig behandling af kirken
+,,1410772,Offentlig forhånelse af trossamfund
+,,1410775,Undlade at forhindre forbrydelse
+,,1410778,Undladelse af bistand til offentlig myndighed
+,,1410781,Tilbageholde oplysninger om en persons uskyld
+,,1415505,Offentlig myndigheds modtagelse af bestikkelse
+,,1415510,Ulovlig opkrævning af skat mv.
+,,1415515,Misbrug af domsmyndighed
+,,1415520,Ulovlig håndhævelse af strafmyndighed
+,,1415525,Ulovlig behandling af retssager
+,,1415530,Hindring af dommes fuldbyrdelse
+,,1415535,Misbrug af offentligt hverv
+,,1415540,Tilskyndelse til underordnedes forbrydelse
+,,1415545,Krænkelse af tavshedspligt
+,,1415547,Meddelelseshæleri
+,,1415550,Tilintetgørelse af post mv.
+,,1415555,Offentlige myndigheders forbrydelse
+,,1415560,Anden misbrug af offentlig stilling/hverv
+,,1415565,Pligtforsømmelse i offentligt hverv
+,,1415570,Skødesløshed i offentligt hverv
+,,1420505,Falsk forklaring for retten
+,,1420510,Vidne forklaring/fritagelsesgrund
+,,1420515,Grov uagtsom afgivelse af forklaring
+,,1425505,Falsk erklæring på tro og love
+,,1425510,Urigtig forklaring/pligtforhold
+,,1425515,Anden urigtig skriftlig erklæring
+,,1425520,Falsk anklage/bevisforvanskelse
+,,1425523,Tilbageholdt oplysninger om en persons uskyld
+,,1425525,Falsk anmeldelse/klagemål
+,,1430305,Pengefalsk
+,,1430310,Udgivelse af falske penge
+,,1430315,Udgivelse af formodede falske penge
+,,1430505,Dokumentsvig
+,,1430705,Udgivelse af pengelignende genstande
+,,1430707,"Pengefalsk, elektronisk"
+,,1430710,Ulovlig udfærdigelse af betalingsmiddel
+,,1430715,Personelt falsk/misbrug af ægte dokument
+,,1430720,Intellektuelt falsk
+,,1430725,Falsk stempel/mærke mv.
+,,1430730,Falsk stempelmærke/frimærke mv.
+,,1430735,Dokumentundertrykkelse
+,,1430740,Falske skelsten mv.
+,,1435505,Salg af narkotika
+,,1435506,"Dopingmidler, salg af (skærpende omstændigheder)"
+,,1435705,Narkotikahæleri
+,,1435706,Hæleri med hensyn til narkotika
+,,1435707,Hæleri med hensyn til narkotika - groft
+,,1440505,Smugling mv. af narkotika
+,,1440506,"Dopingmidler, smugling mv. (skærpende omstændigheder)"
+,,1445705,"Sprængning mv., transportulykke"
+,,1445710,"Livsfarlig sprængning mv., transportulykke"
+,,1445715,"Uagtsom sprængning mv., transportulykke"
+,,1445720,Kapring af fly/skib mv.
+,,1445725,Forstyrrelse af transportmidler
+,,1445730,Undladt at afværge ildebrand o.l.
+,,1445735,Forgiftning af drikkevand
+,,1445740,Fortielse/udbredelse af sundhedsfarlige ting
+,,1445745,Udbredelse af sundhedsfarlige genstande
+,,1445750,Ulovlig udbredelse af lægemidler
+,,1445755,Udsat dyrs sundhed for fare
+,,1445756,"Handel med vilde dyr og planter, skærpende omstændigheder"
+,,1445760,Forvoldt fare for epidemi
+,,1445765,Forstyrrelse af samfærdselsmidlerne
+,,1445770,Ødelæggelse af mindesmærker o.l.
+,,1445775,Salg af forfalskede levnedsmidler
+,,1445777,"Skydevåben, særlig skærpende omstændigheder"
+,,1445778,"Andre særdeles farlige våben eller eksplosive stoffer, særlig skærpende omstændigheder"
+,,1445779,"Andre våben eller eksplosivstoffer, særlig skærpende omstændigheder"
+,,1445780,"Våben og sprængstof, særdeles farlige"
+,,1445781,"Våben og sprængstof, under særlig skærpende omstændighed"
+,,1445782,"Våben og sprængstof, særlig farlig"
+,,1445783,"Radioaktive stoffer, besiddelse/anvendelse af"
+,,1445785,"Miljø, forurening med betydelig skade"
+,,1445790,"Skydevåben, særligt skærpende, offentligt sted"
+,,1445795,"Skydevåben, særligt skærpende, ikke offentligt sted"
+,,1450505,"Betleri, overtrædelse"
+,,1450510,Løsgængeri
+,,1450515,Ulovligt erhverv
+,,1450520,"Erhvervsmæssig udnyttelse, spekulation"
+,,1450525,Hasard/væddemål
+,,1450530,Hasard på offentligt sted
+,,1450535,Svigagtig forledelse til udvandring
+,,1450540,"Betleri, meddelt advarsel (påbud)"
+,,1455505,"Bigami, den gifte person"
+,,1455510,Groft uagtsom bigami
+,,1455515,"Bigami, den ugifte person"
+,,1455520,Vanrøgt
+,,1455525,Falsk fødselsanmeldelse
+,,1455530,Unddragelse af forældremyndighed
+,,1455535,"Bortsendelse af barn til udlandet, fare for sundhed/udvikling"
+,,1460305,Uagtsomt manddrab i forbindelse med færdselsuheld
+,,1460505,Uagtsom legemsbeskadigelse i forbindelse med færdselsuheld
+,,1460510,Uagtsom grov legemsbeskadigelse i forbindelse med færdselsuheld
+,,1460705,Uagtsom betydelig legemsbeskadigelse i forbindelse med færdselsuheld
+,,1475305,Begæring om advarsel
+,,1475505,Meddelt advarsel
+,,1475705,Overtrædelse af advarsel
+,,1485305,Brud på brevhemmeligheden
+,,1485310,Uberettiget adgang til andres gemmer
+,,1485315,Ulovlig aflytning
+,,1485320,Husfredskrænkelse
+,,1485325,Industrispionage
+,,1485330,Uberettiget fotografering af personer
+,,1485335,Brud på privatlivets hemmeligheder
+,,1485340,Udnyttelse af oplysninger om privatliv
+,,1485345,Uberettiget videregivelse af meddelelser eller billeder
+,,1485350,"Brevhemmeligheden, brud på"
+,,1485355,Ulovlig aflytning
+,,1485405,Uberettiget adgang til EDB-oplysninger
+,,1485410,Ulovlig adgang til erhvervshemmeligheder
+,,1485415,"Kode til informationssystem, ulovlig anvendelse af"
+,,1485420,Ulovlig adgang til erhvervshemmeligheder
+,,1485425,"Adgangsmiddel datasystem, uberettiget salg/udbredelse"
+,,1485430,"Adgangsmiddel datasystem, uberettiget videregivelse større antal"
+,,1485435,"Adgangsmiddel datasystem, uberettiget anskaffelse/videregivelse, samfundsvigtigt"
+,,1485440,"Adgangsmiddel datasystem, uberettiget anskaffelse/videregivelse, personoplysninger"
+,,1485445,"Adgangsmiddel datasystem, uberettiget anskaffelse/videregivelse, betalende brugere"
+,,1485450,"Datasystem, uberettiget adgang til"
+,,1485505,Racediskrimination
+,,1485510,Forfølgelse ved gentagne beskyldninger
+,,1485515,Uberettiget registrering af færden
+,,1485705,Ærekrænkelser (udgået 2019)
+,,1485710,Bagvaskelse
+,,1485715,Fornærmelser
+,,1485720,Æresfornærmelse overfor døde
+,,1485725,Ærekrænkelser (ny 2019)
+,,1485730,Ærekrænkelser overfor døde
+,,1485735,Beskyldning - usand
+,,1485740,Beskyldninger via massemedier
+,,2110005,Færdselsuheld (FUH)
+,,2110010,FUH. Ringe materiel skade med personskade
+,,2110015,FUH. Ringe materiel skade uden personskade
+,,2110020,FUH. Betydelig materiel skade med personskade
+,,2110025,FUH. Betydelig materiel skade uden personskade
+,,2110030,FUH. Ingen materiel skade med personskade
+,,2210004,FUH. Motorfører med høj promille med personskade
+,,2210005,"FUH. Motordrevet køretøj, euforiserende stoffer med personskade"
+,,2210006,"FUH. Motordrevet køretøj, euforiserende stoffer uden personskade"
+,,2210008,"FUH. Spirituskørsel, ej betryggende med personskade"
+,,2210009,FUH. Spirituskørsel med personskade
+,,2210012,"FUH. Motorfører, promillekørsel med personskade"
+,,2210016,FUH. Motorfører medicin mv. med personskade
+,,2210017,FUH. Motorfører medicin mv. med personskade
+,,2210020,FUH. Knallertkører spirituspåvirket med personskade
+,,2210024,FUH. Knallertkører medicin mv. med personskade
+,,2210025,FUH. Knallertkører medicin mv. med personskade
+,,2210028,"FUH. Cyklist mv., spirituspåvirket med personskade"
+,,2210029,"FUH. Cyklist mv., spirituspåvirket med personskade"
+,,2210032,"FUH. Cyklist mv., medicin mv. med personskade"
+,,2210033,FUH. Cyklist mv. medicin mv. med personskade
+,,2210036,FUH. Motorfører med høj promille uden personskade
+,,2210040,"FUH. Spirituskørsel, ej betryggende uden personskade"
+,,2210041,FUH. Spirituskørsel uden personskade
+,,2210044,"FUH. Motorfører, promillekørsel uden personskade"
+,,2210048,"FUH. Motorfører, medicin mv. uden personskade"
+,,2210052,"FUH. Knallertkører, spirituspåvirket uden personskade"
+,,2210056,"FUH. Knallertkører, medicin mv. uden personskade"
+,,2210057,"FUH. Knallertkører, medicin mv. uden personskade"
+,,2210060,"FUH. Cyklist mv., spirituspåvirket uden personskade"
+,,2210061,"FUH. Cyklist mv., spirituspåvirket uden personskade"
+,,2210064,"FUH. Cyklist, medicin mv. uden personskade"
+,,2210065,"FUH. Cyklist, medicin mv. uden personskade"
+,,2210068,FUH. Knallertkører med høj promille med personskade
+,,2210072,"FUH. Knallertkører, promillekørsel med personskade"
+,,2210073,"FUH. Motorfører, medicin mv. uden personskade"
+,,2210074,"FUH. Motorfører med promille under 0,81 med personskade"
+,,2210076,FUH. Knallertkører med høj promille uden personskade
+,,2210078,"FUH. Knallertkører med promille under 0,81 med personskade"
+,,2210080,"FUH. Knallertkører, promillekørsel uden personskade"
+,,2210082,"FUH. Motorfører med promille under 0,81 uden personskade"
+,,2210084,"FUH. Knallertkører med promille under 0,81 uden personskade"
+,,2220003,FUH. Spiritus- og promillekørsel med personskade
+,,2220005,FUH. Spiritus- og promillekørsel uden personskade
+,,2220007,Spiritus- og promillekørsel
+,,2220010,"Spiritus, motorfører med høj promille"
+,,2220013,Spirituskørsel
+,,2220015,"Spirituskørsel, ej betryggende"
+,,2220020,"Spiritus, motorfører, promillekørsel"
+,,2220021,"Fører af motordrevet køretøj, euforiserende stoffer uden recept"
+,,2220022,"Spiritus, motorfører med promille under 0,81"
+,,2220023,"Fører af motordrevet køretøj, euforiserende stoffer"
+,,2220024,"Fører af motordrevet køretøj, euforiserende stoffer med recept"
+,,2220025,"Motorfører, medicin mv."
+,,2220026,"Motorfører, medicin mv."
+,,2220030,"Spiritus, knallertkører med høj promille"
+,,2220035,"Spiritus, knallertkører, spirituspåvirket"
+,,2220040,"Spiritus, knallertkører, promillekørsel"
+,,2220042,"Spiritus, knallertkører med promille under 0,81"
+,,2220045,"Knallertkører, medicin mv."
+,,2220046,"Knallertkører, medicin mv."
+,,2220050,"Cyklist mv., spirituspåvirket"
+,,2220053,"Cyklist mv., spirituspåvirket"
+,,2220055,"Cyklist mv., medicin mv."
+,,2220056,"Cyklist mv., medicin mv."
+,,2220060,Uoplyst spiritus- og promillekørsel
+,,2220065,"Motordrevet køretøj, euforiserende stoffer uden recept"
+,,2220066,"Motordrevet køretøj, euforiserende stoffer med recept"
+,,2220067,"THC (klip), uden recept, motordrevet køretøj, bortset fra lille knallert"
+,,2220068,"THC (klip), med recept, motordrevet køretøj, bortset fra lille knallert"
+,,2410005,"Køretøj, mangler (Udstyrsbekendtgørelsen)"
+,,2410006,"Lille knallert, ej lovlig, 40-42 km/t"
+,,2410007,"Lille knallert, ej lovlig, 43 km/t eller derover"
+,,2410008,"Stor knallert, ej lovlig, 60-63 km/t"
+,,2410009,"Stor knallert, ej lovlig, 64 km/t eller derover"
+,,2410010,"Knallert, ej lovlig, konstruktive ændringer/hastighedsforøgelse"
+,,2410011,"Forureningsbegrænsende udstyr, manipulation af, ejeransvar for køretøjer"
+,,2410012,"Forureningsbegrænsende udstyr, manipulation af, føreransvar for køretøjer"
+,,2610001,Manglende agtpågivenhed
+,,2610002,"ATK hastighedsovertrædelse, færdselstavle"
+,,2610003,"Anvisninger, ikke efterkommet"
+,,2610004,"Lyssignal, kørsel frem mod rødt/gult lys (Første forekomst 1997)"
+,,2610005,Udrykningskørsel
+,,2610006,"Hastighedsovertrædelse, færdselstavle"
+,,2610007,FUH. ikke opfyldt sine forpligtelser
+,,2610008,"ATK hastighedsovertrædelse, færdselstavle"
+,,2610009,Placering på vejen
+,,2610010,"ATK hastighedsovertrædelse, færdselstavle"
+,,2610011,Svingning mv.
+,,2610012,"Forpligtelser ved færdselsuheld, undlader at standse"
+,,2610013,"Vending, bakning, vognbaneskift mv."
+,,2610014,"Forpligtelser ved færdselsuheld § 9, stk. 2, nr. 1 (undlader at yde hjælp)"
+,,2610015,"Busstoppested mv., kørsel ved"
+,,2610016,"Forpligtelser ved færdselsuheld § 9, stk. 2, nr. 2-6"
+,,2610017,"Andre køretøjer, kørsel ved møde af"
+,,2610018,Befordring af barn i bagudvendt barnestol ved aktiv frontairbag
+,,2610019,"Overhaling, kørsel ved"
+,,2610020,Ladet sig befordre ud over antallet af siddepladser
+,,2610021,"Overhaling, forbud mod"
+,,2610022,"Lille knallert, kørsel uden at have erhvervet kørekort"
+,,2610023,Vigepligtsforseelse
+,,2610024,"Kørekort til lille knallert, ikke medbragt eller forevist"
+,,2610025,"Gående, forpligtelser overfor"
+,,2610026,Knallertbevis/traktorKK ikke medbragt eller forevist til kørsel med lille knallert
+,,2610027,Standsning og parkering
+,,2610028,"Stor knallert, kørsel uden førerret"
+,,2610029,Signal- og tegngivning
+,,2610030,"Frakendelsestid, kørsel i (lille knallert)"
+,,2610031,"Lygteføring, manglende afmærkning"
+,,2610032,"Køreuddannelse, overtrædelse af regler om  (kørekortbekendtgørelsen)"
+,,2610033,Cykel- og motorløb
+,,2610034,Alkolåsordning
+,,2610035,Generende/forstyrrende kørsel
+,,2610036,Hastighedsovertrædelse § 41
+,,2610037,Hastighedsovertrædelse § 42-43a
+,,2610038,ATK hastighedsovertrædelse
+,,2610039,"Motorvej mv., kørsel på"
+,,2610040,ATK hastighedsovertrædelse
+,,2610041,"Cyklister, særlige regler for"
+,,2610042,ATK hastighedsovertrædelse
+,,2610043,"Knallertkørsel, særlige regler for"
+,,2610044,"Mobiltelefon mv., brug af"
+,,2610045,"Motorcykelkørsel, særlige regler for"
+,,2610046,"Traktor/motorredskab, kørsel uden førerret"
+,,2610047,"Spirituskørsel, manglende hindring af"
+,,2610048,"Stor knallert, kørsel uden førerret"
+,,2610049,"Motorkørertøj, kørsel uden førerret"
+,,2610050,Kørekort mv. ikke medbragt (motorkøretøj/stor knallert)
+,,2610051,"Spirituskørsel, manglende hindring af"
+,,2610052,"Kørekort, kørsel trods nægtelse"
+,,2610053,Kørsel uden førerret til den pågældende kategori
+,,2610054,"Erhvervsmæssig førerret, kørsel uden"
+,,2610055,"Knallert 3-hjulet, passager under 5 år uden sikkerhedssele (klip)"
+,,2610056,"Bus, kørsel uden førerret"
+,,2610057,"Udenlandsk kørekort, nægtet ombytning kørekort"
+,,2610058,"Kørekort, inddragelse pga. utilfredsstillende helbred"
+,,2610059,"ATK Mobiltelefon, brug af håndholdt"
+,,2610060,"Kørekort, inddragelse pga. manglende ædruelighed"
+,,2610061,"Kørekort nægtet, sygdom, ædruelighed, stof"
+,,2610062,"Kørekort, inddragelse pga. euforiserende stoffer"
+,,2610063,"Kørekort, erhverv nægtet, strafbare forhold"
+,,2610064,"Kørekort, inddragelse pga. manglende kørefærdigheder"
+,,2610065,"Kørekort udenlandsk, inddragelse af"
+,,2610066,Øvelseskørsel
+,,2610067,"Kørekort, inddragelse, ej mødt til kontrolprøve"
+,,2610068,"Oplysningspligt mv., ikke opfyldt"
+,,2610069,"Hastighedsbegrænser, ændring/manglende"
+,,2610070,Tilkobling og slæbning
+,,2610071,"Motorcykel 2-hjulet, passager under 135 cm (klip)"
+,,2610072,Manglende registrering
+,,2610073,"Motorcykel 3-hjulet/sidevogn, passager under 5 år uden sikkerhedssele (klip)"
+,,2610074,Overtrådt registreringsbekendtgørelsen
+,,2610075,ATK Registreringsbekendtgørelse (manglende nummerplade)
+,,2610076,Ulovlig kørsel med udenlandsk køretøj
+,,2610077,"Syn, ikke efterkommet tilsigelse til"
+,,2610078,"Sikkerhedssele, ikke brug af"
+,,2610079,"ATK Sikkerhedssele, ikke brug af"
+,,2610080,"Styrthjelm, ikke brug af"
+,,2610081,"Overlæs, totalvægt"
+,,2610082,Køretøjers belæsning
+,,2610083,"Farligt gods, national og international transport"
+,,2610084,Køretøjets dimensioner
+,,2610085,"Overlæs, akseltryk"
+,,2610086,"Overlæs, herunder bekendtgørelse om vægt og akseltryk"
+,,2610087,Køre-hviletid
+,,2610088,Blokvognskørsel
+,,2610089,Forurening af vej mv.
+,,2610090,"Kørekort, inddragelse, ej kursus i køre- hviletid-takograf/lastsikring-overlæs"
+,,2610091,Dyr på vej mv.
+,,2610092,"Frakendelsestid, kørsel i (motordrevet køretøj, bortset fra lille knallert)"
+,,2610093,"Forsikring, ikke tegnet"
+,,2610094,"Frakendelsestid, kørsel i"
+,,2610095,Konfiskation af motorkøretøj
+,,2610096,Handlinger i udlandet
+,,2610097,Konfiskation af stor eller lille knallert
+,,2610098,Overtrådt andre regler i færdselsloven
+,,2610099,Konfiskation af knallertdele
+,,2610100,"Håndholdt teleudstyr mv., brug af"
+,,2610106,"Håndholdt teleudstyr mv., brug af (klip)"
+,,2610107,"ATK - Håndholdt teleudstyr mv., brug af (klip)"
+,,2610108,"Helleanlæg mv., venstre om (klip)"
+,,2610109,"Forankørende, for lidt afstand til (klip)"
+,,2610110,"ATK hastighedsovertrædelse, færdselstavle (klip)"
+,,2610111,"Svingning mv., til fare/unødig ulempe (klip)"
+,,2610112,"Rødt lys, fremkørsel mod (klip)"
+,,2610113,"Vending eller bakning, til fare/ulempe (klip)"
+,,2610114,"Vognbaneskift, igangsætning, placering, standsning til fare/ulempe (klip)"
+,,2610115,"Kørselsretningen, kørsel mod (klip)"
+,,2610116,"Spærrelinjer, overskridelse i forbindelse med overhaling (klip)"
+,,2610117,"Nødspor, kørsel i (klip)"
+,,2610118,"Overhaling, øget hastighed (klip)"
+,,2610119,"Overhaling, ved kørsel (klip)"
+,,2610120,"Vognbaneskift, forbud mod (klip)"
+,,2610121,"Overhaling, forbud mod (klip)"
+,,2610122,"Overhaling, ved fodgængerfelt (klip)"
+,,2610123,"Vigepligt, ubetinget, afmærkning (klip)"
+,,2610124,"Vigepligt, ubetinget, udkørsel (klip)"
+,,2610125,"Overhaling, færdselstavle/afmærkning (klip)"
+,,2610126,"Vigepligt, højre (klip)"
+,,2610127,"Vigepligt, færdselstavle/afmærkning (klip)"
+,,2610128,"Svingning, ej sket uden ulempe (klip)"
+,,2610129,"Hastighed, færdselstavle (klip)"
+,,2610130,"Jernbaneoverkørsel, passage af (klip)"
+,,2610131,"ATK lyssignal, kørsel mod rødt lys (klip)"
+,,2610133,Kap- og væddekørsel (klip)
+,,2610137,"Hastighed, generelle (klip)"
+,,2610138,"Hastighed, køretøjsbestemt (klip)"
+,,2610142,ATK hastighedsovertrædelse (klip)
+,,2610166,Befordring af barn uden særligt sikkerhedsudstyr (klip)
+,,2610167,Befordring af barn i øvrigt (klip)
+,,2610168,Befordring af flere børn end siddepladser (klip) (Ikke aktiv i 2011)
+,,2610169,Befordring af børn (klip)
+,,2610170,"Styrthjelm, 5-14 år uden sikkerhedssele (klip) (Ikke aktiv i 2011)"
+,,2610171,"Styrthjelm, 5-13 år uden sikkerhedssele (klip)"
+,,2610172,Befordring af barn under 14 på forsæde (klip)
+,,2610178,"Sikkerhedsudstyr, ikke fyldt 15 år (klip) (Ikke aktiv i 2011)"
+,,2610179,"Sikkerhedsudstyr, ikke fyldt 14 (klip)"
+,,2610180,"Styrthjelm, 8-14 år (klip)"
+,,2610201,"ATK hastighedsovertrædelse, færdselstavle"
+,,2610202,"ATK hastighedsovertrædelse, færdselstavle"
+,,2610203,"ATK hastighedsovertrædelse, færdselstavle"
+,,2610204,ATK hastighedsovertrædelse
+,,2610205,ATK hastighedsovertrædelse
+,,2610206,ATK hastighedsovertrædelse
+,,2610301,"Fører, uden ledsager/ledsager opfylder ej betingelser"
+,,2610302,"Ledsager, regler vedrørende"
+,,2610303,"Fører (ledsagerkrav), ikke opfyldt oplysningspligt/ansvar"
+,,2610310,Kørsel med tungt køretøj i frakendelsestid (frakendelse af tunge køretøjer)
+,,2610311,Kørsel med tungt køretøj i frakendelsestid (frakendelse af kørekort og tunge køretøjer)
+,,3210505,Lov om euforiserende stoffer
+,,3210510,Lov om euforiserende stoffer (Salg)
+,,3410505,Lov om våben og eksplosivstof (Udgået)
+,,3410506,"Våbenloven, skydevåben"
+,,3410507,"Våbenloven, kniv på offentligt sted"
+,,3410508,"Våbenloven, anden overtrædelse med kniv"
+,,3410509,"Våbenloven, i øvrigt"
+,,3410605,"Knivloven, §1, kniv på offentligt tilgængeligt sted"
+,,3410606,"Knivloven, i øvrigt"
+,,3610105,Kildeskatteloven
+,,3610305,Skattekontrolloven
+,,3610405,Lov om almindelig omsætningsafgift
+,,3610505,Toldloven
+,,3610510,Toldloven - skærpende omstændigheder
+,,3610705,Kontrol med ædle metaller
+,,3610710,"Afgiftslove for drikkevarer, tobak, benzin"
+,,3610715,Stempelafgiftsloven
+,,3610720,EF's markedsforordninger
+,,3610725,Pris- og avancelovgivningen
+,,3610727,Lov om afgift på spillekasinoer
+,,3610730,Andre skatte- og afgiftslove mv.
+,,3610901,Manglende registrering af køretøj
+,,3610902,Overtrådt registreringsbekendtgørelsen
+,,3610903,"ATK - registreringsbekendtgørelse, manglende nummerplade"
+,,3610905,Registreringsafgiftsloven
+,,3610910,Vægtafgiftsloven
+,,3810204,Bistand til udlændingemyndighederne
+,,3810205,"Udlændingeloven i øvrigt, strafferetlig"
+,,3810206,"Udlændingeloven, ulovligt ophold/arbejde"
+,,3810207,"Udlændingeloven, adgang til landet ved urigtige oplysninger"
+,,3810208,"Udlændingeloven, ulovligt arbejde/arbejdsgivere"
+,,3810209,"Udlændingeloven, ulovligt ophold"
+,,3810210,"Udlændingeloven, menneskesmugling"
+,,3810211,"Udlændingeloven, bistand ved ulovlig indrejse"
+,,3810212,"Udlændingeloven, bistand ved ulovlig indrejse/ophold"
+,,3810213,"Udlændingeloven, ulovligt arbejde/arbejdstager"
+,,3810214,"Udlændingeloven, transportøransvar"
+,,3810215,"Udlændingeloven, overtrædelse af meddelt indrejseforbud"
+,,3810216,Asylsøger tilbagesendt til andet land
+,,3810217,Udlænding i øvrigt tilbagesendt til andet land
+,,3810218,Asylsøger ej tilbagesendt til andet land
+,,3810219,Udlænding i øvrigt ej tilbagesendt til andet land
+,,3810220,Asylsøger i DK tilbagetaget fra andet land
+,,3810221,Udlænding i øvrigt tilbagetaget fra andet land
+,,3810222,"Udlændingeloven, bistand ved ulovligt ophold"
+,,3810223,"Udlændingeloven, bistand ved ulovligt arbejde"
+,,3810224,"Udlændingeloven, overtrædelse af meddelt indrejseforbud"
+,,3810225,"Udlændingeloven, ulovligt ophold"
+,,3810226,"Udlændingeloven, ulovligt ophold"
+,,3810227,"Udlændingeloven, ulovligt arbejde"
+,,3810228,"Udlændingeloven, ulovligt ophold/arbejdstagere"
+,,3810229,"Udlændingeloven, ulovligt arbejde/arbejdstagere"
+,,3810230,"Udlændingeloven, ulovlig indrejse"
+,,3810231,"Udlændingeloven, udvist af andet nordisk land"
+,,3810232,"Udlændingeloven, adgang til landet ved urigtige oplysninger mv."
+,,3810233,"Udlændingeloven, meddelt indrejseforbud"
+,,3810234,"Udlændingeloven, udsendelsessag - asylområdet (NUC)"
+,,3810235,"Udlændingeloven, udsendelsessag - opholdsområdet (NUC)"
+,,3810236,"Udlændingeloven, Dublin-ind sag (NUC)"
+,,3810237,"Udlændingeloven, Dublin-ud sag (NUC)"
+,,3810238,"Udlændingeloven, asylansøgning (NUC)"
+,,3810239,"Udlændingeloven, bistand ved ulovligt ophold"
+,,3810240,Øvrige asyludsendelser
+,,3810241,Manglende overholdelse af pålagt meldepligt jf. udlændingeloven
+,,3810242,Manglende overholdelse af pålagt opholdspligt jf. udlændingeloven
+,,3810243,Manglende overholdelse af pålagt underretningspligt jf. udlændingeloven
+,,3810305,Lov om vagtvirksomhed
+,,3810405,Brandlovgivningen/beredskabsloven
+,,3810410,Brandundersøgelser
+,,3810505,Politivedtægten
+,,3810506,"Ordensbekendtgørelsen, skærpende omstændighed (grov forstyrrelse af ro og orden)"
+,,3810507,"Ordensbekendtgørelsen, sikring af den offentlige orden m.v."
+,,3810509,"Ordensbekendtgørelsen, sikring af den offentlige orden (Pornoudstilling)"
+,,3810510,"Politivedtægten, meddelt påbud"
+,,3810511,"Ordensbekendtgørelsen, midlertidige foranstaltninger/meddelt påbud"
+,,3810512,"Ordensbekendtgørelsen, zoneforbud (meddelt forbud)"
+,,3810513,"Ordensbekendtgørelsen, midlertidige foranstaltninger/overtrædelse af påbud"
+,,3810514,"Ordensbekendtgørelsen, zoneforbud (overtrædelse af forbud)"
+,,3810515,"Politivedtægten, overtrædelse af påbud"
+,,3810517,"Politivedtægten, lokal"
+,,3810605,Radiospredningsloven
+,,3810610,Lov om radiokommunikation
+,,3810705,Retsplejeloven
+,,3810706,"Optage/transmittere billeder, lyd og tekst"
+,,3810710,"Retsplejeloven, nægter at opgive navn"
+,,3810715,Pasloven
+,,3810716,Pasloven i øvrigt
+,,3810717,"Pasloven, nægtelse eller inddragelse af pas"
+,,3810718,"Pasloven, meddelt udrejseforbud"
+,,3810719,"Pasloven, overtrædelse af udrejseforbud"
+,,3810720,"Sprængstof, Lov om våben og eksplosivstof"
+,,3810721,"Sprængstof, bekendtgørelse om eksplosivstoffer"
+,,3810722,"Sprængstof, bekendtgørelse om eksplosivstoffer, overtrædelse af vilkår"
+,,3810725,Fyrværkeriloven
+,,3810730,Brandsikringslovgivningen
+,,3810735,Vinter vedlige-/renholdelse af offentlig vej
+,,3810740,Vinter vedlige-/renholdelse af privat vej
+,,3810741,"Vejlov, rådighed over gadeareal"
+,,3810745,Folkeregisterlov
+,,3810750,Lov om personnavne
+,,3810753,"Persondataloven, Lov om behandling af personoplysninger"
+,,3810754,Databeskyttelsesloven
+,,3810755,Bekendtgørelse om radio- og fjernsynsafgift
+,,3810760,Ligsynsloven
+,,3810765,Lov om Danmarks Statistik
+,,3810766,Straffuldbyrdelsesloven
+,,3810770,Postlovgivningen
+,,3810774,"Inkassovirksomhed, lov om"
+,,3810775,Bibliotekslov
+,,3810776,Lov om tv-overvågning
+,,3810777,Lov om krigsmateriel mv.
+,,3810778,Lov om hvidvaskning af penge
+,,3810780,Andre strafferetslige særlove
+,,3810781,Ophold i ejendom/forberedelse af forbud
+,,3810782,Ophold i ejendom/meddelt forbud mod
+,,3810783,Ophold i ejendom/overtrædelse af forbud mod
+,,3810784,Besøgende i bestemte lokaler/forberedelse af forbud
+,,3810785,Besøgende i bestemte lokaler/meddelt forbud mod
+,,3810786,Besøgende i bestemte lokaler/overtrædelse af forbud mod
+,,3810787,"Bortvisning/forbud, begæring om"
+,,3810788,"Bortvisning/forbud/tilhold, begæring om"
+,,3810789,"Bortvisning, meddelt forbud"
+,,3810790,"Bortvisning, meddelt forbud og tilhold"
+,,3810791,"Bortvisning, overtrædelse af meddelt forbud"
+,,3810792,"Bortvisning, overtrædelse af meddelt forbud og tilhold"
+,,3810793,"Køretøjer, syn ikke efterkommet"
+,,3810794,Teleloven
+,,3810796,"Karantæne ved idrætsbegivenheder, forberedelse af forbud"
+,,3810797,"Karantæne ved idrætsbegivenheder, meddelt forbud"
+,,3810798,"Karantæne ved idrætsbegivenheder, overtrædelse af forbud"
+,,3810801,"Idrætsbegivenheder, indretning/afvikling, forberedelse af påbud"
+,,3810802,"Idrætsbegivenheder, indretning/afvikling, meddelt påbud"
+,,3810803,"Idrætsbegivenheder, indretning/afvikling, overtrædelse af meddelt påbud"
+,,3810804,"Idrætsbegivenheder, ej afholdte, forberedelse af forbud"
+,,3810805,"Idrætsbegivenheder, ej afholdte, meddelt forbud"
+,,3810806,"Idrætsbegivenheder, ej afholdte, overtrædelse af meddelt forbud"
+,,3810901,Begæring om tilhold
+,,3810902,Begæring om opholdsforbud
+,,3810903,Begæring om bortvisning
+,,3810904,Begæring om tilhold og opholdsforbud
+,,3810905,Begæring om bortvisning og tilhold
+,,3810906,Begæring om bortvisning og opholdsforbud
+,,3810907,"Begæring om bortvisning, tilhold og opholdsforbud"
+,,3810908,Meddelt tilhold
+,,3810909,Meddelt opholdsforbud
+,,3810910,Meddelt bortvisning
+,,3810911,Meddelt tilhold og opholdsforbud
+,,3810912,Meddelt bortvisning og tilhold
+,,3810913,Meddelt bortvisning og opholdsforbud
+,,3810914,"Meddelt bortvisning, tilhold og opholdsforbud"
+,,3810915,"Tilhold, overtrædelse af"
+,,3810916,"Opholdsforbud, overtrædelse af"
+,,3810917,"Bortvisning, overtrædelse af"
+,,3810918,"Tilhold og opholdsforbud, overtrædelse af"
+,,3810919,"Bortvisning og tilhold, overtrædelse af"
+,,3810920,"Bortvisning og opholdsforbud, overtrædelse af"
+,,3810921,"Bortvisning, tilhold og opholdsforbud, overtrædelse af"
+,,3810941,"Kommunalt samlingsstedsforbud, registrereing af"
+,,3810942,Overtrædelse af kommunalt samlingsstedsforbud
+,,3810943,"Samlingssted for gruppe, forberedelse af forbud"
+,,3810944,"Samlingssted for gruppe, meddelt forbud mod ophold (anv. Ej til journalisering)"
+,,3810945,Overtrædelse af forbud mod ophold på samlingssted for gruppe
+,,3810946,Overtrædelse af oplysningspligt i forbindelse med kommunalt samlingsstedsforbud
+,,3815505,"Serviceloven, Lov om social service"
+,,3815510,Sygesikringsloven
+,,3815515,Lov om ATP
+,,3815520,Veterinærlovgivningen
+,,3815525,Kødloven
+,,3815530,Levnedsmiddellovgivningen
+,,3815531,Fødevareloven
+,,3815535,Antibiotikalovgivningen
+,,3815537,Lægemiddelloven
+,,3815538,Lov om forbud mod visse dopingmidler
+,,3815540,Lægeloven
+,,3815541,"Lov om autorisation af sundhedspersoner, læger"
+,,3815545,Tandlægeloven
+,,3815546,"Lov om autorisation af sundhedspersoner, tandlæger"
+,,3815550,Sygeplejeloven
+,,3815551,"Lov om autorisation af sundhedspersoner, sygeplejersker"
+,,3815555,Jordmoderloven
+,,3815556,"Lov om autorisation af sundhedspersoner, jordemødre"
+,,3815560,Svangerskabsloven
+,,3815562,Lov om børns retsstilling
+,,3815565,Lov om tatoveringer
+,,3815570,Andre sundheds- og sociallove
+,,3815580,"COVID-19, forberedelse af påbud"
+,,3815581,"COVID-19, meddelt påbud (Anvendes ikke til journalisering)"
+,,3815582,"COVID-19, overtrædelse af påbud"
+,,3820505,Bolig- og bygningslovgivningen
+,,3820510,Lov om kommuneplanlægning
+,,3820515,Lejeloven
+,,3825505,Miljøloven
+,,3825510,"Miljøzone, overtrædelse, dansk køretøj"
+,,3825515,"Miljøzone, overtrædelse, udenlands køretøj"
+,,3825605,"Grænseoverskridende affaldstransport, grønlistet"
+,,3825610,"Grænseoverskridende affaldstransport, anmeldelsespligtig"
+,,3825615,"Affaldsbekendtgørelsen, overtrædelse"
+,,3825620,"Affaldsregistret, overtrædelse"
+,,3825705,"Havmiljøloven, olieforurening"
+,,3825710,"Havmiljøloven, anden forurening"
+,,3825715,Naturbeskyttelsesloven
+,,3825718,"Washingtonkonvention, truede dyr/planter"
+,,3825720,Skovloven
+,,3825721,Lov om planlægning
+,,3825725,By- og landzoneloven
+,,3825730,Lov om sommerhuse og campering
+,,3825735,Mark- og vejfredloven
+,,3825740,Kemikalieloven
+,,3825745,Landbrugsloven
+,,3825750,Andre love vedrørende miljø
+,,3830500,"Dyreværnsloven, forberedelse af pålæg"
+,,3830501,"Dyreværnsloven, meddelt pålæg"
+,,3830502,"Dyreværnsloven, overtrædelse af meddelt pålæg"
+,,3830503,Slagtning og aflivning af dyr - bekendtgørelse
+,,3830504,"Dyreværnsloven, mishandling/grovere uforsvarlig behand. af dyr"
+,,3830505,Dyreværnsloven
+,,3830507,"Dyretransport, medvirken til erhvervsmæssig transport af dyr"
+,,3830508,"Dyretransport, erhvervsmæssig transport af dyr i frakendelsestiden"
+,,3830509,"Dyretransport, areal/belægning, transportør (klip)"
+,,3830510,"Dyretransport, manglende kompetencebevis"
+,,3830511,"Dyretransport, indvendig højde, transportør (klip)"
+,,3830512,"Dyretransport, ventilation, transportør (klip)"
+,,3830513,"Dyretransport, drikkevand/foder, transportør (klip)"
+,,3830514,"Dyretransport, hviletid, transportør (klip)"
+,,3830518,"Dyretransport, strøelse, transportør (klip)"
+,,3830519,"Dyretransport, transportegnethed, transportør (klip)"
+,,3830520,"Dyretransport, areal/belægning, chauffør/ledsager (klip)"
+,,3830521,"Dyretransport, indvendig højde, chauffør/ledsager (klip)"
+,,3830522,"Dyretransport, ventilation, chauffør/ledsager (klip)"
+,,3830523,"Dyretransport, hviletid, chauffør/ledsager (klip)"
+,,3830524,"Dyretransport, strøelse, chauffør/ledsager (klip)"
+,,3830530,"Dyretransport, drikkevand/foder, chauffør/ledsager (klip)"
+,,3830536,"Dyretransport, transportegnethed, chauffør/ledsager (klip)"
+,,3830701,"Dyretransport, indvendig højde, virksomhed"
+,,3830702,"Dyretransport, ventilation, virksomhed"
+,,3830703,"Dyretransport, drikkevand/foder, virksomhed"
+,,3830704,"Dyretransport, hviletid, virksomhed"
+,,3830705,Jagtloven
+,,3830706,"Dyretransport, areal/belægning, virksomhed"
+,,3830707,"Dyretransport, strøelse, virksomhed"
+,,3830708,"Dyretransport, transportegnethed, virksomhed"
+,,3830709,"Dyretransport, i øvrigt"
+,,3830710,"Hundeloven, forberedelse af pålæg"
+,,3830711,"Hundeloven, pålæg efter"
+,,3830712,"Lov om hold af heste, forberedelse af forbud"
+,,3830713,"Hundeloven, overtrædelse af, samt overtrædelse af pålæg"
+,,3830714,"Hundeloven, frakendelse efter"
+,,3830715,Fiskerilovgivningen
+,,3830716,"Lov om hold af heste, manglende forsikring"
+,,3830717,"Lov om hold af heste, meddelt påbud"
+,,3830718,"Lov om hold af heste, overtrædelse af meddelt påbud"
+,,3830720,"Andre love vedr. dyr, jagt mv., i øvrigt"
+,,3830721,"Malkekvæg, forberedelse af påbud"
+,,3830722,"Malkekvæg, meddelt påbud"
+,,3830723,"Malkekvæg, overtrædelse af påbud"
+,,3830724,Grindelov for Færøerne
+,,3835305,Arbejderbeskyttelseslovgivningen
+,,3835306,"Udstationering af lønmodtagere, lov om lønvilkår transport"
+,,3835307,"Udstationering af lønmodtagere mv., lov om tjenesteyder"
+,,3835308,"Udstationering af lønmodtagere mv., lov om hvervgiver"
+,,3835309,"Udstationering af lønmodtagere m.v., lov om (Udgået)"
+,,3835310,Lov om arbejdsmiljø
+,,3835311,"Lov om røgfri miljøer, forberedelse af påbud"
+,,3835312,"Lov om røgfri miljøer, meddelt påbud"
+,,3835313,"Lov om røgfri miljøer, rygepolitik"
+,,3835314,"Lov om røgfri miljøer, rygning indendørs"
+,,3835315,Bekendtgørelse om bedriftssundhedstjeneste
+,,3835316,"Lov om røgfri miljøer, overtrædelse af meddelt påbud"
+,,3835505,Arbejdsskadeforsikringsloven
+,,3835510,Søloven
+,,3835515,Skibsregistrering
+,,3835520,Lodslov
+,,3835525,Dykkerlov
+,,3835530,Tilsyn med skibe
+,,3835535,Luftfartsloven
+,,3835536,"Droneflyvning, bekendtgørelse om"
+,,3835540,Jernbaneloven
+,,3835545,Sømandsloven
+,,3835550,Bemandingslov
+,,3835555,Forhyring
+,,3835560,Ferieloven
+,,3835565,Lærlingeloven
+,,3835570,Lov om arbejdsformidling
+,,3835575,"Andre love vedr. arbejde, transport mv., i øvrigt"
+,,3835580,"Kontrolapparatværksted, bekendtgørelse om autoriseret"
+,,3835582,"Uautoriseret indgreb i kontrolapparat, fører"
+,,3835584,"Uautoriseret indgreb i kontrolapparat, arbejdsgiver"
+,,3835586,"Kontrolapparat, fører"
+,,3835588,"Kontrolapparat, arbejdsgiver"
+,,3835589,"Køre-hviletid, kontroldata, opbevaring af dokumentation mv."
+,,3835590,"Kontrollører uden autorisation, beskæftigelse af"
+,,3835701,Piratkopiering
+,,3835702,"Fartskriverkort, fører, bekendtgørelse om udstedelse af"
+,,3835703,"Fartskriverkort, arbejdsgiver, bekendtgørelse om udstedelse af"
+,,3835704,"Fartskriverkort, værksted, bekendtgørelse om udstedelse af"
+,,3835705,Forordninger om fartskrivere
+,,3835706,"Udrykningskørsel, bekendtgørelse om"
+,,3835707,Køre-hviletidsregler
+,,3835708,"Køre-hviletid, fører, bekendtgørelse om nationale bestemmelser"
+,,3835709,"Køre-hviletid, arbejdsgiver, bekendtgørelse om nationale bestemmelser"
+,,3835710,Lov om hyrekørsel
+,,3835711,"Køre-hviletid, fører"
+,,3835712,"Køre-hviletid, fører"
+,,3835713,"Køre-hviletid, arbejdsgiver"
+,,3835714,"Køre-hviletid over 30%, fører"
+,,3835715,Lov om godstransport
+,,3835716,"Køre-hviletid, arbejdsgiver"
+,,3835717,"Køre-hviletid, fører"
+,,3835718,"Køre-hviletid, arbejdsgiver"
+,,3835719,"Køre-hviletid over 30%, fører"
+,,3835720,Lov om buskørsel
+,,3835721,"Modulvogntog, færdselsområde"
+,,3835722,"Modulvogntog, udenlandske køretøjer"
+,,3835723,"Modulvogntog, ikke godkendt vogntog"
+,,3835724,"Modulvogntog, vægt"
+,,3835725,"Modulvogntog, dolly/antal aksler"
+,,3835726,"Modulvogntog, længde mv."
+,,3835727,"Modulvogntog, indretning og udstyr"
+,,3835728,"Modulvogntog, MVT type 1-4"
+,,3835729,"Modulvogntog, farligt gods"
+,,3835730,"Carbotagekørsel, overtrædelse"
+,,3840505,Aktieselskabsloven
+,,3840510,Anpartsselskabsloven
+,,3840515,Firmaloven
+,,3840520,Erhvervsregisteret
+,,3840525,Bogføringsloven
+,,3840530,Markedsføringsloven
+,,3840535,Mønsterbeskyttelse/ophavsret (Udgået)
+,,3840540,Råstofloven
+,,3840545,Erhvervsfremmeloven
+,,3840550,Konkurrenceloven
+,,3840555,Lov om kapitaltilførsel
+,,3840560,Valutalovgivningen
+,,3840565,Bank- og sparekasselov
+,,3840570,Lov om butikstid
+,,3840575,Andre love vedrørende selskabs- og firmalovgivningen
+,,3840580,Selskabsloven
+,,3840585,Lov om forretningshemmeligheder
+,,3845505,Militære straffelov
+,,3845705,Værnepligtsloven
+,,3845710,Lov om værnepligtiges anvendelse til civilt arbejde
+,,3845715,Civilforsvarsloven
+,,3845717,Lov om civilt beredskab
+,,3845720,Andre love vedr. forsvaret o.l.
+,,3850505,El-lovgivningen
+,,3850510,Gaslovgivningen
+,,3850515,Fællesantenner
+,,3850520,Andre love vedrørende offentlige forsyninger
+,,3855305,Restaurationsloven
+,,3855310,"Restaurationsloven, nattesæde"
+,,3855315,"Restaurationsloven, ulovlig udskænkning"
+,,3855320,"Restaurationsloven, forbud"
+,,3855325,"Restaurationsloven, meddelt forbud"
+,,3855330,"Restaurationsloven, overtrædelse af forbud"
+,,3855333,"Alkohol, salg til unge under 16 år"
+,,3855339,"Tobak, salg til unge under 16 år"
+,,3855340,"Tobak, salg til unge under 18 år"
+,,3855505,Næringsloven
+,,3855705,Handel med brugte genstande
+,,3855905,Lov om auktionsledere
+,,3855910,Film- og biograflov
+,,3855915,Totalisatorlov
+,,3855917,Lov om spillekasinoer
+,,3855920,Apotekerlov
+,,3855925,Medieansvarsloven (presselov)
+,,3855930,Lov om offentlige indsamlinger
+,,3855935,Lov om mål og vægt
+,,3855940,"Andre love vedr. spil, bevilling, næring mv."
+,,3865505,Øvrige særlovgivning
+,,3865506,Fortrolig sag
+,,3865507,Sikkerhedssag
+,,3865508,International kontrolsag
+,,3865509,Terroristkontrolsag
+,,3865510,International spærring
+,,3870505,Uoplyst særlovgivning
