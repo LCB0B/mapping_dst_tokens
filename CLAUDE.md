@@ -39,7 +39,7 @@ This has caused real damage (hallucinated SOCIO_gl labels, wrong DB07
 
 ## Repository Overview
 
-Hierarchical vocabulary mapping system for 41,201 codes used in Danish administrative register data (health, education, labor, demographics, social/criminal justice). Each code maps to a token ID in a transformer model vocabulary.
+Hierarchical vocabulary mapping system for **40,465 codes** used in Danish administrative register data (health, education, labor, demographics, social/criminal justice). Each code maps to a token ID in a transformer model vocabulary. (Originally 41,201; 736 `.0` float-duplicate entries were removed — see "The `.0` float bug" below.)
 
 ## Architecture
 
@@ -50,8 +50,10 @@ Hierarchical vocabulary mapping system for 41,201 codes used in Danish administr
 ### Root — Core Data
 | File | What it is | Why it's here |
 |------|-----------|---------------|
-| `vocab.json` | Original vocabulary: 41,201 code-to-token_id pairs | Source of truth for token IDs |
-| `MASTER_CATEGORY_MAPPINGS.csv` | Every code with description, source, confidence (41,201 rows) | Central data file, source of truth for descriptions |
+| `vocab.json` | Vocabulary: 40,465 code-to-token_id pairs (token IDs preserved from the original; 736 `.0` holes) | Source of truth for token IDs |
+| `MASTER_CATEGORY_MAPPINGS.csv` | Every code with descriptions, sources, confidence (40,465 rows) | Central data file, source of truth for descriptions |
+| `QC_REPORT.md` | Audit report: integrity, the MASTER↔MAPPINGS reconciliation, gap inventory | Provenance of the 2026-06 recovery |
+| `notes.md` | Working decision log (DB07≠DISCO-07, DISCO version-drift, HEA_speciale §2-aftaler, `.0` bug, income rewrites) | Domain reasoning behind the data |
 | `HIERARCHY_SUMMARY.csv` | Overview of all 127 categories with counts | Quick reference for category structure |
 | `README.md` | Project description and usage | Documentation |
 | `.gitignore` | Git ignore rules | Excludes one-off scripts, virtual envs, intermediate files |
@@ -59,9 +61,15 @@ Hierarchical vocabulary mapping system for 41,201 codes used in Danish administr
 ### `scripts/` — Permanent Utilities
 | File | Purpose |
 |------|---------|
-| `regenerate_mappings.py` | Regenerate MAPPINGS/ files from MASTER |
+| `regenerate_mappings.py` | Regenerate MAPPINGS/ files from MASTER (emits all description_* columns) |
 | `build_hierarchies.py` | Fill description gaps from dict files + build parent_code/hierarchy_level |
 | `add_language_columns.py` | Split descriptions into description_da/description_en columns |
+| `reconcile_master_from_mappings.py` | Recover provenance/official columns into MASTER when it drifts from MAPPINGS (used in the 2026-06 recovery) |
+
+The remaining `scripts/*.py` (e.g. `fix_*`, `apply_*`, `audit_*`, `clean_*`,
+`crosswalk_*`, `fill_*`, `retranslate_*`) are **one-off fixers** kept for
+provenance/reproducibility of specific transformations — not part of the
+regular regeneration pipeline. See `notes.md` for what each accomplished.
 
 ### `hierarchical_vocab/` — Per-Category Data
 
@@ -76,7 +84,7 @@ One CSV per category. Columns: `code, prefix, database, value, token_id`. These 
 - **SPECIAL/** (1 category): Model tokens [PAD], [CLS], [SEP], [UNK], [MASK]
 
 #### `MAPPINGS/` (127 files)
-Per-category mapping files with descriptions and sources. Columns: `code, prefix, database, value, description, source, confidence, language`. **Generated from MASTER** — do not edit directly.
+Per-category mapping files with descriptions and sources. Columns: `code, prefix, database, value, description, description_da, description_da_alt, description_en, description_en_official, description_en_official_source, description_en_source, source, confidence, language, parent_code, hierarchy_level`. **Generated from MASTER** — do not edit directly.
 
 #### `MISSING/` (6 files)
 Templates for categories needing manual descriptions (Birth, Death, Immigration, Emigration, unknown events).
@@ -115,32 +123,54 @@ Templates for categories needing manual descriptions (Birth, Death, Immigration,
 ## MASTER_CATEGORY_MAPPINGS.csv Schema
 
 ```
-code            — Unique code (e.g., HEA_ICD10_DA001)
-token_id        — Transformer vocabulary token ID
-prefix          — Domain: DEM, EDU, HEA, LAB, SOC, SPECIAL
-variable        — Sub-classification (e.g., ICD10, disco, kom). Called "database" in MAPPINGS/ files.
-value           — The specific code value
-category        — Full category name (prefix_variable)
-description     — Human-readable description (Danish or English)
-description_da  — Danish description (empty if English-only)
-description_en  — English description (empty if Danish-only)
-source          — Where the description came from
-mapped          — Whether description exists (True/False)
-total_codes     — Total codes in this category (summary stat, may be empty)
-mapped_codes    — Mapped codes in this category (summary stat, may be empty)
-mapping_percentage — Coverage percentage (summary stat, may be empty)
-primary_source  — Primary data source for this category (may be empty)
-confidence_level — highest/high/medium/low
-parent_code     — Parent code in hierarchy (empty for flat categories or top-level)
-hierarchy_level — Level name in hierarchy (e.g., chapter, block, category, subcategory)
+code             — Unique code (e.g., HEA_ICD10_DA001)
+token_id         — Transformer vocabulary token ID
+prefix           — Domain: DEM, EDU, HEA, LAB, SOC, SPECIAL
+variable         — Sub-classification (e.g., ICD10, disco, kom). Called "database" in MAPPINGS/ files.
+value            — The specific code value
+category         — Full category name (prefix_variable)
+description      — Legacy combined human-readable description (Danish or English)
+description_da   — Danish description, AUTHORITATIVE: follows the training-data semantics
+description_da_alt— Alternative regional meanings (only the ~5 HEA_speciale codes with
+                   conflicting §2-aftale semantics across regions — see HEA_speciale below)
+description_en   — Best-available English: translated from Danish OR from an intl. classification (100% filled)
+description_short — Short label variant
+description_en_official        — English ONLY when traceable to an intl. standard (WHO/NACE/ISCO/ISO-3166/DST-SSR);
+                                 empty when not reliably available (62.4% filled)
+description_en_official_source — Authority for the official English: who-icd10, who-atc, nace2,
+                                 nace2-crosswalk, isco08, isco08-crosswalk, isco88, iso3166, dst-ssr-specialty
+description_en_source          — Provenance tag for description_en: the above + translated, copy-of-da, dst_times_<var>
+source           — Where the (legacy) description came from
+mapped           — Whether description exists (True/False)
+total_codes / mapped_codes / mapping_percentage — per-category summary stats (may be empty)
+primary_source   — Primary data source for this category (may be empty)
+confidence_level — highest/high/medium/low. NOTE: sparsely populated (~7%); real provenance/quality
+                   signal lives in `source`, `description_en_source`, and `description_en_official_source`.
+parent_code      — Parent code in hierarchy (empty for flat categories or top-level)
+hierarchy_level  — Level name in hierarchy (e.g., chapter, block, category, subcategory)
 ```
+
+Consumers needing guaranteed accuracy should filter on `description_en_official`.
+Consumers needing broad coverage should use `description_en` and treat
+`description_en_source` as a quality signal. `MASTER` is the single source of
+truth; if it ever diverges from MAPPINGS/, see `scripts/reconcile_master_from_mappings.py`.
 
 ## Key Domain Knowledge
 
 ### ICD Codes in HEA_ICD10
 - Codes with `D` prefix (e.g., DA001, DG4732) are **ICD-10** with Danish chapter prefixes
 - Numeric-only codes (e.g., 00009, 01101) are **ICD-8** codes — a legacy classification
-- 556 ICD-8 codes currently have placeholder descriptions
+- ICD-8 placeholders were filled; HEA_ICD10 official English now comes from WHO ICD-10 2019.
+
+### Remaining `[Unresolved]` codes (70 total)
+Only two categories still carry `[Unresolved …]` placeholders — both are the
+historically-damaged legacy codes (see HARD RULES). **Do not guess them:**
+- **`LAB_db07` 5-digit (36)** — e.g. `11100`…`89900`. DST DB07 is 6-digit (`011100`);
+  the leading-zero mapping is ambiguous and `LAB_db07_dict.csv` (3-digit) lacks them.
+  Needs DST Forskningsservice or the original `.pt` the vocab was built from.
+- **`LAB_socio` `gl_*` (34)** — old SOCIO ("SOCIO_gl"). Only `raw/dst_socio_1997.pdf`
+  covers it; extraction is ambiguous (1- vs 2-digit, socioeconomic vs occupation).
+  Resolve only via human-verified reading of that PDF.
 
 ### Hierarchical Classifications
 Eight categories have hierarchical parent-child structure encoded in `parent_code` and `hierarchy_level` columns:
@@ -148,11 +178,35 @@ HEA_ICD10, HEA_ATC, LAB_disco, LAB_disco08, LAB_db07, LAB_nace, EDU_disced, SOC_
 
 Total hierarchy relationships built: ~21,500 codes with parent_code set.
 
-### Confidence Levels
-- **highest**: PyTorch dictionaries (36,092 mappings from official Danish admin classifications)
-- **high**: DISCO codes, SAS format definitions
-- **medium**: External APIs, research-enhanced, generated patterns
-- **low**: Unverified or placeholder descriptions
+### Confidence / provenance
+The `confidence_level` column is only sparsely populated (~7% of rows). The
+real, per-row provenance signal lives in the **source columns**:
+- `source` — origin of the legacy `description` (e.g. `CSV:HEA_ICD10`, `raw_lab_nace`,
+  `dual_source_special2_spec6`; `none|generated`/`generated_pattern` = weak/unsourced)
+- `description_en_source` — provenance of `description_en` (`who-icd10`, `dst_times_<var>`,
+  `dst-ssr-specialty`, `isco08`, `translated`, `copy-of-da`, …)
+- `description_en_official_source` — authority for `description_en_official` (filled only
+  when traceable to an international/DST standard)
+
+Rough quality tiers, highest→lowest: PyTorch lookup dictionaries
+(`mapping/lookup_dictionaries/`, ~36k official mappings) > DISCO/SAS format
+definitions > international standards (WHO/NACE/ISCO) > generated patterns >
+unverified/placeholder.
+
+### Danish classification gotchas (see `notes.md` for full detail)
+- **DB07 ≠ DISCO-07.** The `07` in DB07 = year 2007 (NACE Rev 2 adoption). DB07/NACE/
+  branche are **industries**; DISCO-08/DISCO are **occupations**. There is no "DISCO-07".
+- **`LAB_disco` is mixed-era.** Its rows are a mix of DISCO-88 and DISCO-08 numbering;
+  the same 4-digit code means different occupations across versions. Official English is
+  reconciled per-row via name-based crosswalk (`scripts/crosswalk_lab_disco.py`) —
+  `description_en_official_source` tags whether ISCO-08 or ISCO-88 was used. Never overwrite
+  `description_da` to match an "official" label; the Danish is the training-data ground truth.
+- **HEA_speciale regional §2-aftaler.** 6-digit = specialty(2)+procedure(4); procedures ≥4000
+  are regional agreements. A few codes mean different things in different regions; the primary
+  meaning is in `description_da` (tagged with the region) and alternatives in `description_da_alt`.
+- **The `.0` float bug.** vocab originally had 769 `.0`-suffixed keys (736 dup twins removed,
+  33 orphans renamed to int). Any upstream numeric code serialized with a trailing `.0` must be
+  normalised before tokenizer lookup: `s = str(v); s = s[:-2] if s.endswith('.0') else s`.
 
 ## Common Operations
 
