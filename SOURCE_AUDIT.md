@@ -1,9 +1,10 @@
-# Source audit — `source=none|generated` categories (check-only, 2026-06-04)
+# Source audit — `source=none|generated` categories (2026-06-04)
 
 Verification of the categories whose labels were tagged `source=none|generated`
 (the same risk pattern that produced the HEA VOLTYPECODE hallucination, see
-`QC_REPORT.md` §8). **No data was changed** — this records the authoritative
-source for each so a later fill can cite it, plus the verdict on the current text.
+`QC_REPORT.md` §8). Records the authoritative source for each, the verdict on the
+current text, and — where a fix was applied — the commit. Entries marked **✅ FIXED**
+have been corrected in MASTER; the rest are verified-correct/untagged or unresolved.
 
 Verdict legend: **WRONG** = current label is a hallucination · **CORRECT/untagged**
 = label matches the source but `source` is still `none|generated` · **FILLABLE** =
@@ -164,6 +165,50 @@ Not a hallucination — labels were just untagged.
 
 ---
 
+## SOC_haendelse — DST `HAENDELSE` (Udsatte børn og unge / BUAF) — NOT criminal
+
+**Authoritative source (CONFIRMED):** DST TIMES variable **`HAENDELSE`**, table
+`D280601.TXT_ANB_HAENDELSE` = *"Hændelse i anbringelsessag"* — events in an out-of-home
+**placement** (anbringelse) case for vulnerable children/youth. **Not** a criminal-event
+code. <https://www.dst.dk/da/Statistik/dokumentation/Times/boern-og-unge/haendelse>
+(+ repo `raw/SOC_haendelse.txt`, same table).
+
+**✅ FIXED 2026-06-04** (`scripts/fix_soc_haendelse_frakbkod.py`): the decimal sub-codes
+(0.2/1.1/5.5/7.5) were already sourced; the integer codes `0/1/2/5/7` had been left as
+bogus *"Criminal event type: N"* and are now filled verbatim from the DST value set:
+`0`=Iværksættelse af anbringelse, `1`=Iværksættelse af ændret anbringelsessted,
+`2`=Ændring af tvangsanbringelse til frivillig anbringelse, `5`=Hjemgivelse/ophør af
+anbringelse, `7`=Iværksættelse/genetablering af efterværn. `confidence=high`. (The
+category prefix `SOC_` is a misnomer — this is child-welfare, not crime — but codes/IDs
+untouched.)
+
+## SOC_frakbkod — DST `AFG_FRAKBKOD` (KRAF)
+
+**Authoritative source (CONFIRMED, fetched twice):** DST TIMES **`AFG_FRAKBKOD`** —
+code indicating whether a frakendelse (e.g. driving licence) is *"for bestandig"*
+(permanent). <https://www.dst.dk/da/Statistik/dokumentation/Times/kriminalstatistik/afg-frakbkod>
+Value set: `0`=Uoplyst, `1`=bestandig, `2`=endelig dom, `3`=domsdato, `4`=ikke mere bestandig.
+
+**✅ FIXED 2026-06-04** — all 4 MASTER labels were **hallucinations** (1="Betinget
+frakendelse", 2="Ubetinget", 3="Kørselsforbud", 4="Betinget med vilkår" — the variable
+is about *permanent*, not betinget/ubetinget). Rewritten to the verbatim value set
+(`source=dst_afg_frakbkod`, conf high).
+
+## SOC_fgslkod — prison-institution type (KRIN) — UNVERIFIED
+
+MASTER: `1`=Åbent fængsel, `2`=Lukket fængsel, `3`=Arresthus, `4`=Halvåbent fængsel,
+`5`=Pension, `0`=placeholder. These are the standard Kriminalforsorgen institution
+types and look plausible, **but the specific integer→type mapping could not be verified**
+from a public source: the KRIN (Kriminalstatistik indsættelser) value sets are not
+published (extranet shows only dataset metadata), and the related TIMES variable
+`IND_FGSLSTED` uses **letter place-codes** (`A###` arresthuse, `F###` fængsler,
+`P###` pensioner) — not these 1–5 type codes.
+<https://www.dst.dk/da/Statistik/dokumentation/Times/kriminalstatistik/ind-fgslsted>
+**Verdict: UNVERIFIED — left untouched.** Needs the KRIN codebook from DST
+Forskningsservice / the original `.pt` to confirm before asserting.
+
+---
+
 ## Summary
 
 | Category | Source | Verdict | In repo? |
@@ -173,7 +218,12 @@ Not a hallucination — labels were just untagged.
 | DEM_kom (13) | DST KOM + cpr.dk Grønland + `DEM_kom_dict.csv` | **955–960 RESOLVED = modern Greenland kommuner** (959/960 were WRONG: Abroad/Faroe); 011 correct; 010/012/019 fillable; 004/007/009 still unresolved | mostly |
 | DEM_familie (9) | DST TIMES FAMILIE_TYPE | **CORRECT — all 9 verified** | ❌ (DST URL) |
 | EDU_udel (25) | DST TIMES `UDEL` (KOTRE) | **CORRECT — all 24 verified verbatim** | ❌ (DST URL) |
+| SOC_haendelse (5) | DST `HAENDELSE` (børn og unge/BUAF) + `raw/SOC_haendelse.txt` | **✅ FIXED** — was mis-labelled "Criminal event"; it's out-of-home placement | ✅ |
+| SOC_frakbkod (4) | DST `AFG_FRAKBKOD` (KRAF) | **✅ FIXED** — all 4 were hallucinated (betinget/ubetinget); var = permanent-or-not | ❌ (DST URL) |
+| SOC_fgslkod (6) | KRIN (not public) | **UNVERIFIED** — plausible prison types, integer→type mapping unconfirmed | ❌ |
 
-Only **SOC_frakkod (5 rows)** are actually wrong. The rest are correct-but-untagged,
-fillable-from-dict, or source-identified-pending-value-set. No fixes applied here
-(check-only run).
+**Hallucinations corrected so far:** HEA VOLTYPECODE family (168), `SOC_frakkod` (5),
+`DEM_kom` 959/960 (Greenland), `SOC_frakbkod` (4), `SOC_haendelse` integer codes (5,
+mis-categorised as criminal). Verified-correct-but-untagged: `EDU_udel`, `DEM_familie`,
+`SOC_ger7` groups. Still unresolved (not guessed): `LAB_socio gl_*`, `LAB_db07` 5-digit,
+`DEM_kom` 004/007/009, `SOC_ger7` 1xxx/4xxx, `SOC_fgslkod`, most `LAB_tilstand`.

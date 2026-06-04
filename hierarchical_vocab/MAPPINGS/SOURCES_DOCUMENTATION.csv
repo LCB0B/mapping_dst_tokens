@@ -24,7 +24,7 @@ CSV:SOC_ansted_klas,CSV:SOC_ansted_klas,32,high,danish
 CSV:SOC_bstrfkod_from_raw,CSV:SOC_bstrfkod_from_raw,3,high,danish
 CSV:SOC_ger7,CSV:SOC_ger7,28,high,danish
 CSV:SOC_ger7_hierarchical,CSV:SOC_ger7_hierarchical,892,high,danish
-CSV:SOC_haendelse_from_raw,CSV:SOC_haendelse_from_raw,4,high,danish
+CSV:SOC_haendelse_from_raw,CSV:SOC_haendelse_from_raw,9,high,danish
 CSV:SOC_pgf_from_raw,CSV:SOC_pgf_from_raw,51,high,danish
 CSV:SOC_samtykke_from_raw,CSV:SOC_samtykke_from_raw,4,high,danish
 DSE77,DSE77,8,medium,danish
@@ -42,6 +42,7 @@ DSE77,DSE77,8,medium,danish
 "DSE77_inferred (fully inferred, no group 51 in DSE77)","DSE77_inferred (fully inferred, no group 51 in DSE77)",1,medium,danish
 "DSE77_inferred (fully inferred, outside standard DSE77 range)","DSE77_inferred (fully inferred, outside standard DSE77 range)",1,medium,danish
 cpr_groenland,cpr_groenland,6,medium,danish
+dst_afg_frakbkod,dst_afg_frakbkod,4,medium,danish
 dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),7,medium,danish
 dual_source_special2_spec6,dual_source_special2_spec6,4448,medium,danish
 esundhed:lmdb_voltypecode,esundhed:lmdb_voltypecode,168,medium,danish
@@ -51,8 +52,8 @@ manual_demographic_events,manual_demographic_events,5,medium,english
 manual_update,manual_update,555,medium,english
 none,none,9,medium,danish
 none|dict_fill,none|dict_fill,24,medium,danish
-none|generated,none|generated,541,medium,danish
-none|generated|generated,none|generated|generated,135,medium,danish
+none|generated,none|generated,536,medium,danish
+none|generated|generated,none|generated|generated,131,medium,danish
 none|generated|generated|generated,none|generated|generated|generated,5,medium,danish
 none|icd8_raw,none|icd8_raw,549,medium,danish
 none|manual,none|manual,7,medium,danish

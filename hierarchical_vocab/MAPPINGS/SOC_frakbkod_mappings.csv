@@ -1,5 +1,5 @@
 code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-SOC_frakbkod_1,SOC,frakbkod,1,Betinget frakendelse (Conditional withdrawal),,,,Betinget frakendelse (Conditional withdrawal),,,translated,none|generated|generated,medium,danish,,
-SOC_frakbkod_2,SOC,frakbkod,2,Ubetinget frakendelse (Unconditional withdrawal),,,,Ubetinget frakendelse (Unconditional withdrawal),,,translated,none|generated|generated,medium,danish,,
-SOC_frakbkod_4,SOC,frakbkod,4,Betinget med vilkår (Conditional with conditions),Betinget med vilkår,,,Conditional with conditions,,,translated,none|generated|generated,medium,danish,,
-SOC_frakbkod_3,SOC,frakbkod,3,Kørselsforbud (Driving ban),Kørselsforbud,,,Driving ban,,,translated,none|generated|generated,medium,danish,,
+SOC_frakbkod_1,SOC,frakbkod,1,bestandig,bestandig,,,Permanent (for bestandig),,,translated,dst_afg_frakbkod,high,danish,,
+SOC_frakbkod_2,SOC,frakbkod,2,endelig dom,endelig dom,,,Final judgment,,,translated,dst_afg_frakbkod,high,danish,,
+SOC_frakbkod_4,SOC,frakbkod,4,ikke mere bestandig,ikke mere bestandig,,,No longer permanent,,,translated,dst_afg_frakbkod,high,danish,,
+SOC_frakbkod_3,SOC,frakbkod,3,domsdato,domsdato,,,Judgment date,,,translated,dst_afg_frakbkod,high,danish,,
