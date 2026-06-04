@@ -194,18 +194,28 @@ frakendelse", 2="Ubetinget", 3="Kørselsforbud", 4="Betinget med vilkår" — th
 is about *permanent*, not betinget/ubetinget). Rewritten to the verbatim value set
 (`source=dst_afg_frakbkod`, conf high).
 
-## SOC_fgslkod — prison-institution type (KRIN) — UNVERIFIED
+## SOC_fgslkod — DST `IND_FGSLKOD` (KRIN) — ✅ FIXED (was hallucinated)
 
-MASTER: `1`=Åbent fængsel, `2`=Lukket fængsel, `3`=Arresthus, `4`=Halvåbent fængsel,
-`5`=Pension, `0`=placeholder. These are the standard Kriminalforsorgen institution
-types and look plausible, **but the specific integer→type mapping could not be verified**
-from a public source: the KRIN (Kriminalstatistik indsættelser) value sets are not
-published (extranet shows only dataset metadata), and the related TIMES variable
-`IND_FGSLSTED` uses **letter place-codes** (`A###` arresthuse, `F###` fængsler,
-`P###` pensioner) — not these 1–5 type codes.
-<https://www.dst.dk/da/Statistik/dokumentation/Times/kriminalstatistik/ind-fgslsted>
-**Verdict: UNVERIFIED — left untouched.** Needs the KRIN codebook from DST
-Forskningsservice / the original `.pt` to confirm before asserting.
+**Authoritative source (CONFIRMED):** DST TIMES **`IND_FGSLKOD`** — *"Fængslingskode.
+Angiver typen af indsættelse (anholdelse, varetægtsfængsling, afsoning mv.)"* — the
+**type of incarceration event**, NOT the institution type.
+<https://www.dst.dk/da/Statistik/dokumentation/Times/kriminalstatistik/ind-fgslkod>
+(Whole KRIN codebook downloaded to `raw/dst_downloads/KRIN_codebook.md`.)
+
+The MASTER labels were **hallucinations** — institution types invented from the abbrev:
+
+| code | MASTER (wrong) | IND_FGSLKOD (authoritative) |
+|------|----------------|------------------------------|
+| 0 | "Prison type code: 0" | Afsoning påbegyndt/fortsat under andet journalnummer |
+| 1 | ❌ Åbent fængsel | Anholdt under sag |
+| 2 | ❌ Lukket fængsel | Anholdelse opretholdt |
+| 3 | ❌ Arresthus | Varetægtsfængslet |
+| 4 | ❌ Halvåbent fængsel | Overførsel af afsoner |
+| 5 | ❌ Pension | Afsoner |
+
+**✅ FIXED 2026-06-04** (`scripts/fix_soc_fgslkod.py`): all 6 rewritten verbatim,
+`source=dst_ind_fgslkod`, conf high. (`IND_FGSLSTED` is the separate institution-PLACE
+variable, with letter codes `A###`/`F###`/`P###` — not this type code.)
 
 ---
 
@@ -220,10 +230,11 @@ Forskningsservice / the original `.pt` to confirm before asserting.
 | EDU_udel (25) | DST TIMES `UDEL` (KOTRE) | **CORRECT — all 24 verified verbatim** | ❌ (DST URL) |
 | SOC_haendelse (5) | DST `HAENDELSE` (børn og unge/BUAF) + `raw/SOC_haendelse.txt` | **✅ FIXED** — was mis-labelled "Criminal event"; it's out-of-home placement | ✅ |
 | SOC_frakbkod (4) | DST `AFG_FRAKBKOD` (KRAF) | **✅ FIXED** — all 4 were hallucinated (betinget/ubetinget); var = permanent-or-not | ❌ (DST URL) |
-| SOC_fgslkod (6) | KRIN (not public) | **UNVERIFIED** — plausible prison types, integer→type mapping unconfirmed | ❌ |
+| SOC_fgslkod (6) | DST `IND_FGSLKOD` (KRIN) | **✅ FIXED** — was hallucinated as prison types; it's the incarceration-event type | ✅ (codebook) |
 
 **Hallucinations corrected so far:** HEA VOLTYPECODE family (168), `SOC_frakkod` (5),
 `DEM_kom` 959/960 (Greenland), `SOC_frakbkod` (4), `SOC_haendelse` integer codes (5,
-mis-categorised as criminal). Verified-correct-but-untagged: `EDU_udel`, `DEM_familie`,
-`SOC_ger7` groups. Still unresolved (not guessed): `LAB_socio gl_*`, `LAB_db07` 5-digit,
-`DEM_kom` 004/007/009, `SOC_ger7` 1xxx/4xxx, `SOC_fgslkod`, most `LAB_tilstand`.
+mis-categorised as criminal), `SOC_fgslkod` (6, incarceration type not prison type).
+Verified-correct-but-untagged: `EDU_udel`, `DEM_familie`, `SOC_ger7` groups. Still
+unresolved (not guessed): `LAB_socio gl_*`, `LAB_db07` 5-digit, `DEM_kom` 004/007/009,
+`SOC_ger7` 1xxx/4xxx, most `LAB_tilstand`. Full KRIN codebook: `raw/dst_downloads/KRIN_codebook.md`.
