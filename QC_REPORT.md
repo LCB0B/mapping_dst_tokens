@@ -73,10 +73,16 @@ abbreviated procedure strings and applying back to all rows
   `svang.`=*svangerskabsforebyggende*/contraceptive, not *svangre*/pregnant women —
   so the old "Evacuation of constipation" was doubly wrong). GP rows use the fuller
   `plo_gp_ydelser_merged.csv` text for `description_da_full` where available.
-- **Honest grading:** `confidence_level=medium` (≈3,179) = æøå-clean fluent English;
-  `low` (≈2,872) = retains a Danish fragment, a placeholder ("(procedure not
-  documented)"), or an opaque truncated lab/billing code — best-effort, never invented.
-- **Known limitation:** ~1,445 unique strings (a flat long tail of rare truncated
-  Danish medical terms, e.g. `knoglebrud`, `Op.årekn.ex.lysk.hø`) still carry Danish
-  fragments and are flagged `low`. The key safety gain holds regardless: output is now
-  either correct or *visibly incomplete* — no more confidently-wrong English.
+- **Two-stage completion.** First an authored glossary cleared the systematic ~59%.
+  Then the remaining clinical tail (849 strings) was translated by a **multi-agent
+  workflow** (15+ translator agents, each adversarially verified, +1 focused pass for
+  109 stragglers) — see `scripts/clinical_residual.tsv`/`clinical_missing.tsv` and the
+  override `scripts/hea_speciale_translations.tsv`.
+- **Final grading:** `confidence_level=medium` **4,561 (75%)** = æøå-clean fluent English
+  (0 medium rows contain residual Danish); `low` **1,490** = **1,289 `(procedure not
+  documented)` placeholders** (no source text exists), **325 lab analyte/allergen codes**
+  (KPLL/SSI — left as semi-international notation by decision), and a small remainder with
+  `*marker*`/uncertainty. Of the ~4,762 rows that have a translatable procedure, **~96%
+  are clean**.
+- **Never invented:** opaque/placeholder codes stay `low` with best-effort partial English;
+  the abbreviated `description_da` and full `description_da_full` are preserved.

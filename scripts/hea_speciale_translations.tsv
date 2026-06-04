@@ -279,3 +279,941 @@
 491		ENT service, supplement for interpreter, allergology	high
 494		ENT service, telephone consultation, allergology	high
 497		ENT service, tympanostomy tube insertion (grommet), with anaesthesia	high
+498	Ørelægehjælp, Tubulation af trommehinde	ENT service, eardrum tubulation (grommet insertion)	high
+499	Ørelægehjælp, Tubulation af kæbehule	ENT service, maxillary sinus tubulation	medium
+500	Ørelægehjælp, Udlevering og instruktion	ENT service, dispensing and instruction	high
+502	Ørelægehjælp, Ultralydsundersøgelse af bihuler	ENT service, ultrasound examination of sinuses	high
+503	Ørelægehjælp, Undersøgelse af hørelse ved tone/sprog	ENT service, hearing examination by tone/speech audiometry	high
+504	Ørelægehjælp, Undersøgelse af ligevægt ved kalorisk prøve	ENT service, balance (equilibrium) examination by caloric test	medium
+505	Ørelægehjælp, Undersøgelse af spiserør med videre	ENT service, examination of oesophagus etc.	high
+506	Ørelægehjælp, Undersøgelse af hypopharynx og larynx	ENT service, examination of hypopharynx and larynx	high
+507	Ørelægehjælp, Undersøgelse af hypopharynx larynx	ENT service, examination of hypopharynx and larynx	high
+509	Ørelægehjælp, fjernelse af fremmedlegeme	ENT service, removal of foreign body	high
+511	Ørelægehjælp, telefonrådgivning praktiserende læge	ENT service, telephone advice from GP	high
+515	Ørelægehjælp, øreprop/skåltilpasning §3	ENT service, earplug/ear-mould fitting (§3 agreement)	medium
+516	Patologi, Immunhistokemisk præparat	Pathology, immunohistochemical specimen	high
+519	Patologi, Vævsmikroskopi cytologi	Pathology, tissue microscopy, cytology	high
+531	Plastikkirurgi, Flytning af hud 1.	Plastic surgery, skin transfer (flap), 1st	high
+532	Plastikkirurgi, Flytning af hud følgende	Plastic surgery, skin transfer (flap), subsequent	high
+533	Plastikkirurgi, Indsættelse af alloplastik 1.	Plastic surgery, insertion of alloplastic implant, 1st	high
+535	Plastikkirurgi, Korrektion næse-øre, følgende	Plastic surgery, correction of nose/ear, subsequent	high
+536	Plastikkirurgi, Korrektion næse-øre, 1.	Plastic surgery, correction of nose/ear, 1st	high
+539	Plastikkirurgi, Operation for forhudsforsnævring, følgende	Plastic surgery, operation for phimosis (foreskin narrowing), subsequent	high
+540	Plastikkirurgi, Operation for forhudsforsnævring, 1.	Plastic surgery, operation for phimosis (foreskin narrowing), 1st	high
+541	Plastikkirurgi, Operation for hudkræft, 1.	Plastic surgery, operation for skin cancer, 1st	high
+542	Plastikkirurgi, Operation for hudkræft, følgende	Plastic surgery, operation for skin cancer, subsequent	high
+547	Plastikkirurgi, telefonrådgivning praktiserende læge	Plastic surgery, telephone advice from GP	high
+555	Psykiatri, B-Erytrocytter, volumenfraktion 1	Psychiatry, blood erythrocyte volume fraction (haematocrit) 1	medium
+556	Psykiatri, B-Glukose (ej stix) 4	Psychiatry, blood glucose (not stix) 4	high
+557	Psykiatri, B-Glukose (stix) 1	Psychiatry, blood glucose (stix) 1	high
+559	Psykiatri, B-Leukocytter (park) 1	Psychiatry, blood leukocyte count (park) 1	medium
+561	Psykiatri, B-Trombocytter (park) 3	Psychiatry, blood platelet count (park) 3	medium
+564	Psykiatri, Familie- og gruppeterapi	Psychiatry, family and group therapy	high
+567	Psykiatri, Kørselsgodtgørelse I	Psychiatry, mileage allowance I	medium
+570	Psykiatri, Patient-EKG 3 ekstremiteter 3 prækordiale 9	Psychiatry, patient ECG, 3 limb leads, 3 precordial leads, 9	medium
+580	Psykiatri, telefonrådgivning praktiserende læge	Psychiatry, telephone advice from GP	high
+581	Psykiatri, Tolk i forbindelse med konsultation 3	Psychiatry, interpreter in connection with consultation, 3	high
+582	Psykiatri, gruppeterapi 2 personer	Psychiatry, group therapy, 2 persons	high
+583	Psykiatri, gruppeterapi 3 personer	Psychiatry, group therapy, 3 persons	high
+584	Psykiatri, gruppeterapi 4 personer	Psychiatry, group therapy, 4 persons	high
+585	Psykiatri, gruppeterapi 5 personer	Psychiatry, group therapy, 5 persons	high
+586	Psykiatri, gruppeterapi 6 personer	Psychiatry, group therapy, 6 persons	high
+593	Pædiatri, 1. konsultation allergologi (§3, amt 35)	Paediatrics, 1st allergology consultation (§3, county 35)	medium
+597	Pædiatri, 2. konsultation allergologi (§3, amt 35)	Paediatrics, 2nd allergology consultation (§3, county 35)	medium
+600	Pædiatri, Allergologisk cutanprøve	Paediatrics, allergology skin test	high
+601	Pædiatri, Allergologisk provokationsforsøg	Paediatrics, allergology provocation (challenge) test	high
+602	Pædiatri, Analafskrab for oxyurisæg 2	Paediatrics, anal scraping for pinworm (oxyuris) eggs, 2	high
+605	Pædiatri, B-Glukose (ej stix) 4	Paediatrics, blood glucose (not stix) 4	high
+606	Pædiatri, B-Glukose (stix) 1	Paediatrics, blood glucose (stix) 1	high
+609	Pædiatri, B-Leukocytter (park) 1	Paediatrics, blood leukocyte count (park) 1	medium
+611	Pædiatri, B-Trombocytter (park) 3	Paediatrics, blood platelet count (park) 3	medium
+613	Pædiatri, Blodprøve ekspedition 1	Paediatrics, blood sample handling/dispatch, 1	medium
+614	Pædiatri, Cutanprøve allergologi (§3, amt 35)	Paediatrics, allergology skin test (§3, county 35)	medium
+616	Pædiatri, EKG 3 ekstremiteter 3 prækordiale 9	Paediatrics, ECG, 3 limb leads, 3 precordial leads, 9	medium
+625	Pædiatri, Lungefunktionsundersøgelse med reversibilitet	Paediatrics, lung function test with reversibility	high
+626	Pædiatri, Lungefunktionsundersøgelse uden reversibilitet	Paediatrics, lung function test without reversibility	high
+629	Pædiatri, Patient-EKG aflæsning 6 1	Paediatrics, patient ECG reading, 6, 1	medium
+632	Pædiatri, Tillægskonsultation allergologi (§3, amt 35)	Paediatrics, additional allergology consultation (§3, county 35)	medium
+634	Pædiatri, telefonrådgivning praktiserende læge	Paediatrics, telephone advice from GP	high
+635	Pædiatri, Urin-bakterier (dyrkning park) 3	Paediatrics, urine bacteria (culture, park) 3	medium
+636	Pædiatri, urin-bakterier dyrkning, restgruppe 12	Paediatrics, urine bacteria culture, residual group 12	medium
+647	Pædiatri, funktionsneurologisk undersøgelse	Paediatrics, functional neurological examination	high
+658	Pædiatri, senere konsultation, allergologi (§3, amt 35)	Paediatrics, later consultation, allergology (§3, county 35)	medium
+664	Pædiatri, tværfaglig telefonkonsultation	Paediatrics, interdisciplinary telephone consultation	high
+676	Børnepsykiatri, 2./senere konsultation, forældreterapi	Child psychiatry, 2nd/later consultation, parent therapy	high
+677	Børnepsykiatri, 2./senere konsultation, legeterapi	Child psychiatry, 2nd/later consultation, play therapy	high
+678	Børnepsykiatri, 2./senere konsultation, samtaleterapi	Child psychiatry, 2nd/later consultation, talk therapy	high
+681	Børnepsykiatri, børnepsykiatri (amt 15)	Child psychiatry, child psychiatry (county 15)	medium
+683	Børnepsykiatri, honorar behandlingsmøde i børnepsykiatri	Child psychiatry, fee for treatment meeting in child psychiatry	medium
+685	Børnepsykiatri, kørselsgodtgørelse I	Child psychiatry, mileage allowance I	high
+688	Børnepsykiatri, telefonrådgivning praktiserende læge	Child psychiatry, telephone advice from general practitioner	high
+694	Tropemedicin, blodprøve, ekspedition 1	Tropical medicine, blood sample, handling 1	medium
+731	Diagnostisk radiologi København, undersøgelse gruppe 1, halvt	Diagnostic radiology, Copenhagen, examination group 1, half (reduced fee)	high
+732	Diagnostisk radiologi København, undersøgelse gruppe 2, halvt	Diagnostic radiology, Copenhagen, examination group 2, half (reduced fee)	high
+733	Diagnostisk radiologi København, undersøgelse gruppe 3, halvt	Diagnostic radiology, Copenhagen, examination group 3, half (reduced fee)	high
+734	Diagnostisk radiologi København, undersøgelse gruppe 4, halvt	Diagnostic radiology, Copenhagen, examination group 4, half (reduced fee)	high
+735	Diagnostisk radiologi København, undersøgelse gruppe 5, halvt	Diagnostic radiology, Copenhagen, examination group 5, half (reduced fee)	high
+736	Diagnostisk radiologi København, undersøgelse gruppe 1	Diagnostic radiology, Copenhagen, examination group 1	high
+737	Diagnostisk radiologi København, undersøgelse gruppe 2	Diagnostic radiology, Copenhagen, examination group 2	high
+738	Diagnostisk radiologi København, undersøgelse gruppe 3	Diagnostic radiology, Copenhagen, examination group 3	high
+739	Diagnostisk radiologi København, undersøgelse gruppe 4	Diagnostic radiology, Copenhagen, examination group 4	high
+740	Diagnostisk radiologi København, undersøgelse gruppe 5	Diagnostic radiology, Copenhagen, examination group 5	high
+741	Diagnostisk radiologi København, undersøgelse gruppe 6	Diagnostic radiology, Copenhagen, examination group 6	high
+742	Diagnostisk radiologi København, undersøgelse gruppe 7	Diagnostic radiology, Copenhagen, examination group 7	high
+764	Diagnostisk radiologi København, lænde og korsbenshvirvler	Diagnostic radiology, Copenhagen, lumbar and sacral vertebrae	high
+780	Diagnostisk radiologi København, underben	Diagnostic radiology, Copenhagen, lower leg	high
+789	Dermato-venerologi, 1. konsultation inklusive test	Dermato-venereology, 1st consultation including test	high
+797	Dermato-venerologi, 2. og efterfølgende, Viborg	Dermato-venereology, 2nd and subsequent, Viborg	high
+802	Dermato-venerologi, allergologi 1. konsultation	Dermato-venereology, allergology 1st consultation	high
+803	Dermato-venerologi, allergologi 2. konsultation	Dermato-venereology, allergology 2nd consultation	high
+804	Dermato-venerologi, allergologi cutanprøve	Dermato-venereology, allergology skin test	high
+805	Dermato-venerologi, allergologi provokationsforsøg	Dermato-venereology, allergology provocation/challenge test	high
+806	Dermato-venerologi, allergologi senere konsultation	Dermato-venereology, allergology later consultation	high
+807	Dermato-venerologi, allergologi telefonkonsultation	Dermato-venereology, allergology telephone consultation	high
+817	Dermato-venerologi, blodprøve, ekspedition 1	Dermato-venereology, blood sample, handling 1	medium
+820	Dermato-venerologi, klamydia forsendelse 1	Dermato-venereology, chlamydia specimen dispatch 1	medium
+821	Dermato-venerologi, dermatologisk behandling R81	Dermato-venereology, dermatological treatment (R81)	medium
+828	Dermato-venerologi, eksem 1. konsultation	Dermato-venereology, eczema 1st consultation	high
+830	Dermato-venerologi, eksem 2. konsultation	Dermato-venereology, eczema 2nd consultation	high
+840	Dermato-venerologi, gonokok forsendelse 1	Dermato-venereology, gonococcus specimen dispatch 1	medium
+853	Dermato-venerologi, intralæsionel injektion	Dermato-venereology, intralesional injection	high
+855	Dermato-venerologi, karmodermærker	Dermato-venereology, vascular naevi (vascular birthmarks)	low
+860	Dermato-venerologi, kørselsgodtgørelse I	Dermato-venereology, mileage allowance I	high
+861	Dermato-venerologi, laserbehandling keloid (amt 60)	Dermato-venereology, laser treatment of keloid (county 60)	medium
+866	Dermato-venerologi, mikroskopi farvet sekret 3	Dermato-venereology, microscopy of stained secretion 3	high
+867	Dermato-venerologi, mikroskopi hudsvamp 5	Dermato-venereology, microscopy of skin fungus 5	high
+868	Dermato-venerologi, mikroskopi ufarvet sekret 3	Dermato-venereology, microscopy of unstained secretion 3	high
+870	Dermato-venerologi, multiple aktiniske, følgende operation	Dermato-venereology, multiple actinic (keratoses), subsequent operation	medium
+871	Dermato-venerologi, måling perifert blodtryk (§3, amt 15)	Dermato-venereology, measurement of peripheral blood pressure (§3, county 15)	medium
+872	Dermato-venerologi, mørkefeltsmikroskopi 5	Dermato-venereology, darkfield microscopy 5	high
+875	Dermato-venerologi, overlæbe per behandling	Dermato-venereology, upper lip per treatment	high
+876	Dermato-venerologi, PDT-behandling cancerpatient	Dermato-venereology, photodynamic therapy (PDT) treatment, cancer patient	high
+880	Dermato-venerologi, rensning og forbinding sår	Dermato-venereology, cleaning and dressing of wound	high
+882	Dermato-venerologi, scleroserende injektion	Dermato-venereology, sclerosing injection	high
+883	Dermato-venerologi, sekret-gonokok, ekspedition 1	Dermato-venereology, secretion-gonococcus, handling 1	medium
+898	Dermato-venerologi, telefonrådgivning praktiserende læge	Dermato-venereology, telephone advice from general practitioner	high
+899	Dermato-venerologi, tolk i forbindelse med konsultation 3	Dermato-venereology, interpreter in connection with consultation 3	high
+903	Dermato-venerologi, urinundersøgelse stix 1	Dermato-venereology, urine examination, dipstick 1	high
+904	Dermato-venerologi, venerologisk 1. konsultation	Dermato-venereology, venereological 1st consultation	high
+905	Dermato-venerologi, venerologisk 2. konsultation	Dermato-venereology, venereological 2nd consultation	high
+906	Dermato-venerologi, venerologisk senere konsultation	Dermato-venereology, venereological subsequent consultation	high
+907	Dermato-venerologi, venerologisk telefonkonsultation	Dermato-venereology, venereological telephone consultation	high
+908	Dermato-venerologi, visitation, indkaldelse af patienter	Dermato-venereology, triage, summoning of patients	high
+909	Dermato-venerologi, visitation, kautionsbegæring	Dermato-venereology, triage, surety (guarantee) request	medium
+915	Dermato-venerologi, fjernelse af karforandringer	Dermato-venereology, removal of vascular lesions	high
+916	Dermato-venerologi, fjernelse af pigmentforandringer	Dermato-venereology, removal of pigment lesions	high
+917	Dermato-venerologi, fjernelse af uønsket hårvækst	Dermato-venereology, removal of unwanted hair growth	high
+918	Dermato-venerologi, forundersøgelse §3-aftale Vejle	Dermato-venereology, preliminary examination (§3 agreement, Vejle)	medium
+919	Dermato-venerologi, laserbehandling karsprængninger	Dermato-venereology, laser treatment of broken capillaries	high
+2292	Tandplejere, almindelig paradontalbehandling	Dental hygienist service, ordinary periodontal treatment	high
+2297	Tandplejere, kontrol af almindelig paradontalbehandling	Dental hygienist service, follow-up of ordinary periodontal treatment	high
+2300	Tandplejere, kontrol af udvidet paradontalbehandling	Dental hygienist service, follow-up of extended periodontal treatment	high
+2303	Tandplejere, tandrensning mindst 15 tænder	Dental hygienist service, dental scaling, at least 15 teeth	high
+2304	Tandplejere, udvidet paradontalbehandling	Dental hygienist service, extended periodontal treatment	high
+2305	Tandplejere, udvidet forebyggende behandling	Dental hygienist service, extended preventive treatment	high
+2306	Tandplejere, udvidet paradontalbehandling	Dental hygienist service, extended periodontal treatment	high
+2339	Diagnostisk radiologi, hals- og luftrør, halvt	Diagnostic radiology, neck and trachea, half (reduced fee)	high
+2340	Diagnostisk radiologi, hals- og luftrør	Diagnostic radiology, neck and trachea	high
+2350	Diagnostisk radiologi, intravenøs cholangiografi	Diagnostic radiology, intravenous cholangiography	high
+2357	Diagnostisk radiologi, lår og hofteled, halvt	Diagnostic radiology, thigh and hip joint, half (reduced fee)	high
+2360	Diagnostisk radiologi, lænde- og korsbenshvirvler	Diagnostic radiology, lumbar and sacral vertebrae	high
+2361	Diagnostisk radiologi, lænde- og korsben, halvt	Diagnostic radiology, lumbar spine and sacrum, half (reduced fee)	high
+2371	Diagnostisk radiologi, skulderled med videre, halvt	Diagnostic radiology, shoulder joint etc., half (reduced fee)	high
+2372	Diagnostisk radiologi, skulderled og overarm	Diagnostic radiology, shoulder joint and upper arm	high
+2384	Diagnostisk radiologi, underben	Diagnostic radiology, lower leg	high
+2385	Diagnostisk radiologi, underben, halvt	Diagnostic radiology, lower leg, half (reduced fee)	high
+2386	Diagnostisk radiologi, belastningsundersøgelse af led, følgende	Diagnostic radiology, weight-bearing examination of joint, subsequent	high
+2393	Diagnostisk radiologi, funktionsundersøgelse af rygsøjle, følgende	Diagnostic radiology, functional examination of spine, subsequent	high
+2407	Diagnostisk radiologi, underben, følgende	Diagnostic radiology, lower leg, subsequent	high
+2410	Tandlægehjælp, akut oplukning	Dental service, acute opening (of tooth)	high
+2411	Tandlægehjælp, almindelig paradontalbehandling	Dental service, ordinary periodontal treatment	high
+2412	Tandlægehjælp, apikal amputation og rodfyldning	Dental service, apical amputation (apicoectomy) and root filling	high
+2415	Tandlægehjælp, diagnostiske og forebyggende ydelser	Dental service, diagnostic and preventive services	high
+2416	Tandlægehjælp, fyldning amalgam A	Dental service, amalgam filling, A	high
+2417	Tandlægehjælp, fyldning amalgam B	Dental service, amalgam filling, B	high
+2418	Tandlægehjælp, fyldning amalgam C	Dental service, amalgam filling, C	high
+2421	Tandlægehjælp, gradvis eksklusive amalgam A	Dental service, gradual, excluding amalgam, A	medium
+2422	Tandlægehjælp, gradvis eksklusive amalgam B	Dental service, gradual, excluding amalgam, B	medium
+2423	Tandlægehjælp, gradvis eksklusive amalgam C	Dental service, gradual, excluding amalgam, C	medium
+2424	Tandlægehjælp, hygiejnetillæg	Dental service, hygiene supplement	high
+2425	Tandlægehjælp, individuel forebyggende behandling	Dental service, individual preventive treatment	high
+2427	Tandlægehjælp, kirurgisk paradontalbehandling	Dental service, surgical periodontal treatment	high
+2431	Tandlægehjælp, klinisk undersøgelse, over 25	Dental service, clinical examination, over 25 (years)	high
+2432	Tandlægehjælp, klinisk undersøgelse 18-25	Dental service, clinical examination, 18-25 (years)	high
+2433	Tandlægehjælp, konsultation uden behandling	Dental service, consultation without treatment	high
+2434	Tandlægehjælp, kontrol efter forebyggende behandling	Dental service, follow-up after preventive treatment	high
+2435	Tandlægehjælp, kontrol almindelig paradontalbehandling	Dental service, follow-up of ordinary periodontal treatment	high
+2436	Tandlægehjælp, kontrol kirurgisk paradontalbehandling	Dental service, follow-up of surgical periodontal treatment	high
+2437	Tandlægehjælp, kontrol RDU (26 år og derover)	Dental service, follow-up RDU (regular diagnostic examination) (26 years and over)	medium
+2438	Tandlægehjælp, kontrol RDU (18-25 år)	Dental service, follow-up RDU (regular diagnostic examination) (18-25 years)	medium
+2439	Tandlægehjælp, kontrol udvidet paradontalbehandling	Dental service, follow-up of extended periodontal treatment	high
+2443	Tandlægehjælp, operation tand med videre	Dental service, tooth surgery etc.	high
+2456	Tandlægehjælp, pulpaoverkapning	Dental service, pulp capping	high
+2459	Tandlægehjælp, rodbehandling og rodfyldning C	Dental service, root-canal treatment and root filling, C	high
+2460	Tandlægehjælp, rodbehandling og rodfyldning D	Dental service, root-canal treatment and root filling D	high
+2461	Tandlægehjælp, rodbehandling og rodfyldning E	Dental service, root-canal treatment and root filling E	high
+2466	Tandlægehjælp, tandrodsrensning	Dental service, tooth-root scaling	high
+2467	Tandlægehjælp, udtrækning anden tand	Dental service, extraction of another tooth	high
+2468	Tandlægehjælp, udtrækning følgende tand	Dental service, extraction of subsequent tooth	high
+2470	Tandlægehjælp, udvidet paradontalbehandling	Dental service, extended periodontal treatment	high
+2471	Tandlægehjælp, udvidet tandrensning	Dental service, extended dental scaling	high
+2478	Fysioterapi 51, ADL-funktionstræning	Physiotherapy, activities-of-daily-living function training	high
+2479	Fysioterapi 51, afspænding *hold*	Physiotherapy, relaxation therapy (group)	high
+2480	Fysioterapi 51, afspænding *individuel*	Physiotherapy, relaxation therapy (individual)	high
+2481	Fysioterapi 51, biomekanisk bevægelsesterapi	Physiotherapy, biomechanical movement therapy	high
+2483	Fysioterapi 51, forundersøgelse A65	Physiotherapy, preliminary examination (county 65)	medium
+2484	Fysioterapi 51, fysioterapeutisk undersøgelse	Physiotherapy, physiotherapeutic examination	high
+2490	Fysioterapi 51, i hjem *uden klinik*	Physiotherapy, in the home (without clinic)	high
+2497	Fysioterapi 51, kørselsgodtgørelse I	Physiotherapy, mileage allowance I	high
+2499	Fysioterapi 51, lokalegodtgørelse	Physiotherapy, premises allowance	high
+2502	Fysioterapi 51, mandag-fredag 16-20, lørdag 08-20	Physiotherapy, Monday-Friday 16:00-20:00, Saturday 08:00-20:00	high
+2503	Fysioterapi 51, mandag-fredag 20-08, søndag/helligdag	Physiotherapy, Monday-Friday 20:00-08:00, Sunday/public holiday	high
+2509	Fysioterapi 51, opfølgende træningsterapi	Physiotherapy, follow-up training therapy	high
+2511	Fysioterapi 51, plejehjem *uden klinik*	Physiotherapy, nursing home (without clinic)	high
+2515	Fysioterapi 51, psykomotorisk bevægelsesterapi	Physiotherapy, psychomotor movement therapy	high
+2519	Fysioterapi 51, tillæg særlige tidskrav	Physiotherapy, supplement for special time requirements	medium
+2520	Fysioterapi 51, telefonrådgivning og vejledning	Physiotherapy, telephone advice and guidance	high
+2521	Fysioterapi 51, udvidet rygundersøgelse amt60	Physiotherapy, extended back examination (county 60)	medium
+2523	Fysioterapi 51, forsøgsordning amt 65	Physiotherapy, trial scheme (county 65)	medium
+2524	Fysioterapi 51, udeblivelse	Physiotherapy, non-attendance	high
+2527	Fysioterapi 51, øvelsesterapi *hold*	Physiotherapy, exercise therapy (group)	high
+2528	Fysioterapi 51, øvelsesterapi *individuel*	Physiotherapy, exercise therapy (individual)	high
+2530	Briller, sfærisk 4.25 - 6.75	Eyeglasses, spherical 4.25 - 6.75	high
+2531	Briller, sfærisk plan til 4.00	Eyeglasses, spherical plano up to 4.00	high
+2532	Briller, sfærisk plan-4 afstand	Eyeglasses, spherical plano-4 distance	medium
+2534	Briller, torisk plan-4 sfærisk 2.75	Eyeglasses, toric plano-4 spherical 2.75	medium
+2537	Kiropraktik, kiropraktisk klinisk grundydelse a	Chiropractic, chiropractic clinical basic service a	high
+2538	Kiropraktik, kiropraktisk klinisk grundydelse b	Chiropractic, chiropractic clinical basic service b	high
+2539	Kiropraktik, kiropraktisk klinisk ydelse	Chiropractic, chiropractic clinical service	high
+2540	Kiropraktik, opfølgende træningsydelse	Chiropractic, follow-up training service	high
+2543	Kiropraktik, supplerende røntgenundersøgelse	Chiropractic, supplementary X-ray examination	high
+2548	Kiropraktik, introduktion til superviseret træning	Chiropractic, introduction to supervised training	high
+2550	Kiropraktik, røntgenteknisk undersøgelse	Chiropractic, radiographic-technical examination	high
+2556	Fodterapi, afstilling plade/pen 0-10	Podiatry, plate/pin adjustment 0-10	low
+2559	Fodterapi, fodbehandling almindelig	Podiatry, foot treatment, ordinary	high
+2560	Fodterapi, fodbehandling kompliceret	Podiatry, foot treatment, complicated	high
+2561	Fodterapi, fodbehandling partiel	Podiatry, foot treatment, partial	high
+2562	Fodterapi, fremstilling/påsætning 1 ny bøjle	Podiatry, fabrication/fitting of 1 new brace	high
+2564	Fodterapi, i hjem 0 - 10 km	Podiatry, in the home 0 - 10 km	high
+2565	Fodterapi, i hjem over 10 km	Podiatry, in the home over 10 km	high
+2575	Fodterapi, korrektion af 1 bøjle	Podiatry, correction of 1 brace	high
+2576	Fodterapi, korrektion af 2 bøjler	Podiatry, correction of 2 braces	high
+2580	Fodterapi, pensionist hjemme 0 - 10	Podiatry, pensioner at home 0 - 10	high
+2581	Fodterapi, plejehjem 0 - 10 km	Podiatry, nursing home 0 - 10 km	high
+2583	Fodterapi, værkstedsmoduler	Podiatry, workshop modules	high
+2591	Ortonyxi, afstilling plade/pen 0-10	Orthonyxia, plate/pin adjustment 0-10	low
+2593	Ortonyxi, fremstilling/påsætning 1 ny bøjle	Orthonyxia, fabrication/fitting of 1 new brace	high
+2595	Ortonyxi, følgende modul (med tillæg)	Orthonyxia, subsequent module (with supplement)	medium
+2596	Ortonyxi, følgende modul (uden tillæg)	Orthonyxia, subsequent module (without supplement)	medium
+2597	Ortonyxi, i hjem 0 - 10 km	Orthonyxia, in the home 0 - 10 km	high
+2602	Ortonyxi, Korrektion af 1 bøjle	Orthonyxia, correction of 1 brace	high
+2603	Ortonyxi, Korrektion af 2 bøjler	Orthonyxia, correction of 2 braces	high
+2606	Ortonyxi, Pensionist hjemme 0-10 km	Orthonyxia, pensioner at home, 0-10 km	high
+2607	Ortonyxi, Pensionist hjemme over 10 km	Orthonyxia, pensioner at home, over 10 km	high
+2608	Ortonyxi, Plejehjem 0-10 km	Orthonyxia, nursing home, 0-10 km	high
+2613	Ridefysioterapi, Fysioterapihonorar ½ time, 4 personer	Horseback-riding physiotherapy, physiotherapy fee, ½ hour, 4 persons	high
+2614	Ridefysioterapi, Fysioterapihonorar ½ time, 5 personer	Horseback-riding physiotherapy, physiotherapy fee, ½ hour, 5 persons	high
+2615	Ridefysioterapi, Fysioterapihonorar ½ time, 1 person	Horseback-riding physiotherapy, physiotherapy fee, ½ hour, 1 person	high
+2622	Ridefysioterapi, Rideskolehonorar 2 personer	Horseback-riding physiotherapy, riding-school fee, 2 persons	high
+2623	Ridefysioterapi, Rideskolehonorar 4 personer	Horseback-riding physiotherapy, riding-school fee, 4 persons	high
+2627	Ridefysioterapi, Fysioterapihonorar ½ time, 3 personer	Horseback-riding physiotherapy, physiotherapy fee, ½ hour, 3 persons	high
+2628	Ridefysioterapi, Rideskolehonorar 1 person	Horseback-riding physiotherapy, riding-school fee, 1 person	high
+2629	Ridefysioterapi, Rideskolehonorar 3 personer	Horseback-riding physiotherapy, riding-school fee, 3 persons	high
+2634	Genoptræning, Øfeldt, Funktionsundersøgelse handicappet	Rehabilitation, Øfeldt, functional examination of disabled person	high
+2636	Genoptræning, Øfeldt, Kontrolundersøgelse af handicappet	Rehabilitation, Øfeldt, follow-up examination of disabled person	high
+2641	Genoptræning, Øfeldt, Optræning/behandling 1 time	Rehabilitation, Øfeldt, training/treatment, 1 hour	high
+2642	Genoptræning, Øfeldt, Optræning/behandling ½ time	Rehabilitation, Øfeldt, training/treatment, ½ hour	high
+2650	Genoptræning, Øfeldt, Ved.fri optræning 1 time	Rehabilitation, Øfeldt, fee-free/maintenance-free training, 1 hour	low
+2651	Genoptræning, Øfeldt, Ved.fri optræning ½ time	Rehabilitation, Øfeldt, fee-free/maintenance-free training, ½ hour	low
+2659	Fodbehandling arvævspatienter, Afstilling plejehjem/pensionist 0-10 km	Foot treatment, scar-tissue patients, call-out to nursing home/pensioner, 0-10 km	medium
+2661	Fodbehandling arvævspatienter, Fodbehandling - Almindelig	Foot treatment, scar-tissue patients, foot treatment - ordinary	high
+2662	Fodbehandling arvævspatienter, Fodbehandling Partiel	Foot treatment, scar-tissue patients, foot treatment, partial	high
+2671	Fodbehandling arvævspatienter, Værkstedstid ved indlæg	Foot treatment, scar-tissue patients, workshop time for insole/orthotic	medium
+2675	Reumatologi, 3 behandlinger varmtvandsbassin	Rheumatology, 3 treatments, warm-water pool	high
+2676	Reumatologi, Afsluttende samtale	Rheumatology, concluding talk/consultation	high
+2683	Reumatologi, Blodprøve ekspedition 1	Rheumatology, blood-sample dispatch/handling 1	medium
+2685	Reumatologi, Gipsbandage uden operation	Rheumatology, plaster cast without operation	high
+2686	Reumatologi, Injektion i bursae med videre	Rheumatology, injection into bursae etc.	high
+2687	Reumatologi, Instrueret øvelsesterapi	Rheumatology, instructed exercise therapy	high
+2688	Reumatologi, Intraartikulær injektion	Rheumatology, intra-articular injection	high
+2689	Reumatologi, Kørselsgodtgørelse I	Rheumatology, mileage allowance I	high
+2690	Reumatologi, Ledningsblokade/nerveblokade	Rheumatology, conduction block/nerve block	high
+2691	Reumatologi, Manipulationsbehandling	Rheumatology, manipulation treatment	high
+2692	Reumatologi, Mikroskopi ledvæske	Rheumatology, microscopy of joint fluid	high
+2693	Reumatologi, Patient-EKG 3 ekstremitetsafledninger 3 prækordiale afledninger 9	Rheumatology, patient ECG, 3 extremity leads, 3 precordial leads, 9	medium
+2696	Reumatologi, Sekret-Gonokok ekspedition 1	Rheumatology, secretion gonococcus specimen, dispatch/handling 1	medium
+2697	Reumatologi, Senere konsultation Smerte	Rheumatology, subsequent consultation, pain	high
+2698	Reumatologi, Tapening, bandagering	Rheumatology, taping, bandaging	high
+2700	Reumatologi, Telefonrådgivning praktiserende læge	Rheumatology, telephone advice from GP	high
+2701	Reumatologi, Tolk i forbindelse med konsultation 3	Rheumatology, interpreter in connection with consultation 3	high
+2702	Reumatologi, Transkutan nervestimulation	Rheumatology, transcutaneous nerve stimulation	high
+2706	Reumatologi, Ultralydsundersøgelse	Rheumatology, ultrasound examination	high
+2707	Reumatologi, Ultralydsundersøgelse følgende ydelse	Rheumatology, ultrasound examination, subsequent service	high
+2718	Fodbehandling, leddegigt, journaloptagning	Foot treatment, rheumatoid arthritis, taking of medical record	high
+2719	Fodbehandling, leddegigt, korrektion af 1 bøjle	Foot treatment, rheumatoid arthritis, correction of 1 brace	high
+2723	Fysioterapi 61, Afspænding individuel	Physiotherapy 61, relaxation therapy, individual	high
+2725	Fysioterapi 61, Biomekanisk bevægelsesterapi	Physiotherapy 61, biomechanical movement therapy	high
+2726	Fysioterapi 61, Fysioterapiundersøgelse	Physiotherapy 61, physiotherapy examination	high
+2728	Fysioterapi 61, Holdtræning 2 personer, egne lokaler	Physiotherapy 61, group training, 2 persons, own premises	medium
+2729	Fysioterapi 61, Holdtræning 3 personer, egne lokaler	Physiotherapy 61, group training, 3 persons, own premises	medium
+2730	Fysioterapi 61, Holdtræning 4 personer, egne lokaler	Physiotherapy 61, group training, 4 persons, own premises	medium
+2731	Fysioterapi 61, Holdtræning 5 personer, egne lokaler	Physiotherapy 61, group training, 5 persons, own premises	medium
+2732	Fysioterapi 61, Holdtræning 6 personer, egne lokaler	Physiotherapy 61, group training, 6 persons, own premises	medium
+2733	Fysioterapi 61, Holdtræning 7 personer, egne lokaler	Physiotherapy 61, group training, 7 persons, own premises	medium
+2734	Fysioterapi 61, Holdtræning 8 personer, egne lokaler	Physiotherapy 61, group training, 8 persons, own premises	medium
+2742	Fysioterapi 61, Opfølgende træningsterapi	Physiotherapy 61, follow-up training therapy	high
+2745	Fysioterapi 61, Tillæg særligt tidskrævende	Physiotherapy 61, supplement for especially time-consuming	medium
+2747	Fysioterapi 61, øvelsesterapi individuel	Physiotherapy 61, exercise therapy (individual)	high
+2750	Vederlagsfri fysioterapi, ADL-funktionstræning	Free-of-charge physiotherapy, ADL functional training	high
+2751	Vederlagsfri fysioterapi, afspænding (hold)	Free-of-charge physiotherapy, relaxation therapy (group)	high
+2752	Vederlagsfri fysioterapi, afspænding (individuel)	Free-of-charge physiotherapy, relaxation therapy (individual)	high
+2758	Vederlagsfri fysioterapi, bassintræning 1 person, egne lokaler 51 62	Free-of-charge physiotherapy, pool training 1 person, own premises (51 62)	medium
+2759	Vederlagsfri fysioterapi, bassintræning 2 personer, amtets lokaler 51 62	Free-of-charge physiotherapy, pool training 2 persons, county premises (51 62)	medium
+2760	Vederlagsfri fysioterapi, bassintræning 2 personer, egne lokaler 51 62	Free-of-charge physiotherapy, pool training 2 persons, own premises (51 62)	medium
+2761	Vederlagsfri fysioterapi, bassintræning 3 personer, amtets lokaler 51 62	Free-of-charge physiotherapy, pool training 3 persons, county premises (51 62)	medium
+2762	Vederlagsfri fysioterapi, bassintræning 3 personer, egne lokaler 51 62	Free-of-charge physiotherapy, pool training 3 persons, own premises (51 62)	medium
+2763	Vederlagsfri fysioterapi, bassintræning 4 personer, amtets lokaler 51 62	Free-of-charge physiotherapy, pool training 4 persons, county premises (51 62)	medium
+2764	Vederlagsfri fysioterapi, bassintræning 4 personer, egne lokaler 51 62	Free-of-charge physiotherapy, pool training 4 persons, own premises (51 62)	medium
+2765	Vederlagsfri fysioterapi, bassintræning 5 personer, amtets lokaler 51 62	Free-of-charge physiotherapy, pool training 5 persons, county premises (51 62)	medium
+2766	Vederlagsfri fysioterapi, bassintræning 6 personer, amtets lokaler 51 62	Free-of-charge physiotherapy, pool training 6 persons, county premises (51 62)	medium
+2767	Vederlagsfri fysioterapi, bassintræning 6 personer, egne lokaler 51 62	Free-of-charge physiotherapy, pool training 6 persons, own premises (51 62)	medium
+2768	Vederlagsfri fysioterapi, bassintræning 7 personer, amtets lokaler 51 62	Free-of-charge physiotherapy, pool training 7 persons, county premises (51 62)	medium
+2769	Vederlagsfri fysioterapi, bassintræning 8 personer, amtets lokaler 51 62	Free-of-charge physiotherapy, pool training 8 persons, county premises (51 62)	medium
+2770	Vederlagsfri fysioterapi, bassintræning 1 person, egne lokaler	Free-of-charge physiotherapy, pool training 1 person, own premises	high
+2771	Vederlagsfri fysioterapi, bassintræning 2 personer, egne lokaler	Free-of-charge physiotherapy, pool training 2 persons, own premises	high
+2772	Vederlagsfri fysioterapi, bassintræning 3 personer, egne lokaler	Free-of-charge physiotherapy, pool training 3 persons, own premises	high
+2773	Vederlagsfri fysioterapi, bassintræning 4 personer, egne lokaler	Free-of-charge physiotherapy, pool training 4 persons, own premises	high
+2774	Vederlagsfri fysioterapi, bassintræning 5 personer, egne lokaler	Free-of-charge physiotherapy, pool training 5 persons, own premises	high
+2775	Vederlagsfri fysioterapi, bassintræning 6 personer, egne lokaler	Free-of-charge physiotherapy, pool training 6 persons, own premises	high
+2776	Vederlagsfri fysioterapi, bassintræning 7 personer, egne lokaler	Free-of-charge physiotherapy, pool training 7 persons, own premises	high
+2777	Vederlagsfri fysioterapi, bassintræning 8 personer, egne lokaler	Free-of-charge physiotherapy, pool training 8 persons, own premises	high
+2778	Vederlagsfri fysioterapi, bassintræning 1 person	Free-of-charge physiotherapy, pool training 1 person	high
+2779	Vederlagsfri fysioterapi, bassintræning 2 personer	Free-of-charge physiotherapy, pool training 2 persons	high
+2780	Vederlagsfri fysioterapi, bassintræning 3 personer	Free-of-charge physiotherapy, pool training 3 persons	high
+2781	Vederlagsfri fysioterapi, bassintræning 4 personer	Free-of-charge physiotherapy, pool training 4 persons	high
+2782	Vederlagsfri fysioterapi, bassintræning 5 personer	Free-of-charge physiotherapy, pool training 5 persons	high
+2783	Vederlagsfri fysioterapi, bassintræning 6 personer	Free-of-charge physiotherapy, pool training 6 persons	high
+2784	Vederlagsfri fysioterapi, bassintræning 7 personer	Free-of-charge physiotherapy, pool training 7 persons	high
+2785	Vederlagsfri fysioterapi, bassintræning 8 personer	Free-of-charge physiotherapy, pool training 8 persons	high
+2786	Vederlagsfri fysioterapi, biomekanisk bevægelsesterapi	Free-of-charge physiotherapy, biomechanical movement therapy	high
+2788	Vederlagsfri fysioterapi, fysioterapeutisk undersøgelse	Free-of-charge physiotherapy, physiotherapeutic examination	high
+2804	Vederlagsfri fysioterapi, holdtræning 1 person, egne lokaler	Free-of-charge physiotherapy, group training 1 person, own premises	high
+2805	Vederlagsfri fysioterapi, holdtræning 2 personer, egne lokaler	Free-of-charge physiotherapy, group training 2 persons, own premises	high
+2806	Vederlagsfri fysioterapi, holdtræning 3 personer, egne lokaler	Free-of-charge physiotherapy, group training 3 persons, own premises	high
+2807	Vederlagsfri fysioterapi, holdtræning 4 personer, egne lokaler	Free-of-charge physiotherapy, group training 4 persons, own premises	high
+2808	Vederlagsfri fysioterapi, holdtræning 5 personer, egne lokaler	Free-of-charge physiotherapy, group training 5 persons, own premises	high
+2809	Vederlagsfri fysioterapi, holdtræning 6 personer, egne lokaler	Free-of-charge physiotherapy, group training 6 persons, own premises	high
+2810	Vederlagsfri fysioterapi, holdtræning 7 personer, egne lokaler	Free-of-charge physiotherapy, group training 7 persons, own premises	high
+2811	Vederlagsfri fysioterapi, holdtræning 8 personer, egne lokaler	Free-of-charge physiotherapy, group training 8 persons, own premises	high
+2812	Vederlagsfri fysioterapi, holdtræning 9 personer, egne lokaler	Free-of-charge physiotherapy, group training 9 persons, own premises	high
+2813	Vederlagsfri fysioterapi, holdtræning 1 person	Free-of-charge physiotherapy, group training 1 person	high
+2814	Vederlagsfri fysioterapi, holdtræning 2 personer	Free-of-charge physiotherapy, group training 2 persons	high
+2815	Vederlagsfri fysioterapi, holdtræning 3 personer	Free-of-charge physiotherapy, group training 3 persons	high
+2816	Vederlagsfri fysioterapi, holdtræning 4 personer	Free-of-charge physiotherapy, group training 4 persons	high
+2817	Vederlagsfri fysioterapi, holdtræning 5 personer	Free-of-charge physiotherapy, group training 5 persons	high
+2818	Vederlagsfri fysioterapi, holdtræning 6 personer	Free-of-charge physiotherapy, group training 6 persons	high
+2819	Vederlagsfri fysioterapi, holdtræning 7 personer	Free-of-charge physiotherapy, group training 7 persons	high
+2820	Vederlagsfri fysioterapi, holdtræning 8 personer	Free-of-charge physiotherapy, group training 8 persons	high
+2822	Vederlagsfri fysioterapi, i hjem (uden klinik)	Free-of-charge physiotherapy, at home (without clinic)	high
+2825	Vederlagsfri fysioterapi, information og vejledning	Free-of-charge physiotherapy, information and guidance	high
+2826	Vederlagsfri fysioterapi, kompenserende behandling	Free-of-charge physiotherapy, compensatory treatment	high
+2828	Vederlagsfri fysioterapi, kørselsgodtgørelse I	Free-of-charge physiotherapy, mileage allowance I	high
+2831	Vederlagsfri fysioterapi, mandag-fredag 16-20, lørdag 08-20	Free-of-charge physiotherapy, Monday-Friday 16:00-20:00, Saturday 08:00-20:00	high
+2832	Vederlagsfri fysioterapi, mandag-fredag 20-08, søndag/helligdag	Free-of-charge physiotherapy, Monday-Friday 20:00-08:00, Sunday/public holiday	high
+2837	Vederlagsfri fysioterapi, opfølgende træningsterapi	Free-of-charge physiotherapy, follow-up training therapy	high
+2838	Vederlagsfri fysioterapi, plejehjem (uden klinik)	Free-of-charge physiotherapy, nursing home (without clinic)	high
+2842	Vederlagsfri fysioterapi, psykomotorisk bevægelsesterapi	Free-of-charge physiotherapy, psychomotor movement therapy	high
+2845	Vederlagsfri fysioterapi, styrketræning (amt 30)	Free-of-charge physiotherapy, strength training (county 30)	medium
+2852	Vederlagsfri fysioterapi, øvelsesterapi (hold)	Free-of-charge physiotherapy, exercise therapy (group)	high
+2853	Vederlagsfri fysioterapi, øvelsesterapi (individuel)	Free-of-charge physiotherapy, exercise therapy (individual)	high
+2859	Psykologhjælp, 2 personers konsultation, følgende konsultation	Psychology service, 2-person consultation, subsequent consultation	high
+2861	Psykologhjælp, afstandstillæg 0-4 km	Psychology service, distance supplement 0-4 km	high
+2862	Psykologhjælp, barn med pårørende, efter konsultation	Psychology service, child with relatives, subsequent consultation	high
+2863	Psykologhjælp, barn med pårørende, 1. konsultation	Psychology service, child with relatives, 1st consultation	high
+2877	Psykologhjælp, gruppekonsultation 3 personer, 1.	Psychology service, group consultation, 3 persons, 1st	high
+2880	Psykologhjælp, gruppekonsultation 3 personer	Psychology service, group consultation, 3 persons	high
+2881	Psykologhjælp, gruppekonsultation 4 personer	Psychology service, group consultation, 4 persons	high
+2882	Psykologhjælp, gruppekonsultation 5 personer	Psychology service, group consultation, 5 persons	high
+2883	Psykologhjælp, gruppekonsultation 6 personer	Psychology service, group consultation, 6 persons	high
+2884	Psykologhjælp, individuel konsultation, efter konsultation	Psychology service, individual consultation, subsequent consultation	high
+2895	Kiropraktik kronikere, kiropraktisk klinisk grundydelse a	Chiropractic, chronic patients, basic chiropractic clinical service a	high
+2896	Kiropraktik kronikere, kiropraktisk klinisk grundydelse b	Chiropractic, chronic patients, basic chiropractic clinical service b	high
+2897	Kiropraktik kronikere, kiropraktisk klinisk ydelse	Chiropractic, chronic patients, chiropractic clinical service	high
+2899	Kiropraktik kronikere, supplerende røntgenundersøgelse	Chiropractic, chronic patients, supplementary radiographic examination	high
+2904	Kiropraktik kronikere, diagnosticering og beskrivelse	Chiropractic, chronic patients, diagnosis and description	high
+2905	Kiropraktik kronikere, introduktion til superviseret træning	Chiropractic, chronic patients, introduction to supervised training	high
+2919	Vederlagsfri ridefysioterapi, fysioterapeuthonorar ½ time, 4 personer	Free-of-charge horseback-riding physiotherapy, physiotherapist fee, half hour, 4 persons	medium
+2923	Vederlagsfri ridefysioterapi, fysioterapeuthonorar ½ time, 3 personer	Free-of-charge horseback-riding physiotherapy, physiotherapist fee, half hour, 3 persons	medium
+2927	Vederlagsfri ridefysioterapi, rideskolehonorar 4 personer	Free-of-charge horseback-riding physiotherapy, riding-school fee, 4 persons	high
+2929	Høreomsorg, uafsluttet forløb	Hearing care, uncompleted course of treatment	high
+2930	Gynækologi/obstetrik, (vejledt) abrasio, cervix, følgende	Gynaecology/obstetrics, (guided) curettage, cervix, subsequent	medium
+2931	Gynækologi/obstetrik, (vejledt) abrasio, cervix, 1.	Gynaecology/obstetrics, (guided) curettage, cervix, 1st	medium
+2932	Gynækologi/obstetrik, (vejledt) abrasio, corpus, følgende	Gynaecology/obstetrics, (guided) curettage, corpus, subsequent	medium
+2934	Gynækologi/obstetrik, (vejledt) abrasio, corpus, 1.	Gynaecology/obstetrics, (guided) curettage, corpus, 1st	medium
+2935	Gynækologi/obstetrik, (vejledt) abrasio, cervix, følgende, i anæstesi	Gynaecology/obstetrics, (guided) curettage, cervix, subsequent, with anaesthesia	medium
+2936	Gynækologi/obstetrik, (vejledt) abrasio, corpus, følgende, i anæstesi	Gynaecology/obstetrics, (guided) curettage, corpus, subsequent, with anaesthesia	medium
+2942	Gynækologi/obstetrik, 2. konsultation, medicinsk abort	Gynaecology/obstetrics, 2nd consultation, medical abortion	high
+2944	Gynækologi/obstetrik, 2. konsultation, kirurgisk abort	Gynaecology/obstetrics, 2nd consultation, surgical abortion	high
+2946	Gynækologi/obstetrik, 3. konsultation, ukompliceret	Gynaecology/obstetrics, 3rd consultation, uncomplicated	high
+2950	Gynækologi/obstetrik, blod-glukose (ej stix) 4	Gynaecology/obstetrics, blood glucose (not stix) 4	high
+2951	Gynækologi/obstetrik, blod-glukose (stix) 1	Gynaecology/obstetrics, blood glucose (stix) 1	high
+2957	Gynækologi/obstetrik, blodprøve, ekspedition 1	Gynaecology/obstetrics, blood sample, handling 1	high
+2959	Gynækologi/obstetrik, blokadebehandling af bækken	Gynaecology/obstetrics, nerve block treatment of the pelvis	high
+2961	Gynækologi/obstetrik, clamydia immunfluorescens 3	Gynaecology/obstetrics, chlamydia immunofluorescence 3	high
+2962	Gynækologi/obstetrik, clamydiabestemmelse 10	Gynaecology/obstetrics, chlamydia determination 10	high
+2967	Gynækologi/obstetrik, dilatation af cervix, følgende, i anæstesi	Gynaecology/obstetrics, dilatation of the cervix, subsequent, with anaesthesia	high
+2968	Gynækologi/obstetrik, dilatation af cervix, 1.	Gynaecology/obstetrics, dilatation of the cervix, 1st	high
+2969	Gynækologi/obstetrik, dilatation af cervix, følgende	Gynaecology/obstetrics, dilatation of the cervix, subsequent	high
+2970	Gynækologi/obstetrik, dilatation af cervix, 1., i anæstesi	Gynaecology/obstetrics, dilatation of the cervix, 1st, with anaesthesia	high
+2971	Gynækologi/obstetrik, dyrkning af gærsvamp (ekspedition) 1	Gynaecology/obstetrics, culture of yeast fungus (handling) 1	high
+2972	Gynækologi/obstetrik, dyrkning af gærsvamp 10	Gynaecology/obstetrics, culture of yeast fungus 10	high
+2975	Gynækologi/obstetrik, el-stimulation af bækkenbund	Gynaecology/obstetrics, electrical stimulation of the pelvic floor	high
+2976	Gynækologi/obstetrik, el-stimulation af bækkenbund	Gynaecology/obstetrics, electrical stimulation of the pelvic floor	high
+2977	Gynækologi/obstetrik, el-stimulation af bækkenbund	Gynaecology/obstetrics, electrical stimulation of the pelvic floor	high
+2978	Gynækologi/obstetrik, endometriedestruktion	Gynaecology/obstetrics, endometrial destruction	high
+2979	Gynækologi/obstetrik, evacuatio, opfølgende konsultation	Gynaecology/obstetrics, evacuation, follow-up consultation	high
+2987	Gynækologi/obstetrik, genetisk rådgivning	Gynaecology/obstetrics, genetic counselling	high
+2989	Gynækologi/obstetrik, hymenal- eller vulvaplastik	Gynaecology/obstetrics, hymenal or vulvar plasty	medium
+2997	Gynækologi/obstetrik, intrauterin fjernelse af spiral, følgende, i anæstesi	Gynaecology/obstetrics, intrauterine removal of coil, subsequent, with anaesthesia	medium
+2998	Gynækologi/obstetrik, intrauterin fjernelse af spiral, 1., i anæstesi	Gynaecology/obstetrics, intrauterine removal of coil, 1st, with anaesthesia	medium
+2999	Gynækologi/obstetrik, intrauterin fjernelse af spiral, følgende	Gynaecology/obstetrics, intrauterine removal of coil, subsequent	medium
+3000	Gynækologi/obstetrik, Intrauterin fjernelse af spiral 1.	Gynaecology/obstetrics, intrauterine removal of coil, 1st	high
+3001	Gynækologi/obstetrik, Intracervikal insemination	Gynaecology/obstetrics, intracervical insemination	high
+3002	Gynækologi/obstetrik, Intrauterin insemination	Gynaecology/obstetrics, intrauterine insemination	high
+3007	Gynækologi/obstetrik, Kryobehandling cervix følgende i anæstesi	Gynaecology/obstetrics, cryotherapy of cervix, subsequent, with anaesthesia	high
+3008	Gynækologi/obstetrik, Kryobehandling cervix 1.	Gynaecology/obstetrics, cryotherapy of cervix, 1st	high
+3009	Gynækologi/obstetrik, Kryobehandling cervix 1. i anæstesi	Gynaecology/obstetrics, cryotherapy of cervix, 1st, with anaesthesia	high
+3010	Gynækologi/obstetrik, Kryobehandling cervix følgende	Gynaecology/obstetrics, cryotherapy of cervix, subsequent	high
+3013	Gynækologi/obstetrik, Mikroskopi farvet sekret 3	Gynaecology/obstetrics, microscopy of stained secretion 3	high
+3014	Gynækologi/obstetrik, Mikroskopi ufarvet sekret 3	Gynaecology/obstetrics, microscopy of unstained secretion 3	high
+3015	Gynækologi/obstetrik, Obstetrisk bistand	Gynaecology/obstetrics, obstetric assistance	high
+3016	Gynækologi/obstetrik, Opsætning af spiral	Gynaecology/obstetrics, insertion of coil	high
+3017	Gynækologi/obstetrik, Opsætning af spiral	Gynaecology/obstetrics, insertion of coil	high
+3018	Gynækologi/obstetrik, Opsætning spiral følgende i anæstesi	Gynaecology/obstetrics, insertion of coil, subsequent, with anaesthesia	high
+3019	Gynækologi/obstetrik, Opsætning spiral 1.	Gynaecology/obstetrics, insertion of coil, 1st	high
+3020	Gynækologi/obstetrik, Opsætning spiral følgende	Gynaecology/obstetrics, insertion of coil, subsequent	high
+3021	Gynækologi/obstetrik, Opsætning spiral 1. i anæstesi	Gynaecology/obstetrics, insertion of coil, 1st, with anaesthesia	high
+3022	Gynækologi/obstetrik, Ovariecystepunktur 1. i anæstesi	Gynaecology/obstetrics, ovarian cyst puncture, 1st, with anaesthesia	high
+3023	Gynækologi/obstetrik, Ovariecystepunktur følgende	Gynaecology/obstetrics, ovarian cyst puncture, subsequent	high
+3024	Gynækologi/obstetrik, Ovariecystepunktur 1.	Gynaecology/obstetrics, ovarian cyst puncture, 1st	high
+3026	Gynækologi/obstetrik, Paracervikal/intracervikal	Gynaecology/obstetrics, paracervical/intracervical	medium
+3029	Gynækologi/obstetrik, Polypfjernelse cervix uteri	Gynaecology/obstetrics, polyp removal, cervix uteri	high
+3030	Gynækologi/obstetrik, Polypfjernelse	Gynaecology/obstetrics, polyp removal	high
+3033	Gynækologi/obstetrik, Sekret-Gonokok *exp* 1	Gynaecology/obstetrics, secretion gonococcus *exp* 1	low
+3034	Gynækologi/obstetrik, Sekret-Gonokok *mikroskopi* 2	Gynaecology/obstetrics, secretion gonococcus *microscopy* 2	high
+3036	Gynækologi/obstetrik, Senere konsultation fertilitet	Gynaecology/obstetrics, later consultation, fertility	high
+3041	Gynækologi/obstetrik, Serum-østradiolbestemmelse 6	Gynaecology/obstetrics, serum oestradiol determination 6	high
+3042	Gynækologi/obstetrik, Sexologisk samtale	Gynaecology/obstetrics, sexological consultation	high
+3047	Gynækologi/obstetrik, Svangerskabsreaktion 5	Gynaecology/obstetrics, pregnancy test 5	high
+3048	Gynækologi/obstetrik, Sædpræparation til insemination	Gynaecology/obstetrics, sperm preparation for insemination	high
+3050	Gynækologi/obstetrik, Tillæg for tolk fertilitet	Gynaecology/obstetrics, interpreter surcharge, fertility	high
+3053	Gynækologi/obstetrik, Telefonrådgivning praktiserende læge	Gynaecology/obstetrics, telephone advice from GP	high
+3054	Gynækologi/obstetrik, Tumorfjernelse mamma 1. i anæstesi	Gynaecology/obstetrics, tumour removal, breast, 1st, with anaesthesia	high
+3055	Gynækologi/obstetrik, Tumorfjernelse mamma følgende	Gynaecology/obstetrics, tumour removal, breast, subsequent	high
+3056	Gynækologi/obstetrik, Tumorfjernelse mamma 1.	Gynaecology/obstetrics, tumour removal, breast, 1st	high
+3057	Gynækologi/obstetrik, Urin-bakterier *dyrkning Park* 3	Gynaecology/obstetrics, urine bacteria *culture, Park* 3	medium
+3058	Gynækologi/obstetrik, Urin-bakterier *dyrkning Rest* 12	Gynaecology/obstetrics, urine bacteria *culture, Rest* 12	medium
+3062	Gynækologi/obstetrik, Urin-hormonanalyse *exp* 1	Gynaecology/obstetrics, urine hormone analysis *exp* 1	low
+3067	Gynækologi/obstetrik, Ultralydsscanning	Gynaecology/obstetrics, ultrasound scan	high
+3070	Gynækologi/obstetrik, Undersøgelse vaginalsekret 1	Gynaecology/obstetrics, examination of vaginal secretion 1	high
+3079	Gynækologi/obstetrik, Vandscanning	Gynaecology/obstetrics, saline infusion sonography	medium
+3090	Gynækologi/obstetrik, indsætning gestagenimplantat	Gynaecology/obstetrics, insertion of progestogen implant	high
+3094	Intern medicin, *blod* erytrocytter-Mikroskopi 1	Internal medicine, *blood* erythrocytes microscopy 1	high
+3095	Intern medicin, *blod* erytrocytter-Reticulocyt 2	Internal medicine, *blood* erythrocytes reticulocytes 2	high
+3096	Intern medicin, *fastende patient* serum-Lipidfraktion 25	Internal medicine, *fasting patient* serum lipid fraction 25	high
+3097	Intern medicin, *fastende patient* serum-Triglycerid 15	Internal medicine, *fasting patient* serum triglycerides 15	high
+3102	Intern medicin, Allergenprovokation fødemidler oralt	Internal medicine, allergen provocation, foods, oral	high
+3104	Intern medicin, Allergivaccination 1. allergen	Internal medicine, allergy vaccination, 1st allergen	high
+3105	Intern medicin, Allergivaccination efterfølgende	Internal medicine, allergy vaccination, subsequent	high
+3106	Intern medicin, Arbejds-EKG *master* 18	Internal medicine, exercise ECG *master* 18	high
+3111	Intern medicin, Blod-Erytrocytter *volumenfraktion* 1	Internal medicine, blood erythrocytes *volume fraction* 1	high
+3112	Intern medicin, Blod-Glukose *ej Stix* 4	Internal medicine, blood glucose *not stix* 4	high
+3113	Intern medicin, Blod-Glukose *stix* 1	Internal medicine, blood glucose *stix* 1	high
+3115	Intern medicin, Blod-Leukocytter *park* 1	Internal medicine, blood leukocytes *park* 1	medium
+3117	Intern medicin, Blod-Trombocytter *park* 3	Internal medicine, blood platelets *park* 3	medium
+3120	Intern medicin, Blodprøve EKG i hjem 6	Internal medicine, blood sample and ECG at home 6	high
+3121	Intern medicin, Blodprøve *exp* 1	Internal medicine, blood sample *exp* 1	low
+3126	Intern medicin, Cøliakipakken amt 15	Internal medicine, coeliac panel (county 15)	medium
+3128	Intern medicin, Døgnpulsoxymetri	Internal medicine, 24-hour pulse oximetry	high
+3130	Intern medicin, EKG 12 afledninger	Internal medicine, 12-lead ECG	high
+3132	Intern medicin, EKG 3 ekstremitetsafledninger, 3 præcordiale afledninger, 9	Internal medicine, ECG 3 extremity leads, 3 precordial leads, 9	medium
+3137	Intern medicin, Funktionsprøve - dioxygen-absorption 15	Internal medicine, function test - oxygen absorption 15	low
+3142	Intern medicin, Knogletæthedsmåling, endokrinologisk	Internal medicine, bone density measurement, endocrinological	high
+3145	Intern medicin, Kontrol oesophagus, gaster, duodenum	Internal medicine, follow-up oesophagus, stomach, duodenum	high
+3146	Intern medicin, Kontrol sigmoideoskopi / koloskopi	Internal medicine, follow-up sigmoidoscopy / colonoscopy	high
+3156	Intern medicin, Oesophagus, gaster, duodenum	Internal medicine, oesophagus, stomach, duodenum	high
+3157	Intern medicin, Oscillometri 2 ekstremiteter 6	Internal medicine, oscillometry, 2 extremities 6	medium
+3158	Intern medicin, Oscillometri 4 ekstremiteter 10	Internal medicine, oscillometry, 4 extremities 10	medium
+3164	Intern medicin, Patient-EKG 3 ekstremitetsafledninger, 3 præcordiale afledninger, 9	Internal medicine, patient ECG 3 extremity leads, 3 precordial leads, 9	medium
+3166	Intern medicin, Patient-EKG afledninger 6 1	Internal medicine, patient ECG leads 6 1	low
+3176	Intern medicin, Sigmoideoskopi / koloskopi	Internal medicine, sigmoidoscopy / colonoscopy	high
+3180	Intern medicin, Telefonisk rådgivning fra praktiserende læge	Internal medicine, telephone advice from general practitioner	high
+3182	Intern medicin, Urin-bakterier, dyrkning, parkering 3	Internal medicine, urine bacteria, culture, parked 3	low
+3183	Intern medicin, Urin-bakterier, dyrkning, rest 12	Internal medicine, urine bacteria, culture, remainder 12	low
+3190	Intern medicin, Urin-sediment, parkering 6	Internal medicine, urine sediment, parked 6	low
+3191	Intern medicin, Udvidet lungefunktionsprøve	Internal medicine, extended pulmonary function test	high
+3192	Intern medicin, Ultralyd øvre abdomen	Internal medicine, ultrasound, upper abdomen	high
+3205	Almen Lægehjælp 80, Afregning af sygebesøg og møder (regional §2-aftale, Region Hovedstaden)	General practitioner, settlement of home visits and meetings (regional §2 agreement, Capital Region)	high
+3214	Almen Lægehjælp 80, Alvorligt syge og døende — i lægens konsultation (regional §2-aftale, Region Syddanmark)	General practitioner, seriously ill and dying — in the physician's consultation (regional §2 agreement, Region of Southern Denmark)	high
+3215	Almen Lægehjælp 80, Alvorligt syge og døende — via telefon per 10 minutter (regional §2-aftale, Region Syddanmark)	General practitioner, seriously ill and dying — by telephone per 10 minutes (regional §2 agreement, Region of Southern Denmark)	high
+3221	Almen Lægehjælp 80, EKG inklusive præcordiale afledninger (regional §2-aftale, Region Midtjylland)	General practitioner, ECG including precordial leads (regional §2 agreement, Central Denmark Region)	high
+3223	Almen Lægehjælp 80, Fokuseret somatisk undersøgelse til borgere med psykisk sygdom	General practitioner, focused somatic examination for citizens with mental illness	high
+3240	Almen Lægehjælp 80, Indkaldelse demensundersøgelse (regional §2-aftale, Region Hovedstaden)	General practitioner, summons for dementia examination (regional §2 agreement, Capital Region)	high
+3246	Almen Lægehjælp 80, Kørselsgodtgørelse per kørt kilometer (regional §2-aftale, Region Hovedstaden)	General practitioner, mileage allowance per kilometre driven (regional §2 agreement, Capital Region)	high
+3247	Almen Lægehjælp 80, Lægefaglig vurdering af patienter på kommunal akutfunktion/akutteam	General practitioner, medical assessment of patients at a municipal acute-care unit/acute team	high
+3249	Almen Lægehjælp 80, Medgået tidsforbrug for kørsel per påbegyndt 10. minut udover 15 kilometer (regional §2-aftale, Region Sjælland)	General practitioner, time spent on driving per commenced 10th minute beyond 15 kilometres (regional §2 agreement, Region Zealand)	high
+3257	Almen Lægehjælp 80, Opfølgning efter indlæggelse — i lægens konsultation (regional §2-aftale, Region Syddanmark)	General practitioner, follow-up after hospitalisation — in the physician's consultation (regional §2 agreement, Region of Southern Denmark)	high
+3258	Almen Lægehjælp 80, Opsøgende hjemmebesøg (skrøbelige ældre, normalt over 75 år) + tidsforbrugstillæg og eventuelt	General practitioner, outreach home visit (frail elderly, normally over 75 years) + time-expenditure supplement and possibly	high
+3259	Almen Lægehjælp 80, Planlægningsmøde (regional §2-aftale, Region Midtjylland)	General practitioner, planning meeting (regional §2 agreement, Central Denmark Region)	high
+3271	Almen Lægehjælp 80, Sundhedstjek til borgere på botilbud + tidsforbrugstillæg og eventuelt	General practitioner, health check for residents in supported-housing facilities + time-expenditure supplement and possibly	high
+3278	Almen Lægehjælp 80, Telefonisk henvendelse til/fra kommunernes Social- og Sundhedsforvaltninger til/fra lægen (regional §2-aftale, Region Sjælland)	General practitioner, telephone contact to/from the municipalities' Social and Health Administrations to/from the physician (regional §2 agreement, Region Zealand)	high
+3281	Almen Lægehjælp 80, Tidsforbrugstillæg 15 minutter (regional §2-aftale, Region Syddanmark)	General practitioner, time-expenditure supplement 15 minutes (regional §2 agreement, Region of Southern Denmark)	high
+3282	Almen Lægehjælp 80, Tidsforbrugstillæg 20 minutter (regional §2-aftale, Region Syddanmark)	General practitioner, time-expenditure supplement 20 minutes (regional §2 agreement, Region of Southern Denmark)	high
+3283	Almen Lægehjælp 80, Tidsforbrugstillæg 25 minutter (regional §2-aftale, Region Syddanmark)	General practitioner, time-expenditure supplement 25 minutes (regional §2 agreement, Region of Southern Denmark)	high
+3284	Almen Lægehjælp 80, Tidsforbrugstillæg 30 minutter (regional §2-aftale, Region Syddanmark)	General practitioner, time-expenditure supplement 30 minutes (regional §2 agreement, Region of Southern Denmark)	high
+3285	Almen Lægehjælp 80, Tidstillægsmodul (regional §2-aftale, Region Midtjylland)	General practitioner, time-supplement module (regional §2 agreement, Central Denmark Region)	high
+3286	Almen Lægehjælp 80, Tværsektoriel lægelig kommunikation (regional §2-aftale, Region Hovedstaden)	General practitioner, cross-sectoral medical communication (regional §2 agreement, Capital Region)	high
+3292	Almen Lægehjælp 80, Vaccination mod hepatitis B efter konkret anbefaling fra Styrelsen for Patientsikkerhed	General practitioner, vaccination against hepatitis B following a specific recommendation from the Danish Patient Safety Authority	high
+3294	Almen Lægehjælp 80, Video-/telekonference per påbegyndt 10 minutter (regional §2-aftale, Region Syddanmark)	General practitioner, video/teleconference per commenced 10 minutes (regional §2 agreement, Region of Southern Denmark)	high
+3297	Almen Lægehjælp 80, Årlig helbredsundersøgelse (regional §2-aftale, Region Hovedstaden)	General practitioner, annual health examination (regional §2 agreement, Capital Region)	high
+3299	Almen lægehjælp 80, §2-aftale Århus amtskommune	General practitioner, §2 agreement, Aarhus county municipality	medium
+3310	Almen lægehjælp 80, 1. orale poliovaccination	General practitioner, 1st oral polio vaccination	high
+3321	Almen lægehjælp 80, 2. orale poliovaccination	General practitioner, 2nd oral polio vaccination	high
+3325	Almen lægehjælp 80, 3 undersøgelser for blod i fæces 5	General practitioner, 3 tests for blood in faeces 5	medium
+3329	Almen lægehjælp 80, 3. orale poliovaccination	General practitioner, 3rd oral polio vaccination	high
+3340	Almen lægehjælp 80, Addition, Risikoestimering	General practitioner, add-on, risk estimation	medium
+3341	Almen lægehjælp 80, Afstandstakst over 10 kilometer	General practitioner, distance fee over 10 kilometres	high
+3342	Almen lægehjælp 80, Afstandstillæg over 20 kilometer	General practitioner, distance supplement over 20 kilometres	high
+3343	Almen lægehjælp 80, Afstandstillæg over 20 kilometer	General practitioner, distance supplement over 20 kilometres	high
+3358	Almen lægehjælp 80, Aftalekonsultation B050	General practitioner, scheduled consultation B050	medium
+3362	Almen lægehjælp 80, Alkoholsamtale §2/B080	General practitioner, alcohol counselling consultation (§2/B080)	medium
+3363	Almen lægehjælp 80, Allergiudredning i forbindelse med priktest	General practitioner, allergy work-up in connection with prick test	high
+3366	Almen lægehjælp 80, Anlæggelse af immobiliserende bandage	General practitioner, application of immobilising bandage	high
+3374	Almen lægehjælp 80, Audiometriundersøgelse 10	General practitioner, audiometry examination 10	medium
+3379	Almen lægehjælp 80, Blod-hæmoglobin (- fotometri)	General practitioner, blood haemoglobin (- photometry)	medium
+3380	Almen lægehjælp 80, Blod-hæmoglobin (uden fotometri) 1	General practitioner, blood haemoglobin (without photometry) 1	high
+3383	Almen lægehjælp 80, Basisk fosfatase	General practitioner, alkaline phosphatase	high
+3384	Almen lægehjælp 80, Basisydelse, §2-aftale (county 65)	General practitioner, basic service, §2 agreement (county 65)	medium
+3385	Almen lægehjælp 80, Basisydelse §2 (county 20)	General practitioner, basic service §2 (county 20)	medium
+3387	Almen lægehjælp 80, Besøg 1 dags varighed	General practitioner, visit of 1 day's duration	high
+3388	Almen lægehjælp 80, Besøg af uvis varighed	General practitioner, visit of unclear duration	low
+3389	Almen lægehjælp 80, Sygebesøg op til 4 km, plus eventuelt tillæg	General practitioner, home visit up to 4 km, plus any supplement	high
+3391	Almen lægehjælp 80, Sygebesøg fra 5 km til 8 km, plus eventuelt tillæg	General practitioner, home visit from 5 km to 8 km, plus any supplement	high
+3393	Almen lægehjælp 80, Sygebesøg fra 9 km til 12 km, plus eventuelt tillæg	General practitioner, home visit from 9 km to 12 km, plus any supplement	high
+3394	Almen lægehjælp 80, Sygebesøg fra 13 km til 16 km, plus eventuelt tillæg	General practitioner, home visit from 13 km to 16 km, plus any supplement	high
+3396	Almen lægehjælp 80, Sygebesøg fra 17 km til 20 km, plus eventuelt tillæg	General practitioner, home visit from 17 km to 20 km, plus any supplement	high
+3397	Almen lægehjælp 80, Sygebesøg fra 21 km, 5 km fra sygebesøgsstedet, plus eventuelt tillæg	General practitioner, home visit from 21 km, 5 km from the visit location, plus any supplement	medium
+3405	Almen lægehjælp 80, Biopsi med efterfølgende mikroskopisk undersøgelse	General practitioner, biopsy with subsequent microscopic examination	high
+3410	Almen lægehjælp 80, Blodprøve, central med videre	General practitioner, blood test, central etc.	medium
+3411	Almen lægehjælp 80, Blodprøve, central med videre	General practitioner, blood test, central etc.	medium
+3412	Almen lægehjælp 80, Blodprøvetagning (county 50)	General practitioner, blood sampling (county 50)	medium
+3413	Almen lægehjælp 80, Blodprøvetagning fra åre inklusive præparation og centrifugering per forsendelse	General practitioner, blood sampling from a vein including preparation and centrifugation per shipment	high
+3417	Almen lægehjælp 80, Børneundersøgelse, test	General practitioner, child examination, test	high
+3421	Almen lægehjælp 80, Dagtid, egen læge, København	General practitioner, daytime, own doctor, Copenhagen	high
+3422	Almen lægehjælp 80, Dagtid, anden læge, København	General practitioner, daytime, another doctor, Copenhagen	high
+3423	Almen lægehjælp 80, Deltagelse i forsøg	General practitioner, participation in a study	high
+3425	Almen lægehjælp 80, Demensudredning §2 (county 65)	General practitioner, dementia assessment, §2 (county 65)	medium
+3426	Almen lægehjælp 80, Demensudredning B080	General practitioner, dementia assessment B080	high
+3427	Almen lægehjælp 80, Demensundersøgelse, Københavns Kommune	General practitioner, dementia examination, Copenhagen Municipality	high
+3428	Almen lægehjælp 80, Demensundersøgelse (county 20)	General practitioner, dementia examination (county 20)	medium
+3434	Almen lægehjælp 80, Differential- og leukocyttælling	General practitioner, differential and leukocyte count	high
+3435	Almen lægehjælp 80, Differentialtælling 6	General practitioner, differential count 6	high
+3441	Almen lægehjælp 80, Elektrokardiografi eksklusive prækordialafledninger 6	General practitioner, electrocardiography excluding precordial leads 6	high
+3442	Almen lægehjælp 80, Elektrokardiografi inklusive prækordialafledninger 9	General practitioner, electrocardiography including precordial leads 9	high
+3444	Almen lægehjælp 80, Evaluering af graviditet (county 42)	General practitioner, pregnancy evaluation (county 42)	medium
+3447	Almen lægehjælp 80, Fjernelse af subkutane eller dybereliggende svulster inklusive	General practitioner, removal of subcutaneous or deeper-lying tumours, including	high
+3451	Almen lægehjælp 80, Folkeundersøgelse (county 60)	General practitioner, population screening (county 60)	medium
+3452	Almen lægehjælp 80, Forebyggende helbredssamtale	General practitioner, preventive health consultation	high
+3453	Almen lægehjælp 80, Forebyggende opfølgningsbesøg §2 (county 80)	General practitioner, preventive follow-up visit, §2 (county 80)	medium
+3454	Almen lægehjælp 80, Forebyggende hjemmebesøg (county 65)	General practitioner, preventive home visit (county 65)	medium
+3458	Almen lægehjælp 80, Forløbskontrol diabetes	General practitioner, diabetes course monitoring	high
+3460	Almen lægehjælp 80, Fra 4 indtil 8 km	General practitioner, from 4 up to 8 km	high
+3461	Almen lægehjælp 80, Fra 8 indtil 12 km	General practitioner, from 8 up to 12 km	high
+3462	Almen lægehjælp 80, Fredericia-forsøg	General practitioner, Fredericia study	high
+3464	Almen lægehjælp 80, Fjernelse af fremmedlegemer fra øje, øregang, næse og svælg med videre	General practitioner, removal of foreign bodies from the eye, ear canal, nose and throat, etc.	high
+3466	Almen lægehjælp 80, Fremstilling af digitalt billede	General practitioner, production of a digital image	high
+3468	Almen lægehjælp 80, Glukose-glukose addition (county 65)	General practitioner, glucose-glucose addition (county 65)	low
+3473	Almen lægehjælp 80, Hamiltons depression	General practitioner, Hamilton depression rating	high
+3474	Almen lægehjælp 80, Hepatitis B, stofmisbrugere, mænd der har sex med mænd	General practitioner, hepatitis B, drug users, men who have sex with men	high
+3475	Almen lægehjælp 80, Vaccination mod hepatitis B til børn under 2 år, som er født af en mor med kronisk hepatitis B	General practitioner, hepatitis B vaccination for children under 2 years born to a mother with chronic hepatitis B	high
+3478	Almen lægehjælp 80, Hepatitis B-vaccination eller A-B-vaccination til særlige risikogrupper (vaccine gives 3 gange)	General practitioner, hepatitis B vaccination or A-B vaccination for special risk groups (vaccine given 3 times)	medium
+3479	Almen lægehjælp 80, Hepatitis B-vaccination, hepatitis C-infektion	General practitioner, hepatitis B vaccination, hepatitis C infection	medium
+3480	Almen lægehjælp 80, Hepatitis B-vaccination, under 15 år	General practitioner, hepatitis B vaccination, under 15 years	high
+3482	Almen lægehjælp 80, Hepatitis B / Downs syndrom	General practitioner, hepatitis B / Down syndrome	medium
+3483	Almen lægehjælp 80, Hjemmeblodtryksmåling (county 35)	General practitioner, home blood pressure measurement (county 35)	medium
+3486	Almen lægehjælp 80, Hjemmeblodtryksmåling	General practitioner, home blood pressure measurement	high
+3488	Almen lægehjælp 80, Hormonundersøgelser 1	General practitioner, hormone tests 1	high
+3489	Almen lægehjælp 80, Hyppige lægevagtsbesøg (county 80)	General practitioner, frequent out-of-hours doctor visits (county 80)	medium
+3496	Almen lægehjælp 80, II. Mikroskopi, bakteriologisk og lignende	General practitioner, II. microscopy, bacteriological and similar	high
+3497	Almen lægehjælp 80, II. Mikroskopi, bakteriologisk og lignende 3	General practitioner, II. microscopy, bacteriological and similar 3	high
+3498	Almen lægehjælp 80, II. Mikroskopi, bakteriologisk og lignende	General practitioner, II. microscopy, bacteriological and similar	high
+3499	Almen lægehjælp 80, II. Svampe	General practitioner, II. fungi	high
+3500	Almen lægehjælp 80, II. Svampe (dyrkning) 3	General practitioner, II. Fungi (culture) 3	high
+3501	Almen lægehjælp 80, III. Andet	General practitioner, III. Other	high
+3502	Almen lægehjælp 80, III. Andet (dyrkning) 3	General practitioner, III. Other (culture) 3	high
+3503	Almen lægehjælp 80, III. Andet (mikroskopi) 3	General practitioner, III. Other (microscopy) 3	high
+3504	Almen lægehjælp 80, III. Mikroskopi af biopsi	General practitioner, III. Microscopy of biopsy	high
+3505	Almen lægehjælp 80, III. Mikroskopi af biopsi	General practitioner, III. Microscopy of biopsy	high
+3508	Almen lægehjælp 80, Indsamling af data, Fyns Amt	General practitioner, Data collection, Funen County	medium
+3509	Almen lægehjælp 80, Indtil 4 km	General practitioner, Up to 4 km	high
+3510	Almen lægehjælp 80, Influenzavaccination 65 år, hjemme	General practitioner, Influenza vaccination, age 65, at home	high
+3511	Almen lægehjælp 80, Influenzavaccination over 65 år	General practitioner, Influenza vaccination, over age 65	high
+3512	Almen lægehjælp 80, Indsættelse/udlevering væske/valiumadministration sygebesøg	General practitioner, Insertion/dispensing of fluid/valium administration, home visit	low
+3514	Almen lægehjælp 80, Jordemoderkonsultation	General practitioner, Midwife consultation	high
+3515	Almen lægehjælp 80, Kapillærresistensprøve 3	General practitioner, Capillary resistance test 3	high
+3518	Almen lægehjælp 80, Konsultation med klinisk diætist	General practitioner, Consultation with clinical dietitian	high
+3522	Almen lægehjælp 80, Konsultation 0-15 min	General practitioner, Consultation 0-15 min	high
+3525	Almen lægehjælp 80, Kostvejledning	General practitioner, Dietary counselling	high
+3526	Almen lægehjælp 80, Kroner per kilometer udover 21 km	General practitioner, Kroner per kilometre beyond 21 km	high
+3529	Almen lægehjælp 80, Kørselsgodtgørelse I	General practitioner, Mileage allowance I	high
+3540	Almen lægehjælp 80, Lungefunktion §2, amt 20	General practitioner, Lung function (§2, county 20)	medium
+3543	Almen lægehjælp 80, Lægehjælp 2502	General practitioner, Medical aid 2502	low
+3544	Almen lægehjælp 80, Lægehjælp 2201	General practitioner, Medical aid 2201	low
+3545	Almen lægehjælp 80, Længere enkeltkonsultation	General practitioner, Longer single consultation	high
+3546	Almen lægehjælp 80, Længerevarende sygebesøg, amt 60	General practitioner, Extended home visit (county 60)	medium
+3547	Almen lægehjælp 80, MFR-vaccination 1 år	General practitioner, MMR vaccination, age 1	high
+3564	Almen lægehjælp 80, MMSE-test, Frederiksberg Kommune	General practitioner, MMSE test, Frederiksberg Municipality	high
+3579	Almen lægehjælp 80, Møde udover 3 moduler	General practitioner, Meeting beyond 3 modules	high
+3580	Almen lægehjælp 80, Mødedeltagelse, amt 65	General practitioner, Meeting attendance (county 65)	medium
+3581	Almen lægehjælp 80, Nervesanatorier med videre	General practitioner, Nerve sanatoriums etc.	high
+3582	Almen lægehjælp 80, Næsetamponade med videre	General practitioner, Nasal tamponade etc.	high
+3585	Almen lægehjælp 80, Opfølgende helbredsundersøgelse, amt 80	General practitioner, Follow-up health examination (county 80)	medium
+3586	Almen lægehjælp 80, Opfølgende samtale i hjemmet	General practitioner, Follow-up consultation at home	high
+3587	Almen lægehjælp 80, Opfølgende samtale i konsultationen	General practitioner, Follow-up consultation in the surgery	high
+3588	Almen lægehjælp 80, Oplivningsforsøg	General practitioner, Resuscitation attempt	high
+3589	Almen lægehjælp 80, Opsøgende hjemmebesøg	General practitioner, Outreach home visit	high
+3591	Almen lægehjælp 80, Opsøgende virksomhed	General practitioner, Outreach activity	high
+3593	Almen lægehjælp 80, Orm. Ormeled i fæces 1	General practitioner, Worm. Worm segments in faeces 1	high
+3612	Almen lægehjælp 80, Polyfarmacipatient, amt 101	General practitioner, Polypharmacy patient (county 101)	medium
+3618	Almen lægehjælp 80, Præventionsjournalskema §2/amt 70	General practitioner, Contraception record form (§2, county 70)	medium
+3624	Almen lægehjælp 80, Reposition af paraphimosis	General practitioner, Reduction of paraphimosis	high
+3625	Almen lægehjælp 80, Røntgenundersøgelse §2-aftale	General practitioner, X-ray examination (§2 agreement)	medium
+3626	Almen lægehjælp 80, Samtalebehandling, 1 samtale	General practitioner, Talk therapy, 1 session	high
+3627	Almen lægehjælp 80, Samtalebehandling, 2 samtaler	General practitioner, Talk therapy, 2 sessions	high
+3628	Almen lægehjælp 80, Samtalebehandling, 3 samtaler	General practitioner, Talk therapy, 3 sessions	high
+3629	Almen lægehjælp 80, Samtalebehandling, 4 samtaler	General practitioner, Talk therapy, 4 sessions	high
+3630	Almen lægehjælp 80, Samtalebehandling, 40 min	General practitioner, Talk therapy, 40 min	high
+3631	Almen lægehjælp 80, Samtalebehandling, 5 samtaler	General practitioner, Talk therapy, 5 sessions	high
+3632	Almen lægehjælp 80, Samtalebehandling, 6 samtaler	General practitioner, Talk therapy, 6 sessions	high
+3633	Almen lægehjælp 80, Samtalebehandling, 7 samtaler	General practitioner, Talk therapy, 7 sessions	high
+3636	Almen lægehjælp 80, Samtaleterapiforløb	General practitioner, Talk therapy course	high
+3644	Almen lægehjælp 80, Sindslidende, 1. indlæggelse	General practitioner, Mentally ill, 1st admission	high
+3646	Almen lægehjælp 80, Sindslidende, tvangsindlæggelse	General practitioner, Mentally ill, involuntary admission	high
+3647	Almen lægehjælp 80, Skemaudfyldelse, tillæg, amt 65	General practitioner, Form completion, supplement (county 65)	medium
+3648	Almen lægehjælp 80, Skemaudfyldelse, diabetes	General practitioner, Form completion, diabetes	high
+3649	Almen lægehjælp 80, Socialmedicinsk samarbejde	General practitioner, Social-medical collaboration	high
+3650	Almen lægehjælp 80, Spermaundersøgelse, kontrol 5	General practitioner, Semen examination, control 5	high
+3651	Almen lægehjælp 80, Store udbredte læsioner	General practitioner, Large extensive lesions	high
+3652	Almen lægehjælp 80, Støtte til pårørende	General practitioner, Support for relatives	high
+3657	Almen lægehjælp 80, Systematisk screening	General practitioner, systematic screening	high
+3658	Almen lægehjælp 80, Sænkningsreaktion 2	General practitioner, erythrocyte sedimentation rate 2	high
+3659	Almen lægehjælp 80, Særkonsultation svangerskabsforebyggelse	General practitioner, special consultation, contraception	high
+3662	Almen lægehjælp 80, Tapning af væskesamling fra større led i terapeutisk øjemed – ikke i diagnostisk øjemed eller	General practitioner, aspiration of fluid collection from a larger joint for therapeutic purposes - not for diagnostic purposes, or	high
+3663	Almen lægehjælp 80, Honorar for telefonisk henvendelse til forældrene forud for MFR-vaccination	General practitioner, fee for telephone contact with the parents prior to MMR vaccination	high
+3664	Almen lægehjælp 80, Telefonkonsultation, amt 50	General practitioner, telephone consultation (county 50)	medium
+3669	Almen lægehjælp 80, Thrombin-målinger, amt 42	General practitioner, thrombin measurements (county 42)	medium
+3671	Almen lægehjælp 80, Tidstillæg	General practitioner, time supplement	high
+3680	Almen lægehjælp 80, Tillæg for tolkehonorar	General practitioner, supplement for interpreter fee	high
+3683	Almen lægehjælp 80, Tillæg ved kighostevaccination	General practitioner, supplement for whooping-cough vaccination	high
+3690	Almen lægehjælp 80, Telefonkonsultation med henvisning	General practitioner, telephone consultation with referral	high
+3692	Almen lægehjælp 80, Telefonkonsultation med besøg/konsultation	General practitioner, telephone consultation with visit/consultation	high
+3693	Almen lægehjælp 80, Telefonkonsultation uden besøg/konsultation	General practitioner, telephone consultation without visit/consultation	high
+3697	Almen lægehjælp 80, Tympanometri ved konsultation	General practitioner, tympanometry at consultation	high
+3702	Almen lægehjælp 80, Udfyldelse af dødsattest side 2 inklusive	General practitioner, completion of death certificate page 2, including	high
+3704	Almen lægehjælp 80, Udover 20 km	General practitioner, beyond 20 km	high
+3705	Almen lægehjælp 80, Udskrivningskonference	General practitioner, discharge conference	high
+3706	Almen lægehjælp 80, Udtagning af prøve af livmoder, -mund og -hals til cytologisk undersøgelse inklusive	General practitioner, taking of a sample from the uterus, cervix and cervical canal for cytological examination, including	high
+3710	Almen lægehjælp 80, Urin, blod med videre ved stiks 1	General practitioner, urine, blood etc. by dipstick 1	high
+3715	Almen lægehjælp 80, Urin til resistensbestemmelse 6	General practitioner, urine for resistance testing 6	high
+3726	Almen lægehjælp 80, Vaccination 2-10 år	General practitioner, vaccination, ages 2-10 years	high
+3727	Almen lægehjælp 80, Vaccination 11-12 år	General practitioner, vaccination, ages 11-12 years	high
+3728	Almen lægehjælp 80, Vaccination inden 2 år	General practitioner, vaccination before age 2 years	high
+3733	Almen lægehjælp 80, Vejledning og undersøgelse i forbindelse med anmodning om svangerskabsafbrydelse og/eller	General practitioner, counselling and examination in connection with a request for termination of pregnancy and/or	high
+3736	Almen lægehjælp 80, Vejledning om svangerskabsforebyggende metoder ved indlæggelse af spiral	General practitioner, counselling on contraceptive methods at insertion of an intrauterine device	high
+3737	Almen lægehjælp 80, Vejledning om svangerskabsforebyggende metoder herunder eventuelt p-piller	General practitioner, counselling on contraceptive methods including, where relevant, oral contraceptive pills	high
+3738	Almen lægehjælp 80, Venesektio tilrådet af hospital eller speciallæge samt ved livstruende tilstande	General practitioner, phlebotomy advised by hospital or specialist as well as in life-threatening conditions	high
+3741	Almen lægehjælp 80, aftalt diabeteskontrol	General practitioner, scheduled diabetes check-up	high
+3748	Almen lægehjælp 80, diagnostisk hjælp, psykiatrisk diagnose	General practitioner, diagnostic assistance, psychiatric diagnosis	high
+3750	Almen lægehjælp 80, fjernelse af ørevoks	General practitioner, removal of earwax	high
+3753	Almen lægehjælp 80, fødselshjælp	General practitioner, obstetric assistance (delivery)	high
+3754	Almen lægehjælp 80, hepatitisvaccination i daginstitution	General practitioner, hepatitis vaccination at day-care institution	high
+3756	Almen lægehjælp 80, konference allergispecialist, amt 50	General practitioner, conference with allergy specialist (county 50)	medium
+3764	Almen lægehjælp 80, nattevagtslæger afstand	General practitioner, night-shift doctors, distance	medium
+3766	Almen lægehjælp 80, pneumokokvaccination 12 måneder	General practitioner, pneumococcal vaccination, 12 months	high
+3768	Almen lægehjælp 80, pneumokokvaccination 5 måneder	General practitioner, pneumococcal vaccination, 5 months	high
+3769	Almen lægehjælp 80, Diagnostik, udredning og opfølgning ved anvendelse af fagligt anerkendte psykometriske test 6	General practitioner, diagnosis, work-up and follow-up using professionally recognised psychometric tests 6	high
+3770	Almen lægehjælp 80, psykometrisk test	General practitioner, psychometric test	high
+3772	Almen lægehjælp 80, telefonisk drøftelse, amt 50	General practitioner, telephone discussion (county 50)	medium
+3773	Almen lægehjælp 80, telefonkonsultation ved forløbsydelse diabetes	General practitioner, telephone consultation under the diabetes care-pathway service	high
+3782	Almen lægehjælp 80, vagtbreve B-vagt, amt 42	General practitioner, on-call notes, B-shift (county 42)	medium
+3786	Almen lægehjælp 80, §2-aftale akut 50	General practitioner, acute (§2 agreement, county 50)	medium
+3787	Almen lægehjælp 80, §2, amt 35, afstandstillæg	General practitioner, distance supplement (§2, county 35)	medium
+3789	Almen lægehjælp 80, ældreprojekt Skanderborg	General practitioner, elderly project, Skanderborg	high
+3790	Almen lægehjælp 80, årskontrol diabetes	General practitioner, annual diabetes check-up	high
+3792	Almen lægehjælp 80, årskontrol, diabetes, amt 20	General practitioner, annual diabetes check-up (county 20)	medium
+3796	KFA-vagtordning 81, Akutte tilfælde efter	KFA on-call service 81, acute cases, after	medium
+3797	KFA-vagtordning 81, Anlæggelse af immobiliserende bandage	KFA on-call service 81, application of an immobilising bandage	high
+3802	KFA-vagtordning 81, Brud af skinneben med videre	KFA on-call service 81, fracture of the shinbone (tibia) etc.	high
+3803	KFA-vagtordning 81, Elektrokardiografi eksklusive præcordiale 6	KFA on-call service 81, electrocardiography excluding precordial leads 6	high
+3806	KFA-vagtordning 81, Flere ved institutionsbesøg	KFA on-call service 81, several patients at an institution visit	medium
+3807	KFA-vagtordning 81, Fremmedlegeme i hud med videre	KFA on-call service 81, foreign body in the skin etc.	high
+3808	KFA-vagtordning 81, Fremmedlegeme i øjet med videre	KFA on-call service 81, foreign body in the eye etc.	high
+3810	KFA-vagtordning 81, Kørselsgodtgørelse i	KFA on-call service 81, mileage allowance, in	medium
+3817	KFA-vagtordning 81, Sindslidende 1. indlæggelse	KFA on-call service 81, mentally ill, 1st admission	high
+3818	KFA-vagtordning 81, Sindslidende genindlæggelse	KFA on-call service 81, mentally ill, re-admission	high
+3823	KFA-vagtordning 81, Udstedelse af dødsattest side 2	KFA on-call service 81, issuance of death certificate page 2	high
+3824	KFA-vagtordning 81, Urin Blod med videre ved Stix 1	KFA on-call service 81, urine, blood etc. by dipstick 1	high
+3826	KFA-vagtordning 81, lægehjælp ingen praksis	KFA on-call service 81, medical assistance, no practice	medium
+3830	KAK vagtlægehjælp 82, Afstandstakst over 10 km	KAK on-call GP 82, distance fee over 10 km	high
+3831	KAK vagtlægehjælp 82, Akutte Tilfælde Efter	KAK on-call GP 82, acute cases, subsequent	medium
+3832	KAK vagtlægehjælp 82, Andre Betydende Operationer	KAK on-call GP 82, other significant operations	high
+3833	KAK vagtlægehjælp 82, Anlæggelse Af Immobiliserende Bandage	KAK on-call GP 82, application of immobilising bandage	high
+3834	KAK vagtlægehjælp 82, Blod-glukose (fotometrisk) 4	KAK on-call GP 82, blood glucose (photometric) 4	high
+3841	KAK vagtlægehjælp 82, Elektrokardiografi eksklusive prækordiale afledninger 6	KAK on-call GP 82, electrocardiography excluding precordial leads 6	high
+3842	KAK vagtlægehjælp 82, Elektrokardiografi inklusive prækordiale afledninger 9	KAK on-call GP 82, electrocardiography including precordial leads 9	high
+3847	KAK vagtlægehjælp 82, Fremmedlegeme Hud med videre	KAK on-call GP 82, foreign body, skin etc.	high
+3848	KAK vagtlægehjælp 82, Fremmedlegeme øje med videre	KAK on-call GP 82, foreign body, eye etc.	high
+3850	KAK vagtlægehjælp 82, gruppe I Bakterier (dyrkning) 3	KAK on-call GP 82, group I bacteria (culture) 3	high
+3852	KAK vagtlægehjælp 82, Kørselsgodtgørelse I	KAK on-call GP 82, mileage allowance I	high
+3855	KAK vagtlægehjælp 82, Lungefunktion ved spirometri 3	KAK on-call GP 82, lung function by spirometry 3	high
+3861	KAK vagtlægehjælp 82, Reposition Store Led	KAK on-call GP 82, reduction of large joints	high
+3863	KAK vagtlægehjælp 82, Sindslidende 1. Indlæggelse	KAK on-call GP 82, mentally ill, 1st admission	high
+3864	KAK vagtlægehjælp 82, Sindslidende Genindlæggelse	KAK on-call GP 82, mentally ill, readmission	high
+3865	KAK vagtlægehjælp 82, Sindslidende Tvangsindlæggelse	KAK on-call GP 82, mentally ill, involuntary admission	high
+3866	KAK vagtlægehjælp 82, Svangerskabsreaktion, urinprøve 4	KAK on-call GP 82, pregnancy test, urine 4	medium
+3869	KAK vagtlægehjælp 82, Tillæg ingen praksis	KAK on-call GP 82, supplement, no practice	high
+3870	KAK vagtlægehjælp 82, Tillæg kvalificeret tolk	KAK on-call GP 82, supplement, qualified interpreter	high
+3872	KAK vagtlægehjælp 82, Telefonkonsultation med besøg/konsultation	KAK on-call GP 82, telephone consultation with visit/consultation	high
+3873	KAK vagtlægehjælp 82, Telefonkonsultation uden besøg/konsultation	KAK on-call GP 82, telephone consultation without visit/consultation	high
+3874	KAK vagtlægehjælp 82, Telefonkonsultation Med Recept	KAK on-call GP 82, telephone consultation with prescription	high
+3876	KAK vagtlægehjælp 82, Undersøgelse pacemaker	KAK on-call GP 82, pacemaker examination	high
+3877	KAK vagtlægehjælp 82, Urin Blod med videre ved Stix 1	KAK on-call GP 82, urine, blood etc. by dipstick 1	high
+3880	KAK vagtlægehjælp 82, fjernelse af svulster	KAK on-call GP 82, removal of tumours	high
+3891	Vagtlægehjælp 83, Afstandstakst over 10 km	On-call GP service 83, distance fee over 10 km	high
+3893	Vagtlægehjælp 83, Akutte Tilfælde Efter	On-call GP service 83, acute cases, subsequent	medium
+3895	Vagtlægehjælp 83, Andre Betydende Operationer	On-call GP service 83, other significant operations	high
+3896	Vagtlægehjælp 83, Anlæggelse Af Immobiliserende Bandage	On-call GP service 83, application of immobilising bandage	high
+3898	Vagtlægehjælp 83, Blod-glukose (fotometrisk) 4	On-call GP service 83, blood glucose (photometric) 4	high
+3906	Vagtlægehjælp 83, Besøg IV	On-call GP service 83, visit IV	high
+3913	Vagtlægehjælp 83, Elektrokardiografi eksklusive prækordiale afledninger 6	On-call GP service 83, electrocardiography excluding precordial leads 6	high
+3914	Vagtlægehjælp 83, Elektrokardiografi inklusive prækordiale afledninger 9	On-call GP service 83, electrocardiography including precordial leads 9	high
+3915	Vagtlægehjælp 83, Fjernelse af svulster	On-call GP service 83, removal of tumours	high
+3918	Vagtlægehjælp 83, Fremmedlegeme Hud/negl	On-call GP service 83, foreign body, skin/nail	high
+3919	Vagtlægehjælp 83, Fremmedlegeme øje med videre	On-call GP service 83, foreign body, eye etc.	high
+3922	Vagtlægehjælp 83, Honorar ved vagtordning på øer	On-call GP service 83, fee for on-call service on islands	high
+3923	Vagtlægehjælp 83, gruppe I Bakterier (dyrkning) 3	On-call GP service 83, group I bacteria (culture) 3	high
+3924	Vagtlægehjælp 83, gruppe I Urin (mikroskopi) 3	On-call GP service 83, group I urine (microscopy) 3	high
+3925	Vagtlægehjælp 83, gruppe III Andet (dyrkning) 3	On-call GP service 83, group III other (culture) 3	high
+3926	Vagtlægehjælp 83, Insufflation/udblæsning af væske/luft ad naturlig skanal	On-call GP service 83, insufflation/blowing-out of fluid/air via a natural channel	low
+3928	Vagtlægehjælp 83, Kørselsgodtgørelse I	On-call GP service 83, mileage allowance I	high
+3929	Vagtlægehjælp 83, Kørselsgodtgørelse II	On-call GP service 83, mileage allowance II	high
+3934	Vagtlægehjælp 83, Nervesanatorier med videre	On-call GP service 83, nerve sanatoria etc.	medium
+3935	Vagtlægehjælp 83, Næsetamponade med videre	On-call GP service 83, nasal packing etc.	high
+3939	Vagtlægehjælp 83, Receptfornyelse	On-call GP service 83, prescription renewal	high
+3940	Vagtlægehjælp 83, Reposition Store Led	On-call GP service 83, reduction of large joints	high
+3942	Vagtlægehjælp 83, Sindslidende 1. Indlæggelse	On-call GP service 83, mentally ill, 1st admission	high
+3943	Vagtlægehjælp 83, Sindslidende Genindlæggelse	On-call GP service 83, mentally ill, readmission	high
+3944	Vagtlægehjælp 83, Sindslidende Tvangsindlæggelse	On-call GP service 83, mentally ill, involuntary admission	high
+3945	Vagtlægehjælp 83, Store Udbredte Læsioner	On-call GP service 83, large extensive lesions	high
+3953	Vagtlægehjælp 83, Tillæg kvalificeret tolk	On-call GP service 83, supplement, qualified interpreter	high
+3955	Vagtlægehjælp 83, Telefonkonsultation Med Recept	On-call GP service 83, telephone consultation with prescription	high
+3957	Vagtlægehjælp 83, Undersøgelse pacemaker	On-call GP service 83, pacemaker examination	high
+3958	Vagtlægehjælp 83, Udfyldelse af dødsattest, side 2	On-call GP service 83, completion of death certificate, page 2	high
+743	Vagtlægehjælp 83, §2 A35 Afstandstillæg	On-call GP service 83, distance supplement (§2, county 35)	medium
+744	Kak vagtlægehjælp 84, Kørselsgodtgørelse I	KAK on-call GP 84, mileage allowance I	high
+745	Kak vagtlægehjælp 84, Telefonkonsultation med Recept	KAK on-call GP 84, telephone consultation with prescription	high
+746	Kak vagtlægehjælp 84, Urin, Blod med videre ved stix 1	KAK on-call GP 84, urine, blood etc. by dipstick 1	high
+747	Præhospital, 1. behandling brud	Pre-hospital, 1st treatment of fracture	high
+748	Præhospital, Afstandstakst over 10 km	Pre-hospital, distance fee over 10 km	high
+749	Præhospital, Anlæggelse af immobiliseringsbandage	Pre-hospital, application of immobilisation bandage	high
+750	Præhospital, Besøg IV	Pre-hospital, visit IV	high
+751	Præhospital, Kørselsgodtgørelse I	Pre-hospital, mileage allowance I	high
+752	Præhospital, Ligsyn og dødsattest A42	Pre-hospital, post-mortem examination and death certificate (county 42)	medium
+753	Præhospital, Psykisk førstehjælp	Pre-hospital, psychological first aid	high
+754	Præhospital, Reposition store led	Pre-hospital, reduction of large joints	high
+755	Præhospital, Store udbredte læsioner	Pre-hospital, large extensive lesions	high
+756	Præhospital, elektrokardiografi inklusive præcordialafledninger	Pre-hospital, electrocardiography including precordial leads	high
+757	KFA-vagtordning 89, Akutte Tilfælde Efter	KFA on-call service 89, acute cases after	medium
+758	KFA-vagtordning 89, Anlæggelse af immobiliseringsbandage	KFA on-call service 89, application of immobilisation bandage	high
+759	KFA-vagtordning 89, Fremmedlegeme Hud med videre	KFA on-call service 89, foreign body in skin etc.	high
+760	KFA-vagtordning 89, Fremmedlegeme øje med videre	KFA on-call service 89, foreign body in eye etc.	high
+761	KFA-vagtordning 89, Sindslidende 1. Indlæggelse	KFA on-call service 89, mentally ill, 1st admission	high
+762	KFA-vagtordning 89, Sindslidende Genindlæggelse	KFA on-call service 89, mentally ill, readmission	high
+763	KFA-vagtordning 89, Svangerskabsreaktion, urincytologi 4	KFA on-call service 89, pregnancy test, urine cytology 4	medium
+765	Kirurgi, 1. Konsultation med/operation med videre	Surgery, 1st consultation with/operation etc.	high
+766	Kirurgi, Amputation Finger 1.	Surgery, amputation of finger, 1st	high
+767	Kirurgi, Amputation Finger følgende	Surgery, amputation of finger, subsequent	high
+768	Kirurgi, Analoperation 1. anæstesi	Surgery, anal operation, 1st, with anaesthesia	high
+769	Kirurgi, Analoperation følgende anæstesi	Surgery, anal operation, subsequent, with anaesthesia	high
+770	Kirurgi, Behandling Brud 1.	Surgery, treatment of fracture, 1st	high
+771	Kirurgi, Blodprøve Eksploration 1	Surgery, blood sample, exploration 1	medium
+772	Kirurgi, Bougiebehandling Urethra 1. anæstesi	Surgery, bougie treatment of urethra, 1st, with anaesthesia	high
+773	Kirurgi, Bougiebehandling Urethra 1.	Surgery, bougie treatment of urethra, 1st	high
+774	Kirurgi, Bougiebehandling Urethra følgende	Surgery, bougie treatment of urethra, subsequent	high
+775	Kirurgi, Dopplerundersøgelse	Surgery, Doppler examination	high
+776	Kirurgi, Dopplerundersøgelse af vener	Surgery, Doppler examination of veins	high
+777	Kirurgi, Duplexscanning af åreknudepatient A25	Surgery, duplex scan of varicose vein patient (county 25)	medium
+778	Kirurgi, Duplexscanning af vener	Surgery, duplex scan of veins	high
+779	Kirurgi, Duplexscanning	Surgery, duplex scan	high
+781	Kirurgi, Fjernelse Svulst Bryst 1.	Surgery, removal of tumour from breast, 1st	high
+782	Kirurgi, Fjernelse Svulst Bryst følgende	Surgery, removal of tumour from breast, subsequent	high
+783	Kirurgi, Fjernelse byld på haleben	Surgery, removal of abscess on tailbone	high
+784	Kirurgi, Fjernelse polyp, rectum	Surgery, removal of polyp, rectum	high
+785	Kirurgi, Fjernelse Svulst Bryst følgende anæstesi	Surgery, removal of tumour from breast, subsequent, with anaesthesia	high
+786	Kirurgi, Fjernelse Svulst Hud 1. anæstesi	Surgery, removal of tumour from skin, 1st, with anaesthesia	high
+787	Kirurgi, Fjernelse Svulst Hud følgende anæstesi	Surgery, removal of tumour from skin, subsequent, with anaesthesia	high
+788	Kirurgi, Hæmoride Ligatur følgende anæstesi	Surgery, haemorrhoid ligation, subsequent, with anaesthesia	high
+790	Kirurgi, Hæmoride Ligaturbehandling 1.	Surgery, haemorrhoid ligation treatment, 1st	high
+791	Kirurgi, Hæmoride Ligaturbehandling følgende	Surgery, haemorrhoid ligation treatment, subsequent	high
+792	Kirurgi, Incision Absces følgende anæstesi	Surgery, incision of abscess, subsequent, with anaesthesia	high
+793	Kirurgi, Incision Cyste følgende anæstesi	Surgery, incision of cyst, subsequent, with anaesthesia	high
+794	Kirurgi, Indgreb Livmoder 1.	Surgery, procedure on uterus, 1st	high
+795	Kirurgi, Injektion Hæmoride følgende anæstesi	Surgery, injection of haemorrhoid, subsequent, with anaesthesia	high
+796	Kirurgi, injektion hæmorider 1.	Surgery, haemorrhoid injection, 1st	high
+798	Kirurgi, injektion hæmorider følgende	Surgery, haemorrhoid injection, subsequent	high
+799	Kirurgi, injektion åre 1. konsultation	Surgery, vein injection, 1st consultation	high
+800	Kirurgi, injektion åre senere konsultation	Surgery, vein injection, later consultation	high
+801	Kirurgi, kontrol sigmoideoskopi / koloskopi	Surgery, follow-up sigmoidoscopy / colonoscopy	high
+808	Kirurgi, operation åreknuder excision lyske højre	Surgery, varicose vein operation, excision, right groin	high
+809	Kirurgi, operation åreknuder i lyske højre, begge	Surgery, varicose vein operation in right groin, both	medium
+810	Kirurgi, operation forhudsforsnævring følgende	Surgery, foreskin stenosis operation, subsequent	high
+811	Kirurgi, operation seneknude følgende i anæstesi	Surgery, tendon ganglion operation, subsequent, with anaesthesia	high
+812	Kirurgi, operation springfinger 1. i anæstesi	Surgery, trigger finger operation, 1st, with anaesthesia	high
+813	Kirurgi, operation springfinger 1.	Surgery, trigger finger operation, 1st	high
+814	Kirurgi, operation åre lyske 1. i anæstesi	Surgery, vein operation, groin, 1st, with anaesthesia	high
+815	Kirurgi, operation åreknuder lyske 1.	Surgery, varicose vein operation, groin, 1st	high
+816	Kirurgi, operation åreknuder lyske følgende	Surgery, varicose vein operation, groin, subsequent	high
+818	Kirurgi, operation forhudsforsnævring 1. i anæstesi	Surgery, foreskin stenosis operation, 1st, with anaesthesia	high
+819	Kirurgi, operation forhudsforsnævring 1.	Surgery, foreskin stenosis operation, 1st	high
+822	Kirurgi, operation åreknuder følgende	Surgery, varicose vein operation, subsequent	high
+823	Kirurgi, operation brystudvikling	Surgery, breast development operation	medium
+824	Kirurgi, operation lyskebrok amt 35	Surgery, inguinal hernia operation (county 35)	medium
+825	Kirurgi, oscillometri *2 excision *6	Surgery, oscillometry *2 excision *6	medium
+826	Kirurgi, plastik operation følgende i anæstesi	Surgery, plastic operation, subsequent, with anaesthesia	high
+827	Kirurgi, plastik operation 1.	Surgery, plastic operation, 1st	high
+829	Kirurgi, plastik operation 1. i anæstesi	Surgery, plastic operation, 1st, with anaesthesia	high
+831	Kirurgi, rensning småsår følgende	Surgery, cleaning of minor wounds, subsequent	high
+832	Kirurgi, revision sår følgende i anæstesi	Surgery, wound revision, subsequent, with anaesthesia	high
+833	Kirurgi, rituel omskæring 2 (amt 13)	Surgery, ritual circumcision, 2 (county 13)	medium
+834	Kirurgi, sekret-gonokok *ekspedition *1	Surgery, secretion gonococcus *handling *1	medium
+835	Kirurgi, sigmoideoskopi / koloskopi	Surgery, sigmoidoscopy / colonoscopy	high
+836	Kirurgi, sterilisation af mand	Surgery, sterilisation of a man	high
+837	Kirurgi, tapning vandbrok 1. i anæstesi	Surgery, hydrocele aspiration, 1st, with anaesthesia	high
+838	Kirurgi, tapning i led følgende	Surgery, joint aspiration, subsequent	high
+839	Kirurgi, tapning i led 1. i anæstesi	Surgery, joint aspiration, 1st, with anaesthesia	high
+841	Kirurgi, tapning vandbrok følgende	Surgery, hydrocele aspiration, subsequent	high
+842	Kirurgi, telefonrådgivning praktiserende læge	Surgery, telephone advice from GP	high
+843	Kirurgi, tolk i forbindelse med konsultation 3	Surgery, interpreter in connection with consultation, 3	medium
+844	Kirurgi, tryk-flow undersøgelse	Surgery, pressure-flow examination	high
+845	Kirurgi, urin-bakteriologi *dyrkning rest *12	Surgery, urine bacteriology *culture, remainder *12	medium
+846	Kirurgi, ultralydsscanning øvre abdomen	Surgery, ultrasound scan of upper abdomen	high
+847	Kirurgi, fjernelse polyp colon	Surgery, removal of colon polyp	high
+2598	Ortonyxi, i hjem over 10 km.	Orthonyxia, in the home over 10 km	high
+3961	Vagtlægehjælp 83, urin, blod mv. ved stix 1	On-call GP service 83, urine, blood etc. by stix 1	high
+3968	Vagtlægehjælp 83, fjernelse af ørevoks	On-call GP service 83, removal of earwax	high
+3975	Vagtlægehjælp 83, §2.A35 afstandstillæg	On-call GP service 83, §2 distance supplement (county 35)	high
+3981	Kak vagtlægehjælp 84, kørselsgodtgørelse I	KAK on-call GP service 84, mileage allowance I	high
+3985	Kak vagtlægehjælp 84, telefonkonsultation med recept	KAK on-call GP service 84, telephone consultation with prescription	high
+3986	Kak vagtlægehjælp 84, urin, blod mv. ved stix 1	KAK on-call GP service 84, urine, blood etc. by stix 1	high
+3990	Præhospital, 1. behandling af brud	Pre-hospital, 1st treatment of fracture	high
+3991	Præhospital, afstandstakst over 10 km	Pre-hospital, distance rate over 10 km	high
+3993	Præhospital, anlæggelse af immobiliseringsbandage	Pre-hospital, application of immobilisation bandage	high
+3999	Præhospital, besøg IV	Pre-hospital, visit IV	high
+4006	Præhospital, kørselsgodtgørelse I	Pre-hospital, mileage allowance I	high
+4007	Præhospital, ligsyn og dødsattest, amt 42	Pre-hospital, post-mortem examination and death certificate (county 42)	high
+4011	Præhospital, psykisk førstehjælp	Pre-hospital, psychological first aid	high
+4012	Præhospital, reposition af store led	Pre-hospital, reduction of large joints	high
+4013	Præhospital, store udbredte læsioner	Pre-hospital, large widespread lesions	medium
+4016	Præhospital, elektrokardiogram inklusive prækordialafledninger	Pre-hospital, electrocardiogram including precordial leads	high
+4020	KFA-vagtordning 89, akutte tilfælde efter	KFA on-call service 89, acute cases following	medium
+4021	KFA-vagtordning 89, anlæggelse af immobiliseringsbandage	KFA on-call service 89, application of immobilisation bandage	high
+4028	KFA-vagtordning 89, fremmedlegeme hud mv.	KFA on-call service 89, foreign body skin etc.	high
+4029	KFA-vagtordning 89, fremmedlegeme øjne mv.	KFA on-call service 89, foreign body eyes etc.	high
+4036	KFA-vagtordning 89, sindslidende 1. indlæggelse	KFA on-call service 89, mentally ill 1st admission	high
+4037	KFA-vagtordning 89, sindslidende genindlæggelse	KFA on-call service 89, mentally ill readmission	high
+4038	KFA-vagtordning 89, svangerskabsreaktion, urinkoncentration 4	KFA on-call service 89, pregnancy test, urine concentration 4	medium
+4042	KFA-vagtordning 89, urin, blod mv. ved stix 1	KFA on-call service 89, urine, blood etc. by stix 1	high
+4045	Kirurgi, 1. konsultation med/operation mv.	Surgery, 1st consultation with/operation etc.	high
+4050	Kirurgi, amputation finger 1.	Surgery, finger amputation 1st	high
+4051	Kirurgi, amputation finger følgende	Surgery, finger amputation subsequent	high
+4052	Kirurgi, analoperation, 1., med anæstesi	Surgery, anal operation, 1st, with anaesthesia	high
+4053	Kirurgi, analoperation, følgende, med anæstesi	Surgery, anal operation, subsequent, with anaesthesia	high
+4059	Kirurgi, behandling af brud, 1.	Surgery, fracture treatment, 1st	high
+4062	Kirurgi, blodprøve, ekspres, 1	Surgery, blood sample, express, 1	low
+4063	Kirurgi, bougiebehandling af urethra (urinrør), 1., med anæstesi	Surgery, bougie treatment of urethra, 1st, with anaesthesia	high
+4064	Kirurgi, bougiebehandling af urethra (urinrør), 1.	Surgery, bougie treatment of urethra, 1st	high
+4065	Kirurgi, bougiebehandling af urethra (urinrør), følgende	Surgery, bougie treatment of urethra, subsequent	high
+4072	Kirurgi, dopplerundersøgelse	Surgery, Doppler examination	high
+4073	Kirurgi, dopplerundersøgelse af vener	Surgery, Doppler examination of veins	high
+4074	Kirurgi, duplexscanning af åreknudepatient (amt 25)	Surgery, duplex scan of varicose-vein patient (county 25)	medium
+4076	Kirurgi, duplexscanning af vener	Surgery, duplex scan of veins	high
+4077	Kirurgi, duplexscanning	Surgery, duplex scanning	high
+4080	Kirurgi, fjernelse af svulst i bryst, 1., med anæstesi	Surgery, removal of breast tumour, 1st, with anaesthesia	high
+4081	Kirurgi, fjernelse af svulst i bryst, 1.	Surgery, removal of breast tumour, 1st	high
+4082	Kirurgi, fjernelse af svulst i bryst, følgende	Surgery, removal of breast tumour, subsequent	high
+4083	Kirurgi, fjernelse af byld på haleben	Surgery, removal of abscess on coccyx	high
+4084	Kirurgi, fjernelse af polyp, rectum (endetarm)	Surgery, removal of polyp, rectum	high
+4085	Kirurgi, fjernelse af svulst i bryst, følgende, med anæstesi	Surgery, removal of breast tumour, subsequent, with anaesthesia	high
+4089	Kirurgi, fjernelse af svulst i hud, 1., med anæstesi	Surgery, removal of skin tumour, 1st, with anaesthesia	medium
+4090	Kirurgi, fjernelse af svulst i hud, følgende, med anæstesi	Surgery, removal of skin tumour, subsequent, with anaesthesia	medium
+4100	Kirurgi, hæmorroide-ligatur, følgende, med anæstesi	Surgery, haemorrhoid ligation, subsequent, with anaesthesia	high
+4101	Kirurgi, hæmorroide-ligatur, 1., med anæstesi	Surgery, haemorrhoid ligation, 1st, with anaesthesia	high
+4102	Kirurgi, hæmorroide-ligaturbehandling, 1.	Surgery, haemorrhoid ligation treatment, 1st	high
+4103	Kirurgi, hæmorroide-ligaturbehandling, følgende	Surgery, haemorrhoid ligation treatment, subsequent	high
+4104	Kirurgi, incision af absces (byld), følgende, med anæstesi	Surgery, incision of abscess, subsequent, with anaesthesia	high
+4105	Kirurgi, incision af cyste, følgende, med anæstesi	Surgery, incision of cyst, subsequent, with anaesthesia	high
+4112	Kirurgi, indgreb i livmoder, 1.	Surgery, procedure on uterus, 1st	high
+4113	Kirurgi, injektion af hæmorroider, følgende, med anæstesi	Surgery, injection of haemorrhoids, subsequent, with anaesthesia	high
+4114	Kirurgi, injektion hæmorroider 1.	Surgery, haemorrhoid injection, 1st	high
+4115	Kirurgi, injektion hæmorroider 1. med anæstesi	Surgery, haemorrhoid injection, 1st, with anaesthesia	high
+4116	Kirurgi, injektion hæmorroider følgende	Surgery, haemorrhoid injection, subsequent	high
+4117	Kirurgi, injektion åre 1. konsultation	Surgery, vein injection, 1st consultation	high
+4118	Kirurgi, injektion åre senere konsultation	Surgery, vein injection, later consultation	high
+4126	Kirurgi, kontrol sigmoideoskopi/koloskopi	Surgery, follow-up sigmoidoscopy/colonoscopy	high
+4127	Kirurgi, oesofago-gastro-duodenoskopi	Surgery, oesophago-gastro-duodenoscopy	high
+4128	Kirurgi, operation bullen finger følgende	Surgery, operation bullous finger, subsequent	low
+4130	Kirurgi, operation kontraktur håndflade 1. med anæstesi	Surgery, operation palm contracture, 1st, with anaesthesia	medium
+4131	Kirurgi, operation kontraktur håndflade 1.	Surgery, operation palm contracture, 1st	medium
+4133	Kirurgi, operation lyskebrok følgende med anæstesi	Surgery, inguinal hernia operation, subsequent, with anaesthesia	high
+4135	Kirurgi, operation lyskebrok med varicer følgende	Surgery, inguinal hernia operation with varicose veins, subsequent	medium
+4137	Kirurgi, operation åreknuder excision lyske højre	Surgery, varicose vein operation, excision groin, right	medium
+4139	Kirurgi, operation åreknuder i lyske højre bilateralt	Surgery, varicose vein operation in groin, right, bilateral	medium
+4141	Kirurgi, operation forhudsforsnævring følgende	Surgery, operation for phimosis (foreskin narrowing), subsequent	high
+4147	Kirurgi, operation seneknude følgende med anæstesi	Surgery, tendon nodule operation, subsequent, with anaesthesia	high
+4148	Kirurgi, operation springfinger 1. med anæstesi	Surgery, trigger finger operation, 1st, with anaesthesia	high
+4149	Kirurgi, operation springfinger 1.	Surgery, trigger finger operation, 1st	high
+4150	Kirurgi, operation åre lyske 1. med anæstesi	Surgery, vein operation, groin, 1st, with anaesthesia	high
+4151	Kirurgi, operation åreknuder lyske 1.	Surgery, varicose vein operation, groin, 1st	high
+4152	Kirurgi, operation åreknuder lyske følgende	Surgery, varicose vein operation, groin, subsequent	high
+4153	Kirurgi, operation bullen finger 1.	Surgery, operation bullous finger, 1st	low
+4154	Kirurgi, operation forhudsforsnævring 1. med anæstesi	Surgery, operation for phimosis (foreskin narrowing), 1st, with anaesthesia	high
+4155	Kirurgi, operation forhudsforsnævring 1.	Surgery, operation for phimosis (foreskin narrowing), 1st	high
+4156	Kirurgi, operation seneknude 1.	Surgery, tendon nodule operation, 1st	high
+4157	Kirurgi, operation springfinger følgende	Surgery, trigger finger operation, subsequent	high
+4160	Kirurgi, operation åreknuder følgende	Surgery, varicose vein operation, subsequent	high
+4162	Kirurgi, operation brystudvikling	Surgery, operation for breast development (gynaecomastia)	medium
+4163	Kirurgi, operation lyskebrok, amt 35	Surgery, inguinal hernia operation (county 35)	high
+4165	Kirurgi, oscillometri *2 Ex*6	Surgery, oscillometry *2 Ex*6	medium
+4166	Kirurgi, plastikoperation, følgende, med anæstesi	Surgery, plastic surgery, subsequent, with anaesthesia	high
+4167	Kirurgi, plastikoperation, 1.	Surgery, plastic surgery, 1st	high
+4168	Kirurgi, plastikoperation, følgende	Surgery, plastic surgery, subsequent	high
+4169	Kirurgi, plastikoperation, 1., med anæstesi	Surgery, plastic surgery, 1st, with anaesthesia	high
+4174	Kirurgi, rensning af småsår, 1.	Surgery, cleaning of minor wounds, 1st	high
+4175	Kirurgi, rensning af småsår, følgende	Surgery, cleaning of minor wounds, subsequent	high
+4180	Kirurgi, revision af sår, følgende, med anæstesi	Surgery, wound revision, subsequent, with anaesthesia	high
+4181	Kirurgi, rituel omskæring, 2, amt 13	Surgery, ritual circumcision, 2 (county 13)	medium
+4182	Kirurgi, sekret-gonokok *exp*1	Surgery, secretion gonococcus *exp*1	medium
+4186	Kirurgi, sigmoideoskopi / koloskopi	Surgery, sigmoidoscopy / colonoscopy	high
+4189	Kirurgi, sterilisation af mand	Surgery, sterilisation of a man (vasectomy)	high
+4190	Kirurgi, tapning af vandbrok, 1., med anæstesi	Surgery, drainage of hydrocele, 1st, with anaesthesia	high
+4191	Kirurgi, tapning i led, følgende	Surgery, joint aspiration, subsequent	high
+4192	Kirurgi, tapning i led, 1., med anæstesi	Surgery, joint aspiration, 1st, with anaesthesia	high
+4193	Kirurgi, tapning af vandbrok, 1.	Surgery, drainage of hydrocele, 1st	high
+4194	Kirurgi, tapning af vandbrok, følgende	Surgery, drainage of hydrocele, subsequent	high
+4198	Kirurgi, telefonrådgivning, praktiserende læge	Surgery, telephone advice, general practitioner	high
+4199	Kirurgi, tolk i forbindelse med konsultation, 3	Surgery, interpreter in connection with consultation, 3	high
+4202	Kirurgi, tryk-flow-undersøgelse	Surgery, pressure-flow study	high
+4203	Kirurgi, urin-bakteriologi *dyrkning, rest*12	Surgery, urine bacteriology *culture, remainder*12	medium
+4208	Kirurgi, ultralydsscanning af øvre abdomen	Surgery, ultrasound scan of the upper abdomen	high
+4217	Kirurgi, fjernelse af polyp, colon	Surgery, removal of polyp, colon	high
+4224	Kirurgi, sigmoideoskopi, amt 35	Surgery, sigmoidoscopy (county 35)	high

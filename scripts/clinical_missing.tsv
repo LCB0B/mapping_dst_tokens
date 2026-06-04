@@ -1,0 +1,110 @@
+idx	id	description_da	specialty_en	auto_da_full
+0	2598	Ortonyxi, I Hjem Over 10 Km.	Orthonyxia	Ortonyxi, i Hjem Over 10 Km.
+1	3961	Vagtlægehjælp 83, Urin Blod Mv V.Stix1	On-call GP service 83	Vagtlægehjælp 83, Urin Blod Mv V.Stix1
+2	3968	Vagtlægehjælp 83, fj. ørevoks	On-call GP service 83	Vagtlægehjælp 83, fj. ørevoks
+3	3975	Vagtlægehjælp 83, ¤2.A35Afstandstillæg	On-call GP service 83	Vagtlægehjælp 83, ¤2.A35Afstandstillæg
+4	3981	Kak vagtlægehjælp 84, Kørselsgodtgør.  I	KAK on-call GP 84	Kak vagtlægehjælp 84, Kørselsgodtgør.  i
+5	3985	Kak vagtlægehjælp 84, Tlfkons. M. Recept	KAK on-call GP 84	Kak vagtlægehjælp 84, Tlfkons. med Recept
+6	3986	Kak vagtlægehjælp 84, Urin Blod Mv V.Stix1	KAK on-call GP 84	Kak vagtlægehjælp 84, Urin Blod Mv V.Stix1
+7	3990	Præhospital, 1. behan. brud	Pre-hospital	Præhospital, 1. behan. brud
+8	3991	Præhospital, Afst.takst ov. 10 km	Pre-hospital	Præhospital, Afst.takst ov. 10 km
+9	3993	Præhospital, Anlæg. af im.bandage	Pre-hospital	Præhospital, Anlæg. af im.bandage
+10	3999	Præhospital, Besøg IV	Pre-hospital	Præhospital, Besøg IV
+11	4006	Præhospital, Kørselsgodtgør. I	Pre-hospital	Præhospital, Kørselsgodtgør. i
+12	4007	Præhospital, Ligsyn og dødsat.A42	Pre-hospital	Præhospital, Ligsyn og dødsat.A42
+13	4011	Præhospital, Psykisk førstehjælp	Pre-hospital	Præhospital, Psykisk førstehjælp
+14	4012	Præhospital, Repos. store led	Pre-hospital	Præhospital, Repos. store led
+15	4013	Præhospital, St. udbr. læsioner	Pre-hospital	Præhospital, St. udbr. læsioner
+16	4016	Præhospital, el.kardiogr. inkl. præcordialafl.	Pre-hospital	Præhospital, el.kardiogr. inkl. præcordialafl.
+17	4020	KFA-vagtordning 89, Akutte Tilfælde Ef	KFA on-call service 89	KFA-vagtordning 89, Akutte Tilfælde Ef
+18	4021	KFA-vagtordning 89, Anlæg. Af Im.Bandage	KFA on-call service 89	KFA-vagtordning 89, Anlæg. af Im.Bandage
+19	4028	KFA-vagtordning 89, Fremmedlegeme Hud Mv	KFA on-call service 89	KFA-vagtordning 89, Fremmedlegeme Hud Mv
+20	4029	KFA-vagtordning 89, Fremmedlegeme øj. Mv	KFA on-call service 89	KFA-vagtordning 89, Fremmedlegeme øj. Mv
+21	4036	KFA-vagtordning 89, Sindslid. 1. Indlæg	KFA on-call service 89	KFA-vagtordning 89, Sindslid. 1. Indlæg
+22	4037	KFA-vagtordning 89, Sindslid. Genindlæg	KFA on-call service 89	KFA-vagtordning 89, Sindslid. Genindlæg
+23	4038	KFA-vagtordning 89, Svang.reak.,urinc. 4	KFA on-call service 89	KFA-vagtordning 89, svangre reak,urinc. 4
+24	4042	KFA-vagtordning 89, Urin Blod Mv V.stix1	KFA on-call service 89	KFA-vagtordning 89, Urin Blod Mv V.stix1
+25	4045	Kirurgi, 1. Kons. M/operat.Mv	Surgery	Kirurgi, 1. konsultation med/operation Mv
+26	4050	Kirurgi, Amputat. Finger   1.	Surgery	Kirurgi, Amputat. Finger   1.
+27	4051	Kirurgi, Amputat. Finger Flg.	Surgery	Kirurgi, Amputat. Finger følgende
+28	4052	Kirurgi, Analoperat. 1. An.	Surgery	Kirurgi, Analoperat. 1. anæstesi
+29	4053	Kirurgi, Analoperation. Fg.An	Surgery	Kirurgi, Analoperation. Fg anæstesi
+30	4059	Kirurgi, Behandl. Brud 1.	Surgery	Kirurgi, Behandl. Brud 1.
+31	4062	Kirurgi, Blodpr. Exp        1	Surgery	Kirurgi, Blodpr. Exp        1
+32	4063	Kirurgi, Bougiebeh. Uret.1.An	Surgery	Kirurgi, Bougiebeh. Uret 1 anæstesi
+33	4064	Kirurgi, Bougiebeh. Ureth. 1.	Surgery	Kirurgi, Bougiebeh. Ureth. 1.
+34	4065	Kirurgi, Bougiebeh. Ureth.Flg	Surgery	Kirurgi, Bougiebeh. Ureth følgende
+35	4072	Kirurgi, Dopplerundersøgelse	Surgery	Kirurgi, Dopplerundersøgelse
+36	4073	Kirurgi, Dopplerus. af vener	Surgery	Kirurgi, Dopplerus. af vener
+37	4074	Kirurgi, Du-Sc af årekpat.A25	Surgery	Kirurgi, Du-Sc af årekpat.A25
+38	4076	Kirurgi, Duplexscan. af vener	Surgery	Kirurgi, Duplexscan. af vener
+39	4077	Kirurgi, Duplexscanning	Surgery	Kirurgi, Duplexscanning
+40	4080	Kirurgi, Fj. Svulst Bry. 1.An	Surgery	Kirurgi, Fj. Svulst Bry. 1 anæstesi
+41	4081	Kirurgi, Fj. Svulst Bryst  1.	Surgery	Kirurgi, Fj. Svulst Bryst  1.
+42	4082	Kirurgi, Fj. Svulst Bryst Flg	Surgery	Kirurgi, Fj. Svulst Bryst følgende
+43	4083	Kirurgi, Fj. byld på haleben	Surgery	Kirurgi, Fj. byld på haleben
+44	4084	Kirurgi, Fj. polyp, rectum	Surgery	Kirurgi, Fj. polyp, rectum
+45	4085	Kirurgi, Fj.Svulst Bry. Fg.An	Surgery	Kirurgi, Fj.Svulst Bry. Fg anæstesi
+46	4089	Kirurgi, Fjer. Svulst H. 1.An	Surgery	Kirurgi, Fjer. Svulst H. 1 anæstesi
+47	4090	Kirurgi, Fjer.Svulst H. Fg.An	Surgery	Kirurgi, Fjer.Svulst H. Fg anæstesi
+48	4100	Kirurgi, Hæmor. Ligatur Fg.An	Surgery	Kirurgi, Hæmor. Ligatur Fg anæstesi
+49	4101	Kirurgi, Hæmorr. Ligatur.1.An	Surgery	Kirurgi, Hæmorr. Ligatur 1 anæstesi
+50	4102	Kirurgi, Hæmorr. Ligaturb. 1.	Surgery	Kirurgi, Hæmorr. Ligaturb. 1.
+51	4103	Kirurgi, Hæmorr. Ligaturb.Flg	Surgery	Kirurgi, Hæmorr. Ligaturb følgende
+52	4104	Kirurgi, Incis. Absces Fg. An	Surgery	Kirurgi, Incis. Absces Fg. anæstesi
+53	4105	Kirurgi, Incis. Cyste Flg An.	Surgery	Kirurgi, Incis. Cyste følgende anæstesi
+54	4112	Kirurgi, Indgreb Livmoder. 1.	Surgery	Kirurgi, Indgreb Livmoder. 1.
+55	4113	Kirurgi, Injekt. Hæmor. Fg.An	Surgery	Kirurgi, Injekt. Hæmor. Fg anæstesi
+56	4114	Kirurgi, Injekt. Hæmorr.   1.	Surgery	Kirurgi, Injekt. Hæmorr.   1.
+57	4115	Kirurgi, Injekt. Hæmorr. 1.An	Surgery	Kirurgi, Injekt. Hæmorr. 1 anæstesi
+58	4116	Kirurgi, Injekt. Hæmorr. Flg.	Surgery	Kirurgi, Injekt. Hæmorr. følgende
+59	4117	Kirurgi, Injekt. åre 1.Kons.	Surgery	Kirurgi, Injekt. åre 1 konsultation
+60	4118	Kirurgi, Injekt. åre Sen.Kons	Surgery	Kirurgi, Injekt. åre Sen konsultation
+61	4126	Kirurgi, Kontrol Sigmoi/ Col.	Surgery	Kirurgi, Kontrol Sigmoi/ Col.
+62	4127	Kirurgi, Oeso. Gast.     Duo.	Surgery	Kirurgi, Oeso. Gast.     Duo.
+63	4128	Kirurgi, Op. Bullen Fing. Flg	Surgery	Kirurgi, operation Bullen Fing. følgende
+64	4130	Kirurgi, Op. Kon. Håndf. 1.An	Surgery	Kirurgi, operation Kon. Håndf. 1 anæstesi
+65	4131	Kirurgi, Op. Kont. Håndfl. 1.	Surgery	Kirurgi, operation kontrol Håndfl. 1.
+66	4133	Kirurgi, Op. Lyskebrok Fg. An	Surgery	Kirurgi, operation Lyskebrok Fg. anæstesi
+67	4135	Kirurgi, Op. Lyskebrok M.V.Fg	Surgery	Kirurgi, operation Lyskebrok med V Fg
+68	4137	Kirurgi, Op.årekn.ex.lysk.hø	Surgery	Kirurgi, operation årekn ex lysk hø
+69	4139	Kirurgi, Op.årekn.i lysk.hø.b	Surgery	Kirurgi, operation årekn i lysk.hø.b
+70	4141	Kirurgi, Ope. Forhudsfor. Flg	Surgery	Kirurgi, operation Forhudsfor. følgende
+71	4147	Kirurgi, Ope. Seneknude Fg.An	Surgery	Kirurgi, operation Seneknude Fg anæstesi
+72	4148	Kirurgi, Ope. Springf. 1. An.	Surgery	Kirurgi, operation Springf. 1. anæstesi
+73	4149	Kirurgi, Ope. Springfinger 1.	Surgery	Kirurgi, operation Springfinger 1.
+74	4150	Kirurgi, Ope. åre. Lyske 1.An	Surgery	Kirurgi, operation åre. Lyske 1 anæstesi
+75	4151	Kirurgi, Ope. årekn. Lyske 1.	Surgery	Kirurgi, operation årekn. Lyske 1.
+76	4152	Kirurgi, Ope. årekn. Lyske Fg	Surgery	Kirurgi, operation årekn. Lyske Fg
+77	4153	Kirurgi, Oper. Bullen Fing.1.	Surgery	Kirurgi, Oper. Bullen Fing.1.
+78	4154	Kirurgi, Oper. Forhudsf. 1.An	Surgery	Kirurgi, Oper. Forhudsf. 1 anæstesi
+79	4155	Kirurgi, Oper. Forhudsfors.1.	Surgery	Kirurgi, Oper. Forhudsfors.1.
+80	4156	Kirurgi, Oper. Seneknude   1.	Surgery	Kirurgi, Oper. Seneknude   1.
+81	4157	Kirurgi, Oper. Springf. Flg.	Surgery	Kirurgi, Oper. Springf. følgende
+82	4160	Kirurgi, Operat. åreknud. Flg	Surgery	Kirurgi, operation åreknud. følgende
+83	4162	Kirurgi, Opr. brystudvikling	Surgery	Kirurgi, Opr. brystudvikling
+84	4163	Kirurgi, Opr. lyskebrok amt35	Surgery	Kirurgi, Opr. lyskebrok amt35
+85	4165	Kirurgi, Oscillometri *2 Ex*6	Surgery	Kirurgi, Oscillometri *2 Ex*6
+86	4166	Kirurgi, Plast. Oper. Flg. An	Surgery	Kirurgi, Plast. Oper. følgende anæstesi
+87	4167	Kirurgi, Plast. Operat.    1.	Surgery	Kirurgi, Plast. operation    1.
+88	4168	Kirurgi, Plast. Operat.  Flg.	Surgery	Kirurgi, Plast. operation  følgende
+89	4169	Kirurgi, Plast. Operat. 1. An	Surgery	Kirurgi, Plast. operation 1. anæstesi
+90	4174	Kirurgi, Rensning Småsår   1.	Surgery	Kirurgi, Rensning Småsår   1.
+91	4175	Kirurgi, Rensning Småsår Flg.	Surgery	Kirurgi, Rensning Småsår følgende
+92	4180	Kirurgi, Revision Sår Fg. An	Surgery	Kirurgi, Revision Sår Fg. anæstesi
+93	4181	Kirurgi, Ritu. omskær.  2 A13	Surgery	Kirurgi, Ritu. omskær.  2 A13
+94	4182	Kirurgi, Sekret-Gonokok*exp*1	Surgery	Kirurgi, Sekret-Gonokok*exp*1
+95	4186	Kirurgi, Sigmoideo./ Colosco.	Surgery	Kirurgi, Sigmoideo./ Colosco.
+96	4189	Kirurgi, Sterilisat. af mand	Surgery	Kirurgi, Sterilisat. af mand
+97	4190	Kirurgi, Tapn. Vandbrok 1. An	Surgery	Kirurgi, Tapn. Vandbrok 1. anæstesi
+98	4191	Kirurgi, Tapn. i Led     Flg.	Surgery	Kirurgi, Tapn. i led     følgende
+99	4192	Kirurgi, Tapn. i Led 1. An.	Surgery	Kirurgi, Tapn. i led 1. anæstesi
+100	4193	Kirurgi, Tapning Vandbrok  1.	Surgery	Kirurgi, Tapning Vandbrok  1.
+101	4194	Kirurgi, Tapning Vandbrok Flg	Surgery	Kirurgi, Tapning Vandbrok følgende
+102	4198	Kirurgi, Tlf.rådg.prakt.læge	Surgery	Kirurgi, telefon rådg prakt læge
+103	4199	Kirurgi, Tolk ifm. kons.  3	Surgery	Kirurgi, Tolk ifm. konsultation  3
+104	4202	Kirurgi, Tryk-flow undersøg.	Surgery	Kirurgi, Tryk-flow undersøg.
+105	4203	Kirurgi, U-Bakt.*dyrk Rest*12	Surgery	Kirurgi, U-Bakt.*dyrk Rest*12
+106	4208	Kirurgi, Ultralyd.sc.øv.abdom	Surgery	Kirurgi, Ultralyd.sc.øv.abdom
+107	4217	Kirurgi, fj. polyp. colon	Surgery	Kirurgi, fj. polyp. colon
+108	4224	Kirurgi, sigmo. a35	Surgery	Kirurgi, sigmo. a35

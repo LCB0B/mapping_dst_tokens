@@ -84,7 +84,7 @@ def main():
         r["description_en"] = en
         r[NEWCOL] = da_full
         r["description_en_source"] = "opus-4-8-medical"
-        r["confidence_level"] = "medium" if conf == "high" else "low"
+        r["confidence_level"] = "low" if conf == "low" else "medium"
         n += 1
         if conf != "high":
             nlow += 1

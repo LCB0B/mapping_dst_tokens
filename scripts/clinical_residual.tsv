@@ -1,0 +1,850 @@
+idx	id	description_da	specialty_en	auto_da_full
+0	498	Ørelægehjælp, Tubulat. Trommehinde	ENT service	Ørelægehjælp, Tubulat. Trommehinde
+1	499	Ørelægehjælp, Tubulation af kæbeh.	ENT service	Ørelægehjælp, Tubulation af kæbeh.
+2	500	Ørelægehjælp, Udlev. og instrukt.	ENT service	Ørelægehjælp, Udlev. og instrukt.
+3	502	Ørelægehjælp, Ultralydsus. bihuler	ENT service	Ørelægehjælp, Ultralydsus. bihuler
+4	503	Ørelægehjælp, Und. af hør. v. t/s	ENT service	Ørelægehjælp, undersøgelse af hør. v. til/s
+5	504	Ørelægehjælp, Und. af ligev. ved k	ENT service	Ørelægehjælp, undersøgelse af ligev. ved k
+6	505	Ørelægehjælp, Unders. Spiserør Mv.	ENT service	Ørelægehjælp, Unders. Spiserør Mv.
+7	506	Ørelægehjælp, Unds. af hyp&larynx	ENT service	Ørelægehjælp, Unds. af hyp&larynx
+8	507	Ørelægehjælp, Us. hypoph. larynx	ENT service	Ørelægehjælp, undersøgelse hypoph. larynx
+9	509	Ørelægehjælp, fj. fremmedlegeme	ENT service	Ørelægehjælp, fj. fremmedlegeme
+10	511	Ørelægehjælp, tlf.rådg.prakt.læge	ENT service	Ørelægehjælp, telefon rådg prakt læge
+11	515	Ørelægehjælp, ¯reprop/skaltilp. ¤3	ENT service	Ørelægehjælp, øreprop/skaltilp. ¤3
+12	516	Patologi, Immunhistokemisk præ	Pathology	Patologi, Immunhistokemisk præ
+13	519	Patologi, Vævsmikroskopi Cyto.	Pathology	Patologi, Vævsmikroskopi Cyto.
+14	531	Plastikkirurgi, Flytn. Af Hud     1.	Plastic surgery	Plastikkirurgi, Flytn. af Hud     1.
+15	532	Plastikkirurgi, Flytn. Af Hud   Flg.	Plastic surgery	Plastikkirurgi, Flytn. af Hud   følgende
+16	533	Plastikkirurgi, Indsætt. Allopla. 1.	Plastic surgery	Plastikkirurgi, Indsætt. Allopla. 1.
+17	535	Plastikkirurgi, Korr. Næse- ¯re. Flg	Plastic surgery	Plastikkirurgi, Korr. Næse- øre. følgende
+18	536	Plastikkirurgi, Korr. Næse- øre.  1.	Plastic surgery	Plastikkirurgi, Korr. Næse- øre.  1.
+19	539	Plastikkirurgi, Ope. Forhudsfor. Flg	Plastic surgery	Plastikkirurgi, operation Forhudsfor. følgende
+20	540	Plastikkirurgi, Oper. Forhudsfors.1.	Plastic surgery	Plastikkirurgi, Oper. Forhudsfors.1.
+21	541	Plastikkirurgi, Oper. Hudkræft    1.	Plastic surgery	Plastikkirurgi, Oper. Hudkræft    1.
+22	542	Plastikkirurgi, Oper. Hudkræft  Flg.	Plastic surgery	Plastikkirurgi, Oper. Hudkræft  følgende
+23	547	Plastikkirurgi, Tlf.rådg.prakt.læge	Plastic surgery	Plastikkirurgi, telefon rådg prakt læge
+24	555	Psykiatri, B-Erytrocyt*volfrk.1	Psychiatry	Psykiatri, B-Erytrocyt*volfrk.1
+25	556	Psykiatri, B-Glukose *ej Stix*4	Psychiatry	Psykiatri, B-Glukose *ej Stix*4
+26	557	Psykiatri, B-Glukose *stix*   1	Psychiatry	Psykiatri, B-Glukose *stix*   1
+27	559	Psykiatri, B-Leukocyt. *park* 1	Psychiatry	Psykiatri, B-Leukocyt. *park* 1
+28	561	Psykiatri, B-Trombocyt. *park*3	Psychiatry	Psykiatri, B-Trombocyt. *park*3
+29	564	Psykiatri, Fam.-og Gruppeterap.	Psychiatry	Psykiatri, Fam.-og Gruppeterap.
+30	567	Psykiatri, Kørselsgodtgør.  I	Psychiatry	Psykiatri, Kørselsgodtgør.  i
+31	570	Psykiatri, Pt-Ekg  3ext.3præ. 9	Psychiatry	Psykiatri, Pt-Ekg  3ext.3præ. 9
+32	580	Psykiatri, Tlf.rådg.prakt.læge	Psychiatry	Psykiatri, telefon rådg prakt læge
+33	581	Psykiatri, Tolk ifm. kons.  3	Psychiatry	Psykiatri, Tolk ifm. konsultation  3
+34	582	Psykiatri, gruppeterapi 2 pers.	Psychiatry	Psykiatri, gruppeterapi 2 pers.
+35	583	Psykiatri, gruppeterapi 3 pers.	Psychiatry	Psykiatri, gruppeterapi 3 pers.
+36	584	Psykiatri, gruppeterapi 4 pers.	Psychiatry	Psykiatri, gruppeterapi 4 pers.
+37	585	Psykiatri, gruppeterapi 5 pers.	Psychiatry	Psykiatri, gruppeterapi 5 pers.
+38	586	Psykiatri, gruppeterapi 6 pers.	Psychiatry	Psykiatri, gruppeterapi 6 pers.
+39	593	Pædiatri, 1. kons. all.  3A35	Paediatrics	Pædiatri, 1. konsultation all.  3A35
+40	597	Pædiatri, 2. kons. all.  3A35	Paediatrics	Pædiatri, 2. konsultation all.  3A35
+41	600	Pædiatri, Allerg. Cutanprøve	Paediatrics	Pædiatri, Allerg. Cutanprøve
+42	601	Pædiatri, Allerg. Prov.Forsøg	Paediatrics	Pædiatri, Allerg. Prov.Forsøg
+43	602	Pædiatri, Analafskr-Oxyurisæg2	Paediatrics	Pædiatri, Analafskr-Oxyurisæg2
+44	605	Pædiatri, B-Glukose *ej Stix*4	Paediatrics	Pædiatri, B-Glukose *ej Stix*4
+45	606	Pædiatri, B-Glukose *stix*   1	Paediatrics	Pædiatri, B-Glukose *stix*   1
+46	609	Pædiatri, B-Leukocyt. *park* 1	Paediatrics	Pædiatri, B-Leukocyt. *park* 1
+47	611	Pædiatri, B-Trombocyt. *park*3	Paediatrics	Pædiatri, B-Trombocyt. *park*3
+48	613	Pædiatri, Blodpr. Exp        1	Paediatrics	Pædiatri, Blodpr. Exp        1
+49	614	Pædiatri, Cutanprøve all. 3A35	Paediatrics	Pædiatri, Cutanprøve all. 3A35
+50	616	Pædiatri, Ekg  3 Ext. 3 Præ. 9	Paediatrics	Pædiatri, Ekg  3 Ext. 3 Præ. 9
+51	625	Pædiatri, Lungefktus. med rev	Paediatrics	Pædiatri, Lungefktus. med reversibilitet
+52	626	Pædiatri, Lungefktus. uden rev	Paediatrics	Pædiatri, Lungefktus. uden reversibilitet
+53	629	Pædiatri, Pt-Ekg Afl.   6    1	Paediatrics	Pædiatri, Pt-Ekg Afl.   6    1
+54	632	Pædiatri, T. kons. all.  3A35	Paediatrics	Pædiatri, til konsultation all.  3A35
+55	634	Pædiatri, Tlf.rådg.prakt.læge	Paediatrics	Pædiatri, telefon rådg prakt læge
+56	635	Pædiatri, U-Bakt.*dyrk Park* 3	Paediatrics	Pædiatri, U-Bakt.*dyrk Park* 3
+57	636	Pædiatri, U-Bakt.*dyrk Rest*12	Paediatrics	Pædiatri, U-Bakt.*dyrk Rest*12
+58	647	Pædiatri, funktionsneurologisk undersøgelse	Paediatrics	Pædiatri, funktionsneurologisk undersøgelse
+59	658	Pædiatri, sen.kons. all.  3A35	Paediatrics	Pædiatri, sen konsultation all.  3A35
+60	664	Pædiatri, tværfaglig telefionkons.	Paediatrics	Pædiatri, tværfaglig telefionkons.
+61	676	Børnepsykiatri, 2/Se.Kons. Foræl.Te.	Child psychiatry	Børnepsykiatri, 2/sene konsultation Foræl.Te.
+62	677	Børnepsykiatri, 2/Se.Kons. Legetera.	Child psychiatry	Børnepsykiatri, 2/sene konsultation Legetera.
+63	678	Børnepsykiatri, 2/Se.Kons. Samtalet.	Child psychiatry	Børnepsykiatri, 2/sene konsultation Samtalet.
+64	681	Børnepsykiatri, Børnepsykiatri_amt15	Child psychiatry	Børnepsykiatri, Børnepsykiatri_amt15
+65	683	Børnepsykiatri, Hon beh.mø i b.psy	Child psychiatry	Børnepsykiatri, Hon behandling mø i b.psy
+66	685	Børnepsykiatri, Kørselsgodtgør.  I	Child psychiatry	Børnepsykiatri, Kørselsgodtgør.  i
+67	688	Børnepsykiatri, Tlf.rådg.prakt.læge	Child psychiatry	Børnepsykiatri, telefon rådg prakt læge
+68	694	Tropemedicin, Blodpr. Exp        1	Tropical medicine	Tropemedicin, Blodpr. Exp        1
+69	731	Diagn. radiologi Kbh., Undersøg. Gr.1 Halvt	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøg. Gr.1 Halvt
+70	732	Diagn. radiologi Kbh., Undersøg. Gr.2 Halvt	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøg. Gr.2 Halvt
+71	733	Diagn. radiologi Kbh., Undersøg. Gr.3 Halvt	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøg. Gr.3 Halvt
+72	734	Diagn. radiologi Kbh., Undersøg. Gr.4 Halvt	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøg. Gr.4 Halvt
+73	735	Diagn. radiologi Kbh., Undersøg. Gr.5 Halvt	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøg. Gr.5 Halvt
+74	736	Diagn. radiologi Kbh., Undersøgelse Gr. 1	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøgelse Gr. 1
+75	737	Diagn. radiologi Kbh., Undersøgelse Gr. 2	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøgelse Gr. 2
+76	738	Diagn. radiologi Kbh., Undersøgelse Gr. 3	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøgelse Gr. 3
+77	739	Diagn. radiologi Kbh., Undersøgelse Gr. 4	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøgelse Gr. 4
+78	740	Diagn. radiologi Kbh., Undersøgelse Gr. 5	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøgelse Gr. 5
+79	741	Diagn. radiologi Kbh., Undersøgelse Gr. 6	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøgelse Gr. 6
+80	742	Diagn. radiologi Kbh., Undersøgelse Gr. 7	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., Undersøgelse Gr. 7
+81	764	Diagn. radiologi Kbh., lænde og korsbenshv.	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., lænde og korsbenshv.
+82	780	Diagn. radiologi Kbh., underben	Diagnostic radiology, Copenhagen	Diagn. radiologi Kbh., underben
+83	789	Dermato-venerologi, 1. kons. incl. test	Dermato-venereology	Dermato-venerologi, 1. konsultation incl. test
+84	797	Dermato-venerologi, 2. og efterf. Viborg	Dermato-venereology	Dermato-venerologi, 2. og efterf. Viborg
+85	802	Dermato-venerologi, Allerg. 1. Kons.	Dermato-venereology	Dermato-venerologi, Allerg. 1. konsultation
+86	803	Dermato-venerologi, Allerg. 2. Kons.	Dermato-venereology	Dermato-venerologi, Allerg. 2. konsultation
+87	804	Dermato-venerologi, Allerg. Cutanprøve	Dermato-venereology	Dermato-venerologi, Allerg. Cutanprøve
+88	805	Dermato-venerologi, Allerg. Prov.Forsøg	Dermato-venereology	Dermato-venerologi, Allerg. Prov.Forsøg
+89	806	Dermato-venerologi, Allerg. Senere Kons.	Dermato-venereology	Dermato-venerologi, Allerg. Senere konsultation
+90	807	Dermato-venerologi, Allerg. Tlf. Kons.	Dermato-venereology	Dermato-venerologi, Allerg. telefon konsultation
+91	817	Dermato-venerologi, Blodpr. Exp        1	Dermato-venereology	Dermato-venerologi, Blodpr. Exp        1
+92	820	Dermato-venerologi, Clamydia forsende. 1	Dermato-venereology	Dermato-venerologi, Clamydia forsende. 1
+93	821	Dermato-venerologi, Dermatorisk beh. R81	Dermato-venereology	Dermato-venerologi, Dermatorisk behandling R81
+94	828	Dermato-venerologi, Eksem 1. konsult.	Dermato-venereology	Dermato-venerologi, Eksem 1. konsult.
+95	830	Dermato-venerologi, Eksem 2. konsult.	Dermato-venereology	Dermato-venerologi, Eksem 2. konsult.
+96	840	Dermato-venerologi, Gonokok forsendel. 1	Dermato-venereology	Dermato-venerologi, Gonokok forsendel. 1
+97	853	Dermato-venerologi, Intralæsion. injekt.	Dermato-venereology	Dermato-venerologi, Intralæsion. injekt.
+98	855	Dermato-venerologi, Karmodermærker	Dermato-venereology	Dermato-venerologi, Karmodermærker
+99	860	Dermato-venerologi, Kørselsgodtgør.  I	Dermato-venereology	Dermato-venerologi, Kørselsgodtgør.  i
+100	861	Dermato-venerologi, Laserbeh. kelo. a60	Dermato-venereology	Dermato-venerologi, Laserbeh. kelo. a60
+101	866	Dermato-venerologi, Mikrosk. farv. sek.3	Dermato-venereology	Dermato-venerologi, Mikrosk. farv. sek.3
+102	867	Dermato-venerologi, Mikrosk. hudsvamp  5	Dermato-venereology	Dermato-venerologi, Mikrosk. hudsvamp  5
+103	868	Dermato-venerologi, Mikrosk. ufar. sek.3	Dermato-venereology	Dermato-venerologi, Mikrosk. ufar. sek.3
+104	870	Dermato-venerologi, Multiple akt. flg op	Dermato-venereology	Dermato-venerologi, Multiple akt. følgende operation
+105	871	Dermato-venerologi, Mål.peri.blodt. 3A15	Dermato-venereology	Dermato-venerologi, Mål.peri.blodt. 3A15
+106	872	Dermato-venerologi, Mørkefeltsmikros.  5	Dermato-venereology	Dermato-venerologi, Mørkefeltsmikros.  5
+107	875	Dermato-venerologi, Overlæbe pr. behandl	Dermato-venereology	Dermato-venerologi, Overlæbe per behandl
+108	876	Dermato-venerologi, PDT-beh. cancerpt.	Dermato-venereology	Dermato-venerologi, PDT-beh. cancerpt.
+109	880	Dermato-venerologi, Rensn. og forb. sår	Dermato-venereology	Dermato-venerologi, Rensn. og forb. sår
+110	882	Dermato-venerologi, Scleroser. injekt.	Dermato-venereology	Dermato-venerologi, Scleroser. injekt.
+111	883	Dermato-venerologi, Sekret-Gonokok*exp*1	Dermato-venereology	Dermato-venerologi, Sekret-Gonokok*exp*1
+112	898	Dermato-venerologi, Tlf.rådg.prakt.læge	Dermato-venereology	Dermato-venerologi, telefon rådg prakt læge
+113	899	Dermato-venerologi, Tolk ifm. kons.  3	Dermato-venereology	Dermato-venerologi, Tolk ifm. konsultation  3
+114	903	Dermato-venerologi, Urinundersøg. stix 1	Dermato-venereology	Dermato-venerologi, Urinundersøg. stix 1
+115	904	Dermato-venerologi, Venero. 1. Kons.	Dermato-venereology	Dermato-venerologi, Venero. 1. konsultation
+116	905	Dermato-venerologi, Venero. 2. Kons.	Dermato-venereology	Dermato-venerologi, Venero. 2. konsultation
+117	906	Dermato-venerologi, Venero. Senere Kons.	Dermato-venereology	Dermato-venerologi, Venero. Senere konsultation
+118	907	Dermato-venerologi, Venero. Tlf. Kons.	Dermato-venereology	Dermato-venerologi, Venero. telefon konsultation
+119	908	Dermato-venerologi, Visit. indkald. pat.	Dermato-venereology	Dermato-venerologi, Visit. indkald. patienter
+120	909	Dermato-venerologi, Visit. kautionsbeg.	Dermato-venereology	Dermato-venerologi, Visit. kautionsbeg.
+121	915	Dermato-venerologi, fj. karforandringer	Dermato-venereology	Dermato-venerologi, fj. karforandringer
+122	916	Dermato-venerologi, fj. pigmentforandr.	Dermato-venereology	Dermato-venerologi, fj. pigmentforandr.
+123	917	Dermato-venerologi, fj. uønsk.hårvækst	Dermato-venereology	Dermato-venerologi, fj. uønsk.hårvækst
+124	918	Dermato-venerologi, forus. ¤3 aft. Vejle	Dermato-venereology	Dermato-venerologi, forus. ¤3 aft. Vejle
+125	919	Dermato-venerologi, laserbeh.karsprængn.	Dermato-venereology	Dermato-venerologi, laserbeh.karsprængn.
+126	2292	Tandplejere, alm. paradontalbeh.	Dental hygienist service	Tandplejere, almindelig paradontalbeh.
+127	2297	Tandplejere, kontrol af alm. paradontalbeh.	Dental hygienist service	Tandplejere, kontrol af almindelig paradontalbeh.
+128	2300	Tandplejere, kontrold af udvidet paradontalbeh.	Dental hygienist service	Tandplejere, kontrold af udvidet paradontalbeh.
+129	2303	Tandplejere, tansrensning mindst 15 tænder	Dental hygienist service	Tandplejere, tansrensning mindst 15 tænder
+130	2304	Tandplejere, udv. paradontalbeh.	Dental hygienist service	Tandplejere, udv. paradontalbeh.
+131	2305	Tandplejere, udvidet forebygg. beh.	Dental hygienist service	Tandplejere, udvidet forebygg. behandling
+132	2306	Tandplejere, udvidet paradontalbeh.	Dental hygienist service	Tandplejere, udvidet paradontalbeh.
+133	2339	Diagnost. radiologi, Hals- og Luft. Halvt	Diagnostic radiology	Diagnost. radiologi, Hals- og Luft. Halvt
+134	2340	Diagnost. radiologi, Hals- og Luftrør	Diagnostic radiology	Diagnost. radiologi, Hals- og Luftrør
+135	2350	Diagnost. radiologi, Intravenøs Cholangio	Diagnostic radiology	Diagnost. radiologi, Intravenøs Cholangio
+136	2357	Diagnost. radiologi, Lår og Hoftel. Halvt	Diagnostic radiology	Diagnost. radiologi, Lår og Hoftel. Halvt
+137	2360	Diagnost. radiologi, Lænde og korsbenshv.	Diagnostic radiology	Diagnost. radiologi, Lænde og korsbenshv.
+138	2361	Diagnost. radiologi, Lænde-& Korsb. Halvt	Diagnostic radiology	Diagnost. radiologi, Lænde-& Korsb. Halvt
+139	2371	Diagnost. radiologi, Skulderl. M.V. Halvt	Diagnostic radiology	Diagnost. radiologi, Skulderl. mv Halvt
+140	2372	Diagnost. radiologi, Skulderl. og Overarm	Diagnostic radiology	Diagnost. radiologi, Skulderl. og Overarm
+141	2384	Diagnost. radiologi, Underben	Diagnostic radiology	Diagnost. radiologi, Underben
+142	2385	Diagnost. radiologi, Underben Halvt	Diagnostic radiology	Diagnost. radiologi, Underben Halvt
+143	2386	Diagnost. radiologi, belastningsund. af led følgende	Diagnostic radiology	Diagnost. radiologi, belastningsund. af led følgende
+144	2393	Diagnost. radiologi, funktionsu. af rygsøjle følgende	Diagnostic radiology	Diagnost. radiologi, funktionsu. af rygsøjle følgende
+145	2407	Diagnost. radiologi, underben følgende	Diagnostic radiology	Diagnost. radiologi, underben følgende
+146	2410	Tandlægehjælp, Akut oplukning	Dental service	Tandlægehjælp, Akut oplukning
+147	2411	Tandlægehjælp, Alm. Paradontalbeh.	Dental service	Tandlægehjælp, almindelig Paradontalbeh.
+148	2412	Tandlægehjælp, Apikal amp. og rodf.	Dental service	Tandlægehjælp, Apikal amp. og rodf.
+149	2415	Tandlægehjælp, Diag. og forebyg.yd	Dental service	Tandlægehjælp, Diag. og forebyg.yd
+150	2416	Tandlægehjælp, Fyldning Amalgam. A	Dental service	Tandlægehjælp, Fyldning Amalgam. A
+151	2417	Tandlægehjælp, Fyldning Amalgam. B	Dental service	Tandlægehjælp, Fyldning Amalgam. B
+152	2418	Tandlægehjælp, Fyldning Amalgam. C	Dental service	Tandlægehjælp, Fyldning Amalgam. C
+153	2421	Tandlægehjælp, Gradv.eks Amalgam. A	Dental service	Tandlægehjælp, Gradv eksklusive Amalgam. A
+154	2422	Tandlægehjælp, Gradv.eks Amalgam. B	Dental service	Tandlægehjælp, Gradv eksklusive Amalgam. B
+155	2423	Tandlægehjælp, Gradv.eks Amalgam. C	Dental service	Tandlægehjælp, Gradv eksklusive Amalgam. C
+156	2424	Tandlægehjælp, Hygiejnetillæg	Dental service	Tandlægehjælp, Hygiejnetillæg
+157	2425	Tandlægehjælp, Indv. forebyg. beh	Dental service	Tandlægehjælp, Indv. forebyg. behandling
+158	2427	Tandlægehjælp, Kirurgisk Paro. Beh.	Dental service	Tandlægehjælp, Kirurgisk Paro. behandling
+159	2431	Tandlægehjælp, Kli. undersø,over 25	Dental service	Tandlægehjælp, Kli. undersø,over 25
+160	2432	Tandlægehjælp, Klin.undersøge.18-25	Dental service	Tandlægehjælp, Klin.undersøge.18-25
+161	2433	Tandlægehjælp, Kons. uden behand.	Dental service	Tandlægehjælp, konsultation uden behand.
+162	2434	Tandlægehjælp, Kontr. eft. forebyg	Dental service	Tandlægehjælp, Kontr. eft. forebyg
+163	2435	Tandlægehjælp, Kontrol Alm. Paro.	Dental service	Tandlægehjælp, Kontrol almindelig Paro.
+164	2436	Tandlægehjælp, Kontrol Kir. Paro.	Dental service	Tandlægehjælp, Kontrol Kir. Paro.
+165	2437	Tandlægehjælp, Kontrol RDU (26år- )	Dental service	Tandlægehjælp, Kontrol RDU (26år- )
+166	2438	Tandlægehjælp, Kontrol RDU(18-25år)	Dental service	Tandlægehjælp, Kontrol RDU(18-25år)
+167	2439	Tandlægehjælp, Kontrol Udv. Paro.	Dental service	Tandlægehjælp, Kontrol Udv. Paro.
+168	2443	Tandlægehjælp, Operat. Tand Mv.	Dental service	Tandlægehjælp, operation tandbehandling Mv.
+169	2456	Tandlægehjælp, Pulpaoverkapning	Dental service	Tandlægehjælp, Pulpaoverkapning
+170	2459	Tandlægehjælp, Rodbeh. og Rodfyld.C	Dental service	Tandlægehjælp, Rodbeh. og Rodfyld.C
+171	2460	Tandlægehjælp, Rodbeh. og Rodfyld.D	Dental service	Tandlægehjælp, Rodbeh. og Rodfyld.D
+172	2461	Tandlægehjælp, Rodbeh. og Rodfyld.E	Dental service	Tandlægehjælp, Rodbeh. og Rodfyld.E
+173	2466	Tandlægehjælp, Tandrodsrensning	Dental service	Tandlægehjælp, Tandrodsrensning
+174	2467	Tandlægehjælp, Udtrækn. Anden Tand	Dental service	Tandlægehjælp, Udtrækn. Anden tandbehandling
+175	2468	Tandlægehjælp, Udtrækn. Flg. Tand	Dental service	Tandlægehjælp, Udtrækn. følgende tandbehandling
+176	2470	Tandlægehjælp, Udv. Paradontalbeh.	Dental service	Tandlægehjælp, Udv. Paradontalbeh.
+177	2471	Tandlægehjælp, Udv. tandrensning	Dental service	Tandlægehjælp, Udv. tandrensning
+178	2478	Fysioterapi 51, ADL-funktionstræning	Physiotherapy	Fysioterapi 51, ADL-funktionstræning
+179	2479	Fysioterapi 51, Afspænding *hold*	Physiotherapy	Fysioterapi 51, Afspænding *hold*
+180	2480	Fysioterapi 51, Afspænding *indv*	Physiotherapy	Fysioterapi 51, Afspænding *indv*
+181	2481	Fysioterapi 51, Biomek. bev. terapi	Physiotherapy	Fysioterapi 51, Biomek. bev. terapi
+182	2483	Fysioterapi 51, Forundersøgelse A65	Physiotherapy	Fysioterapi 51, Forundersøgelse A65
+183	2484	Fysioterapi 51, Fysioterapeutisk us.	Physiotherapy	Fysioterapi 51, Fysioterapeutisk undersøgelse
+184	2490	Fysioterapi 51, I Hjem *u. klinik*	Physiotherapy	Fysioterapi 51, i Hjem *u. klinik*
+185	2497	Fysioterapi 51, Kørselsgodtgør. I	Physiotherapy	Fysioterapi 51, Kørselsgodtgør. i
+186	2499	Fysioterapi 51, Lokalegodtgørelse	Physiotherapy	Fysioterapi 51, Lokalegodtgørelse
+187	2502	Fysioterapi 51, Ma-fr 16-20,lø 08-20	Physiotherapy	Fysioterapi 51, Ma-fr 16-20,lø 08-20
+188	2503	Fysioterapi 51, Ma-fr 20-08,søn/hel	Physiotherapy	Fysioterapi 51, Ma-fr 20-08,søn/hel
+189	2509	Fysioterapi 51, Opflg. træningstera.	Physiotherapy	Fysioterapi 51, Opflg. træningstera.
+190	2511	Fysioterapi 51, Plejehjem *u.klinik*	Physiotherapy	Fysioterapi 51, Plejehjem *u.klinik*
+191	2515	Fysioterapi 51, Psykomotor. bev.tera	Physiotherapy	Fysioterapi 51, Psykomotor. bev.tera
+192	2519	Fysioterapi 51, Tillæg særl.tidskr.	Physiotherapy	Fysioterapi 51, Tillæg særl.tidskr.
+193	2520	Fysioterapi 51, Tlf rådgiv og vejled	Physiotherapy	Fysioterapi 51, telefon rådgiv og vejled
+194	2521	Fysioterapi 51, Udvidet rygus. amt60	Physiotherapy	Fysioterapi 51, Udvidet rygus. amt60
+195	2523	Fysioterapi 51, forsøgsord. amt 65	Physiotherapy	Fysioterapi 51, forsøgsord. amt 65
+196	2524	Fysioterapi 51, udeblivelse	Physiotherapy	Fysioterapi 51, udeblivelse
+197	2527	Fysioterapi 51, ¯velsesterapi *hold*	Physiotherapy	Fysioterapi 51, øvelsesterapi *hold*
+198	2528	Fysioterapi 51, ¯velsesterapi *indv*	Physiotherapy	Fysioterapi 51, øvelsesterapi *indv*
+199	2530	Briller, Sfæ. 4.25 - 6.75	Eyeglasses	Briller, Sfæ. 4.25 - 6.75
+200	2531	Briller, Sfæ. Plan Til 4.00	Eyeglasses	Briller, Sfæ. Plan Til 4.00
+201	2532	Briller, Sfæ. Plan-4 Afstand	Eyeglasses	Briller, Sfæ. Plan-4 Afstand
+202	2534	Briller, Tor. Pl.-4 Sph. 2.75	Eyeglasses	Briller, Tor. Pl.-4 Sph. 2.75
+203	2537	Kiropraktik, Kir. kli. grundyd. a	Chiropractic	Kiropraktik, Kir. kli. grundyd. a
+204	2538	Kiropraktik, Kir. kli. grundyd. b	Chiropractic	Kiropraktik, Kir. kli. grundyd. b
+205	2539	Kiropraktik, Kir. klinisk ydelse	Chiropractic	Kiropraktik, Kir. klinisk ydelse
+206	2540	Kiropraktik, Opfølg.træningsyd.	Chiropractic	Kiropraktik, Opfølg.træningsyd.
+207	2543	Kiropraktik, Suppl. røntgenunder.	Chiropractic	Kiropraktik, Suppl. røntgenunder.
+208	2548	Kiropraktik, intr. til superviseret træning	Chiropractic	Kiropraktik, intr. til superviseret træning
+209	2550	Kiropraktik, røntgenteknisk us	Chiropractic	Kiropraktik, røntgenteknisk undersøgelse
+210	2556	Fodterapi, Afstill. pl/pen 0-10	Podiatry	Fodterapi, Afstill. pl/pen 0-10
+211	2559	Fodterapi, Fodbeh. almindelig	Podiatry	Fodterapi, Fodbeh. almindelig
+212	2560	Fodterapi, Fodbeh. kompliceret	Podiatry	Fodterapi, Fodbeh. kompliceret
+213	2561	Fodterapi, Fodbeh. partiel	Podiatry	Fodterapi, Fodbeh. partiel
+214	2562	Fodterapi, Frem/påsæt 1 ny bøjl	Podiatry	Fodterapi, Frem/påsæt 1 ny bøjl
+215	2564	Fodterapi, I Hjem 0 - 10 Km.	Podiatry	Fodterapi, i Hjem 0 - 10 Km.
+216	2565	Fodterapi, I Hjem Over 10 Km.	Podiatry	Fodterapi, i Hjem Over 10 Km.
+217	2575	Fodterapi, Korrektion af 1bøjle	Podiatry	Fodterapi, Korrektion af 1bøjle
+218	2576	Fodterapi, Korrektion af 2bøjle	Podiatry	Fodterapi, Korrektion af 2bøjle
+219	2580	Fodterapi, Pens. Hjemme  0 - 10	Podiatry	Fodterapi, Pens. Hjemme  0 - 10
+220	2581	Fodterapi, Plejehjem 0 - 10 Km.	Podiatry	Fodterapi, Plejehjem 0 - 10 Km.
+221	2583	Fodterapi, Værkstedsmoduler	Podiatry	Fodterapi, Værkstedsmoduler
+222	2591	Ortonyxi, Afstill. pl/pen 0-10	Orthonyxia	Ortonyxi, Afstill. pl/pen 0-10
+223	2593	Ortonyxi, Frem/påsæt 1 ny bøjl	Orthonyxia	Ortonyxi, Frem/påsæt 1 ny bøjl
+224	2595	Ortonyxi, Følg. modul (m.til.)	Orthonyxia	Ortonyxi, Følg. modul (m.til.)
+225	2596	Ortonyxi, Følg. modul.(u.til.)	Orthonyxia	Ortonyxi, Følg. modul.(u.til.)
+226	2597	Ortonyxi, I Hjem 0 - 10 Km.	Orthonyxia	Ortonyxi, i Hjem 0 - 10 Km.
+227	2598	Ortonyxi, I Hjem Over 10 Km.	Orthonyxia	Ortonyxi, i Hjem Over 10 Km.
+228	2602	Ortonyxi, Korrektion af 1bøjle	Orthonyxia	Ortonyxi, Korrektion af 1bøjle
+229	2603	Ortonyxi, Korrektion af 2bøjle	Orthonyxia	Ortonyxi, Korrektion af 2bøjle
+230	2606	Ortonyxi, Pens. Hjemme  0-10	Orthonyxia	Ortonyxi, Pens. Hjemme  0-10
+231	2607	Ortonyxi, Pens. Hjemme Over 10	Orthonyxia	Ortonyxi, Pens. Hjemme Over 10
+232	2608	Ortonyxi, Plejehjem 0 - 10 Km.	Orthonyxia	Ortonyxi, Plejehjem 0 - 10 Km.
+233	2613	Ridefysioterapi, Fys.hon. ? tim. 4prs	Horseback-riding physiotherapy	Ridefysioterapi, Fys.hon. ? tim. 4prs
+234	2614	Ridefysioterapi, Fys.hon. ? tim. 5 pr	Horseback-riding physiotherapy	Ridefysioterapi, Fys.hon. ? tim. 5 per
+235	2615	Ridefysioterapi, Fys.hon.? tim. 1.prs	Horseback-riding physiotherapy	Ridefysioterapi, Fys.hon.? tim. 1.prs
+236	2622	Ridefysioterapi, Rideskole hon. 2 prs	Horseback-riding physiotherapy	Ridefysioterapi, Rideskole hon. 2 prs
+237	2623	Ridefysioterapi, Rideskole hon. 4.prs	Horseback-riding physiotherapy	Ridefysioterapi, Rideskole hon. 4.prs
+238	2627	Ridefysioterapi, fys.hon.? tim. 3 prs	Horseback-riding physiotherapy	Ridefysioterapi, fys.hon.? tim. 3 prs
+239	2628	Ridefysioterapi, rideskole hon. 1 prs	Horseback-riding physiotherapy	Ridefysioterapi, rideskole hon. 1 prs
+240	2629	Ridefysioterapi, rideskole hon. 3 prs	Horseback-riding physiotherapy	Ridefysioterapi, rideskole hon. 3 prs
+241	2634	Genoptræning, Øfeldt, Funkt.unders. handi.	Rehabilitation	Genoptræning, Øfeldt, Funkt.unders. handi.
+242	2636	Genoptræning, Øfeldt, Kontrolund. af handi	Rehabilitation	Genoptræning, Øfeldt, Kontrolund. af handi
+243	2641	Genoptræning, Øfeldt, Optræn./beh. 1 time	Rehabilitation	Genoptræning, Øfeldt, Optræn./behandling 1 time
+244	2642	Genoptræning, Øfeldt, Optræn./beh. ? time	Rehabilitation	Genoptræning, Øfeldt, Optræn./behandling ? time
+245	2650	Genoptræning, Øfeldt, Ved.fri optræ.1 time	Rehabilitation	Genoptræning, Øfeldt, Ved.fri optræ.1 time
+246	2651	Genoptræning, Øfeldt, Ved.fri optræ.? time	Rehabilitation	Genoptræning, Øfeldt, Ved.fri optræ.? time
+247	2659	Fodbehandling arvævspat., Afstill. pl/pen 0-10	Foot treatment, scar-tissue patients	Fodbehandling arvævspat., Afstill. pl/pen 0-10
+248	2661	Fodbehandling arvævspat., Fodbeh. - Almindelig	Foot treatment, scar-tissue patients	Fodbehandling arvævspat., Fodbeh. - Almindelig
+249	2662	Fodbehandling arvævspat., Fodbeh. Partiel	Foot treatment, scar-tissue patients	Fodbehandling arvævspat., Fodbeh. Partiel
+250	2671	Fodbehandling arvævspat., Værkstedstid v indlæ	Foot treatment, scar-tissue patients	Fodbehandling arvævspat., Værkstedstid v indlæ
+251	2675	Reumatologi, 3 bhl. vv. bassin	Rheumatology	Reumatologi, 3 bhl. vv. bassin
+252	2676	Reumatologi, Afslut. samtale	Rheumatology	Reumatologi, Afslut. samtale
+253	2683	Reumatologi, Blodpr. Exp        1	Rheumatology	Reumatologi, Blodpr. Exp        1
+254	2685	Reumatologi, Gipsband. U. Operat.	Rheumatology	Reumatologi, Gipsband. uden operation
+255	2686	Reumatologi, Injekt. i bursae m.v	Rheumatology	Reumatologi, Injekt. i bursae mv
+256	2687	Reumatologi, Instr. øvelsesterapi	Rheumatology	Reumatologi, Instr. øvelsesterapi
+257	2688	Reumatologi, Intraart. injektion.	Rheumatology	Reumatologi, Intraart. injektion.
+258	2689	Reumatologi, Kørselsgodtgør.  I	Rheumatology	Reumatologi, Kørselsgodtgør.  i
+259	2690	Reumatologi, Ledningsbl./nervebl.	Rheumatology	Reumatologi, Ledningsbl./nervebl.
+260	2691	Reumatologi, Manipulationsbeh.	Rheumatology	Reumatologi, Manipulationsbeh.
+261	2692	Reumatologi, Mikroskopi ledvæske	Rheumatology	Reumatologi, Mikroskopi ledvæske
+262	2693	Reumatologi, Pt-Ekg  3ext.3præ. 9	Rheumatology	Reumatologi, Pt-Ekg  3ext.3præ. 9
+263	2696	Reumatologi, Sekret-Gonokok*exp*1	Rheumatology	Reumatologi, Sekret-Gonokok*exp*1
+264	2697	Reumatologi, Senere Kons. Smerte.	Rheumatology	Reumatologi, Senere konsultation Smerte.
+265	2698	Reumatologi, Tapening,bandagering	Rheumatology	Reumatologi, Tapening,bandagering
+266	2700	Reumatologi, Tlf.rådg.prakt.læge	Rheumatology	Reumatologi, telefon rådg prakt læge
+267	2701	Reumatologi, Tolk ifm. kons.  3	Rheumatology	Reumatologi, Tolk ifm. konsultation  3
+268	2702	Reumatologi, Transcut. nervestim.	Rheumatology	Reumatologi, Transcut. nervestim.
+269	2706	Reumatologi, Ultralydsundersøgels	Rheumatology	Reumatologi, Ultralydsundersøgels
+270	2707	Reumatologi, Ultralydsus.flg. yd.	Rheumatology	Reumatologi, Ultralydsus følgende yd.
+271	2718	Fodbehandling, leddegigt, journaloptagning	Foot treatment	Fodbehandling, leddegigt, journaloptagning
+272	2719	Fodbehandling, leddegigt, korr. af 1 bøjle	Foot treatment	Fodbehandling, leddegigt, korr. af 1 bøjle
+273	2723	Fysioterapi 61, Afspænding *indv*	Physiotherapy 61	Fysioterapi 61, Afspænding *indv*
+274	2725	Fysioterapi 61, Biomeka. bev. terapi	Physiotherapy 61	Fysioterapi 61, Biomeka. bev. terapi
+275	2726	Fysioterapi 61, Fysiotera. unders.	Physiotherapy 61	Fysioterapi 61, Fysiotera. unders.
+276	2728	Fysioterapi 61, Holdtr. 2 per. egne	Physiotherapy 61	Fysioterapi 61, Holdtr. 2 periode egne
+277	2729	Fysioterapi 61, Holdtr. 3 per. egne	Physiotherapy 61	Fysioterapi 61, Holdtr. 3 periode egne
+278	2730	Fysioterapi 61, Holdtr. 4 per. egne	Physiotherapy 61	Fysioterapi 61, Holdtr. 4 periode egne
+279	2731	Fysioterapi 61, Holdtr. 5 per. egne	Physiotherapy 61	Fysioterapi 61, Holdtr. 5 periode egne
+280	2732	Fysioterapi 61, Holdtr. 6 per. egne	Physiotherapy 61	Fysioterapi 61, Holdtr. 6 periode egne
+281	2733	Fysioterapi 61, Holdtr. 7 per. egne	Physiotherapy 61	Fysioterapi 61, Holdtr. 7 periode egne
+282	2734	Fysioterapi 61, Holdtr. 8 per. egne	Physiotherapy 61	Fysioterapi 61, Holdtr. 8 periode egne
+283	2742	Fysioterapi 61, Opflg. træn.terapi.	Physiotherapy 61	Fysioterapi 61, Opflg. træn.terapi.
+284	2745	Fysioterapi 61, Tillæg særl.tidskr.	Physiotherapy 61	Fysioterapi 61, Tillæg særl.tidskr.
+285	2747	Fysioterapi 61, ¯velsesterapi *indv*	Physiotherapy 61	Fysioterapi 61, øvelsesterapi *indv*
+286	2750	Vederlagsfri fysioterapi, ADL-funktionstræn.	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, ADL-funktionstræn.
+287	2751	Vederlagsfri fysioterapi, Afspænding *hold*	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Afspænding *hold*
+288	2752	Vederlagsfri fysioterapi, Afspænding *indv*	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Afspænding *indv*
+289	2758	Vederlagsfri fysioterapi, Bas. 1per.egne 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 1per.egne 51 62
+290	2759	Vederlagsfri fysioterapi, Bas. 2per.amt 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 2per.amt 51 62
+291	2760	Vederlagsfri fysioterapi, Bas. 2per.egne 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 2per.egne 51 62
+292	2761	Vederlagsfri fysioterapi, Bas. 3per.amt 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 3per.amt 51 62
+293	2762	Vederlagsfri fysioterapi, Bas. 3per.egne 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 3per.egne 51 62
+294	2763	Vederlagsfri fysioterapi, Bas. 4per.amt 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 4per.amt 51 62
+295	2764	Vederlagsfri fysioterapi, Bas. 4per.egne 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 4per.egne 51 62
+296	2765	Vederlagsfri fysioterapi, Bas. 5per.amt 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 5per.amt 51 62
+297	2766	Vederlagsfri fysioterapi, Bas. 6per.amt 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 6per.amt 51 62
+298	2767	Vederlagsfri fysioterapi, Bas. 6per.egne 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 6per.egne 51 62
+299	2768	Vederlagsfri fysioterapi, Bas. 7per.amt 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 7per.amt 51 62
+300	2769	Vederlagsfri fysioterapi, Bas. 8per.amt 51 62	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bas. 8per.amt 51 62
+301	2770	Vederlagsfri fysioterapi, Bassint. 1 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassint. 1 periode egne
+302	2771	Vederlagsfri fysioterapi, Bassint. 2 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassint. 2 periode egne
+303	2772	Vederlagsfri fysioterapi, Bassint. 3 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassint. 3 periode egne
+304	2773	Vederlagsfri fysioterapi, Bassint. 4 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassint. 4 periode egne
+305	2774	Vederlagsfri fysioterapi, Bassint. 5 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassint. 5 periode egne
+306	2775	Vederlagsfri fysioterapi, Bassint. 6 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassint. 6 periode egne
+307	2776	Vederlagsfri fysioterapi, Bassint. 7 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassint. 7 periode egne
+308	2777	Vederlagsfri fysioterapi, Bassint. 8 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassint. 8 periode egne
+309	2778	Vederlagsfri fysioterapi, Bassintr. 1 person	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassintr. 1 person
+310	2779	Vederlagsfri fysioterapi, Bassintr. 2 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassintr. 2 personer
+311	2780	Vederlagsfri fysioterapi, Bassintr. 3 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassintr. 3 personer
+312	2781	Vederlagsfri fysioterapi, Bassintr. 4 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassintr. 4 personer
+313	2782	Vederlagsfri fysioterapi, Bassintr. 5 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassintr. 5 personer
+314	2783	Vederlagsfri fysioterapi, Bassintr. 6 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassintr. 6 personer
+315	2784	Vederlagsfri fysioterapi, Bassintr. 7 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassintr. 7 personer
+316	2785	Vederlagsfri fysioterapi, Bassintr. 8 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Bassintr. 8 personer
+317	2786	Vederlagsfri fysioterapi, Biomeka. bev. terapi	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Biomeka. bev. terapi
+318	2788	Vederlagsfri fysioterapi, Fysiotera. unders.	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Fysiotera. unders.
+319	2804	Vederlagsfri fysioterapi, Holdtr. 1 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtr. 1 periode egne
+320	2805	Vederlagsfri fysioterapi, Holdtr. 2 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtr. 2 periode egne
+321	2806	Vederlagsfri fysioterapi, Holdtr. 3 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtr. 3 periode egne
+322	2807	Vederlagsfri fysioterapi, Holdtr. 4 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtr. 4 periode egne
+323	2808	Vederlagsfri fysioterapi, Holdtr. 5 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtr. 5 periode egne
+324	2809	Vederlagsfri fysioterapi, Holdtr. 6 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtr. 6 periode egne
+325	2810	Vederlagsfri fysioterapi, Holdtr. 7 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtr. 7 periode egne
+326	2811	Vederlagsfri fysioterapi, Holdtr. 8 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtr. 8 periode egne
+327	2812	Vederlagsfri fysioterapi, Holdtr. 9 per. egne	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtr. 9 periode egne
+328	2813	Vederlagsfri fysioterapi, Holdtræn. 1 person	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtræn. 1 person
+329	2814	Vederlagsfri fysioterapi, Holdtræn. 2 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtræn. 2 personer
+330	2815	Vederlagsfri fysioterapi, Holdtræn. 3 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtræn. 3 personer
+331	2816	Vederlagsfri fysioterapi, Holdtræn. 4 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtræn. 4 personer
+332	2817	Vederlagsfri fysioterapi, Holdtræn. 5 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtræn. 5 personer
+333	2818	Vederlagsfri fysioterapi, Holdtræn. 6 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtræn. 6 personer
+334	2819	Vederlagsfri fysioterapi, Holdtræn. 7 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtræn. 7 personer
+335	2820	Vederlagsfri fysioterapi, Holdtræn. 8 personer	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Holdtræn. 8 personer
+336	2822	Vederlagsfri fysioterapi, I hjem *u. klinik*	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, i hjem *u. klinik*
+337	2825	Vederlagsfri fysioterapi, Infor. og vejledning	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Infor. og vejledning
+338	2826	Vederlagsfri fysioterapi, Kompen. behandling	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Kompen. behandling
+339	2828	Vederlagsfri fysioterapi, Kørselsgodtgør. I	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Kørselsgodtgør. i
+340	2831	Vederlagsfri fysioterapi, Ma-fr 16-20,lø 08-20	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Ma-fr 16-20,lø 08-20
+341	2832	Vederlagsfri fysioterapi, Ma-fr 20-08,søn/hel	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Ma-fr 20-08,søn/hel
+342	2837	Vederlagsfri fysioterapi, Opflg. træn.terapi.	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Opflg. træn.terapi.
+343	2838	Vederlagsfri fysioterapi, Plejehjem *u.klinik*	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Plejehjem *u.klinik*
+344	2842	Vederlagsfri fysioterapi, Psykomoto. bev. tera	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Psykomoto. bev. tera
+345	2845	Vederlagsfri fysioterapi, Styrketræning A30	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, Styrketræning A30
+346	2852	Vederlagsfri fysioterapi, ¯velsesterapi *hold*	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, øvelsesterapi *hold*
+347	2853	Vederlagsfri fysioterapi, ¯velsesterapi*indv*	Free-of-charge physiotherapy	Vederlagsfri fysioterapi, øvelsesterapi*indv*
+348	2859	Psykologhjælp, 2pers kon flg. kon.	Psychology service	Psykologhjælp, 2pers kon følgende kon.
+349	2861	Psykologhjælp, Afstandst. 0-4 km	Psychology service	Psykologhjælp, Afstandst. 0-4 km
+350	2862	Psykologhjælp, Barn m.pår. eft.kon	Psychology service	Psykologhjælp, Barn med pår eft.kon
+351	2863	Psykologhjælp, Barn m.pår.1.kon	Psychology service	Psykologhjælp, Barn med pår 1 kon
+352	2877	Psykologhjælp, Grp.kons. 3 prs. 1.	Psychology service	Psykologhjælp, gruppe konsultation 3 prs. 1.
+353	2880	Psykologhjælp, Gruppekons. 3 pers.	Psychology service	Psykologhjælp, Gruppekons. 3 pers.
+354	2881	Psykologhjælp, Gruppekons. 4 pers.	Psychology service	Psykologhjælp, Gruppekons. 4 pers.
+355	2882	Psykologhjælp, Gruppekons. 5 pers.	Psychology service	Psykologhjælp, Gruppekons. 5 pers.
+356	2883	Psykologhjælp, Gruppekons. 6 pers.	Psychology service	Psykologhjælp, Gruppekons. 6 pers.
+357	2884	Psykologhjælp, Indiv. kon. eft.kon.	Psychology service	Psykologhjælp, individuel kon. eft.kon.
+358	2895	Kiropraktik kronikere, Kir. kli. grundyd. a	Chiropractic, chronic patients	Kiropraktik kronikere, Kir. kli. grundyd. a
+359	2896	Kiropraktik kronikere, Kir. kli. grundyd. b	Chiropractic, chronic patients	Kiropraktik kronikere, Kir. kli. grundyd. b
+360	2897	Kiropraktik kronikere, Kir. klinisk ydelse	Chiropractic, chronic patients	Kiropraktik kronikere, Kir. klinisk ydelse
+361	2899	Kiropraktik kronikere, Suppl. røntgenunder.	Chiropractic, chronic patients	Kiropraktik kronikere, Suppl. røntgenunder.
+362	2904	Kiropraktik kronikere, diagnosticering og beskrivelse	Chiropractic, chronic patients	Kiropraktik kronikere, diagnosticering og beskrivelse
+363	2905	Kiropraktik kronikere, intr. til superviseret træning	Chiropractic, chronic patients	Kiropraktik kronikere, intr. til superviseret træning
+364	2919	Vederlagsfri ridefysioterapi, Fys. non ? tim. 4 pr	Free-of-charge horseback-riding physiotherapy	Vederlagsfri ridefysioterapi, Fys. non ? tim. 4 per
+365	2923	Vederlagsfri ridefysioterapi, Fys.hon.? tim. 3 prs	Free-of-charge horseback-riding physiotherapy	Vederlagsfri ridefysioterapi, Fys.hon.? tim. 3 prs
+366	2927	Vederlagsfri ridefysioterapi, Rideskole hon. 4 prs	Free-of-charge horseback-riding physiotherapy	Vederlagsfri ridefysioterapi, Rideskole hon. 4 prs
+367	2929	Høreomsorg, Uafsluttet forløb	Hearing care	Høreomsorg, Uafsluttet forløb
+368	2930	Gynækologi/obstetrik, (V)abrasio, Cer. Flg	Gynaecology/obstetrics	Gynækologi/obstetrik, (V)abrasio, Cer. følgende
+369	2931	Gynækologi/obstetrik, (V)abrasio, Cerv. 1.	Gynaecology/obstetrics	Gynækologi/obstetrik, (V)abrasio, Cerv. 1.
+370	2932	Gynækologi/obstetrik, (V)abrasio, Cor. Flg	Gynaecology/obstetrics	Gynækologi/obstetrik, (V)abrasio, Cor. følgende
+371	2934	Gynækologi/obstetrik, (V)abrasio, Corp. 1.	Gynaecology/obstetrics	Gynækologi/obstetrik, (V)abrasio, Corp. 1.
+372	2935	Gynækologi/obstetrik, (V)abrasio,Ce. Fg An	Gynaecology/obstetrics	Gynækologi/obstetrik, (V)abrasio,Ce. Fg anæstesi
+373	2936	Gynækologi/obstetrik, (V)abrasio,Co. Fg An	Gynaecology/obstetrics	Gynækologi/obstetrik, (V)abrasio,Co. Fg anæstesi
+374	2942	Gynækologi/obstetrik, 2. kons. med. abort	Gynaecology/obstetrics	Gynækologi/obstetrik, 2. konsultation med. abort
+375	2944	Gynækologi/obstetrik, 2.kons. kir. abort	Gynaecology/obstetrics	Gynækologi/obstetrik, 2 konsultation kir. abort
+376	2946	Gynækologi/obstetrik, 3. kons. ukompl.	Gynaecology/obstetrics	Gynækologi/obstetrik, 3. konsultation ukompl.
+377	2950	Gynækologi/obstetrik, B-Glukose *ej Stix*4	Gynaecology/obstetrics	Gynækologi/obstetrik, B-Glukose *ej Stix*4
+378	2951	Gynækologi/obstetrik, B-Glukose *stix*   1	Gynaecology/obstetrics	Gynækologi/obstetrik, B-Glukose *stix*   1
+379	2957	Gynækologi/obstetrik, Blodpr. Exp        1	Gynaecology/obstetrics	Gynækologi/obstetrik, Blodpr. Exp        1
+380	2959	Gynækologi/obstetrik, Blokadebeh. af bækk.	Gynaecology/obstetrics	Gynækologi/obstetrik, Blokadebeh. af bækk.
+381	2961	Gynækologi/obstetrik, Clamydia Immuonfl. 3	Gynaecology/obstetrics	Gynækologi/obstetrik, Clamydia Immuonfl. 3
+382	2962	Gynækologi/obstetrik, Clamydiabestemme. 10	Gynaecology/obstetrics	Gynækologi/obstetrik, Clamydiabestemme. 10
+383	2967	Gynækologi/obstetrik, Dilat. Cervi Fg. An.	Gynaecology/obstetrics	Gynækologi/obstetrik, Dilat. Cervi Fg. anæstesi
+384	2968	Gynækologi/obstetrik, Dilat. Cervic.    1.	Gynaecology/obstetrics	Gynækologi/obstetrik, Dilat. Cervic.    1.
+385	2969	Gynækologi/obstetrik, Dilat. Cervic.   Flg	Gynaecology/obstetrics	Gynækologi/obstetrik, Dilat. Cervic.   følgende
+386	2970	Gynækologi/obstetrik, Dilat. Cervic. 1. An	Gynaecology/obstetrics	Gynækologi/obstetrik, Dilat. Cervic. 1. anæstesi
+387	2971	Gynækologi/obstetrik, Dyrk. af gærs.(ex).1	Gynaecology/obstetrics	Gynækologi/obstetrik, Dyrk. af gærs.(ex).1
+388	2972	Gynækologi/obstetrik, Dyrk. af gærsvamp 10	Gynaecology/obstetrics	Gynækologi/obstetrik, Dyrk. af gærsvamp 10
+389	2975	Gynækologi/obstetrik, El-stim. af bækkenb.	Gynaecology/obstetrics	Gynækologi/obstetrik, El-stim. af bækkenb.
+390	2976	Gynækologi/obstetrik, El-stimu.af bækkenb.	Gynaecology/obstetrics	Gynækologi/obstetrik, El-stimu af bækkenb.
+391	2977	Gynækologi/obstetrik, Elstimul. bækkenbund	Gynaecology/obstetrics	Gynækologi/obstetrik, Elstimul. bækkenbund
+392	2978	Gynækologi/obstetrik, Endometriedestrukt.	Gynaecology/obstetrics	Gynækologi/obstetrik, Endometriedestrukt.
+393	2979	Gynækologi/obstetrik, Evacuatio opf. kons.	Gynaecology/obstetrics	Gynækologi/obstetrik, Evacuatio opf. konsultation
+394	2987	Gynækologi/obstetrik, Genetisk rådgivning	Gynaecology/obstetrics	Gynækologi/obstetrik, Genetisk rådgivning
+395	2989	Gynækologi/obstetrik, Hymenal- el. vulvapl	Gynaecology/obstetrics	Gynækologi/obstetrik, Hymenal- el. vulvapl
+396	2997	Gynækologi/obstetrik, Int. Fjer. Sp. Fg.An	Gynaecology/obstetrics	Gynækologi/obstetrik, Int. Fjer. Sp. Fg anæstesi
+397	2998	Gynækologi/obstetrik, Int. Fjer. Spi. 1.An	Gynaecology/obstetrics	Gynækologi/obstetrik, Int. Fjer. Spi. 1 anæstesi
+398	2999	Gynækologi/obstetrik, Int. Fjern. Spi. Flg	Gynaecology/obstetrics	Gynækologi/obstetrik, Int. fjernelse Spi. følgende
+399	3000	Gynækologi/obstetrik, Int. Fjern. Spir. 1.	Gynaecology/obstetrics	Gynækologi/obstetrik, Int. fjernelse Spir. 1.
+400	3001	Gynækologi/obstetrik, Intracerv. Insemin.	Gynaecology/obstetrics	Gynækologi/obstetrik, Intracerv. Insemin.
+401	3002	Gynækologi/obstetrik, Intrauter. Insemin.	Gynaecology/obstetrics	Gynækologi/obstetrik, Intrauter. Insemin.
+402	3007	Gynækologi/obstetrik, Kryobeh. cer. Fg. An	Gynaecology/obstetrics	Gynækologi/obstetrik, Kryobeh. cer. Fg. anæstesi
+403	3008	Gynækologi/obstetrik, Kryobeh. cervix   1.	Gynaecology/obstetrics	Gynækologi/obstetrik, Kryobeh. cervix   1.
+404	3009	Gynækologi/obstetrik, Kryobeh. cervix 1.An	Gynaecology/obstetrics	Gynækologi/obstetrik, Kryobeh. cervix 1 anæstesi
+405	3010	Gynækologi/obstetrik, Kryobeh. cervix Flg.	Gynaecology/obstetrics	Gynækologi/obstetrik, Kryobeh. cervix følgende
+406	3013	Gynækologi/obstetrik, Mikrosk. Farv. Sek.3	Gynaecology/obstetrics	Gynækologi/obstetrik, Mikrosk. Farv. Sek.3
+407	3014	Gynækologi/obstetrik, Mikrosk. Ufar. Sek.3	Gynaecology/obstetrics	Gynækologi/obstetrik, Mikrosk. Ufar. Sek.3
+408	3015	Gynækologi/obstetrik, Obstetrisk Bistand	Gynaecology/obstetrics	Gynækologi/obstetrik, Obstetrisk Bistand
+409	3016	Gynækologi/obstetrik, Opsæt. af spiral	Gynaecology/obstetrics	Gynækologi/obstetrik, Opsæt. af spiral
+410	3017	Gynækologi/obstetrik, Opsætn. Af Spiral	Gynaecology/obstetrics	Gynækologi/obstetrik, Opsætn. af Spiral
+411	3018	Gynækologi/obstetrik, Opsætn. Spir. Fg. An	Gynaecology/obstetrics	Gynækologi/obstetrik, Opsætn. Spir. Fg. anæstesi
+412	3019	Gynækologi/obstetrik, Opsætn. Spiral    1.	Gynaecology/obstetrics	Gynækologi/obstetrik, Opsætn. Spiral    1.
+413	3020	Gynækologi/obstetrik, Opsætn. Spiral  Flg.	Gynaecology/obstetrics	Gynækologi/obstetrik, Opsætn. Spiral  følgende
+414	3021	Gynækologi/obstetrik, Opsætn. Spiral 1. An	Gynaecology/obstetrics	Gynækologi/obstetrik, Opsætn. Spiral 1. anæstesi
+415	3022	Gynækologi/obstetrik, Ovariecystepu. 1. An	Gynaecology/obstetrics	Gynækologi/obstetrik, Ovariecystepu. 1. anæstesi
+416	3023	Gynækologi/obstetrik, Ovariecystepunk. Flg	Gynaecology/obstetrics	Gynækologi/obstetrik, Ovariecystepunk. følgende
+417	3024	Gynækologi/obstetrik, Ovariecystepunkt. 1.	Gynaecology/obstetrics	Gynækologi/obstetrik, Ovariecystepunkt. 1.
+418	3026	Gynækologi/obstetrik, Paracervik./intracer	Gynaecology/obstetrics	Gynækologi/obstetrik, Paracervik./intracer
+419	3029	Gynækologi/obstetrik, Polypfjern. Cer. Ut.	Gynaecology/obstetrics	Gynækologi/obstetrik, Polypfjern. Cer. Ut.
+420	3030	Gynækologi/obstetrik, Polypfjernelse	Gynaecology/obstetrics	Gynækologi/obstetrik, Polypfjernelse
+421	3033	Gynækologi/obstetrik, Sekret-Gonokok*exp*1	Gynaecology/obstetrics	Gynækologi/obstetrik, Sekret-Gonokok*exp*1
+422	3034	Gynækologi/obstetrik, Sekret-Gonokok*mik*2	Gynaecology/obstetrics	Gynækologi/obstetrik, Sekret-Gonokok*mik*2
+423	3036	Gynækologi/obstetrik, Senere Kons. Fertil.	Gynaecology/obstetrics	Gynækologi/obstetrik, Senere konsultation Fertil.
+424	3041	Gynækologi/obstetrik, Serum-østradiolb.  6	Gynaecology/obstetrics	Gynækologi/obstetrik, Serum-østradiolb.  6
+425	3042	Gynækologi/obstetrik, Sexolog. Samtale	Gynaecology/obstetrics	Gynækologi/obstetrik, Sexolog. Samtale
+426	3047	Gynækologi/obstetrik, Svangerskabsreakt. 5	Gynaecology/obstetrics	Gynækologi/obstetrik, Svangerskabsreakt. 5
+427	3048	Gynækologi/obstetrik, Sædpræp. til insemin	Gynaecology/obstetrics	Gynækologi/obstetrik, Sædpræp. til insemin
+428	3050	Gynækologi/obstetrik, Tillæg for tolk Fer.	Gynaecology/obstetrics	Gynækologi/obstetrik, Tillæg for tolk Fer.
+429	3053	Gynækologi/obstetrik, Tlf.rådg.prakt.læge	Gynaecology/obstetrics	Gynækologi/obstetrik, telefon rådg prakt læge
+430	3054	Gynækologi/obstetrik, Tumorfjern. Ma. 1.An	Gynaecology/obstetrics	Gynækologi/obstetrik, Tumorfjern. Ma. 1 anæstesi
+431	3055	Gynækologi/obstetrik, Tumorfjern. Mam. Flg	Gynaecology/obstetrics	Gynækologi/obstetrik, Tumorfjern. Mam. følgende
+432	3056	Gynækologi/obstetrik, Tumorfjern. Mamma 1.	Gynaecology/obstetrics	Gynækologi/obstetrik, Tumorfjern. Mamma 1.
+433	3057	Gynækologi/obstetrik, U-Bakt.*dyrk Park* 3	Gynaecology/obstetrics	Gynækologi/obstetrik, U-Bakt.*dyrk Park* 3
+434	3058	Gynækologi/obstetrik, U-Bakt.*dyrk Rest*12	Gynaecology/obstetrics	Gynækologi/obstetrik, U-Bakt.*dyrk Rest*12
+435	3062	Gynækologi/obstetrik, U-Hormonanal*exp*  1	Gynaecology/obstetrics	Gynækologi/obstetrik, U-Hormonanal*exp*  1
+436	3067	Gynækologi/obstetrik, Ultralydscanning	Gynaecology/obstetrics	Gynækologi/obstetrik, Ultralydscanning
+437	3070	Gynækologi/obstetrik, Unders. Vaginalsek.1	Gynaecology/obstetrics	Gynækologi/obstetrik, Unders. Vaginalsek.1
+438	3079	Gynækologi/obstetrik, Vandscanning	Gynaecology/obstetrics	Gynækologi/obstetrik, Vandscanning
+439	3090	Gynækologi/obstetrik, indsæt.gestagenimpl	Gynaecology/obstetrics	Gynækologi/obstetrik, indsæt.gestagenimpl
+440	3094	Intern medicin, *b*ercs-Mikroskopi 1	Internal medicine	Intern medicin, *b*ercs-Mikroskopi 1
+441	3095	Intern medicin, *b*ercs-Reticulocyt2	Internal medicine	Intern medicin, *b*ercs-Reticulocyt2
+442	3096	Intern medicin, *fpt*s-Lipid Frkt.25	Internal medicine	Intern medicin, *fpt*s-Lipid Frkt.25
+443	3097	Intern medicin, *fpt*s-Triglycerid15	Internal medicine	Intern medicin, *fpt*s-Triglycerid15
+444	3102	Intern medicin, Allergenpro.fødem.os	Internal medicine	Intern medicin, Allergenpro.fødem.os
+445	3104	Intern medicin, Allergivacc. 1.aller	Internal medicine	Intern medicin, Allergivacc. 1.aller
+446	3105	Intern medicin, Allergivacc. eft.føl	Internal medicine	Intern medicin, Allergivacc. eft.føl
+447	3106	Intern medicin, Arbejdsekg*master*18	Internal medicine	Intern medicin, Arbejdsekg*master*18
+448	3111	Intern medicin, B-Erytrocyt*volfrk.1	Internal medicine	Intern medicin, B-Erytrocyt*volfrk.1
+449	3112	Intern medicin, B-Glukose *ej Stix*4	Internal medicine	Intern medicin, B-Glukose *ej Stix*4
+450	3113	Intern medicin, B-Glukose *stix*   1	Internal medicine	Intern medicin, B-Glukose *stix*   1
+451	3115	Intern medicin, B-Leukocyt. *park* 1	Internal medicine	Intern medicin, B-Leukocyt. *park* 1
+452	3117	Intern medicin, B-Trombocyt. *park*3	Internal medicine	Intern medicin, B-Trombocyt. *park*3
+453	3120	Intern medicin, Blodpr. Ekg I Hjem 6	Internal medicine	Intern medicin, Blodpr. Ekg i Hjem 6
+454	3121	Intern medicin, Blodpr. Exp        1	Internal medicine	Intern medicin, Blodpr. Exp        1
+455	3126	Intern medicin, Cøliakipakken_amt 15	Internal medicine	Intern medicin, Cøliakipakken_amt 15
+456	3128	Intern medicin, Døgnpulsoxymetri	Internal medicine	Intern medicin, Døgnpulsoxymetri
+457	3130	Intern medicin, EKG 12 afledninger	Internal medicine	Intern medicin, EKG 12 afledninger
+458	3132	Intern medicin, Ekg  3 Ext. 3 Præ. 9	Internal medicine	Intern medicin, Ekg  3 Ext. 3 Præ. 9
+459	3137	Intern medicin, Fpt-Dioxygen*absb*15	Internal medicine	Intern medicin, Fpt-Dioxygen*absb*15
+460	3142	Intern medicin, Knogletæthedsm.endok	Internal medicine	Intern medicin, Knogletæthedsm.endok
+461	3145	Intern medicin, Kontr. Oeso Gast Duo	Internal medicine	Intern medicin, Kontr. Oeso Gast Duo
+462	3146	Intern medicin, Kontr. Sigmoi./Colo.	Internal medicine	Intern medicin, Kontr. Sigmoi./Colo.
+463	3156	Intern medicin, Oeso. Gast.     Duo.	Internal medicine	Intern medicin, Oeso. Gast.     Duo.
+464	3157	Intern medicin, Oscillometri *2 Ex*6	Internal medicine	Intern medicin, Oscillometri *2 Ex*6
+465	3158	Intern medicin, Oscillometri *4ex*10	Internal medicine	Intern medicin, Oscillometri *4ex*10
+466	3164	Intern medicin, Pt-Ekg  3ext.3præ. 9	Internal medicine	Intern medicin, Pt-Ekg  3ext.3præ. 9
+467	3166	Intern medicin, Pt-Ekg Afl.   6    1	Internal medicine	Intern medicin, Pt-Ekg Afl.   6    1
+468	3176	Intern medicin, Sigmoideo./ Colosco.	Internal medicine	Intern medicin, Sigmoideo./ Colosco.
+469	3180	Intern medicin, Tlf.rådg.prakt.læge	Internal medicine	Intern medicin, telefon rådg prakt læge
+470	3182	Intern medicin, U-Bakt.*dyrk Park* 3	Internal medicine	Intern medicin, U-Bakt.*dyrk Park* 3
+471	3183	Intern medicin, U-Bakt.*dyrk Rest*12	Internal medicine	Intern medicin, U-Bakt.*dyrk Rest*12
+472	3190	Intern medicin, U-Sediment *park*  6	Internal medicine	Intern medicin, U-Sediment *park*  6
+473	3191	Intern medicin, Udvid. Lungefunktpr.	Internal medicine	Intern medicin, Udvid. Lungefunktpr.
+474	3192	Intern medicin, Ultralyd øv. abdomen	Internal medicine	Intern medicin, Ultralyd øv. abdomen
+475	3205	Almen Lægehjælp 80, Afregning af sygebesøg og møder (regional §2-aftale, Region Hovedstaden)	General practitioner	Almen Lægehjælp 80, Afregning af sygebesøg og møder (regional §2-aftale, Region Hovedstaden)
+476	3214	Almen Lægehjælp 80, Alvorligt syge og døende — i lægens konsultation (regional §2-aftale, Region Syddanmark)	General practitioner	Almen Lægehjælp 80, Alvorligt syge og døende — i lægens konsultation (regional §2-aftale, Region Syddanmark)
+477	3215	Almen Lægehjælp 80, Alvorligt syge og døende — via telefon pr. 10 min. (regional §2-aftale, Region Syddanmark)	General practitioner	Almen Lægehjælp 80, Alvorligt syge og døende — via telefon per 10 min. (regional §2-aftale, Region Syddanmark)
+478	3221	Almen Lægehjælp 80, EKG inkl. præcordiale aflødninger (regional §2-aftale, Region Midtjylland)	General practitioner	Almen Lægehjælp 80, EKG inkl. præcordiale aflødninger (regional §2-aftale, Region Midtjylland)
+479	3223	Almen Lægehjælp 80, Fokuseret somatisk undersøgelse til borgere med psykisk sygdom	General practitioner	Almen Lægehjælp 80, Fokuseret somatisk undersøgelse til borgere med psykisk sygdom
+480	3240	Almen Lægehjælp 80, Indkaldelse demensundersøgelse (regional §2-aftale, Region Hovedstaden)	General practitioner	Almen Lægehjælp 80, Indkaldelse demensundersøgelse (regional §2-aftale, Region Hovedstaden)
+481	3246	Almen Lægehjælp 80, Kørselsgodtgørelse pr. kørt km (regional §2-aftale, Region Hovedstaden)	General practitioner	Almen Lægehjælp 80, Kørselsgodtgørelse per kørt km (regional §2-aftale, Region Hovedstaden)
+482	3247	Almen Lægehjælp 80, Lægefaglig vurdering af patienter på kommunal akutfunktion/akutteam	General practitioner	Almen Lægehjælp 80, Lægefaglig vurdering af patienter på kommunal akutfunktion/akutteam
+483	3249	Almen Lægehjælp 80, Medgået tidsforbrug for kørsel pr. påbegyndt 10. minut udover 15 km (regional §2-aftale, Region Sjælland)	General practitioner	Almen Lægehjælp 80, Medgået tidsforbrug for kørsel per påbegyndt 10. minut udover 15 km (regional §2-aftale, Region Sjælland)
+484	3257	Almen Lægehjælp 80, Opfølgning efter indlæggelse — i lægens konsultation (regional §2-aftale, Region Syddanmark)	General practitioner	Almen Lægehjælp 80, Opfølgning efter indlæggelse — i lægens konsultation (regional §2-aftale, Region Syddanmark)
+485	3258	Almen Lægehjælp 80, Opsøgende hjemmebesøg (skrøbelige ældre, normalt over 75 år) + tidsforbrugstillæg og evt	General practitioner	Almen Lægehjælp 80, Opsøgende hjemmebesøg (skrøbelige ældre, normalt over 75 år) + tidsforbrugstillæg og evt
+486	3259	Almen Lægehjælp 80, Planlægningsmøde (regional §2-aftale, Region Midtjylland)	General practitioner	Almen Lægehjælp 80, Planlægningsmøde (regional §2-aftale, Region Midtjylland)
+487	3271	Almen Lægehjælp 80, Sundhedstjek til borgere på botilbud + tidsforbrugstillæg og evt	General practitioner	Almen Lægehjælp 80, Sundhedstjek til borgere på botilbud + tidsforbrugstillæg og evt
+488	3278	Almen Lægehjælp 80, Telefonisk henvendelse til/fra kommunernes Social- og Sundhedsforvaltninger til/fra lægen (regional §2-aftale, Region Sjælland)	General practitioner	Almen Lægehjælp 80, Telefonisk henvendelse til/fra kommunernes Social- og Sundhedsforvaltninger til/fra lægen (regional §2-aftale, Region Sjælland)
+489	3281	Almen Lægehjælp 80, Tidsforbrugstillæg 15 min. (regional §2-aftale, Region Syddanmark)	General practitioner	Almen Lægehjælp 80, Tidsforbrugstillæg 15 min. (regional §2-aftale, Region Syddanmark)
+490	3282	Almen Lægehjælp 80, Tidsforbrugstillæg 20 min. (regional §2-aftale, Region Syddanmark)	General practitioner	Almen Lægehjælp 80, Tidsforbrugstillæg 20 min. (regional §2-aftale, Region Syddanmark)
+491	3283	Almen Lægehjælp 80, Tidsforbrugstillæg 25 min. (regional §2-aftale, Region Syddanmark)	General practitioner	Almen Lægehjælp 80, Tidsforbrugstillæg 25 min. (regional §2-aftale, Region Syddanmark)
+492	3284	Almen Lægehjælp 80, Tidsforbrugstillæg 30 min. (regional §2-aftale, Region Syddanmark)	General practitioner	Almen Lægehjælp 80, Tidsforbrugstillæg 30 min. (regional §2-aftale, Region Syddanmark)
+493	3285	Almen Lægehjælp 80, Tidstillægsmodul (regional §2-aftale, Region Midtjylland)	General practitioner	Almen Lægehjælp 80, Tidstillægsmodul (regional §2-aftale, Region Midtjylland)
+494	3286	Almen Lægehjælp 80, Tværsektoriel lægelig kommunikation (regional §2-aftale, Region Hovedstaden)	General practitioner	Almen Lægehjælp 80, Tværsektoriel lægelig kommunikation (regional §2-aftale, Region Hovedstaden)
+495	3292	Almen Lægehjælp 80, Vaccination mod hepatitis B efter konkret anbefaling fra Styrelsen for Patientsikkerhed	General practitioner	Almen Lægehjælp 80, Vaccination mod hepatitis B efter konkret anbefaling fra Styrelsen for Patientsikkerhed
+496	3294	Almen Lægehjælp 80, Video-/telekonference pr. påbegyndt 10 min. (regional §2-aftale, Region Syddanmark)	General practitioner	Almen Lægehjælp 80, Video-/telekonference per påbegyndt 10 min. (regional §2-aftale, Region Syddanmark)
+497	3297	Almen Lægehjælp 80, Årlig helbredsundersøgelse (regional §2-aftale, Region Hovedstaden)	General practitioner	Almen Lægehjælp 80, Årlig helbredsundersøgelse (regional §2-aftale, Region Hovedstaden)
+498	3299	Almen lægehjælp 80, #2-aftale århus ak.	General practitioner	Almen lægehjælp 80, #2-aftale århus ak.
+499	3310	Almen lægehjælp 80, 1.Orale Poliovaccin.	General practitioner	Almen lægehjælp 80, 1.Orale Poliovaccin.
+500	3321	Almen lægehjælp 80, 2.Orale Poliovaccin.	General practitioner	Almen lægehjælp 80, 2.Orale Poliovaccin.
+501	3325	Almen lægehjælp 80, 3 u.f. blod i fæces5	General practitioner	Almen lægehjælp 80, 3 uden f blod i fæces5
+502	3329	Almen lægehjælp 80, 3.Orale Poliovaccin.	General practitioner	Almen lægehjælp 80, 3.Orale Poliovaccin.
+503	3340	Almen lægehjælp 80, Addition, Risikoest.	General practitioner	Almen lægehjælp 80, Addition, Risikoest.
+504	3341	Almen lægehjælp 80, Afst.takst ov. 10 km	General practitioner	Almen lægehjælp 80, Tillægstakst ved besøg ud over 10 km, pr
+505	3342	Almen lægehjælp 80, Afst.till. ov. 20 Km	General practitioner	Almen lægehjælp 80, Afst tillæg ov. 20 Km
+506	3343	Almen lægehjælp 80, Afst.till. ov. 20 km	General practitioner	Almen lægehjælp 80, Afst tillæg ov. 20 km
+507	3358	Almen lægehjælp 80, Aftalekons. B050	General practitioner	Almen lægehjælp 80, Aftalekons. B050
+508	3362	Almen lægehjælp 80, Alkoholsamt. ¤2/B080	General practitioner	Almen lægehjælp 80, Alkoholsamt. ¤2/B080
+509	3363	Almen lægehjælp 80, Allergiud. ifm prikt	General practitioner	Almen lægehjælp 80, Allergiudredning i forbindelse med priktest
+510	3366	Almen lægehjælp 80, Anlæg. Af Im.Bandage	General practitioner	Almen lægehjælp 80, Anlæggelse af immobiliserende bandager
+511	3374	Almen lægehjælp 80, Audiometriunders. 10	General practitioner	Almen lægehjælp 80, Audiometriunders. 10
+512	3379	Almen lægehjælp 80, B-hæmogl. (- fotom.)	General practitioner	Almen lægehjælp 80, B-hæmogl. (- fotom.)
+513	3380	Almen lægehjælp 80, B-hæmogl.(U/fotom.)1	General practitioner	Almen lægehjælp 80, B-hæmogl.(U/fotom.)1
+514	3383	Almen lægehjælp 80, Basisk Fosfatase	General practitioner	Almen lægehjælp 80, Basisk Fosfatase
+515	3384	Almen lægehjælp 80, Basisyd. ¤2-aft. A65	General practitioner	Almen lægehjælp 80, Basisyd. ¤2-aft. A65
+516	3385	Almen lægehjælp 80, Basisydelse ¤2A20	General practitioner	Almen lægehjælp 80, Basisydelse ¤2A20
+517	3387	Almen lægehjælp 80, Besøg 1 dags varigh.	General practitioner	Almen lægehjælp 80, Besøg 1 dags varigh.
+518	3388	Almen lægehjælp 80, Besøg ? ags varigh.	General practitioner	Almen lægehjælp 80, Besøg ? ags varigh.
+519	3389	Almen lægehjælp 80, Besøg I	General practitioner	Almen lægehjælp 80, Sygebesøg op til 4 km4 + evt
+520	3391	Almen lægehjælp 80, Besøg II	General practitioner	Almen lægehjælp 80, Sygebesøg fra 5 km til 8 km4 + evt
+521	3393	Almen lægehjælp 80, Besøg III	General practitioner	Almen lægehjælp 80, Sygebesøg fra 9 km til 12 km4 + evt
+522	3394	Almen lægehjælp 80, Besøg IV	General practitioner	Almen lægehjælp 80, Sygebesøg fra 13 km til 16 km4 + evt
+523	3396	Almen lægehjælp 80, Besøg V	General practitioner	Almen lægehjælp 80, Sygebesøg fra 17 km til 20 km4 + evt
+524	3397	Almen lægehjælp 80, Besøg VI	General practitioner	Almen lægehjælp 80, Sygebesøg fra 21 km4,5 fra sygebesøgsstedet + evt
+525	3405	Almen lægehjælp 80, Biopsi M. Mikroskopi	General practitioner	Almen lægehjælp 80, Biopsi med efterfølgende mikroskopisk us
+526	3410	Almen lægehjælp 80, Blodprøve, cen. m.v	General practitioner	Almen lægehjælp 80, Blodprøve, cen. mv
+527	3411	Almen lægehjælp 80, Blodprøve, cen. m.v.	General practitioner	Almen lægehjælp 80, Blodprøve, cen. mv
+528	3412	Almen lægehjælp 80, Blodprøvetagn. amt50	General practitioner	Almen lægehjælp 80, Blodprøvetagn. amt50
+529	3413	Almen lægehjælp 80, Blodprøvetagning	General practitioner	Almen lægehjælp 80, Blodprøvetagning fra åre inkl. præp. og centrifugering pr. forsendelse
+530	3417	Almen lægehjælp 80, Børneunders. Test	General practitioner	Almen lægehjælp 80, Børneunders. Test
+531	3421	Almen lægehjælp 80, Dagt. egen læge KBH.	General practitioner	Almen lægehjælp 80, Dagt. egen læge KBH.
+532	3422	Almen lægehjælp 80, Dagt.anden læge KBH.	General practitioner	Almen lægehjælp 80, Dagt.anden læge KBH.
+533	3423	Almen lægehjælp 80, Deltagelse i forsøg	General practitioner	Almen lægehjælp 80, Deltagelse i forsøg
+534	3425	Almen lægehjælp 80, Demensudred. ¤2 A65	General practitioner	Almen lægehjælp 80, Demensudred. ¤2 A65
+535	3426	Almen lægehjælp 80, Demensudredning B080	General practitioner	Almen lægehjælp 80, Demensudredning B080
+536	3427	Almen lægehjælp 80, Demensunder. Kbh Kom	General practitioner	Almen lægehjælp 80, Demensunder. Kbh Kom
+537	3428	Almen lægehjælp 80, Demensundersøge. A20	General practitioner	Almen lægehjælp 80, Demensundersøge. A20
+538	3434	Almen lægehjælp 80, Differ.- og leu. tæl	General practitioner	Almen lægehjælp 80, Differ.- og leu. tæl
+539	3435	Almen lægehjælp 80, Differentialtælling6	General practitioner	Almen lægehjælp 80, Differentialtælling6
+540	3441	Almen lægehjælp 80, Elkard. exc. præc. 6	General practitioner	Almen lægehjælp 80, Elkard. exc. præc. 6
+541	3442	Almen lægehjælp 80, Elkard. inkl. præc.9	General practitioner	Almen lægehjælp 80, Elektrokardiografi, inkl
+542	3444	Almen lægehjælp 80, Eval. graviditet A42	General practitioner	Almen lægehjælp 80, Eval. graviditet A42
+543	3447	Almen lægehjælp 80, Fj. af svulster	General practitioner	Almen lægehjælp 80, Fjernelse af subkutane eller dybereliggende svulster inkl
+544	3451	Almen lægehjælp 80, Folkeundersøg.   A60	General practitioner	Almen lægehjælp 80, Folkeundersøg.   A60
+545	3452	Almen lægehjælp 80, Forb. helbredsssamt	General practitioner	Almen lægehjælp 80, Forb. helbredsssamt
+546	3453	Almen lægehjælp 80, Forbe.opføl.bes¤2A80	General practitioner	Almen lægehjælp 80, Forbe.opføl.bes¤2A80
+547	3454	Almen lægehjælp 80, Foreb. hjemmebes.A65	General practitioner	Almen lægehjælp 80, Foreb. hjemmebes.A65
+548	3458	Almen lægehjælp 80, Forløbs.diabetes	General practitioner	Almen lægehjælp 80, Forløbs.diabetes
+549	3460	Almen lægehjælp 80, Fra 4 indtil 8 km.	General practitioner	Almen lægehjælp 80, Fra 4 indtil 8 km.
+550	3461	Almen lægehjælp 80, Fra 8 indtil 12 km.	General practitioner	Almen lægehjælp 80, Fra 8 indtil 12 km.
+551	3462	Almen lægehjælp 80, Fredericia-forsøg	General practitioner	Almen lægehjælp 80, Fredericia-forsøg
+552	3464	Almen lægehjælp 80, Fremmedlegeme ¯j. Mv	General practitioner	Almen lægehjælp 80, Fjernelse af fremmedlegemer fra øje, øregang, næse og svælg
+553	3466	Almen lægehjælp 80, Frems. digit billed	General practitioner	Almen lægehjælp 80, Frems. digit billed
+554	3468	Almen lægehjælp 80, G-gluk. add. a65	General practitioner	Almen lægehjælp 80, G-gluk. add. a65
+555	3473	Almen lægehjælp 80, Hamiltons depr.	General practitioner	Almen lægehjælp 80, Hamiltons depr.
+556	3474	Almen lægehjælp 80, HebB stofmis mæn sex	General practitioner	Almen lægehjælp 80, HebB stofmis mæn sex
+557	3475	Almen lægehjælp 80, HepaB  vac barn 1mdr	General practitioner	Almen lægehjælp 80, Vaccination mod hepatitis B til børn under 2 år, som er født af en mor med kronisk hepatitis B
+558	3478	Almen lægehjælp 80, HepaB vac ikke smit	General practitioner	Almen lægehjælp 80, Hepatitis B-vaccination eller A-B-vaccination til særlige risikogrupper (vaccine gives 3 gange)
+559	3479	Almen lægehjælp 80, HepaB vac.  C infekt	General practitioner	Almen lægehjælp 80, HepaB vac.  C infekt
+560	3480	Almen lægehjælp 80, HepaB vac. u. 15år	General practitioner	Almen lægehjælp 80, HepaB vac. uden 15år
+561	3482	Almen lægehjælp 80, Hepatet.B/Downs Syn.	General practitioner	Almen lægehjælp 80, Hepatet.B/Downs Syn.
+562	3483	Almen lægehjælp 80, Hjem.blodtryk.målA35	General practitioner	Almen lægehjælp 80, Hjem.blodtryk.målA35
+563	3486	Almen lægehjælp 80, Hjemmeblodtrykmåling	General practitioner	Almen lægehjælp 80, Hjemmeblodtrykmåling
+564	3488	Almen lægehjælp 80, Hormonundersøgelser1	General practitioner	Almen lægehjælp 80, Hormonundersøgelser1
+565	3489	Almen lægehjælp 80, Hypp lægevagtsb. A80	General practitioner	Almen lægehjælp 80, Hypp lægevagtsb. A80
+566	3496	Almen lægehjælp 80, II. Mikr. bakt. o.l.	General practitioner	Almen lægehjælp 80, II. mikroskopi bakteriologisk og l
+567	3497	Almen lægehjælp 80, II. Mikros. bakt ol3	General practitioner	Almen lægehjælp 80, II. Mikros. bakteriologisk ol3
+568	3498	Almen lægehjælp 80, II. Mirko. bakt. ol.	General practitioner	Almen lægehjælp 80, II. Mirko. bakteriologisk ol.
+569	3499	Almen lægehjælp 80, II. Svampe	General practitioner	Almen lægehjælp 80, II. Svampe
+570	3500	Almen lægehjælp 80, II. Svampe (dyrk.) 3	General practitioner	Almen lægehjælp 80, II. Svampe (dyrk.) 3
+571	3501	Almen lægehjælp 80, III. Andet	General practitioner	Almen lægehjælp 80, III. Andet
+572	3502	Almen lægehjælp 80, III. Andet (dyrk.) 3	General practitioner	Almen lægehjælp 80, III. Andet (dyrk.) 3
+573	3503	Almen lægehjælp 80, III. Andet(mikros.)3	General practitioner	Almen lægehjælp 80, III. Andet(mikros.)3
+574	3504	Almen lægehjælp 80, III. Mikros. a.bio.	General practitioner	Almen lægehjælp 80, III. Mikros. a biopsi
+575	3505	Almen lægehjælp 80, III. Mirkos. a. bio.	General practitioner	Almen lægehjælp 80, III. Mirkos. a. biopsi
+576	3508	Almen lægehjælp 80, Inds. data Fyns Amt	General practitioner	Almen lægehjælp 80, Inds. data Fyns Amt
+577	3509	Almen lægehjælp 80, Indtil 4 km.	General practitioner	Almen lægehjælp 80, Indtil 4 km.
+578	3510	Almen lægehjælp 80, Infl.vacc. 65år hjem	General practitioner	Almen lægehjælp 80, Infl.vacc. 65år hjem
+579	3511	Almen lægehjælp 80, Infl.vacc. over 65år	General practitioner	Almen lægehjælp 80, Infl.vacc. over 65år
+580	3512	Almen lægehjælp 80, Ins/udl væ/valadn sk	General practitioner	Almen lægehjælp 80, Ins/udl væ/valadn sk
+581	3514	Almen lægehjælp 80, Jordemoderkonsultat.	General practitioner	Almen lægehjælp 80, Jordemoderkonsultat.
+582	3515	Almen lægehjælp 80, Kapillærresistenspr3	General practitioner	Almen lægehjælp 80, Kapillærresistenspr3
+583	3518	Almen lægehjælp 80, Kon.m.klinisk diæti.	General practitioner	Almen lægehjælp 80, Kon med klinisk diæti.
+584	3522	Almen lægehjælp 80, Konsult. 0-15 min	General practitioner	Almen lægehjælp 80, Konsult. 0-15 min
+585	3525	Almen lægehjælp 80, Kostvejledning	General practitioner	Almen lægehjælp 80, Kostvejledning
+586	3526	Almen lægehjælp 80, Kr/km. udover 21 km.	General practitioner	Almen lægehjælp 80, Kr/km. udover 21 km.
+587	3529	Almen lægehjælp 80, Kørselsgodtgør. I	General practitioner	Almen lægehjælp 80, 4. Undersøgelse (ca. 8 uger efter fødslen)
+588	3540	Almen lægehjælp 80, Lungefunkt. ¤2A20	General practitioner	Almen lægehjælp 80, Lungefunkt. ¤2A20
+589	3543	Almen lægehjælp 80, Lægehjælp       2502	General practitioner	Almen lægehjælp 80, Patientledsagelse i ambulance og rejsetillæg til øer, hvor der ikke er bosat læge pr
+590	3544	Almen lægehjælp 80, Lægehjælp 2201	General practitioner	Almen lægehjælp 80, Patientledsagelse i ambulance og rejsetillæg til øer, hvor der ikke er bosat læge pr
+591	3545	Almen lægehjælp 80, Længere enkeltkons.	General practitioner	Almen lægehjælp 80, Længere enkeltkons.
+592	3546	Almen lægehjælp 80, Længerevar.sygeb.A60	General practitioner	Almen lægehjælp 80, Længerevar.sygeb.A60
+593	3547	Almen lægehjælp 80, MFR-vaccinat. 1 år	General practitioner	Almen lægehjælp 80, Vaccination mod mæslinger, fåresyge og røde hunde (MFR-vaccination) (vaccination gives 2
+594	3564	Almen lægehjælp 80, MMSE-test Frb. Kom.	General practitioner	Almen lægehjælp 80, MMSE-test Frb. Kom.
+595	3579	Almen lægehjælp 80, Møde udover 3 modul.	General practitioner	Almen lægehjælp 80, Møder med social- og sundhedsforvaltninger pr
+596	3580	Almen lægehjælp 80, Mødedeltagelse   A65	General practitioner	Almen lægehjælp 80, Mødedeltagelse   A65
+597	3581	Almen lægehjælp 80, Nervesanatorier M.V.	General practitioner	Almen lægehjælp 80, Nervesanatorier mv
+598	3582	Almen lægehjælp 80, Næsetamponade M.V.	General practitioner	Almen lægehjælp 80, Næsetamponade, standsning af blødning efter tandudtrækning
+599	3585	Almen lægehjælp 80, Opfølg.helbreds. A80	General practitioner	Almen lægehjælp 80, Opfølg.helbreds. A80
+600	3586	Almen lægehjælp 80, Opfølg.samt. i hjem	General practitioner	Almen lægehjælp 80, Opfølg.samt. i hjem
+601	3587	Almen lægehjælp 80, Opfølg.samt. i kons.	General practitioner	Almen lægehjælp 80, Opfølg.samt. i konsultation
+602	3588	Almen lægehjælp 80, Oplivningsforsøg	General practitioner	Almen lægehjælp 80, Genoplivning, herunder iltbehandling ved livstruende tilstande
+603	3589	Almen lægehjælp 80, Ops. hjemmebesøg	General practitioner	Almen lægehjælp 80, Ops. hjemmebesøg
+604	3591	Almen lægehjælp 80, Opsøgende virksomhed	General practitioner	Almen lægehjælp 80, Opsøgende virksomhed
+605	3593	Almen lægehjælp 80, Orm. Ormeled I Fæc 1	General practitioner	Almen lægehjælp 80, Orm. Ormeled i Fæc 1
+606	3612	Almen lægehjælp 80, Polyfarmaci pt. a101	General practitioner	Almen lægehjælp 80, Polyfarmaci pt. a101
+607	3618	Almen lægehjælp 80, Præ.jour.sk. ¤2/A70	General practitioner	Almen lægehjælp 80, Præ.jour.sk. ¤2/A70
+608	3624	Almen lægehjælp 80, Repos./ Paraphimosis	General practitioner	Almen lægehjælp 80, Repos./ Paraphimosis
+609	3625	Almen lægehjælp 80, Røntgenund.¤2-aftale	General practitioner	Almen lægehjælp 80, Røntgenund.¤2-aftale
+610	3626	Almen lægehjælp 80, Samtalebeh. 1 samt.	General practitioner	Almen lægehjælp 80, samtalebehandling 1 samt.
+611	3627	Almen lægehjælp 80, Samtalebeh. 2 samt.	General practitioner	Almen lægehjælp 80, samtalebehandling 2 samt.
+612	3628	Almen lægehjælp 80, Samtalebeh. 3 samt.	General practitioner	Almen lægehjælp 80, samtalebehandling 3 samt.
+613	3629	Almen lægehjælp 80, Samtalebeh. 4 samt.	General practitioner	Almen lægehjælp 80, samtalebehandling 4 samt.
+614	3630	Almen lægehjælp 80, Samtalebeh. 40 min.	General practitioner	Almen lægehjælp 80, samtalebehandling 40 min.
+615	3631	Almen lægehjælp 80, Samtalebeh. 5 samt.	General practitioner	Almen lægehjælp 80, samtalebehandling 5 samt.
+616	3632	Almen lægehjælp 80, Samtalebeh. 6 samt.	General practitioner	Almen lægehjælp 80, samtalebehandling 6 samt.
+617	3633	Almen lægehjælp 80, Samtalebeh. 7 samt.	General practitioner	Almen lægehjælp 80, samtalebehandling 7 samt.
+618	3636	Almen lægehjælp 80, Samtaleterapiforløb	General practitioner	Almen lægehjælp 80, Samtaleterapiforløb
+619	3644	Almen lægehjælp 80, Sindslid. 1. Indlæg.	General practitioner	Almen lægehjælp 80, 1. tvangsindlæggelse (røde eller gule papirer)
+620	3646	Almen lægehjælp 80, Sindslid. Tvangsindl	General practitioner	Almen lægehjælp 80, Sindslid. Tvangsindl
+621	3647	Almen lægehjælp 80, Skemaudf. add. a65	General practitioner	Almen lægehjælp 80, Skemaudf. add. a65
+622	3648	Almen lægehjælp 80, Skemaudf. diabetes	General practitioner	Almen lægehjælp 80, Skemaudf. diabetes
+623	3649	Almen lægehjælp 80, Socialmed. samarb.	General practitioner	Almen lægehjælp 80, Socialmed. samarb.
+624	3650	Almen lægehjælp 80, Spermaund. kontrol 5	General practitioner	Almen lægehjælp 80, Spermaund. kontrol 5
+625	3651	Almen lægehjælp 80, St. Udbr. Læsioner	General practitioner	Almen lægehjælp 80, Behandling af store udbredte læsioner og forbrændinger
+626	3652	Almen lægehjælp 80, Støtte pårørende	General practitioner	Almen lægehjælp 80, Støtte pårørende
+627	3657	Almen lægehjælp 80, Systemat. screening	General practitioner	Almen lægehjælp 80, Systemat. screening
+628	3658	Almen lægehjælp 80, Sænkningsreaktion  2	General practitioner	Almen lægehjælp 80, Sænkningsreaktion
+629	3659	Almen lægehjælp 80, Særkons. Sv.Forebyg.	General practitioner	Almen lægehjælp 80, Særkons. Sv.Forebyg.
+630	3662	Almen lægehjælp 80, Tapning af væske	General practitioner	Almen lægehjælp 80, Tapning af væskesamling fra større led i terapeutisk øjemed – ikke i diagnostisk øjemed eller
+631	3663	Almen lægehjælp 80, Tel. henv. til foræl	General practitioner	Almen lægehjælp 80, Honorar for telefonisk henvendelse til forældrene forud for MFR-vaccination
+632	3664	Almen lægehjælp 80, Tel. kons. A50	General practitioner	Almen lægehjælp 80, Tel. konsultation A50
+633	3669	Almen lægehjælp 80, Thrombin-målingerA42	General practitioner	Almen lægehjælp 80, Thrombin-målingerA42
+634	3671	Almen lægehjælp 80, Tidstillæg	General practitioner	Almen lægehjælp 80, Tidstillæg
+635	3680	Almen lægehjælp 80, Tillæg tolkehonor.	General practitioner	Almen lægehjælp 80, Tillæg tolkehonor.
+636	3683	Almen lægehjælp 80, Tillæg v. kighostev.	General practitioner	Almen lægehjælp 80, Tillæg v. kighostev.
+637	3690	Almen lægehjælp 80, Tlf.Kons. M. Henv.	General practitioner	Almen lægehjælp 80, telefon konsultation med Henv.
+638	3692	Almen lægehjælp 80, Tlf.kons.m.bes./kon.	General practitioner	Almen lægehjælp 80, telefon konsultation med besøg/kon.
+639	3693	Almen lægehjælp 80, Tlf.kons.u.bes./kon.	General practitioner	Almen lægehjælp 80, telefon konsultation uden besøg/kon.
+640	3697	Almen lægehjælp 80, Tympanomet. v. kons.	General practitioner	Almen lægehjælp 80, Tympanomet. v. konsultation
+641	3702	Almen lægehjælp 80, Udfyld. af dødsa.s.2	General practitioner	Almen lægehjælp 80, Udfyldelse af dødsattest side 2 inkl
+642	3704	Almen lægehjælp 80, Udover 20 km.	General practitioner	Almen lægehjælp 80, Udover 20 km.
+643	3705	Almen lægehjælp 80, Udskrivningskonfer.	General practitioner	Almen lægehjælp 80, Udskrivningskonfer.
+644	3706	Almen lægehjælp 80, Udtagning af prøve	General practitioner	Almen lægehjælp 80, Udtagning af prøve af livmoder,-mund og -hals til cytologisk undersøgelse inkl
+645	3710	Almen lægehjælp 80, Urin Blod Mv V.Stix1	General practitioner	Almen lægehjælp 80, Urin Blod Mv V.Stix1
+646	3715	Almen lægehjælp 80, Urin Til Resistens 6	General practitioner	Almen lægehjælp 80, Urin til resistensbestemmelse
+647	3726	Almen lægehjælp 80, Vaccinat.  2-10 år	General practitioner	Almen lægehjælp 80, Vaccinat.  2-10 år
+648	3727	Almen lægehjælp 80, Vaccinat. 11-12 år	General practitioner	Almen lægehjælp 80, Vaccinat. 11-12 år
+649	3728	Almen lægehjælp 80, Vaccinat. Inden 2 år	General practitioner	Almen lægehjælp 80, Vaccinat. Inden 2 år
+650	3733	Almen lægehjælp 80, Vejl. af svang. 2143	General practitioner	Almen lægehjælp 80, Vejledning og undersøgelse i forbindelse med anmodning om svangerskabsafbrydelse og/eller
+651	3736	Almen lægehjælp 80, Vejl.svanger. spiral	General practitioner	Almen lægehjælp 80, Vejledning om svangerskabsforebyggende metoder ved indlæggelse af spiral*
+652	3737	Almen lægehjælp 80, Vejl.svangerf.p-pil.	General practitioner	Almen lægehjælp 80, Vejledning om svangerskabsforebyggende metoder herunder evt
+653	3738	Almen lægehjælp 80, Venesectio Tilrådet	General practitioner	Almen lægehjælp 80, Venesektio tilrådet af hospital eller speciallæge samt ved livstruende tilstande
+654	3741	Almen lægehjælp 80, aft. diab.kontrol	General practitioner	Almen lægehjælp 80, aft. diab.kontrol
+655	3748	Almen lægehjælp 80, diagn.hjælp psyk.dia	General practitioner	Almen lægehjælp 80, diagnostisk hjælp psyk.dia
+656	3750	Almen lægehjælp 80, fj. ørevoks	General practitioner	Almen lægehjælp 80, fj. ørevoks
+657	3753	Almen lægehjælp 80, fødselshjælp	General practitioner	Almen lægehjælp 80, fødselshjælp
+658	3754	Almen lægehjælp 80, hapatitis vacc i daginst.	General practitioner	Almen lægehjælp 80, hapatitis vacc i daginst.
+659	3756	Almen lægehjælp 80, konf. allegispl. A50	General practitioner	Almen lægehjælp 80, konf. allegispl. A50
+660	3764	Almen lægehjælp 80, nattevagtslæger afst	General practitioner	Almen lægehjælp 80, nattevagtslæger afst
+661	3766	Almen lægehjælp 80, pnoumokok vacc. 12 mdr	General practitioner	Almen lægehjælp 80, pnoumokok vacc. 12 mdr
+662	3768	Almen lægehjælp 80, pnoumokok vacc. 5 mdr	General practitioner	Almen lægehjælp 80, pnoumokok vacc. 5 mdr
+663	3769	Almen lægehjælp 80, psyk.m.test	General practitioner	Almen lægehjælp 80, Diagnostik, udredning og opfølgning ved anvendelse af fagligt anerkendte psykometriske test6
+664	3770	Almen lægehjælp 80, psykometrisk test	General practitioner	Almen lægehjælp 80, psykometrisk test
+665	3772	Almen lægehjælp 80, tel. drøftelse A50	General practitioner	Almen lægehjælp 80, tel. drøftelse A50
+666	3773	Almen lægehjælp 80, telefonkons. ved forløbsydelse diabetes	General practitioner	Almen lægehjælp 80, telefonkons. ved forløbsydelse diabetes
+667	3782	Almen lægehjælp 80, vagtbr. B-vagt a42	General practitioner	Almen lægehjælp 80, vagtbr. B-vagt a42
+668	3786	Almen lægehjælp 80, ¤2-aftale ak. 50	General practitioner	Almen lægehjælp 80, ¤2-aftale ak. 50
+669	3787	Almen lægehjælp 80, ¤2.A35Afstandstillæg	General practitioner	Almen lægehjælp 80, ¤2.A35Afstandstillæg
+670	3789	Almen lægehjælp 80, ®ldreproj. Skanderb.	General practitioner	Almen lægehjælp 80, ®ldreproj. Skanderb.
+671	3790	Almen lægehjælp 80, årskontr.diabetes	General practitioner	Almen lægehjælp 80, årskontr.diabetes
+672	3792	Almen lægehjælp 80, årskontrol,diab. a20	General practitioner	Almen lægehjælp 80, årskontrol,diab. a20
+673	3796	KFA-vagtordning 81, Akutte Tilfælde Ef	KFA on-call service 81	KFA-vagtordning 81, Akutte Tilfælde Ef
+674	3797	KFA-vagtordning 81, Anlæg. Af Im.Bandage	KFA on-call service 81	KFA-vagtordning 81, Anlæg. af Im.Bandage
+675	3802	KFA-vagtordning 81, Brud af Skinneben Mv	KFA on-call service 81	KFA-vagtordning 81, Brud af Skinneben Mv
+676	3803	KFA-vagtordning 81, Elkard. exc. præc. 6	KFA on-call service 81	KFA-vagtordning 81, Elkard. exc. præc. 6
+677	3806	KFA-vagtordning 81, Flere v. inst. besøg	KFA on-call service 81	KFA-vagtordning 81, Flere v. inst. besøg
+678	3807	KFA-vagtordning 81, Fremmedlegeme Hud Mv	KFA on-call service 81	KFA-vagtordning 81, Fremmedlegeme Hud Mv
+679	3808	KFA-vagtordning 81, Fremmedlegeme øj. Mv	KFA on-call service 81	KFA-vagtordning 81, Fremmedlegeme øj. Mv
+680	3810	KFA-vagtordning 81, Kørselsgodtgør.    I	KFA on-call service 81	KFA-vagtordning 81, Kørselsgodtgør.    i
+681	3817	KFA-vagtordning 81, Sindslid. 1. Indlæg	KFA on-call service 81	KFA-vagtordning 81, Sindslid. 1. Indlæg
+682	3818	KFA-vagtordning 81, Sindslid. Genindlæg	KFA on-call service 81	KFA-vagtordning 81, Sindslid. Genindlæg
+683	3823	KFA-vagtordning 81, Udstedelse dødsa.s.2	KFA on-call service 81	KFA-vagtordning 81, Udstedelse dødsa.s.2
+684	3824	KFA-vagtordning 81, Urin Blod Mv V.Stix1	KFA on-call service 81	KFA-vagtordning 81, Urin Blod Mv V.Stix1
+685	3826	KFA-vagtordning 81, lægehj. ingen praks.	KFA on-call service 81	KFA-vagtordning 81, lægehj. ingen praks.
+686	3830	Kak vagtlægehjælp 82, Afst.takst ov. 10 km	KAK on-call GP 82	Kak vagtlægehjælp 82, Afst.takst ov. 10 km
+687	3831	Kak vagtlægehjælp 82, Akutte Tilfælde Ef	KAK on-call GP 82	Kak vagtlægehjælp 82, Akutte Tilfælde Ef
+688	3832	Kak vagtlægehjælp 82, Andre Bety. Operat.	KAK on-call GP 82	Kak vagtlægehjælp 82, Andre Bety. operation
+689	3833	Kak vagtlægehjælp 82, Anlæg. Af Im.Bandage	KAK on-call GP 82	Kak vagtlægehjælp 82, Anlæg. af Im.Bandage
+690	3834	Kak vagtlægehjælp 82, B-glukose (fotom.) 4	KAK on-call GP 82	Kak vagtlægehjælp 82, B-glukose (fotom.) 4
+691	3841	Kak vagtlægehjælp 82, Elkard. exc. præc. 6	KAK on-call GP 82	Kak vagtlægehjælp 82, Elkard. exc. præc. 6
+692	3842	Kak vagtlægehjælp 82, Elkard. inkl. præc.9	KAK on-call GP 82	Kak vagtlægehjælp 82, Elkard. inkl. præc.9
+693	3847	Kak vagtlægehjælp 82, Fremmedlegeme Hud Mv	KAK on-call GP 82	Kak vagtlægehjælp 82, Fremmedlegeme Hud Mv
+694	3848	Kak vagtlægehjælp 82, Fremmedlegeme ¯j. Mv	KAK on-call GP 82	Kak vagtlægehjælp 82, Fremmedlegeme øj. Mv
+695	3850	Kak vagtlægehjælp 82, I. Bakterier(dyrk.)3	KAK on-call GP 82	Kak vagtlægehjælp 82, i Bakterier(dyrk.)3
+696	3852	Kak vagtlægehjælp 82, Kørselsgodtgør.  I	KAK on-call GP 82	Kak vagtlægehjælp 82, Kørselsgodtgør.  i
+697	3855	Kak vagtlægehjælp 82, Lungef. v. spirom. 3	KAK on-call GP 82	Kak vagtlægehjælp 82, Lungef. v. spirom. 3
+698	3861	Kak vagtlægehjælp 82, Repos. Store Led	KAK on-call GP 82	Kak vagtlægehjælp 82, Repos. Store led
+699	3863	Kak vagtlægehjælp 82, Sindslid. 1. Indlæg.	KAK on-call GP 82	Kak vagtlægehjælp 82, Sindslid. 1. Indlæg.
+700	3864	Kak vagtlægehjælp 82, Sindslid. Genindlæg.	KAK on-call GP 82	Kak vagtlægehjælp 82, Sindslid. Genindlæg.
+701	3865	Kak vagtlægehjælp 82, Sindslid. Tvangsindl	KAK on-call GP 82	Kak vagtlægehjælp 82, Sindslid. Tvangsindl
+702	3866	Kak vagtlægehjælp 82, Svang.reak.,urinc. 4	KAK on-call GP 82	Kak vagtlægehjælp 82, svangre reak,urinc. 4
+703	3869	Kak vagtlægehjælp 82, Tillæg ingen praksis	KAK on-call GP 82	Kak vagtlægehjælp 82, Tillæg ingen praksis
+704	3870	Kak vagtlægehjælp 82, Tillæg kval. tolk	KAK on-call GP 82	Kak vagtlægehjælp 82, Tillæg kval. tolk
+705	3872	Kak vagtlægehjælp 82, Tlf.kons.m.bes./kon.	KAK on-call GP 82	Kak vagtlægehjælp 82, telefon konsultation med besøg/kon.
+706	3873	Kak vagtlægehjælp 82, Tlf.kons.u.bes./kon.	KAK on-call GP 82	Kak vagtlægehjælp 82, telefon konsultation uden besøg/kon.
+707	3874	Kak vagtlægehjælp 82, Tlfkons. M. Recept	KAK on-call GP 82	Kak vagtlægehjælp 82, Tlfkons. med Recept
+708	3876	Kak vagtlægehjælp 82, Ud. pacemaker	KAK on-call GP 82	Kak vagtlægehjælp 82, Ud. pacemaker
+709	3877	Kak vagtlægehjælp 82, Urin Blod Mv V.Stix1	KAK on-call GP 82	Kak vagtlægehjælp 82, Urin Blod Mv V.Stix1
+710	3880	Kak vagtlægehjælp 82, fj. af svulster	KAK on-call GP 82	Kak vagtlægehjælp 82, fj. af svulster
+711	3891	Vagtlægehjælp 83, Afst.takst ov. 10 km	On-call GP service 83	Vagtlægehjælp 83, Afst.takst ov. 10 km
+712	3893	Vagtlægehjælp 83, Akutte Tilfælde EF	On-call GP service 83	Vagtlægehjælp 83, Akutte Tilfælde EF
+713	3895	Vagtlægehjælp 83, Andre Bety. Operat.	On-call GP service 83	Vagtlægehjælp 83, Andre Bety. operation
+714	3896	Vagtlægehjælp 83, Anlæg. Af Im.Bandage	On-call GP service 83	Vagtlægehjælp 83, Anlæg. af Im.Bandage
+715	3898	Vagtlægehjælp 83, B-glukose (fotom.) 4	On-call GP service 83	Vagtlægehjælp 83, B-glukose (fotom.) 4
+716	3906	Vagtlægehjælp 83, Besøg IV	On-call GP service 83	Vagtlægehjælp 83, Besøg IV
+717	3913	Vagtlægehjælp 83, Elkard. exc. præc. 6	On-call GP service 83	Vagtlægehjælp 83, Elkard. exc. præc. 6
+718	3914	Vagtlægehjælp 83, Elkard. inkl. præc.9	On-call GP service 83	Vagtlægehjælp 83, Elkard. inkl. præc.9
+719	3915	Vagtlægehjælp 83, Fj. af svulster	On-call GP service 83	Vagtlægehjælp 83, Fj. af svulster
+720	3918	Vagtlægehjælp 83, Fremmedleg. Hud/negl	On-call GP service 83	Vagtlægehjælp 83, Fremmedleg. Hud/negl
+721	3919	Vagtlægehjælp 83, Fremmedlegeme ¯j. Mv	On-call GP service 83	Vagtlægehjælp 83, Fremmedlegeme øj. Mv
+722	3922	Vagtlægehjælp 83, Hon.v.vagtord.på øer	On-call GP service 83	Vagtlægehjælp 83, Hon.v.vagtord.på øer
+723	3923	Vagtlægehjælp 83, I. Bakterier(dyrk.)3	On-call GP service 83	Vagtlægehjælp 83, i Bakterier(dyrk.)3
+724	3924	Vagtlægehjælp 83, I. Urin (mikros.)  3	On-call GP service 83	Vagtlægehjælp 83, i Urin (mikros.)  3
+725	3925	Vagtlægehjælp 83, III. Andet (dyrk.) 3	On-call GP service 83	Vagtlægehjælp 83, III. Andet (dyrk.) 3
+726	3926	Vagtlægehjælp 83, Ins/udl væ/valadn sk	On-call GP service 83	Vagtlægehjælp 83, Ins/udl væ/valadn sk
+727	3928	Vagtlægehjælp 83, Kørselsgodtgør.  I	On-call GP service 83	Vagtlægehjælp 83, Kørselsgodtgør.  i
+728	3929	Vagtlægehjælp 83, Kørselsgodtgør. II	On-call GP service 83	Vagtlægehjælp 83, Kørselsgodtgør. II
+729	3934	Vagtlægehjælp 83, Nervesanatorier M.V.	On-call GP service 83	Vagtlægehjælp 83, Nervesanatorier mv
+730	3935	Vagtlægehjælp 83, Næsetamponade M.V.	On-call GP service 83	Vagtlægehjælp 83, Næsetamponade mv
+731	3939	Vagtlægehjælp 83, Receptfornyelse	On-call GP service 83	Vagtlægehjælp 83, Receptfornyelse
+732	3940	Vagtlægehjælp 83, Repos. Store Led	On-call GP service 83	Vagtlægehjælp 83, Repos. Store led
+733	3942	Vagtlægehjælp 83, Sindslid. 1. Indlæg.	On-call GP service 83	Vagtlægehjælp 83, Sindslid. 1. Indlæg.
+734	3943	Vagtlægehjælp 83, Sindslid. Genindlæg.	On-call GP service 83	Vagtlægehjælp 83, Sindslid. Genindlæg.
+735	3944	Vagtlægehjælp 83, Sindslid. Tvangsindl	On-call GP service 83	Vagtlægehjælp 83, Sindslid. Tvangsindl
+736	3945	Vagtlægehjælp 83, St. Udbr. Læsioner	On-call GP service 83	Vagtlægehjælp 83, St. Udbr. Læsioner
+737	3953	Vagtlægehjælp 83, Tillæg kval. tolk	On-call GP service 83	Vagtlægehjælp 83, Tillæg kval. tolk
+738	3955	Vagtlægehjælp 83, Tlfkons. M. Recept	On-call GP service 83	Vagtlægehjælp 83, Tlfkons. med Recept
+739	3957	Vagtlægehjælp 83, Ud. pacemaker	On-call GP service 83	Vagtlægehjælp 83, Ud. pacemaker
+740	3958	Vagtlægehjælp 83, Udfyld. af dødsa.s.2	On-call GP service 83	Vagtlægehjælp 83, Udfyld. af dødsa.s.2
+741	3961	Vagtlægehjælp 83, Urin Blod Mv V.Stix1	On-call GP service 83	Vagtlægehjælp 83, Urin Blod Mv V.Stix1
+742	3968	Vagtlægehjælp 83, fj. ørevoks	On-call GP service 83	Vagtlægehjælp 83, fj. ørevoks
+743	3975	Vagtlægehjælp 83, ¤2.A35Afstandstillæg	On-call GP service 83	Vagtlægehjælp 83, ¤2.A35Afstandstillæg
+744	3981	Kak vagtlægehjælp 84, Kørselsgodtgør.  I	KAK on-call GP 84	Kak vagtlægehjælp 84, Kørselsgodtgør.  i
+745	3985	Kak vagtlægehjælp 84, Tlfkons. M. Recept	KAK on-call GP 84	Kak vagtlægehjælp 84, Tlfkons. med Recept
+746	3986	Kak vagtlægehjælp 84, Urin Blod Mv V.Stix1	KAK on-call GP 84	Kak vagtlægehjælp 84, Urin Blod Mv V.Stix1
+747	3990	Præhospital, 1. behan. brud	Pre-hospital	Præhospital, 1. behan. brud
+748	3991	Præhospital, Afst.takst ov. 10 km	Pre-hospital	Præhospital, Afst.takst ov. 10 km
+749	3993	Præhospital, Anlæg. af im.bandage	Pre-hospital	Præhospital, Anlæg. af im.bandage
+750	3999	Præhospital, Besøg IV	Pre-hospital	Præhospital, Besøg IV
+751	4006	Præhospital, Kørselsgodtgør. I	Pre-hospital	Præhospital, Kørselsgodtgør. i
+752	4007	Præhospital, Ligsyn og dødsat.A42	Pre-hospital	Præhospital, Ligsyn og dødsat.A42
+753	4011	Præhospital, Psykisk førstehjælp	Pre-hospital	Præhospital, Psykisk førstehjælp
+754	4012	Præhospital, Repos. store led	Pre-hospital	Præhospital, Repos. store led
+755	4013	Præhospital, St. udbr. læsioner	Pre-hospital	Præhospital, St. udbr. læsioner
+756	4016	Præhospital, el.kardiogr. inkl. præcordialafl.	Pre-hospital	Præhospital, el.kardiogr. inkl. præcordialafl.
+757	4020	KFA-vagtordning 89, Akutte Tilfælde Ef	KFA on-call service 89	KFA-vagtordning 89, Akutte Tilfælde Ef
+758	4021	KFA-vagtordning 89, Anlæg. Af Im.Bandage	KFA on-call service 89	KFA-vagtordning 89, Anlæg. af Im.Bandage
+759	4028	KFA-vagtordning 89, Fremmedlegeme Hud Mv	KFA on-call service 89	KFA-vagtordning 89, Fremmedlegeme Hud Mv
+760	4029	KFA-vagtordning 89, Fremmedlegeme øj. Mv	KFA on-call service 89	KFA-vagtordning 89, Fremmedlegeme øj. Mv
+761	4036	KFA-vagtordning 89, Sindslid. 1. Indlæg	KFA on-call service 89	KFA-vagtordning 89, Sindslid. 1. Indlæg
+762	4037	KFA-vagtordning 89, Sindslid. Genindlæg	KFA on-call service 89	KFA-vagtordning 89, Sindslid. Genindlæg
+763	4038	KFA-vagtordning 89, Svang.reak.,urinc. 4	KFA on-call service 89	KFA-vagtordning 89, svangre reak,urinc. 4
+764	4042	KFA-vagtordning 89, Urin Blod Mv V.stix1	KFA on-call service 89	KFA-vagtordning 89, Urin Blod Mv V.stix1
+765	4045	Kirurgi, 1. Kons. M/operat.Mv	Surgery	Kirurgi, 1. konsultation med/operation Mv
+766	4050	Kirurgi, Amputat. Finger   1.	Surgery	Kirurgi, Amputat. Finger   1.
+767	4051	Kirurgi, Amputat. Finger Flg.	Surgery	Kirurgi, Amputat. Finger følgende
+768	4052	Kirurgi, Analoperat. 1. An.	Surgery	Kirurgi, Analoperat. 1. anæstesi
+769	4053	Kirurgi, Analoperation. Fg.An	Surgery	Kirurgi, Analoperation. Fg anæstesi
+770	4059	Kirurgi, Behandl. Brud 1.	Surgery	Kirurgi, Behandl. Brud 1.
+771	4062	Kirurgi, Blodpr. Exp        1	Surgery	Kirurgi, Blodpr. Exp        1
+772	4063	Kirurgi, Bougiebeh. Uret.1.An	Surgery	Kirurgi, Bougiebeh. Uret 1 anæstesi
+773	4064	Kirurgi, Bougiebeh. Ureth. 1.	Surgery	Kirurgi, Bougiebeh. Ureth. 1.
+774	4065	Kirurgi, Bougiebeh. Ureth.Flg	Surgery	Kirurgi, Bougiebeh. Ureth følgende
+775	4072	Kirurgi, Dopplerundersøgelse	Surgery	Kirurgi, Dopplerundersøgelse
+776	4073	Kirurgi, Dopplerus. af vener	Surgery	Kirurgi, Dopplerus. af vener
+777	4074	Kirurgi, Du-Sc af årekpat.A25	Surgery	Kirurgi, Du-Sc af årekpat.A25
+778	4076	Kirurgi, Duplexscan. af vener	Surgery	Kirurgi, Duplexscan. af vener
+779	4077	Kirurgi, Duplexscanning	Surgery	Kirurgi, Duplexscanning
+780	4080	Kirurgi, Fj. Svulst Bry. 1.An	Surgery	Kirurgi, Fj. Svulst Bry. 1 anæstesi
+781	4081	Kirurgi, Fj. Svulst Bryst  1.	Surgery	Kirurgi, Fj. Svulst Bryst  1.
+782	4082	Kirurgi, Fj. Svulst Bryst Flg	Surgery	Kirurgi, Fj. Svulst Bryst følgende
+783	4083	Kirurgi, Fj. byld på haleben	Surgery	Kirurgi, Fj. byld på haleben
+784	4084	Kirurgi, Fj. polyp, rectum	Surgery	Kirurgi, Fj. polyp, rectum
+785	4085	Kirurgi, Fj.Svulst Bry. Fg.An	Surgery	Kirurgi, Fj.Svulst Bry. Fg anæstesi
+786	4089	Kirurgi, Fjer. Svulst H. 1.An	Surgery	Kirurgi, Fjer. Svulst H. 1 anæstesi
+787	4090	Kirurgi, Fjer.Svulst H. Fg.An	Surgery	Kirurgi, Fjer.Svulst H. Fg anæstesi
+788	4100	Kirurgi, Hæmor. Ligatur Fg.An	Surgery	Kirurgi, Hæmor. Ligatur Fg anæstesi
+789	4101	Kirurgi, Hæmorr. Ligatur.1.An	Surgery	Kirurgi, Hæmorr. Ligatur 1 anæstesi
+790	4102	Kirurgi, Hæmorr. Ligaturb. 1.	Surgery	Kirurgi, Hæmorr. Ligaturb. 1.
+791	4103	Kirurgi, Hæmorr. Ligaturb.Flg	Surgery	Kirurgi, Hæmorr. Ligaturb følgende
+792	4104	Kirurgi, Incis. Absces Fg. An	Surgery	Kirurgi, Incis. Absces Fg. anæstesi
+793	4105	Kirurgi, Incis. Cyste Flg An.	Surgery	Kirurgi, Incis. Cyste følgende anæstesi
+794	4112	Kirurgi, Indgreb Livmoder. 1.	Surgery	Kirurgi, Indgreb Livmoder. 1.
+795	4113	Kirurgi, Injekt. Hæmor. Fg.An	Surgery	Kirurgi, Injekt. Hæmor. Fg anæstesi
+796	4114	Kirurgi, Injekt. Hæmorr.   1.	Surgery	Kirurgi, Injekt. Hæmorr.   1.
+797	4115	Kirurgi, Injekt. Hæmorr. 1.An	Surgery	Kirurgi, Injekt. Hæmorr. 1 anæstesi
+798	4116	Kirurgi, Injekt. Hæmorr. Flg.	Surgery	Kirurgi, Injekt. Hæmorr. følgende
+799	4117	Kirurgi, Injekt. åre 1.Kons.	Surgery	Kirurgi, Injekt. åre 1 konsultation
+800	4118	Kirurgi, Injekt. åre Sen.Kons	Surgery	Kirurgi, Injekt. åre Sen konsultation
+801	4126	Kirurgi, Kontrol Sigmoi/ Col.	Surgery	Kirurgi, Kontrol Sigmoi/ Col.
+802	4127	Kirurgi, Oeso. Gast.     Duo.	Surgery	Kirurgi, Oeso. Gast.     Duo.
+803	4128	Kirurgi, Op. Bullen Fing. Flg	Surgery	Kirurgi, operation Bullen Fing. følgende
+804	4130	Kirurgi, Op. Kon. Håndf. 1.An	Surgery	Kirurgi, operation Kon. Håndf. 1 anæstesi
+805	4131	Kirurgi, Op. Kont. Håndfl. 1.	Surgery	Kirurgi, operation kontrol Håndfl. 1.
+806	4133	Kirurgi, Op. Lyskebrok Fg. An	Surgery	Kirurgi, operation Lyskebrok Fg. anæstesi
+807	4135	Kirurgi, Op. Lyskebrok M.V.Fg	Surgery	Kirurgi, operation Lyskebrok med V Fg
+808	4137	Kirurgi, Op.årekn.ex.lysk.hø	Surgery	Kirurgi, operation årekn ex lysk hø
+809	4139	Kirurgi, Op.årekn.i lysk.hø.b	Surgery	Kirurgi, operation årekn i lysk.hø.b
+810	4141	Kirurgi, Ope. Forhudsfor. Flg	Surgery	Kirurgi, operation Forhudsfor. følgende
+811	4147	Kirurgi, Ope. Seneknude Fg.An	Surgery	Kirurgi, operation Seneknude Fg anæstesi
+812	4148	Kirurgi, Ope. Springf. 1. An.	Surgery	Kirurgi, operation Springf. 1. anæstesi
+813	4149	Kirurgi, Ope. Springfinger 1.	Surgery	Kirurgi, operation Springfinger 1.
+814	4150	Kirurgi, Ope. åre. Lyske 1.An	Surgery	Kirurgi, operation åre. Lyske 1 anæstesi
+815	4151	Kirurgi, Ope. årekn. Lyske 1.	Surgery	Kirurgi, operation årekn. Lyske 1.
+816	4152	Kirurgi, Ope. årekn. Lyske Fg	Surgery	Kirurgi, operation årekn. Lyske Fg
+817	4153	Kirurgi, Oper. Bullen Fing.1.	Surgery	Kirurgi, Oper. Bullen Fing.1.
+818	4154	Kirurgi, Oper. Forhudsf. 1.An	Surgery	Kirurgi, Oper. Forhudsf. 1 anæstesi
+819	4155	Kirurgi, Oper. Forhudsfors.1.	Surgery	Kirurgi, Oper. Forhudsfors.1.
+820	4156	Kirurgi, Oper. Seneknude   1.	Surgery	Kirurgi, Oper. Seneknude   1.
+821	4157	Kirurgi, Oper. Springf. Flg.	Surgery	Kirurgi, Oper. Springf. følgende
+822	4160	Kirurgi, Operat. åreknud. Flg	Surgery	Kirurgi, operation åreknud. følgende
+823	4162	Kirurgi, Opr. brystudvikling	Surgery	Kirurgi, Opr. brystudvikling
+824	4163	Kirurgi, Opr. lyskebrok amt35	Surgery	Kirurgi, Opr. lyskebrok amt35
+825	4165	Kirurgi, Oscillometri *2 Ex*6	Surgery	Kirurgi, Oscillometri *2 Ex*6
+826	4166	Kirurgi, Plast. Oper. Flg. An	Surgery	Kirurgi, Plast. Oper. følgende anæstesi
+827	4167	Kirurgi, Plast. Operat.    1.	Surgery	Kirurgi, Plast. operation    1.
+828	4168	Kirurgi, Plast. Operat.  Flg.	Surgery	Kirurgi, Plast. operation  følgende
+829	4169	Kirurgi, Plast. Operat. 1. An	Surgery	Kirurgi, Plast. operation 1. anæstesi
+830	4174	Kirurgi, Rensning Småsår   1.	Surgery	Kirurgi, Rensning Småsår   1.
+831	4175	Kirurgi, Rensning Småsår Flg.	Surgery	Kirurgi, Rensning Småsår følgende
+832	4180	Kirurgi, Revision Sår Fg. An	Surgery	Kirurgi, Revision Sår Fg. anæstesi
+833	4181	Kirurgi, Ritu. omskær.  2 A13	Surgery	Kirurgi, Ritu. omskær.  2 A13
+834	4182	Kirurgi, Sekret-Gonokok*exp*1	Surgery	Kirurgi, Sekret-Gonokok*exp*1
+835	4186	Kirurgi, Sigmoideo./ Colosco.	Surgery	Kirurgi, Sigmoideo./ Colosco.
+836	4189	Kirurgi, Sterilisat. af mand	Surgery	Kirurgi, Sterilisat. af mand
+837	4190	Kirurgi, Tapn. Vandbrok 1. An	Surgery	Kirurgi, Tapn. Vandbrok 1. anæstesi
+838	4191	Kirurgi, Tapn. i Led     Flg.	Surgery	Kirurgi, Tapn. i led     følgende
+839	4192	Kirurgi, Tapn. i Led 1. An.	Surgery	Kirurgi, Tapn. i led 1. anæstesi
+840	4193	Kirurgi, Tapning Vandbrok  1.	Surgery	Kirurgi, Tapning Vandbrok  1.
+841	4194	Kirurgi, Tapning Vandbrok Flg	Surgery	Kirurgi, Tapning Vandbrok følgende
+842	4198	Kirurgi, Tlf.rådg.prakt.læge	Surgery	Kirurgi, telefon rådg prakt læge
+843	4199	Kirurgi, Tolk ifm. kons.  3	Surgery	Kirurgi, Tolk ifm. konsultation  3
+844	4202	Kirurgi, Tryk-flow undersøg.	Surgery	Kirurgi, Tryk-flow undersøg.
+845	4203	Kirurgi, U-Bakt.*dyrk Rest*12	Surgery	Kirurgi, U-Bakt.*dyrk Rest*12
+846	4208	Kirurgi, Ultralyd.sc.øv.abdom	Surgery	Kirurgi, Ultralyd.sc.øv.abdom
+847	4217	Kirurgi, fj. polyp. colon	Surgery	Kirurgi, fj. polyp. colon
+848	4224	Kirurgi, sigmo. a35	Surgery	Kirurgi, sigmo. a35
