@@ -172,7 +172,104 @@ DA2EN = {
     "i": "in", "efter": "after", "individuel": "individual", "funktion": "function",
     "lungefunktion": "lung function", "samtalebehandling": "talk therapy", "koordineret": "coordinated",
     "reversibilitet": "reversibility", "rygsmerter": "back pain", "videre": "etc.", "mv.": "etc.",
+    # --- lab analyte/allergen vocabulary (KPLL/SSI/laboratory codes) ---
+    "dyrkning": "culture", "dyrkn": "culture", "forsendelse": "shipment", "forsendel": "shipment",
+    "forsende": "shipment", "antistof": "antibody", "antistoffer": "antibodies",
+    "indsendte prøver": "submitted samples", "indsendte": "submitted", "prøver": "samples",
+    "blodprøve exp": "blood sample, dispatch", "exp": "dispatch", "blodprøve": "blood sample",
+    "mikroskopi": "microscopy", "mikrosk": "microscopy", "farvet": "stained", "farv": "stained",
+    "ufarvet": "unstained", "ufar": "unstained", "sekret": "secretion", "sek": "secretion",
+    "mørkefeltsmikroskopi": "dark-field microscopy", "mørkefeltsmikros": "dark-field microscopy",
+    "glukose": "glucose", "leukocytter": "leukocytes", "leukocyt": "leukocytes",
+    "trombocytter": "platelets", "trombocyt": "platelets", "erytrocyt": "erythrocyte",
+    "cylindre": "casts", "kornede": "granular", "korn": "granular", "kromosomundersøgelse": "chromosome analysis",
+    "kromosomunders": "chromosome analysis", "kviksølv": "mercury", "kapillær": "capillary",
+    "blødningstid": "bleeding time", "glucosetolerance": "glucose tolerance", "glucose toleran": "glucose tolerance",
+    "lactosebelastning": "lactose tolerance test", "lactosebelastn": "lactose tolerance test",
+    "binyrebark": "adrenal cortex", "intrinsic faktor": "intrinsic factor", "intrinsic fak": "intrinsic factor",
+    "døgn": "24-hour", "blodtryksmåling": "blood-pressure measurement", "bt-måling": "blood-pressure measurement",
+    "for fremmøde i lab": "for attendance at the laboratory", "fremmøde": "attendance",
+    "hæmokromatosegen": "haemochromatosis gene", "lungefunktion før/efter bronkodilatator": "lung function before/after bronchodilator",
+    # allergens (Danish -> English)
+    "acajounød": "cashew nut", "acetylsalicyl": "acetylsalicylic acid", "blåmusling": "blue mussel",
+    "bladselleri": "celery", "bladsel": "celery leaf", "bøg": "beech", "børnekost": "children's food panel",
+    "engrottehår": "rat epithelium", "engrotteh": "rat epithelium", "fisk": "fish", "grå bynke": "mugwort",
+    "grå el": "grey alder", "hasselnød": "hazelnut", "hvidløg": "garlic", "hønsekød": "chicken meat",
+    "jordbær": "strawberry", "jordnød": "peanut", "kokosnød": "coconut", "komælk": "cow's milk",
+    "koskæl": "cow dander", "kødpanel": "meat panel", "blåmuslinger": "blue mussels", "hønsekod": "chicken meat",
+    "erhverv": "occupational panel", "erhv": "occupational panel", "formaldehyd": "formaldehyde", "formaldeh": "formaldehyde",
+    "lactalbumin": "lactalbumin", "lactalbum": "lactalbumin", "lactoglobulin": "lactoglobulin", "lactoglobu": "lactoglobulin",
+    # microbiology / serology analytes
+    "borrelia": "Borrelia", "gonokok": "gonococcus", "clamydia": "chlamydia", "chlamydia": "chlamydia",
+    "influenza": "influenza", "legionella": "Legionella", "helicobacter": "Helicobacter", "helicob": "Helicobacter",
+    "denguevirus": "dengue virus", "dengue virus": "dengue virus", "difteritoksin": "diphtheria toxin",
+    "endomysium": "endomysium", "gliadin": "gliadin", "cardiolipin": "cardiolipin", "imipramin": "imipramine",
+    "benzodiazepiner": "benzodiazepines", "benzodiazepin": "benzodiazepines", "bilirubin": "bilirubin",
+    "fraktioneret": "fractionated", "frakt": "fractionated", "basisk fraktion": "alkaline fraction", "basisk frakt": "alkaline fraction",
+    "amylase": "amylase", "pancreas": "pancreatic", "panc": "pancreatic", "albumin": "albumin",
+    "alfaføtoprotein": "alpha-fetoprotein", "alfa føtoprotein": "alpha-fetoprotein", "alfa føtoprot": "alpha-fetoprotein",
+    "ankeltryk": "ankle pressure", "ankeltr": "ankle pressure", "lymfogranuloma venereum": "lymphogranuloma venereum",
+    # --- extended batch 6 (clinical/lab tail) ---
+    "tapning": "drainage", "forebyggelse": "prevention", "tandrensning": "dental scaling",
+    "rensning": "cleaning", "fyldning": "filling", "glasionomerfyldning": "glass-ionomer filling",
+    "biologisk": "biological", "journaloptagelse": "record-taking", "ultralydsscanning": "ultrasound scan",
+    "ultralydsundersøgelse": "ultrasound examination", "ultralydsus": "ultrasound examination",
+    "henvendelse": "contact", "blodtagning": "blood draw", "blodprøvetagning": "blood sampling",
+    "udstedelse": "issuing", "indkaldelse": "recall", "suturfjernelse": "suture removal",
+    "parasitologisk": "parasitological", "cøliaki": "coeliac", "flåtpakke": "tick panel",
+    "genotypning": "genotyping", "sensorisk": "sensory", "ø-celle": "islet cell",
+    "østrogenstatus": "oestrogen status", "tænder": "teeth", "tand": "tooth",
+    "holdundervisning": "group instruction", "strækbehandling": "traction treatment",
+    "røntgenundersøgelse": "X-ray examination", "røntgenunder": "X-ray examination", "tolkning": "interpretation",
+    "bøjle": "brace", "bøjler": "braces", "bækkenbund": "pelvic floor", "bækkenb": "pelvic floor",
+    "fødende": "woman in labour", "sygebesøg": "sick visit", "sygebesøgsstedet": "site of the sick visit",
+    "forbindelse": "connection", "ansøgning": "application", "anvendelse": "use",
+    "hjælpepersonale": "support staff", "hjælpepers": "support staff", "hjælpeper": "support staff",
+    "fremmødehonorar": "attendance fee", "patientledsagelse": "patient escort", "rejsetillæg": "travel supplement",
+    "ormeæg": "worm eggs", "øjemed": "purpose", "udtagning": "sampling", "udtrækning": "extraction",
+    "udtrækn": "extraction", "forløbsydelse": "care-pathway service", "årskontrol": "annual check",
+    "årlig": "annual", "slimsæk": "bursa", "psykisk": "psychological", "journal": "record",
+    "telefonisk": "by telephone", "telefonisk koordinering": "telephone coordination",
+    " accelereret": "accelerated", "screeningsundersøgelse": "screening examination",
+    "mavesmerter": "abdominal pain", "afføring": "stool", "høfeber": "hay fever",
+    "fødevareprovokation": "food challenge test", "øjenprovokation": "eye challenge test",
+    "anstrengelsesprovokation": "exercise challenge test", "provokationsforsøg": "challenge test",
+    "provokation": "challenge", "løbebånd": "treadmill", "adfærdsforstyrrelse": "behavioural disorder",
+    "adfærd": "behaviour", "familieterapi": "family therapy", "gruppeterapi": "group therapy",
+    "legeterapi": "play therapy", "forældre": "parents", "kautionsbegæring": "cover request",
+    "kautionsbeg": "cover request", "karforandringer": "vascular lesions", "pigmentforandringer": "pigment changes",
+    "pigmentforandr": "pigment changes", "hårvækst": "hair growth", "uønsket": "unwanted",
+    "keloid": "keloid", "kelo": "keloid", "hæmangiomer": "haemangiomas", "hæmangioner": "haemangiomas",
+    "eksem": "eczema", "tjærebade": "tar baths", "scleroserende": "sclerosing", "scleroser": "sclerosing",
+    "intralæsionel": "intralesional", "intralæsion": "intralesional", "forhudsforsnævring": "phimosis",
+    "forhudsfor": "phimosis", "forhudsfors": "phimosis", "alloplastik": "alloplasty", "allopla": "alloplasty",
+    "flytning": "transfer", "flytn": "transfer", "hud": "skin", "næse": "nose", "øre": "ear",
+    "konusundersøgelse": "cone biopsy examination", "konusunder": "cone biopsy examination",
+    "vaginalcytologisk": "vaginal cytology", "immunhistokemisk": "immunohistochemical", "immunhistokemi": "immunohistochemistry",
+    "vævsmikroskopi": "tissue microscopy", "spiserør": "oesophagus", "strube": "larynx",
+    "fremmedlegeme": "foreign body", "drøbel": "uvula", "drøbelen": "the uvula",
+    "spytkirtel": "salivary gland", "spytkirt": "salivary gland", "spytkirtl": "salivary gland",
+    "trommehinde": "eardrum", "kæbehule": "maxillary sinus", "kæbeh": "maxillary sinus",
+    "ligevægt": "balance", "ligev": "balance", "hypofarynx": "hypopharynx", "hyp": "hypopharynx",
+    "skaltilpasning": "shell fitting", "skaltilp": "shell fitting", "udlevering": "dispensing", "udlev": "dispensing",
+    "instruktion": "instruction", "instrukt": "instruction", "tubulering": "ventilation-tube insertion",
+    "tubulat": "ventilation-tube insertion", "tubulation": "ventilation-tube insertion",
+    "tværfaglig": "multidisciplinary", "neglel": "nail bed", "spoleben": "radius bone", "spoleb": "radius bone",
+    "seneknude": "ganglion", "senekn": "ganglion", "springfinger": "trigger finger", "springfing": "trigger finger",
+    "blefarokalasis": "blepharochalasis", "blefarokal": "blepharochalasis", "synovektomi": "synovectomy",
+    "synovect": "synovectomy", "synov": "synovectomy", "knogleforskydning": "bone displacement",
+    "knogleforskyds": "bone displacement", "nerveafklemning": "nerve entrapment release",
+    "korsben": "sacrum", "korsbenshvirvler": "sacral vertebrae", "galdeblære": "gallbladder",
+    "tømning": "emptying", "tømnings": "voiding", "urologi": "urology",
 }
+
+# Acronyms/notation to restore after lowercasing, and specimen suffixes
+LAB_FIXUP = [(r"\bige\b", "IgE"), (r"\bab\b", "antibody"), (r"\bag\b", "antigen"),
+             (r"\bdna\b", "DNA"), (r"\bhiv\b", "HIV"), (r"\bcmv\b", "CMV"), (r"\bebv\b", "EBV"),
+             (r"\bccp\b", "CCP"), (r"\bpcr\b", "PCR"), (r"\brna\b", "RNA"), (r"\bekg\b", "ECG"),
+             (r"\bpdt\b", "PDT"), (r"\bp-", "P-"), (r"\bb-", "B-"), (r"\bu-", "U-"),
+             (r";p\b", " (plasma)"), (r";b\b", " (blood)"), (r";u\b", " (urine)"), (r";s\b", " (serum)"),
+             (r"\bkonf\b", "confirmatory")]
 
 DANISH = re.compile(r"[æøåÆØÅ]")
 PROPER = {"øfeldt", "sjælland", "hovedstaden", "midtjylland", "nordjylland", "syddanmark"}
@@ -185,6 +282,9 @@ DA_BLOCKLIST = {"kons", "beh", "und", "indiv", "konsul", "rev", "ab", "fg", "obs
                 "katekolaminer", "narkot", "ydelse", "ingen", "tekst", "videre", "behandl"}
 # Danish morphology: word-endings that almost never occur in our English output
 DA_SUFFIX = re.compile(r"(ning|else|isk|agtig|hed|inger|erne)$")
+# English words that collide with the Danish suffix heuristic — do NOT flag these
+ENGLISH_OK = {"training", "screening", "scanning", "planning", "monitoring", "imaging",
+              "dressing", "fitting", "sampling", "swelling", "shipment", "casting"}
 
 
 def has_residual_danish(en):
@@ -206,6 +306,8 @@ def has_residual_danish(en):
             return True
         if t.strip().endswith(".") and len(bare) >= 2:
             return True  # unexpanded abbreviation like "kons." / "lungefkt.us"
+        if bare in ENGLISH_OK:
+            continue
         if bare in DA_BLOCKLIST or DA_SUFFIX.search(bare):
             return True
         if bare in DA_BLOCKLIST:
@@ -250,6 +352,8 @@ def translate(da_full):
     # phrase replacement, longest key first
     for k in sorted(DA2EN, key=len, reverse=True):
         low = re.sub(r"\b" + re.escape(k) + r"\b", DA2EN[k], low)
+    for pat, rep in LAB_FIXUP:
+        low = re.sub(pat, rep, low)
     return low
 
 

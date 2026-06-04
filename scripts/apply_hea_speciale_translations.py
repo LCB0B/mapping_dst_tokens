@@ -47,10 +47,18 @@ def main():
     auto = load_tsv(AUTO)
     manual = load_tsv(MANUAL)
 
-    # build description_da -> (da_full, en, conf); manual overrides auto
+    # build description_da -> (da_full, en, conf); manual overrides auto.
+    # A manual override with an empty da_full reuses the auto-expanded da_full
+    # (so residual fixes only need to supply the English).
     by_da = {}
     for i, r in enumerate(wl):
-        rec = manual.get(i) or auto.get(i)
+        a = auto.get(i)
+        m = manual.get(i)
+        if m:
+            da_full = m[0] if m[0].strip() else (a[0] if a else "")
+            rec = (da_full, m[1], m[2])
+        else:
+            rec = a
         if rec:
             by_da[r["description_da"]] = rec
     print(f"worklist={len(wl)} auto={len(auto)} manual_overrides={len(manual)} mapped_strings={len(by_da)}")

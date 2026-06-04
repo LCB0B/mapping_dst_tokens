@@ -59,3 +59,223 @@
 57	Anæstesiologi, bistand til øjen/øre	Anaesthesiology, assistance for eye/ear procedures	high
 58	Anæstesiologi, e-mail konsultation	Anaesthesiology, e-mail consultation	high
 59	Anæstesiologi, e-mail konsultation	Anaesthesiology, e-mail consultation	high
+61		Anaesthesiology, injection into epidural space	high
+63		Anaesthesiology, intra-arterial injection	high
+66		Anaesthesiology, mileage allowance I	high
+67		Anaesthesiology, conduction block / nerve block	high
+69		Anaesthesiology, manipulation treatment	high
+71		Anaesthesiology, neurolytic blocks	high
+73		Anaesthesiology, perivertebral block	high
+75		Anaesthesiology, later consultation, pain	high
+76		Anaesthesiology, sympathetic block (cervical)	high
+77		Anaesthesiology, sympathetic block (lumbar)	high
+78		Anaesthesiology, telephone consultation, pain	high
+79		Anaesthesiology, telephone advice from GP	high
+80		Anaesthesiology, interpreter for consultation (§3)	high
+81		Anaesthesiology, transcutaneous nerve stimulation (TENS)	high
+83		Anaesthesiology, extended lung function test	high
+86		Anaesthesiology, physician anaesthesia for ENT assistance	medium
+96		ENT on-call, KAK, incision of eardrum (myringotomy)	high
+98		ENT on-call, KAK, caustic treatment of the nose	high
+102		ENT on-call, KAK, streptococcal antigen test	high
+103		ENT on-call, KAK, hearing examination (tone/speech)	high
+110		Neurology, 1st consultation, §3, county 20	medium
+115		Neurology, EEG with sleep recording	high
+116		Neurology, electroencephalography (EEG)	high
+119		Neurology, mileage allowance I	high
+120		Neurology, neurosurgery, 1st consultation	high
+121		Neurology, neurosurgery, 2nd consultation	high
+122		Neurology, neurosurgery, 3rd consultation	high
+123		Neurology, neurosurgery, telephone consultation	high
+124		Neurology, later consultation, §3, county 20	medium
+127		Neurology, telephone advice from GP	high
+128		Neurology, interpreter for consultation (§3)	high
+138		Ophthalmology service, automated perimetry	high
+139		Ophthalmology service, treatment of after-cataract, YAG laser, subsequent	high
+141		Ophthalmology service, treatment of glaucoma, YAG laser, subsequent	high
+143		Ophthalmology service, treatment of glaucoma, YAG laser, subsequent	high
+147		Ophthalmology service, CCT screening, county 65	medium
+148		Ophthalmology service, diagnosis of retinal detachment	high
+156		Ophthalmology service, removal of sutures, cornea, with anaesthesia	high
+157		Ophthalmology service, removal of sutures, cornea	high
+163		Ophthalmology service, photocoagulation of chamber angle, county 20	high
+165		Ophthalmology service, photocoagulation of chamber angle	high
+167		Ophthalmology service, glaucoma assessment etc.	high
+168		Ophthalmology service, cataract, 1st operation, county 20	medium
+169		Ophthalmology service, cataract, 1st operation, county 25	medium
+170		Ophthalmology service, cataract, 1st operation, county 30	medium
+171		Ophthalmology service, cataract, 1st operation, county 42	medium
+172		Ophthalmology service, cataract, 1st operation, county 50	medium
+173		Ophthalmology service, cataract, 1st operation, county 80	medium
+175		Ophthalmology service, cataract, subsequent operation, county 42	medium
+177		Ophthalmology service, cataract operation, county 65	medium
+183		Ophthalmology service, recall of patient	high
+186		Ophthalmology service, consultation incl. fundus, county 60	medium
+187		Ophthalmology service, mileage allowance I	high
+188		Ophthalmology service, laser treatment of retinal tear, subsequent	high
+189		Ophthalmology service, laser treatment of retinal tear	high
+191		Ophthalmology service, operation for inward-turned eyelid (entropion), with anaesthesia	high
+192		Ophthalmology service, operation for inward-turned eyelid (entropion)	high
+193		Ophthalmology service, operation for outward-turned eyelid (ectropion), with anaesthesia	high
+194		Ophthalmology service, operation for outward-turned eyelid (ectropion)	high
+201		Ophthalmology service, blepharochalasis operation, with anaesthesia	high
+202		Ophthalmology service, blepharochalasis operation	high
+203		Ophthalmology service, cataract operation (code B042)	high
+206		Ophthalmology service, cataract operation, county 30	medium
+207		Ophthalmology service, cataract operation, county 76	medium
+208		Ophthalmology service, cataract operation, county 76	medium
+209		Ophthalmology service, cataract operation, county 15	medium
+211		Ophthalmology service, orthoptic assessment etc.	high
+213		Ophthalmology service, retinal photocoagulation	high
+214		Ophthalmology service, retinal photocoagulation	high
+215		Ophthalmology service, retinal photocoagulation, subsequent	high
+221		Ophthalmology service, probing of tear ducts	high
+222		Ophthalmology service, probing of tear ducts, with anaesthesia	high
+223		Ophthalmology service, probing of tear ducts, with anaesthesia	high
+224		Ophthalmology service, subconjunctival injection and block, with anaesthesia	high
+225		Ophthalmology service, subconjunctival injection and block	high
+228		Ophthalmology service, interpreter for consultation (§3)	high
+231		Ophthalmology service, YAG laser, subsequent operation	high
+233		Ophthalmology service, cataract operation, county 76	medium
+237		Ophthalmology service, blepharochalasis operation	high
+238		Ophthalmology service, cataract operation with intraocular lens insertion	high
+240		Ophthalmology service, telephone advice from GP	high
+243		Ophthalmology service, vitrectomy and retina	medium
+248		Orthopaedic surgery, 1st consultation with operation etc.	high
+251		Orthopaedic surgery, finger amputation, 1st, with anaesthesia	high
+252		Orthopaedic surgery, finger amputation, 1st	high
+253		Orthopaedic surgery, finger amputation, subsequent	high
+255		Orthopaedic surgery, knee arthroscopy, larger, subsequent operation	medium
+256		Orthopaedic surgery, finger-joint arthrodesis, subsequent, with anaesthesia	high
+259		Orthopaedic surgery, finger-joint arthrodesis, 1st, with anaesthesia	high
+260		Orthopaedic surgery, finger-joint arthrodesis, 1st	high
+261		Orthopaedic surgery, finger-joint arthrodesis, subsequent	high
+262		Orthopaedic surgery, fracture treatment, 1st	high
+263		Orthopaedic surgery, fracture treatment, 1st, with anaesthesia	high
+264		Orthopaedic surgery, fracture treatment, subsequent, with anaesthesia	high
+265		Orthopaedic surgery, fracture treatment, subsequent	high
+268		Orthopaedic surgery, diagnostic arthroscopy with operation	high
+271		Orthopaedic surgery, Doppler examination of veins	high
+272		Orthopaedic surgery, duplex scan of veins	high
+276		Orthopaedic surgery, removal of tumour, hand, subsequent, with anaesthesia	high
+277		Orthopaedic surgery, removal of tumour in muscle	high
+279		Orthopaedic surgery, removal of radius bone (spoleben), subsequent, with anaesthesia	medium
+280		Orthopaedic surgery, removal of tumour, hand, 1st, with anaesthesia	high
+283		Orthopaedic surgery, removal of nail bed, 1st, with anaesthesia	high
+286		Orthopaedic surgery, removal of radius bone (spoleben), 1st, with anaesthesia	medium
+287		Orthopaedic surgery, removal of radius bone (spoleben), 1st	medium
+290		Orthopaedic surgery, removal of skin tumour, subsequent	high
+291		Orthopaedic surgery, cast in connection with operation	high
+293		Orthopaedic surgery, vein injection, 1st consultation	high
+294		Orthopaedic surgery, vein injection, later consultation	high
+297		Orthopaedic surgery, bone displacement operation (osteotomy)	high
+302		Orthopaedic surgery, nerve decompression	high
+303		Orthopaedic surgery, finger operation, subsequent	low
+305		Orthopaedic surgery, operation for palm contracture (Dupuytren), 1st, with anaesthesia	medium
+306		Orthopaedic surgery, operation for palm contracture (Dupuytren), subsequent, with anaesthesia	medium
+307		Orthopaedic surgery, operation for palm contracture, 1st	medium
+309		Orthopaedic surgery, operation for osteoarthritis of big toe, subsequent	high
+310		Orthopaedic surgery, operation for osteoarthritis of big toe, 1st, with anaesthesia	high
+311		Orthopaedic surgery, operation for osteoarthritis of big toe, 1st	high
+312		Orthopaedic surgery, trigger finger operation, 1st, with anaesthesia	high
+313		Orthopaedic surgery, trigger finger operation, subsequent, with anaesthesia	high
+314		Orthopaedic surgery, operation for osteoarthritis of big toe, subsequent, with anaesthesia	high
+316		Orthopaedic surgery, varicose vein operation, excision, groin, right	high
+317		Orthopaedic surgery, varicose vein operation, groin, right, bilateral	high
+324		Orthopaedic surgery, ganglion (tendon) operation, subsequent, with anaesthesia	medium
+328		Orthopaedic surgery, trigger finger operation, subsequent	high
+329		Orthopaedic surgery, trigger finger operation, 1st	high
+331		Orthopaedic surgery, varicose vein operation, groin, 1st, with anaesthesia	high
+332		Orthopaedic surgery, varicose vein operation, groin, 1st	high
+333		Orthopaedic surgery, varicose vein operation, groin, subsequent	high
+334		Orthopaedic surgery, finger operation, 1st	low
+337		Orthopaedic surgery, varicose vein operation, subsequent	high
+339		Orthopaedic surgery, oscillometry	medium
+340		Orthopaedic surgery, plastic operation, subsequent, with anaesthesia	high
+341		Orthopaedic surgery, plastic operation, 1st	high
+342		Orthopaedic surgery, plastic operation, subsequent	high
+343		Orthopaedic surgery, plastic operation, 1st, with anaesthesia	high
+345		Orthopaedic surgery, cleaning of minor wounds, 1st, with anaesthesia	high
+346		Orthopaedic surgery, cleaning of minor wounds, 1st	high
+347		Orthopaedic surgery, cleaning of minor wounds, subsequent	high
+352		Orthopaedic surgery, synovectomy, hand, subsequent, with anaesthesia	high
+353		Orthopaedic surgery, synovectomy, hand, 1st	high
+354		Orthopaedic surgery, synovectomy, hand, 1st, with anaesthesia	high
+355		Orthopaedic surgery, synovectomy, hand, subsequent	high
+356		Orthopaedic surgery, joint aspiration, 1st	high
+357		Orthopaedic surgery, joint aspiration, subsequent	high
+358		Orthopaedic surgery, joint aspiration, 1st, with anaesthesia	high
+359		Orthopaedic surgery, joint aspiration, subsequent, with anaesthesia	high
+362		Orthopaedic surgery, telephone advice from GP	high
+366		Orthopaedic surgery, varicose vein operation in the groin	high
+371		ENT service, 1st consultation, allergology	high
+372		ENT service, 1st consultation, allergology, §3, county 20	medium
+374		ENT service, 1st consultation, allergology	high
+375		ENT service, 2nd consultation, allergology	high
+376		ENT service, 2nd consultation, allergology, §3, county 20	medium
+378		ENT service, 2nd consultation, allergology	high
+380		ENT service, acoustic rhinometry	high
+382		ENT service, basic service, §3 agreement, county 65	medium
+383		ENT service, treatment of nosebleed, with tamponade	high
+386		ENT service, sinus operation, antrostomy	high
+387		ENT service, sinus operation, Caldwell-Luc	high
+394		ENT service, skin test, §3 agreement, county 80	medium
+396		ENT service, skin test, allergology	high
+398		ENT service, double endoscopic rhinoscopy	high
+401		ENT service, fine-needle diagnosis (FNA)	high
+402		ENT service, removal of mucous polyp, nose, with anaesthesia	high
+403		ENT service, removal of uvula	high
+404		ENT service, removal of mucous polyp, nose	high
+405		ENT service, removal of benign tumour	high
+406		ENT service, removal of foreign body in larynx	high
+407		ENT service, removal of tumour in larynx	high
+408		ENT service, removal of tumour, with suture	high
+409		ENT service, removal of tumour, without suture	high
+410		ENT service, removal of adenoid vegetations, with anaesthesia	high
+411		ENT service, removal of adenoid vegetations	high
+415		ENT service, removal of tumour, larynx	high
+417		ENT service, removal of ear polyps, with anaesthesia	high
+418		ENT service, removal of ear polyps, with anaesthesia	high
+420		ENT service, removal of tumour, reconstructive surgery	high
+421		ENT service, preliminary examination for hearing aid, county 80	medium
+422		ENT service, preliminary examination, §3, county 20	medium
+423		ENT service, preliminary examination, §3, county 65	medium
+424		ENT service, preliminary examination for hearing aid	high
+425		ENT service, incision of eardrum (myringotomy)	high
+428		ENT service, hearing aid fitting, subsequent	high
+429		ENT service, hearing aid fitting	high
+436		ENT service, caustic treatment of the nose	high
+437		ENT service, caustic treatment of the nose, with anaesthesia	high
+438		ENT service, correction of nasal septum (septoplasty)	high
+439		ENT service, mileage allowance I	high
+440		ENT service, wick treatment of inflamed ear canal	medium
+442		ENT service, middle-ear operation, with tube and membrane	high
+443		ENT service, middle-ear operation, with tympanometry	high
+444		ENT service, middle-ear operation, exposure	low
+445		ENT service, middle-ear operation, with anaesthesia	high
+447		ENT service, monitoring of sleep apnoea	high
+448		ENT service, myringoplasty	medium
+449		ENT service, myringoplasty with graft	medium
+450		ENT service, measurement of otoacoustic emissions	high
+452		ENT service, jaw operation, dental, with anaesthesia	high
+453		ENT service, operation for protruding ears (otoplasty), 1st, county 20	medium
+454		ENT service, operation for tongue-tie (ankyloglossia)	high
+455		ENT service, jaw operation, dental	high
+456		ENT service, salivary gland operation, with anaesthesia	high
+457		ENT service, salivary gland operation	high
+459		ENT service, operation for protruding ears, subsequent	high
+463		ENT service, debridement/cleaning, subsequent	high
+464		ENT service, otolith repositioning manoeuvre	high
+465		ENT service, otoneurological examination	high
+470		ENT service, puncture of maxillary sinus, with anaesthesia	high
+473		ENT service, later consultation, §3 agreement, county 80	medium
+474		ENT service, later consultation, allergology	high
+475		ENT service, later consultation, allergology	high
+483		ENT service, streptococcal antigen test	high
+485		ENT service, suture removal	high
+486		ENT service, suture removal, subsequent	high
+488		ENT service, telephone consultation, allergology, §3, county 20	medium
+489		ENT service, telephone consultation, allergology	high
+491		ENT service, supplement for interpreter, allergology	high
+494		ENT service, telephone consultation, allergology	high
+497		ENT service, tympanostomy tube insertion (grommet), with anaesthesia	high
