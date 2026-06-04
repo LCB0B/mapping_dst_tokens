@@ -37,8 +37,12 @@ different meanings:
 | `UØ` | Unwanted/expelled | Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 7, jf. § 125, stk. 2 + selvstændig frak. |
 | `UÅ` | Unopened prison | Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 7, jf. § 125, stk. 3 |
 
-**Action (later):** overwrite all 5 (+ the 4 placeholders) with the verbatim
-`raw/SOC_frakkod.txt` text; tag `source=raw_soc_frakkod`.
+**✅ FIXED 2026-06-04** (`scripts/fix_soc_frakkod.py`): 7 codes (`ÅA ÅB ÅC UØ UÅ UÆ
+ØA`) rewritten with verbatim Danish from `raw/SOC_frakkod.txt` + translated English,
+`source=raw_soc_frakkod`, `description_en_source=translated`, `confidence=high`. The
+2 remaining (`FF`, `36`) are **not in the AFG_FRAKKOD value set** → marked
+`[Unresolved …]` / `low` (their old "Withdrawal code" labels were guesses; not
+invented). SOC_frakkod is now 184 sourced + 2 honest unresolved.
 
 ---
 
@@ -123,7 +127,7 @@ documentation (or the original `.pt` the vocab was built from) before tagging.
 
 | Category | Source | Verdict | In repo? |
 |----------|--------|---------|----------|
-| SOC_frakkod (5) | DST `AFG_FRAKKOD` (KRAF) = `raw/SOC_frakkod.txt` | **WRONG — hallucinated prison terms** | ✅ |
+| SOC_frakkod (5+4) | DST `AFG_FRAKKOD` (KRAF) = `raw/SOC_frakkod.txt` | **✅ FIXED** (7 sourced, 2 unresolved) | ✅ |
 | SOC_ger7 (18) | `SOC_ger7_dict.csv` + DST kriminalstatistik | correct groups / honest placeholders | ✅ (groups) |
 | DEM_kom (13) | `DEM_kom_dict.csv` + DST kommune list | correct/fillable; 9xx need DST | ✅ (most) |
 | DEM_familie (9) | DST TIMES FAMILIE_TYPE | **CORRECT — all 9 verified** | ❌ (DST URL) |
