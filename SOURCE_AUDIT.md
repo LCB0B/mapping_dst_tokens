@@ -236,6 +236,20 @@ into `description_da`, plus a faithful clean English translation; `source=dst_af
 `dst_ind_bstrfkod`, conf high. **85** afgtypko + **3** bstrfkod rows. afgtypko code `85` is
 **absent from the DST value set** (jumps 84→86) → left `[Unresolved]`, not invented.
 
+## Batch (a) — in-repo resolutions (2026-06-04, `scripts/fix_inrepo_batch_a.py`)
+
+Resolved from the KRIN codebook + repo files (per `input_dataset_description.csv`):
+- **`SOC_loeslkod`** (9) — was bad MT ("Unenlightened"=Uoplyst); upgraded from `IND_LOESLKOD`
+  (verbatim Danish + clean English), `source=dst_ind_loeslkod`.
+- **`LAB_stoette`** (7) — `AMRUN:STOETTE_BESK_KODE`, filled from `raw/LAB_stoette_besk_kode_nullified.txt`
+  (1=løntilskud, 3=fleksjob, 6=voksenlærling…), `source=raw_lab_stoette`.
+- **`LAB_fravaer`** (4) — `AMRUN:FRAVAER_BESK_KODE`, from `raw/LAB_fravaer_besk_kode_nullified.txt`.
+- **`EDU_afg`** (4) — `KOTRE:AFG_ART`, re-tagged/filled from `EDU_afg_art_dict.csv`.
+
+Not resolvable in-repo (left, not invented): **`DEM_far`/`DEM_mor`** weak codes `1/2/99/unknown`
+are absent from the FTDB value set (`FAR/MOR_FOED_ADOP` has 0,11,12,14,…). **`EDU_tilg`**
+(`KOTRE:TILG_ART`) → DST-fetch batch (b).
+
 ---
 
 ## Summary
