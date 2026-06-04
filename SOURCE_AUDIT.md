@@ -106,20 +106,21 @@ change.
 
 ---
 
-## EDU_udel — `UDEL` = Uddannelsesdel / klassetrin
-**Authoritative source (DST):** Elevregistret — variable **UDEL** ("Uddannelsesdel";
-"Klassetrinet fremgår af variablen UDEL") —
-<https://www.dst.dk/da/Statistik/dokumentation/Times/uddannelsesdata/elevregistret>
+## EDU_udel — `UDEL` = Uddannelsesdel (KOTRE / Uddannelsesregister)
+**Authoritative source (CONFIRMED):** DST TIMES variable **`UDEL`** ("Uddannelsesdel"),
+the KOTRE education-part / klassetrin variable —
+<https://www.dst.dk/da/Statistik/dokumentation/Times/uddannelseregister/udel>
+(value set retrieved 2026-06-04).
 
-**Verdict: UNVERIFIED.** Variable identified and the labels are plausible and
-internally consistent (`20`–`30` = 0.–10. klassetrin, `31` = 11., `0` = Udelt
-uddannelse, `40`–`41` = FGU, `51`–`56` = EUD, `60`–`64` = videregående), but DST's
-public page does **not** enumerate the UDEL code values, so the exact code→klassetrin
-mapping is not yet confirmed from a source. **Do not assert the current labels as
-verified.**
+**Verdict: CORRECT/untagged — all 24 verified verbatim.** The DST UDEL value set
+matches every MASTER label exactly: `0`=Udelt uddannelse; `20`–`31`=0.–11. klassetrin;
+`40`=FGU basis/spor ikke valgt; `41`=FGU spor; `51`=EUD indgangsforløb; `52`=EUD
+hovedforløb; `53`=EUD indgangsforløb 1; `54`=EUD indgangsforløb 2; `55`=EUD EUX
+studiekompetenceforløb; `56`=Grundforløb plus; `60`=Udelt kandidatuddannelse;
+`61`=Bacheloruddannelse; `62`=Kandidatoverbygning; `64`=Akademisk overbygningsuddannelse.
+Not a hallucination — labels were just untagged.
 
-**Action (later):** retrieve the UDEL value set from the DST Forskningsservice variable
-documentation (or the original `.pt` the vocab was built from) before tagging.
+**Action (later):** re-tag `source=dst_times_udel` (URL above); labels need no change.
 
 ---
 
@@ -131,7 +132,7 @@ documentation (or the original `.pt` the vocab was built from) before tagging.
 | SOC_ger7 (18) | `SOC_ger7_dict.csv` + DST kriminalstatistik | correct groups / honest placeholders | ✅ (groups) |
 | DEM_kom (13) | `DEM_kom_dict.csv` + DST kommune list | correct/fillable; 9xx need DST | ✅ (most) |
 | DEM_familie (9) | DST TIMES FAMILIE_TYPE | **CORRECT — all 9 verified** | ❌ (DST URL) |
-| EDU_udel (25) | DST Elevregister `UDEL` | variable found, value set **unverified** | ❌ (DST URL) |
+| EDU_udel (25) | DST TIMES `UDEL` (KOTRE) | **CORRECT — all 24 verified verbatim** | ❌ (DST URL) |
 
 Only **SOC_frakkod (5 rows)** are actually wrong. The rest are correct-but-untagged,
 fillable-from-dict, or source-identified-pending-value-set. No fixes applied here
