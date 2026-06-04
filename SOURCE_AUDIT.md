@@ -12,11 +12,17 @@ identified but value set not retrieved, do not assert the current label.
 
 ---
 
-## SOC_frakkod — `frakkod` = Frakendelseskode (deprivation/disqualification code)
-**Authoritative source (in repo):** `raw/SOC_frakkod.txt`
-("D281700.TXT_FRAKKOD — Frakendelsens paragraf i lovgivningen"). 177/186 rows are
-already sourced as `raw_soc_frakkod`; only 5 `none|generated` + 4
-`none|generated|generated` are unsourced.
+## SOC_frakkod — DST `AFG_FRAKKOD` (KRAF / Kriminalstatistik)
+**Authoritative source (CONFIRMED):** DST TIMES variable **`AFG_FRAKKOD`** in the
+**Kriminalstatistik (KRAF)** register — *"Frakendelsens paragraf i lovgivningen"*
+("which paragraph in the Road Traffic Act or other special laws a deprivation of
+driving licence, entry ban, etc. has been sentenced under").
+<https://www.dst.dk/da/Statistik/dokumentation/Times/kriminalstatistik/afg-frakkod>
+The variable's table is **`D281700.TXT_FRAKKOD`** — i.e. the repo file
+`raw/SOC_frakkod.txt` (same header) *is* the extracted `AFG_FRAKKOD` value set.
+So both agree. 177/186 rows are already sourced as `raw_soc_frakkod`; only 5
+`none|generated` + 4 `none|generated|generated` are unsourced. DST confirms the codes
+(e.g. "ÅA, ÅB, ÅC, ÅD created in 2015 … alcohol lock scheme").
 
 **Verdict: WRONG (hallucinated as prison terms).** `frakkod` is about deprivation
 of *rights* — driving-licence disqualification, alcohol-interlock scheme, residence
@@ -117,7 +123,7 @@ documentation (or the original `.pt` the vocab was built from) before tagging.
 
 | Category | Source | Verdict | In repo? |
 |----------|--------|---------|----------|
-| SOC_frakkod (5) | `raw/SOC_frakkod.txt` | **WRONG — hallucinated prison terms** | ✅ |
+| SOC_frakkod (5) | DST `AFG_FRAKKOD` (KRAF) = `raw/SOC_frakkod.txt` | **WRONG — hallucinated prison terms** | ✅ |
 | SOC_ger7 (18) | `SOC_ger7_dict.csv` + DST kriminalstatistik | correct groups / honest placeholders | ✅ (groups) |
 | DEM_kom (13) | `DEM_kom_dict.csv` + DST kommune list | correct/fillable; 9xx need DST | ✅ (most) |
 | DEM_familie (9) | DST TIMES FAMILIE_TYPE | **CORRECT — all 9 verified** | ❌ (DST URL) |
