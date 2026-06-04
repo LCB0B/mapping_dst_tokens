@@ -57,4 +57,26 @@ Net effect: `description_en_official` coverage **47.3% → 62.4%** (19,130 → 2
 
 **Translation quality (`description_en`):** 75.9% of all English is machine-translated (`description_en_source=translated`) — this is the broad-coverage field; `description_en_official` (62.4%) is the authority-verified one. MT is reliable for clean Danish (income quantiles, socio, audd all verified correct) but **unreliable for heavily-abbreviated text** — notably **`HEA_speciale` (6,051 MT rows)**, e.g. `802144` "Vejl. af svang." (counselling of pregnant women) → "Evacuation of constipation". `DEM_civst` `description_da` (7 rows) was English (its source file `raw/DEM_civst.txt` is itself English) → now **filled with the official DST Danish** (Skilt, Gift (+ separeret), Enke/Enkemand, Registreret/Ophævet partnerskab, Længstlevende af 2 partnere, Død), sourced to DST TIMES CIVST.
 
-**Left flagged, NOT auto-fixed (your decision):** the 6,051 `HEA_speciale` machine-translated English strings (abbreviated billing texts, unreliable). No authoritative English exists for these; re-translation would still be MT and is a separate effort. The verified specialty-level `description_en_official` and the authoritative `description_da` remain the reliable fields for this category.
+## 7. HEA_speciale re-translation (2026-06)
+
+The 6,051 `HEA_speciale` machine-translated rows were re-translated in-context
+(Opus 4.8) via an authored Danish medical-billing abbreviation glossary +
+structural rules (`scripts/translate_hea_speciale.py`), expanding ~3,539 unique
+abbreviated procedure strings and applying back to all rows
+(`scripts/apply_hea_speciale_translations.py`).
+
+- **New column `description_da_full`** (6,045 filled): the unabbreviated Danish.
+  The abbreviated `description_da` is preserved as the authoritative register text.
+- `description_en` rewritten; `description_en_source='opus-4-8-medical'`.
+- The canonical failure is fixed: `802144` "Vejl. af svang." → **"Guidance in use
+  of contraceptive methods by insertion of coil (IUD)"** (the PLO full text revealed
+  `svang.`=*svangerskabsforebyggende*/contraceptive, not *svangre*/pregnant women —
+  so the old "Evacuation of constipation" was doubly wrong). GP rows use the fuller
+  `plo_gp_ydelser_merged.csv` text for `description_da_full` where available.
+- **Honest grading:** `confidence_level=medium` (≈3,179) = æøå-clean fluent English;
+  `low` (≈2,872) = retains a Danish fragment, a placeholder ("(procedure not
+  documented)"), or an opaque truncated lab/billing code — best-effort, never invented.
+- **Known limitation:** ~1,445 unique strings (a flat long tail of rare truncated
+  Danish medical terms, e.g. `knoglebrud`, `Op.årekn.ex.lysk.hø`) still carry Danish
+  fragments and are flagged `low`. The key safety gain holds regardless: output is now
+  either correct or *visibly incomplete* — no more confidently-wrong English.

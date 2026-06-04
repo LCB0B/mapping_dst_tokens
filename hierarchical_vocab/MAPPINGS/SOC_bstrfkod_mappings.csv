@@ -1,4 +1,4 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-SOC_bstrfkod_2,SOC,bstrfkod,2,Prison sentence,Prison sentence,,Prison sentence,,,copy-of-da,CSV:SOC_bstrfkod_from_raw,medium,danish,,
-SOC_bstrfkod_1,SOC,bstrfkod,1,Booklet (discontinued 1.7.2001),Booklet (discontinued 1.7.2001),,Booklet (discontinued 1.7.2001),,,copy-of-da,CSV:SOC_bstrfkod_from_raw,medium,danish,,
-SOC_bstrfkod_4,SOC,bstrfkod,4,Punishment determination postponed,Punishment determination postponed,,Punishment determination postponed,,,copy-of-da,CSV:SOC_bstrfkod_from_raw,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
+SOC_bstrfkod_2,SOC,bstrfkod,2,Prison sentence,Prison sentence,,,Prison sentence,,,copy-of-da,CSV:SOC_bstrfkod_from_raw,medium,danish,,
+SOC_bstrfkod_1,SOC,bstrfkod,1,Booklet (discontinued 1.7.2001),Booklet (discontinued 1.7.2001),,,Booklet (discontinued 1.7.2001),,,copy-of-da,CSV:SOC_bstrfkod_from_raw,medium,danish,,
+SOC_bstrfkod_4,SOC,bstrfkod,4,Punishment determination postponed,Punishment determination postponed,,,Punishment determination postponed,,,copy-of-da,CSV:SOC_bstrfkod_from_raw,medium,danish,,

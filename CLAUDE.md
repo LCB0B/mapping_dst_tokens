@@ -133,13 +133,16 @@ description      — Legacy combined human-readable description (Danish or Engli
 description_da   — Danish description, AUTHORITATIVE: follows the training-data semantics
 description_da_alt— Alternative regional meanings (only the ~5 HEA_speciale codes with
                    conflicting §2-aftale semantics across regions — see HEA_speciale below)
+description_da_full— Unabbreviated Danish for HEA_speciale billing codes (abbreviated
+                   description_da is kept as the authoritative register text; empty elsewhere)
 description_en   — Best-available English: translated from Danish OR from an intl. classification (100% filled)
 description_short — Short label variant
 description_en_official        — English ONLY when traceable to an intl. standard (WHO/NACE/ISCO/ISO-3166/DST-SSR);
                                  empty when not reliably available (62.4% filled)
 description_en_official_source — Authority for the official English: who-icd10, who-atc, nace2,
                                  nace2-crosswalk, isco08, isco08-crosswalk, isco88, iso3166, dst-ssr-specialty
-description_en_source          — Provenance tag for description_en: the above + translated, copy-of-da, dst_times_<var>
+description_en_source          — Provenance tag for description_en: the above + translated, copy-of-da,
+                                 dst_times_<var>, opus-4-8-medical (HEA_speciale LLM re-translation; see QC_REPORT §7)
 source           — Where the (legacy) description came from
 mapped           — Whether description exists (True/False)
 total_codes / mapped_codes / mapping_percentage — per-category summary stats (may be empty)

@@ -63,6 +63,7 @@ def main():
                 "description": row.get("description", ""),
                 "description_da": row.get("description_da", ""),
                 "description_da_alt": row.get("description_da_alt", ""),
+                "description_da_full": row.get("description_da_full", ""),
                 "description_en": row.get("description_en", ""),
                 "description_en_official": row.get("description_en_official", ""),
                 "description_en_official_source": row.get("description_en_official_source", ""),
@@ -79,7 +80,7 @@ def main():
     os.makedirs(MAPPINGS_DIR, exist_ok=True)
 
     # Write individual mapping files
-    fieldnames = ["code", "prefix", "database", "value", "description", "description_da", "description_da_alt", "description_en", "description_en_official", "description_en_official_source", "description_en_source", "source", "confidence", "language", "parent_code", "hierarchy_level"]
+    fieldnames = ["code", "prefix", "database", "value", "description", "description_da", "description_da_alt", "description_da_full", "description_en", "description_en_official", "description_en_official_source", "description_en_source", "source", "confidence", "language", "parent_code", "hierarchy_level"]
     files_written = 0
 
     for cat in sorted(categories.keys()):

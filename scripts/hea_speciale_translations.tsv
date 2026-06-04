@@ -1,0 +1,61 @@
+# id	description_da_full	description_en	confidence
+0	Almen lægehjælp 80	General practitioner (specialty 80)	high
+1	Anæstesiologi	Anaesthesiology	high
+2	Briller	Eyeglasses	high
+3	Børnepsykiatri	Child psychiatry	high
+4	Dermato-venerologi	Dermato-venereology	high
+5	Diagnostisk radiologi	Diagnostic radiology	high
+6	Fodbehandling, arvævspatienter	Foot treatment, scar-tissue patients	high
+7	Fodbehandling, leddegigt	Foot treatment, rheumatoid arthritis	high
+8	Fodterapi	Podiatry	high
+9	Fysioterapi 51	Physiotherapy (specialty 51)	high
+10	Fysioterapi 61	Physiotherapy (specialty 61)	high
+11	Gynækologi/obstetrik	Gynaecology/obstetrics	high
+12	Intern medicin	Internal medicine	high
+13	KAK vagtlægehjælp 82	KAK on-call GP service (specialty 82)	high
+14	KAK vagtlægehjælp 84	KAK on-call GP service (specialty 84)	high
+15	Kiropraktik, kronikere	Chiropractic, chronic patients	high
+16	Kirurgi	Surgery	high
+17	Københavns Praktiserende Lægers Laboratorium	Copenhagen GP Laboratory (KPLL)	high
+18	Medicinsk Laboratorium	Medical Laboratory	high
+19	Neuromedicin	Neurology	high
+20	Omegnslaboratorier	Regional laboratories	high
+21	Ortonyxi	Orthonyxia (nail bracing)	high
+22	Ortopædisk kirurgi	Orthopaedic surgery	high
+23	Plastikkirurgi	Plastic surgery	high
+24	Præhospital	Pre-hospital	high
+25	Psykiatri	Psychiatry	high
+26	Psykologhjælp	Psychology service	high
+27	Pædiatri	Paediatrics	high
+28	Reumatologi	Rheumatology	high
+29	Statens Serum Institut	Statens Serum Institut (State Serum Institute)	high
+30	Tandlægehjælp	Dental service	high
+31	Tolkebistand	Interpreter service	high
+32	Tropemedicin	Tropical medicine	high
+33	Vagtlægehjælp 83	On-call GP service (specialty 83)	high
+34	Vederlagsfri fysioterapi	Free-of-charge physiotherapy	high
+35	Øjenlægehjælp	Ophthalmology service	high
+36	Ørelægehjælp	ENT (ear, nose & throat) service	high
+37	Ørelægevagt KAK	ENT on-call service, KAK	high
+38	Anæstesiologi, (procedure ikke dokumenteret)	Anaesthesiology, (procedure not documented)	low
+39	Anæstesiologi, 1. konsultation med operation	Anaesthesiology, 1st consultation with operation	high
+40	Anæstesiologi, 1. konsultation, smertetilstand	Anaesthesiology, 1st consultation, pain condition	medium
+41	Anæstesiologi, 1. konsultation med operation m.v.	Anaesthesiology, 1st consultation with operation etc.	high
+42	Anæstesiologi, 2. konsultation, smertetilstand	Anaesthesiology, 2nd consultation, pain condition	medium
+43	Anæstesiologi, afstandstillæg	Anaesthesiology, distance supplement	high
+44	Anæstesiologi, akupunktur	Anaesthesiology, acupuncture	high
+45	Anæstesiologi, anæstesi med intubation 30-60 min	Anaesthesiology, anaesthesia with intubation 30-60 min	high
+46	Anæstesiologi, anæstesi med intubation 61-120 min	Anaesthesiology, anaesthesia with intubation 61-120 min	high
+47	Anæstesiologi, anæstesi med intubation over 120 min	Anaesthesiology, anaesthesia with intubation over 120 min	high
+48	Anæstesiologi, bedøvelse gruppe I (første)	Anaesthesiology, anaesthesia group I (first)	high
+49	Anæstesiologi, bedøvelse gruppe I (følgende)	Anaesthesiology, anaesthesia group I (subsequent)	high
+50	Anæstesiologi, bedøvelse gruppe II (første)	Anaesthesiology, anaesthesia group II (first)	high
+51	Anæstesiologi, bedøvelse gruppe II (følgende)	Anaesthesiology, anaesthesia group II (subsequent)	high
+52	Anæstesiologi, bedøvelse gruppe III (første)	Anaesthesiology, anaesthesia group III (first)	high
+53	Anæstesiologi, bedøvelse gruppe III (følgende)	Anaesthesiology, anaesthesia group III (subsequent)	high
+54	Anæstesiologi, bedøvelse gruppe IV (første)	Anaesthesiology, anaesthesia group IV (first)	high
+55	Anæstesiologi, bedøvelse gruppe IV (følgende)	Anaesthesiology, anaesthesia group IV (subsequent)	high
+56	Anæstesiologi, besøg	Anaesthesiology, visit	high
+57	Anæstesiologi, bistand til øjen/øre	Anaesthesiology, assistance for eye/ear procedures	high
+58	Anæstesiologi, e-mail konsultation	Anaesthesiology, e-mail consultation	high
+59	Anæstesiologi, e-mail konsultation	Anaesthesiology, e-mail consultation	high

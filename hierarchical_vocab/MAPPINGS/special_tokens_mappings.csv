@@ -1,6 +1,6 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-[PAD],SPECIAL,special_tokens,[PAD],Padding token,,,Padding token,,,translated,vocab_reconciliation,highest,danish,,
-[CLS],SPECIAL,special_tokens,[CLS],Classification token (sequence start),,,Classification token (sequence start),,,translated,vocab_reconciliation,highest,danish,,
-[SEP],SPECIAL,special_tokens,[SEP],Separator token,,,Separator token,,,translated,vocab_reconciliation,highest,danish,,
-[UNK],SPECIAL,special_tokens,[UNK],Unknown token,,,Unknown token,,,translated,vocab_reconciliation,highest,danish,,
-[MASK],SPECIAL,special_tokens,[MASK],Mask token (for masked language modeling),,,Mask token (for masked language modeling),,,translated,vocab_reconciliation,highest,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
+[PAD],SPECIAL,special_tokens,[PAD],Padding token,,,,Padding token,,,translated,vocab_reconciliation,highest,danish,,
+[CLS],SPECIAL,special_tokens,[CLS],Classification token (sequence start),,,,Classification token (sequence start),,,translated,vocab_reconciliation,highest,danish,,
+[SEP],SPECIAL,special_tokens,[SEP],Separator token,,,,Separator token,,,translated,vocab_reconciliation,highest,danish,,
+[UNK],SPECIAL,special_tokens,[UNK],Unknown token,,,,Unknown token,,,translated,vocab_reconciliation,highest,danish,,
+[MASK],SPECIAL,special_tokens,[MASK],Mask token (for masked language modeling),,,,Mask token (for masked language modeling),,,translated,vocab_reconciliation,highest,danish,,

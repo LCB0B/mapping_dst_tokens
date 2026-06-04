@@ -1,6 +1,6 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-DEM_relation_Parent,DEM,relation,Parent,Forælder,Forælder,,Parent relationship,,,translated,none|generated,medium,danish,,
-DEM_relation_Child,DEM,relation,Child,Barn,Barn,,Child relationship,,,translated,none|generated,medium,danish,,
-DEM_relation_Full sibling,DEM,relation,Full sibling,Helsøskende,Helsøskende,,Full sibling,,,translated,none|generated,medium,danish,,
-DEM_relation_Sibling (unknown),DEM,relation,Sibling (unknown),Søskende (ukendt type),Søskende (ukendt type),,Sibling (unknown type),,,translated,none|generated,medium,danish,,
-DEM_relation_Half-sibling,DEM,relation,Half-sibling,Halvsøskende,Halvsøskende,,Half-sibling,,,translated,none|generated,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
+DEM_relation_Parent,DEM,relation,Parent,Forælder,Forælder,,,Parent relationship,,,translated,none|generated,medium,danish,,
+DEM_relation_Child,DEM,relation,Child,Barn,Barn,,,Child relationship,,,translated,none|generated,medium,danish,,
+DEM_relation_Full sibling,DEM,relation,Full sibling,Helsøskende,Helsøskende,,,Full sibling,,,translated,none|generated,medium,danish,,
+DEM_relation_Sibling (unknown),DEM,relation,Sibling (unknown),Søskende (ukendt type),Søskende (ukendt type),,,Sibling (unknown type),,,translated,none|generated,medium,danish,,
+DEM_relation_Half-sibling,DEM,relation,Half-sibling,Halvsøskende,Halvsøskende,,,Half-sibling,,,translated,none|generated,medium,danish,,
