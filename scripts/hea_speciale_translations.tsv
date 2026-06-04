@@ -1019,95 +1019,7 @@
 3955	Vagtlægehjælp 83, Telefonkonsultation Med Recept	On-call GP service 83, telephone consultation with prescription	high
 3957	Vagtlægehjælp 83, Undersøgelse pacemaker	On-call GP service 83, pacemaker examination	high
 3958	Vagtlægehjælp 83, Udfyldelse af dødsattest, side 2	On-call GP service 83, completion of death certificate, page 2	high
-743	Vagtlægehjælp 83, §2 A35 Afstandstillæg	On-call GP service 83, distance supplement (§2, county 35)	medium
-744	Kak vagtlægehjælp 84, Kørselsgodtgørelse I	KAK on-call GP 84, mileage allowance I	high
-745	Kak vagtlægehjælp 84, Telefonkonsultation med Recept	KAK on-call GP 84, telephone consultation with prescription	high
-746	Kak vagtlægehjælp 84, Urin, Blod med videre ved stix 1	KAK on-call GP 84, urine, blood etc. by dipstick 1	high
-747	Præhospital, 1. behandling brud	Pre-hospital, 1st treatment of fracture	high
-748	Præhospital, Afstandstakst over 10 km	Pre-hospital, distance fee over 10 km	high
-749	Præhospital, Anlæggelse af immobiliseringsbandage	Pre-hospital, application of immobilisation bandage	high
-750	Præhospital, Besøg IV	Pre-hospital, visit IV	high
-751	Præhospital, Kørselsgodtgørelse I	Pre-hospital, mileage allowance I	high
-752	Præhospital, Ligsyn og dødsattest A42	Pre-hospital, post-mortem examination and death certificate (county 42)	medium
-753	Præhospital, Psykisk førstehjælp	Pre-hospital, psychological first aid	high
-754	Præhospital, Reposition store led	Pre-hospital, reduction of large joints	high
-755	Præhospital, Store udbredte læsioner	Pre-hospital, large extensive lesions	high
-756	Præhospital, elektrokardiografi inklusive præcordialafledninger	Pre-hospital, electrocardiography including precordial leads	high
-757	KFA-vagtordning 89, Akutte Tilfælde Efter	KFA on-call service 89, acute cases after	medium
-758	KFA-vagtordning 89, Anlæggelse af immobiliseringsbandage	KFA on-call service 89, application of immobilisation bandage	high
-759	KFA-vagtordning 89, Fremmedlegeme Hud med videre	KFA on-call service 89, foreign body in skin etc.	high
-760	KFA-vagtordning 89, Fremmedlegeme øje med videre	KFA on-call service 89, foreign body in eye etc.	high
-761	KFA-vagtordning 89, Sindslidende 1. Indlæggelse	KFA on-call service 89, mentally ill, 1st admission	high
-762	KFA-vagtordning 89, Sindslidende Genindlæggelse	KFA on-call service 89, mentally ill, readmission	high
-763	KFA-vagtordning 89, Svangerskabsreaktion, urincytologi 4	KFA on-call service 89, pregnancy test, urine cytology 4	medium
-765	Kirurgi, 1. Konsultation med/operation med videre	Surgery, 1st consultation with/operation etc.	high
-766	Kirurgi, Amputation Finger 1.	Surgery, amputation of finger, 1st	high
-767	Kirurgi, Amputation Finger følgende	Surgery, amputation of finger, subsequent	high
-768	Kirurgi, Analoperation 1. anæstesi	Surgery, anal operation, 1st, with anaesthesia	high
-769	Kirurgi, Analoperation følgende anæstesi	Surgery, anal operation, subsequent, with anaesthesia	high
-770	Kirurgi, Behandling Brud 1.	Surgery, treatment of fracture, 1st	high
-771	Kirurgi, Blodprøve Eksploration 1	Surgery, blood sample, exploration 1	medium
-772	Kirurgi, Bougiebehandling Urethra 1. anæstesi	Surgery, bougie treatment of urethra, 1st, with anaesthesia	high
-773	Kirurgi, Bougiebehandling Urethra 1.	Surgery, bougie treatment of urethra, 1st	high
-774	Kirurgi, Bougiebehandling Urethra følgende	Surgery, bougie treatment of urethra, subsequent	high
-775	Kirurgi, Dopplerundersøgelse	Surgery, Doppler examination	high
-776	Kirurgi, Dopplerundersøgelse af vener	Surgery, Doppler examination of veins	high
-777	Kirurgi, Duplexscanning af åreknudepatient A25	Surgery, duplex scan of varicose vein patient (county 25)	medium
-778	Kirurgi, Duplexscanning af vener	Surgery, duplex scan of veins	high
-779	Kirurgi, Duplexscanning	Surgery, duplex scan	high
-781	Kirurgi, Fjernelse Svulst Bryst 1.	Surgery, removal of tumour from breast, 1st	high
-782	Kirurgi, Fjernelse Svulst Bryst følgende	Surgery, removal of tumour from breast, subsequent	high
-783	Kirurgi, Fjernelse byld på haleben	Surgery, removal of abscess on tailbone	high
-784	Kirurgi, Fjernelse polyp, rectum	Surgery, removal of polyp, rectum	high
-785	Kirurgi, Fjernelse Svulst Bryst følgende anæstesi	Surgery, removal of tumour from breast, subsequent, with anaesthesia	high
 786	Kirurgi, Fjernelse Svulst Hud 1. anæstesi	Surgery, removal of tumour from skin, 1st, with anaesthesia	high
-787	Kirurgi, Fjernelse Svulst Hud følgende anæstesi	Surgery, removal of tumour from skin, subsequent, with anaesthesia	high
-788	Kirurgi, Hæmoride Ligatur følgende anæstesi	Surgery, haemorrhoid ligation, subsequent, with anaesthesia	high
-790	Kirurgi, Hæmoride Ligaturbehandling 1.	Surgery, haemorrhoid ligation treatment, 1st	high
-791	Kirurgi, Hæmoride Ligaturbehandling følgende	Surgery, haemorrhoid ligation treatment, subsequent	high
-792	Kirurgi, Incision Absces følgende anæstesi	Surgery, incision of abscess, subsequent, with anaesthesia	high
-793	Kirurgi, Incision Cyste følgende anæstesi	Surgery, incision of cyst, subsequent, with anaesthesia	high
-794	Kirurgi, Indgreb Livmoder 1.	Surgery, procedure on uterus, 1st	high
-795	Kirurgi, Injektion Hæmoride følgende anæstesi	Surgery, injection of haemorrhoid, subsequent, with anaesthesia	high
-796	Kirurgi, injektion hæmorider 1.	Surgery, haemorrhoid injection, 1st	high
-798	Kirurgi, injektion hæmorider følgende	Surgery, haemorrhoid injection, subsequent	high
-799	Kirurgi, injektion åre 1. konsultation	Surgery, vein injection, 1st consultation	high
-800	Kirurgi, injektion åre senere konsultation	Surgery, vein injection, later consultation	high
-801	Kirurgi, kontrol sigmoideoskopi / koloskopi	Surgery, follow-up sigmoidoscopy / colonoscopy	high
-808	Kirurgi, operation åreknuder excision lyske højre	Surgery, varicose vein operation, excision, right groin	high
-809	Kirurgi, operation åreknuder i lyske højre, begge	Surgery, varicose vein operation in right groin, both	medium
-810	Kirurgi, operation forhudsforsnævring følgende	Surgery, foreskin stenosis operation, subsequent	high
-811	Kirurgi, operation seneknude følgende i anæstesi	Surgery, tendon ganglion operation, subsequent, with anaesthesia	high
-812	Kirurgi, operation springfinger 1. i anæstesi	Surgery, trigger finger operation, 1st, with anaesthesia	high
-813	Kirurgi, operation springfinger 1.	Surgery, trigger finger operation, 1st	high
-814	Kirurgi, operation åre lyske 1. i anæstesi	Surgery, vein operation, groin, 1st, with anaesthesia	high
-815	Kirurgi, operation åreknuder lyske 1.	Surgery, varicose vein operation, groin, 1st	high
-816	Kirurgi, operation åreknuder lyske følgende	Surgery, varicose vein operation, groin, subsequent	high
-818	Kirurgi, operation forhudsforsnævring 1. i anæstesi	Surgery, foreskin stenosis operation, 1st, with anaesthesia	high
-819	Kirurgi, operation forhudsforsnævring 1.	Surgery, foreskin stenosis operation, 1st	high
-822	Kirurgi, operation åreknuder følgende	Surgery, varicose vein operation, subsequent	high
-823	Kirurgi, operation brystudvikling	Surgery, breast development operation	medium
-824	Kirurgi, operation lyskebrok amt 35	Surgery, inguinal hernia operation (county 35)	medium
-825	Kirurgi, oscillometri *2 excision *6	Surgery, oscillometry *2 excision *6	medium
-826	Kirurgi, plastik operation følgende i anæstesi	Surgery, plastic operation, subsequent, with anaesthesia	high
-827	Kirurgi, plastik operation 1.	Surgery, plastic operation, 1st	high
-829	Kirurgi, plastik operation 1. i anæstesi	Surgery, plastic operation, 1st, with anaesthesia	high
-831	Kirurgi, rensning småsår følgende	Surgery, cleaning of minor wounds, subsequent	high
-832	Kirurgi, revision sår følgende i anæstesi	Surgery, wound revision, subsequent, with anaesthesia	high
-833	Kirurgi, rituel omskæring 2 (amt 13)	Surgery, ritual circumcision, 2 (county 13)	medium
-834	Kirurgi, sekret-gonokok *ekspedition *1	Surgery, secretion gonococcus *handling *1	medium
-835	Kirurgi, sigmoideoskopi / koloskopi	Surgery, sigmoidoscopy / colonoscopy	high
-836	Kirurgi, sterilisation af mand	Surgery, sterilisation of a man	high
-837	Kirurgi, tapning vandbrok 1. i anæstesi	Surgery, hydrocele aspiration, 1st, with anaesthesia	high
-838	Kirurgi, tapning i led følgende	Surgery, joint aspiration, subsequent	high
-839	Kirurgi, tapning i led 1. i anæstesi	Surgery, joint aspiration, 1st, with anaesthesia	high
-841	Kirurgi, tapning vandbrok følgende	Surgery, hydrocele aspiration, subsequent	high
-842	Kirurgi, telefonrådgivning praktiserende læge	Surgery, telephone advice from GP	high
-843	Kirurgi, tolk i forbindelse med konsultation 3	Surgery, interpreter in connection with consultation, 3	medium
-844	Kirurgi, tryk-flow undersøgelse	Surgery, pressure-flow examination	high
-845	Kirurgi, urin-bakteriologi *dyrkning rest *12	Surgery, urine bacteriology *culture, remainder *12	medium
-846	Kirurgi, ultralydsscanning øvre abdomen	Surgery, ultrasound scan of upper abdomen	high
-847	Kirurgi, fjernelse polyp colon	Surgery, removal of colon polyp	high
 2598	Ortonyxi, i hjem over 10 km.	Orthonyxia, in the home over 10 km	high
 3961	Vagtlægehjælp 83, urin, blod mv. ved stix 1	On-call GP service 83, urine, blood etc. by stix 1	high
 3968	Vagtlægehjælp 83, fjernelse af ørevoks	On-call GP service 83, removal of earwax	high
@@ -1217,3 +1129,91 @@
 4208	Kirurgi, ultralydsscanning af øvre abdomen	Surgery, ultrasound scan of the upper abdomen	high
 4217	Kirurgi, fjernelse af polyp, colon	Surgery, removal of polyp, colon	high
 4224	Kirurgi, sigmoideoskopi, amt 35	Surgery, sigmoidoscopy (county 35)	high
+743	Diagnostisk radiologi København, albue	Diagnostic radiology, Copenhagen, elbow	high
+744	Diagnostisk radiologi København, belastningsundersøgelse af led	Diagnostic radiology, Copenhagen, loading examination of joint	high
+745	Diagnostisk radiologi København, bihuler	Diagnostic radiology, Copenhagen, sinuses	high
+746	Diagnostisk radiologi København, brysthvirvler	Diagnostic radiology, Copenhagen, thoracic vertebrae	high
+747	Diagnostisk radiologi København, brystkasse med lunger/hjerte	Diagnostic radiology, Copenhagen, thorax with lungs/heart	high
+748	Diagnostisk radiologi København, bækken	Diagnostic radiology, Copenhagen, pelvis	high
+749	Diagnostisk radiologi København, dobbeltkontrastundersøgelse tyktarm	Diagnostic radiology, Copenhagen, double contrast examination of colon	high
+750	Diagnostisk radiologi København, ekstremiteter	Diagnostic radiology, Copenhagen, extremities	high
+751	Diagnostisk radiologi København, fod/fodled	Diagnostic radiology, Copenhagen, foot/ankle joint	high
+752	Diagnostisk radiologi København, fuldstændig tandstatus	Diagnostic radiology, Copenhagen, full dental status	high
+753	Diagnostisk radiologi København, funktionsundersøgelse rygsøjle røntgen	Diagnostic radiology, Copenhagen, functional examination of spine x-ray	high
+754	Diagnostisk radiologi København, galdeblære	Diagnostic radiology, Copenhagen, gallbladder	high
+755	Diagnostisk radiologi København, haleben	Diagnostic radiology, Copenhagen, coccyx	high
+756	Diagnostisk radiologi København, hals	Diagnostic radiology, Copenhagen, neck	high
+757	Diagnostisk radiologi København, halshvirvler	Diagnostic radiology, Copenhagen, cervical vertebrae	high
+758	Diagnostisk radiologi København, hysterosalpingografi	Diagnostic radiology, Copenhagen, hysterosalpingography	high
+759	Diagnostisk radiologi København, hånd/håndled	Diagnostic radiology, Copenhagen, hand/wrist	high
+760	Diagnostisk radiologi København, knæ	Diagnostic radiology, Copenhagen, knee	high
+761	Diagnostisk radiologi København, kranium	Diagnostic radiology, Copenhagen, skull	high
+762	Diagnostisk radiologi København, kæbeled	Diagnostic radiology, Copenhagen, temporomandibular joint	high
+763	Diagnostisk radiologi København, lår og hofteled	Diagnostic radiology, Copenhagen, thigh and hip joint	high
+765	Diagnostisk radiologi København, mammae	Diagnostic radiology, Copenhagen, breast	high
+766	Diagnostisk radiologi København, mammografi	Diagnostic radiology, Copenhagen, mammography	high
+767	Diagnostisk radiologi København, mave med tolvfingertarm	Diagnostic radiology, Copenhagen, abdomen with duodenum	high
+768	Diagnostisk radiologi København, nedre abdomen	Diagnostic radiology, Copenhagen, lower abdomen	high
+769	Diagnostisk radiologi København, nedre abdomen, blære	Diagnostic radiology, Copenhagen, lower abdomen, bladder	high
+770	Diagnostisk radiologi København, nyrer	Diagnostic radiology, Copenhagen, kidneys	high
+771	Diagnostisk radiologi København, overkæbe	Diagnostic radiology, Copenhagen, upper jaw	high
+772	Diagnostisk radiologi København, sialografi	Diagnostic radiology, Copenhagen, sialography	high
+773	Diagnostisk radiologi København, skulderled og overarm	Diagnostic radiology, Copenhagen, shoulder joint and upper arm	high
+774	Diagnostisk radiologi København, spiserør	Diagnostic radiology, Copenhagen, oesophagus	high
+775	Diagnostisk radiologi København, testes	Diagnostic radiology, Copenhagen, testes	high
+776	Diagnostisk radiologi København, trachea	Diagnostic radiology, Copenhagen, trachea	high
+777	Diagnostisk radiologi København, udvidet urologi tømnings	Diagnostic radiology, Copenhagen, extended urology, voiding	medium
+778	Diagnostisk radiologi København, udvidet mammografi	Diagnostic radiology, Copenhagen, extended mammography	high
+779	Diagnostisk radiologi København, underarm	Diagnostic radiology, Copenhagen, forearm	high
+781	Diagnostisk radiologi København, underkæbe	Diagnostic radiology, Copenhagen, lower jaw	high
+782	Diagnostisk radiologi København, undersøgelse af tyndtarmspassage	Diagnostic radiology, Copenhagen, examination of small-bowel passage	high
+783	Diagnostisk radiologi København, ydelse 2160	Diagnostic radiology, Copenhagen, service 2160	medium
+784	Diagnostisk radiologi København, ydelse 2162	Diagnostic radiology, Copenhagen, service 2162	medium
+785	Diagnostisk radiologi København, øvre abdomen	Diagnostic radiology, Copenhagen, upper abdomen	high
+787	Dermato-venerologi, (procedure not documented)	Dermato-venereology, (procedure not documented)	low
+788	Dermato-venerologi, 1. konsultation	Dermato-venereology, 1st consultation	high
+790	Dermato-venerologi, 1. konsultation stk. 3 (amt 3, A35)	Dermato-venereology, 1st consultation subsection 3 (county 3, A35)	medium
+791	Dermato-venerologi, 1. konsultation, stykke 3, digitalfoto	Dermato-venereology, 1st consultation, subsection 3, digital photo	medium
+792	Dermato-venerologi, 1. konsultation	Dermato-venereology, 1st consultation	high
+793	Dermato-venerologi, 1. konsultation, digitalfoto, aftale A35	Dermato-venereology, 1st consultation, digital photo (agreement A35)	medium
+794	Dermato-venerologi, 2. konsultation	Dermato-venereology, 2nd consultation	high
+795	Dermato-venerologi, 2. konsultation, stykke 3, digitalfoto	Dermato-venereology, 2nd consultation, subsection 3, digital photo	medium
+796	Dermato-venerologi, 2. konsultation, stykke 3, aftale 3A35	Dermato-venereology, 2nd consultation, subsection 3 (agreement 3A35)	medium
+798	Dermato-venerologi, 3. konsultation, stykke 3, aftale 3A35	Dermato-venereology, 3rd consultation, subsection 3 (agreement 3A35)	medium
+799	Dermato-venerologi, 3. konsultation, psoriasis, aftale A65	Dermato-venereology, 3rd consultation, psoriasis (agreement A65)	medium
+800	Dermato-venerologi, 4. konsultation, psoriasis, aftale A65	Dermato-venereology, 4th consultation, psoriasis (agreement A65)	medium
+801	Dermato-venerologi, afstandstillæg	Dermato-venereology, distance supplement	high
+808	Dermato-venerologi, allergi, aftale 3A65	Dermato-venereology, allergy (agreement 3A65)	medium
+809	Dermato-venerologi, anoskopi	Dermato-venereology, anoscopy	high
+810	Dermato-venerologi, ansigt og hals, per behandling	Dermato-venereology, face and neck, per treatment	high
+811	Dermato-venerologi, ansigt/hals, per behandling	Dermato-venereology, face/neck, per treatment	high
+812	Dermato-venerologi, argonlaser, gruppe 3, aftale A15	Dermato-venereology, argon laser, group 3 (agreement A15)	medium
+813	Dermato-venerologi, behandling melanonpati, aftale A65	Dermato-venereology, treatment of melanonpati (agreement A65)	low
+814	Dermato-venerologi, behandling venøst skinnebenssår	Dermato-venereology, treatment of venous shin ulcer	high
+815	Dermato-venerologi, besøg	Dermato-venereology, visit	high
+816	Dermato-venerologi, biopsi	Dermato-venereology, biopsy	high
+818	Dermato-venerologi, blodprøvetagning, stykke 3	Dermato-venereology, blood sampling, subsection 3	medium
+819	Dermato-venerologi, botox behandling, amt 65	Dermato-venereology, botox treatment (county 65)	medium
+822	Dermato-venerologi, doppler	Dermato-venereology, doppler	high
+823	Dermato-venerologi, dyrkning af gærsvamp (amt 12)	Dermato-venereology, culture of yeast fungus (county 12)	high
+824	Dermato-venerologi, dyrkning af hudsvamp (amt 12)	Dermato-venereology, culture of skin fungus (county 12)	high
+825	Dermato-venerologi, e-mail konsultation	Dermato-venereology, e-mail consultation	high
+826	Dermato-venerologi, e-mail konsultation	Dermato-venereology, e-mail consultation	high
+827	Dermato-venerologi, e-mail konsultation	Dermato-venereology, e-mail consultation	high
+829	Dermato-venerologi, eksem 2. konsultation	Dermato-venereology, eczema 2nd consultation	high
+831	Dermato-venerologi, eksem senere konsultation	Dermato-venereology, eczema later consultation	high
+832	Dermato-venerologi, eksem telefonkonsultation	Dermato-venereology, eczema telephone consultation	high
+833	Dermato-venerologi, episkopi	Dermato-venereology, episcopy	high
+834	Dermato-venerologi, fjernelse af svulst, følgende	Dermato-venereology, removal of tumour, subsequent	high
+835	Dermato-venerologi, fjernelse af svulst, hud, 1.	Dermato-venereology, removal of tumour, skin, 1st	high
+836	Dermato-venerologi, fjernelse af svulst, excision, 1.	Dermato-venereology, removal of tumour, excision, 1st	high
+837	Dermato-venerologi, fjernelse af svulst, excision, følgende	Dermato-venereology, removal of tumour, excision, subsequent	high
+838	Dermato-venerologi, fjernelse af negl, 1.	Dermato-venereology, removal of nail, 1st	high
+839	Dermato-venerologi, fjernelse af negl, følgende	Dermato-venereology, removal of nail, subsequent	high
+841	Dermato-venerologi, hage/hals per behandling	Dermato-venereology, chin/neck per treatment	high
+842	Dermato-venerologi, hage/hals per behandling	Dermato-venereology, chin/neck per treatment	high
+843	Dermato-venerologi, hele ansigtet per behandling	Dermato-venereology, entire face per treatment	high
+844	Dermato-venerologi, hele ansigtet per behandling	Dermato-venereology, entire face per treatment	high
+845	Dermato-venerologi, hirsutisme (amt 81)	Dermato-venereology, hirsutism (county 81)	high
+846	Dermato-venerologi, hæmangiomer (amt 81)	Dermato-venereology, haemangiomas (county 81)	high
+847	Dermato-venerologi, incision af absces, 1.	Dermato-venereology, incision of abscess, 1st	high

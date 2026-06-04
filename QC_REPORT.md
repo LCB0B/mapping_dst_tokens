@@ -86,3 +86,11 @@ abbreviated procedure strings and applying back to all rows
   are clean**.
 - **Never invented:** opaque/placeholder codes stay `low` with best-effort partial English;
   the abbreviated `description_da` and full `description_da_full` are preserved.
+- **Id-misassignment caught & fixed.** A post-merge audit found 88 rows (radiology +
+  dermatology) where a workflow agent had returned translations under the wrong ids,
+  corrupting those rows (e.g. a Dermato consultation showing "Surgery, haemorrhoid
+  ligation"). Detected by `scripts/validate_hea_speciale.py` (every row's `description_en`
+  must start with its `description_en_official` specialty); the 88 were stripped and
+  re-translated under strict id-fidelity. Final gate: **0 specialty mismatches** across
+  all 6,134 rows. Run `python3 scripts/validate_hea_speciale.py` as a regression check.
+- **Final tally:** medium 4,493 / low 1,558; integrity `vocab=master=mappings=40,465`.
