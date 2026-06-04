@@ -58,7 +58,7 @@ generated:quantile_percentile,generated:quantile_percentile,2152,medium,english
 generated_pattern,generated_pattern,556,medium,english
 manual_demographic_events,manual_demographic_events,5,medium,english
 manual_update,manual_update,555,medium,english
-none,none,9,medium,danish
+none,none,7,medium,danish
 none|dict_fill,none|dict_fill,15,medium,danish
 none|generated,none|generated,498,medium,danish
 none|generated|generated,none|generated|generated,126,medium,danish
@@ -69,7 +69,7 @@ raw_atc_enhanced_hierarchical,raw_atc_enhanced_hierarchical,1656,high,danish
 raw_dem_fm_mark,raw_dem_fm_mark,6,high,danish
 raw_edu_field,raw_edu_field,409,high,danish
 raw_lab_fravaer,raw_lab_fravaer,4,high,danish
-raw_lab_nace,raw_lab_nace,871,high,danish
+raw_lab_nace,raw_lab_nace,873,high,danish
 raw_lab_stoette,raw_lab_stoette,7,high,danish
 raw_lab_tilstand_kode,raw_lab_tilstand_kode,47,high,danish
 raw_soc_frakkod,raw_soc_frakkod,184,high,danish

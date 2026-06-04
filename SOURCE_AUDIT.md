@@ -294,6 +294,31 @@ are group-plausible but not confirmable per-code. **Recommendation:** re-mark th
 unconfirmable ones `[Unresolved]` (keeping `gl_20`/`gl_40`), OR fill all 51 from the raw `.pt` /
 DST Forskningsservice value set if available. Left unchanged pending that decision.
 
+## LAB_db07 5-digit (44 weak) — mixed/ambiguous industry encoding (2026-06-04)
+
+The 691 sourced `LAB_db07` codes are 6-digit DB07 (NACE Rev.2); **none start with `0`**, i.e.
+the agriculture/mining divisions 01–09 are absent from the sourced set. The 44 weak codes are
+the leftovers and are a **mixed encoding**:
+- **`514620`** = DB93/NACE-Rev1 `51.46.20` "Engroshandel med læge- og hospitalsartikler"
+  (NACE-Rev2 has no `51xxxx`, so unambiguous) and **`999999`** = "Ikke oplyst" → **FIXED**
+  (`source=raw_lab_nace`, from `raw/nace.txt`/`LAB_nace.txt`).
+- **The 5-digit block (`11100`–`89900`)** is **ambiguous between three encodings** that yield
+  *different* industries, so it cannot be resolved by online lookup:
+  - (A) NACE-Rev2 **division**-level — what the current guesses assume (`13000`=textiles,
+    `61000`=telecom, `71000`=architects);
+  - (B) **DB07 6-digit with the leading `0` stripped** (`13000`→`013000`=plant propagation;
+    strongly suggested by the absence of any `0xxxxx` in the sourced set);
+  - (C) **DB93** (`raw/nace.txt`: `13000`=Planteavl kombineret med husdyravl / mixed farming).
+  The ambiguity is in *how the builder encoded the code*, not in what DB07/DB93 mean — DST
+  lookups confirm all three are valid but different. The current NACE-Rev2 guesses
+  (`13000/15000/17000/24000/61000/71000`) are therefore **unverified** (and contradicted by DB93
+  for `13000`/`15000`). This is the "wrong DB07 5-digit mapping" CLAUDE.md HARD RULES warn about.
+
+**Resolution (same as SOCIO_GL):** the original `.pt` (exact codes) or a **transition-crosswalk**
+on the firm/person sequences (when an industry token switches between this 5-digit code and a
+known 6-digit DB07) — see `SOCIO_GL_README.md`. 36 stay `[Unresolved]`; the 6 NACE-Rev2 guesses
+are left pending that decision (mark `[Unresolved]` vs fill from `.pt`).
+
 ---
 
 ## Summary

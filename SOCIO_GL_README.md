@@ -86,6 +86,20 @@ ledighedsydelse, efterløn-detail) — those benefit subdivisions were only intr
 - The empirical crosswalk gives the *meaning*, not DST's exact historical wording; tag it as
   derived, not as an official DST label.
 
+## Other variables with the same scheme-transition problem
+
+The same crosswalk method applies to these (a token's coding scheme changed over time, so
+adjacent observations of the same person/firm across the boundary recover the old→new map):
+
+| Category | Old (ambiguous) code | Map onto (newer, labelled) | Note |
+|---|---|---|---|
+| `LAB_db07` 5-digit (`11100`–`89900`) | mixed: NACE-Rev2 division / leading-zero-stripped DB07 / DB93 | the 6-digit `LAB_db07` token the same **firm** has after the switch | encoding genuinely ambiguous online; see `SOURCE_AUDIT.md`. `514620`+`999999` already resolved (DB93). |
+| `LAB_tilstand` (`AMRUN:TILSTAND_KODE_AMR`) | 5-digit AMR tilstand (no public værdisæt) | co-occurring `LAB_socio13` (DST notes a `TILSTAND_KODE_AMR↔SOC_STATUS_KODE` crosslist) | |
+| `HEA_urgency` `9`/`ATA*` | old/triage admission codes | modern `INDM` `1`=Akut/`2`=Ikke-akut (LPR3, 2014+) | |
+
+For `LAB_db07`, restrict to the same **firm id** across the DB-version boundary (no industry
+change) and map the 5-digit code to the modal 6-digit DB07 successor.
+
 ## Sources
 - `input_dataset_description.csv` (repo) — `AKM:SOCIO_GL` / `AKM:SOCIO13` provenance.
 - `raw/dst_downloads/arbstil_kode_1980.csv` — DST harmonized ARBSTIL_KODE v1:1980 nomenclature.
