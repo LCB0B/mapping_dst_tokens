@@ -94,16 +94,31 @@ territorial codes.
 - `011` → "Told og Skattestyrelsen" **CORRECT/untagged** (matches DST KOM / dict `DEM_kom_11`).
 - `010`/`012`/`019` are empty placeholders, **FILLABLE** and confirmed by DST KOM + dict:
   `10`=Sømandsskattekontoret, `12`=ATP, `19`=Administrativ (Sygehusene).
-- `955`/`956`/`957`/`958`/`959`/`960` and `004`/`007`/`009`: **NOT in the DST KOM value
-  set nor the repo dict** → **UNVERIFIED**. DST KOM codes Greenland as `901`–`953`
-  (Christianshåb, Godthåb, Jakobshavn, Thule, Angmagssalik, Scoresbysund, …) and uses
-  `961`=Udenfor kommunal inddeling / `999`=Uoplyst kommune for special cases — there is
-  **no 955–960 in standard KOM**. So the current `955`=Grønland / `960`=Færøerne /
-  `959`=Udlandet labels are plausible but come from a non-standard/older coding; **do
-  not assert**. Need DST Forskningsservice or the original `.pt`.
+- `955`–`960` = **RESOLVED: the modern Greenland municipalities** (2009 reform + 2018
+  split), which is why they are absent from the dict's *old* Greenland list `901`–`953`
+  — the vocab spans both eras. Sources: cpr.dk Grønland-2018 (authoritative for 958/959/960)
+  <https://www.cpr.dk/cpr-systemet/aendringer/kommunesammenlaegninger-opdeling/groenland-2018>
+  + stat.gl / 2009-reform docs (955/956/957). **Two current labels are WRONG:**
 
-**Action (later):** fill `010`/`012`/`019` from DST KOM/dict + tag `011`; leave the
-9xx + `004`/`007`/`009` flagged unverified pending DST.
+  | code | MASTER (wrong/vague) | authoritative |
+  |------|----------------------|----------------|
+  | 955 | "Grønland" (vague) | Kommune Kujalleq |
+  | 956 | "Grønlandsk kommune" (vague) | Kommuneqarfik Sermersooq |
+  | 957 | *(empty)* | Qeqqata Kommunia |
+  | 958 | *(empty)* | Qaasuitsup Kommunia (2009–2017) |
+  | 959 | ❌ "Udlandet (Abroad)" | **Kommune Qeqertalik** (2018–) |
+  | 960 | ❌ "Færøerne (Faroe Islands)" | **Avannaata Kommunia** (2018–) |
+
+- `004`/`007`/`009`: still **UNRESOLVED** — in the administrative/tax 0xx family
+  (cf. `10`=Sømandsskattekontoret, `11`=Told og Skattestyrelsen, `12`=ATP,
+  `19`=Administrativ (Sygehusene); CPR uses 0010–0019 for persons without residence
+  assigned a CPR no. for tax reasons), but the specific labels for 004/007/009 were not
+  found in any source. Need DST Forskningsservice / original `.pt`. (Note: there is **no**
+  Færøerne or Udlandet code among 955–960 — those MASTER labels were hallucinated.)
+
+**Action (later):** (a) fix `955`–`960` to the Greenland municipality names above
+(`source=cpr_groenland` / `dst-kom`, conf high); (b) fill `010`/`012`/`019` + tag `011`
+from DST KOM/dict; (c) leave `004`/`007`/`009` flagged unresolved pending DST.
 
 ---
 
@@ -155,7 +170,7 @@ Not a hallucination — labels were just untagged.
 |----------|--------|---------|----------|
 | SOC_frakkod (5+4) | DST `AFG_FRAKKOD` (KRAF) = `raw/SOC_frakkod.txt` | **✅ FIXED** (7 sourced, 2 unresolved) | ✅ |
 | SOC_ger7 (18) | DST `AFG_GER7` (KRAF) + `SOC_ger7_dict.csv` | groups correct (0=Uoplyst fillable; 11/14/38 wording); 1xxx need full DST list; **4xxx not valid GER7** | ✅ (groups) |
-| DEM_kom (13) | DST KOM + `DEM_kom_dict.csv` | 011 correct; 010/012/019 fillable; 9xx + 004/007/009 NOT in KOM → unverified | partial |
+| DEM_kom (13) | DST KOM + cpr.dk Grønland + `DEM_kom_dict.csv` | **955–960 RESOLVED = modern Greenland kommuner** (959/960 were WRONG: Abroad/Faroe); 011 correct; 010/012/019 fillable; 004/007/009 still unresolved | mostly |
 | DEM_familie (9) | DST TIMES FAMILIE_TYPE | **CORRECT — all 9 verified** | ❌ (DST URL) |
 | EDU_udel (25) | DST TIMES `UDEL` (KOTRE) | **CORRECT — all 24 verified verbatim** | ❌ (DST URL) |
 
