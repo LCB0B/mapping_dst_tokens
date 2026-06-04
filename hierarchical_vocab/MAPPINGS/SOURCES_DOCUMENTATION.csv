@@ -1,6 +1,6 @@
 source,description,count,confidence,language
 CSV:DEM_far_foed_adop,CSV:DEM_far_foed_adop,11,high,danish
-CSV:DEM_kom,CSV:DEM_kom,343,high,danish
+CSV:DEM_kom,CSV:DEM_kom,347,high,danish
 CSV:DEM_mor_foed_adop,CSV:DEM_mor_foed_adop,13,high,danish
 CSV:DEM_opr_land,CSV:DEM_opr_land,215,high,danish
 CSV:DEM_statsb,CSV:DEM_statsb,213,high,danish
@@ -41,6 +41,7 @@ DSE77,DSE77,8,medium,danish
 "DSE77_inferred (fully inferred, near 99999 Uoplyst)","DSE77_inferred (fully inferred, near 99999 Uoplyst)",1,medium,danish
 "DSE77_inferred (fully inferred, no group 51 in DSE77)","DSE77_inferred (fully inferred, no group 51 in DSE77)",1,medium,danish
 "DSE77_inferred (fully inferred, outside standard DSE77 range)","DSE77_inferred (fully inferred, outside standard DSE77 range)",1,medium,danish
+cpr_groenland,cpr_groenland,6,medium,danish
 dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),7,medium,danish
 dual_source_special2_spec6,dual_source_special2_spec6,4448,medium,danish
 esundhed:lmdb_voltypecode,esundhed:lmdb_voltypecode,168,medium,danish
@@ -50,7 +51,7 @@ manual_demographic_events,manual_demographic_events,5,medium,english
 manual_update,manual_update,555,medium,english
 none,none,9,medium,danish
 none|dict_fill,none|dict_fill,24,medium,danish
-none|generated,none|generated,551,medium,danish
+none|generated,none|generated,541,medium,danish
 none|generated|generated,none|generated|generated,135,medium,danish
 none|generated|generated|generated,none|generated|generated|generated,5,medium,danish
 none|icd8_raw,none|icd8_raw,549,medium,danish
