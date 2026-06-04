@@ -447,7 +447,7 @@
 445	Ørelægehjælp, Mellemøreoperat. anæstesi	ENT service, Mellemøreoperat. anaesthesia	low	Y
 446	Ørelægehjælp, Mellemøreoperation	ENT service, Middle-ear operation	high	
 447	Ørelægehjælp, Monit. af søvnapnø	ENT service, Monit. of søvnapnø	low	Y
-448	Ørelægehjælp, Myringoplast. med ris	ENT service, Myringoplast. with ris	low	Y
+448	Ørelægehjælp, Myringoplast. med ris	ENT service, Myringoplast. with rice	low	Y
 449	Ørelægehjælp, Myringoplast. med tra	ENT service, Myringoplast. with tra	low	Y
 450	Ørelægehjælp, Måling af ota. emi.	ENT service, Measurement of ota. emi.	low	Y
 451	Ørelægehjælp, Oesophagoskopi	ENT service, Oesophagoskopi	high	
@@ -466,7 +466,7 @@
 464	Ørelægehjælp, Otolit repositionsm.	ENT service, Otolit repositionsm.	low	Y
 465	Ørelægehjælp, Otoneurologisk undersøgelse	ENT service, Otoneurologisk examination	low	Y
 466	Ørelægehjælp, Paracentese	ENT service, Paracentese	high	
-467	Ørelægehjælp, Priktest  3-aft. A65	ENT service, Priktest 3-aft. a65	high	
+467	Ørelægehjælp, Priktest  3-aft. A65	ENT service, Skin-prick test 3-aft. a65	high	
 468	Ørelægehjælp, Projektregistrering	ENT service, Projektregistrering	high	
 469	Ørelægehjælp, Puls-oxymetri	ENT service, Puls-oxymetri	high	
 470	Ørelægehjælp, punktur af Kæbehul anæstesi	ENT service, Puncture of kæbehul anaesthesia	low	Y
@@ -936,17 +936,17 @@
 934	Københavns Praktiserende Lægers Laboratorium, ACTH;P	Copenhagen GP Laboratory (KPLL), Acth (plasma)	high	
 935	Københavns Praktiserende Lægers Laboratorium, ALAT;P	Copenhagen GP Laboratory (KPLL), Alat (plasma)	high	
 936	Københavns Praktiserende Lægers Laboratorium, ANA;P	Copenhagen GP Laboratory (KPLL), Ana (plasma)	high	
-937	Københavns Praktiserende Lægers Laboratorium, ANCA;P	Copenhagen GP Laboratory (KPLL), Anca (plasma)	high	
+937	Københavns Praktiserende Lægers Laboratorium, ANCA;P	Copenhagen GP Laboratory (KPLL), ANCA (plasma)	high	
 938	Københavns Praktiserende Lægers Laboratorium, APTT;P	Copenhagen GP Laboratory (KPLL), Aptt (plasma)	high	
 939	Københavns Praktiserende Lægers Laboratorium, ASAT;P	Copenhagen GP Laboratory (KPLL), Asat (plasma)	high	
 940	Københavns Praktiserende Lægers Laboratorium, Acajounød IgE;P	Copenhagen GP Laboratory (KPLL), Cashew nut IgE (plasma)	high	
 941	Københavns Praktiserende Lægers Laboratorium, Acarus s. IgE;P	Copenhagen GP Laboratory (KPLL), Acarus s. IgE (plasma)	high	
 942	Københavns Praktiserende Lægers Laboratorium, Acetylcho.rec.Ab	Copenhagen GP Laboratory (KPLL), Acetylcho.rec.antibody	high	
-943	Københavns Praktiserende Lægers Laboratorium, Acetylsal. IgE;P	Copenhagen GP Laboratory (KPLL), Acetylsal. IgE (plasma)	low	Y
+943	Københavns Praktiserende Lægers Laboratorium, Acetylsal. IgE;P	Copenhagen GP Laboratory (KPLL), Acetylsalicylic acid. IgE (plasma)	low	Y
 944	Københavns Praktiserende Lægers Laboratorium, Adrenalin;dU	Copenhagen GP Laboratory (KPLL), Adrenalin;du	high	
 945	Københavns Praktiserende Lægers Laboratorium, Afhentede pr>ver	Copenhagen GP Laboratory (KPLL), Afhentede pr>ver	high	
 946	Københavns Praktiserende Lægers Laboratorium, Agurk IgE;P	Copenhagen GP Laboratory (KPLL), Agurk IgE (plasma)	high	
-947	Københavns Praktiserende Lægers Laboratorium, Albumin (el.);P	Copenhagen GP Laboratory (KPLL), Albumin (el.) (plasma)	low	Y
+947	Københavns Praktiserende Lægers Laboratorium, Albumin (el.);P	Copenhagen GP Laboratory (KPLL), Albumin (alder.) (plasma)	low	Y
 948	Københavns Praktiserende Lægers Laboratorium, Albumin/Crea;U	Copenhagen GP Laboratory (KPLL), Albumin/crea (urine)	high	
 949	Københavns Praktiserende Lægers Laboratorium, Albumin;P	Copenhagen GP Laboratory (KPLL), Albumin (plasma)	high	
 950	Københavns Praktiserende Lægers Laboratorium, Albumin;dU	Copenhagen GP Laboratory (KPLL), Albumin;du	high	
@@ -955,7 +955,7 @@
 953	Københavns Praktiserende Lægers Laboratorium, Alfa Føtoprot;P	Copenhagen GP Laboratory (KPLL), Alpha-fetoprotein (plasma)	high	
 954	Københavns Praktiserende Lægers Laboratorium, Alfa-1-Globulin,	Copenhagen GP Laboratory (KPLL), Alfa-1-globulin,	high	
 955	Københavns Praktiserende Lægers Laboratorium, Alfa-2-Globulin;	Copenhagen GP Laboratory (KPLL), Alfa-2-globulin;	high	
-956	Københavns Praktiserende Lægers Laboratorium, AllSpec.IgE ord.	Copenhagen GP Laboratory (KPLL), Allspec.IgE ord.	low	Y
+956	Københavns Praktiserende Lægers Laboratorium, AllSpec.IgE ord.	Copenhagen GP Laboratory (KPLL), All specific.IgE ord.	low	Y
 957	Københavns Praktiserende Lægers Laboratorium, Allergiscreen;P	Copenhagen GP Laboratory (KPLL), Allergiscreen (plasma)	high	
 958	Københavns Praktiserende Lægers Laboratorium, Altern.ten.IgE;P	Copenhagen GP Laboratory (KPLL), Altern.ten.IgE (plasma)	high	
 959	Københavns Praktiserende Lægers Laboratorium, Amiodaron;P	Copenhagen GP Laboratory (KPLL), Amiodaron (plasma)	high	
@@ -979,9 +979,9 @@
 977	Københavns Praktiserende Lægers Laboratorium, Aspergil.v IgE;P	Copenhagen GP Laboratory (KPLL), Aspergil.v IgE (plasma)	high	
 978	Københavns Praktiserende Lægers Laboratorium, Avocado IgE;P	Copenhagen GP Laboratory (KPLL), Avocado IgE (plasma)	high	
 979	Københavns Praktiserende Lægers Laboratorium, BNP;P	Copenhagen GP Laboratory (KPLL), Bnp (plasma)	high	
-980	Københavns Praktiserende Lægers Laboratorium, bakteriologisk dyrk+res ;U	Copenhagen GP Laboratory (KPLL), Bacteriological dyrk+res (urine)	high	
+980	Københavns Praktiserende Lægers Laboratorium, bakteriologisk dyrk+res ;U	Copenhagen GP Laboratory (KPLL), Bacteriological dyrk+result (urine)	high	
 981	Københavns Praktiserende Lægers Laboratorium, bakteriologisk dyrk resA;U	Copenhagen GP Laboratory (KPLL), Bacteriological dyrk resa (urine)	high	
-982	Københavns Praktiserende Lægers Laboratorium, Banan IgE;P	Copenhagen GP Laboratory (KPLL), Banan IgE (plasma)	high	
+982	Københavns Praktiserende Lægers Laboratorium, Banan IgE;P	Copenhagen GP Laboratory (KPLL), Banana IgE (plasma)	high	
 983	Københavns Praktiserende Lægers Laboratorium, Bas.fosfatase;P	Copenhagen GP Laboratory (KPLL), Bas.fosfatase (plasma)	high	
 984	Københavns Praktiserende Lægers Laboratorium, Basisk Frakt.;P	Copenhagen GP Laboratory (KPLL), Alkaline fraction. (plasma)	low	Y
 985	Københavns Praktiserende Lægers Laboratorium, Basofilocytter;B	Copenhagen GP Laboratory (KPLL), Basofilocytter (blood)	high	
@@ -995,13 +995,13 @@
 993	Københavns Praktiserende Lægers Laboratorium, Bilirubin,frakt.	Copenhagen GP Laboratory (KPLL), Bilirubin,fractionated.	low	Y
 994	Københavns Praktiserende Lægers Laboratorium, Bilirubin;P	Copenhagen GP Laboratory (KPLL), Bilirubin (plasma)	high	
 995	Københavns Praktiserende Lægers Laboratorium, Binyrebark Ab;P	Copenhagen GP Laboratory (KPLL), Adrenal cortex antibody (plasma)	high	
-996	Københavns Praktiserende Lægers Laboratorium, Birk IgE;P	Copenhagen GP Laboratory (KPLL), Birk IgE (plasma)	high	
+996	Københavns Praktiserende Lægers Laboratorium, Birk IgE;P	Copenhagen GP Laboratory (KPLL), Birch IgE (plasma)	high	
 997	Københavns Praktiserende Lægers Laboratorium, Bladsel. IgE;P	Copenhagen GP Laboratory (KPLL), Celery leaf. IgE (plasma)	low	Y
 998	Københavns Praktiserende Lægers Laboratorium, Blod i fæces 1	Copenhagen GP Laboratory (KPLL), Blood in faeces 1	high	
 999	Københavns Praktiserende Lægers Laboratorium, Blod i fæces 2	Copenhagen GP Laboratory (KPLL), Blood in faeces 2	high	
 1000	Københavns Praktiserende Lægers Laboratorium, Blod i fæces 3	Copenhagen GP Laboratory (KPLL), Blood in faeces 3	high	
 1001	Københavns Praktiserende Lægers Laboratorium, Blod i fæces x3	Copenhagen GP Laboratory (KPLL), Blood in faeces x3	high	
-1002	Københavns Praktiserende Lægers Laboratorium, Bloddyrkn.(bakt)	Copenhagen GP Laboratory (KPLL), Bloddyrkn.(bakt)	low	Y
+1002	Københavns Praktiserende Lægers Laboratorium, Bloddyrkn.(bakt)	Copenhagen GP Laboratory (KPLL), Blood culture.(bakt)	low	Y
 1003	Københavns Praktiserende Lægers Laboratorium, Blodtype AB0+RH	Copenhagen GP Laboratory (KPLL), Blodtype ab0+rh	high	
 1004	Københavns Praktiserende Lægers Laboratorium, Blodtype irre.Ab	Copenhagen GP Laboratory (KPLL), Blodtype irre.antibody	high	
 1005	Københavns Praktiserende Lægers Laboratorium, Blodtype+irre.Ab	Copenhagen GP Laboratory (KPLL), Blodtype+irre.antibody	high	
@@ -1010,7 +1010,7 @@
 1008	Københavns Praktiserende Lægers Laboratorium, Boghvede IgE;P	Copenhagen GP Laboratory (KPLL), Boghvede IgE (plasma)	high	
 1009	Københavns Praktiserende Lægers Laboratorium, Borrelia Ab	Copenhagen GP Laboratory (KPLL), Borrelia antibody	high	
 1010	Københavns Praktiserende Lægers Laboratorium, Burfugle IgE;P	Copenhagen GP Laboratory (KPLL), Burfugle IgE (plasma)	high	
-1011	Københavns Praktiserende Lægers Laboratorium, Byg IgE;P	Copenhagen GP Laboratory (KPLL), Byg IgE (plasma)	high	
+1011	Københavns Praktiserende Lægers Laboratorium, Byg IgE;P	Copenhagen GP Laboratory (KPLL), Barley IgE (plasma)	high	
 1012	Københavns Praktiserende Lægers Laboratorium, Bynkeambro IgE;P	Copenhagen GP Laboratory (KPLL), Bynkeambro IgE (plasma)	high	
 1013	Københavns Praktiserende Lægers Laboratorium, Bøg IgE;P	Copenhagen GP Laboratory (KPLL), Beech IgE (plasma)	high	
 1014	Københavns Praktiserende Lægers Laboratorium, Børnekost IgE;P	Copenhagen GP Laboratory (KPLL), Children's food panel IgE (plasma)	high	
@@ -1051,7 +1051,7 @@
 1049	Københavns Praktiserende Lægers Laboratorium, Clonazepam;P	Copenhagen GP Laboratory (KPLL), Clonazepam (plasma)	high	
 1050	Københavns Praktiserende Lægers Laboratorium, Clozapin;P	Copenhagen GP Laboratory (KPLL), Clozapin (plasma)	high	
 1051	Københavns Praktiserende Lægers Laboratorium, Cobalamin;P	Copenhagen GP Laboratory (KPLL), Cobalamin (plasma)	high	
-1052	Københavns Praktiserende Lægers Laboratorium, Complem. C1q;P	Copenhagen GP Laboratory (KPLL), Complem. c1q (plasma)	low	Y
+1052	Københavns Praktiserende Lægers Laboratorium, Complem. C1q;P	Copenhagen GP Laboratory (KPLL), Complement. c1q (plasma)	low	Y
 1053	Københavns Praktiserende Lægers Laboratorium, Complement C3;P	Copenhagen GP Laboratory (KPLL), Complement c3 (plasma)	high	
 1054	Københavns Praktiserende Lægers Laboratorium, Complement C4;P	Copenhagen GP Laboratory (KPLL), Complement c4 (plasma)	high	
 1055	Københavns Praktiserende Lægers Laboratorium, Coombs' test	Copenhagen GP Laboratory (KPLL), Coombs' test	high	
@@ -1104,7 +1104,7 @@
 1102	Københavns Praktiserende Lægers Laboratorium, Epitelceller;U	Copenhagen GP Laboratory (KPLL), Epitelceller (urine)	high	
 1103	Københavns Praktiserende Lægers Laboratorium, Erhv.(pax4)IgE;P	Copenhagen GP Laboratory (KPLL), Occupational panel.(pax4)IgE (plasma)	low	Y
 1104	Københavns Praktiserende Lægers Laboratorium, Ery Vol Varia;B	Copenhagen GP Laboratory (KPLL), Ery vol varia (blood)	high	
-1105	Københavns Praktiserende Lægers Laboratorium, EryVolFrac.;B	Copenhagen GP Laboratory (KPLL), Eryvolfrac. (blood)	low	Y
+1105	Københavns Praktiserende Lægers Laboratorium, EryVolFrac.;B	Copenhagen GP Laboratory (KPLL), Erythrocyte volume fraction. (blood)	low	Y
 1106	Københavns Praktiserende Lægers Laboratorium, Erythroblaster;B	Copenhagen GP Laboratory (KPLL), Erythroblaster (blood)	high	
 1107	Københavns Praktiserende Lægers Laboratorium, Erythrocytter;U	Copenhagen GP Laboratory (KPLL), Erythrocytter (urine)	high	
 1108	Københavns Praktiserende Lægers Laboratorium, Erytrocytter;B	Copenhagen GP Laboratory (KPLL), Erytrocytter (blood)	high	
@@ -1171,7 +1171,7 @@
 1169	Københavns Praktiserende Lægers Laboratorium, Grå Bynke IgE;P	Copenhagen GP Laboratory (KPLL), Mugwort IgE (plasma)	high	
 1170	Københavns Praktiserende Lægers Laboratorium, Grå el IgE;P	Copenhagen GP Laboratory (KPLL), Grey alder IgE (plasma)	high	
 1171	Københavns Praktiserende Lægers Laboratorium, Gulaks IgE;P	Copenhagen GP Laboratory (KPLL), Gulaks IgE (plasma)	high	
-1172	Københavns Praktiserende Lægers Laboratorium, Gulerod IgE;P	Copenhagen GP Laboratory (KPLL), Gulerod IgE (plasma)	high	
+1172	Københavns Praktiserende Lægers Laboratorium, Gulerod IgE;P	Copenhagen GP Laboratory (KPLL), Carrot IgE (plasma)	high	
 1173	Københavns Praktiserende Lægers Laboratorium, HBsAg,konf;P	Copenhagen GP Laboratory (KPLL), Hbsag,confirmatory (plasma)	high	
 1174	Københavns Praktiserende Lægers Laboratorium, HCG;P	Copenhagen GP Laboratory (KPLL), Hcg (plasma)	high	
 1175	Københavns Praktiserende Lægers Laboratorium, HCG;U	Copenhagen GP Laboratory (KPLL), Hcg (urine)	high	
@@ -1192,10 +1192,10 @@
 1190	Københavns Praktiserende Lægers Laboratorium, HR-test Inhal;B	Copenhagen GP Laboratory (KPLL), Hr-test inhal (blood)	high	
 1191	Københavns Praktiserende Lægers Laboratorium, Hamster IgE;P	Copenhagen GP Laboratory (KPLL), Hamster IgE (plasma)	high	
 1192	Københavns Praktiserende Lægers Laboratorium, Haptoglobin;P	Copenhagen GP Laboratory (KPLL), Haptoglobin (plasma)	high	
-1193	Københavns Praktiserende Lægers Laboratorium, Hassel  IgE;P	Copenhagen GP Laboratory (KPLL), Hassel IgE (plasma)	high	
+1193	Københavns Praktiserende Lægers Laboratorium, Hassel  IgE;P	Copenhagen GP Laboratory (KPLL), Hazel IgE (plasma)	high	
 1194	Københavns Praktiserende Lægers Laboratorium, Hasselnød IgE;P	Copenhagen GP Laboratory (KPLL), Hazelnut IgE (plasma)	high	
-1195	Københavns Praktiserende Lægers Laboratorium, Havre IgE;P	Copenhagen GP Laboratory (KPLL), Havre IgE (plasma)	high	
-1196	Københavns Praktiserende Lægers Laboratorium, Havre,inh.IgE;P	Copenhagen GP Laboratory (KPLL), Havre,inh.IgE (plasma)	high	
+1195	Københavns Praktiserende Lægers Laboratorium, Havre IgE;P	Copenhagen GP Laboratory (KPLL), Oats IgE (plasma)	high	
+1196	Københavns Praktiserende Lægers Laboratorium, Havre,inh.IgE;P	Copenhagen GP Laboratory (KPLL), Oats,inh.IgE (plasma)	high	
 1197	Københavns Praktiserende Lægers Laboratorium, HbA1c;B	Copenhagen GP Laboratory (KPLL), Hba1c (blood)	high	
 1198	Københavns Praktiserende Lægers Laboratorium, Hel.sp.hal.IgE;P	Copenhagen GP Laboratory (KPLL), Hel.sp.hal.IgE (plasma)	high	
 1199	Københavns Praktiserende Lægers Laboratorium, Helicob. Ab	Copenhagen GP Laboratory (KPLL), Helicobacter. antibody	low	Y
@@ -1220,13 +1220,13 @@
 1218	Københavns Praktiserende Lægers Laboratorium, Hovedgruppe 3   KPLL	Copenhagen GP Laboratory (KPLL), Hovedgruppe 3 kpll	high	
 1219	Københavns Praktiserende Lægers Laboratorium, Humle IgE;P	Copenhagen GP Laboratory (KPLL), Humle IgE (plasma)	high	
 1220	Københavns Praktiserende Lægers Laboratorium, Hummer IgE;P	Copenhagen GP Laboratory (KPLL), Hummer IgE (plasma)	high	
-1221	Københavns Praktiserende Lægers Laboratorium, Hund IgE;P	Copenhagen GP Laboratory (KPLL), Hund IgE (plasma)	high	
+1221	Københavns Praktiserende Lægers Laboratorium, Hund IgE;P	Copenhagen GP Laboratory (KPLL), Dog IgE (plasma)	high	
 1222	Københavns Praktiserende Lægers Laboratorium, Hundegr's IgE;P	Copenhagen GP Laboratory (KPLL), Hundegr's IgE (plasma)	high	
 1223	Københavns Praktiserende Lægers Laboratorium, Husdyr(ex1)IgE;P	Copenhagen GP Laboratory (KPLL), Husdyr(ex1)IgE (plasma)	high	
 1224	Københavns Praktiserende Lægers Laboratorium, Husmide f. IgE;P	Copenhagen GP Laboratory (KPLL), Husmide f. IgE (plasma)	high	
 1225	Københavns Praktiserende Lægers Laboratorium, Husmide p. IgE;P	Copenhagen GP Laboratory (KPLL), Husmide p. IgE (plasma)	high	
-1226	Københavns Praktiserende Lægers Laboratorium, Hvede IgE;P	Copenhagen GP Laboratory (KPLL), Hvede IgE (plasma)	high	
-1227	Københavns Praktiserende Lægers Laboratorium, Hvede,inh.IgE;P	Copenhagen GP Laboratory (KPLL), Hvede,inh.IgE (plasma)	high	
+1226	Københavns Praktiserende Lægers Laboratorium, Hvede IgE;P	Copenhagen GP Laboratory (KPLL), Wheat IgE (plasma)	high	
+1227	Københavns Praktiserende Lægers Laboratorium, Hvede,inh.IgE;P	Copenhagen GP Laboratory (KPLL), Wheat,inh.IgE (plasma)	high	
 1228	Københavns Praktiserende Lægers Laboratorium, Hvepsegidt IgG;P	Copenhagen GP Laboratory (KPLL), Hvepsegidt igg (plasma)	high	
 1229	Københavns Praktiserende Lægers Laboratorium, Hvepsegift IgE;P	Copenhagen GP Laboratory (KPLL), Hvepsegift IgE (plasma)	high	
 1230	Københavns Praktiserende Lægers Laboratorium, Hvidløg IgE;P	Copenhagen GP Laboratory (KPLL), Garlic IgE (plasma)	high	
@@ -1261,9 +1261,9 @@
 1259	Københavns Praktiserende Lægers Laboratorium, Kalium;S	Copenhagen GP Laboratory (KPLL), Kalium (serum)	high	
 1260	Københavns Praktiserende Lægers Laboratorium, Kanel IgE;P	Copenhagen GP Laboratory (KPLL), Kanel IgE (plasma)	high	
 1261	Københavns Praktiserende Lægers Laboratorium, Kanin IgE;P	Copenhagen GP Laboratory (KPLL), Kanin IgE (plasma)	high	
-1262	Københavns Praktiserende Lægers Laboratorium, Kapil. bl>dn.tid	Copenhagen GP Laboratory (KPLL), Kapil. bl>dn.tid	low	Y
-1263	Københavns Praktiserende Lægers Laboratorium, Kartoffel IgE;P	Copenhagen GP Laboratory (KPLL), Kartoffel IgE (plasma)	high	
-1264	Københavns Praktiserende Lægers Laboratorium, Kat  IgE;P	Copenhagen GP Laboratory (KPLL), Kat IgE (plasma)	high	
+1262	Københavns Praktiserende Lægers Laboratorium, Kapil. bl>dn.tid	Copenhagen GP Laboratory (KPLL), Capillary. bl>dn.tid	low	Y
+1263	Københavns Praktiserende Lægers Laboratorium, Kartoffel IgE;P	Copenhagen GP Laboratory (KPLL), Potato IgE (plasma)	high	
+1264	Københavns Praktiserende Lægers Laboratorium, Kat  IgE;P	Copenhagen GP Laboratory (KPLL), Cat IgE (plasma)	high	
 1265	Københavns Praktiserende Lægers Laboratorium, Kiwifrugt IgE;P	Copenhagen GP Laboratory (KPLL), Kiwifrugt IgE (plasma)	high	
 1266	Københavns Praktiserende Lægers Laboratorium, Koagulationstid	Copenhagen GP Laboratory (KPLL), Koagulationstid	high	
 1267	Københavns Praktiserende Lægers Laboratorium, Kobber;P	Copenhagen GP Laboratory (KPLL), Kobber (plasma)	high	
@@ -1271,7 +1271,7 @@
 1269	Københavns Praktiserende Lægers Laboratorium, Komælk IgE;P	Copenhagen GP Laboratory (KPLL), Cow's milk IgE (plasma)	high	
 1270	Københavns Praktiserende Lægers Laboratorium, Kornpanel IgE;P	Copenhagen GP Laboratory (KPLL), Kornpanel IgE (plasma)	high	
 1271	Københavns Praktiserende Lægers Laboratorium, Koskæl IgE;P	Copenhagen GP Laboratory (KPLL), Cow dander IgE (plasma)	high	
-1272	Københavns Praktiserende Lægers Laboratorium, Krabbe IgE;P	Copenhagen GP Laboratory (KPLL), Krabbe IgE (plasma)	high	
+1272	Københavns Praktiserende Lægers Laboratorium, Krabbe IgE;P	Copenhagen GP Laboratory (KPLL), Crab IgE (plasma)	high	
 1273	Københavns Praktiserende Lægers Laboratorium, Krebs IgE;P	Copenhagen GP Laboratory (KPLL), Krebs IgE (plasma)	high	
 1274	Københavns Praktiserende Lægers Laboratorium, Kromosomunders.	Copenhagen GP Laboratory (KPLL), Chromosome analysis.	low	Y
 1275	Københavns Praktiserende Lægers Laboratorium, Krydderi 1 IgE;P	Copenhagen GP Laboratory (KPLL), Krydderi 1 IgE (plasma)	high	
@@ -1293,7 +1293,7 @@
 1291	Københavns Praktiserende Lægers Laboratorium, Lactalbum. IgE;P	Copenhagen GP Laboratory (KPLL), Lactalbumin. IgE (plasma)	low	Y
 1292	Københavns Praktiserende Lægers Laboratorium, Lactoglobu. IgE;P	Copenhagen GP Laboratory (KPLL), Lactoglobulin. IgE (plasma)	low	Y
 1293	Københavns Praktiserende Lægers Laboratorium, Lactosebelastn.	Copenhagen GP Laboratory (KPLL), Lactose tolerance test.	low	Y
-1294	Københavns Praktiserende Lægers Laboratorium, Laks IgE;P	Copenhagen GP Laboratory (KPLL), Laks IgE (plasma)	high	
+1294	Københavns Praktiserende Lægers Laboratorium, Laks IgE;P	Copenhagen GP Laboratory (KPLL), Salmon IgE (plasma)	high	
 1295	Københavns Praktiserende Lægers Laboratorium, Lamotrigin;P	Copenhagen GP Laboratory (KPLL), Lamotrigin (plasma)	high	
 1296	Københavns Praktiserende Lægers Laboratorium, Latex IgE;P	Copenhagen GP Laboratory (KPLL), Latex IgE (plasma)	high	
 1297	Københavns Praktiserende Lægers Laboratorium, Legionella Ab	Copenhagen GP Laboratory (KPLL), Legionella antibody	high	
@@ -1310,7 +1310,7 @@
 1308	Københavns Praktiserende Lægers Laboratorium, Lupus AK;P	Copenhagen GP Laboratory (KPLL), Lupus ak (plasma)	high	
 1309	Københavns Praktiserende Lægers Laboratorium, Lymfocytter;B	Copenhagen GP Laboratory (KPLL), Lymfocytter (blood)	high	
 1310	Københavns Praktiserende Lægers Laboratorium, Lymfogr.ven. Ab	Copenhagen GP Laboratory (KPLL), Lymfogr.ven. antibody	high	
-1311	Københavns Praktiserende Lægers Laboratorium, Løg IgE;P	Copenhagen GP Laboratory (KPLL), Løg IgE (plasma)	low	Y
+1311	Københavns Praktiserende Lægers Laboratorium, Løg IgE;P	Copenhagen GP Laboratory (KPLL), Onion IgE (plasma)	high	
 1312	Københavns Praktiserende Lægers Laboratorium, M'lk, kogt IgE;P	Copenhagen GP Laboratory (KPLL), M'lk, kogt IgE (plasma)	high	
 1313	Københavns Praktiserende Lægers Laboratorium, M-komp.type;P	Copenhagen GP Laboratory (KPLL), M-komp.type (plasma)	high	
 1314	Københavns Praktiserende Lægers Laboratorium, M-komponent;P	Copenhagen GP Laboratory (KPLL), M-komponent (plasma)	high	
@@ -1323,11 +1323,11 @@
 1321	Københavns Praktiserende Lægers Laboratorium, Malaria antistof	Copenhagen GP Laboratory (KPLL), Malaria antibody	high	
 1322	Københavns Praktiserende Lægers Laboratorium, Malariaparas	Copenhagen GP Laboratory (KPLL), Malariaparas	high	
 1323	Københavns Praktiserende Lægers Laboratorium, Malassezia IgE;P	Copenhagen GP Laboratory (KPLL), Malassezia IgE (plasma)	high	
-1324	Københavns Praktiserende Lægers Laboratorium, Mandel IgE;P	Copenhagen GP Laboratory (KPLL), Mandel IgE (plasma)	high	
+1324	Københavns Praktiserende Lægers Laboratorium, Mandel IgE;P	Copenhagen GP Laboratory (KPLL), Almond IgE (plasma)	high	
 1325	Københavns Praktiserende Lægers Laboratorium, Mannan.b.lek. Ab	Copenhagen GP Laboratory (KPLL), Mannan.b.lek. antibody	high	
 1326	Københavns Praktiserende Lægers Laboratorium, Marsvin IgE;P	Copenhagen GP Laboratory (KPLL), Marsvin IgE (plasma)	high	
 1327	Københavns Praktiserende Lægers Laboratorium, Melon IgE;P	Copenhagen GP Laboratory (KPLL), Melon IgE (plasma)	high	
-1328	Københavns Praktiserende Lægers Laboratorium, Metamyelocyt.;B	Copenhagen GP Laboratory (KPLL), Metamyelocyt. (blood)	low	Y
+1328	Københavns Praktiserende Lægers Laboratorium, Metamyelocyt.;B	Copenhagen GP Laboratory (KPLL), Metamyelocyte. (blood)	low	Y
 1329	Københavns Praktiserende Lægers Laboratorium, Metanephriner;P	Copenhagen GP Laboratory (KPLL), Metanephriner (plasma)	high	
 1330	Københavns Praktiserende Lægers Laboratorium, Methotrexat;P	Copenhagen GP Laboratory (KPLL), Methotrexat (plasma)	high	
 1331	Københavns Praktiserende Lægers Laboratorium, Methylmalonat;P	Copenhagen GP Laboratory (KPLL), Methylmalonat (plasma)	high	
@@ -1335,11 +1335,11 @@
 1333	Københavns Praktiserende Lægers Laboratorium, Mikroalbumin	Copenhagen GP Laboratory (KPLL), Mikroalbumin	high	
 1334	Københavns Praktiserende Lægers Laboratorium, Mitokondrie Ab	Copenhagen GP Laboratory (KPLL), Mitokondrie antibody	high	
 1335	Københavns Praktiserende Lægers Laboratorium, Monocyter;B	Copenhagen GP Laboratory (KPLL), Monocyter (blood)	high	
-1336	Københavns Praktiserende Lægers Laboratorium, Mononu. IgM:akut	Copenhagen GP Laboratory (KPLL), Mononu. igm:acute	low	Y
-1337	Københavns Praktiserende Lægers Laboratorium, Mononu.test IgG	Copenhagen GP Laboratory (KPLL), Mononu.test igg	high	
+1336	Københavns Praktiserende Lægers Laboratorium, Mononu. IgM:akut	Copenhagen GP Laboratory (KPLL), Mononucleosis. igm:acute	low	Y
+1337	Københavns Praktiserende Lægers Laboratorium, Mononu.test IgG	Copenhagen GP Laboratory (KPLL), Mononucleosis.test igg	high	
 1338	Københavns Praktiserende Lægers Laboratorium, Mononuc Ab 0-1;P	Copenhagen GP Laboratory (KPLL), Mononuc antibody 0-1 (plasma)	high	
 1339	Københavns Praktiserende Lægers Laboratorium, Mononucl til (P-B)	Copenhagen GP Laboratory (KPLL), Mononucl to (P-b)	high	
-1340	Københavns Praktiserende Lægers Laboratorium, Mononucleo. test	Copenhagen GP Laboratory (KPLL), Mononucleo. test	low	Y
+1340	Københavns Praktiserende Lægers Laboratorium, Mononucleo. test	Copenhagen GP Laboratory (KPLL), Mononucleosis. test	low	Y
 1341	Københavns Praktiserende Lægers Laboratorium, Mononucleose,EBV	Copenhagen GP Laboratory (KPLL), Mononucleose,EBV	high	
 1342	Københavns Praktiserende Lægers Laboratorium, Morbilli Ab	Copenhagen GP Laboratory (KPLL), Morbilli antibody	high	
 1343	Københavns Praktiserende Lægers Laboratorium, Mucor rac. IgE;P	Copenhagen GP Laboratory (KPLL), Mucor rac. IgE (plasma)	low	Y
@@ -1353,14 +1353,14 @@
 1351	Københavns Praktiserende Lægers Laboratorium, Natrium;P	Copenhagen GP Laboratory (KPLL), Natrium (plasma)	high	
 1352	Københavns Praktiserende Lægers Laboratorium, Neut.segmentk.;B	Copenhagen GP Laboratory (KPLL), Neut.segmentk. (blood)	high	
 1353	Københavns Praktiserende Lægers Laboratorium, Neut.stavkern.;B	Copenhagen GP Laboratory (KPLL), Neut.stavkern. (blood)	high	
-1354	Københavns Praktiserende Lægers Laboratorium, Neutrofilocyt.;B	Copenhagen GP Laboratory (KPLL), Neutrofilocyt. (blood)	low	Y
+1354	Københavns Praktiserende Lægers Laboratorium, Neutrofilocyt.;B	Copenhagen GP Laboratory (KPLL), Neutrophil. (blood)	low	Y
 1355	Københavns Praktiserende Lægers Laboratorium, Nitrit;U	Copenhagen GP Laboratory (KPLL), Nitrit (urine)	high	
 1356	Københavns Praktiserende Lægers Laboratorium, Noradrenalin;dU	Copenhagen GP Laboratory (KPLL), Noradrenalin;du	high	
 1357	Københavns Praktiserende Lægers Laboratorium, Normetanephrin;P	Copenhagen GP Laboratory (KPLL), Normetanephrin (plasma)	high	
 1358	Københavns Praktiserende Lægers Laboratorium, Nortriptylin;P	Copenhagen GP Laboratory (KPLL), Nortriptylin (plasma)	high	
-1359	Københavns Praktiserende Lægers Laboratorium, Nøddepanel IgE;P	Copenhagen GP Laboratory (KPLL), Nøddepanel IgE (plasma)	low	Y
+1359	Københavns Praktiserende Lægers Laboratorium, Nøddepanel IgE;P	Copenhagen GP Laboratory (KPLL), Nut panel IgE (plasma)	high	
 1360	Københavns Praktiserende Lægers Laboratorium, O2 sat.;B	Copenhagen GP Laboratory (KPLL), O2 sat. (blood)	low	Y
-1361	Københavns Praktiserende Lægers Laboratorium, Oksekød IgE;P	Copenhagen GP Laboratory (KPLL), Oksekød IgE (plasma)	low	Y
+1361	Københavns Praktiserende Lægers Laboratorium, Oksekød IgE;P	Copenhagen GP Laboratory (KPLL), Beef IgE (plasma)	high	
 1362	Københavns Praktiserende Lægers Laboratorium, Ornitose - Ab	Copenhagen GP Laboratory (KPLL), Ornitose - antibody	high	
 1363	Københavns Praktiserende Lægers Laboratorium, Orosomucoid;P	Copenhagen GP Laboratory (KPLL), Orosomucoid (plasma)	high	
 1364	Københavns Praktiserende Lægers Laboratorium, Osmolalitet;P	Copenhagen GP Laboratory (KPLL), Osmolalitet (plasma)	high	
@@ -1376,17 +1376,17 @@
 1374	Københavns Praktiserende Lægers Laboratorium, PTH,Paratyrin;P	Copenhagen GP Laboratory (KPLL), Pth,paratyrin (plasma)	high	
 1375	Københavns Praktiserende Lægers Laboratorium, Papeg.fjer IgE;P	Copenhagen GP Laboratory (KPLL), Papeg.fjer IgE (plasma)	high	
 1376	Københavns Praktiserende Lægers Laboratorium, Papirhveps IgE;P	Copenhagen GP Laboratory (KPLL), Papirhveps IgE (plasma)	high	
-1377	Københavns Praktiserende Lægers Laboratorium, Paranød IgE;P	Copenhagen GP Laboratory (KPLL), Paranød IgE (plasma)	low	Y
+1377	Københavns Praktiserende Lægers Laboratorium, Paranød IgE;P	Copenhagen GP Laboratory (KPLL), Brazil nut IgE (plasma)	high	
 1378	Københavns Praktiserende Lægers Laboratorium, Parasit-antistof	Copenhagen GP Laboratory (KPLL), Parasit-antibody	high	
-1379	Københavns Praktiserende Lægers Laboratorium, Parasitmik.	Copenhagen GP Laboratory (KPLL), Parasitmik.	low	Y
-1380	Københavns Praktiserende Lægers Laboratorium, Parietalcel. Ab	Copenhagen GP Laboratory (KPLL), Parietalcel. antibody	low	Y
-1381	Københavns Praktiserende Lægers Laboratorium, Parotit. Ab	Copenhagen GP Laboratory (KPLL), Parotit. antibody	low	Y
+1379	Københavns Praktiserende Lægers Laboratorium, Parasitmik.	Copenhagen GP Laboratory (KPLL), Parasite microscopy.	low	Y
+1380	Københavns Praktiserende Lægers Laboratorium, Parietalcel. Ab	Copenhagen GP Laboratory (KPLL), Parietal cell. antibody	low	Y
+1381	Københavns Praktiserende Lægers Laboratorium, Parotit. Ab	Copenhagen GP Laboratory (KPLL), Mumps. antibody	low	Y
 1382	Københavns Praktiserende Lægers Laboratorium, Parvo.B19 Ab	Copenhagen GP Laboratory (KPLL), Parvo.b19 antibody	high	
 1383	Københavns Praktiserende Lægers Laboratorium, Patog bakteriologisk	Copenhagen GP Laboratory (KPLL), Patog bacteriological	high	
 1384	Københavns Praktiserende Lægers Laboratorium, Peak flow måling	Copenhagen GP Laboratory (KPLL), Peak flow measurement	high	
 1385	Københavns Praktiserende Lægers Laboratorium, Peber ,grøn  IgE;P	Copenhagen GP Laboratory (KPLL), Peber ,green IgE (plasma)	high	
 1386	Københavns Praktiserende Lægers Laboratorium, Peberfrugt IgE;P	Copenhagen GP Laboratory (KPLL), Peberfrugt IgE (plasma)	high	
-1387	Københavns Praktiserende Lægers Laboratorium, Pecannød IgE;P	Copenhagen GP Laboratory (KPLL), Pecannød IgE (plasma)	low	Y
+1387	Københavns Praktiserende Lægers Laboratorium, Pecannød IgE;P	Copenhagen GP Laboratory (KPLL), Pecan nut IgE (plasma)	high	
 1388	Københavns Praktiserende Lægers Laboratorium, Penicil G IgE;P	Copenhagen GP Laboratory (KPLL), Penicil g IgE (plasma)	high	
 1389	Københavns Praktiserende Lægers Laboratorium, Penicil V IgE;P	Copenhagen GP Laboratory (KPLL), Penicil v IgE (plasma)	high	
 1390	Københavns Praktiserende Lægers Laboratorium, Penicil sp IgE;P	Copenhagen GP Laboratory (KPLL), Penicil sp IgE (plasma)	high	
@@ -1402,8 +1402,8 @@
 1400	Københavns Praktiserende Lægers Laboratorium, Pol+skim IgE;P	Copenhagen GP Laboratory (KPLL), Pol+skim IgE (plasma)	high	
 1401	Københavns Praktiserende Lægers Laboratorium, Porphyriner,fr;U	Copenhagen GP Laboratory (KPLL), Porphyriner,fr (urine)	high	
 1402	Københavns Praktiserende Lægers Laboratorium, Porphyriner;U	Copenhagen GP Laboratory (KPLL), Porphyriner (urine)	high	
-1403	Københavns Praktiserende Lægers Laboratorium, Priktest, spec.	Copenhagen GP Laboratory (KPLL), Priktest, specialty.	low	Y
-1404	Københavns Praktiserende Lægers Laboratorium, Priktest, stand.	Copenhagen GP Laboratory (KPLL), Priktest, stand.	low	Y
+1403	Københavns Praktiserende Lægers Laboratorium, Priktest, spec.	Copenhagen GP Laboratory (KPLL), Skin-prick test, specialty.	low	Y
+1404	Københavns Praktiserende Lægers Laboratorium, Priktest, stand.	Copenhagen GP Laboratory (KPLL), Skin-prick test, stand.	low	Y
 1405	Københavns Praktiserende Lægers Laboratorium, Primidon;P	Copenhagen GP Laboratory (KPLL), Primidon (plasma)	high	
 1406	Københavns Praktiserende Lægers Laboratorium, Pro-BNP;P	Copenhagen GP Laboratory (KPLL), Pro-bnp (plasma)	high	
 1407	Københavns Praktiserende Lægers Laboratorium, Pro-Coll.III-P;P	Copenhagen GP Laboratory (KPLL), Pro-coll.iii-p (plasma)	high	
@@ -1425,10 +1425,10 @@
 1423	Københavns Praktiserende Lægers Laboratorium, Præc.Ab x 4;P	Copenhagen GP Laboratory (KPLL), Præc.antibody x 4 (plasma)	low	Y
 1424	Københavns Praktiserende Lægers Laboratorium, Prøvetagn. eget hjem	Copenhagen GP Laboratory (KPLL), Prøvetagn. eget home	low	Y
 1425	Københavns Praktiserende Lægers Laboratorium, Prøvetagn. plejehjem	Copenhagen GP Laboratory (KPLL), Prøvetagn. plejehjem	low	Y
-1426	Københavns Praktiserende Lægers Laboratorium, Pære IgE;P	Copenhagen GP Laboratory (KPLL), Pære IgE (plasma)	low	Y
+1426	Københavns Praktiserende Lægers Laboratorium, Pære IgE;P	Copenhagen GP Laboratory (KPLL), Pear IgE (plasma)	high	
 1427	Københavns Praktiserende Lægers Laboratorium, Quetiapin;P	Copenhagen GP Laboratory (KPLL), Quetiapin (plasma)	high	
 1428	Københavns Praktiserende Lægers Laboratorium, Ragweed,(f)IgE;P	Copenhagen GP Laboratory (KPLL), Ragweed,(f)IgE (plasma)	high	
-1429	Københavns Praktiserende Lægers Laboratorium, Rajgræs IgE;P	Copenhagen GP Laboratory (KPLL), Rajgræs IgE (plasma)	low	Y
+1429	Københavns Praktiserende Lægers Laboratorium, Rajgræs IgE;P	Copenhagen GP Laboratory (KPLL), Ryegrass IgE (plasma)	high	
 1430	Københavns Praktiserende Lægers Laboratorium, Reje IgE;P	Copenhagen GP Laboratory (KPLL), Reje IgE (plasma)	high	
 1431	Københavns Praktiserende Lægers Laboratorium, Renin;P	Copenhagen GP Laboratory (KPLL), Renin (plasma)	high	
 1432	Københavns Praktiserende Lægers Laboratorium, Retic-MCH;B	Copenhagen GP Laboratory (KPLL), Retic-mch (blood)	high	
@@ -1440,28 +1440,28 @@
 1438	Københavns Praktiserende Lægers Laboratorium, Rhesus Ab uge 35	Copenhagen GP Laboratory (KPLL), Rhesus antibody uge 35	high	
 1439	Københavns Praktiserende Lægers Laboratorium, Rheumafaktor;P	Copenhagen GP Laboratory (KPLL), Rheumafaktor (plasma)	high	
 1440	Københavns Praktiserende Lægers Laboratorium, Rhizopus n.IgE;P	Copenhagen GP Laboratory (KPLL), Rhizopus n.IgE (plasma)	high	
-1441	Københavns Praktiserende Lægers Laboratorium, Ris IgE;P	Copenhagen GP Laboratory (KPLL), Ris IgE (plasma)	high	
+1441	Københavns Praktiserende Lægers Laboratorium, Ris IgE;P	Copenhagen GP Laboratory (KPLL), Rice IgE (plasma)	high	
 1442	Københavns Praktiserende Lægers Laboratorium, Risperidon;P	Copenhagen GP Laboratory (KPLL), Risperidon (plasma)	high	
 1443	Københavns Praktiserende Lægers Laboratorium, Rotte IgE;P	Copenhagen GP Laboratory (KPLL), Rotte IgE (plasma)	high	
-1444	Københavns Praktiserende Lægers Laboratorium, Rubel. IgG+IgM;P	Copenhagen GP Laboratory (KPLL), Rubel. igg+igm (plasma)	low	Y
+1444	Københavns Praktiserende Lægers Laboratorium, Rubel. IgG+IgM;P	Copenhagen GP Laboratory (KPLL), Rubella. igg+igm (plasma)	low	Y
 1445	Københavns Praktiserende Lægers Laboratorium, Rubella IgG;P	Copenhagen GP Laboratory (KPLL), Rubella igg (plasma)	high	
-1446	Københavns Praktiserende Lægers Laboratorium, Rubella-Ab SSI;P	Copenhagen GP Laboratory (KPLL), Rubella-antibody ssi (plasma)	high	
-1447	Københavns Praktiserende Lægers Laboratorium, Rug IgE;P	Copenhagen GP Laboratory (KPLL), Rug IgE (plasma)	high	
-1448	Københavns Praktiserende Lægers Laboratorium, Rug,inh.IgE;P	Copenhagen GP Laboratory (KPLL), Rug,inh.IgE (plasma)	high	
-1449	Københavns Praktiserende Lægers Laboratorium, Rødgran IgE;P	Copenhagen GP Laboratory (KPLL), Rødgran IgE (plasma)	low	Y
+1446	Københavns Praktiserende Lægers Laboratorium, Rubella-Ab SSI;P	Copenhagen GP Laboratory (KPLL), Rubella-antibody SSI (plasma)	high	
+1447	Københavns Praktiserende Lægers Laboratorium, Rug IgE;P	Copenhagen GP Laboratory (KPLL), Rye IgE (plasma)	high	
+1448	Københavns Praktiserende Lægers Laboratorium, Rug,inh.IgE;P	Copenhagen GP Laboratory (KPLL), Rye,inh.IgE (plasma)	high	
+1449	Københavns Praktiserende Lægers Laboratorium, Rødgran IgE;P	Copenhagen GP Laboratory (KPLL), Norway spruce IgE (plasma)	high	
 1450	Københavns Praktiserende Lægers Laboratorium, SR;B	Copenhagen GP Laboratory (KPLL), Sr (blood)	high	
-1451	Københavns Praktiserende Lægers Laboratorium, SSI div undersøgelse	Copenhagen GP Laboratory (KPLL), Ssi div examination	low	Y
-1452	Københavns Praktiserende Lægers Laboratorium, SSI diverse undersøgelse 1	Copenhagen GP Laboratory (KPLL), Ssi various examination 1	high	
+1451	Københavns Praktiserende Lægers Laboratorium, SSI div undersøgelse	Copenhagen GP Laboratory (KPLL), SSI div examination	low	Y
+1452	Københavns Praktiserende Lægers Laboratorium, SSI diverse undersøgelse 1	Copenhagen GP Laboratory (KPLL), SSI various examination 1	high	
 1453	Københavns Praktiserende Lægers Laboratorium, Salmonella Ab;P	Copenhagen GP Laboratory (KPLL), Salmonella antibody (plasma)	high	
 1454	Københavns Praktiserende Lægers Laboratorium, Schistosoma Ab	Copenhagen GP Laboratory (KPLL), Schistosoma antibody	high	
 1455	Københavns Praktiserende Lægers Laboratorium, Selen;P	Copenhagen GP Laboratory (KPLL), Selen (plasma)	high	
-1456	Københavns Praktiserende Lægers Laboratorium, Sesamfrø IgE;P	Copenhagen GP Laboratory (KPLL), Sesamfrø IgE (plasma)	low	Y
+1456	Københavns Praktiserende Lægers Laboratorium, Sesamfrø IgE;P	Copenhagen GP Laboratory (KPLL), Sesame seed IgE (plasma)	high	
 1457	Københavns Praktiserende Lægers Laboratorium, Sj>grensynd.Ab;P	Copenhagen GP Laboratory (KPLL), Sj>grensynd.antibody (plasma)	high	
 1458	Københavns Praktiserende Lægers Laboratorium, Skim.Svamp IgE;P	Copenhagen GP Laboratory (KPLL), Skim.svamp IgE (plasma)	high	
 1459	Københavns Praktiserende Lægers Laboratorium, Skimmelost IgE;P	Copenhagen GP Laboratory (KPLL), Skimmelost IgE (plasma)	high	
-1460	Københavns Praktiserende Lægers Laboratorium, Somatom. IGFBP3	Copenhagen GP Laboratory (KPLL), Somatom. igfbp3	low	Y
+1460	Københavns Praktiserende Lægers Laboratorium, Somatom. IGFBP3	Copenhagen GP Laboratory (KPLL), Somatomedin. igfbp3	low	Y
 1461	Københavns Praktiserende Lægers Laboratorium, Somatomed.C,IGF1	Copenhagen GP Laboratory (KPLL), Somatomed.c,igf1	high	
-1462	Københavns Praktiserende Lægers Laboratorium, Soyabønne IgE;P	Copenhagen GP Laboratory (KPLL), Soyabønne IgE (plasma)	low	Y
+1462	Københavns Praktiserende Lægers Laboratorium, Soyabønne IgE;P	Copenhagen GP Laboratory (KPLL), Soybean IgE (plasma)	high	
 1463	Københavns Praktiserende Lægers Laboratorium, Spec.hæmatologi	Copenhagen GP Laboratory (KPLL), Specialty.hæmatologi	low	Y
 1464	Københavns Praktiserende Lægers Laboratorium, Sperma Ab;SemP	Copenhagen GP Laboratory (KPLL), Sperma antibody;semp	high	
 1465	Københavns Praktiserende Lægers Laboratorium, Sperma-Ab;P	Copenhagen GP Laboratory (KPLL), Sperma-antibody (plasma)	high	
@@ -1471,14 +1471,14 @@
 1469	Københavns Praktiserende Lægers Laboratorium, Stamceller;B	Copenhagen GP Laboratory (KPLL), Stamceller (blood)	high	
 1470	Københavns Praktiserende Lægers Laboratorium, Start h'molyse	Copenhagen GP Laboratory (KPLL), Start h'molyse	high	
 1471	Københavns Praktiserende Lægers Laboratorium, Strachyb.a IgE;P	Copenhagen GP Laboratory (KPLL), Strachyb.a IgE (plasma)	high	
-1472	Københavns Praktiserende Lægers Laboratorium, Streptoc. Ab	Copenhagen GP Laboratory (KPLL), Streptoc. antibody	low	Y
+1472	Københavns Praktiserende Lægers Laboratorium, Streptoc. Ab	Copenhagen GP Laboratory (KPLL), Streptococcus. antibody	low	Y
 1473	Københavns Praktiserende Lægers Laboratorium, Suppl.-dU-5-HIAA	Copenhagen GP Laboratory (KPLL), Suppl.-du-5-hiaa	high	
 1474	Københavns Praktiserende Lægers Laboratorium, Svam(mx2) IgE;P	Copenhagen GP Laboratory (KPLL), Svam(mx2) IgE (plasma)	high	
 1475	Københavns Praktiserende Lægers Laboratorium, Svedtest,ledningsevn	Copenhagen GP Laboratory (KPLL), Svedtest,ledningsevn	high	
-1476	Københavns Praktiserende Lægers Laboratorium, Svinekød IgE;P	Copenhagen GP Laboratory (KPLL), Svinekød IgE (plasma)	low	Y
+1476	Københavns Praktiserende Lægers Laboratorium, Svinekød IgE;P	Copenhagen GP Laboratory (KPLL), Pork IgE (plasma)	high	
 1477	Københavns Praktiserende Lægers Laboratorium, Syfil.screen	Copenhagen GP Laboratory (KPLL), Syfil.screen	high	
 1478	Københavns Praktiserende Lægers Laboratorium, Syfilistest for grav	Copenhagen GP Laboratory (KPLL), Syfilistest for grav	high	
-1479	Københavns Praktiserende Lægers Laboratorium, Syre-base(Kapil)	Copenhagen GP Laboratory (KPLL), Syre-base(kapil)	high	
+1479	Københavns Praktiserende Lægers Laboratorium, Syre-base(Kapil)	Copenhagen GP Laboratory (KPLL), Syre-base(capillary)	high	
 1480	Københavns Praktiserende Lægers Laboratorium, T-3, reverse	Copenhagen GP Laboratory (KPLL), T-3, reverse	high	
 1481	Københavns Praktiserende Lægers Laboratorium, T3 reaktion;P	Copenhagen GP Laboratory (KPLL), T3 reaktion (plasma)	high	
 1482	Københavns Praktiserende Lægers Laboratorium, T3,frit;P	Copenhagen GP Laboratory (KPLL), T3,frit (plasma)	high	
@@ -1488,19 +1488,19 @@
 1486	Københavns Praktiserende Lægers Laboratorium, T4-bind.glob.;P	Copenhagen GP Laboratory (KPLL), T4-bind.glob. (plasma)	high	
 1487	Københavns Praktiserende Lægers Laboratorium, TBE virus Ab	Copenhagen GP Laboratory (KPLL), Tbe virus antibody	high	
 1488	Københavns Praktiserende Lægers Laboratorium, TPO-Ab;P	Copenhagen GP Laboratory (KPLL), Tpo-antibody (plasma)	high	
-1489	Københavns Praktiserende Lægers Laboratorium, TSH recept. Ab;P	Copenhagen GP Laboratory (KPLL), Tsh recept. antibody (plasma)	low	Y
-1490	Københavns Praktiserende Lægers Laboratorium, TSH; P	Copenhagen GP Laboratory (KPLL), Tsh; p	high	
+1489	Københavns Praktiserende Lægers Laboratorium, TSH recept. Ab;P	Copenhagen GP Laboratory (KPLL), TSH recept. antibody (plasma)	low	Y
+1490	Københavns Praktiserende Lægers Laboratorium, TSH; P	Copenhagen GP Laboratory (KPLL), TSH; p	high	
 1491	Københavns Praktiserende Lægers Laboratorium, Teofyllin;P	Copenhagen GP Laboratory (KPLL), Teofyllin (plasma)	high	
 1492	Københavns Praktiserende Lægers Laboratorium, Testoster.frit;P	Copenhagen GP Laboratory (KPLL), Testoster.frit (plasma)	high	
 1493	Københavns Praktiserende Lægers Laboratorium, Testosteron;P	Copenhagen GP Laboratory (KPLL), Testosteron (plasma)	high	
-1494	Københavns Praktiserende Lægers Laboratorium, Tetanustox. Ab;P	Copenhagen GP Laboratory (KPLL), Tetanustox. antibody (plasma)	low	Y
+1494	Københavns Praktiserende Lægers Laboratorium, Tetanustox. Ab;P	Copenhagen GP Laboratory (KPLL), Tetanus toxin. antibody (plasma)	low	Y
 1495	Københavns Praktiserende Lægers Laboratorium, Thalass'miindeks	Copenhagen GP Laboratory (KPLL), Thalass'miindeks	high	
 1496	Københavns Praktiserende Lægers Laboratorium, Thyreoglobulin;P	Copenhagen GP Laboratory (KPLL), Thyreoglobulin (plasma)	high	
-1497	Københavns Praktiserende Lægers Laboratorium, Tomat IgE;P	Copenhagen GP Laboratory (KPLL), Tomat IgE (plasma)	high	
+1497	Københavns Praktiserende Lægers Laboratorium, Tomat IgE;P	Copenhagen GP Laboratory (KPLL), Tomato IgE (plasma)	high	
 1498	Københavns Praktiserende Lægers Laboratorium, Topiramat;P	Copenhagen GP Laboratory (KPLL), Topiramat (plasma)	high	
-1499	Københavns Praktiserende Lægers Laboratorium, Torsk IgE;P	Copenhagen GP Laboratory (KPLL), Torsk IgE (plasma)	high	
+1499	Københavns Praktiserende Lægers Laboratorium, Torsk IgE;P	Copenhagen GP Laboratory (KPLL), Cod IgE (plasma)	high	
 1500	Københavns Praktiserende Lægers Laboratorium, Total h'molyse	Copenhagen GP Laboratory (KPLL), Total h'molyse	high	
-1501	Københavns Praktiserende Lægers Laboratorium, Toxoplas. Ab	Copenhagen GP Laboratory (KPLL), Toxoplas. antibody	low	Y
+1501	Københavns Praktiserende Lægers Laboratorium, Toxoplas. Ab	Copenhagen GP Laboratory (KPLL), Toxoplasma. antibody	low	Y
 1502	Københavns Praktiserende Lægers Laboratorium, Tr'er  tx9  IgE;P	Copenhagen GP Laboratory (KPLL), Tr'er tx9 IgE (plasma)	high	
 1503	Københavns Praktiserende Lægers Laboratorium, Tr'er tx1 IgE;P	Copenhagen GP Laboratory (KPLL), Tr'er tx1 IgE (plasma)	high	
 1504	Københavns Praktiserende Lægers Laboratorium, Tr'er tx5 IgE;P	Copenhagen GP Laboratory (KPLL), Tr'er tx5 IgE (plasma)	high	
@@ -1509,13 +1509,13 @@
 1507	Københavns Praktiserende Lægers Laboratorium, Trich.viri.IgE;P	Copenhagen GP Laboratory (KPLL), Trich.viri.IgE (plasma)	high	
 1508	Københavns Praktiserende Lægers Laboratorium, Trichomonas;U	Copenhagen GP Laboratory (KPLL), Trichomonas (urine)	high	
 1509	Københavns Praktiserende Lægers Laboratorium, Triglycerid;P	Copenhagen GP Laboratory (KPLL), Triglycerid (plasma)	high	
-1510	Københavns Praktiserende Lægers Laboratorium, Tripletest,grav.	Copenhagen GP Laboratory (KPLL), Tripletest,grav.	low	Y
+1510	Københavns Praktiserende Lægers Laboratorium, Tripletest,grav.	Copenhagen GP Laboratory (KPLL), Triple test,grav.	low	Y
 1511	Københavns Praktiserende Lægers Laboratorium, Trombocytter;B	Copenhagen GP Laboratory (KPLL), Platelets (blood)	high	
-1512	Københavns Praktiserende Lægers Laboratorium, Trombofiliudred.	Copenhagen GP Laboratory (KPLL), Trombofiliudred.	low	Y
+1512	Københavns Praktiserende Lægers Laboratorium, Trombofiliudred.	Copenhagen GP Laboratory (KPLL), Thrombophilia work-up.	high	
 1513	Københavns Praktiserende Lægers Laboratorium, Troponin I;P	Copenhagen GP Laboratory (KPLL), Troponin in (plasma)	high	
 1514	Københavns Praktiserende Lægers Laboratorium, Troponin T;P     (EK	Copenhagen GP Laboratory (KPLL), Troponin t (plasma) (ek	high	
 1515	Københavns Praktiserende Lægers Laboratorium, Tryptase;P	Copenhagen GP Laboratory (KPLL), Tryptase (plasma)	high	
-1516	Københavns Praktiserende Lægers Laboratorium, Tunfisk IgE;P	Copenhagen GP Laboratory (KPLL), Tunfisk IgE (plasma)	low	Y
+1516	Københavns Praktiserende Lægers Laboratorium, Tunfisk IgE;P	Copenhagen GP Laboratory (KPLL), Tuna IgE (plasma)	high	
 1517	Københavns Praktiserende Lægers Laboratorium, Tyroph.put.IgE;P	Copenhagen GP Laboratory (KPLL), Tyroph.put.IgE (plasma)	high	
 1518	Københavns Praktiserende Lægers Laboratorium, U-Albumin	Copenhagen GP Laboratory (KPLL), U-albumin	high	
 1519	Københavns Praktiserende Lægers Laboratorium, U-Bence Jones undersøgelse	Copenhagen GP Laboratory (KPLL), U-bence jones examination	high	
@@ -1531,10 +1531,10 @@
 1529	Københavns Praktiserende Lægers Laboratorium, Undulat IgE;P	Copenhagen GP Laboratory (KPLL), Undulat IgE (plasma)	high	
 1530	Københavns Praktiserende Lægers Laboratorium, Urat;P	Copenhagen GP Laboratory (KPLL), Urat (plasma)	high	
 1531	Københavns Praktiserende Lægers Laboratorium, Urin stix	Copenhagen GP Laboratory (KPLL), Urine stix	high	
-1532	Københavns Praktiserende Lægers Laboratorium, Urinvejskonkrem.	Copenhagen GP Laboratory (KPLL), Urinvejskonkrem.	low	Y
+1532	Københavns Praktiserende Lægers Laboratorium, Urinvejskonkrem.	Copenhagen GP Laboratory (KPLL), Urinary tract calculus.	low	Y
 1533	Københavns Praktiserende Lægers Laboratorium, VMA;dU	Copenhagen GP Laboratory (KPLL), Vma;du	high	
 1534	Københavns Praktiserende Lægers Laboratorium, Valn>d IgE;P	Copenhagen GP Laboratory (KPLL), Valn>d IgE (plasma)	high	
-1535	Københavns Praktiserende Lægers Laboratorium, Valnød IgE;P	Copenhagen GP Laboratory (KPLL), Valnød IgE (plasma)	low	Y
+1535	Københavns Praktiserende Lægers Laboratorium, Valnød IgE;P	Copenhagen GP Laboratory (KPLL), Walnut IgE (plasma)	high	
 1536	Københavns Praktiserende Lægers Laboratorium, Valproat;P	Copenhagen GP Laboratory (KPLL), Valproat (plasma)	high	
 1537	Københavns Praktiserende Lægers Laboratorium, Varic.Zos Ab	Copenhagen GP Laboratory (KPLL), Varic.zos antibody	high	
 1538	Københavns Praktiserende Lægers Laboratorium, Vasopressin;P	Copenhagen GP Laboratory (KPLL), Vasopressin (plasma)	high	
@@ -1545,9 +1545,9 @@
 1543	Københavns Praktiserende Lægers Laboratorium, Vitamin D;P	Copenhagen GP Laboratory (KPLL), Vitamin d (plasma)	high	
 1544	Københavns Praktiserende Lægers Laboratorium, Vitamin E;P	Copenhagen GP Laboratory (KPLL), Vitamin e (plasma)	high	
 1545	Københavns Praktiserende Lægers Laboratorium, Von Willebrand;P	Copenhagen GP Laboratory (KPLL), Von willebrand (plasma)	high	
-1546	Københavns Praktiserende Lægers Laboratorium, Væksthormon;P	Copenhagen GP Laboratory (KPLL), Væksthormon (plasma)	low	Y
-1547	Københavns Praktiserende Lægers Laboratorium, VævTr.Glut.IgA;P	Copenhagen GP Laboratory (KPLL), Vævtr.glut.iga (plasma)	low	Y
-1548	Københavns Praktiserende Lægers Laboratorium, VævTr.glut.IgG;P	Copenhagen GP Laboratory (KPLL), Vævtr.glut.igg (plasma)	low	Y
+1546	Københavns Praktiserende Lægers Laboratorium, Væksthormon;P	Copenhagen GP Laboratory (KPLL), Growth hormone (plasma)	high	
+1547	Københavns Praktiserende Lægers Laboratorium, VævTr.Glut.IgA;P	Copenhagen GP Laboratory (KPLL), Tissue transglutaminase.glut.iga (plasma)	high	
+1548	Københavns Praktiserende Lægers Laboratorium, VævTr.glut.IgG;P	Copenhagen GP Laboratory (KPLL), Tissue transglutaminase.glut.igg (plasma)	high	
 1549	Københavns Praktiserende Lægers Laboratorium, Yersenia-as uden D G ?	Copenhagen GP Laboratory (KPLL), Yersenia-as without d g ?	high	
 1550	Københavns Praktiserende Lægers Laboratorium, Yersinia Ab	Copenhagen GP Laboratory (KPLL), Yersinia antibody	high	
 1551	Københavns Praktiserende Lægers Laboratorium, Zink;P	Copenhagen GP Laboratory (KPLL), Zink (plasma)	high	
@@ -1561,9 +1561,9 @@
 1559	Københavns Praktiserende Lægers Laboratorium, pO2;B	Copenhagen GP Laboratory (KPLL), Po2 (blood)	high	
 1560	Københavns Praktiserende Lægers Laboratorium, u-Osteoporoseprofil	Copenhagen GP Laboratory (KPLL), U-osteoporoseprofil	high	
 1561	Københavns Praktiserende Lægers Laboratorium, ukendt	Copenhagen GP Laboratory (KPLL), Ukendt	high	
-1562	Københavns Praktiserende Lægers Laboratorium, Æble IgE;P	Copenhagen GP Laboratory (KPLL), Æble IgE (plasma)	low	Y
-1563	Københavns Praktiserende Lægers Laboratorium, Æggeblomme IgE;P	Copenhagen GP Laboratory (KPLL), Æggeblomme IgE (plasma)	low	Y
-1564	Københavns Praktiserende Lægers Laboratorium, Æggehvide IgE;P	Copenhagen GP Laboratory (KPLL), Æggehvide IgE (plasma)	low	Y
+1562	Københavns Praktiserende Lægers Laboratorium, Æble IgE;P	Copenhagen GP Laboratory (KPLL), Apple IgE (plasma)	high	
+1563	Københavns Praktiserende Lægers Laboratorium, Æggeblomme IgE;P	Copenhagen GP Laboratory (KPLL), Egg yolk IgE (plasma)	high	
+1564	Københavns Praktiserende Lægers Laboratorium, Æggehvide IgE;P	Copenhagen GP Laboratory (KPLL), Egg white IgE (plasma)	high	
 1565	Københavns Praktiserende Lægers Laboratorium, Ært IgE;P	Copenhagen GP Laboratory (KPLL), Ært IgE (plasma)	low	Y
 1566	Københavns Praktiserende Lægers Laboratorium, Ølgær IgE;P	Copenhagen GP Laboratory (KPLL), Ølgær IgE (plasma)	low	Y
 1567	Medicinsk Laborator., Ingen tekst tilgængelig	Medical Laboratory, No text available	high	
@@ -1614,7 +1614,7 @@
 1612	Medicinsk Laboratorium, P/S-METHYLMALO 3	Medical Laboratory, P/s-methylmalo 3	high	
 1613	Medicinsk Laboratorium, P/S-RENIN	Medical Laboratory, P/s-renin	high	
 1614	Medicinsk Laboratorium, P/S-TESTO	Medical Laboratory, P/s-testo	high	
-1615	Medicinsk Laboratorium, P/S-TSH	Medical Laboratory, P/s-tsh	high	
+1615	Medicinsk Laboratorium, P/S-TSH	Medical Laboratory, P/s-TSH	high	
 1616	Medicinsk Laboratorium, P/S-b-2-MICROGLOB	Medical Laboratory, P/s-B-2-microglob	high	
 1617	Medicinsk Laboratorium, Prøvetagning, 1 prøv	Medical Laboratory, Sample collection, 1 prøv	low	Y
 1618	Medicinsk Laboratorium, Pt-EKG/12AFL	Medical Laboratory, Pt-ECG/12afl	high	
@@ -1688,7 +1688,7 @@
 1686	Medicinsk Laboratorium, S-T3	Medical Laboratory, S-t3	high	
 1687	Medicinsk Laboratorium, S-T3,FRIT IMMULI.	Medical Laboratory, S-t3,frit immuli.	low	Y
 1688	Medicinsk Laboratorium, S-T4	Medical Laboratory, S-t4	high	
-1689	Medicinsk Laboratorium, S-T4 Hund/Kat	Medical Laboratory, S-t4 hund/kat	high	
+1689	Medicinsk Laboratorium, S-T4 Hund/Kat	Medical Laboratory, S-t4 dog/cat	high	
 1690	Medicinsk Laboratorium, S-T4,FRIT IMMULI.	Medical Laboratory, S-t4,frit immuli.	low	Y
 1691	Medicinsk Laboratorium, S-TBG	Medical Laboratory, S-tbg	high	
 1692	Medicinsk Laboratorium, S-TESTO	Medical Laboratory, S-testo	high	
@@ -1696,11 +1696,11 @@
 1694	Medicinsk Laboratorium, S-TPO anti-   1/2	Medical Laboratory, S-tpo anti- 1/2	high	
 1695	Medicinsk Laboratorium, S-TRANSFERRIN	Medical Laboratory, S-transferrin	high	
 1696	Medicinsk Laboratorium, S-TRIGLYCERID	Medical Laboratory, S-triglycerid	high	
-1697	Medicinsk Laboratorium, S-TSH	Medical Laboratory, S-tsh	high	
-1698	Medicinsk Laboratorium, S-TSH-RECPTOR-AB	Medical Laboratory, S-tsh-recptor-antibody	high	
+1697	Medicinsk Laboratorium, S-TSH	Medical Laboratory, S-TSH	high	
+1698	Medicinsk Laboratorium, S-TSH-RECPTOR-AB	Medical Laboratory, S-TSH-recptor-antibody	high	
 1699	Medicinsk Laboratorium, S-URAT	Medical Laboratory, S-urat	high	
 1700	Medicinsk Laboratorium, S-VITAMIN E	Medical Laboratory, S-vitamin e	high	
-1701	Medicinsk Laboratorium, S-VÆKSTHORMON	Medical Laboratory, S-væksthormon	low	Y
+1701	Medicinsk Laboratorium, S-VÆKSTHORMON	Medical Laboratory, S-growth hormone	high	
 1702	Medicinsk Laboratorium, S-ZINK  URIN 11	Medical Laboratory, S-zink urine 11	high	
 1703	Medicinsk Laboratorium, S-g-GT	Medical Laboratory, S-g-gt	high	
 1704	Medicinsk Laboratorium, Sperma-SPERMA UNDERS	Medical Laboratory, Sperma-sperma unders	high	
@@ -1708,7 +1708,7 @@
 1706	Medicinsk Laboratorium, THYREOIDEA ANTISTOFF	Medical Laboratory, Thyreoidea antistoff	high	
 1707	Medicinsk Laboratorium, THYROXIN (FRIT)	Medical Laboratory, Thyroxin (frit)	high	
 1708	Medicinsk Laboratorium, TRIIODTHYRONIN (FRIT	Medical Laboratory, Triiodthyronin (frit	high	
-1709	Medicinsk Laboratorium, TSH-RECEPTOR-Ab/THYR	Medical Laboratory, Tsh-receptor-antibody/thyr	high	
+1709	Medicinsk Laboratorium, TSH-RECEPTOR-Ab/THYR	Medical Laboratory, TSH-receptor-antibody/thyr	high	
 1710	Medicinsk Laboratorium, Transf.(S)-CDT    18	Medical Laboratory, Transf.(s)-cdt 18	low	Y
 1711	Medicinsk Laboratorium, U-5-HIAA  11	Medical Laboratory, U-5-hiaa 11	high	
 1712	Medicinsk Laboratorium, U-ACETOACETAT	Medical Laboratory, U-acetoacetat	high	
@@ -1815,7 +1815,7 @@
 1813	Omegnslaboratorier, P-Lipoprotein (a)	Regional laboratories, P-lipoprotein (a)	high	
 1814	Omegnslaboratorier, P-Lithium         14	Regional laboratories, P-lithium 14	high	
 1815	Omegnslaboratorier, P-M-kompon.,klassif.	Regional laboratories, P-m-kompon.,klassif.	low	Y
-1816	Omegnslaboratorier, P-MPT/KAT	Regional laboratories, P-mpt/kat	high	
+1816	Omegnslaboratorier, P-MPT/KAT	Regional laboratories, P-mpt/cat	high	
 1817	Omegnslaboratorier, P-Magnesium       32	Regional laboratories, P-magnesium 32	high	
 1818	Omegnslaboratorier, P-Mononucl.(Mono.)16	Regional laboratories, P-mononucl.(mono.)16	low	Y
 1819	Omegnslaboratorier, P-Mononucle.(EMNI)10	Regional laboratories, P-mononucle.(emni)10	high	
@@ -1842,7 +1842,7 @@
 1840	Omegnslaboratorier, P-Streptokok antist.	Regional laboratories, P-streptokok antist.	low	Y
 1841	Omegnslaboratorier, P-Sur phosphatase 10	Regional laboratories, P-sur phosphatase 10	high	
 1842	Omegnslaboratorier, P-Syfilis screen.STS	Regional laboratories, P-syfilis screen.sts	high	
-1843	Omegnslaboratorier, P-TSH             24	Regional laboratories, P-tsh 24	high	
+1843	Omegnslaboratorier, P-TSH             24	Regional laboratories, P-TSH 24	high	
 1844	Omegnslaboratorier, P-Testosteron	Regional laboratories, P-testosteron	high	
 1845	Omegnslaboratorier, P-Theophyllin     62	Regional laboratories, P-theophyllin 62	high	
 1846	Omegnslaboratorier, P-Thyreoidea-antist.	Regional laboratories, P-thyreoidea-antist.	high	
@@ -1919,13 +1919,13 @@
 1917	Statens Seruminstitut, ANA screening og ti	Statens Serum Institut, Ana screening and ti	high	
 1918	Statens Seruminstitut, ANA tirering i pakk	Statens Serum Institut, Ana tirering in pakk	high	
 1919	Statens Seruminstitut, ANA titrering pakke	Statens Serum Institut, Ana titrering pakke	high	
-1920	Statens Seruminstitut, ANCA (IgG) screenin	Statens Serum Institut, Anca (igg) screenin	high	
-1921	Statens Seruminstitut, ANCA Screening POS	Statens Serum Institut, Anca screening pos	high	
-1922	Statens Seruminstitut, ANCA i Symmetrisk p	Statens Serum Institut, Anca in symmetrisk p	low	Y
-1923	Statens Seruminstitut, ANCA i imflam.tarms	Statens Serum Institut, Anca in imflam.tarms	high	
-1924	Statens Seruminstitut, ANCA panel	Statens Serum Institut, Anca panel	high	
-1925	Statens Seruminstitut, ANCA screen. (IgG)	Statens Serum Institut, Anca screen. (igg)	low	Y
-1926	Statens Seruminstitut, ANCA titrering IgG	Statens Serum Institut, Anca titrering igg	high	
+1920	Statens Seruminstitut, ANCA (IgG) screenin	Statens Serum Institut, ANCA (igg) screenin	high	
+1921	Statens Seruminstitut, ANCA Screening POS	Statens Serum Institut, ANCA screening pos	high	
+1922	Statens Seruminstitut, ANCA i Symmetrisk p	Statens Serum Institut, ANCA in symmetrisk p	low	Y
+1923	Statens Seruminstitut, ANCA i imflam.tarms	Statens Serum Institut, ANCA in imflam.tarms	high	
+1924	Statens Seruminstitut, ANCA panel	Statens Serum Institut, ANCA panel	high	
+1925	Statens Seruminstitut, ANCA screen. (IgG)	Statens Serum Institut, ANCA screen. (igg)	low	Y
+1926	Statens Seruminstitut, ANCA titrering IgG	Statens Serum Institut, ANCA titrering igg	high	
 1927	Statens Seruminstitut, ASCA (IgG,IgA,IgM)	Statens Serum Institut, Asca (igg,iga,igm)	high	
 1928	Statens Seruminstitut, ASCA i inflam.tarms	Statens Serum Institut, Asca in inflam.tarms	high	
 1929	Statens Seruminstitut, Actinomyces, dyrkni	Statens Serum Institut, Actinomyces, dyrkni	high	
@@ -1957,7 +1957,7 @@
 1955	Statens Seruminstitut, Anti-AChR	Statens Serum Institut, Anti-achr	high	
 1956	Statens Seruminstitut, Anti-Beta2 GP i (Ig	Statens Serum Institut, Anti-beta2 gp in (ig	high	
 1957	Statens Seruminstitut, Anti-MuSK	Statens Serum Institut, Anti-musk	high	
-1958	Statens Seruminstitut, Anti-TSH-R i thyreo	Statens Serum Institut, Anti-tsh-r in thyreo	high	
+1958	Statens Seruminstitut, Anti-TSH-R i thyreo	Statens Serum Institut, Anti-TSH-r in thyreo	high	
 1959	Statens Seruminstitut, Antibiotika koncent	Statens Serum Institut, Antibiotika koncent	high	
 1960	Statens Seruminstitut, Antinucleære antist	Statens Serum Institut, Antinuclear antist	high	
 1961	Statens Seruminstitut, Arbovirus (andre) a	Statens Serum Institut, Arbovirus (andre) a	high	
@@ -2052,7 +2052,7 @@
 2050	Statens Seruminstitut, Gonokokker dyrkning	Statens Serum Institut, Gonokokker culture	high	
 2051	Statens Seruminstitut, Gonokokker, dyrknin	Statens Serum Institut, Gonokokker, dyrknin	high	
 2052	Statens Seruminstitut, Gonokokker, resiste	Statens Serum Institut, Gonokokker, resiste	high	
-2053	Statens Seruminstitut, Gær- og skimmelsvam	Statens Serum Institut, Gær- and skimmelsvam	low	Y
+2053	Statens Seruminstitut, Gær- og skimmelsvam	Statens Serum Institut, Yeast- and skimmelsvam	high	
 2054	Statens Seruminstitut, Gærsvampe	Statens Serum Institut, Gærsvampe	low	Y
 2055	Statens Seruminstitut, HBc (HB core) antis	Statens Serum Institut, Hbc (hb core) antis	high	
 2056	Statens Seruminstitut, HISTON i pakke (møn	Statens Serum Institut, Histon in pakke (møn	low	Y
@@ -2127,14 +2127,14 @@
 2125	Statens Seruminstitut, MBL deficiens under	Statens Serum Institut, Mbl deficiens under	high	
 2126	Statens Seruminstitut, MBL deficiens undersøgelse,	Statens Serum Institut, Mbl deficiens examination,	high	
 2127	Statens Seruminstitut, MBL genotypning	Statens Serum Institut, Mbl genotyping	high	
-2128	Statens Seruminstitut, MPO-ANCA (IgG)	Statens Serum Institut, Mpo-anca (igg)	high	
+2128	Statens Seruminstitut, MPO-ANCA (IgG)	Statens Serum Institut, Mpo-ANCA (igg)	high	
 2129	Statens Seruminstitut, Malariaparasitter,	Statens Serum Institut, Malariaparasitter,	high	
 2130	Statens Seruminstitut, Mannan bindende pro	Statens Serum Institut, Mannan bindende pro	high	
 2131	Statens Seruminstitut, Meningokok antistof	Statens Serum Institut, Meningokok antibody	high	
 2132	Statens Seruminstitut, Microsporidium	Statens Serum Institut, Microsporidium	high	
 2133	Statens Seruminstitut, Mitokondrie antisto	Statens Serum Institut, Mitokondrie antisto	high	
 2134	Statens Seruminstitut, Mkrsp./indsendt materiale	Statens Serum Institut, Mkrsp./indsendt material	low	Y
-2135	Statens Seruminstitut, Mononukleose (Paul	Statens Serum Institut, Mononukleose (paul	high	
+2135	Statens Seruminstitut, Mononukleose (Paul	Statens Serum Institut, Mononucleosis (paul	high	
 2136	Statens Seruminstitut, Morbillivirus antis	Statens Serum Institut, Morbillivirus antis	high	
 2137	Statens Seruminstitut, Motorisk/sensorisk	Statens Serum Institut, Motorisk/sensory	low	Y
 2138	Statens Seruminstitut, Mycobacterium tub.	Statens Serum Institut, Mycobacterium tub.	low	Y
@@ -2153,7 +2153,7 @@
 2151	Statens Seruminstitut, PCR (RNA) influenza	Statens Serum Institut, PCR (RNA) influenza	high	
 2152	Statens Seruminstitut, PCR for Haemophilus	Statens Serum Institut, PCR for haemophilus	high	
 2153	Statens Seruminstitut, POS ANCA488	Statens Serum Institut, Pos anca488	high	
-2154	Statens Seruminstitut, PR3-ANCA (IgG)	Statens Serum Institut, Pr3-anca (igg)	high	
+2154	Statens Seruminstitut, PR3-ANCA (IgG)	Statens Serum Institut, Pr3-ANCA (igg)	high	
 2155	Statens Seruminstitut, Parainfluenzavirus	Statens Serum Institut, Parainfluenzavirus	high	
 2156	Statens Seruminstitut, Paraneoplastik synd	Statens Serum Institut, Paraneoplastik synd	high	
 2157	Statens Seruminstitut, Parasitologisk unde	Statens Serum Institut, Parasitological unde	high	
@@ -2161,7 +2161,7 @@
 2159	Statens Seruminstitut, Parasitter fra pers	Statens Serum Institut, Parasitter from pers	high	
 2160	Statens Seruminstitut, Parasitter fra rejs	Statens Serum Institut, Parasitter from rejs	high	
 2161	Statens Seruminstitut, Parasitter mikrosko	Statens Serum Institut, Parasitter mikrosko	high	
-2162	Statens Seruminstitut, Parietalcelle antis	Statens Serum Institut, Parietalcelle antis	high	
+2162	Statens Seruminstitut, Parietalcelle antis	Statens Serum Institut, Parietal cell antis	high	
 2163	Statens Seruminstitut, Parotitisvirus anti	Statens Serum Institut, Parotitisvirus anti	high	
 2164	Statens Seruminstitut, Parrietalcelle anti	Statens Serum Institut, Parrietalcelle anti	high	
 2165	Statens Seruminstitut, Parvovirus B-19 ant	Statens Serum Institut, Parvovirus B-19 ant	high	
@@ -2189,8 +2189,8 @@
 2187	Statens Seruminstitut, Reaktiv Artritis/Ta	Statens Serum Institut, Reaktiv artritis/ta	high	
 2188	Statens Seruminstitut, Rejsediarre	Statens Serum Institut, Rejsediarre	high	
 2189	Statens Seruminstitut, Rejsediarré	Statens Serum Institut, Rejsediarré	high	
-2190	Statens Seruminstitut, Res. (1) midler til	Statens Serum Institut, Res. (1) midler to	low	Y
-2191	Statens Seruminstitut, Res. (2) midler til	Statens Serum Institut, Res. (2) midler to	low	Y
+2190	Statens Seruminstitut, Res. (1) midler til	Statens Serum Institut, Result. (1) midler to	low	Y
+2191	Statens Seruminstitut, Res. (2) midler til	Statens Serum Institut, Result. (2) midler to	low	Y
 2192	Statens Seruminstitut, Resistensbestem. fo	Statens Serum Institut, Resistensbestem. fo	low	Y
 2193	Statens Seruminstitut, Respirationsvejs PC	Statens Serum Institut, Respirationsvejs pc	high	
 2194	Statens Seruminstitut, Retikulin antistoff	Statens Serum Institut, Retikulin antistoff	high	
@@ -2228,27 +2228,27 @@
 2226	Statens Seruminstitut, til p b st. analyse	Statens Serum Institut, To p b st. analyse	low	Y
 2227	Statens Seruminstitut, TBE antistof (IgG og	Statens Serum Institut, Tbe antibody (igg and	high	
 2228	Statens Seruminstitut, TG-antistof i pakke	Statens Serum Institut, Tg-antibody in pakke	high	
-2229	Statens Seruminstitut, TPB + 1-4 coli	Statens Serum Institut, Tpb + 1-4 coli	high	
-2230	Statens Seruminstitut, TPB St. + coli + 1	Statens Serum Institut, Tpb st. + coli + 1	low	Y
-2231	Statens Seruminstitut, TPB St.+coli + 1 su	Statens Serum Institut, Tpb st.+coli + 1 su	high	
-2232	Statens Seruminstitut, TPB St.+coli + 3 su	Statens Serum Institut, Tpb st.+coli + 3 su	high	
-2233	Statens Seruminstitut, TPB Standard	Statens Serum Institut, Tpb standard	high	
-2234	Statens Seruminstitut, TPB Standard + 1 su	Statens Serum Institut, Tpb standard + 1 su	high	
-2235	Statens Seruminstitut, TPB Standard + 2 su	Statens Serum Institut, Tpb standard + 2 su	high	
-2236	Statens Seruminstitut, TPB Standard + 3 su	Statens Serum Institut, Tpb standard + 3 su	high	
-2237	Statens Seruminstitut, TPB Standard + 4 su	Statens Serum Institut, Tpb standard + 4 su	high	
-2238	Statens Seruminstitut, TPB Standard + 5 su	Statens Serum Institut, Tpb standard + 5 su	high	
-2239	Statens Seruminstitut, TPB Standard + Cl.	Statens Serum Institut, Tpb standard + cl.	low	Y
-2240	Statens Seruminstitut, TPB standardanalyse	Statens Serum Institut, Tpb standardanalyse	high	
+2229	Statens Seruminstitut, TPB + 1-4 coli	Statens Serum Institut, TPB + 1-4 coli	high	
+2230	Statens Seruminstitut, TPB St. + coli + 1	Statens Serum Institut, TPB st. + coli + 1	low	Y
+2231	Statens Seruminstitut, TPB St.+coli + 1 su	Statens Serum Institut, TPB st.+coli + 1 su	high	
+2232	Statens Seruminstitut, TPB St.+coli + 3 su	Statens Serum Institut, TPB st.+coli + 3 su	high	
+2233	Statens Seruminstitut, TPB Standard	Statens Serum Institut, TPB standard	high	
+2234	Statens Seruminstitut, TPB Standard + 1 su	Statens Serum Institut, TPB standard + 1 su	high	
+2235	Statens Seruminstitut, TPB Standard + 2 su	Statens Serum Institut, TPB standard + 2 su	high	
+2236	Statens Seruminstitut, TPB Standard + 3 su	Statens Serum Institut, TPB standard + 3 su	high	
+2237	Statens Seruminstitut, TPB Standard + 4 su	Statens Serum Institut, TPB standard + 4 su	high	
+2238	Statens Seruminstitut, TPB Standard + 5 su	Statens Serum Institut, TPB standard + 5 su	high	
+2239	Statens Seruminstitut, TPB Standard + Cl.	Statens Serum Institut, TPB standard + cl.	low	Y
+2240	Statens Seruminstitut, TPB standardanalyse	Statens Serum Institut, TPB standardanalyse	high	
 2241	Statens Seruminstitut, TPO-antistof i pakk	Statens Serum Institut, Tpo-antibody in pakk	high	
-2242	Statens Seruminstitut, TSH-receptor antist	Statens Serum Institut, Tsh-receptor antist	high	
+2242	Statens Seruminstitut, TSH-receptor antist	Statens Serum Institut, TSH-receptor antist	high	
 2243	Statens Seruminstitut, Taenia antistof (Cy	Statens Serum Institut, Taenia antibody (cy	high	
 2244	Statens Seruminstitut, Tarmbakt.st.ana.+ 1	Statens Serum Institut, Tarmbakt.st.ana.+ 1	high	
 2245	Statens Seruminstitut, Tarmpatogene bakter	Statens Serum Institut, Tarmpatogene bakter	high	
 2246	Statens Seruminstitut, Testosteron	Statens Serum Institut, Testosteron	high	
 2247	Statens Seruminstitut, Tetanus vaccine 1 d	Statens Serum Institut, Tetanus vaccine 1 d	high	
 2248	Statens Seruminstitut, Tetanus vaccine 10	Statens Serum Institut, Tetanus vaccine 10	high	
-2249	Statens Seruminstitut, Tetanustoksin antis	Statens Serum Institut, Tetanustoksin antis	high	
+2249	Statens Seruminstitut, Tetanustoksin antis	Statens Serum Institut, Tetanus toxin antis	high	
 2250	Statens Seruminstitut, Thyreoglobulin (ser	Statens Serum Institut, Thyreoglobulin (ser	high	
 2251	Statens Seruminstitut, Tillæg pos. syfilis	Statens Serum Institut, Supplement pos. syfilis	low	Y
 2252	Statens Seruminstitut, Tillæg udv.pos.syfi	Statens Serum Institut, Supplement udv.pos.syfi	high	
@@ -2261,7 +2261,7 @@
 2259	Statens Seruminstitut, Transport af pakker	Statens Serum Institut, Transport of pakker	high	
 2260	Statens Seruminstitut, Trichinella spp. anæstesi	Statens Serum Institut, Trichinella spp. anaesthesia	low	Y
 2261	Statens Seruminstitut, Trichomonas vaginal	Statens Serum Institut, Trichomonas vaginal	high	
-2262	Statens Seruminstitut, Triple-test SSI	Statens Serum Institut, Triple-test ssi	high	
+2262	Statens Seruminstitut, Triple-test SSI	Statens Serum Institut, Triple-test SSI	high	
 2263	Statens Seruminstitut, Trofozoitter, mik f	Statens Serum Institut, Trofozoitter, mik f	high	
 2264	Statens Seruminstitut, Trypanosoma antisto	Statens Serum Institut, Trypanosoma antisto	high	
 2265	Statens Seruminstitut, Tværstribet muskel	Statens Serum Institut, Tværstribet muskel	low	Y
@@ -2481,7 +2481,7 @@
 2479	Fysioterapi 51, Afspænding *hold*	Physiotherapy, Relaxation therapy *hold*	low	Y
 2480	Fysioterapi 51, Afspænding *indv*	Physiotherapy, Relaxation therapy *indv*	low	Y
 2481	Fysioterapi 51, Biomek. bev. terapi	Physiotherapy, Biomek. bev. terapi	low	Y
-2482	Fysioterapi 51, El-stimulation	Physiotherapy, El-stimulation	high	
+2482	Fysioterapi 51, El-stimulation	Physiotherapy, Alder-stimulation	high	
 2483	Fysioterapi 51, Forundersøgelse A65	Physiotherapy, Forundersøgelse a65	low	Y
 2484	Fysioterapi 51, Fysioterapeutisk undersøgelse	Physiotherapy, Fysioterapeutisk examination	low	Y
 2485	Fysioterapi 51, Første konsultation	Physiotherapy, First consultation	high	
@@ -2786,7 +2786,7 @@
 2784	Vederlagsfri fysioterapi, Bassintr. 7 personer	Free-of-charge physiotherapy, Bassintr. 7 persons	low	Y
 2785	Vederlagsfri fysioterapi, Bassintr. 8 personer	Free-of-charge physiotherapy, Bassintr. 8 persons	low	Y
 2786	Vederlagsfri fysioterapi, Biomeka. bev. terapi	Free-of-charge physiotherapy, Biomeka. bev. terapi	low	Y
-2787	Vederlagsfri fysioterapi, El-stimulation	Free-of-charge physiotherapy, El-stimulation	high	
+2787	Vederlagsfri fysioterapi, El-stimulation	Free-of-charge physiotherapy, Alder-stimulation	high	
 2788	Vederlagsfri fysioterapi, Fysiotera. unders.	Free-of-charge physiotherapy, Fysiotera. unders.	low	Y
 2789	Vederlagsfri fysioterapi, Første konsultation	Free-of-charge physiotherapy, First consultation	high	
 2790	Vederlagsfri fysioterapi, Hold 1 periode amt 51 62	Free-of-charge physiotherapy, Hold 1 periode amt 51 62	high	
@@ -2974,8 +2974,8 @@
 2972	Gynækologi/obstetrik, Dyrk. af gærsvamp 10	Gynaecology/obstetrics, Dyrk. of yeast infection 10	low	Y
 2973	Gynækologi/obstetrik, E-mail konsultation	Gynaecology/obstetrics, E-mail consultation	high	
 2974	Gynækologi/obstetrik, E-mail konsultation	Gynaecology/obstetrics, E-mail consultation	high	
-2975	Gynækologi/obstetrik, El-stim. af bækkenb.	Gynaecology/obstetrics, El-stim. of pelvic floor.	low	Y
-2976	Gynækologi/obstetrik, El-stimu af bækkenb.	Gynaecology/obstetrics, El-stimu of pelvic floor.	low	Y
+2975	Gynækologi/obstetrik, El-stim. af bækkenb.	Gynaecology/obstetrics, Alder-stim. of pelvic floor.	low	Y
+2976	Gynækologi/obstetrik, El-stimu af bækkenb.	Gynaecology/obstetrics, Alder-stimu of pelvic floor.	low	Y
 2977	Gynækologi/obstetrik, Elstimul. bækkenbund	Gynaecology/obstetrics, Elstimul. pelvic floor	low	Y
 2978	Gynækologi/obstetrik, Endometriedestrukt.	Gynaecology/obstetrics, Endometriedestrukt.	low	Y
 2979	Gynækologi/obstetrik, Evacuatio opf. konsultation	Gynaecology/obstetrics, Evacuatio opf. consultation	low	Y
@@ -2988,7 +2988,7 @@
 2986	Gynækologi/obstetrik, Forus.inde ambu.a15	Gynaecology/obstetrics, Forus.inde ambu.a15	high	
 2987	Gynækologi/obstetrik, Genetisk rådgivning	Gynaecology/obstetrics, Genetisk advice	low	Y
 2988	Gynækologi/obstetrik, HSU	Gynaecology/obstetrics, Hsu	high	
-2989	Gynækologi/obstetrik, Hymenal- el. vulvapl	Gynaecology/obstetrics, Hymenal- el. vulvapl	low	Y
+2989	Gynækologi/obstetrik, Hymenal- el. vulvapl	Gynaecology/obstetrics, Hymenal- alder. vulvapl	low	Y
 2990	Gynækologi/obstetrik, Hys-sal-ul., HSU	Gynaecology/obstetrics, Hys-sal-ul., hsu	high	
 2991	Gynækologi/obstetrik, Hysteroskopi	Gynaecology/obstetrics, Hysteroskopi	high	
 2992	Gynækologi/obstetrik, Incision Absces   1.	Gynaecology/obstetrics, Incision absces 1.	high	
@@ -3362,7 +3362,7 @@
 3360	Almen lægehjælp 80, Anvendes når en person:	General practitioner, Anvendes when en person:	high	
 3361	Almen lægehjælp 80, Alkoholklinik	General practitioner, Alkoholklinik	high	
 3362	Almen lægehjælp 80, Alkoholsamt. ¤2/B080	General practitioner, Alkoholsamt. ¤2/b080	low	Y
-3363	Almen lægehjælp 80, Allergiudredning i forbindelse med priktest	General practitioner, Allergiudredning in connection with priktest	low	Y
+3363	Almen lægehjælp 80, Allergiudredning i forbindelse med priktest	General practitioner, Allergiudredning in connection with skin-prick test	low	Y
 3364	Almen lægehjælp 80, Amylase	General practitioner, Amylase	high	
 3365	Almen lægehjælp 80, Andre betydelige operationer	General practitioner, Andre betydelige operationer	high	
 3366	Almen lægehjælp 80, Anlæggelse af immobiliserende bandager	General practitioner, Anlæggelse of immobiliserende bandager	low	Y
@@ -3614,7 +3614,7 @@
 3612	Almen lægehjælp 80, Polyfarmaci pt. a101	General practitioner, Polyfarmaci pt. a101	low	Y
 3613	Almen lægehjælp 80, per påbegyndt over 3	General practitioner, Per commenced over 3	high	
 3614	Almen lægehjælp 80, per tandbehandling	General practitioner, Per dental treatment	high	
-3615	Almen lægehjælp 80, Priktest ¤2A20	General practitioner, Priktest ¤2a20	high	
+3615	Almen lægehjælp 80, Priktest ¤2A20	General practitioner, Skin-prick test ¤2a20	high	
 3616	Almen lægehjælp 80, Projekt Lildholt	General practitioner, Projekt lildholt	high	
 3617	Almen lægehjælp 80, Prothrombin        6	General practitioner, Prothrombin 6	high	
 3618	Almen lægehjælp 80, Præ.jour.sk. ¤2/A70	General practitioner, Præ.jour.sk. ¤2/a70	low	Y
@@ -4015,7 +4015,7 @@
 4013	Præhospital, St. udbr. læsioner	Pre-hospital, St. udbr. lesions	low	Y
 4014	Præhospital, Tilkald	Pre-hospital, Tilkald	high	
 4015	Præhospital, Tilkald A42	Pre-hospital, Tilkald a42	high	
-4016	Præhospital, el.kardiogr. inkl. præcordialafl.	Pre-hospital, El.kardiogr. incl.. præcordialafl.	low	Y
+4016	Præhospital, el.kardiogr. inkl. præcordialafl.	Pre-hospital, Alder.kardiogr. incl.. præcordialafl.	low	Y
 4017	KFA-vagtordning 89, (ingen tekst tilgængelig)	KFA on-call service 89, (no text available)	high	
 4018	KFA-vagtordning 89, 1. behandling Knoglebrud	KFA on-call service 89, 1. treatment knoglebrud	high	
 4019	KFA-vagtordning 89, 1. behandling Større Sår	KFA on-call service 89, 1. treatment larger wound	high	
