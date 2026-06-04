@@ -55,6 +55,8 @@ Hierarchical vocabulary mapping system for **40,465 codes** used in Danish admin
 | `QC_REPORT.md` | Audit report: integrity, the MASTER↔MAPPINGS reconciliation, gap inventory | Provenance of the 2026-06 recovery |
 | `notes.md` | Working decision log (DB07≠DISCO-07, DISCO version-drift, HEA_speciale §2-aftaler, `.0` bug, income rewrites) | Domain reasoning behind the data |
 | `HIERARCHY_SUMMARY.csv` | Overview of all 127 categories with counts | Quick reference for category structure |
+| `input_dataset_description.csv` | Model variable → DST `REGISTER:VARIABLE` source map (e.g. `BEF:OPR_LAND`, `AKM:SOCIO13`, `LMDB:VOLUME`+`VOLTYPECODE`, `KRAF:AFG_*`, `KRIN:IND_*`, `BUAF:HAENDELSE`, `KOTRE:UDEL`) + binning/processing notes | **Authoritative provenance map** — which DST register each category comes from; see `SOURCE_AUDIT.md` |
+| `SOURCE_AUDIT.md` | Per-category source verification of the `none\|generated` rows (verdicts, DST sources, fixes) | Provenance audit + hallucination corrections (2026-06) |
 | `README.md` | Project description and usage | Documentation |
 | `.gitignore` | Git ignore rules | Excludes one-off scripts, virtual envs, intermediate files |
 

@@ -1,0 +1,131 @@
+Group,Variable,Tokens,Description
+Background,Birth year,142,LIFELINES:FOED_DAG.
+Background,Birth month,12,LIFELINES:FOED_DAG.
+Background,Sex,2,LIFELINES:KOEN. Based on Statistics Denmark's binary definition which uses the Danish CPR number.
+Background,Country of origin,159,BEF:OPR_LAND.
+Background,Immigrant type,4,BEF:IE_TYPE.
+Background,Citizenship,159,BEF:STATSB. Tokens shared with Household.
+Background,Birth weight,100,FERTILITETSDATABASEN:VAEGT_BARN.
+Background,Birth length,35,FERTILITETSDATABASEN:LAENGDE_BARN.
+Background,Dad adoption code,13,"FERTILITETSDATABASEN:FAR_FOED_ADOP. We remove values concerning later-life adoption (remove code 16, map code 22 and 23 to 21)."
+Background,Mom adoption code,14,"FERTILITETSDATABASEN:MOR_FOED_ADOP. We remove values concerning later-life adoption (remove code 16, map code 22 and 23 to 21)."
+Background,Amount of siblings at birth,13,Infer based on amount of siblings relations found using FAMILY_RELATIONS:RELATION that start on persons birthday.
+Marital status,Marital status,7,BEF:CIVST.
+Migration,Migration event,2,Emigration from LIFELINES:EVENT_CAUSE_FINAL and immigration LIFELINES:EVENT_CAUSE_START.
+Births & deaths,Relation type,5,"We extract parent, child, full sibling, half sibling, and unknown sibling from FAMILY_RELATIONS:RELATION and find births and deaths. We additionally add stillborn children from the fertility database, when FERTILITETSDATABASEN:MDOED is 1 or FERTILITETSDATABASEN:LEVENDE_ELLER_DOEDFOEDT is 0."
+Births & deaths,Event,2,We create indicators for birth and death.
+Location,Municipality,354,We merge BEFADR:KOM onto address changes using BEFADR:ADRESSE_ID and BEFBOP:ADRESSE_ID.
+Household,Family type,9,BEF:FAMILIE_TYPE.
+Household,Amount of children,8,"BEF:ANTPERSF into bins with cutoffs 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 30, 40, 50, 100, 500, 1000 and inf (lower exclusive, upper inclusive)."
+Household,Amount of people,11,"BEF:ANTBOERNF into bins with cutoffs 0, 1, 2, 3, 4, 5, 6, 7, 8, and inf (lower exclusive, upper inclusive)."
+Household,Amount of families,19,"BEF:ANTEFAM into bins with cutoffs 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 30, 40, 50, 100, 500, 1000, and inf (lower exclusive, upper inclusive)."
+Household,Mother-father-marking,6,Uses BEF:FM_MARK which details to what extent someone lives with their parents.
+Household,Citizenship,159,"BEF:STATSB. Citizenship is included with Household information as it is updated at the same time, but is related to the person, not the household. Tokens shared with Background."
+Employment,Type,3,"We create primary, self-employed or wage-receiver employment indicators to contextualize the events, as codes are reused across employment types. For primary employment, the occupation columns are AKM:DISCO08_ALLE_INDK_13 and AKM:DISCO_ALLE_INDK_13, and the industry columns are AKM:NACE_DB07_13, AKM:NACE_13, and AKM:BRANCHE_77. For wage-receivers, the occupations columns are AKM:DISCO08_LOEN_INDK, AKM:DISCOLOEN_INDK, and the industry columns are AKM:NACEA_DB07, AKM:NACEA, and AKM:BRCHL. For self-employed, the occupations columns are AKM:DISCO08_SEL_INDK AKM:DISCOSEL_INDK, and the industry are AKM:NACEI_DB07 AKM:NACEI AKM:BRCHI."
+Employment,Socio-economic status,72,AKM:SOCIO13 and AKM:SOCIO_GL are included with the primary occupation event. There are 21 SOCIO13 codes and 51 SOCIO_GL codes.
+Employment,Occupation,243,See type for columns used. There are 207 DISCO08 3-digit codes and 36 DISCO 2-digit codes. DISCO08 codes are also shared with Employment & income. We remove codes that specify unknown.
+Employment,Industry,375,"See type for columns used. There are 279 DB07 3-digit tokens, 57 NACE 2-digit tokens, and 39 BRANCHE77 2-digit codes. DB07 codes are also shared with Employment & income. We remove codes that specify unknown."
+"Income, taxes & wealth",Disposable income,100,We bin IND:DISPON_13 within years.
+"Income, taxes & wealth",Personal income,100,We bin IND:PERINDKIALT_13 within years.
+"Income, taxes & wealth",Business income,100,We bin IND:ERHVERVSINDK_13 within years.
+"Income, taxes & wealth",Wages,100,We bin IND:LOENMV_13 within years.
+"Income, taxes & wealth",Fees,100,We bin IND:HONNY within years.
+"Income, taxes & wealth",Net profit,100,We bin IND:NETOVSKUD_13 within years.
+"Income, taxes & wealth",Public transfers,100,We bin IND:OFF_OVERFORSEL_13 within years.
+"Income, taxes & wealth",Unemployment and cash benefits,100,We bin IND:DAGPENGE_KONTANT_13 within years.
+"Income, taxes & wealth",Primary unemployment benefits,100,We bin IND:ARBLHUMV within years.
+"Income, taxes & wealth",Other unemployment benefit,100,We bin IND:OVRIG_DAGPENGE_AKAS_13 within years.
+"Income, taxes & wealth",Primary cash benefits,100,We bin IND:KONTANTHJ_13 within years.
+"Income, taxes & wealth",Other cash benefits,100,We bin IND:OVRIG_KONTANTHJALP_13 within years.
+"Income, taxes & wealth",Sick and parental leave,100,We bin IND:SYG_BARSEL_13 within years.
+"Income, taxes & wealth",Other benefits,100,We bin IND:OVRIG_OVERFORSEL_13 within years.
+"Income, taxes & wealth",Educational grants,10,We bin IND:STIP within years.
+"Income, taxes & wealth",Housing benefits,100,We bin IND:KORSTOETT within years.
+"Income, taxes & wealth",Child benefit,10,We bin IND:KORYDIAL within years.
+"Income, taxes & wealth",Green check,10,We bin IND:GRON_CHECK within years.
+"Income, taxes & wealth",Pension and early retirement,100,We bin IND:OFFPENS_EFTERLON_13 within years.
+"Income, taxes & wealth",Regular and disability pension,10,We bin IND:FOLKEFORTID_13 within years.
+"Income, taxes & wealth",Early retirement,100,We bin IND:QEFTLON within years.
+"Income, taxes & wealth",Private pensions,100,We bin IND:PRIVAT_PENSION_13 within years.
+"Income, taxes & wealth",Returns on assets,100,We bin IND:FORMUEINDK_BRUTTO within years.
+"Income, taxes & wealth",Residual income term,100,We bin IND:RESUINK_13 within years.
+"Income, taxes & wealth",Rental value of own property,100,We bin IND:LEJEV_EGEN_BOLIG within years.
+"Income, taxes & wealth",Tax rebates on interest payments,100,We bin IND:RENTUDGPR within years.
+"Income, taxes & wealth",Overall taxes,100,We bin IND:SKATMVIALT_13 within years.
+"Income, taxes & wealth",Tax rebates on alimony,100,We bin IND:UNDERHOL within years.
+"Income, taxes & wealth",Assets,100,"We bin IND:FORMREST and IND:FORMREST_NY05 within years. When both occur, we only include the newest."
+Employment & income,Socio-economic status,37,AMRUN:SOC_STATUS_KODE.
+Employment & income,Occupation,207,"AMRUN:DISCO_KODE, which are DISCO08 codes, not DISCO codes. We include 3 digits. Tokens shared with Employment."
+Employment & income,Industry,279,AMRUN:ARB_HOVED_BRA_DB07. We include 3 digits. Tokens shared with Employment.
+Employment & income,Wages,100,We bin AMRUN:BREDT_LOEN_BELOEB within years.
+Employment & income,Status code,39,AMRUN:TILSTAND_KODE_AMR. We remove codes which always map to the same socio-economic status to prevent double-encoding of information.
+Employment & income,Degree of status code,10,AMRUN:TILSTAND_GRAD_AMR.
+Employment & income,Temporary leave from work,4,AMRUN:FRAVAER_BESK_KODE.
+Employment & income,Work supported by public sector,7,AMRUN:STOETTE_BESK_KODE.
+Employment & income,Both working and studying,1,We include code 1 from AMRUN:UDD_BESK_KODE.
+Hospital visits,Urgency,3,LPR_ADM:INDM.
+Hospital visits,Patient type,4,LPR_ADM:PATTYPE.
+Hospital visits,ICD-10 code,7873,"LPR_ADM:AKTIONSDIAGNOSE. We use 5 digit Danish ICD-10 codes, which broadly corresponds to 4 digit international ICD-10 codes due to being prefixed with a D."
+Medication,ATC code,514,We use 5 digit ATC codes from LMDB:ATC.
+Medication,Medication volume,73,"We bin LMDB:VOLUME into bins with cutoffs 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 20, 30, 40, 50, 100, 500, 1000, and inf (lower exclusive, upper inclusive). This is then concatenated with LMDB:VOLTYPECODE."
+Doctor visits,Service provided,5356,SYSI:SPECIALE and SSSY:SPECIALE.
+Grades,Grade,24,"UDFK:GRUNDSKOLEKARAKTER, UDGK:KARAKTER, UDGK:KARAKTER_OMREGNET, and UDD_KARAKTER_UNIVID_FAG:BEDOMMELSE. If grades are on the 13 scale, we convert them to the 7 scale."
+Grades,Course,137,UDFK:GRUNDSKOLEFAG and UDGK:FAG_TXT.
+Grades,Course level,4,"UDGK:NIVEAU, levels A, B, C, and other ('-' in the data)."
+Grades,ECTS,84,UDD_KARAKTER_UNIVID_FAG:ECTS.
+Enrollments,Education field,83,"Classified using DISCED-15 subject area ('fagomraade') truncated to 3 digits matched with KOTRE:UDD or KOTRE:AUDD, dependent on whether it's the start or end of an enrollment."
+Enrollments,Education major area,93,"Classified using mayor area ('hovedomraade') DISCED-15 codes truncated to 4 digits matched with KOTRE:UDD or KOTRE:AUDD, dependent on whether it's the start or end of an enrollment."
+Enrollments,Education activity,1806,KOTRE:UDD.
+Enrollments,Education part,21,KOTRE:UDEL.
+Enrollments,Entry type,8,KOTRE:TILG_ART.
+Enrollments,Education qualifications,2097,"KOTRE:AUDD, only given when ending an educational enrollment."
+Enrollments,Exit type,8,"KOTRE:AFG_ART, only given when ending an educational enrollment."
+Diplomas,Education field,83,Classified using DISCED-15 subject area ('fagomraade') truncated to 3 digits matched with UDG:AUDD.
+Diplomas,Education major area,93,Classified using mayor area ('hovedomraade') DISCED-15 codes truncated to 4 digits matched with UDG:AUDD.
+Diplomas,Education qualifications,2097,UDG:AUDD.
+Diplomas,Grade point average,112,"UDG:KARAKTER_UDD. If the grade point averages are on the 13 scale, we convert them to the 7 scale."
+Qualifications,Education field,83,Classified using DISCED-15 subject area ('fagomraade') truncated to 3 digits matched with UDKV:AUDD.
+Qualifications,Education major area,93,Classified using mayor area ('hovedomraade') DISCED-15 codes truncated to 4 digits matched with UDKV:AUDD.
+Qualifications,Education qualifications,2097,UDKV:AUDD.
+Wellbeing,Overall wellbeing (0-3rd grade),10,"Mean of all questions columns in the registry UDD_TRIVSEL_SMAA_KLASSER, e.g. the columns starting with a Q."
+Wellbeing,Overall wellbeing (4-9th grade),10,We bin UDD_TRIVSEL_STORE_KLASSER:F9.
+Wellbeing,Factor: Calm (4-9th grade),10,We bin UDD_TRIVSEL_STORE_KLASSER:F1.
+Wellbeing,Factor: Support (4-9th grade),10,We bin UDD_TRIVSEL_STORE_KLASSER:F2.
+Wellbeing,Factor: Social (4-9th grade),10,We bin UDD_TRIVSEL_STORE_KLASSER:F3.
+Wellbeing,Factor: Academic (4-9th grade),10,We bin UDD_TRIVSEL_STORE_KLASSER:F4.
+National tests,Course,14,UDD_NATTEST_OPRINDELIGE:FAG and UDD_NATTEST_GENBEREGNEDE:FAG.
+National tests,Performance bin,6,"We bin UDD_NATTEST_OPRINDELIGE:POINT_SAMLET and UDD_NATTEST_GENBEREGNEDE:SCORE into 6 equal width bins between 0 and 100, and then have an additional bin for people with a score of 100 or above."
+Absences,School days,23,UDD_FOLKESKOLE_FRAVAER_STIL:DAGEAKTIV.
+Absences,Days of any absence,23,UDD_FOLKESKOLE_FRAVAER_STIL:DAGEIALTFRA.
+Absences,Days of legal absence,23,UDD_FOLKESKOLE_FRAVAER_STIL:DAGELOVFRA.
+Absences,Days of sick leave,23,UDD_FOLKESKOLE_FRAVAER_STIL:DAGESYG.
+Absences,Days of illegal absence,23,UDD_FOLKESKOLE_FRAVAER_STIL:DAGEULOVFRA.
+Verdicts,Offense code,93,We use KRAF:AFG_GER7 and KRKO:KON_GER7 at 4 digits. Tokens are shared across all crime-related registries.
+Verdicts,Type of sanction,64,KRAF:AFG_AFGTYPKO and KRKO:KON_AFGTYPKO.
+Verdicts,Sentence: Length,10,KRAF:AFG_UBSTRFLG.
+Verdicts,Fine amount,10,We bin KRAF:AFG_BOEDEBLB.
+Verdicts,Amount of daily fines,1,We bin KRAF:AFG_DAGBOANT.
+Verdicts,Size of daily fine,10,We bin KRAF:AFG_DAGBOBEL.
+Verdicts,Suspended sentence: Length,9,KRAF:AFG_BSTRFLG.
+Verdicts,Suspended sentence: Permanent,1,KRAF:AFG_BETBKOD.
+Verdicts,Revoked license: Legal basis,83,KRAF:AFG_FRAKKOD.
+Verdicts,Revoked license: Length,10,KRAF:AFG_FRAKAAR and KRAF:AFG_FRAKMND.
+Verdicts,Revoked license: Permanent,2,KRAF:AFG_FRAKBKOD.
+Charges,Charge indicator,1,Created indicator.
+Charges,Offense code,93,We use KRMS:MIN_GER7 and KRSI:SIG_GER7 at 4 digits. Tokens are shared across all crime-related registries.
+Victims,Victim indicator,1,Created indicator.
+Victims,Offense code,93,We use KROF:OFR_GER7 at 4 digits. Tokens are shared across all crime-related registries.
+Incarceration,Jailing code,6,KRIN:IND_FGSLKOD.
+Incarceration,Transferring code,2,KRIN:IND_OVERFKOD.
+Incarceration,Type of suspended sentence,1,KRIN:IND_BSTRFKOD.
+Incarceration,Offense code,93,We use KRIN:IND_GER7 at 4 digits. Tokens are shared across all crime-related registries.
+Incarceration,Release code,5,KRIN:IND_LOESLKOD.
+Incarceration,End parole indicator,1,Created indicator.
+Out-of-home placement,Legal basis,7,BUAF:SAMTYKKE.
+Out-of-home placement,Type of placement,23,BUAF:ANSTED_KLAS.
+Out-of-home placement,Occurrence,8,BUAF:HAENDELSE.
+Preventive measures,Start indicator,1,Created indicator.
+Preventive measures,End indicator,1,Created indicator.
+Preventive measures,Legal basis,35,BUFO:PFG.
+Drug treatment,Start indicator,1,Created indicator.
+Drug treatment,End indicator,1,Created indicator.

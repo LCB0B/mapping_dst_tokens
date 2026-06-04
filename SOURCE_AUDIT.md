@@ -6,6 +6,11 @@ Verification of the categories whose labels were tagged `source=none|generated`
 current text, and — where a fix was applied — the commit. Entries marked **✅ FIXED**
 have been corrected in MASTER; the rest are verified-correct/untagged or unresolved.
 
+**Authoritative source map:** `input_dataset_description.csv` (repo root) maps every
+model variable to its DST `REGISTER:VARIABLE` (e.g. `BEF:OPR_LAND`, `AKM:SOCIO13`,
+`LMDB:VOLUME`+`VOLTYPECODE`, `KRAF:AFG_*`, `KRIN:IND_*`, `BUAF:HAENDELSE`, `KOTRE:UDEL`).
+It confirmed every fix below and pins the source for the remaining categories.
+
 Verdict legend: **WRONG** = current label is a hallucination · **CORRECT/untagged**
 = label matches the source but `source` is still `none|generated` · **FILLABLE** =
 empty placeholder that the cited source can fill · **UNVERIFIED** = source/variable
@@ -217,6 +222,20 @@ The MASTER labels were **hallucinations** — institution types invented from th
 `source=dst_ind_fgslkod`, conf high. (`IND_FGSLSTED` is the separate institution-PLACE
 variable, with letter codes `A###`/`F###`/`P###` — not this type code.)
 
+## SOC_afgtypko + SOC_bstrfkod — Danish was bad MT, upgraded from KRIN codebook
+
+Both were already **code-sourced** (`raw/SOC_afgtypko.txt` 85/86; `raw/SOC_bstrfkod` 3/3)
+— not hallucinations — **but their `description_da` held machine-translated English**, not
+Danish (e.g. `bstrfkod` `1` "Hæfte" → *"Booklet"*; afgtypko `19` → *"Out-of-court goods of
+fines and waivers"*). Per `input_dataset_description.csv`: `SOC_afgtypko`=`KRAF:AFG_AFGTYPKO`
+/`KON_AFGTYPKO` (rows 104), `SOC_bstrfkod`=`KRIN:IND_BSTRFKOD` (row 120).
+
+**✅ FIXED 2026-06-04** (`scripts/fix_soc_afgtypko_bstrfkod.py`): installed the verbatim
+authoritative Danish from the downloaded KRIN codebook (`IND_AFGTYPKO` / `IND_BSTRFKOD`)
+into `description_da`, plus a faithful clean English translation; `source=dst_afgtypko` /
+`dst_ind_bstrfkod`, conf high. **85** afgtypko + **3** bstrfkod rows. afgtypko code `85` is
+**absent from the DST value set** (jumps 84→86) → left `[Unresolved]`, not invented.
+
 ---
 
 ## Summary
@@ -231,6 +250,8 @@ variable, with letter codes `A###`/`F###`/`P###` — not this type code.)
 | SOC_haendelse (5) | DST `HAENDELSE` (børn og unge/BUAF) + `raw/SOC_haendelse.txt` | **✅ FIXED** — was mis-labelled "Criminal event"; it's out-of-home placement | ✅ |
 | SOC_frakbkod (4) | DST `AFG_FRAKBKOD` (KRAF) | **✅ FIXED** — all 4 were hallucinated (betinget/ubetinget); var = permanent-or-not | ❌ (DST URL) |
 | SOC_fgslkod (6) | DST `IND_FGSLKOD` (KRIN) | **✅ FIXED** — was hallucinated as prison types; it's the incarceration-event type | ✅ (codebook) |
+| SOC_afgtypko (85) | DST `AFG_AFGTYPKO`/`IND_AFGTYPKO` | **✅ UPGRADED** — Danish was bad MT; installed verbatim Danish + clean English (85 absent→unresolved) | ✅ (codebook) |
+| SOC_bstrfkod (3) | DST `IND_BSTRFKOD` | **✅ UPGRADED** — "Booklet"→"Hæfte" etc.; verbatim Danish + clean English | ✅ (codebook) |
 
 **Hallucinations corrected so far:** HEA VOLTYPECODE family (168), `SOC_frakkod` (5),
 `DEM_kom` 959/960 (Greenland), `SOC_frakbkod` (4), `SOC_haendelse` integer codes (5,
