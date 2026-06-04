@@ -46,21 +46,38 @@ invented). SOC_frakkod is now 184 sourced + 2 honest unresolved.
 
 ---
 
-## SOC_ger7 — offence codes
-**Authoritative source (in repo):** `mapping/lookup_dictionaries/SOC_ger7_dict.csv`
-(4-digit offence codes, hierarchical) + DST Kriminalstatistik "overtrædelsens art"
-hovedgrupper. 920/938 rows already sourced (`CSV:SOC_ger7*`).
+## SOC_ger7 — GER7 gerningskode (offence code)
+**Authoritative source (CONFIRMED):** DST TIMES variable **`AFG_GER7`** (KRAF /
+Kriminalstatistik – afgørelser); the same GER7 value set is shared by `KON_GER7`,
+`SIG_GER7`, `OFR_GER7`, `ANM_GER7`, `IND_GER7`.
+<https://www.dst.dk/da/Statistik/dokumentation/Times/kriminalstatistik/afg-ger7>
+GER7 = a 7-digit conversion of Rigspolitiet's 5-digit gerningskode, **hierarchical at
+1 / 2 / 4 / 7 digits** (from counting-year 2020 only the first 4 digits + `000` are
+maintained; `AFG_GER9` supersedes it). Repo 4-digit value set:
+`mapping/lookup_dictionaries/SOC_ger7_dict.csv` (89 codes; first-digit distribution
+0:1, 1:68, 2:5, 3:15 — **no 4xxx**). 920/938 rows already sourced (`CSV:SOC_ger7*`).
 
-**Verdict: no hallucination.**
-- 2-digit group codes `11`/`12`/`13`/`14`/`38` (Sædeligheds-/Volds-/Ejendoms-/Andre
-  straffelovs-/Særlovs-forbrydelser) are **CORRECT/untagged** — consistent with the
-  dict's 11xx/12xx… blocks and the standard DST main groups.
-- The long 7-digit detail codes (`1146000`, `4010825`, `4020515`, …) carry honest
-  placeholders ("Criminal offense code X"), not guesses; they are not in the 4-digit
-  dict → **unresolved but not wrong**.
+**Verdict (checked vs AFG_GER7, 2026-06-04): no hallucination, but notes.**
+- 1-digit `0` → MASTER placeholder "Criminal offense code 0"; **DST: `0` = Uoplyst**
+  (unknown). FILLABLE.
+- 2-digit groups verified vs DST. `12`=Voldsforbrydelser and `13`=Ejendomsforbrydelser
+  match exactly. Two use older/umbrella wording (semantically correct, can be aligned):
+  `11` MASTER "Sædelighedsforbrydelser" vs DST current **"Seksualforbrydelser"**;
+  `14` MASTER "Andre straffelovsforbrydelser" vs DST **"Andre forbrydelser"**;
+  `38` MASTER "Særlovsovertrædelser" vs DST **"Særlove i øvrigt"** (38 is the residual
+  special-law subgroup, not the whole 3x umbrella — slightly imprecise).
+- 7-digit detail codes starting with **1** (`1146000`,`1465720`,`1470`,`1480505`):
+  their 4-digit prefixes (1146/1465/1470/1480) are **not in the repo dict** (neighbours
+  like 1145/1460/1475/1485 exist), so they are valid-looking GER7 codes from another
+  vintage but **unverified** here; MASTER carries honest group placeholders, not guesses.
+- Codes starting with **4** (`4010`,`4020`,`4010825`,`4010840`,`4020340`,`4020515`,
+  `4020630`,`4020910`): **NOT valid GER7** — GER7's first digit is 0–3 and the dict has
+  zero 4xxx codes. Anomalous (different coding or data artifact); MASTER labels are
+  honest "Criminal offense code X" placeholders. **Flag — do not treat as GER7.**
 
-**Action (later):** tag the 5 group codes to `CSV:SOC_ger7_dict`; detail codes need a
-fuller GER source (DST) — leave as honest placeholders until then.
+**Action (later):** fill `0`=Uoplyst; tag the 2-digit groups to `AFG_GER7` and optionally
+align `11`/`14`/`38` to DST current wording; obtain the full AFG_GER7 4-digit value set
+to resolve the 1xxx detail codes; investigate the 4xxx codes' true origin separately.
 
 ---
 
@@ -69,16 +86,24 @@ fuller GER source (DST) — leave as honest placeholders until then.
 (343/356 rows sourced `CSV:DEM_kom`) + DST kommune classification for the 9xx
 territorial codes.
 
-**Verdict: no hallucination; mixed.**
-- `011` → "Told og Skattestyrelsen" is **CORRECT/untagged** (matches dict `DEM_kom_11`).
-- `010`/`012`/`019` are empty placeholders that are **FILLABLE from the dict**:
-  `DEM_kom_10`=Sømandsskattekontoret, `DEM_kom_12`=ATP, `DEM_kom_19`=Administrativ (Sygehusene).
-- `955`/`956`/`959`/`960` (Grønland / Grønlandsk kommune / Udlandet / Færøerne) are
-  plausible standard special codes but **not in the repo dict** → **UNVERIFIED**, need
-  DST. `957`/`958`/`004`/`007`/`009` are placeholders, not in dict.
+**Authoritative source checked:** DST TIMES variable **KOM** (bopælskommune) —
+<https://www.dst.dk/da/Statistik/dokumentation/Times/moduldata-for-befolkning-og-valg/kom>
+— and the repo dict `DEM_kom_dict.csv` (which mirrors it).
 
-**Action (later):** fill `010`/`012`/`019` from dict + tag `011`; verify the 9xx /
-0xx special codes against the official DST kommune list before asserting.
+**Verdict: no hallucination; mixed (2026-06-04, checked vs DST KOM).**
+- `011` → "Told og Skattestyrelsen" **CORRECT/untagged** (matches DST KOM / dict `DEM_kom_11`).
+- `010`/`012`/`019` are empty placeholders, **FILLABLE** and confirmed by DST KOM + dict:
+  `10`=Sømandsskattekontoret, `12`=ATP, `19`=Administrativ (Sygehusene).
+- `955`/`956`/`957`/`958`/`959`/`960` and `004`/`007`/`009`: **NOT in the DST KOM value
+  set nor the repo dict** → **UNVERIFIED**. DST KOM codes Greenland as `901`–`953`
+  (Christianshåb, Godthåb, Jakobshavn, Thule, Angmagssalik, Scoresbysund, …) and uses
+  `961`=Udenfor kommunal inddeling / `999`=Uoplyst kommune for special cases — there is
+  **no 955–960 in standard KOM**. So the current `955`=Grønland / `960`=Færøerne /
+  `959`=Udlandet labels are plausible but come from a non-standard/older coding; **do
+  not assert**. Need DST Forskningsservice or the original `.pt`.
+
+**Action (later):** fill `010`/`012`/`019` from DST KOM/dict + tag `011`; leave the
+9xx + `004`/`007`/`009` flagged unverified pending DST.
 
 ---
 
@@ -129,8 +154,8 @@ Not a hallucination — labels were just untagged.
 | Category | Source | Verdict | In repo? |
 |----------|--------|---------|----------|
 | SOC_frakkod (5+4) | DST `AFG_FRAKKOD` (KRAF) = `raw/SOC_frakkod.txt` | **✅ FIXED** (7 sourced, 2 unresolved) | ✅ |
-| SOC_ger7 (18) | `SOC_ger7_dict.csv` + DST kriminalstatistik | correct groups / honest placeholders | ✅ (groups) |
-| DEM_kom (13) | `DEM_kom_dict.csv` + DST kommune list | correct/fillable; 9xx need DST | ✅ (most) |
+| SOC_ger7 (18) | DST `AFG_GER7` (KRAF) + `SOC_ger7_dict.csv` | groups correct (0=Uoplyst fillable; 11/14/38 wording); 1xxx need full DST list; **4xxx not valid GER7** | ✅ (groups) |
+| DEM_kom (13) | DST KOM + `DEM_kom_dict.csv` | 011 correct; 010/012/019 fillable; 9xx + 004/007/009 NOT in KOM → unverified | partial |
 | DEM_familie (9) | DST TIMES FAMILIE_TYPE | **CORRECT — all 9 verified** | ❌ (DST URL) |
 | EDU_udel (25) | DST TIMES `UDEL` (KOTRE) | **CORRECT — all 24 verified verbatim** | ❌ (DST URL) |
 
