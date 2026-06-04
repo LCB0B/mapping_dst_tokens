@@ -93,4 +93,11 @@ abbreviated procedure strings and applying back to all rows
   must start with its `description_en_official` specialty); the 88 were stripped and
   re-translated under strict id-fidelity. Final gate: **0 specialty mismatches** across
   all 6,134 rows. Run `python3 scripts/validate_hea_speciale.py` as a regression check.
-- **Final tally:** medium 4,493 / low 1,558; integrity `vocab=master=mappings=40,465`.
+- **Medium-row verification sweep.** A detector (word shared between `description_da_full`
+  and `description_en`, excluding cognates/proper nouns) flagged glossary-translated `medium`
+  rows that still held a stray untranslated Danish word (e.g. `Albue`→now "elbow",
+  `Plastfyld`→"plastic (composite) filling"); ~1,770 were re-translated by a review workflow.
+  A second id-fidelity slip (45 Paediatrics rows) was caught by the gate and re-fixed.
+- **Final tally:** medium 4,412 / low 1,639; **0 specialty mismatches** (gate clean);
+  integrity `vocab=master=mappings=40,465`. Of the ~4,762 rows with a translatable procedure,
+  ~93% are clean `medium`; the rest are placeholders, lab analyte notation, or honest `low`.
