@@ -43,13 +43,14 @@ DSE77,DSE77,8,medium,danish
 "DSE77_inferred (fully inferred, outside standard DSE77 range)","DSE77_inferred (fully inferred, outside standard DSE77 range)",1,medium,danish
 dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),7,medium,danish
 dual_source_special2_spec6,dual_source_special2_spec6,4448,medium,danish
+esundhed:lmdb_voltypecode,esundhed:lmdb_voltypecode,168,medium,danish
 generated:quantile_percentile,generated:quantile_percentile,2152,medium,english
 generated_pattern,generated_pattern,556,medium,english
 manual_demographic_events,manual_demographic_events,5,medium,english
 manual_update,manual_update,555,medium,english
 none,none,9,medium,danish
 none|dict_fill,none|dict_fill,24,medium,danish
-none|generated,none|generated,717,medium,danish
+none|generated,none|generated,554,medium,danish
 none|generated|generated,none|generated|generated,139,medium,danish
 none|generated|generated|generated,none|generated|generated|generated,5,medium,danish
 none|icd8_raw,none|icd8_raw,549,medium,danish
@@ -61,4 +62,4 @@ raw_lab_nace,raw_lab_nace,871,high,danish
 raw_lab_tilstand_kode,raw_lab_tilstand_kode,47,high,danish
 raw_soc_frakkod,raw_soc_frakkod,177,high,danish
 special2_only,special2_only,1680,medium,danish
-vocab_reconciliation,vocab_reconciliation,10,medium,danish
+vocab_reconciliation,vocab_reconciliation,5,medium,danish

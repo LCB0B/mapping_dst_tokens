@@ -101,3 +101,34 @@ abbreviated procedure strings and applying back to all rows
 - **Final tally:** medium 4,412 / low 1,639; **0 specialty mismatches** (gate clean);
   integrity `vocab=master=mappings=40,465`. Of the ~4,762 rows with a translatable procedure,
   ~93% are clean `medium`; the rest are placeholders, lab analyte notation, or honest `low`.
+
+## 8. HEA LMDB drug-volume categories — hallucinated labels corrected (2026-06-04)
+
+A user flag (these "HEA procedure-code prefixes" are actually drug dosage / LMDB
+VOLUME + VOLTYPECODE) exposed a HARD-RULES violation that had been committed:
+**168 rows** across 13 HEA categories (`DDK, DW, DWG, DWK, GA, GI, GP, L, MG, ML,
+PK, ST, TU`) plus the bare `HEA_` carried invented clinical meanings — e.g.
+`HEA_GA`="gestational age weeks", `HEA_MG`="specialist visits", `HEA_ML`="lab tests",
+`HEA_ST`="inpatient days", `HEA_L`="medication prescriptions", `HEA_DW`="DW diagnosis
+code prefix" — all tagged `source=none|generated` / `vocab_reconciliation`.
+
+**What they really are:** the `VOLTYPECODE` unit types for the `VOLUME` variable in
+DST's Lægemiddeldatabasen (LMDB / Lægemiddelstatistikregisteret). `VOLUME` = numeric
+quantity of one medicine package, only meaningful together with its unit
+(`VOLTYPECODE`). The `manual_bin_*`/`over_1000` values are binned VOLUME ranges in
+that unit. The bare `HEA_` (token 10278, interleaved inside the volume-bin token
+block) is the documented blank VOLTYPECODE (non-specific medicine/quantity/fee/
+veterinary). Confirmed two ways: the 13 prefixes match the VOLTYPECODE value set
+**one-for-one**, and the values are all binned quantities.
+
+**Source (cited):** esundhed.dk · Lægemiddelstatistikregisteret · documentation
+`rid=14&tid=63&vid=396` (VOLTYPECODE) / `vid=399` (VOLUME); cross-checked vs
+`dst.dk/extranet/ForskningVariabellister/LMDB - Lægemiddeldatabasen.html`.
+
+**Fix:** `scripts/fix_hea_volume_voltypecode.py` rewrote all 168 rows
+(`description`, `description_da`, `description_en`, `description_short`) to sourced
+unit labels; set `source=esundhed:lmdb_voltypecode`,
+`description_en_source=dst-lmdb-voltypecode`, `confidence_level=high` (13 named
+categories, direct code→doc match) / `medium` (bare `HEA_`, blank-voltypecode
+inference). token_id/code/value untouched; integrity `vocab=master=mappings=40,465`,
+regeneration idempotent. **Not invented:** every label is the documented VOLTYPETXT.

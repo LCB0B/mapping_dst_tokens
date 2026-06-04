@@ -78,7 +78,7 @@ One CSV per category. Columns: `code, prefix, database, value, token_id`. These 
 
 - **DEM/** (25 categories): Demographics — municipalities (kom), countries (statsb, opr), birth data, family structure, immigration/emigration events
 - **EDU/** (18 categories): Education — AUDD post-secondary, UDD higher ed, DISCED classification, grades, ECTS, courses
-- **HEA/** (19 categories): Health — ICD-10 diagnoses, ICD-8 codes (numeric values without D prefix), ATC medications, medical specialties, procedure codes (DDK, DW, DWG, DWK, GA, GI, GP, L, MG, ML, PK, ST, TU)
+- **HEA/** (19 categories): Health — ICD-10 diagnoses, ICD-8 codes (numeric values without D prefix), ATC medications, medical specialties, and **LMDB drug-volume bins keyed by VOLTYPECODE** (DDK, DW, DWG, DWK, GA, GI, GP, L, MG, ML, PK, ST, TU — these are *not* procedure codes; see "LMDB VOLUME / VOLTYPECODE" under Key Domain Knowledge)
 - **LAB/** (41 categories): Labor market — DISCO/DISCO-08 occupations, DB07/NACE/branche industries, socio-economic status, income quantiles, employment
 - **SOC/** (23 categories): Social/criminal — GER7 offense codes, legal paragraphs (pgf), sentence types, placement types
 - **SPECIAL/** (1 category): Model tokens [PAD], [CLS], [SEP], [UNK], [MASK]
@@ -164,6 +164,26 @@ truth; if it ever diverges from MAPPINGS/, see `scripts/reconcile_master_from_ma
 - Codes with `D` prefix (e.g., DA001, DG4732) are **ICD-10** with Danish chapter prefixes
 - Numeric-only codes (e.g., 00009, 01101) are **ICD-8** codes — a legacy classification
 - ICD-8 placeholders were filled; HEA_ICD10 official English now comes from WHO ICD-10 2019.
+
+### LMDB VOLUME / VOLTYPECODE (the DDK/DW/DWG/DWK/GA/GI/GP/L/MG/ML/PK/ST/TU categories)
+These 13 HEA categories plus the bare `HEA_` are **not procedure codes** — they are
+the **`VOLTYPECODE` unit types** for the **`VOLUME`** variable in DST's
+Lægemiddeldatabasen / Lægemiddelstatistikregisteret (LMDB). `VOLUME` is the numeric
+quantity of one medicine package and must always be read together with its unit
+(`VOLTYPECODE`). Each category = one unit; the `manual_bin_*`/`over_1000` values are
+binned `VOLUME` ranges *in that unit*. The bare `HEA_` is the documented blank
+VOLTYPECODE (non-specific medicine / quantity / fee / veterinary).
+Authoritative source (cited in `source=esundhed:lmdb_voltypecode`,
+`description_en_source=dst-lmdb-voltypecode`):
+`esundhed.dk/api/sitecore/documentation/documentation?rid=14&tid=63&vid=396` (VOLUME=vid=399).
+Unit map: DDK=DøgnDosis DK · DW=DDD WHO Index · DWG=DDD WHO Guidelines ·
+DWK=DDD WHO Kombinationsliste · GA=g aktivt stof · GI=g iod · GP=g præparat · L=L ·
+MG=mg aktivt stof · ML=ml · PK=pakninger · ST=Stk · TU=tusind enheder.
+**History:** these 168 rows previously held hallucinated clinical labels
+("gestational age weeks", "specialist visits", "inpatient days", "lab tests",
+"medication prescriptions", "DW diagnosis code prefix" …) tagged `source=none|generated`
+— a textbook HARD-RULES violation, corrected 2026-06-04 by
+`scripts/fix_hea_volume_voltypecode.py`.
 
 ### Remaining `[Unresolved]` codes (70 total)
 Only two categories still carry `[Unresolved …]` placeholders — both are the

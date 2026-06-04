@@ -153,6 +153,34 @@ if s.endswith(".0"):
 
 ---
 
+## 4b. HEA drug-volume categories are LMDB VOLUME/VOLTYPECODE (not procedure codes)
+
+The 13 HEA categories `DDK, DW, DWG, DWK, GA, GI, GP, L, MG, ML, PK, ST, TU` (+ the
+bare `HEA_`) were originally labelled "procedure codes" and filled with invented
+clinical meanings (`HEA_GA`="gestational age", `HEA_MG`="specialist visits",
+`HEA_ML`="lab tests", `HEA_ST`="inpatient days", `HEA_L`="medication prescriptions",
+`HEA_DW`="DW diagnosis code prefix", …), all `source=none|generated`. **All wrong** —
+classic HARD-RULES hallucination (plausible medical phrase guessed from the abbrev).
+
+They are the **`VOLTYPECODE`** unit types for the **`VOLUME`** variable in the
+Lægemiddeldatabasen (LMDB). VOLUME = numeric quantity of one medicine package, only
+interpretable with its unit; the `manual_bin_*`/`over_1000` values are binned VOLUME
+ranges in that unit. The 13 prefixes match the official VOLTYPECODE value set
+one-for-one; the bare `HEA_` (token 10278, interleaved in the volume-bin token block)
+is the blank VOLTYPECODE (non-specific medicine/quantity/fee/veterinary).
+
+Unit map (verbatim VOLTYPETXT): DDK=DøgnDosis DK, DW=DDD WHO Index,
+DWG=DDD WHO Guidelines, DWK=DDD WHO Kombinationsliste, GA=g (aktivt stof),
+GI=g (iod), GP=g (præparat), L=L, MG=mg (aktivt stof), ML=ml, PK=pakninger,
+ST=Stk, TU=tusind enheder.
+
+Source: esundhed.dk Lægemiddelstatistikregisteret docs `rid=14&tid=63&vid=396`
+(VOLTYPECODE) / `vid=399` (VOLUME). Fixed 2026-06-04 by
+`scripts/fix_hea_volume_voltypecode.py` (168 rows; `source=esundhed:lmdb_voltypecode`,
+`description_en_source=dst-lmdb-voltypecode`, confidence high/medium).
+
+---
+
 ## 5. MASTER column schema
 
 | Column | Meaning |
