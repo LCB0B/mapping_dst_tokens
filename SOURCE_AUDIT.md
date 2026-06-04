@@ -250,6 +250,29 @@ Not resolvable in-repo (left, not invented): **`DEM_far`/`DEM_mor`** weak codes 
 are absent from the FTDB value set (`FAR/MOR_FOED_ADOP` has 0,11,12,14,…). **`EDU_tilg`**
 (`KOTRE:TILG_ART`) → DST-fetch batch (b).
 
+## Batch (b) — DST value-set fetch (2026-06-04, `scripts/fix_dst_fetch_batch_b.py`)
+
+A workflow fetched the DST TIMES value set for each remaining variable; results applied:
+- **`DEM_ie`** (4) — **HALLUCINATED**: was "Immigration/Emigration event"; `BEF:IE_TYPE` is
+  *herkomst* → `type_1`=Personer med dansk oprindelse, `type_2`=Indvandrere,
+  `type_3`=Efterkommere, `type_unknown`=Uoplyst. FIXED, `source=dst_bef_ie_type`.
+- **`HEA_urgency`** — `LPR_ADM:INDM` (Indlæggelsesmåde) has only `1`=Akut, `2`=Ikke-akut →
+  fixed those; the `9`/`ATA*` codes are **not in the INDM value set** (older/triage source
+  values) → left unresolved.
+- **`HEA_patienttype`** (4) — matches `LPR_ADM:PATTYPE` (0=Heldøgn/1=Deldøgn/2=Ambulant/
+  3=Skadestue) → re-tagged `source=dst_lpr_pattype` (+ aligned code 0 Danish).
+- **`DEM_relation`** (5) — labels (Barn/Forælder/Helsøskende/Halvsøskende/Søskende ukendt)
+  are the model's correct derived categories from `FAMILY_RELATIONS:RELATION` → re-tagged.
+- **`EDU_tilg`** (8) — labels match `KOTRE:TILG_ART` value set verbatim → re-tagged.
+
+Confirmed correct already (no change): **`LAB_socio13`** (21) matches `AKM:SOCIO13` verbatim.
+**No public value set → left unresolved (not guessed):** `LAB_tilstand` (`AMRUN:TILSTAND_KODE_AMR`
+— DST states "ingen værdisæt"; 5-digit codes only via Forskningsservice) and `LAB_socio` `gl_*`
+(`AKM:SOCIO_GL` — confirmed real variable, value set not published). ⚠️ Note: 17 of the 51
+`gl_*` rows still carry **unsourced specific labels** (e.g. `gl_31`="Director…"); since SOCIO_GL
+has no public value set these can't be verified — candidates to re-mark `[Unresolved]` unless the
+original `.pt`/Forskningsservice confirms them.
+
 ---
 
 ## Summary
