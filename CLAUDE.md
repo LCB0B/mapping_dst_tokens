@@ -193,9 +193,15 @@ historically-damaged legacy codes (see HARD RULES). **Do not guess them:**
 - **`LAB_db07` 5-digit (36)** — e.g. `11100`…`89900`. DST DB07 is 6-digit (`011100`);
   the leading-zero mapping is ambiguous and `LAB_db07_dict.csv` (3-digit) lacks them.
   Needs DST Forskningsservice or the original `.pt` the vocab was built from.
-- **`LAB_socio` `gl_*` (34)** — old SOCIO ("SOCIO_gl"). Only `raw/dst_socio_1997.pdf`
-  covers it; extraction is ambiguous (1- vs 2-digit, socioeconomic vs occupation).
-  Resolve only via human-verified reading of that PDF.
+- **`LAB_socio` `gl_*` (51)** — `AKM:SOCIO_GL` = "Socioøkonomisk klassifikation 1976–1990",
+  i.e. the **`ARBSTIL`** member of the socio family (ARBSTIL 1980-93 → NYARB → SOCSTIL_KODE →
+  SOC_STATUS_KODE). DST publishes only the **harmonized 3-digit** version
+  (`raw/dst_downloads/arbstil_kode_1980.csv`); the **raw 2-digit** codes our `gl_*` use are
+  internal-only → DST Forskningsservice / original `.pt`. Group structure (from
+  `idan_vde.pdf`): 11-15 selvstændige, 20 medhj. ægtefælle, 31-37 lønmodtagere, 40 arbejdsløse,
+  50/55 tilbagetrækning, 60 pensionister, 90/91/92 andre. 34 are `[Unresolved]`; 17 carry
+  unsourced labels (only `gl_20`/`gl_40` confirmable; `gl_41/42/43/49/51/52/53` are anachronistic
+  for 1976-90). See `SOURCE_AUDIT.md` for the full deep-dive. Do NOT guess the per-code labels.
 
 ### Hierarchical Classifications
 Eight categories have hierarchical parent-child structure encoded in `parent_code` and `hierarchy_level` columns:

@@ -268,10 +268,31 @@ A workflow fetched the DST TIMES value set for each remaining variable; results 
 Confirmed correct already (no change): **`LAB_socio13`** (21) matches `AKM:SOCIO13` verbatim.
 **No public value set → left unresolved (not guessed):** `LAB_tilstand` (`AMRUN:TILSTAND_KODE_AMR`
 — DST states "ingen værdisæt"; 5-digit codes only via Forskningsservice) and `LAB_socio` `gl_*`
-(`AKM:SOCIO_GL` — confirmed real variable, value set not published). ⚠️ Note: 17 of the 51
-`gl_*` rows still carry **unsourced specific labels** (e.g. `gl_31`="Director…"); since SOCIO_GL
-has no public value set these can't be verified — candidates to re-mark `[Unresolved]` unless the
-original `.pt`/Forskningsservice confirms them.
+(`AKM:SOCIO_GL` — see deep-dive below).
+
+## LAB_socio `gl_*` = AKM `SOCIO_GL` (1976–1990) — deep-dive (2026-06-04)
+
+`SOCIO_GL` = AKM "Socioøkonomisk klassifikation fra 1976 til 1990" (DST AKM variable list).
+It is the **`ARBSTIL`** member of the socio family (per the Aarhus LMDG IDAN var-description
+`idan_vde.pdf`): `ARBSTIL` 1980-1993 → `NYARB` 1994-95 → `SOCSTIL_KODE` 1996-2007 →
+`SOC_STATUS_KODE` 2008-. Authoritative **group structure** (idan_vde): `11-15`=selvstændige,
+`20`=medhjælpende ægtefælle, `31-37`=lønmodtagere, `40`=arbejdsløse, `50/55`=tilbagetrækning,
+`60`=pensionister, `90/91/92`=others. The detailed benefit subdivisions were introduced **1994+**.
+
+**The raw 2-digit value set is NOT public.** DST's TIMES `ARBSTIL` page
+(`moduldata-for-arbejdsmarked/arbstil`) links a value set `SOCIO_ARB_ARBSTIL_KODE_V1_1980`,
+but that nomenclature (downloaded to `raw/dst_downloads/arbstil_kode_1980.csv`) is the
+**harmonized 3-digit** scheme (110/131/200/311…/517) — it does **not** contain the raw 2-digit
+codes our `gl_*` use. So the raw codes live only in DST Forskningsservice / the original `.pt`
+(HARD RULE #5). Searched extensively + IDA arbejdsnotat 27 (scanned image, unreadable).
+
+**Verdict on the 17 labelled `gl_*`:** unsourced. `gl_20` (Medhjælpende ægtefælle) and `gl_40`
+(Arbejdsløs) are **confirmed** by idan_vde's group structure. `gl_41/42/43/49/51/52/53`
+(orlov/barselsdagpenge/sygedagpenge/revalidering/aktivering/ledighedsydelse/efterløn-detail) are
+**anachronistic** for 1976-1990 → almost certainly hallucinated. The rest (`11/12/19/31/32/33/39/50`)
+are group-plausible but not confirmable per-code. **Recommendation:** re-mark the anachronistic +
+unconfirmable ones `[Unresolved]` (keeping `gl_20`/`gl_40`), OR fill all 51 from the raw `.pt` /
+DST Forskningsservice value set if available. Left unchanged pending that decision.
 
 ---
 
