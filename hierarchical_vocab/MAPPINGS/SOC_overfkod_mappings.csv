@@ -1,3 +1,3 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-SOC_overfkod_-,SOC,overfkod,-,Transfer code: -,,,,Transfer code: -,,,translated,none|generated|generated|generated,medium,danish,,,842174,271556,0.030077
-SOC_overfkod_X,SOC,overfkod,X,Transfer code: X,,,,Transfer code: X,,,translated,none|generated|generated|generated,medium,danish,,,269744,62120,0.00688
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+SOC_overfkod_-,SOC,overfkod,-,Transfer code: -,,,,Transfer code: -,,,translated,none|generated|generated|generated,medium,danish,,,842174,271556,0.030077,,
+SOC_overfkod_X,SOC,overfkod,X,Transfer code: X,,,,Transfer code: X,,,translated,none|generated|generated|generated,medium,danish,,,269744,62120,0.00688,,

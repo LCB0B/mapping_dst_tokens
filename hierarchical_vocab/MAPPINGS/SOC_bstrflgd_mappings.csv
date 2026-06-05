@@ -1,11 +1,11 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-SOC_bstrflgd_Q1,SOC,bstrflgd,Q1,sentence length: quantile 1,domslængde: kvantil 1,,,sentence length: quantile 1,,,translated,none|generated,medium,danish,,,93393,82082,0.009091
-SOC_bstrflgd_Q2,SOC,bstrflgd,Q2,sentence length: quantile 2,domslængde: kvantil 2,,,sentence length: quantile 2,,,translated,none|generated,medium,danish,,,53876,49263,0.005456
-SOC_bstrflgd_Q4,SOC,bstrflgd,Q4,sentence length: quantile 4,domslængde: kvantil 4,,,sentence length: quantile 4,,,translated,none|generated,medium,danish,,,30936,28408,0.003146
-SOC_bstrflgd_Q8,SOC,bstrflgd,Q8,sentence length: quantile 8,domslængde: kvantil 8,,,sentence length: quantile 8,,,translated,none|generated,medium,danish,,,9901,8783,0.000973
-SOC_bstrflgd_Q7,SOC,bstrflgd,Q7,sentence length: quantile 7,domslængde: kvantil 7,,,sentence length: quantile 7,,,translated,none|generated,medium,danish,,,15964,14217,0.001575
-SOC_bstrflgd_Q3,SOC,bstrflgd,Q3,sentence length: quantile 3,domslængde: kvantil 3,,,sentence length: quantile 3,,,translated,none|generated,medium,danish,,,37441,34733,0.003847
-SOC_bstrflgd_Q5,SOC,bstrflgd,Q5,sentence length: quantile 5,domslængde: kvantil 5,,,sentence length: quantile 5,,,translated,none|generated,medium,danish,,,22869,21145,0.002342
-SOC_bstrflgd_Q6,SOC,bstrflgd,Q6,sentence length: quantile 6,domslængde: kvantil 6,,,sentence length: quantile 6,,,translated,none|generated,medium,danish,,,12889,12031,0.001333
-SOC_bstrflgd_Q9,SOC,bstrflgd,Q9,sentence length: quantile 9,domslængde: kvantil 9,,,sentence length: quantile 9,,,translated,none|generated,medium,danish,,,942,862,9.5e-05
-SOC_bstrflgd_Q10,SOC,bstrflgd,Q10,sentence length: quantile 10,domslængde: kvantil 10,,,sentence length: quantile 10,,,translated,none|generated,medium,danish,,,106,96,1.1e-05
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+SOC_bstrflgd_Q1,SOC,bstrflgd,Q1,sentence length: quantile 1,domslængde: kvantil 1,,,sentence length: quantile 1,,,translated,none|generated,medium,danish,,,93393,82082,0.009091,,
+SOC_bstrflgd_Q2,SOC,bstrflgd,Q2,sentence length: quantile 2,domslængde: kvantil 2,,,sentence length: quantile 2,,,translated,none|generated,medium,danish,,,53876,49263,0.005456,,
+SOC_bstrflgd_Q4,SOC,bstrflgd,Q4,sentence length: quantile 4,domslængde: kvantil 4,,,sentence length: quantile 4,,,translated,none|generated,medium,danish,,,30936,28408,0.003146,,
+SOC_bstrflgd_Q8,SOC,bstrflgd,Q8,sentence length: quantile 8,domslængde: kvantil 8,,,sentence length: quantile 8,,,translated,none|generated,medium,danish,,,9901,8783,0.000973,,
+SOC_bstrflgd_Q7,SOC,bstrflgd,Q7,sentence length: quantile 7,domslængde: kvantil 7,,,sentence length: quantile 7,,,translated,none|generated,medium,danish,,,15964,14217,0.001575,,
+SOC_bstrflgd_Q3,SOC,bstrflgd,Q3,sentence length: quantile 3,domslængde: kvantil 3,,,sentence length: quantile 3,,,translated,none|generated,medium,danish,,,37441,34733,0.003847,,
+SOC_bstrflgd_Q5,SOC,bstrflgd,Q5,sentence length: quantile 5,domslængde: kvantil 5,,,sentence length: quantile 5,,,translated,none|generated,medium,danish,,,22869,21145,0.002342,,
+SOC_bstrflgd_Q6,SOC,bstrflgd,Q6,sentence length: quantile 6,domslængde: kvantil 6,,,sentence length: quantile 6,,,translated,none|generated,medium,danish,,,12889,12031,0.001333,,
+SOC_bstrflgd_Q9,SOC,bstrflgd,Q9,sentence length: quantile 9,domslængde: kvantil 9,,,sentence length: quantile 9,,,translated,none|generated,medium,danish,,,942,862,9.5e-05,,
+SOC_bstrflgd_Q10,SOC,bstrflgd,Q10,sentence length: quantile 10,domslængde: kvantil 10,,,sentence length: quantile 10,,,translated,none|generated,medium,danish,,,106,96,1.1e-05,,

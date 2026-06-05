@@ -1,4 +1,4 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-LAB_akm_type_akm_primary,LAB,akm,type_akm_primary,Primary employment,,,,Primary employment,,,translated,none|generated,medium,danish,,,251872029,9007910,0.997699
-LAB_akm_type_akm_independent,LAB,akm,type_akm_independent,Self-employed/independent,,,,Self-employed/independent,,,translated,none|generated,medium,danish,,,251872029,9007910,0.997699
-LAB_akm_type_akm_wagereceiver,LAB,akm,type_akm_wagereceiver,Employment type: wagereceiver,,,,Employment type: wagereceiver,,,translated,none|generated,medium,danish,,,251872029,9007910,0.997699
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+LAB_akm_type_akm_primary,LAB,akm,type_akm_primary,Primary employment,,,,Primary employment,,,translated,none|generated,medium,danish,,,251872029,9007910,0.997699,,
+LAB_akm_type_akm_independent,LAB,akm,type_akm_independent,Self-employed/independent,,,,Self-employed/independent,,,translated,none|generated,medium,danish,,,251872029,9007910,0.997699,,
+LAB_akm_type_akm_wagereceiver,LAB,akm,type_akm_wagereceiver,Employment type: wagereceiver,,,,Employment type: wagereceiver,,,translated,none|generated,medium,danish,,,251872029,9007910,0.997699,,

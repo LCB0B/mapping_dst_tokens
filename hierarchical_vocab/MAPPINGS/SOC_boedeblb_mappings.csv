@@ -1,11 +1,11 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-SOC_boedeblb_Q2,SOC,boedeblb,Q2,fine amount: quantile 2,bødebeløb: kvantil 2,,,fine amount: quantile 2,,,translated,none|generated,medium,danish,,,2143977,1187424,0.131517
-SOC_boedeblb_Q1,SOC,boedeblb,Q1,fine amount: quantile 1,bødebeløb: kvantil 1,,,fine amount: quantile 1,,,translated,none|generated,medium,danish,,,1472458,946961,0.104884
-SOC_boedeblb_Q3,SOC,boedeblb,Q3,fine amount: quantile 3,bødebeløb: kvantil 3,,,fine amount: quantile 3,,,translated,none|generated,medium,danish,,,406542,295856,0.032768
-SOC_boedeblb_Q6,SOC,boedeblb,Q6,fine amount: quantile 6,bødebeløb: kvantil 6,,,fine amount: quantile 6,,,translated,none|generated,medium,danish,,,48006,43200,0.004785
-SOC_boedeblb_Q4,SOC,boedeblb,Q4,fine amount: quantile 4,bødebeløb: kvantil 4,,,fine amount: quantile 4,,,translated,none|generated,medium,danish,,,176273,136167,0.015082
-SOC_boedeblb_Q5,SOC,boedeblb,Q5,fine amount: quantile 5,bødebeløb: kvantil 5,,,fine amount: quantile 5,,,translated,none|generated,medium,danish,,,91959,77302,0.008562
-SOC_boedeblb_Q7,SOC,boedeblb,Q7,fine amount: quantile 7,bødebeløb: kvantil 7,,,fine amount: quantile 7,,,translated,none|generated,medium,danish,,,14963,14011,0.001552
-SOC_boedeblb_Q9,SOC,boedeblb,Q9,fine amount: quantile 9,bødebeløb: kvantil 9,,,fine amount: quantile 9,,,translated,none|generated,medium,danish,,,3112,2880,0.000319
-SOC_boedeblb_Q10,SOC,boedeblb,Q10,fine amount: quantile 10,bødebeløb: kvantil 10,,,fine amount: quantile 10,,,translated,none|generated,medium,danish,,,1917,1644,0.000182
-SOC_boedeblb_Q8,SOC,boedeblb,Q8,fine amount: quantile 8,bødebeløb: kvantil 8,,,fine amount: quantile 8,,,translated,none|generated,medium,danish,,,4737,4419,0.000489
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+SOC_boedeblb_Q2,SOC,boedeblb,Q2,fine amount: quantile 2,bødebeløb: kvantil 2,,,fine amount: quantile 2,,,translated,none|generated,medium,danish,,,2143977,1187424,0.131517,,
+SOC_boedeblb_Q1,SOC,boedeblb,Q1,fine amount: quantile 1,bødebeløb: kvantil 1,,,fine amount: quantile 1,,,translated,none|generated,medium,danish,,,1472458,946961,0.104884,,
+SOC_boedeblb_Q3,SOC,boedeblb,Q3,fine amount: quantile 3,bødebeløb: kvantil 3,,,fine amount: quantile 3,,,translated,none|generated,medium,danish,,,406542,295856,0.032768,,
+SOC_boedeblb_Q6,SOC,boedeblb,Q6,fine amount: quantile 6,bødebeløb: kvantil 6,,,fine amount: quantile 6,,,translated,none|generated,medium,danish,,,48006,43200,0.004785,,
+SOC_boedeblb_Q4,SOC,boedeblb,Q4,fine amount: quantile 4,bødebeløb: kvantil 4,,,fine amount: quantile 4,,,translated,none|generated,medium,danish,,,176273,136167,0.015082,,
+SOC_boedeblb_Q5,SOC,boedeblb,Q5,fine amount: quantile 5,bødebeløb: kvantil 5,,,fine amount: quantile 5,,,translated,none|generated,medium,danish,,,91959,77302,0.008562,,
+SOC_boedeblb_Q7,SOC,boedeblb,Q7,fine amount: quantile 7,bødebeløb: kvantil 7,,,fine amount: quantile 7,,,translated,none|generated,medium,danish,,,14963,14011,0.001552,,
+SOC_boedeblb_Q9,SOC,boedeblb,Q9,fine amount: quantile 9,bødebeløb: kvantil 9,,,fine amount: quantile 9,,,translated,none|generated,medium,danish,,,3112,2880,0.000319,,
+SOC_boedeblb_Q10,SOC,boedeblb,Q10,fine amount: quantile 10,bødebeløb: kvantil 10,,,fine amount: quantile 10,,,translated,none|generated,medium,danish,,,1917,1644,0.000182,,
+SOC_boedeblb_Q8,SOC,boedeblb,Q8,fine amount: quantile 8,bødebeløb: kvantil 8,,,fine amount: quantile 8,,,translated,none|generated,medium,danish,,,4737,4419,0.000489,,

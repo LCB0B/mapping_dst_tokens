@@ -1,164 +1,164 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-EDU_course_Engelsk,EDU,course,Engelsk,Course Engelsk,,,,Course Engelsk,,,translated,manual_update,medium,english,,,8927818,1397873,0.154826
-EDU_course_Fysik/kemi,EDU,course,Fysik/kemi,Course Fysik/kemi,,,,Course Fysik/kemi,,,translated,manual_update,medium,english,,,2972039,1311146,0.14522
-EDU_course_Dansk,EDU,course,Dansk,Course Dansk,,,,Course Dansk,,,translated,manual_update,medium,english,,,17377146,1409935,0.156162
-EDU_course_OBL,EDU,course,OBL,Course OBL,,,,Course OBL,,,translated,manual_update,medium,english,,,342465,269902,0.029894
-EDU_course_Matematik,EDU,course,Matematik,Course Matematik,,,,Course Matematik,,,translated,manual_update,medium,english,,,12228309,1407245,0.155864
-EDU_course_Tysk,EDU,course,Tysk,Course Tysk,,,,Course Tysk,,,translated,manual_update,medium,english,,,1548452,449471,0.049783
-EDU_course_Historie,EDU,course,Historie,Course Historie,,,,Course Historie,,,translated,manual_update,medium,english,,,2098608,1124122,0.124506
-EDU_course_Madkundskab,EDU,course,Madkundskab,Course Madkundskab,,,,Course Madkundskab,,,translated,manual_update,medium,english,,,107936,66042,0.007315
-EDU_course_Biologi,EDU,course,Biologi,Course Biologi,,,,Course Biologi,,,translated,manual_update,medium,english,,,2546055,1189569,0.131754
-EDU_course_Geografi,EDU,course,Geografi,Course Geografi,,,,Course Geografi,,,translated,manual_update,medium,english,,,1619183,1080694,0.119696
-EDU_course_Håndværk og design,EDU,course,Håndværk og design,Course Håndværk og design,Course Håndværk og design,,,Course: Crafts and design,,,translated,manual_update,medium,english,,,37103,21417,0.002372
-EDU_course_Idræt,EDU,course,Idræt,Course Idræt,Course Idræt,,,Course: Physical education,,,translated,manual_update,medium,english,,,1298959,832846,0.092244
-EDU_course_Kristendomskundskab,EDU,course,Kristendomskundskab,Course Kristendomskundskab,,,,Course Kristendomskundskab,,,translated,manual_update,medium,english,,,1209057,887012,0.098244
-EDU_course_Samfundsfag,EDU,course,Samfundsfag,Course Samfundsfag,,,,Course Samfundsfag,,,translated,manual_update,medium,english,,,2619416,1152112,0.127606
-EDU_course_Tysk 2. fremmedsprog,EDU,course,Tysk 2. fremmedsprog,Course Tysk 2. fremmedsprog,,,,Course Tysk 2. fremmedsprog,,,translated,manual_update,medium,english,,,2223845,665744,0.073737
-"EDU_course_Fællesprøve i fysik/kemi, biologi og geografi",EDU,course,"Fællesprøve i fysik/kemi, biologi og geografi","Course Fællesprøve i fysik/kemi, biologi og geografi","Course Fællesprøve i fysik/kemi, biologi og geografi",,,"Course: Joint exam in physics/chemistry, biology and geography",,,translated,manual_update,medium,english,,,320776,319158,0.035349
-EDU_course_Obligatorisk projektopgave,EDU,course,Obligatorisk projektopgave,Course Obligatorisk projektopgave,,,,Course Obligatorisk projektopgave,,,translated,manual_update,medium,english,,,819692,817510,0.090546
-EDU_course_Billedkunst,EDU,course,Billedkunst,Course Billedkunst,,,,Course Billedkunst,,,translated,manual_update,medium,english,,,293694,239759,0.026555
-EDU_course_Håndarbejde,EDU,course,Håndarbejde,Course Håndarbejde,Course Håndarbejde,,,Course: Needlework,,,translated,manual_update,medium,english,,,7378,5431,0.000602
-EDU_course_Fransk,EDU,course,Fransk,Course Fransk,,,,Course Fransk,,,translated,manual_update,medium,english,,,198540,71338,0.007901
-EDU_course_Fransk 2. fremmedsprog,EDU,course,Fransk 2. fremmedsprog,Course Fransk 2. fremmedsprog,,,,Course Fransk 2. fremmedsprog,,,translated,manual_update,medium,english,,,229952,78234,0.008665
-EDU_course_Musik,EDU,course,Musik,Course Musik,,,,Course Musik,,,translated,manual_update,medium,english,,,346768,213502,0.023647
-EDU_course_Obligatorisk selvvalgt opgave,EDU,course,Obligatorisk selvvalgt opgave,Course Obligatorisk selvvalgt opgave,,,,Course Obligatorisk selvvalgt opgave,,,translated,manual_update,medium,english,,,384521,382201,0.042332
-EDU_course_Frivillig selvvalgt opgave,EDU,course,Frivillig selvvalgt opgave,Course Frivillig selvvalgt opgave,,,,Course Frivillig selvvalgt opgave,,,translated,manual_update,medium,english,,,7065,7012,0.000777
-EDU_course_Latin,EDU,course,Latin,Course Latin,,,,Course Latin,,,translated,manual_update,medium,english,,,718,416,4.6e-05
-EDU_course_Sløjd,EDU,course,Sløjd,Course Sløjd,Course Sløjd,,,Course: Woodwork / sloyd,,,translated,manual_update,medium,english,,,11458,7894,0.000874
-EDU_course_Biologi/fysik/kemi,EDU,course,Biologi/fysik/kemi,Course Biologi/fysik/kemi,,,,Course Biologi/fysik/kemi,,,translated,manual_update,medium,english,,,32368,32359,0.003584
-EDU_course_Fri selvvalgt opgave,EDU,course,Fri selvvalgt opgave,Course Fri selvvalgt opgave,,,,Course Fri selvvalgt opgave,,,translated,manual_update,medium,english,,,10195,10086,0.001117
-EDU_course_Frivillig projektopgave (naturfag),EDU,course,Frivillig projektopgave (naturfag),Course Frivillig projektopgave (naturfag),,,,Course Frivillig projektopgave (naturfag),,,translated,manual_update,medium,english,,,385,381,4.2e-05
-EDU_course_Tysk 3. fremmedsprog,EDU,course,Tysk 3. fremmedsprog,Course Tysk 3. fremmedsprog,,,,Course Tysk 3. fremmedsprog,,,translated,manual_update,medium,english,,,21278,9527,0.001055
-EDU_course_Fransk 3. fremmedsprog,EDU,course,Fransk 3. fremmedsprog,Course Fransk 3. fremmedsprog,,,,Course Fransk 3. fremmedsprog,,,translated,manual_update,medium,english,,,17399,6662,0.000738
-EDU_course_Medier,EDU,course,Medier,Course Medier,,,,Course Medier,,,translated,manual_update,medium,english,,,377,333,3.7e-05
-EDU_course_Spansk,EDU,course,Spansk,Course Spansk,,,,Course Spansk,,,translated,manual_update,medium,english,,,1445,1216,0.000135
-"EDU_course_Fællesprøve i samfundsfag, historie",EDU,course,"Fællesprøve i samfundsfag, historie","Course Fællesprøve i samfundsfag, historie","Course Fællesprøve i samfundsfag, historie",,,"Course: Joint exam in social studies, history",,,translated,manual_update,medium,english,,,2083,2060,0.000228
-EDU_course_Fællesprøve i samfundsfag og historie,EDU,course,Fællesprøve i samfundsfag og historie,Course Fællesprøve i samfundsfag og historie,Course Fællesprøve i samfundsfag og historie,,,Course: Joint exam in social studies and history,,,translated,manual_update,medium,english,,,1132,1107,0.000123
-EDU_course_Iværksætter,EDU,course,Iværksætter,Course Iværksætter,Course Iværksætter,,,Course: Entrepreneurship,,,translated,manual_update,medium,english,,,659,558,6.2e-05
-EDU_course_Metal og motorværksted,EDU,course,Metal og motorværksted,Course Metal og motorværksted,Course Metal og motorværksted,,,Course: Metal and motor workshop,,,translated,manual_update,medium,english,,,275,240,2.7e-05
-EDU_course_Sundhed og sociale forhold,EDU,course,Sundhed og sociale forhold,Course Sundhed og sociale forhold,Course Sundhed og sociale forhold,,,Course: Health and social conditions,,,translated,manual_update,medium,english,,,387,329,3.6e-05
-EDU_course_Naturfag,EDU,course,Naturfag,Course Naturfag,,,,Course Naturfag,,,translated,manual_update,medium,english,,,71098,23112,0.00256
-EDU_course_Oldtidskundskab,EDU,course,Oldtidskundskab,Course Oldtidskundskab,,,,Course Oldtidskundskab,,,translated,manual_update,medium,english,,,618251,455394,0.050439
-EDU_course_Studieretningsprojekt,EDU,course,Studieretningsprojekt,Course Studieretningsprojekt,,,,Course Studieretningsprojekt,,,translated,manual_update,medium,english,,,534202,534202,0.059167
-EDU_course_Religion,EDU,course,Religion,Course Religion,,,,Course Religion,,,translated,manual_update,medium,english,,,683515,506701,0.056121
-EDU_course_Almen sprogforståelse,EDU,course,Almen sprogforståelse,Course Almen sprogforståelse,Course Almen sprogforståelse,,,Course: General linguistic understanding,,,translated,manual_update,medium,english,,,347474,347465,0.038485
-EDU_course_Naturgeografi,EDU,course,Naturgeografi,Course Naturgeografi,,,,Course Naturgeografi,,,translated,manual_update,medium,english,,,333310,201127,0.022276
-EDU_course_Almen studieforberedelse,EDU,course,Almen studieforberedelse,Course Almen studieforberedelse,,,,Course Almen studieforberedelse,,,translated,manual_update,medium,english,,,302112,302112,0.033461
-EDU_course_Spansk begyndersprog,EDU,course,Spansk begyndersprog,Course Spansk begyndersprog,,,,Course Spansk begyndersprog,,,translated,manual_update,medium,english,,,550805,187362,0.020752
-EDU_course_Fysik,EDU,course,Fysik,Course Fysik,,,,Course Fysik,,,translated,manual_update,medium,english,,,938970,522650,0.057888
-EDU_course_Kemi,EDU,course,Kemi,Course Kemi,,,,Course Kemi,,,translated,manual_update,medium,english,,,668807,346172,0.038341
-EDU_course_Naturvidenskabeligt grundforløb,EDU,course,Naturvidenskabeligt grundforløb,Course Naturvidenskabeligt grundforløb,Course Naturvidenskabeligt grundforløb,,,Course: Natural-science foundation course,,,translated,manual_update,medium,english,,,327719,327599,0.036284
-EDU_course_Studieområde - erhvervscase,EDU,course,Studieområde - erhvervscase,Course Studieområde - erhvervscase,Course Studieområde - erhvervscase,,,Course: Study area - business case,,,translated,manual_update,medium,english,,,138085,93150,0.010317
-EDU_course_Virksomhedsøkonomi,EDU,course,Virksomhedsøkonomi,Course Virksomhedsøkonomi,Course Virksomhedsøkonomi,,,Course: Business economics,,,translated,manual_update,medium,english,,,429665,147231,0.016307
-EDU_course_Kulturforståelse,EDU,course,Kulturforståelse,Course Kulturforståelse,Course Kulturforståelse,,,Course: Cultural understanding,,,translated,manual_update,medium,english,,,48066,36989,0.004097
-EDU_course_Tysk fortsættersprog,EDU,course,Tysk fortsættersprog,Course Tysk fortsættersprog,Course Tysk fortsættersprog,,,Course: German continuation language,,,translated,manual_update,medium,english,,,700333,291173,0.03225
-EDU_course_Afsætning,EDU,course,Afsætning,Course Afsætning,Course Afsætning,,,Course: Marketing,,,translated,manual_update,medium,english,,,441131,165019,0.018277
-EDU_course_Mediefag,EDU,course,Mediefag,Course Mediefag,,,,Course Mediefag,,,translated,manual_update,medium,english,,,219624,175675,0.019457
-EDU_course_Studieområde - det internationale område,EDU,course,Studieområde - det internationale område,Course Studieområde - det internationale område,Course Studieområde - det internationale område,,,Course: Study area - the international area,,,translated,manual_update,medium,english,,,155275,93169,0.010319
-EDU_course_Psykologi,EDU,course,Psykologi,Course Psykologi,,,,Course Psykologi,,,translated,manual_update,medium,english,,,440309,344536,0.03816
-EDU_course_Erhvervsøkonomi,EDU,course,Erhvervsøkonomi,Course Erhvervsøkonomi,Course Erhvervsøkonomi,,,Course: Business economics,,,translated,manual_update,medium,english,,,168199,101720,0.011266
-EDU_course_Organisation,EDU,course,Organisation,Course Organisation,,,,Course Organisation,,,translated,manual_update,medium,english,,,31659,26197,0.002902
-EDU_course_International økonomi,EDU,course,International økonomi,Course International økonomi,Course International økonomi,,,Course: International economics,,,translated,manual_update,medium,english,,,300494,149320,0.016538
-EDU_course_Samtidshistorie,EDU,course,Samtidshistorie,Course Samtidshistorie,,,,Course Samtidshistorie,,,translated,manual_update,medium,english,,,152094,112898,0.012504
-EDU_course_Finansiering,EDU,course,Finansiering,Course Finansiering,,,,Course Finansiering,,,translated,manual_update,medium,english,,,50372,38751,0.004292
-EDU_course_Erhvervsjura,EDU,course,Erhvervsjura,Course Erhvervsjura,,,,Course Erhvervsjura,,,translated,manual_update,medium,english,,,204912,158788,0.017587
-EDU_course_Informationsteknologi,EDU,course,Informationsteknologi,Course Informationsteknologi,,,,Course Informationsteknologi,,,translated,manual_update,medium,english,,,68907,42559,0.004714
-EDU_course_Fransk begyndersprog,EDU,course,Fransk begyndersprog,Course Fransk begyndersprog,,,,Course Fransk begyndersprog,,,translated,manual_update,medium,english,,,83338,27172,0.00301
-EDU_course_Bioteknologi,EDU,course,Bioteknologi,Course Bioteknologi,,,,Course Bioteknologi,,,translated,manual_update,medium,english,,,103545,31137,0.003449
-EDU_course_Innovation,EDU,course,Innovation,Course Innovation,,,,Course Innovation,,,translated,manual_update,medium,english,,,90142,67985,0.00753
-EDU_course_Markedskommunikation,EDU,course,Markedskommunikation,Course Markedskommunikation,,,,Course Markedskommunikation,,,translated,manual_update,medium,english,,,45816,35257,0.003905
-EDU_course_Filosofi,EDU,course,Filosofi,Course Filosofi,,,,Course Filosofi,,,translated,manual_update,medium,english,,,83049,64652,0.007161
-EDU_course_Kommunikation/it,EDU,course,Kommunikation/it,Course Kommunikation/it,,,,Course Kommunikation/it,,,translated,manual_update,medium,english,,,77645,56288,0.006234
-EDU_course_Idehistorie,EDU,course,Idehistorie,Course Idehistorie,,,,Course Idehistorie,,,translated,manual_update,medium,english,,,43561,29272,0.003242
-EDU_course_Studieområde,EDU,course,Studieområde,Course Studieområde,Course Studieområde,,,Course: Study area,,,translated,manual_update,medium,english,,,38072,38072,0.004217
-EDU_course_Teknikfag - byggeri og energi,EDU,course,Teknikfag - byggeri og energi,Course Teknikfag - byggeri og energi,Course Teknikfag - byggeri og energi,,,Course: Technology subject - construction and energy,,,translated,manual_update,medium,english,,,31123,15978,0.00177
-EDU_course_Teknologi,EDU,course,Teknologi,Course Teknologi,,,,Course Teknologi,,,translated,manual_update,medium,english,,,108983,68693,0.007608
-EDU_course_Retorik,EDU,course,Retorik,Course Retorik,,,,Course Retorik,,,translated,manual_update,medium,english,,,15534,12099,0.00134
-EDU_course_Dramatik,EDU,course,Dramatik,Course Dramatik,,,,Course Dramatik,,,translated,manual_update,medium,english,,,75151,58815,0.006514
-EDU_course_Større skriftlig opgave,EDU,course,Større skriftlig opgave,Course Større skriftlig opgave,Course Større skriftlig opgave,,,Course: Major written assignment,,,translated,manual_update,medium,english,,,159568,159532,0.017669
-EDU_course_Kultur- og samfundsfaggruppe - Historie,EDU,course,Kultur- og samfundsfaggruppe - Historie,Course Kultur- og samfundsfaggruppe - Historie,Course Kultur- og samfundsfaggruppe - Historie,,,Course: Culture and social studies group - History,,,translated,manual_update,medium,english,,,15875,15874,0.001758
-EDU_course_Kultur- og samfundsfaggruppe,EDU,course,Kultur- og samfundsfaggruppe,Course Kultur- og samfundsfaggruppe,Course Kultur- og samfundsfaggruppe,,,Course: Culture and social studies group,,,translated,manual_update,medium,english,,,107160,107153,0.011868
-EDU_course_Naturvidenskabelig faggruppe,EDU,course,Naturvidenskabelig faggruppe,Course Naturvidenskabelig faggruppe,,,,Course Naturvidenskabelig faggruppe,,,translated,manual_update,medium,english,,,109332,109290,0.012105
-EDU_course_Naturvidenskabelig faggruppe - Kemi,EDU,course,Naturvidenskabelig faggruppe - Kemi,Course Naturvidenskabelig faggruppe - Kemi,,,,Course Naturvidenskabelig faggruppe - Kemi,,,translated,manual_update,medium,english,,,11543,11542,0.001278
-EDU_course_Eksamensprojekt,EDU,course,Eksamensprojekt,Course Eksamensprojekt,,,,Course Eksamensprojekt,,,translated,manual_update,medium,english,,,58365,58351,0.006463
-EDU_course_Økonomisk grundforløb,EDU,course,Økonomisk grundforløb,Course Økonomisk grundforløb,Course Økonomisk grundforløb,,,Course: Economic foundation course,,,translated,manual_update,medium,english,,,35150,35150,0.003893
-EDU_course_Informatik,EDU,course,Informatik,Course Informatik,,,,Course Informatik,,,translated,manual_update,medium,english,,,80164,59678,0.00661
-EDU_course_Studieområdeprojekt,EDU,course,Studieområdeprojekt,Course Studieområdeprojekt,Course Studieområdeprojekt,,,Course: Study area project,,,translated,manual_update,medium,english,,,52252,52252,0.005787
-EDU_course_Erhvervscase,EDU,course,Erhvervscase,Course Erhvervscase,,,,Course Erhvervscase,,,translated,manual_update,medium,english,,,79911,55034,0.006095
-EDU_course_Teknikfag - digitalt design og udvikling,EDU,course,Teknikfag - digitalt design og udvikling,Course Teknikfag - digitalt design og udvikling,Course Teknikfag - digitalt design og udvikling,,,Course: Technology subject - digital design and development,,,translated,manual_update,medium,english,,,8833,4438,0.000492
-EDU_course_Programmering,EDU,course,Programmering,Course Programmering,,,,Course Programmering,,,translated,manual_update,medium,english,,,26534,18839,0.002087
-EDU_course_Fransk fortsættersprog,EDU,course,Fransk fortsættersprog,Course Fransk fortsættersprog,Course Fransk fortsættersprog,,,Course: French continuation language,,,translated,manual_update,medium,english,,,105914,43212,0.004786
-EDU_course_Industriteknologi,EDU,course,Industriteknologi,Course Industriteknologi,,,,Course Industriteknologi,,,translated,manual_update,medium,english,,,289,175,1.9e-05
-EDU_course_Multimedier,EDU,course,Multimedier,Course Multimedier,,,,Course Multimedier,,,translated,manual_update,medium,english,,,7404,5522,0.000612
-EDU_course_Design,EDU,course,Design,Course Design,,,,Course Design,,,translated,manual_update,medium,english,,,50661,37386,0.004141
-EDU_course_Astronomi,EDU,course,Astronomi,Course Astronomi,,,,Course Astronomi,,,translated,manual_update,medium,english,,,24006,17450,0.001933
-EDU_course_Erhvervsområdeprojekt,EDU,course,Erhvervsområdeprojekt,Course Erhvervsområdeprojekt,Course Erhvervsområdeprojekt,,,Course: Business area project,,,translated,manual_update,medium,english,,,10210,10207,0.001131
-EDU_course_Produktudvikling,EDU,course,Produktudvikling,Course Produktudvikling,,,,Course Produktudvikling,,,translated,manual_update,medium,english,,,16601,16601,0.001839
-EDU_course_Naturvidenskabelig faggruppe - Geografi,EDU,course,Naturvidenskabelig faggruppe - Geografi,Course Naturvidenskabelig faggruppe - Geografi,,,,Course Naturvidenskabelig faggruppe - Geografi,,,translated,manual_update,medium,english,,,13361,13359,0.00148
-EDU_course_Kultur- og samfundsfaggruppe - Religion,EDU,course,Kultur- og samfundsfaggruppe - Religion,Course Kultur- og samfundsfaggruppe - Religion,Course Kultur- og samfundsfaggruppe - Religion,,,Course: Culture and social studies group - Religion,,,translated,manual_update,medium,english,,,13524,13520,0.001497
-EDU_course_Teknologihistorie,EDU,course,Teknologihistorie,Course Teknologihistorie,,,,Course Teknologihistorie,,,translated,manual_update,medium,english,,,46859,36017,0.003989
-EDU_course_Teknikfag - proces levnedsmiddel og sundhed,EDU,course,Teknikfag - proces levnedsmiddel og sundhed,Course Teknikfag - proces levnedsmiddel og sundhed,Course Teknikfag - proces levnedsmiddel og sundhed,,,"Course: Technology subject - process, food and health",,,translated,manual_update,medium,english,,,31507,15834,0.001754
-EDU_course_Teknikfag - design og produktion,EDU,course,Teknikfag - design og produktion,Course Teknikfag - design og produktion,Course Teknikfag - design og produktion,,,Course: Technology subject - design and production,,,translated,manual_update,medium,english,,,35408,17817,0.001973
-EDU_course_Naturvidenskabelig faggruppe - Biologi,EDU,course,Naturvidenskabelig faggruppe - Biologi,Course Naturvidenskabelig faggruppe - Biologi,,,,Course Naturvidenskabelig faggruppe - Biologi,,,translated,manual_update,medium,english,,,8631,8630,0.000956
-EDU_course_Kinesisk begyndersprog,EDU,course,Kinesisk begyndersprog,Course Kinesisk begyndersprog,,,,Course Kinesisk begyndersprog,,,translated,manual_update,medium,english,,,15947,5201,0.000576
-EDU_course_Latin begyndersprog,EDU,course,Latin begyndersprog,Course Latin begyndersprog,,,,Course Latin begyndersprog,,,translated,manual_update,medium,english,,,64699,46638,0.005166
-EDU_course_Italiensk begyndersprog,EDU,course,Italiensk begyndersprog,Course Italiensk begyndersprog,,,,Course Italiensk begyndersprog,,,translated,manual_update,medium,english,,,18203,6464,0.000716
-EDU_course_It,EDU,course,It,Course It,,,,Course It,,,translated,manual_update,medium,english,,,8084,5846,0.000647
-EDU_course_Design og arkitektur,EDU,course,Design og arkitektur,Course Design og arkitektur,Course Design og arkitektur,,,Course: Design and architecture,,,translated,manual_update,medium,english,,,19437,15592,0.001727
-EDU_course_Tyrkisk begyndersprog,EDU,course,Tyrkisk begyndersprog,Course Tyrkisk begyndersprog,,,,Course Tyrkisk begyndersprog,,,translated,manual_update,medium,english,,,2260,1293,0.000143
-EDU_course_Dans,EDU,course,Dans,Course Dans,,,,Course Dans,,,translated,manual_update,medium,english,,,3635,2970,0.000329
-EDU_course_Kultur- og samfundsfaggruppe - Samfundsfag,EDU,course,Kultur- og samfundsfaggruppe - Samfundsfag,Course Kultur- og samfundsfaggruppe - Samfundsfag,Course Kultur- og samfundsfaggruppe - Samfundsfag,,,Course: Culture and social studies group - Social studies,,,translated,manual_update,medium,english,,,4466,4466,0.000495
-EDU_course_Græsk begyndersprog,EDU,course,Græsk begyndersprog,Course Græsk begyndersprog,Course Græsk begyndersprog,,,Course: Greek beginners' language,,,translated,manual_update,medium,english,,,5475,1697,0.000188
-EDU_course_Musik og lydproduktion,EDU,course,Musik og lydproduktion,Course Musik og lydproduktion,Course Musik og lydproduktion,,,Course: Music and sound production,,,translated,manual_update,medium,english,,,1070,813,9e-05
-EDU_course_Statik og styrkelære,EDU,course,Statik og styrkelære,Course Statik og styrkelære,Course Statik og styrkelære,,,Course: Statics and strength of materials,,,translated,manual_update,medium,english,,,4576,3414,0.000378
-EDU_course_International teknologi og kultur,EDU,course,International teknologi og kultur,Course International teknologi og kultur,Course International teknologi og kultur,,,Course: International technology and culture,,,translated,manual_update,medium,english,,,2331,1724,0.000191
-EDU_course_Teknikfag - udvikling og produktion,EDU,course,Teknikfag - udvikling og produktion,Course Teknikfag - udvikling og produktion,Course Teknikfag - udvikling og produktion,,,Course: Technology subject - development and production,,,translated,manual_update,medium,english,,,8987,4611,0.000511
-EDU_course_Arabisk begyndersprog,EDU,course,Arabisk begyndersprog,Course Arabisk begyndersprog,,,,Course Arabisk begyndersprog,,,translated,manual_update,medium,english,,,2873,1798,0.000199
-EDU_course_Fysik-kemi,EDU,course,Fysik-kemi,Course Fysik-kemi,,,,Course Fysik-kemi,,,translated,manual_update,medium,english,,,4036,4027,0.000446
-EDU_course_Geovidenskab,EDU,course,Geovidenskab,Course Geovidenskab,,,,Course Geovidenskab,,,translated,manual_update,medium,english,,,2945,884,9.8e-05
-EDU_course_Teknikfag,EDU,course,Teknikfag,Course Teknikfag,,,,Course Teknikfag,,,translated,manual_update,medium,english,,,29802,11708,0.001297
-EDU_course_Virksomhedsinformation,EDU,course,Virksomhedsinformation,Course Virksomhedsinformation,,,,Course Virksomhedsinformation,,,translated,manual_update,medium,english,,,5237,3937,0.000436
-EDU_course_Datalogi,EDU,course,Datalogi,Course Datalogi,,,,Course Datalogi,,,translated,manual_update,medium,english,,,7313,5302,0.000587
-EDU_course_Statistik,EDU,course,Statistik,Course Statistik,,,,Course Statistik,,,translated,manual_update,medium,english,,,4711,3624,0.000401
-EDU_course_Erhvervspsykologi,EDU,course,Erhvervspsykologi,Course Erhvervspsykologi,,,,Course Erhvervspsykologi,,,translated,manual_update,medium,english,,,2305,1823,0.000202
-EDU_course_EU og internationalt økonomisk samarbejde,EDU,course,EU og internationalt økonomisk samarbejde,Course EU og internationalt økonomisk samarbejde,Course EU og internationalt økonomisk samarbejde,,,Course: EU and international economic cooperation,,,translated,manual_update,medium,english,,,5075,3460,0.000383
-EDU_course_Studieområdet del 2,EDU,course,Studieområdet del 2,Course Studieområdet del 2,Course Studieområdet del 2,,,Course: Study area part 2,,,translated,manual_update,medium,english,,,5053,5053,0.00056
-EDU_course_Dansk IT,EDU,course,Dansk IT,Course Dansk IT,,,,Course Dansk IT,,,translated,manual_update,medium,english,,,3082,2229,0.000247
-EDU_course_Engelsk IT,EDU,course,Engelsk IT,Course Engelsk IT,,,,Course Engelsk IT,,,translated,manual_update,medium,english,,,1131,1079,0.00012
-EDU_course_Russisk begyndersprog,EDU,course,Russisk begyndersprog,Course Russisk begyndersprog,,,,Course Russisk begyndersprog,,,translated,manual_update,medium,english,,,2237,952,0.000105
-EDU_course_Andet,EDU,course,Andet,Course Andet,,,,Course Andet,,,translated,manual_update,medium,english,,,2377,1109,0.000123
-EDU_course_Filosofi og teknologi,EDU,course,Filosofi og teknologi,Course Filosofi og teknologi,Course Filosofi og teknologi,,,Course: Philosophy and technology,,,translated,manual_update,medium,english,,,110,89,1e-05
-EDU_course_Materialeteknologi,EDU,course,Materialeteknologi,Course Materialeteknologi,,,,Course Materialeteknologi,,,translated,manual_update,medium,english,,,1534,1143,0.000127
-EDU_course_Projektfag,EDU,course,Projektfag,Course Projektfag,,,,Course Projektfag,,,translated,manual_update,medium,english,,,158,116,1.3e-05
-EDU_course_Japansk begyndersprog,EDU,course,Japansk begyndersprog,Course Japansk begyndersprog,,,,Course Japansk begyndersprog,,,translated,manual_update,medium,english,,,662,298,3.3e-05
-EDU_course_Tysk begyndersprog,EDU,course,Tysk begyndersprog,Course Tysk begyndersprog,,,,Course Tysk begyndersprog,,,translated,manual_update,medium,english,,,636,241,2.7e-05
-EDU_course_Dansk som andetsprog,EDU,course,Dansk som andetsprog,Course Dansk som andetsprog,,,,Course Dansk som andetsprog,,,translated,manual_update,medium,english,,,2190,1109,0.000123
-EDU_course_Astrofysik,EDU,course,Astrofysik,Course Astrofysik,,,,Course Astrofysik,,,translated,manual_update,medium,english,,,445,334,3.7e-05
-EDU_course_Projektopgave,EDU,course,Projektopgave,Course Projektopgave,,,,Course Projektopgave,,,translated,manual_update,medium,english,,,160,160,1.8e-05
-EDU_course_Kinesisk områdestudium,EDU,course,Kinesisk områdestudium,Course Kinesisk områdestudium,Course Kinesisk områdestudium,,,Course: Chinese area studies,,,translated,manual_update,medium,english,,,3084,2400,0.000266
-EDU_course_Spansk fortsættersprog,EDU,course,Spansk fortsættersprog,Course Spansk fortsættersprog,Course Spansk fortsættersprog,,,Course: Spanish continuation language,,,translated,manual_update,medium,english,,,31,27,3e-06
-EDU_course_Byggeteknologi,EDU,course,Byggeteknologi,Course Byggeteknologi,,,,Course Byggeteknologi,,,translated,manual_update,medium,english,,,887,536,5.9e-05
-EDU_course_Studieretningsopgave,EDU,course,Studieretningsopgave,Course Studieretningsopgave,,,,Course Studieretningsopgave,,,translated,manual_update,medium,english,,,1218,910,0.000101
-EDU_course_FyMa,EDU,course,FyMa,Course FyMa,,,,Course FyMa,,,translated,manual_update,medium,english,,,266,182,2e-05
-EDU_course_Marketing,EDU,course,Marketing,Course Marketing,,,,Course Marketing,,,translated,manual_update,medium,english,,,141,45,5e-06
-EDU_course_Studieområde del 1,EDU,course,Studieområde del 1,Course Studieområde del 1,Course Studieområde del 1,,,Course: Study area part 1,,,translated,manual_update,medium,english,,,127,127,1.4e-05
-EDU_course_Kultur/historie,EDU,course,Kultur/historie,Course Kultur/historie,,,,Course Kultur/historie,,,translated,manual_update,medium,english,,,64,40,4e-06
-EDU_course_Science,EDU,course,Science,Course Science,,,,Course Science,,,translated,manual_update,medium,english,,,12,12,1e-06
-EDU_course_Kvalitetsstyring,EDU,course,Kvalitetsstyring,Course Kvalitetsstyring,,,,Course Kvalitetsstyring,,,translated,manual_update,medium,english,,,18,18,2e-06
-EDU_course_Islandsk,EDU,course,Islandsk,Course Islandsk,,,,Course Islandsk,,,translated,manual_update,medium,english,,,18,9,1e-06
-EDU_course_Kulturfag,EDU,course,Kulturfag,Course Kulturfag,,,,Course Kulturfag,,,translated,manual_update,medium,english,,,52,37,4e-06
-EDU_course_Arktisk teknologi,EDU,course,Arktisk teknologi,Course Arktisk teknologi,,,,Course Arktisk teknologi,,,translated,manual_update,medium,english,,,48,37,4e-06
-EDU_course_Grønlandsk,EDU,course,Grønlandsk,Course Grønlandsk,Course Grønlandsk,,,Course: Greenlandic,,,translated,manual_update,medium,english,,,33,14,2e-06
-EDU_course_International (USA),EDU,course,International (USA),Course International (USA),,,,Course International (USA),,,translated,manual_update,medium,english,,,15,15,2e-06
-EDU_course_Fødevareteknologi,EDU,course,Fødevareteknologi,Course Fødevareteknologi,Course Fødevareteknologi,,,Course: Food technology,,,translated,manual_update,medium,english,,,6,5,1e-06
-EDU_course_Nationaløkonomi,EDU,course,Nationaløkonomi,Course Nationaløkonomi,Course Nationaløkonomi,,,Course: National economics,,,translated,manual_update,medium,english,,,84,53,6e-06
-EDU_course_Portugisisk begyndersprog,EDU,course,Portugisisk begyndersprog,Course Portugisisk begyndersprog,,,,Course Portugisisk begyndersprog,,,translated,manual_update,medium,english,,,38,13,1e-06
-EDU_course_Teater,EDU,course,Teater,Course Teater,,,,Course Teater,,,translated,manual_update,medium,english,,,150,46,5e-06
-EDU_course_Erhvervsinformatik,EDU,course,Erhvervsinformatik,Course Erhvervsinformatik,,,,Course Erhvervsinformatik,,,translated,manual_update,medium,english,,,46,45,5e-06
-"EDU_course_Teknikfag byggeri og energi, el",EDU,course,"Teknikfag byggeri og energi, el","Course Teknikfag byggeri og energi, el","Course Teknikfag byggeri og energi, el",,,"Course: Technology subject construction and energy, electricity",,,translated,manual_update,medium,english,,,98,49,5e-06
-EDU_course_Kinesisk fortsættersprog,EDU,course,Kinesisk fortsættersprog,Course Kinesisk fortsættersprog,Course Kinesisk fortsættersprog,,,Course: Chinese continuation language,,,translated,manual_update,medium,english,,,4,2,0.0
-EDU_course_Verdenslitteratur,EDU,course,Verdenslitteratur,Course Verdenslitteratur,,,,Course Verdenslitteratur,,,translated,manual_update,medium,english,,,6,6,1e-06
-EDU_course_level_C,EDU,course,level_C,Course level_C,,,,Course level_C,,,translated,manual_update,medium,english,,,6076326,843954,0.093475
-EDU_course_level_-,EDU,course,level_-,Course level_-,,,,Course level_-,,,translated,manual_update,medium,english,,,2438911,777747,0.086142
-EDU_course_level_B,EDU,course,level_B,Course level_B,,,,Course level_B,,,translated,manual_update,medium,english,,,5766843,843463,0.09342
-EDU_course_level_A,EDU,course,level_A,Course level_A,,,,Course level_A,,,translated,manual_update,medium,english,,,8806884,844839,0.093573
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+EDU_course_Engelsk,EDU,course,Engelsk,Course Engelsk,,,,Course Engelsk,,,translated,manual_update,medium,english,,,8927818,1397873,0.154826,,
+EDU_course_Fysik/kemi,EDU,course,Fysik/kemi,Course Fysik/kemi,,,,Course Fysik/kemi,,,translated,manual_update,medium,english,,,2972039,1311146,0.14522,,
+EDU_course_Dansk,EDU,course,Dansk,Course Dansk,,,,Course Dansk,,,translated,manual_update,medium,english,,,17377146,1409935,0.156162,,
+EDU_course_OBL,EDU,course,OBL,Course OBL,,,,Course OBL,,,translated,manual_update,medium,english,,,342465,269902,0.029894,,
+EDU_course_Matematik,EDU,course,Matematik,Course Matematik,,,,Course Matematik,,,translated,manual_update,medium,english,,,12228309,1407245,0.155864,,
+EDU_course_Tysk,EDU,course,Tysk,Course Tysk,,,,Course Tysk,,,translated,manual_update,medium,english,,,1548452,449471,0.049783,,
+EDU_course_Historie,EDU,course,Historie,Course Historie,,,,Course Historie,,,translated,manual_update,medium,english,,,2098608,1124122,0.124506,,
+EDU_course_Madkundskab,EDU,course,Madkundskab,Course Madkundskab,,,,Course Madkundskab,,,translated,manual_update,medium,english,,,107936,66042,0.007315,,
+EDU_course_Biologi,EDU,course,Biologi,Course Biologi,,,,Course Biologi,,,translated,manual_update,medium,english,,,2546055,1189569,0.131754,,
+EDU_course_Geografi,EDU,course,Geografi,Course Geografi,,,,Course Geografi,,,translated,manual_update,medium,english,,,1619183,1080694,0.119696,,
+EDU_course_Håndværk og design,EDU,course,Håndværk og design,Course Håndværk og design,Course Håndværk og design,,,Course: Crafts and design,,,translated,manual_update,medium,english,,,37103,21417,0.002372,,
+EDU_course_Idræt,EDU,course,Idræt,Course Idræt,Course Idræt,,,Course: Physical education,,,translated,manual_update,medium,english,,,1298959,832846,0.092244,,
+EDU_course_Kristendomskundskab,EDU,course,Kristendomskundskab,Course Kristendomskundskab,,,,Course Kristendomskundskab,,,translated,manual_update,medium,english,,,1209057,887012,0.098244,,
+EDU_course_Samfundsfag,EDU,course,Samfundsfag,Course Samfundsfag,,,,Course Samfundsfag,,,translated,manual_update,medium,english,,,2619416,1152112,0.127606,,
+EDU_course_Tysk 2. fremmedsprog,EDU,course,Tysk 2. fremmedsprog,Course Tysk 2. fremmedsprog,,,,Course Tysk 2. fremmedsprog,,,translated,manual_update,medium,english,,,2223845,665744,0.073737,,
+"EDU_course_Fællesprøve i fysik/kemi, biologi og geografi",EDU,course,"Fællesprøve i fysik/kemi, biologi og geografi","Course Fællesprøve i fysik/kemi, biologi og geografi","Course Fællesprøve i fysik/kemi, biologi og geografi",,,"Course: Joint exam in physics/chemistry, biology and geography",,,translated,manual_update,medium,english,,,320776,319158,0.035349,,
+EDU_course_Obligatorisk projektopgave,EDU,course,Obligatorisk projektopgave,Course Obligatorisk projektopgave,,,,Course Obligatorisk projektopgave,,,translated,manual_update,medium,english,,,819692,817510,0.090546,,
+EDU_course_Billedkunst,EDU,course,Billedkunst,Course Billedkunst,,,,Course Billedkunst,,,translated,manual_update,medium,english,,,293694,239759,0.026555,,
+EDU_course_Håndarbejde,EDU,course,Håndarbejde,Course Håndarbejde,Course Håndarbejde,,,Course: Needlework,,,translated,manual_update,medium,english,,,7378,5431,0.000602,,
+EDU_course_Fransk,EDU,course,Fransk,Course Fransk,,,,Course Fransk,,,translated,manual_update,medium,english,,,198540,71338,0.007901,,
+EDU_course_Fransk 2. fremmedsprog,EDU,course,Fransk 2. fremmedsprog,Course Fransk 2. fremmedsprog,,,,Course Fransk 2. fremmedsprog,,,translated,manual_update,medium,english,,,229952,78234,0.008665,,
+EDU_course_Musik,EDU,course,Musik,Course Musik,,,,Course Musik,,,translated,manual_update,medium,english,,,346768,213502,0.023647,,
+EDU_course_Obligatorisk selvvalgt opgave,EDU,course,Obligatorisk selvvalgt opgave,Course Obligatorisk selvvalgt opgave,,,,Course Obligatorisk selvvalgt opgave,,,translated,manual_update,medium,english,,,384521,382201,0.042332,,
+EDU_course_Frivillig selvvalgt opgave,EDU,course,Frivillig selvvalgt opgave,Course Frivillig selvvalgt opgave,,,,Course Frivillig selvvalgt opgave,,,translated,manual_update,medium,english,,,7065,7012,0.000777,,
+EDU_course_Latin,EDU,course,Latin,Course Latin,,,,Course Latin,,,translated,manual_update,medium,english,,,718,416,4.6e-05,,
+EDU_course_Sløjd,EDU,course,Sløjd,Course Sløjd,Course Sløjd,,,Course: Woodwork / sloyd,,,translated,manual_update,medium,english,,,11458,7894,0.000874,,
+EDU_course_Biologi/fysik/kemi,EDU,course,Biologi/fysik/kemi,Course Biologi/fysik/kemi,,,,Course Biologi/fysik/kemi,,,translated,manual_update,medium,english,,,32368,32359,0.003584,,
+EDU_course_Fri selvvalgt opgave,EDU,course,Fri selvvalgt opgave,Course Fri selvvalgt opgave,,,,Course Fri selvvalgt opgave,,,translated,manual_update,medium,english,,,10195,10086,0.001117,,
+EDU_course_Frivillig projektopgave (naturfag),EDU,course,Frivillig projektopgave (naturfag),Course Frivillig projektopgave (naturfag),,,,Course Frivillig projektopgave (naturfag),,,translated,manual_update,medium,english,,,385,381,4.2e-05,,
+EDU_course_Tysk 3. fremmedsprog,EDU,course,Tysk 3. fremmedsprog,Course Tysk 3. fremmedsprog,,,,Course Tysk 3. fremmedsprog,,,translated,manual_update,medium,english,,,21278,9527,0.001055,,
+EDU_course_Fransk 3. fremmedsprog,EDU,course,Fransk 3. fremmedsprog,Course Fransk 3. fremmedsprog,,,,Course Fransk 3. fremmedsprog,,,translated,manual_update,medium,english,,,17399,6662,0.000738,,
+EDU_course_Medier,EDU,course,Medier,Course Medier,,,,Course Medier,,,translated,manual_update,medium,english,,,377,333,3.7e-05,,
+EDU_course_Spansk,EDU,course,Spansk,Course Spansk,,,,Course Spansk,,,translated,manual_update,medium,english,,,1445,1216,0.000135,,
+"EDU_course_Fællesprøve i samfundsfag, historie",EDU,course,"Fællesprøve i samfundsfag, historie","Course Fællesprøve i samfundsfag, historie","Course Fællesprøve i samfundsfag, historie",,,"Course: Joint exam in social studies, history",,,translated,manual_update,medium,english,,,2083,2060,0.000228,,
+EDU_course_Fællesprøve i samfundsfag og historie,EDU,course,Fællesprøve i samfundsfag og historie,Course Fællesprøve i samfundsfag og historie,Course Fællesprøve i samfundsfag og historie,,,Course: Joint exam in social studies and history,,,translated,manual_update,medium,english,,,1132,1107,0.000123,,
+EDU_course_Iværksætter,EDU,course,Iværksætter,Course Iværksætter,Course Iværksætter,,,Course: Entrepreneurship,,,translated,manual_update,medium,english,,,659,558,6.2e-05,,
+EDU_course_Metal og motorværksted,EDU,course,Metal og motorværksted,Course Metal og motorværksted,Course Metal og motorværksted,,,Course: Metal and motor workshop,,,translated,manual_update,medium,english,,,275,240,2.7e-05,,
+EDU_course_Sundhed og sociale forhold,EDU,course,Sundhed og sociale forhold,Course Sundhed og sociale forhold,Course Sundhed og sociale forhold,,,Course: Health and social conditions,,,translated,manual_update,medium,english,,,387,329,3.6e-05,,
+EDU_course_Naturfag,EDU,course,Naturfag,Course Naturfag,,,,Course Naturfag,,,translated,manual_update,medium,english,,,71098,23112,0.00256,,
+EDU_course_Oldtidskundskab,EDU,course,Oldtidskundskab,Course Oldtidskundskab,,,,Course Oldtidskundskab,,,translated,manual_update,medium,english,,,618251,455394,0.050439,,
+EDU_course_Studieretningsprojekt,EDU,course,Studieretningsprojekt,Course Studieretningsprojekt,,,,Course Studieretningsprojekt,,,translated,manual_update,medium,english,,,534202,534202,0.059167,,
+EDU_course_Religion,EDU,course,Religion,Course Religion,,,,Course Religion,,,translated,manual_update,medium,english,,,683515,506701,0.056121,,
+EDU_course_Almen sprogforståelse,EDU,course,Almen sprogforståelse,Course Almen sprogforståelse,Course Almen sprogforståelse,,,Course: General linguistic understanding,,,translated,manual_update,medium,english,,,347474,347465,0.038485,,
+EDU_course_Naturgeografi,EDU,course,Naturgeografi,Course Naturgeografi,,,,Course Naturgeografi,,,translated,manual_update,medium,english,,,333310,201127,0.022276,,
+EDU_course_Almen studieforberedelse,EDU,course,Almen studieforberedelse,Course Almen studieforberedelse,,,,Course Almen studieforberedelse,,,translated,manual_update,medium,english,,,302112,302112,0.033461,,
+EDU_course_Spansk begyndersprog,EDU,course,Spansk begyndersprog,Course Spansk begyndersprog,,,,Course Spansk begyndersprog,,,translated,manual_update,medium,english,,,550805,187362,0.020752,,
+EDU_course_Fysik,EDU,course,Fysik,Course Fysik,,,,Course Fysik,,,translated,manual_update,medium,english,,,938970,522650,0.057888,,
+EDU_course_Kemi,EDU,course,Kemi,Course Kemi,,,,Course Kemi,,,translated,manual_update,medium,english,,,668807,346172,0.038341,,
+EDU_course_Naturvidenskabeligt grundforløb,EDU,course,Naturvidenskabeligt grundforløb,Course Naturvidenskabeligt grundforløb,Course Naturvidenskabeligt grundforløb,,,Course: Natural-science foundation course,,,translated,manual_update,medium,english,,,327719,327599,0.036284,,
+EDU_course_Studieområde - erhvervscase,EDU,course,Studieområde - erhvervscase,Course Studieområde - erhvervscase,Course Studieområde - erhvervscase,,,Course: Study area - business case,,,translated,manual_update,medium,english,,,138085,93150,0.010317,,
+EDU_course_Virksomhedsøkonomi,EDU,course,Virksomhedsøkonomi,Course Virksomhedsøkonomi,Course Virksomhedsøkonomi,,,Course: Business economics,,,translated,manual_update,medium,english,,,429665,147231,0.016307,,
+EDU_course_Kulturforståelse,EDU,course,Kulturforståelse,Course Kulturforståelse,Course Kulturforståelse,,,Course: Cultural understanding,,,translated,manual_update,medium,english,,,48066,36989,0.004097,,
+EDU_course_Tysk fortsættersprog,EDU,course,Tysk fortsættersprog,Course Tysk fortsættersprog,Course Tysk fortsættersprog,,,Course: German continuation language,,,translated,manual_update,medium,english,,,700333,291173,0.03225,,
+EDU_course_Afsætning,EDU,course,Afsætning,Course Afsætning,Course Afsætning,,,Course: Marketing,,,translated,manual_update,medium,english,,,441131,165019,0.018277,,
+EDU_course_Mediefag,EDU,course,Mediefag,Course Mediefag,,,,Course Mediefag,,,translated,manual_update,medium,english,,,219624,175675,0.019457,,
+EDU_course_Studieområde - det internationale område,EDU,course,Studieområde - det internationale område,Course Studieområde - det internationale område,Course Studieområde - det internationale område,,,Course: Study area - the international area,,,translated,manual_update,medium,english,,,155275,93169,0.010319,,
+EDU_course_Psykologi,EDU,course,Psykologi,Course Psykologi,,,,Course Psykologi,,,translated,manual_update,medium,english,,,440309,344536,0.03816,,
+EDU_course_Erhvervsøkonomi,EDU,course,Erhvervsøkonomi,Course Erhvervsøkonomi,Course Erhvervsøkonomi,,,Course: Business economics,,,translated,manual_update,medium,english,,,168199,101720,0.011266,,
+EDU_course_Organisation,EDU,course,Organisation,Course Organisation,,,,Course Organisation,,,translated,manual_update,medium,english,,,31659,26197,0.002902,,
+EDU_course_International økonomi,EDU,course,International økonomi,Course International økonomi,Course International økonomi,,,Course: International economics,,,translated,manual_update,medium,english,,,300494,149320,0.016538,,
+EDU_course_Samtidshistorie,EDU,course,Samtidshistorie,Course Samtidshistorie,,,,Course Samtidshistorie,,,translated,manual_update,medium,english,,,152094,112898,0.012504,,
+EDU_course_Finansiering,EDU,course,Finansiering,Course Finansiering,,,,Course Finansiering,,,translated,manual_update,medium,english,,,50372,38751,0.004292,,
+EDU_course_Erhvervsjura,EDU,course,Erhvervsjura,Course Erhvervsjura,,,,Course Erhvervsjura,,,translated,manual_update,medium,english,,,204912,158788,0.017587,,
+EDU_course_Informationsteknologi,EDU,course,Informationsteknologi,Course Informationsteknologi,,,,Course Informationsteknologi,,,translated,manual_update,medium,english,,,68907,42559,0.004714,,
+EDU_course_Fransk begyndersprog,EDU,course,Fransk begyndersprog,Course Fransk begyndersprog,,,,Course Fransk begyndersprog,,,translated,manual_update,medium,english,,,83338,27172,0.00301,,
+EDU_course_Bioteknologi,EDU,course,Bioteknologi,Course Bioteknologi,,,,Course Bioteknologi,,,translated,manual_update,medium,english,,,103545,31137,0.003449,,
+EDU_course_Innovation,EDU,course,Innovation,Course Innovation,,,,Course Innovation,,,translated,manual_update,medium,english,,,90142,67985,0.00753,,
+EDU_course_Markedskommunikation,EDU,course,Markedskommunikation,Course Markedskommunikation,,,,Course Markedskommunikation,,,translated,manual_update,medium,english,,,45816,35257,0.003905,,
+EDU_course_Filosofi,EDU,course,Filosofi,Course Filosofi,,,,Course Filosofi,,,translated,manual_update,medium,english,,,83049,64652,0.007161,,
+EDU_course_Kommunikation/it,EDU,course,Kommunikation/it,Course Kommunikation/it,,,,Course Kommunikation/it,,,translated,manual_update,medium,english,,,77645,56288,0.006234,,
+EDU_course_Idehistorie,EDU,course,Idehistorie,Course Idehistorie,,,,Course Idehistorie,,,translated,manual_update,medium,english,,,43561,29272,0.003242,,
+EDU_course_Studieområde,EDU,course,Studieområde,Course Studieområde,Course Studieområde,,,Course: Study area,,,translated,manual_update,medium,english,,,38072,38072,0.004217,,
+EDU_course_Teknikfag - byggeri og energi,EDU,course,Teknikfag - byggeri og energi,Course Teknikfag - byggeri og energi,Course Teknikfag - byggeri og energi,,,Course: Technology subject - construction and energy,,,translated,manual_update,medium,english,,,31123,15978,0.00177,,
+EDU_course_Teknologi,EDU,course,Teknologi,Course Teknologi,,,,Course Teknologi,,,translated,manual_update,medium,english,,,108983,68693,0.007608,,
+EDU_course_Retorik,EDU,course,Retorik,Course Retorik,,,,Course Retorik,,,translated,manual_update,medium,english,,,15534,12099,0.00134,,
+EDU_course_Dramatik,EDU,course,Dramatik,Course Dramatik,,,,Course Dramatik,,,translated,manual_update,medium,english,,,75151,58815,0.006514,,
+EDU_course_Større skriftlig opgave,EDU,course,Større skriftlig opgave,Course Større skriftlig opgave,Course Større skriftlig opgave,,,Course: Major written assignment,,,translated,manual_update,medium,english,,,159568,159532,0.017669,,
+EDU_course_Kultur- og samfundsfaggruppe - Historie,EDU,course,Kultur- og samfundsfaggruppe - Historie,Course Kultur- og samfundsfaggruppe - Historie,Course Kultur- og samfundsfaggruppe - Historie,,,Course: Culture and social studies group - History,,,translated,manual_update,medium,english,,,15875,15874,0.001758,,
+EDU_course_Kultur- og samfundsfaggruppe,EDU,course,Kultur- og samfundsfaggruppe,Course Kultur- og samfundsfaggruppe,Course Kultur- og samfundsfaggruppe,,,Course: Culture and social studies group,,,translated,manual_update,medium,english,,,107160,107153,0.011868,,
+EDU_course_Naturvidenskabelig faggruppe,EDU,course,Naturvidenskabelig faggruppe,Course Naturvidenskabelig faggruppe,,,,Course Naturvidenskabelig faggruppe,,,translated,manual_update,medium,english,,,109332,109290,0.012105,,
+EDU_course_Naturvidenskabelig faggruppe - Kemi,EDU,course,Naturvidenskabelig faggruppe - Kemi,Course Naturvidenskabelig faggruppe - Kemi,,,,Course Naturvidenskabelig faggruppe - Kemi,,,translated,manual_update,medium,english,,,11543,11542,0.001278,,
+EDU_course_Eksamensprojekt,EDU,course,Eksamensprojekt,Course Eksamensprojekt,,,,Course Eksamensprojekt,,,translated,manual_update,medium,english,,,58365,58351,0.006463,,
+EDU_course_Økonomisk grundforløb,EDU,course,Økonomisk grundforløb,Course Økonomisk grundforløb,Course Økonomisk grundforløb,,,Course: Economic foundation course,,,translated,manual_update,medium,english,,,35150,35150,0.003893,,
+EDU_course_Informatik,EDU,course,Informatik,Course Informatik,,,,Course Informatik,,,translated,manual_update,medium,english,,,80164,59678,0.00661,,
+EDU_course_Studieområdeprojekt,EDU,course,Studieområdeprojekt,Course Studieområdeprojekt,Course Studieområdeprojekt,,,Course: Study area project,,,translated,manual_update,medium,english,,,52252,52252,0.005787,,
+EDU_course_Erhvervscase,EDU,course,Erhvervscase,Course Erhvervscase,,,,Course Erhvervscase,,,translated,manual_update,medium,english,,,79911,55034,0.006095,,
+EDU_course_Teknikfag - digitalt design og udvikling,EDU,course,Teknikfag - digitalt design og udvikling,Course Teknikfag - digitalt design og udvikling,Course Teknikfag - digitalt design og udvikling,,,Course: Technology subject - digital design and development,,,translated,manual_update,medium,english,,,8833,4438,0.000492,,
+EDU_course_Programmering,EDU,course,Programmering,Course Programmering,,,,Course Programmering,,,translated,manual_update,medium,english,,,26534,18839,0.002087,,
+EDU_course_Fransk fortsættersprog,EDU,course,Fransk fortsættersprog,Course Fransk fortsættersprog,Course Fransk fortsættersprog,,,Course: French continuation language,,,translated,manual_update,medium,english,,,105914,43212,0.004786,,
+EDU_course_Industriteknologi,EDU,course,Industriteknologi,Course Industriteknologi,,,,Course Industriteknologi,,,translated,manual_update,medium,english,,,289,175,1.9e-05,,
+EDU_course_Multimedier,EDU,course,Multimedier,Course Multimedier,,,,Course Multimedier,,,translated,manual_update,medium,english,,,7404,5522,0.000612,,
+EDU_course_Design,EDU,course,Design,Course Design,,,,Course Design,,,translated,manual_update,medium,english,,,50661,37386,0.004141,,
+EDU_course_Astronomi,EDU,course,Astronomi,Course Astronomi,,,,Course Astronomi,,,translated,manual_update,medium,english,,,24006,17450,0.001933,,
+EDU_course_Erhvervsområdeprojekt,EDU,course,Erhvervsområdeprojekt,Course Erhvervsområdeprojekt,Course Erhvervsområdeprojekt,,,Course: Business area project,,,translated,manual_update,medium,english,,,10210,10207,0.001131,,
+EDU_course_Produktudvikling,EDU,course,Produktudvikling,Course Produktudvikling,,,,Course Produktudvikling,,,translated,manual_update,medium,english,,,16601,16601,0.001839,,
+EDU_course_Naturvidenskabelig faggruppe - Geografi,EDU,course,Naturvidenskabelig faggruppe - Geografi,Course Naturvidenskabelig faggruppe - Geografi,,,,Course Naturvidenskabelig faggruppe - Geografi,,,translated,manual_update,medium,english,,,13361,13359,0.00148,,
+EDU_course_Kultur- og samfundsfaggruppe - Religion,EDU,course,Kultur- og samfundsfaggruppe - Religion,Course Kultur- og samfundsfaggruppe - Religion,Course Kultur- og samfundsfaggruppe - Religion,,,Course: Culture and social studies group - Religion,,,translated,manual_update,medium,english,,,13524,13520,0.001497,,
+EDU_course_Teknologihistorie,EDU,course,Teknologihistorie,Course Teknologihistorie,,,,Course Teknologihistorie,,,translated,manual_update,medium,english,,,46859,36017,0.003989,,
+EDU_course_Teknikfag - proces levnedsmiddel og sundhed,EDU,course,Teknikfag - proces levnedsmiddel og sundhed,Course Teknikfag - proces levnedsmiddel og sundhed,Course Teknikfag - proces levnedsmiddel og sundhed,,,"Course: Technology subject - process, food and health",,,translated,manual_update,medium,english,,,31507,15834,0.001754,,
+EDU_course_Teknikfag - design og produktion,EDU,course,Teknikfag - design og produktion,Course Teknikfag - design og produktion,Course Teknikfag - design og produktion,,,Course: Technology subject - design and production,,,translated,manual_update,medium,english,,,35408,17817,0.001973,,
+EDU_course_Naturvidenskabelig faggruppe - Biologi,EDU,course,Naturvidenskabelig faggruppe - Biologi,Course Naturvidenskabelig faggruppe - Biologi,,,,Course Naturvidenskabelig faggruppe - Biologi,,,translated,manual_update,medium,english,,,8631,8630,0.000956,,
+EDU_course_Kinesisk begyndersprog,EDU,course,Kinesisk begyndersprog,Course Kinesisk begyndersprog,,,,Course Kinesisk begyndersprog,,,translated,manual_update,medium,english,,,15947,5201,0.000576,,
+EDU_course_Latin begyndersprog,EDU,course,Latin begyndersprog,Course Latin begyndersprog,,,,Course Latin begyndersprog,,,translated,manual_update,medium,english,,,64699,46638,0.005166,,
+EDU_course_Italiensk begyndersprog,EDU,course,Italiensk begyndersprog,Course Italiensk begyndersprog,,,,Course Italiensk begyndersprog,,,translated,manual_update,medium,english,,,18203,6464,0.000716,,
+EDU_course_It,EDU,course,It,Course It,,,,Course It,,,translated,manual_update,medium,english,,,8084,5846,0.000647,,
+EDU_course_Design og arkitektur,EDU,course,Design og arkitektur,Course Design og arkitektur,Course Design og arkitektur,,,Course: Design and architecture,,,translated,manual_update,medium,english,,,19437,15592,0.001727,,
+EDU_course_Tyrkisk begyndersprog,EDU,course,Tyrkisk begyndersprog,Course Tyrkisk begyndersprog,,,,Course Tyrkisk begyndersprog,,,translated,manual_update,medium,english,,,2260,1293,0.000143,,
+EDU_course_Dans,EDU,course,Dans,Course Dans,,,,Course Dans,,,translated,manual_update,medium,english,,,3635,2970,0.000329,,
+EDU_course_Kultur- og samfundsfaggruppe - Samfundsfag,EDU,course,Kultur- og samfundsfaggruppe - Samfundsfag,Course Kultur- og samfundsfaggruppe - Samfundsfag,Course Kultur- og samfundsfaggruppe - Samfundsfag,,,Course: Culture and social studies group - Social studies,,,translated,manual_update,medium,english,,,4466,4466,0.000495,,
+EDU_course_Græsk begyndersprog,EDU,course,Græsk begyndersprog,Course Græsk begyndersprog,Course Græsk begyndersprog,,,Course: Greek beginners' language,,,translated,manual_update,medium,english,,,5475,1697,0.000188,,
+EDU_course_Musik og lydproduktion,EDU,course,Musik og lydproduktion,Course Musik og lydproduktion,Course Musik og lydproduktion,,,Course: Music and sound production,,,translated,manual_update,medium,english,,,1070,813,9e-05,,
+EDU_course_Statik og styrkelære,EDU,course,Statik og styrkelære,Course Statik og styrkelære,Course Statik og styrkelære,,,Course: Statics and strength of materials,,,translated,manual_update,medium,english,,,4576,3414,0.000378,,
+EDU_course_International teknologi og kultur,EDU,course,International teknologi og kultur,Course International teknologi og kultur,Course International teknologi og kultur,,,Course: International technology and culture,,,translated,manual_update,medium,english,,,2331,1724,0.000191,,
+EDU_course_Teknikfag - udvikling og produktion,EDU,course,Teknikfag - udvikling og produktion,Course Teknikfag - udvikling og produktion,Course Teknikfag - udvikling og produktion,,,Course: Technology subject - development and production,,,translated,manual_update,medium,english,,,8987,4611,0.000511,,
+EDU_course_Arabisk begyndersprog,EDU,course,Arabisk begyndersprog,Course Arabisk begyndersprog,,,,Course Arabisk begyndersprog,,,translated,manual_update,medium,english,,,2873,1798,0.000199,,
+EDU_course_Fysik-kemi,EDU,course,Fysik-kemi,Course Fysik-kemi,,,,Course Fysik-kemi,,,translated,manual_update,medium,english,,,4036,4027,0.000446,,
+EDU_course_Geovidenskab,EDU,course,Geovidenskab,Course Geovidenskab,,,,Course Geovidenskab,,,translated,manual_update,medium,english,,,2945,884,9.8e-05,,
+EDU_course_Teknikfag,EDU,course,Teknikfag,Course Teknikfag,,,,Course Teknikfag,,,translated,manual_update,medium,english,,,29802,11708,0.001297,,
+EDU_course_Virksomhedsinformation,EDU,course,Virksomhedsinformation,Course Virksomhedsinformation,,,,Course Virksomhedsinformation,,,translated,manual_update,medium,english,,,5237,3937,0.000436,,
+EDU_course_Datalogi,EDU,course,Datalogi,Course Datalogi,,,,Course Datalogi,,,translated,manual_update,medium,english,,,7313,5302,0.000587,,
+EDU_course_Statistik,EDU,course,Statistik,Course Statistik,,,,Course Statistik,,,translated,manual_update,medium,english,,,4711,3624,0.000401,,
+EDU_course_Erhvervspsykologi,EDU,course,Erhvervspsykologi,Course Erhvervspsykologi,,,,Course Erhvervspsykologi,,,translated,manual_update,medium,english,,,2305,1823,0.000202,,
+EDU_course_EU og internationalt økonomisk samarbejde,EDU,course,EU og internationalt økonomisk samarbejde,Course EU og internationalt økonomisk samarbejde,Course EU og internationalt økonomisk samarbejde,,,Course: EU and international economic cooperation,,,translated,manual_update,medium,english,,,5075,3460,0.000383,,
+EDU_course_Studieområdet del 2,EDU,course,Studieområdet del 2,Course Studieområdet del 2,Course Studieområdet del 2,,,Course: Study area part 2,,,translated,manual_update,medium,english,,,5053,5053,0.00056,,
+EDU_course_Dansk IT,EDU,course,Dansk IT,Course Dansk IT,,,,Course Dansk IT,,,translated,manual_update,medium,english,,,3082,2229,0.000247,,
+EDU_course_Engelsk IT,EDU,course,Engelsk IT,Course Engelsk IT,,,,Course Engelsk IT,,,translated,manual_update,medium,english,,,1131,1079,0.00012,,
+EDU_course_Russisk begyndersprog,EDU,course,Russisk begyndersprog,Course Russisk begyndersprog,,,,Course Russisk begyndersprog,,,translated,manual_update,medium,english,,,2237,952,0.000105,,
+EDU_course_Andet,EDU,course,Andet,Course Andet,,,,Course Andet,,,translated,manual_update,medium,english,,,2377,1109,0.000123,,
+EDU_course_Filosofi og teknologi,EDU,course,Filosofi og teknologi,Course Filosofi og teknologi,Course Filosofi og teknologi,,,Course: Philosophy and technology,,,translated,manual_update,medium,english,,,110,89,1e-05,,
+EDU_course_Materialeteknologi,EDU,course,Materialeteknologi,Course Materialeteknologi,,,,Course Materialeteknologi,,,translated,manual_update,medium,english,,,1534,1143,0.000127,,
+EDU_course_Projektfag,EDU,course,Projektfag,Course Projektfag,,,,Course Projektfag,,,translated,manual_update,medium,english,,,158,116,1.3e-05,,
+EDU_course_Japansk begyndersprog,EDU,course,Japansk begyndersprog,Course Japansk begyndersprog,,,,Course Japansk begyndersprog,,,translated,manual_update,medium,english,,,662,298,3.3e-05,,
+EDU_course_Tysk begyndersprog,EDU,course,Tysk begyndersprog,Course Tysk begyndersprog,,,,Course Tysk begyndersprog,,,translated,manual_update,medium,english,,,636,241,2.7e-05,,
+EDU_course_Dansk som andetsprog,EDU,course,Dansk som andetsprog,Course Dansk som andetsprog,,,,Course Dansk som andetsprog,,,translated,manual_update,medium,english,,,2190,1109,0.000123,,
+EDU_course_Astrofysik,EDU,course,Astrofysik,Course Astrofysik,,,,Course Astrofysik,,,translated,manual_update,medium,english,,,445,334,3.7e-05,,
+EDU_course_Projektopgave,EDU,course,Projektopgave,Course Projektopgave,,,,Course Projektopgave,,,translated,manual_update,medium,english,,,160,160,1.8e-05,,
+EDU_course_Kinesisk områdestudium,EDU,course,Kinesisk områdestudium,Course Kinesisk områdestudium,Course Kinesisk områdestudium,,,Course: Chinese area studies,,,translated,manual_update,medium,english,,,3084,2400,0.000266,,
+EDU_course_Spansk fortsættersprog,EDU,course,Spansk fortsættersprog,Course Spansk fortsættersprog,Course Spansk fortsættersprog,,,Course: Spanish continuation language,,,translated,manual_update,medium,english,,,31,27,3e-06,,
+EDU_course_Byggeteknologi,EDU,course,Byggeteknologi,Course Byggeteknologi,,,,Course Byggeteknologi,,,translated,manual_update,medium,english,,,887,536,5.9e-05,,
+EDU_course_Studieretningsopgave,EDU,course,Studieretningsopgave,Course Studieretningsopgave,,,,Course Studieretningsopgave,,,translated,manual_update,medium,english,,,1218,910,0.000101,,
+EDU_course_FyMa,EDU,course,FyMa,Course FyMa,,,,Course FyMa,,,translated,manual_update,medium,english,,,266,182,2e-05,,
+EDU_course_Marketing,EDU,course,Marketing,Course Marketing,,,,Course Marketing,,,translated,manual_update,medium,english,,,141,45,5e-06,,
+EDU_course_Studieområde del 1,EDU,course,Studieområde del 1,Course Studieområde del 1,Course Studieområde del 1,,,Course: Study area part 1,,,translated,manual_update,medium,english,,,127,127,1.4e-05,,
+EDU_course_Kultur/historie,EDU,course,Kultur/historie,Course Kultur/historie,,,,Course Kultur/historie,,,translated,manual_update,medium,english,,,64,40,4e-06,,
+EDU_course_Science,EDU,course,Science,Course Science,,,,Course Science,,,translated,manual_update,medium,english,,,12,12,1e-06,,
+EDU_course_Kvalitetsstyring,EDU,course,Kvalitetsstyring,Course Kvalitetsstyring,,,,Course Kvalitetsstyring,,,translated,manual_update,medium,english,,,18,18,2e-06,,
+EDU_course_Islandsk,EDU,course,Islandsk,Course Islandsk,,,,Course Islandsk,,,translated,manual_update,medium,english,,,18,9,1e-06,,
+EDU_course_Kulturfag,EDU,course,Kulturfag,Course Kulturfag,,,,Course Kulturfag,,,translated,manual_update,medium,english,,,52,37,4e-06,,
+EDU_course_Arktisk teknologi,EDU,course,Arktisk teknologi,Course Arktisk teknologi,,,,Course Arktisk teknologi,,,translated,manual_update,medium,english,,,48,37,4e-06,,
+EDU_course_Grønlandsk,EDU,course,Grønlandsk,Course Grønlandsk,Course Grønlandsk,,,Course: Greenlandic,,,translated,manual_update,medium,english,,,33,14,2e-06,,
+EDU_course_International (USA),EDU,course,International (USA),Course International (USA),,,,Course International (USA),,,translated,manual_update,medium,english,,,15,15,2e-06,,
+EDU_course_Fødevareteknologi,EDU,course,Fødevareteknologi,Course Fødevareteknologi,Course Fødevareteknologi,,,Course: Food technology,,,translated,manual_update,medium,english,,,6,5,1e-06,,
+EDU_course_Nationaløkonomi,EDU,course,Nationaløkonomi,Course Nationaløkonomi,Course Nationaløkonomi,,,Course: National economics,,,translated,manual_update,medium,english,,,84,53,6e-06,,
+EDU_course_Portugisisk begyndersprog,EDU,course,Portugisisk begyndersprog,Course Portugisisk begyndersprog,,,,Course Portugisisk begyndersprog,,,translated,manual_update,medium,english,,,38,13,1e-06,,
+EDU_course_Teater,EDU,course,Teater,Course Teater,,,,Course Teater,,,translated,manual_update,medium,english,,,150,46,5e-06,,
+EDU_course_Erhvervsinformatik,EDU,course,Erhvervsinformatik,Course Erhvervsinformatik,,,,Course Erhvervsinformatik,,,translated,manual_update,medium,english,,,46,45,5e-06,,
+"EDU_course_Teknikfag byggeri og energi, el",EDU,course,"Teknikfag byggeri og energi, el","Course Teknikfag byggeri og energi, el","Course Teknikfag byggeri og energi, el",,,"Course: Technology subject construction and energy, electricity",,,translated,manual_update,medium,english,,,98,49,5e-06,,
+EDU_course_Kinesisk fortsættersprog,EDU,course,Kinesisk fortsættersprog,Course Kinesisk fortsættersprog,Course Kinesisk fortsættersprog,,,Course: Chinese continuation language,,,translated,manual_update,medium,english,,,4,2,0.0,,
+EDU_course_Verdenslitteratur,EDU,course,Verdenslitteratur,Course Verdenslitteratur,,,,Course Verdenslitteratur,,,translated,manual_update,medium,english,,,6,6,1e-06,,
+EDU_course_level_C,EDU,course,level_C,Course level_C,,,,Course level_C,,,translated,manual_update,medium,english,,,6076326,843954,0.093475,,
+EDU_course_level_-,EDU,course,level_-,Course level_-,,,,Course level_-,,,translated,manual_update,medium,english,,,2438911,777747,0.086142,,
+EDU_course_level_B,EDU,course,level_B,Course level_B,,,,Course level_B,,,translated,manual_update,medium,english,,,5766843,843463,0.09342,,
+EDU_course_level_A,EDU,course,level_A,Course level_A,,,,Course level_A,,,translated,manual_update,medium,english,,,8806884,844839,0.093573,,

@@ -1,4 +1,4 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-SOC_end_parole_1,SOC,end,parole_1,End of parole,,,,End of parole,,,translated,none|generated,medium,danish,,,86216,50866,0.005634
-SOC_end_drug_service_1,SOC,end,drug_service_1,End of drug service,,,,End of drug service,,,translated,none|generated,medium,danish,,,205832,64086,0.007098
-SOC_end_precaution_1,SOC,end,precaution_1,End of precaution,,,,End of precaution,,,translated,none|generated,medium,danish,,,663927,305271,0.033811
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+SOC_end_parole_1,SOC,end,parole_1,End of parole,,,,End of parole,,,translated,none|generated,medium,danish,,,86216,50866,0.005634,,
+SOC_end_drug_service_1,SOC,end,drug_service_1,End of drug service,,,,End of drug service,,,translated,none|generated,medium,danish,,,205832,64086,0.007098,,
+SOC_end_precaution_1,SOC,end,precaution_1,End of precaution,,,,End of precaution,,,translated,none|generated,medium,danish,,,663927,305271,0.033811,,

@@ -1,215 +1,215 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-DEM_statsb_5999,DEM,statsb,5999,Country unknown (1),Land ukendt (1),,,Country unknown (1),,,translated,CSV:DEM_statsb,medium,danish,,,11050919,5525547,0.611999
-DEM_statsb_unknown,DEM,statsb,unknown,Country: unknown,,,,Country: unknown,,,translated,none|generated,medium,danish,,,,,
-DEM_statsb_5704,DEM,statsb,5704,Ukraine,Ukraine,,,Ukraine,Ukraine,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,139567,69840,0.007735
-DEM_statsb_5100,DEM,statsb,5100,Danmark,Danmark,,,Denmark,Denmark,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,9346715,7273289,0.805576
-DEM_statsb_5486,DEM,statsb,5486,Syrien,Syrien,,,Syria,Syria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,87594,44091,0.004883
-DEM_statsb_5180,DEM,statsb,5180,Tyskland,Tyskland,,,Germany,Germany,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,165971,87178,0.009656
-DEM_statsb_5390,DEM,statsb,5390,USA,USA,,,United States,United States,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,131859,67742,0.007503
-DEM_statsb_5492,DEM,statsb,5492,Thailand,Thailand,,,Thailand,Thailand,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,35934,18629,0.002063
-DEM_statsb_5170,DEM,statsb,5170,Storbritannien,Storbritannien,,,United Kingdom,United Kingdom,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,89894,50078,0.005547
-DEM_statsb_5611,DEM,statsb,5611,Litauen,Litauen,,,Lithuania,Lithuania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,69386,34765,0.003851
-DEM_statsb_5140,DEM,statsb,5140,Nederlandene,Nederlandene,,,Netherlands,Netherlands,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,44876,23498,0.002603
-DEM_statsb_5150,DEM,statsb,5150,Italien,Italien,,,Italy,Italy,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,76540,39717,0.004399
-DEM_statsb_5474,DEM,statsb,5474,Filippinerne,Filippinerne,,,Philippines,Philippines,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,54988,28117,0.003114
-DEM_statsb_5154,DEM,statsb,5154,Polen,Polen,,,Poland,Poland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,185309,94900,0.010511
-DEM_statsb_5158,DEM,statsb,5158,Rumænien,Rumænien,,,Romania,Romania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,154103,77586,0.008593
-DEM_statsb_5130,DEM,statsb,5130,Frankrig,Frankrig,,,France,France,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,62792,32371,0.003585
-DEM_statsb_5106,DEM,statsb,5106,Island,Island,,,Iceland,Iceland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,64183,33687,0.003731
-DEM_statsb_5120,DEM,statsb,5120,Sverige,Sverige,,,Sweden,Sweden,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,94508,51696,0.005726
-DEM_statsb_5306,DEM,statsb,5306,Brasilien,Brasilien,,,Brazil,Brazil,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,20331,10361,0.001148
-DEM_statsb_5172,DEM,statsb,5172,Tyrkiet,Tyrkiet,,,Turkey,,,translated,CSV:DEM_statsb,medium,danish,,,105778,67557,0.007482
-DEM_statsb_5706,DEM,statsb,5706,Belarus,Belarus,,,Belarus,Belarus,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3192,1629,0.00018
-DEM_statsb_5418,DEM,statsb,5418,Sri Lanka,Sri Lanka,,,Sri Lanka,Sri Lanka,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,19509,12170,0.001348
-DEM_statsb_5244,DEM,statsb,5244,Marokko,Marokko,,,Morocco,Morocco,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,13716,8273,0.000916
-DEM_statsb_5110,DEM,statsb,5110,Norge,Norge,,,Norway,Norway,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,106313,58163,0.006442
-DEM_statsb_5700,DEM,statsb,5700,Rusland,Rusland,,,Russia,Russia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,26832,13514,0.001497
-DEM_statsb_5432,DEM,statsb,5432,Indien,Indien,,,India,India,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,81068,40926,0.004533
-DEM_statsb_5104,DEM,statsb,5104,Finland,Finland,,,Finland,Finland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,24925,13323,0.001476
-DEM_statsb_5404,DEM,statsb,5404,Afghanistan,Afghanistan,,,Afghanistan,Afghanistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,41953,21191,0.002347
-DEM_statsb_5392,DEM,statsb,5392,Venezuela,Venezuela,,,Venezuela,Venezuela,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2190,1110,0.000123
-DEM_statsb_5758,DEM,statsb,5758,"Yugoslavia, Federal Republic of","Jugoslavien, Forbundsrepublikken",,,"Yugoslavia, Federal Republic of",,,translated,CSV:DEM_statsb,medium,danish,,,4855,2433,0.000269
-DEM_statsb_5436,DEM,statsb,5436,Irak,Irak,,,Iraq,Iraq,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,68677,35717,0.003956
-DEM_statsb_5103,DEM,statsb,5103,Statsløs,Statsløs,,,Stateless,Stateless,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,40738,25423,0.002816
-DEM_statsb_5289,DEM,statsb,5289,Somalia,Somalia,,,Somalia,Somalia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,56823,28738,0.003183
-DEM_statsb_5142,DEM,statsb,5142,Irland,Irland,,,Ireland,Ireland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,13508,7327,0.000812
-DEM_statsb_5156,DEM,statsb,5156,Portugal,Portugal,,,Portugal,Portugal,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,25163,12871,0.001426
-DEM_statsb_5488,DEM,statsb,5488,Vietnam (2),Vietnam (2),,,Vietnam (2),,,copy-of-da,CSV:DEM_statsb,medium,danish,,,23509,13329,0.001476
-DEM_statsb_5152,DEM,statsb,5152,Jugoslavien,Jugoslavien,,,Yugoslavia,Yugoslavia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,28157,18667,0.002068
-DEM_statsb_5472,DEM,statsb,5472,Pakistan,Pakistan,,,Pakistan,Pakistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,42509,24186,0.002679
-DEM_statsb_5448,DEM,statsb,5448,Kina,Kina,,,China,China,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,78076,39419,0.004366
-DEM_statsb_5174,DEM,statsb,5174,Ungarn,Ungarn,,,Hungary,Hungary,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,29949,15156,0.001679
-DEM_statsb_5484,DEM,statsb,5484,Sydkorea,Sydkorea,,,South Korea,South Korea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8949,4578,0.000507
-DEM_statsb_5464,DEM,statsb,5464,Nepal,Nepal,,,Nepal,Nepal,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,24822,12441,0.001378
-DEM_statsb_5134,DEM,statsb,5134,Grækenland,Grækenland,,,Greece,Greece,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,18403,9478,0.00105
-DEM_statsb_5128,DEM,statsb,5128,Bulgarien,Bulgarien,,,Bulgaria,Bulgaria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,47926,24081,0.002667
-DEM_statsb_5438,DEM,statsb,5438,Iran,Iran,,,Iran,Iran,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,52590,30248,0.00335
-DEM_statsb_5754,DEM,statsb,5754,Bosnien-Hercegovina,Bosnien-Hercegovina,,,Bosnia and Herzegovina,Bosnia and Herzegovina,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,52602,26404,0.002924
-DEM_statsb_5444,DEM,statsb,5444,Japan,Japan,,,Japan,Japan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,19262,9951,0.001102
-DEM_statsb_5756,DEM,statsb,5756,Nordmakedonien,Nordmakedonien,,,North Macedonia,North Macedonia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,10374,6279,0.000695
-DEM_statsb_5304,DEM,statsb,5304,Bolivia,Bolivia,,,Bolivia,Bolivia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,807,415,4.6e-05
-DEM_statsb_5164,DEM,statsb,5164,Spanien,Spanien,,,Spain,Spain,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,64160,32634,0.003614
-DEM_statsb_5410,DEM,statsb,5410,Bangladesh,Bangladesh,,,Bangladesh,Bangladesh,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,12045,6075,0.000673
-DEM_statsb_5281,DEM,statsb,5281,Benin,Benin,,,Benin,Benin,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,209,110,1.2e-05
-DEM_statsb_5609,DEM,statsb,5609,Letland,Letland,,,Latvia,Latvia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,29205,14675,0.001625
-DEM_statsb_5776,DEM,statsb,5776,Tjekkiet,Tjekkiet,,,Czech Republic,Czech Republic,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,14814,7464,0.000827
-DEM_statsb_5318,DEM,statsb,5318,Colombia,Colombia,,,Colombia,Colombia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,6854,3498,0.000387
-DEM_statsb_5287,DEM,statsb,5287,Rwanda,Rwanda,,,Rwanda,Rwanda,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1275,645,7.1e-05
-DEM_statsb_5278,DEM,statsb,5278,"Congo, Demokratiske Republik","Congo, Demokratiske Republik",,,"Congo, Demokratiske Republik",,,copy-of-da,CSV:DEM_statsb,medium,danish,,,6071,3492,0.000387
-DEM_statsb_5456,DEM,statsb,5456,Libanon,Libanon,,,Lebanon,Lebanon,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,13345,8236,0.000912
-DEM_statsb_5607,DEM,statsb,5607,Estland,Estland,,,Estonia,Estonia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,9672,4853,0.000538
-DEM_statsb_5202,DEM,statsb,5202,Algeriet,Algeriet,,,Algeria,Algeria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2177,1240,0.000137
-DEM_statsb_5502,DEM,statsb,5502,Australien,Australien,,,Australia,Australia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,22848,11681,0.001294
-DEM_statsb_5446,DEM,statsb,5446,Jordan,Jordan,,,Jordan,Jordan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3875,2284,0.000253
-DEM_statsb_5272,DEM,statsb,5272,Egypten,Egypten,,,Egypten,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,5960,3154,0.000349
-DEM_statsb_5434,DEM,statsb,5434,Indonesien,Indonesien,,,Indonesia,Indonesia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4989,2551,0.000283
-DEM_statsb_5222,DEM,statsb,5222,Gambia,Gambia,,,Gambia,Gambia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2096,1159,0.000128
-DEM_statsb_5354,DEM,statsb,5354,Mexico,Mexico,,,Mexico,Mexico,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8850,4487,0.000497
-DEM_statsb_5366,DEM,statsb,5366,Peru,Peru,,,Peru,Peru,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2966,1550,0.000172
-DEM_statsb_5514,DEM,statsb,5514,New Zealand,New Zealand,,,New Zealand,New Zealand,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4929,2541,0.000281
-DEM_statsb_5778,DEM,statsb,5778,Slovakiet,Slovakiet,,,Slovakia,Slovakia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,17209,8646,0.000958
-DEM_statsb_5714,DEM,statsb,5714,Usbekistan,Usbekistan,,,Uzbekistan,Uzbekistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1456,733,8.1e-05
-DEM_statsb_5262,DEM,statsb,5262,Sydafrika,Sydafrika,,,South Africa,South Africa,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4442,2286,0.000253
-DEM_statsb_5268,DEM,statsb,5268,Tunesien,Tunesien,,,Tunisia,Tunisia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2846,1580,0.000175
-DEM_statsb_5302,DEM,statsb,5302,Argentina,Argentina,,,Argentina,Argentina,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,15270,7736,0.000857
-DEM_statsb_5216,DEM,statsb,5216,Eritrea,Eritrea,,,Eritrea,Eritrea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,17731,8900,0.000986
-DEM_statsb_5716,DEM,statsb,5716,Kasakhstan,Kasakhstan,,,Kazakhstan,Kazakhstan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,978,493,5.5e-05
-DEM_statsb_5314,DEM,statsb,5314,Canada,Canada,,,Canada,Canada,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,22055,11481,0.001272
-DEM_statsb_5458,DEM,statsb,5458,Malaysia,Malaysia,,,Malaysia,Malaysia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3005,1554,0.000172
-DEM_statsb_5151,DEM,statsb,5151,Serbien og Montenegro,Serbien og Montenegro,,,Serbia and Montenegro,Serbia and Montenegro,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3313,1799,0.000199
-DEM_statsb_5234,DEM,statsb,5234,Kenya,Kenya,,,Kenya,Kenya,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4378,2267,0.000251
-DEM_statsb_5414,DEM,statsb,5414,Myanmar,Myanmar,,,Myanmar,Myanmar,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,5690,2871,0.000318
-DEM_statsb_5182,DEM,statsb,5182,Østrig,Østrig,,,Austria,Austria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,12304,6455,0.000715
-DEM_statsb_5247,DEM,statsb,5247,Namibia,Namibia,,,Namibia,Namibia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,240,121,1.3e-05
-DEM_statsb_5316,DEM,statsb,5316,Chile,Chile,,,Chile,Chile,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,7977,4271,0.000473
-DEM_statsb_5295,DEM,statsb,5295,Zimbabwe,Zimbabwe,,,Zimbabwe,Zimbabwe,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1042,555,6.1e-05
-DEM_statsb_5752,DEM,statsb,5752,Slovenien,Slovenien,,,Slovenia,Slovenia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3375,1703,0.000189
-DEM_statsb_5326,DEM,statsb,5326,Dominikanske Republik,Dominikanske Republik,,,Dominikanske Republik,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,514,272,3e-05
-DEM_statsb_5376,DEM,statsb,5376,Uruguay,Uruguay,,,Uruguay,Uruguay,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,508,306,3.4e-05
-DEM_statsb_5724,DEM,statsb,5724,Georgien,Georgien,,,Georgia,Georgia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1095,551,6.1e-05
-DEM_statsb_5126,DEM,statsb,5126,Belgien,Belgien,,,Belgium,Belgium,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,14123,7222,0.0008
-DEM_statsb_5328,DEM,statsb,5328,Ecuador,Ecuador,,,Ecuador,Ecuador,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1532,792,8.8e-05
-DEM_statsb_5424,DEM,statsb,5424,Taiwan,Taiwan,,,Taiwan,Taiwan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2565,1315,0.000146
-DEM_statsb_5204,DEM,statsb,5204,Angola,Angola,,,Angola,Angola,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,479,242,2.7e-05
-DEM_statsb_5708,DEM,statsb,5708,Armenien,Armenien,,,Armenia,Armenia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2407,1216,0.000135
-DEM_statsb_5338,DEM,statsb,5338,Guatemala,Guatemala,,,Guatemala,Guatemala,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,644,327,3.6e-05
-DEM_statsb_5269,DEM,statsb,5269,Uganda,Uganda,,,Uganda,Uganda,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,5461,2813,0.000312
-DEM_statsb_5288,DEM,statsb,5288,Senegal,Senegal,,,Senegal,Senegal,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,501,257,2.8e-05
-DEM_statsb_5258,DEM,statsb,5258,Sudan,Sudan,,,Sudan,Sudan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2853,1452,0.000161
-DEM_statsb_5459,DEM,statsb,5459,Mongoliet,Mongoliet,,,Mongolia,Mongolia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,349,175,1.9e-05
-DEM_statsb_5324,DEM,statsb,5324,Cuba,Cuba,,,Cuba,Cuba,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1562,791,8.8e-05
-DEM_statsb_5153,DEM,statsb,5153,Malta,Malta,,,Malta,Malta,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,549,285,3.2e-05
-DEM_statsb_5240,DEM,statsb,5240,Mozambique,Mozambique,,,Mozambique,Mozambique,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,733,372,4.1e-05
-DEM_statsb_5750,DEM,statsb,5750,Kroatien,Kroatien,,,Croatia,Croatia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,11382,5948,0.000659
-DEM_statsb_5213,DEM,statsb,5213,Burundi,Burundi,,,Burundi,Burundi,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1730,876,9.7e-05
-DEM_statsb_5228,DEM,statsb,5228,Ghana,Ghana,,,Ghana,Ghana,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8287,4291,0.000475
-DEM_statsb_5266,DEM,statsb,5266,Tanzania,Tanzania,,,Tanzania,Tanzania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3038,1603,0.000178
-DEM_statsb_5160,DEM,statsb,5160,Schweiz,Schweiz,,,Switzerland,Switzerland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,10986,6030,0.000668
-DEM_statsb_5214,DEM,statsb,5214,Etiopien,Etiopien,,,Ethiopia,Ethiopia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,5022,2719,0.000301
-DEM_statsb_5293,DEM,statsb,5293,Togo,Togo,,,Togo,Togo,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,465,247,2.7e-05
-DEM_statsb_5442,DEM,statsb,5442,Israel,Israel,,,Israel,Israel,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4246,2355,0.000261
-DEM_statsb_5233,DEM,statsb,5233,Kap Verde,Kap Verde,,,Cape Verde,,,translated,CSV:DEM_statsb,medium,danish,,,62,31,3e-06
-DEM_statsb_5710,DEM,statsb,5710,Aserbajdsjan,Aserbajdsjan,,,Azerbaijan,Azerbaijan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1336,674,7.5e-05
-DEM_statsb_5277,DEM,statsb,5277,Cameroun,Cameroun,,,Cameroon,Cameroon,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4154,2096,0.000232
-DEM_statsb_5482,DEM,statsb,5482,Singapore,Singapore,,,Singapore,Singapore,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,5609,2857,0.000316
-DEM_statsb_5232,DEM,statsb,5232,Guinea,Guinea,,,Guinea,Guinea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,321,170,1.9e-05
-DEM_statsb_5345,DEM,statsb,5345,Dominica,Dominica,,,Dominica,Dominica,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,58,30,3e-06
-DEM_statsb_5255,DEM,statsb,5255,Sierra Leone,Sierra Leone,,,Sierra Leone,Sierra Leone,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1087,575,6.4e-05
-DEM_statsb_5757,DEM,statsb,5757,Serbien,Serbien,,,Serbia,Serbia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,7854,5240,0.00058
-DEM_statsb_5122,DEM,statsb,5122,Albanien,Albanien,,,Albania,Albania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2528,1272,0.000141
-DEM_statsb_5282,DEM,statsb,5282,Elfenbenskysten,Elfenbenskysten,,,Ivory Coast,Ivory Coast,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1503,787,8.7e-05
-DEM_statsb_5759,DEM,statsb,5759,Montenegro,Montenegro,,,Montenegro,Montenegro,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1507,1210,0.000134
-DEM_statsb_5108,DEM,statsb,5108,Luxembourg,Luxembourg,,,Luxembourg,Luxembourg,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,619,325,3.6e-05
-DEM_statsb_5422,DEM,statsb,5422,Cypern,Cypern,,,Cyprus,Cyprus,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1038,539,6e-05
-DEM_statsb_5246,DEM,statsb,5246,Nigeria,Nigeria,,,Nigeria,Nigeria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,6509,3305,0.000366
-DEM_statsb_5761,DEM,statsb,5761,Kosovo,Kosovo,,,Kosovo,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,5863,4646,0.000515
-DEM_statsb_5466,DEM,statsb,5466,Nordkorea,Nordkorea,,,North Korea,North Korea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1083,543,6e-05
-DEM_statsb_5408,DEM,statsb,5408,Bhutan,Bhutan,,,Bhutan,Bhutan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1302,661,7.3e-05
-DEM_statsb_5720,DEM,statsb,5720,Kirgisistan,Kirgisistan,,,Kyrgyzstan,Kyrgyzstan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,443,224,2.5e-05
-DEM_statsb_5279,DEM,statsb,5279,"Congo, Republikken","Congo, Republikken",,,"Congo, Republikken",,,copy-of-da,CSV:DEM_statsb,medium,danish,,,2289,1159,0.000128
-DEM_statsb_5162,DEM,statsb,5162,Sovjetunionen,Sovjetunionen,,,Soviet Union,Soviet Union,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1535,928,0.000103
-DEM_statsb_5487,DEM,statsb,5487,Mellemøsten uoplyst,Mellemøsten uoplyst,,,Middle East unknown,,,translated,CSV:DEM_statsb,medium,danish,,,206,115,1.3e-05
-DEM_statsb_5712,DEM,statsb,5712,Moldova,Moldova,,,Moldova,Moldova,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2327,1171,0.00013
-DEM_statsb_5322,DEM,statsb,5322,Costa Rica,Costa Rica,,,Costa Rica,Costa Rica,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1020,515,5.7e-05
-DEM_statsb_5374,DEM,statsb,5374,Trinidad og Tobago,Trinidad og Tobago,,,Trinidad and Tobago,Trinidad and Tobago,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,345,193,2.1e-05
-DEM_statsb_5296,DEM,statsb,5296,Zambia,Zambia,,,Zambia,Zambia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1468,767,8.5e-05
-DEM_statsb_5358,DEM,statsb,5358,Panama,Panama,,,Panama,Panama,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,368,190,2.1e-05
-DEM_statsb_5372,DEM,statsb,5372,El Salvador,El Salvador,,,El Salvador,El Salvador,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,227,123,1.4e-05
-DEM_statsb_5352,DEM,statsb,5352,Jamaica,Jamaica,,,Jamaica,Jamaica,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,446,237,2.6e-05
-DEM_statsb_5231,DEM,statsb,5231,Guinea-Bissau,Guinea-Bissau,,,Guinea-Bissau,Guinea-Bissau,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,200,104,1.2e-05
-DEM_statsb_5245,DEM,statsb,5245,Mauritius,Mauritius,,,Mauritius,Mauritius,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,278,149,1.7e-05
-DEM_statsb_5238,DEM,statsb,5238,Libyen,Libyen,,,Libya,Libya,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,426,223,2.5e-05
-DEM_statsb_5294,DEM,statsb,5294,Burkina Faso,Burkina Faso,,,Burkina Faso,Burkina Faso,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,257,131,1.5e-05
-DEM_statsb_5397,DEM,statsb,5397,"North America, unspecified",Nordamerika uoplyst,,,"North America, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,12,6,1e-06
-DEM_statsb_5129,DEM,statsb,5129,Tjekkoslovakiet,Tjekkoslovakiet,,,Czechoslovakia,Czechoslovakia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,868,556,6.2e-05
-DEM_statsb_5299,DEM,statsb,5299,"Africa, unspecified",Afrika uoplyst,,,"Africa, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,205,107,1.2e-05
-DEM_statsb_5259,DEM,statsb,5259,Eswatini,Eswatini,,,Eswatini,Eswatini,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,105,53,6e-06
-DEM_statsb_5454,DEM,statsb,5454,Laos,Laos,,,Laos,Laos,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,160,86,1e-05
-DEM_statsb_5242,DEM,statsb,5242,Madagaskar,Madagaskar,,,Madagascar,Madagascar,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,152,77,9e-06
-DEM_statsb_5308,DEM,statsb,5308,Guyana,Guyana,,,Guyana,Guyana,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,122,79,9e-06
-DEM_statsb_5416,DEM,statsb,5416,Cambodja,Cambodja,,,Cambodia,Cambodia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,745,391,4.3e-05
-DEM_statsb_5406,DEM,statsb,5406,Bahrain,Bahrain,,,Bahrain,Bahrain,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,185,123,1.4e-05
-DEM_statsb_5001,DEM,statsb,5001,Uoplyst (2),Uoplyst (2),,,Unknown (2),,,translated,CSV:DEM_statsb,medium,danish,,,30,15,2e-06
-DEM_statsb_5522,DEM,statsb,5522,Samoa,Samoa,,,Samoa,Samoa,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,29,15,2e-06
-DEM_statsb_5508,DEM,statsb,5508,Fiji,Fiji,,,Fiji,Fiji,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,48,25,3e-06
-DEM_statsb_5348,DEM,statsb,5348,Honduras,Honduras,,,Honduras,Honduras,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,539,275,3e-05
-DEM_statsb_5452,DEM,statsb,5452,Kuwait,Kuwait,,,Kuwait,Kuwait,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,233,122,1.4e-05
-DEM_statsb_5297,DEM,statsb,5297,Malawi,Malawi,,,Malawi,Malawi,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,189,97,1.1e-05
-DEM_statsb_5356,DEM,statsb,5356,Nicaragua,Nicaragua,,,Nicaragua,Nicaragua,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,521,274,3e-05
-DEM_statsb_5525,DEM,statsb,5525,Djibouti,Djibouti,,,Djibouti,Djibouti,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,88,50,6e-06
-DEM_statsb_5284,DEM,statsb,5284,Mauretanien,Mauretanien,,,Mauritania,Mauritania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,68,35,4e-06
-DEM_statsb_5402,DEM,statsb,5402,Yemen,Yemen,,,Yemen,Yemen,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,344,182,2e-05
-DEM_statsb_5722,DEM,statsb,5722,Tadsjikistan,Tadsjikistan,,,Tajikistan,Tajikistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,122,62,7e-06
-DEM_statsb_5505,DEM,statsb,5505,Tonga,Tonga,,,Tonga,Tonga,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,45,23,3e-06
-DEM_statsb_5215,DEM,statsb,5215,Comorerne,Comorerne,,,Comorerne,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,57,33,4e-06
-DEM_statsb_5499,DEM,statsb,5499,"Asia, unspecified",Asien uoplyst,,,"Asia, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,123,88,1e-05
-DEM_statsb_5243,DEM,statsb,5243,Mali,Mali,,,Mali,Mali,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,154,78,9e-06
-DEM_statsb_5496,DEM,statsb,5496,Qatar,Qatar,,,Qatar,Qatar,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,46,23,3e-06
-DEM_statsb_5342,DEM,statsb,5342,Haiti,Haiti,,,Haiti,Haiti,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,186,97,1.1e-05
-DEM_statsb_5309,DEM,statsb,5309,Antigua og Barbuda,Antigua og Barbuda,,,Antigua and Barbuda,Antigua and Barbuda,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,18,9,1e-06
-DEM_statsb_5236,DEM,statsb,5236,Liberia,Liberia,,,Liberia,Liberia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,424,217,2.4e-05
-DEM_statsb_5478,DEM,statsb,5478,Saudi-Arabien,Saudi-Arabien,,,Saudi Arabia,Saudi Arabia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,286,145,1.6e-05
-DEM_statsb_5364,DEM,statsb,5364,Paraguay,Paraguay,,,Paraguay,Paraguay,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,340,176,1.9e-05
-DEM_statsb_5260,DEM,statsb,5260,Sydsudan,Sydsudan,,,South Sudan,South Sudan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,111,91,1e-05
-DEM_statsb_5102,DEM,statsb,5102,"Abroad, unspecified",Udlandet uoplyst,,,"Abroad, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,405,218,2.4e-05
-DEM_statsb_5207,DEM,statsb,5207,Botswana,Botswana,,,Botswana,Botswana,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,152,83,9e-06
-DEM_statsb_5305,DEM,statsb,5305,Barbados,Barbados,,,Barbados,Barbados,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,84,46,5e-06
-DEM_statsb_5115,DEM,statsb,5115,Kongelig,Kongelig,,,Kongelig,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,28,18,2e-06
-DEM_statsb_5285,DEM,statsb,5285,Niger,Niger,,,Niger,Niger,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,74,39,4e-06
-DEM_statsb_5339,DEM,statsb,5339,Grenada,Grenada,,,Grenada,Grenada,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,38,21,2e-06
-DEM_statsb_5159,DEM,statsb,5159,San Marino,San Marino,,,San Marino,San Marino,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8,4,0.0
-DEM_statsb_5398,DEM,statsb,5398,Syd- og Mellemamerika uoplyst,Syd- og Mellemamerika uoplyst,,,South and Central America unknown,,,translated,CSV:DEM_statsb,medium,danish,,,8,5,1e-06
-DEM_statsb_5403,DEM,statsb,5403,Forenede Arabiske Emirater,Forenede Arabiske Emirater,,,Forenede Arabiske Emirater,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,70,38,4e-06
-DEM_statsb_5718,DEM,statsb,5718,Turkmenistan,Turkmenistan,,,Turkmenistan,Turkmenistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,74,37,4e-06
-DEM_statsb_5276,DEM,statsb,5276,Centralafrikanske Republik,Centralafrikanske Republik,,,Central African Republic,Central African Republic,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,66,33,4e-06
-DEM_statsb_5235,DEM,statsb,5235,Lesotho,Lesotho,,,Lesotho,Lesotho,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,81,48,5e-06
-DEM_statsb_5283,DEM,statsb,5283,Gabon,Gabon,,,Gabon,Gabon,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,28,14,2e-06
-DEM_statsb_5457,DEM,statsb,5457,Maldiverne,Maldiverne,,,Maldives,Maldives,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,62,31,3e-06
-DEM_statsb_5303,DEM,statsb,5303,Bahamas,Bahamas,,,Bahamas,Bahamas,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,43,22,2e-06
-DEM_statsb_5274,DEM,statsb,5274,Kiribati,Kiribati,,,Kiribati,Kiribati,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,10,5,1e-06
-DEM_statsb_5462,DEM,statsb,5462,Oman,Oman,,,Oman,Oman,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,38,19,2e-06
-DEM_statsb_5298,DEM,statsb,5298,Seychellerne,Seychellerne,,,Seychelles,Seychelles,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,45,28,3e-06
-DEM_statsb_5105,DEM,statsb,5105,"Island, ligeret dansk","Island, ligeret dansk",,,"Iceland, located in Denmark",,,translated,CSV:DEM_statsb,medium,danish,,,59,51,6e-06
-DEM_statsb_5107,DEM,statsb,5107,Liechtenstein,Liechtenstein,,,Liechtenstein,Liechtenstein,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,102,52,6e-06
-DEM_statsb_5534,DEM,statsb,5534,Papua Ny Guinea,Papua Ny Guinea,,,Papua New Guinea,Papua New Guinea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,14,7,1e-06
-DEM_statsb_5344,DEM,statsb,5344,Surinam,Surinam,,,Suriname,Suriname,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,15,8,1e-06
-DEM_statsb_5199,DEM,statsb,5199,"Europe, unspecified",Europa uoplyst,,,"Europe, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,18,9,1e-06
-DEM_statsb_5273,DEM,statsb,5273,Tuvalu,Tuvalu,,,Tuvalu,Tuvalu,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2,1,0.0
-DEM_statsb_5275,DEM,statsb,5275,Vanuatu,Vanuatu,,,Vanuatu,Vanuatu,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,17,9,1e-06
-DEM_statsb_5347,DEM,statsb,5347,Skt. Lucia,Skt. Lucia,,,Skt. Lucia,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,36,19,2e-06
-DEM_statsb_5292,DEM,statsb,5292,Tchad,Tchad,,,Chad,Chad,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,42,22,2e-06
-DEM_statsb_5395,DEM,statsb,5395,Vestindiske Øer,Vestindiske Øer,,,West Indies,,,translated,CSV:DEM_statsb,medium,danish,,,6,3,0.0
-DEM_statsb_5310,DEM,statsb,5310,Nauru,Nauru,,,Nauru,Nauru,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,6,3,0.0
-DEM_statsb_5124,DEM,statsb,5124,Andorra,Andorra,,,Andorra,Andorra,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,12,6,1e-06
-DEM_statsb_5435,DEM,statsb,5435,Østtimor,Østtimor,,,East Timor,East Timor,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2,1,0.0
-DEM_statsb_5526,DEM,statsb,5526,Belize,Belize,,,Belize,Belize,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,27,15,2e-06
-DEM_statsb_5625,DEM,statsb,5625,Skt. Kitts og Nevis,Skt. Kitts og Nevis,,,Saint Kitts and Nevis,Saint Kitts and Nevis,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,22,12,1e-06
-DEM_statsb_5412,DEM,statsb,5412,Brunei,Brunei,,,Brunei,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,22,12,1e-06
-DEM_statsb_5623,DEM,statsb,5623,Salomonøerne,Salomonøerne,,,Solomon Islands,Solomon Islands,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8,4,0.0
-DEM_statsb_5311,DEM,statsb,5311,Skt. Vincent og Grenadinerne,Skt. Vincent og Grenadinerne,,,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,12,6,1e-06
-DEM_statsb_5176,DEM,statsb,5176,Vatikanstaten,Vatikanstaten,,,Vatican City,,,translated,CSV:DEM_statsb,medium,danish,,,2,1,0.0
-DEM_statsb_5109,DEM,statsb,5109,Monaco,Monaco,,,Monaco,Monaco,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4,2,0.0
-DEM_statsb_5779,DEM,statsb,5779,Cookøerne,Cookøerne,,,Cook Islands,Cook Islands,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2,1,0.0
-DEM_statsb_5230,DEM,statsb,5230,Ækvatorialguinea,Ækvatorialguinea,,,Equatorial Guinea,Equatorial Guinea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,7,4,0.0
-DEM_statsb_5621,DEM,statsb,5621,Sao Tome og Principe,Sao Tome og Principe,,,São Tomé and Príncipe,,,translated,CSV:DEM_statsb,medium,danish,,,4,2,0.0
-DEM_statsb_5248,DEM,statsb,5248,Marshalløerne,Marshalløerne,,,Marshall Islands,Marshall Islands,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2,1,0.0
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+DEM_statsb_5999,DEM,statsb,5999,Country unknown (1),Land ukendt (1),,,Country unknown (1),,,translated,CSV:DEM_statsb,medium,danish,,,11050919,5525547,0.611999,,
+DEM_statsb_unknown,DEM,statsb,unknown,Country: unknown,,,,Country: unknown,,,translated,none|generated,medium,danish,,,,,,,
+DEM_statsb_5704,DEM,statsb,5704,Ukraine,Ukraine,,,Ukraine,Ukraine,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,139567,69840,0.007735,,
+DEM_statsb_5100,DEM,statsb,5100,Danmark,Danmark,,,Denmark,Denmark,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,9346715,7273289,0.805576,,
+DEM_statsb_5486,DEM,statsb,5486,Syrien,Syrien,,,Syria,Syria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,87594,44091,0.004883,,
+DEM_statsb_5180,DEM,statsb,5180,Tyskland,Tyskland,,,Germany,Germany,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,165971,87178,0.009656,,
+DEM_statsb_5390,DEM,statsb,5390,USA,USA,,,United States,United States,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,131859,67742,0.007503,,
+DEM_statsb_5492,DEM,statsb,5492,Thailand,Thailand,,,Thailand,Thailand,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,35934,18629,0.002063,,
+DEM_statsb_5170,DEM,statsb,5170,Storbritannien,Storbritannien,,,United Kingdom,United Kingdom,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,89894,50078,0.005547,,
+DEM_statsb_5611,DEM,statsb,5611,Litauen,Litauen,,,Lithuania,Lithuania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,69386,34765,0.003851,,
+DEM_statsb_5140,DEM,statsb,5140,Nederlandene,Nederlandene,,,Netherlands,Netherlands,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,44876,23498,0.002603,,
+DEM_statsb_5150,DEM,statsb,5150,Italien,Italien,,,Italy,Italy,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,76540,39717,0.004399,,
+DEM_statsb_5474,DEM,statsb,5474,Filippinerne,Filippinerne,,,Philippines,Philippines,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,54988,28117,0.003114,,
+DEM_statsb_5154,DEM,statsb,5154,Polen,Polen,,,Poland,Poland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,185309,94900,0.010511,,
+DEM_statsb_5158,DEM,statsb,5158,Rumænien,Rumænien,,,Romania,Romania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,154103,77586,0.008593,,
+DEM_statsb_5130,DEM,statsb,5130,Frankrig,Frankrig,,,France,France,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,62792,32371,0.003585,,
+DEM_statsb_5106,DEM,statsb,5106,Island,Island,,,Iceland,Iceland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,64183,33687,0.003731,,
+DEM_statsb_5120,DEM,statsb,5120,Sverige,Sverige,,,Sweden,Sweden,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,94508,51696,0.005726,,
+DEM_statsb_5306,DEM,statsb,5306,Brasilien,Brasilien,,,Brazil,Brazil,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,20331,10361,0.001148,,
+DEM_statsb_5172,DEM,statsb,5172,Tyrkiet,Tyrkiet,,,Turkey,,,translated,CSV:DEM_statsb,medium,danish,,,105778,67557,0.007482,,
+DEM_statsb_5706,DEM,statsb,5706,Belarus,Belarus,,,Belarus,Belarus,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3192,1629,0.00018,,
+DEM_statsb_5418,DEM,statsb,5418,Sri Lanka,Sri Lanka,,,Sri Lanka,Sri Lanka,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,19509,12170,0.001348,,
+DEM_statsb_5244,DEM,statsb,5244,Marokko,Marokko,,,Morocco,Morocco,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,13716,8273,0.000916,,
+DEM_statsb_5110,DEM,statsb,5110,Norge,Norge,,,Norway,Norway,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,106313,58163,0.006442,,
+DEM_statsb_5700,DEM,statsb,5700,Rusland,Rusland,,,Russia,Russia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,26832,13514,0.001497,,
+DEM_statsb_5432,DEM,statsb,5432,Indien,Indien,,,India,India,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,81068,40926,0.004533,,
+DEM_statsb_5104,DEM,statsb,5104,Finland,Finland,,,Finland,Finland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,24925,13323,0.001476,,
+DEM_statsb_5404,DEM,statsb,5404,Afghanistan,Afghanistan,,,Afghanistan,Afghanistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,41953,21191,0.002347,,
+DEM_statsb_5392,DEM,statsb,5392,Venezuela,Venezuela,,,Venezuela,Venezuela,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2190,1110,0.000123,,
+DEM_statsb_5758,DEM,statsb,5758,"Yugoslavia, Federal Republic of","Jugoslavien, Forbundsrepublikken",,,"Yugoslavia, Federal Republic of",,,translated,CSV:DEM_statsb,medium,danish,,,4855,2433,0.000269,,
+DEM_statsb_5436,DEM,statsb,5436,Irak,Irak,,,Iraq,Iraq,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,68677,35717,0.003956,,
+DEM_statsb_5103,DEM,statsb,5103,Statsløs,Statsløs,,,Stateless,Stateless,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,40738,25423,0.002816,,
+DEM_statsb_5289,DEM,statsb,5289,Somalia,Somalia,,,Somalia,Somalia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,56823,28738,0.003183,,
+DEM_statsb_5142,DEM,statsb,5142,Irland,Irland,,,Ireland,Ireland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,13508,7327,0.000812,,
+DEM_statsb_5156,DEM,statsb,5156,Portugal,Portugal,,,Portugal,Portugal,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,25163,12871,0.001426,,
+DEM_statsb_5488,DEM,statsb,5488,Vietnam (2),Vietnam (2),,,Vietnam (2),,,copy-of-da,CSV:DEM_statsb,medium,danish,,,23509,13329,0.001476,,
+DEM_statsb_5152,DEM,statsb,5152,Jugoslavien,Jugoslavien,,,Yugoslavia,Yugoslavia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,28157,18667,0.002068,,
+DEM_statsb_5472,DEM,statsb,5472,Pakistan,Pakistan,,,Pakistan,Pakistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,42509,24186,0.002679,,
+DEM_statsb_5448,DEM,statsb,5448,Kina,Kina,,,China,China,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,78076,39419,0.004366,,
+DEM_statsb_5174,DEM,statsb,5174,Ungarn,Ungarn,,,Hungary,Hungary,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,29949,15156,0.001679,,
+DEM_statsb_5484,DEM,statsb,5484,Sydkorea,Sydkorea,,,South Korea,South Korea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8949,4578,0.000507,,
+DEM_statsb_5464,DEM,statsb,5464,Nepal,Nepal,,,Nepal,Nepal,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,24822,12441,0.001378,,
+DEM_statsb_5134,DEM,statsb,5134,Grækenland,Grækenland,,,Greece,Greece,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,18403,9478,0.00105,,
+DEM_statsb_5128,DEM,statsb,5128,Bulgarien,Bulgarien,,,Bulgaria,Bulgaria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,47926,24081,0.002667,,
+DEM_statsb_5438,DEM,statsb,5438,Iran,Iran,,,Iran,Iran,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,52590,30248,0.00335,,
+DEM_statsb_5754,DEM,statsb,5754,Bosnien-Hercegovina,Bosnien-Hercegovina,,,Bosnia and Herzegovina,Bosnia and Herzegovina,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,52602,26404,0.002924,,
+DEM_statsb_5444,DEM,statsb,5444,Japan,Japan,,,Japan,Japan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,19262,9951,0.001102,,
+DEM_statsb_5756,DEM,statsb,5756,Nordmakedonien,Nordmakedonien,,,North Macedonia,North Macedonia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,10374,6279,0.000695,,
+DEM_statsb_5304,DEM,statsb,5304,Bolivia,Bolivia,,,Bolivia,Bolivia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,807,415,4.6e-05,,
+DEM_statsb_5164,DEM,statsb,5164,Spanien,Spanien,,,Spain,Spain,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,64160,32634,0.003614,,
+DEM_statsb_5410,DEM,statsb,5410,Bangladesh,Bangladesh,,,Bangladesh,Bangladesh,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,12045,6075,0.000673,,
+DEM_statsb_5281,DEM,statsb,5281,Benin,Benin,,,Benin,Benin,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,209,110,1.2e-05,,
+DEM_statsb_5609,DEM,statsb,5609,Letland,Letland,,,Latvia,Latvia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,29205,14675,0.001625,,
+DEM_statsb_5776,DEM,statsb,5776,Tjekkiet,Tjekkiet,,,Czech Republic,Czech Republic,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,14814,7464,0.000827,,
+DEM_statsb_5318,DEM,statsb,5318,Colombia,Colombia,,,Colombia,Colombia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,6854,3498,0.000387,,
+DEM_statsb_5287,DEM,statsb,5287,Rwanda,Rwanda,,,Rwanda,Rwanda,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1275,645,7.1e-05,,
+DEM_statsb_5278,DEM,statsb,5278,"Congo, Demokratiske Republik","Congo, Demokratiske Republik",,,"Congo, Demokratiske Republik",,,copy-of-da,CSV:DEM_statsb,medium,danish,,,6071,3492,0.000387,,
+DEM_statsb_5456,DEM,statsb,5456,Libanon,Libanon,,,Lebanon,Lebanon,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,13345,8236,0.000912,,
+DEM_statsb_5607,DEM,statsb,5607,Estland,Estland,,,Estonia,Estonia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,9672,4853,0.000538,,
+DEM_statsb_5202,DEM,statsb,5202,Algeriet,Algeriet,,,Algeria,Algeria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2177,1240,0.000137,,
+DEM_statsb_5502,DEM,statsb,5502,Australien,Australien,,,Australia,Australia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,22848,11681,0.001294,,
+DEM_statsb_5446,DEM,statsb,5446,Jordan,Jordan,,,Jordan,Jordan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3875,2284,0.000253,,
+DEM_statsb_5272,DEM,statsb,5272,Egypten,Egypten,,,Egypten,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,5960,3154,0.000349,,
+DEM_statsb_5434,DEM,statsb,5434,Indonesien,Indonesien,,,Indonesia,Indonesia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4989,2551,0.000283,,
+DEM_statsb_5222,DEM,statsb,5222,Gambia,Gambia,,,Gambia,Gambia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2096,1159,0.000128,,
+DEM_statsb_5354,DEM,statsb,5354,Mexico,Mexico,,,Mexico,Mexico,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8850,4487,0.000497,,
+DEM_statsb_5366,DEM,statsb,5366,Peru,Peru,,,Peru,Peru,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2966,1550,0.000172,,
+DEM_statsb_5514,DEM,statsb,5514,New Zealand,New Zealand,,,New Zealand,New Zealand,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4929,2541,0.000281,,
+DEM_statsb_5778,DEM,statsb,5778,Slovakiet,Slovakiet,,,Slovakia,Slovakia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,17209,8646,0.000958,,
+DEM_statsb_5714,DEM,statsb,5714,Usbekistan,Usbekistan,,,Uzbekistan,Uzbekistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1456,733,8.1e-05,,
+DEM_statsb_5262,DEM,statsb,5262,Sydafrika,Sydafrika,,,South Africa,South Africa,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4442,2286,0.000253,,
+DEM_statsb_5268,DEM,statsb,5268,Tunesien,Tunesien,,,Tunisia,Tunisia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2846,1580,0.000175,,
+DEM_statsb_5302,DEM,statsb,5302,Argentina,Argentina,,,Argentina,Argentina,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,15270,7736,0.000857,,
+DEM_statsb_5216,DEM,statsb,5216,Eritrea,Eritrea,,,Eritrea,Eritrea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,17731,8900,0.000986,,
+DEM_statsb_5716,DEM,statsb,5716,Kasakhstan,Kasakhstan,,,Kazakhstan,Kazakhstan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,978,493,5.5e-05,,
+DEM_statsb_5314,DEM,statsb,5314,Canada,Canada,,,Canada,Canada,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,22055,11481,0.001272,,
+DEM_statsb_5458,DEM,statsb,5458,Malaysia,Malaysia,,,Malaysia,Malaysia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3005,1554,0.000172,,
+DEM_statsb_5151,DEM,statsb,5151,Serbien og Montenegro,Serbien og Montenegro,,,Serbia and Montenegro,Serbia and Montenegro,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3313,1799,0.000199,,
+DEM_statsb_5234,DEM,statsb,5234,Kenya,Kenya,,,Kenya,Kenya,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4378,2267,0.000251,,
+DEM_statsb_5414,DEM,statsb,5414,Myanmar,Myanmar,,,Myanmar,Myanmar,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,5690,2871,0.000318,,
+DEM_statsb_5182,DEM,statsb,5182,Østrig,Østrig,,,Austria,Austria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,12304,6455,0.000715,,
+DEM_statsb_5247,DEM,statsb,5247,Namibia,Namibia,,,Namibia,Namibia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,240,121,1.3e-05,,
+DEM_statsb_5316,DEM,statsb,5316,Chile,Chile,,,Chile,Chile,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,7977,4271,0.000473,,
+DEM_statsb_5295,DEM,statsb,5295,Zimbabwe,Zimbabwe,,,Zimbabwe,Zimbabwe,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1042,555,6.1e-05,,
+DEM_statsb_5752,DEM,statsb,5752,Slovenien,Slovenien,,,Slovenia,Slovenia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3375,1703,0.000189,,
+DEM_statsb_5326,DEM,statsb,5326,Dominikanske Republik,Dominikanske Republik,,,Dominikanske Republik,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,514,272,3e-05,,
+DEM_statsb_5376,DEM,statsb,5376,Uruguay,Uruguay,,,Uruguay,Uruguay,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,508,306,3.4e-05,,
+DEM_statsb_5724,DEM,statsb,5724,Georgien,Georgien,,,Georgia,Georgia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1095,551,6.1e-05,,
+DEM_statsb_5126,DEM,statsb,5126,Belgien,Belgien,,,Belgium,Belgium,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,14123,7222,0.0008,,
+DEM_statsb_5328,DEM,statsb,5328,Ecuador,Ecuador,,,Ecuador,Ecuador,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1532,792,8.8e-05,,
+DEM_statsb_5424,DEM,statsb,5424,Taiwan,Taiwan,,,Taiwan,Taiwan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2565,1315,0.000146,,
+DEM_statsb_5204,DEM,statsb,5204,Angola,Angola,,,Angola,Angola,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,479,242,2.7e-05,,
+DEM_statsb_5708,DEM,statsb,5708,Armenien,Armenien,,,Armenia,Armenia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2407,1216,0.000135,,
+DEM_statsb_5338,DEM,statsb,5338,Guatemala,Guatemala,,,Guatemala,Guatemala,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,644,327,3.6e-05,,
+DEM_statsb_5269,DEM,statsb,5269,Uganda,Uganda,,,Uganda,Uganda,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,5461,2813,0.000312,,
+DEM_statsb_5288,DEM,statsb,5288,Senegal,Senegal,,,Senegal,Senegal,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,501,257,2.8e-05,,
+DEM_statsb_5258,DEM,statsb,5258,Sudan,Sudan,,,Sudan,Sudan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2853,1452,0.000161,,
+DEM_statsb_5459,DEM,statsb,5459,Mongoliet,Mongoliet,,,Mongolia,Mongolia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,349,175,1.9e-05,,
+DEM_statsb_5324,DEM,statsb,5324,Cuba,Cuba,,,Cuba,Cuba,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1562,791,8.8e-05,,
+DEM_statsb_5153,DEM,statsb,5153,Malta,Malta,,,Malta,Malta,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,549,285,3.2e-05,,
+DEM_statsb_5240,DEM,statsb,5240,Mozambique,Mozambique,,,Mozambique,Mozambique,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,733,372,4.1e-05,,
+DEM_statsb_5750,DEM,statsb,5750,Kroatien,Kroatien,,,Croatia,Croatia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,11382,5948,0.000659,,
+DEM_statsb_5213,DEM,statsb,5213,Burundi,Burundi,,,Burundi,Burundi,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1730,876,9.7e-05,,
+DEM_statsb_5228,DEM,statsb,5228,Ghana,Ghana,,,Ghana,Ghana,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8287,4291,0.000475,,
+DEM_statsb_5266,DEM,statsb,5266,Tanzania,Tanzania,,,Tanzania,Tanzania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,3038,1603,0.000178,,
+DEM_statsb_5160,DEM,statsb,5160,Schweiz,Schweiz,,,Switzerland,Switzerland,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,10986,6030,0.000668,,
+DEM_statsb_5214,DEM,statsb,5214,Etiopien,Etiopien,,,Ethiopia,Ethiopia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,5022,2719,0.000301,,
+DEM_statsb_5293,DEM,statsb,5293,Togo,Togo,,,Togo,Togo,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,465,247,2.7e-05,,
+DEM_statsb_5442,DEM,statsb,5442,Israel,Israel,,,Israel,Israel,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4246,2355,0.000261,,
+DEM_statsb_5233,DEM,statsb,5233,Kap Verde,Kap Verde,,,Cape Verde,,,translated,CSV:DEM_statsb,medium,danish,,,62,31,3e-06,,
+DEM_statsb_5710,DEM,statsb,5710,Aserbajdsjan,Aserbajdsjan,,,Azerbaijan,Azerbaijan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1336,674,7.5e-05,,
+DEM_statsb_5277,DEM,statsb,5277,Cameroun,Cameroun,,,Cameroon,Cameroon,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4154,2096,0.000232,,
+DEM_statsb_5482,DEM,statsb,5482,Singapore,Singapore,,,Singapore,Singapore,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,5609,2857,0.000316,,
+DEM_statsb_5232,DEM,statsb,5232,Guinea,Guinea,,,Guinea,Guinea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,321,170,1.9e-05,,
+DEM_statsb_5345,DEM,statsb,5345,Dominica,Dominica,,,Dominica,Dominica,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,58,30,3e-06,,
+DEM_statsb_5255,DEM,statsb,5255,Sierra Leone,Sierra Leone,,,Sierra Leone,Sierra Leone,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1087,575,6.4e-05,,
+DEM_statsb_5757,DEM,statsb,5757,Serbien,Serbien,,,Serbia,Serbia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,7854,5240,0.00058,,
+DEM_statsb_5122,DEM,statsb,5122,Albanien,Albanien,,,Albania,Albania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2528,1272,0.000141,,
+DEM_statsb_5282,DEM,statsb,5282,Elfenbenskysten,Elfenbenskysten,,,Ivory Coast,Ivory Coast,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1503,787,8.7e-05,,
+DEM_statsb_5759,DEM,statsb,5759,Montenegro,Montenegro,,,Montenegro,Montenegro,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1507,1210,0.000134,,
+DEM_statsb_5108,DEM,statsb,5108,Luxembourg,Luxembourg,,,Luxembourg,Luxembourg,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,619,325,3.6e-05,,
+DEM_statsb_5422,DEM,statsb,5422,Cypern,Cypern,,,Cyprus,Cyprus,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1038,539,6e-05,,
+DEM_statsb_5246,DEM,statsb,5246,Nigeria,Nigeria,,,Nigeria,Nigeria,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,6509,3305,0.000366,,
+DEM_statsb_5761,DEM,statsb,5761,Kosovo,Kosovo,,,Kosovo,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,5863,4646,0.000515,,
+DEM_statsb_5466,DEM,statsb,5466,Nordkorea,Nordkorea,,,North Korea,North Korea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1083,543,6e-05,,
+DEM_statsb_5408,DEM,statsb,5408,Bhutan,Bhutan,,,Bhutan,Bhutan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1302,661,7.3e-05,,
+DEM_statsb_5720,DEM,statsb,5720,Kirgisistan,Kirgisistan,,,Kyrgyzstan,Kyrgyzstan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,443,224,2.5e-05,,
+DEM_statsb_5279,DEM,statsb,5279,"Congo, Republikken","Congo, Republikken",,,"Congo, Republikken",,,copy-of-da,CSV:DEM_statsb,medium,danish,,,2289,1159,0.000128,,
+DEM_statsb_5162,DEM,statsb,5162,Sovjetunionen,Sovjetunionen,,,Soviet Union,Soviet Union,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1535,928,0.000103,,
+DEM_statsb_5487,DEM,statsb,5487,Mellemøsten uoplyst,Mellemøsten uoplyst,,,Middle East unknown,,,translated,CSV:DEM_statsb,medium,danish,,,206,115,1.3e-05,,
+DEM_statsb_5712,DEM,statsb,5712,Moldova,Moldova,,,Moldova,Moldova,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2327,1171,0.00013,,
+DEM_statsb_5322,DEM,statsb,5322,Costa Rica,Costa Rica,,,Costa Rica,Costa Rica,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1020,515,5.7e-05,,
+DEM_statsb_5374,DEM,statsb,5374,Trinidad og Tobago,Trinidad og Tobago,,,Trinidad and Tobago,Trinidad and Tobago,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,345,193,2.1e-05,,
+DEM_statsb_5296,DEM,statsb,5296,Zambia,Zambia,,,Zambia,Zambia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,1468,767,8.5e-05,,
+DEM_statsb_5358,DEM,statsb,5358,Panama,Panama,,,Panama,Panama,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,368,190,2.1e-05,,
+DEM_statsb_5372,DEM,statsb,5372,El Salvador,El Salvador,,,El Salvador,El Salvador,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,227,123,1.4e-05,,
+DEM_statsb_5352,DEM,statsb,5352,Jamaica,Jamaica,,,Jamaica,Jamaica,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,446,237,2.6e-05,,
+DEM_statsb_5231,DEM,statsb,5231,Guinea-Bissau,Guinea-Bissau,,,Guinea-Bissau,Guinea-Bissau,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,200,104,1.2e-05,,
+DEM_statsb_5245,DEM,statsb,5245,Mauritius,Mauritius,,,Mauritius,Mauritius,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,278,149,1.7e-05,,
+DEM_statsb_5238,DEM,statsb,5238,Libyen,Libyen,,,Libya,Libya,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,426,223,2.5e-05,,
+DEM_statsb_5294,DEM,statsb,5294,Burkina Faso,Burkina Faso,,,Burkina Faso,Burkina Faso,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,257,131,1.5e-05,,
+DEM_statsb_5397,DEM,statsb,5397,"North America, unspecified",Nordamerika uoplyst,,,"North America, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,12,6,1e-06,,
+DEM_statsb_5129,DEM,statsb,5129,Tjekkoslovakiet,Tjekkoslovakiet,,,Czechoslovakia,Czechoslovakia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,868,556,6.2e-05,,
+DEM_statsb_5299,DEM,statsb,5299,"Africa, unspecified",Afrika uoplyst,,,"Africa, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,205,107,1.2e-05,,
+DEM_statsb_5259,DEM,statsb,5259,Eswatini,Eswatini,,,Eswatini,Eswatini,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,105,53,6e-06,,
+DEM_statsb_5454,DEM,statsb,5454,Laos,Laos,,,Laos,Laos,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,160,86,1e-05,,
+DEM_statsb_5242,DEM,statsb,5242,Madagaskar,Madagaskar,,,Madagascar,Madagascar,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,152,77,9e-06,,
+DEM_statsb_5308,DEM,statsb,5308,Guyana,Guyana,,,Guyana,Guyana,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,122,79,9e-06,,
+DEM_statsb_5416,DEM,statsb,5416,Cambodja,Cambodja,,,Cambodia,Cambodia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,745,391,4.3e-05,,
+DEM_statsb_5406,DEM,statsb,5406,Bahrain,Bahrain,,,Bahrain,Bahrain,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,185,123,1.4e-05,,
+DEM_statsb_5001,DEM,statsb,5001,Uoplyst (2),Uoplyst (2),,,Unknown (2),,,translated,CSV:DEM_statsb,medium,danish,,,30,15,2e-06,,
+DEM_statsb_5522,DEM,statsb,5522,Samoa,Samoa,,,Samoa,Samoa,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,29,15,2e-06,,
+DEM_statsb_5508,DEM,statsb,5508,Fiji,Fiji,,,Fiji,Fiji,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,48,25,3e-06,,
+DEM_statsb_5348,DEM,statsb,5348,Honduras,Honduras,,,Honduras,Honduras,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,539,275,3e-05,,
+DEM_statsb_5452,DEM,statsb,5452,Kuwait,Kuwait,,,Kuwait,Kuwait,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,233,122,1.4e-05,,
+DEM_statsb_5297,DEM,statsb,5297,Malawi,Malawi,,,Malawi,Malawi,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,189,97,1.1e-05,,
+DEM_statsb_5356,DEM,statsb,5356,Nicaragua,Nicaragua,,,Nicaragua,Nicaragua,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,521,274,3e-05,,
+DEM_statsb_5525,DEM,statsb,5525,Djibouti,Djibouti,,,Djibouti,Djibouti,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,88,50,6e-06,,
+DEM_statsb_5284,DEM,statsb,5284,Mauretanien,Mauretanien,,,Mauritania,Mauritania,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,68,35,4e-06,,
+DEM_statsb_5402,DEM,statsb,5402,Yemen,Yemen,,,Yemen,Yemen,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,344,182,2e-05,,
+DEM_statsb_5722,DEM,statsb,5722,Tadsjikistan,Tadsjikistan,,,Tajikistan,Tajikistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,122,62,7e-06,,
+DEM_statsb_5505,DEM,statsb,5505,Tonga,Tonga,,,Tonga,Tonga,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,45,23,3e-06,,
+DEM_statsb_5215,DEM,statsb,5215,Comorerne,Comorerne,,,Comorerne,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,57,33,4e-06,,
+DEM_statsb_5499,DEM,statsb,5499,"Asia, unspecified",Asien uoplyst,,,"Asia, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,123,88,1e-05,,
+DEM_statsb_5243,DEM,statsb,5243,Mali,Mali,,,Mali,Mali,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,154,78,9e-06,,
+DEM_statsb_5496,DEM,statsb,5496,Qatar,Qatar,,,Qatar,Qatar,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,46,23,3e-06,,
+DEM_statsb_5342,DEM,statsb,5342,Haiti,Haiti,,,Haiti,Haiti,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,186,97,1.1e-05,,
+DEM_statsb_5309,DEM,statsb,5309,Antigua og Barbuda,Antigua og Barbuda,,,Antigua and Barbuda,Antigua and Barbuda,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,18,9,1e-06,,
+DEM_statsb_5236,DEM,statsb,5236,Liberia,Liberia,,,Liberia,Liberia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,424,217,2.4e-05,,
+DEM_statsb_5478,DEM,statsb,5478,Saudi-Arabien,Saudi-Arabien,,,Saudi Arabia,Saudi Arabia,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,286,145,1.6e-05,,
+DEM_statsb_5364,DEM,statsb,5364,Paraguay,Paraguay,,,Paraguay,Paraguay,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,340,176,1.9e-05,,
+DEM_statsb_5260,DEM,statsb,5260,Sydsudan,Sydsudan,,,South Sudan,South Sudan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,111,91,1e-05,,
+DEM_statsb_5102,DEM,statsb,5102,"Abroad, unspecified",Udlandet uoplyst,,,"Abroad, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,405,218,2.4e-05,,
+DEM_statsb_5207,DEM,statsb,5207,Botswana,Botswana,,,Botswana,Botswana,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,152,83,9e-06,,
+DEM_statsb_5305,DEM,statsb,5305,Barbados,Barbados,,,Barbados,Barbados,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,84,46,5e-06,,
+DEM_statsb_5115,DEM,statsb,5115,Kongelig,Kongelig,,,Kongelig,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,28,18,2e-06,,
+DEM_statsb_5285,DEM,statsb,5285,Niger,Niger,,,Niger,Niger,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,74,39,4e-06,,
+DEM_statsb_5339,DEM,statsb,5339,Grenada,Grenada,,,Grenada,Grenada,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,38,21,2e-06,,
+DEM_statsb_5159,DEM,statsb,5159,San Marino,San Marino,,,San Marino,San Marino,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8,4,0.0,,
+DEM_statsb_5398,DEM,statsb,5398,Syd- og Mellemamerika uoplyst,Syd- og Mellemamerika uoplyst,,,South and Central America unknown,,,translated,CSV:DEM_statsb,medium,danish,,,8,5,1e-06,,
+DEM_statsb_5403,DEM,statsb,5403,Forenede Arabiske Emirater,Forenede Arabiske Emirater,,,Forenede Arabiske Emirater,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,70,38,4e-06,,
+DEM_statsb_5718,DEM,statsb,5718,Turkmenistan,Turkmenistan,,,Turkmenistan,Turkmenistan,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,74,37,4e-06,,
+DEM_statsb_5276,DEM,statsb,5276,Centralafrikanske Republik,Centralafrikanske Republik,,,Central African Republic,Central African Republic,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,66,33,4e-06,,
+DEM_statsb_5235,DEM,statsb,5235,Lesotho,Lesotho,,,Lesotho,Lesotho,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,81,48,5e-06,,
+DEM_statsb_5283,DEM,statsb,5283,Gabon,Gabon,,,Gabon,Gabon,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,28,14,2e-06,,
+DEM_statsb_5457,DEM,statsb,5457,Maldiverne,Maldiverne,,,Maldives,Maldives,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,62,31,3e-06,,
+DEM_statsb_5303,DEM,statsb,5303,Bahamas,Bahamas,,,Bahamas,Bahamas,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,43,22,2e-06,,
+DEM_statsb_5274,DEM,statsb,5274,Kiribati,Kiribati,,,Kiribati,Kiribati,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,10,5,1e-06,,
+DEM_statsb_5462,DEM,statsb,5462,Oman,Oman,,,Oman,Oman,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,38,19,2e-06,,
+DEM_statsb_5298,DEM,statsb,5298,Seychellerne,Seychellerne,,,Seychelles,Seychelles,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,45,28,3e-06,,
+DEM_statsb_5105,DEM,statsb,5105,"Island, ligeret dansk","Island, ligeret dansk",,,"Iceland, located in Denmark",,,translated,CSV:DEM_statsb,medium,danish,,,59,51,6e-06,,
+DEM_statsb_5107,DEM,statsb,5107,Liechtenstein,Liechtenstein,,,Liechtenstein,Liechtenstein,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,102,52,6e-06,,
+DEM_statsb_5534,DEM,statsb,5534,Papua Ny Guinea,Papua Ny Guinea,,,Papua New Guinea,Papua New Guinea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,14,7,1e-06,,
+DEM_statsb_5344,DEM,statsb,5344,Surinam,Surinam,,,Suriname,Suriname,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,15,8,1e-06,,
+DEM_statsb_5199,DEM,statsb,5199,"Europe, unspecified",Europa uoplyst,,,"Europe, unspecified",,,translated,CSV:DEM_statsb,medium,danish,,,18,9,1e-06,,
+DEM_statsb_5273,DEM,statsb,5273,Tuvalu,Tuvalu,,,Tuvalu,Tuvalu,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2,1,0.0,,
+DEM_statsb_5275,DEM,statsb,5275,Vanuatu,Vanuatu,,,Vanuatu,Vanuatu,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,17,9,1e-06,,
+DEM_statsb_5347,DEM,statsb,5347,Skt. Lucia,Skt. Lucia,,,Skt. Lucia,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,36,19,2e-06,,
+DEM_statsb_5292,DEM,statsb,5292,Tchad,Tchad,,,Chad,Chad,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,42,22,2e-06,,
+DEM_statsb_5395,DEM,statsb,5395,Vestindiske Øer,Vestindiske Øer,,,West Indies,,,translated,CSV:DEM_statsb,medium,danish,,,6,3,0.0,,
+DEM_statsb_5310,DEM,statsb,5310,Nauru,Nauru,,,Nauru,Nauru,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,6,3,0.0,,
+DEM_statsb_5124,DEM,statsb,5124,Andorra,Andorra,,,Andorra,Andorra,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,12,6,1e-06,,
+DEM_statsb_5435,DEM,statsb,5435,Østtimor,Østtimor,,,East Timor,East Timor,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2,1,0.0,,
+DEM_statsb_5526,DEM,statsb,5526,Belize,Belize,,,Belize,Belize,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,27,15,2e-06,,
+DEM_statsb_5625,DEM,statsb,5625,Skt. Kitts og Nevis,Skt. Kitts og Nevis,,,Saint Kitts and Nevis,Saint Kitts and Nevis,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,22,12,1e-06,,
+DEM_statsb_5412,DEM,statsb,5412,Brunei,Brunei,,,Brunei,,,copy-of-da,CSV:DEM_statsb,medium,danish,,,22,12,1e-06,,
+DEM_statsb_5623,DEM,statsb,5623,Salomonøerne,Salomonøerne,,,Solomon Islands,Solomon Islands,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,8,4,0.0,,
+DEM_statsb_5311,DEM,statsb,5311,Skt. Vincent og Grenadinerne,Skt. Vincent og Grenadinerne,,,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,12,6,1e-06,,
+DEM_statsb_5176,DEM,statsb,5176,Vatikanstaten,Vatikanstaten,,,Vatican City,,,translated,CSV:DEM_statsb,medium,danish,,,2,1,0.0,,
+DEM_statsb_5109,DEM,statsb,5109,Monaco,Monaco,,,Monaco,Monaco,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,4,2,0.0,,
+DEM_statsb_5779,DEM,statsb,5779,Cookøerne,Cookøerne,,,Cook Islands,Cook Islands,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2,1,0.0,,
+DEM_statsb_5230,DEM,statsb,5230,Ækvatorialguinea,Ækvatorialguinea,,,Equatorial Guinea,Equatorial Guinea,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,7,4,0.0,,
+DEM_statsb_5621,DEM,statsb,5621,Sao Tome og Principe,Sao Tome og Principe,,,São Tomé and Príncipe,,,translated,CSV:DEM_statsb,medium,danish,,,4,2,0.0,,
+DEM_statsb_5248,DEM,statsb,5248,Marshalløerne,Marshalløerne,,,Marshall Islands,Marshall Islands,iso3166,iso3166,CSV:DEM_statsb,medium,danish,,,2,1,0.0,,

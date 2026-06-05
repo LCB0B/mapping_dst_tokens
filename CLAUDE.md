@@ -158,6 +158,10 @@ n_occurrences    — PREVALENCE: total occurrences of the token across the datas
                    joined by code; empty for ~86 rare codes absent from the occurrence export)
 n_people         — PREVALENCE: number of distinct people who have the token
 pct_people       — PREVALENCE: fraction of people (0-1) who have the token. Source: token_occurrences.csv
+program_group    — EDU only: the DST programme name (description_da) grouping version-renumbered codes
+                   (DST reissues education codes across classification versions → many codes per programme)
+is_primary_code  — EDU only: "True" for the highest-pct_people (canonical) code in (category, program_group),
+                   else "False". Filter is_primary_code=True to collapse historical EDU code variants.
 ```
 
 Consumers needing guaranteed accuracy should filter on `description_en_official`.

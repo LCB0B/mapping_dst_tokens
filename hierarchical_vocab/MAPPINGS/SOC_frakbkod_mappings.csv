@@ -1,5 +1,5 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-SOC_frakbkod_1,SOC,frakbkod,1,bestandig,bestandig,,,Permanent (for bestandig),,,translated,dst_afg_frakbkod,high,danish,,,36502,31840,0.003527
-SOC_frakbkod_2,SOC,frakbkod,2,endelig dom,endelig dom,,,Final judgment,,,translated,dst_afg_frakbkod,high,danish,,,10178,9531,0.001056
-SOC_frakbkod_4,SOC,frakbkod,4,ikke mere bestandig,ikke mere bestandig,,,No longer permanent,,,translated,dst_afg_frakbkod,high,danish,,,95,92,1e-05
-SOC_frakbkod_3,SOC,frakbkod,3,domsdato,domsdato,,,Judgment date,,,translated,dst_afg_frakbkod,high,danish,,,1,1,0.0
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+SOC_frakbkod_1,SOC,frakbkod,1,bestandig,bestandig,,,Permanent (for bestandig),,,translated,dst_afg_frakbkod,high,danish,,,36502,31840,0.003527,,
+SOC_frakbkod_2,SOC,frakbkod,2,endelig dom,endelig dom,,,Final judgment,,,translated,dst_afg_frakbkod,high,danish,,,10178,9531,0.001056,,
+SOC_frakbkod_4,SOC,frakbkod,4,ikke mere bestandig,ikke mere bestandig,,,No longer permanent,,,translated,dst_afg_frakbkod,high,danish,,,95,92,1e-05,,
+SOC_frakbkod_3,SOC,frakbkod,3,domsdato,domsdato,,,Judgment date,,,translated,dst_afg_frakbkod,high,danish,,,1,1,0.0,,

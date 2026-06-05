@@ -1,8 +1,8 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-EDU_dnt_bin_2,EDU,dnt,bin_2,education days: 2 (bin),uddannelsesdage: 2 (interval),,,education days: 2 (bin),,,translated,none|generated,medium,danish,,,2298503,825719,0.091455
-EDU_dnt_bin_4,EDU,dnt,bin_4,education days: 4 (bin),uddannelsesdage: 4 (interval),,,education days: 4 (bin),,,translated,none|generated,medium,danish,,,931530,529397,0.058635
-EDU_dnt_bin_1,EDU,dnt,bin_1,education days: 1 (bin),uddannelsesdage: 1 (interval),,,education days: 1 (bin),,,translated,none|generated,medium,danish,,,414500,266385,0.029504
-EDU_dnt_bin_3,EDU,dnt,bin_3,education days: 3 (bin),uddannelsesdage: 3 (interval),,,education days: 3 (bin),,,translated,none|generated,medium,danish,,,1328877,696580,0.077152
-EDU_dnt_bin_6,EDU,dnt,bin_6,education days: 6 (bin),uddannelsesdage: 6 (interval),,,education days: 6 (bin),,,translated,none|generated,medium,danish,,,435521,228318,0.025288
-EDU_dnt_bin_5,EDU,dnt,bin_5,education days: 5 (bin),uddannelsesdage: 5 (interval),,,education days: 5 (bin),,,translated,none|generated,medium,danish,,,707170,394189,0.04366
-EDU_dnt_bin_7,EDU,dnt,bin_7,education days: 7 (bin),uddannelsesdage: 7 (interval),,,education days: 7 (bin),,,translated,none|generated,medium,danish,,,29146,25934,0.002872
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+EDU_dnt_bin_2,EDU,dnt,bin_2,education days: 2 (bin),uddannelsesdage: 2 (interval),,,education days: 2 (bin),,,translated,none|generated,medium,danish,,,2298503,825719,0.091455,,
+EDU_dnt_bin_4,EDU,dnt,bin_4,education days: 4 (bin),uddannelsesdage: 4 (interval),,,education days: 4 (bin),,,translated,none|generated,medium,danish,,,931530,529397,0.058635,,
+EDU_dnt_bin_1,EDU,dnt,bin_1,education days: 1 (bin),uddannelsesdage: 1 (interval),,,education days: 1 (bin),,,translated,none|generated,medium,danish,,,414500,266385,0.029504,,
+EDU_dnt_bin_3,EDU,dnt,bin_3,education days: 3 (bin),uddannelsesdage: 3 (interval),,,education days: 3 (bin),,,translated,none|generated,medium,danish,,,1328877,696580,0.077152,,
+EDU_dnt_bin_6,EDU,dnt,bin_6,education days: 6 (bin),uddannelsesdage: 6 (interval),,,education days: 6 (bin),,,translated,none|generated,medium,danish,,,435521,228318,0.025288,,
+EDU_dnt_bin_5,EDU,dnt,bin_5,education days: 5 (bin),uddannelsesdage: 5 (interval),,,education days: 5 (bin),,,translated,none|generated,medium,danish,,,707170,394189,0.04366,,
+EDU_dnt_bin_7,EDU,dnt,bin_7,education days: 7 (bin),uddannelsesdage: 7 (interval),,,education days: 7 (bin),,,translated,none|generated,medium,danish,,,29146,25934,0.002872,,

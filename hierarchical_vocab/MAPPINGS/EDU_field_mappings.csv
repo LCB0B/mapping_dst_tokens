@@ -1,410 +1,410 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-EDU_field_102010,EDU,field,102010,Grundskole 7. klasse og opefter,Grundskole 7. klasse og opefter,,,Primary School 7th Grade and Beyond,,,translated,raw_edu_field,medium,danish,,,24298574,6087451,0.674235
-EDU_field_573015,EDU,field,573015,"Maskinteknik, betjening og vedligeholdelse","Maskinteknik, betjening og vedligeholdelse",,,"Mechanical Engineering, Operation, and Maintenance",,,translated,raw_edu_field,medium,danish,,,182820,104662,0.011592
-EDU_field_554020,EDU,field,554020,Maskinmester,Maskinmester,,,Marine engineer,,,translated,raw_edu_field,medium,danish,,,64191,32516,0.003601
-EDU_field_401010,EDU,field,401010,Erhvervsøkonomi og administration u.n.a.,Erhvervsøkonomi og administration u.n.a.,,,Business Economics and Administration n.e.c.,,,translated,raw_edu_field,medium,danish,,,1381755,701415,0.077687
-EDU_field_404015,EDU,field,404015,Detailhandel,Detailhandel,,,Retail trade,,,translated,raw_edu_field,medium,danish,,,629344,381383,0.042241
-EDU_field_121010,EDU,field,121010,"Almengymnasiale, matematisk","Almengymnasiale, matematisk",,,General High School Mathematics,,,translated,raw_edu_field,medium,danish,,,2672228,542526,0.060089
-EDU_field_453010,EDU,field,453010,Farmaci og lægemiddelvidenskab,Farmaci og lægemiddelvidenskab,,,Pharmacy and Pharmaceutical Science,,,translated,raw_edu_field,medium,danish,,,26442,13896,0.001539
-EDU_field_652010,EDU,field,652010,Lægevidenskab,Lægevidenskab,,,Medical Science,,,translated,raw_edu_field,medium,danish,,,147995,69587,0.007707
-EDU_field_802010,EDU,field,802010,"Havne, lager og terminal","Havne, lager og terminal",,,"Ports, Warehouses, and Terminals",,,translated,raw_edu_field,medium,danish,,,28940,15963,0.001768
-EDU_field_551010,EDU,field,551010,Teknik og industriel produktion u.n.a.,Teknik og industriel produktion u.n.a.,,,Technology and Industrial Production n.e.c.,,,translated,raw_edu_field,medium,danish,,,482875,291040,0.032235
-EDU_field_551510,EDU,field,551510,Teknologi u.n.a.,Teknologi u.n.a.,,,Teknologi u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,221420,138699,0.015362
-EDU_field_553510,EDU,field,553510,Elektronik og automation u.n.a.,Elektronik og automation u.n.a.,,,Electronics and Automation n.e.c.,,,translated,raw_edu_field,medium,danish,,,56838,41841,0.004634
-EDU_field_571010,EDU,field,571010,"Mekanik, jern og metal u.n.a.","Mekanik, jern og metal u.n.a.",,,"Mechanics, Iron, and Metal n.e.c.",,,translated,raw_edu_field,medium,danish,,,171585,152382,0.016878
-EDU_field_803010,EDU,field,803010,Chauffør u.n.a.,Chauffør u.n.a.,,,"Driver, u.n.a.",,,translated,raw_edu_field,medium,danish,,,4851,4824,0.000534
-EDU_field_803015,EDU,field,803015,"Chauffør, godstransport","Chauffør, godstransport",,,"Driver, freight transport",,,translated,raw_edu_field,medium,danish,,,26480,15137,0.001677
-EDU_field_121030,EDU,field,121030,"Almengymnasiale, ikke linjeopdelt","Almengymnasiale, ikke linjeopdelt",,,"General high school, undivided",,,translated,raw_edu_field,medium,danish,,,5455445,1292446,0.143149
-EDU_field_203510,EDU,field,203510,"Læreruddannelse, grundskole","Læreruddannelse, grundskole",,,"Teacher training, primary school",,,translated,raw_edu_field,medium,danish,,,396242,221819,0.024568
-EDU_field_656510,EDU,field,656510,Pædagogiske grunduddannelser,Pædagogiske grunduddannelser,,,Basic pedagogical educations,,,translated,raw_edu_field,medium,danish,,,84805,43285,0.004794
-EDU_field_702530,EDU,field,702530,Hotelreception og -service,Hotelreception og -service,,,Hotel reception and service,,,translated,raw_edu_field,medium,danish,,,9179,4937,0.000547
-EDU_field_701010,EDU,field,701010,Service u.n.a.,Service u.n.a.,,,Service u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,140695,93186,0.010321
-EDU_field_403510,EDU,field,403510,Kontor- og sekretæruddannelser,Kontor- og sekretæruddannelser,,,Office and secretarial educations,,,translated,raw_edu_field,medium,danish,,,705902,432691,0.047924
-EDU_field_122010,EDU,field,122010,Erhvervsgymnasiale,Erhvervsgymnasiale,,,Vocational upper-secondary,,,translated,raw_edu_field,medium,danish,,,3215252,631029,0.069892
-EDU_field_121020,EDU,field,121020,"Almengymnasiale, sproglig","Almengymnasiale, sproglig",,,"General high school, linguistic",,,translated,raw_edu_field,medium,danish,,,1661382,302131,0.033463
-EDU_field_554015,EDU,field,554015,"Teknologi, tværfaglige uddannelser i øvrigt","Teknologi, tværfaglige uddannelser i øvrigt",,,"Technology, interdisciplinary programs otherwise",,,translated,raw_edu_field,medium,danish,,,40074,20288,0.002247
-EDU_field_402010,EDU,field,402010,Finans og bank,Finans og bank,,,Finance and banking,,,translated,raw_edu_field,medium,danish,,,207010,121702,0.013479
-EDU_field_552010,EDU,field,552010,Laboratorieteknik - kemisk industri,Laboratorieteknik - kemisk industri,,,Laboratory technology — chemical industry,,,translated,raw_edu_field,medium,danish,,,68640,39895,0.004419
-EDU_field_653520,EDU,field,653520,Optometri,Optometri,,,Optometri,,,copy-of-da,raw_edu_field,medium,danish,,,13733,6410,0.00071
-EDU_field_574020,EDU,field,574020,Karosserismed og karosseriteknik,Karosserismed og karosseriteknik,,,Car Body Repair and Car Body Technology,,,translated,raw_edu_field,medium,danish,,,35406,18182,0.002014
-EDU_field_404010,EDU,field,404010,Engroshandel,Engroshandel,,,Wholesale trade,,,translated,raw_edu_field,medium,danish,,,123189,71976,0.007972
-EDU_field_656515,EDU,field,656515,"Pædagoguddannelser, børn og unge","Pædagoguddannelser, børn og unge",,,Early Childhood and Youth Education Programs,,,translated,raw_edu_field,medium,danish,,,487676,237686,0.026326
-EDU_field_604010,EDU,field,604010,Veterinærsygepleje,Veterinærsygepleje,,,Veterinary Nursing,,,translated,raw_edu_field,medium,danish,,,6889,2877,0.000319
-EDU_field_251510,EDU,field,251510,Teologi,Teologi,,,Theology,,,translated,raw_edu_field,medium,danish,,,16195,9835,0.001089
-EDU_field_657010,EDU,field,657010,Social rådgivning og socialformidling,Social rådgivning og socialformidling,,,Social Counseling and Social Outreach,,,translated,raw_edu_field,medium,danish,,,117561,57540,0.006373
-EDU_field_555010,EDU,field,555010,Fødevareindustri u.n.a.,Fødevareindustri u.n.a.,,,Food Industry etc.,,,translated,raw_edu_field,medium,danish,,,326421,177750,0.019687
-EDU_field_582010,EDU,field,582010,Maleruddannelser,Maleruddannelser,,,Painter programmes,,,translated,raw_edu_field,medium,danish,,,82684,50472,0.00559
-EDU_field_573510,EDU,field,573510,Smede- og svejseuddannelser,Smede- og svejseuddannelser,,,Blacksmithing and Forging Training,,,translated,raw_edu_field,medium,danish,,,172878,98347,0.010893
-EDU_field_601515,EDU,field,601515,Landmand mv.,Landmand mv.,,,Farmer etc.,,,translated,raw_edu_field,medium,danish,,,198120,65189,0.00722
-EDU_field_553015,EDU,field,553015,Elektrikeruddannelser,Elektrikeruddannelser,,,Electrician programmes,,,translated,raw_edu_field,medium,danish,,,190728,100646,0.011147
-EDU_field_553030,EDU,field,553030,El- og energiforsyningsteknik i øvrigt,El- og energiforsyningsteknik i øvrigt,,,Other Electrical and Energy Supply Engineering,,,translated,raw_edu_field,medium,danish,,,33619,22760,0.002521
-EDU_field_801520,EDU,field,801520,"Skibsassistent, skibsfører","Skibsassistent, skibsfører",,,"Ship Assistant, Ship Master",,,translated,raw_edu_field,medium,danish,,,72604,32064,0.003551
-EDU_field_651010,EDU,field,651010,Social og sundhed u.n.a.,Social og sundhed u.n.a.,,,Social and Health Services etc.,,,translated,raw_edu_field,medium,danish,,,157921,91707,0.010157
-EDU_field_702515,EDU,field,702515,"Gastronomi, køkken og catering","Gastronomi, køkken og catering",,,"Gastronomy, kitchen and catering",,,translated,raw_edu_field,medium,danish,,,179520,90921,0.01007
-EDU_field_656015,EDU,field,656015,Social- og sundhedsassistance,Social- og sundhedsassistance,,,Social and health assistance,,,translated,raw_edu_field,medium,danish,,,775860,301452,0.033388
-EDU_field_403010,EDU,field,403010,Markedsføring og reklame,Markedsføring og reklame,,,Marketing and advertising,,,translated,raw_edu_field,medium,danish,,,158361,82597,0.009148
-EDU_field_204015,EDU,field,204015,Underviser i ikke-almene specialefag,Underviser i ikke-almene specialefag,,,Teacher of non-compulsory special subjects,,,translated,raw_edu_field,medium,danish,,,21626,11707,0.001297
-EDU_field_602025,EDU,field,602025,Væksthusgartneri,Væksthusgartneri,,,Greenhouse gardening,,,translated,raw_edu_field,medium,danish,,,22969,15441,0.00171
-EDU_field_459010,EDU,field,459010,Matematik-økonomi,Matematik-økonomi,,,Mathematics-economics,,,translated,raw_edu_field,medium,danish,,,6515,3738,0.000414
-EDU_field_573020,EDU,field,573020,"Maskinteknik, konstruktion og udvikling","Maskinteknik, konstruktion og udvikling",,,"Machine engineering, construction and development",,,translated,raw_edu_field,medium,danish,,,41319,25513,0.002826
-EDU_field_405010,EDU,field,405010,Jura og erhvervsret,Jura og erhvervsret,,,Law and commercial law,,,translated,raw_edu_field,medium,danish,,,98874,54488,0.006035
-EDU_field_352010,EDU,field,352010,Statskundskab mv.,Statskundskab mv.,,,Political science etc.,,,translated,raw_edu_field,medium,danish,,,58560,31025,0.003436
-EDU_field_582045,EDU,field,582045,Bygningskonstruktøruddannelser mv.,Bygningskonstruktøruddannelser mv.,,,Building constructor educations etc.,,,translated,raw_edu_field,medium,danish,,,112776,54240,0.006008
-EDU_field_581510,EDU,field,581510,Arkitektur og bygningsdesign,Arkitektur og bygningsdesign,,,Architecture and building design,,,translated,raw_edu_field,medium,danish,,,36828,21186,0.002347
-EDU_field_271010,EDU,field,271010,Grafisk-tekniske uddannelser u.n.a.,Grafisk-tekniske uddannelser u.n.a.,,,Graphic-technical programs n.a.,,,translated,raw_edu_field,medium,danish,,,23544,15822,0.001752
-EDU_field_703510,EDU,field,703510,"Service, tværfaglige uddannelser","Service, tværfaglige uddannelser",,,"Service, interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,44681,22647,0.002508
-EDU_field_656520,EDU,field,656520,Socialpædagoguddannelser,Socialpædagoguddannelser,,,Social pedagogy programs,,,translated,raw_edu_field,medium,danish,,,48928,25464,0.00282
-EDU_field_351510,EDU,field,351510,Samfundsøkonomi,Samfundsøkonomi,,,Social economics,,,translated,raw_edu_field,medium,danish,,,39728,24009,0.002659
-EDU_field_582035,EDU,field,582035,Vejbygning og -belægning,Vejbygning og -belægning,,,Road construction and surfacing,,,translated,raw_edu_field,medium,danish,,,18456,11233,0.001244
-EDU_field_555020,EDU,field,555020,Kødbranchen,Kødbranchen,,,Meat industry,,,translated,raw_edu_field,medium,danish,,,67720,38970,0.004316
-EDU_field_555075,EDU,field,555075,Sadelmageri og auto/møbel polstring,Sadelmageri og auto/møbel polstring,,,Saddlery and automotive/furniture upholstery,,,translated,raw_edu_field,medium,danish,,,2967,1910,0.000212
-EDU_field_555090,EDU,field,555090,"Produktfremstilling og proces, tværfaglige uddannelser","Produktfremstilling og proces, tværfaglige uddannelser",,,"Product manufacturing and process, interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,13981,7985,0.000884
-EDU_field_654530,EDU,field,654530,Sundhed og ernæring,Sundhed og ernæring,,,Health and nutrition,,,translated,raw_edu_field,medium,danish,,,51085,25606,0.002836
-EDU_field_501015,EDU,field,501015,Programmering og softwareudvikling,Programmering og softwareudvikling,,,Programming and software development,,,translated,raw_edu_field,medium,danish,,,109955,60997,0.006756
-EDU_field_601520,EDU,field,601520,"Landbrug, driftsledelse","Landbrug, driftsledelse",,,"Agriculture, farm management",,,translated,raw_edu_field,medium,danish,,,70049,36224,0.004012
-EDU_field_654515,EDU,field,654515,Ergo- og fysioterapi,Ergo- og fysioterapi,,,Occupational and physical therapy,,,translated,raw_edu_field,medium,danish,,,138963,55669,0.006166
-EDU_field_582050,EDU,field,582050,Bygnings- og anlægsingeniøruddannelser,Bygnings- og anlægsingeniøruddannelser,,,Building and construction engineering programs,,,translated,raw_edu_field,medium,danish,,,33152,14998,0.001661
-EDU_field_401510,EDU,field,401510,Regnskab og revision,Regnskab og revision,,,Accounting and auditing,,,translated,raw_edu_field,medium,danish,,,45332,37707,0.004176
-EDU_field_581010,EDU,field,581010,Bygge- og anlægsteknik u.n.a.,Bygge- og anlægsteknik u.n.a.,,,Construction and building technology n.e.c.,,,translated,raw_edu_field,medium,danish,,,424916,241571,0.026756
-EDU_field_553025,EDU,field,553025,Energiteknologi,Energiteknologi,,,Energiteknologi,,,copy-of-da,raw_edu_field,medium,danish,,,17284,7785,0.000862
-EDU_field_652525,EDU,field,652525,Sygepleje og sygeplejevidenskab,Sygepleje og sygeplejevidenskab,,,Nursing and nursing science,,,translated,raw_edu_field,medium,danish,,,425655,180553,0.019998
-EDU_field_582020,EDU,field,582020,Tømrer- og bygningssnedkeruddannelser,Tømrer- og bygningssnedkeruddannelser,,,Carpentry and building joinery programs,,,translated,raw_edu_field,medium,danish,,,292820,159697,0.017688
-EDU_field_451510,EDU,field,451510,"Biologi, almen biologi","Biologi, almen biologi",,,"Biology, general biology",,,translated,raw_edu_field,medium,danish,,,28323,16441,0.001821
-EDU_field_409020,EDU,field,409020,Erhvervsøkonomi med it og informatik,Erhvervsøkonomi med it og informatik,,,Business administration with IT and informatics,,,translated,raw_edu_field,medium,danish,,,19194,12294,0.001362
-EDU_field_501095,EDU,field,501095,"Informations- og kommunikationsteknologi, tværfaglige i øvrigt","Informations- og kommunikationsteknologi, tværfaglige i øvrigt",,,"Information and communication technologies, interdisciplinary in other fields",,,translated,raw_edu_field,medium,danish,,,69045,33358,0.003695
-EDU_field_555084,EDU,field,555084,Proces- og kvalitetsstyring u.n.a.,Proces- og kvalitetsstyring u.n.a.,,,Process and Quality Management NEC,,,translated,raw_edu_field,medium,danish,,,9409,5254,0.000582
-EDU_field_451010,EDU,field,451010,Naturvidenskab u.n.a.,Naturvidenskab u.n.a.,,,Natural Sciences NEC,,,translated,raw_edu_field,medium,danish,,,69975,46303,0.005128
-EDU_field_501025,EDU,field,501025,Datalogi,Datalogi,,,Computer science,,,translated,raw_edu_field,medium,danish,,,22609,12944,0.001434
-EDU_field_257415,EDU,field,257415,"Engelsk-spansk, erhvervssproglig","Engelsk-spansk, erhvervssproglig",,,"English-Spanish, Business Language",,,translated,raw_edu_field,medium,danish,,,6055,3390,0.000375
-EDU_field_574510,EDU,field,574510,"Mekanik, jern og metal, tværfaglige uddannelser","Mekanik, jern og metal, tværfaglige uddannelser",,,"Mechanics, Iron and Metal, Interdisciplinary Programs",,,translated,raw_edu_field,medium,danish,,,125925,78755,0.008723
-EDU_field_258010,EDU,field,258010,Litteraturvidenskab,Litteraturvidenskab,,,Literature,,,translated,raw_edu_field,medium,danish,,,6711,4557,0.000505
-EDU_field_571510,EDU,field,571510,Gas- og vvs-teknik,Gas- og vvs-teknik,,,Gas and Water Supply Technology,,,translated,raw_edu_field,medium,danish,,,88030,44154,0.00489
-EDU_field_582015,EDU,field,582015,Mureruddannelser,Mureruddannelser,,,Murer programmes,,,translated,raw_edu_field,medium,danish,,,89615,50346,0.005576
-EDU_field_581525,EDU,field,581525,Landskabsarkitektur og -forvaltning,Landskabsarkitektur og -forvaltning,,,Landscape Architecture and Management,,,translated,raw_edu_field,medium,danish,,,7575,2816,0.000312
-EDU_field_651520,EDU,field,651520,Tandlæge og specialtandlæge,Tandlæge og specialtandlæge,,,Dentistry and Specialist Dentistry,,,translated,raw_edu_field,medium,danish,,,23235,12335,0.001366
-EDU_field_257410,EDU,field,257410,"Engelsk-tysk, erhvervssproglig","Engelsk-tysk, erhvervssproglig",,,"English-German, Business Language",,,translated,raw_edu_field,medium,danish,,,9466,5404,0.000599
-EDU_field_582055,EDU,field,582055,Øvrige bygge- og anlægsuddannelser,Øvrige bygge- og anlægsuddannelser,,,Other Construction and Installation Programs,,,translated,raw_edu_field,medium,danish,,,47854,29812,0.003302
-EDU_field_555088,EDU,field,555088,"Teknisk assistent, industri og byggeri","Teknisk assistent, industri og byggeri",,,"Technical Assistant, Industry and Construction",,,translated,raw_edu_field,medium,danish,,,57631,39132,0.004334
-EDU_field_702020,EDU,field,702020,Frisøruddannelser,Frisøruddannelser,,,Beauty salon courses,,,translated,raw_edu_field,medium,danish,,,85626,51297,0.005682
-EDU_field_555030,EDU,field,555030,"Proces- og kvalitetsstyring, fødevarer","Proces- og kvalitetsstyring, fødevarer",,,"Process and quality control, food products",,,translated,raw_edu_field,medium,danish,,,6036,3990,0.000442
-EDU_field_602015,EDU,field,602015,Anlægsgartneri,Anlægsgartneri,,,Landscape gardening,,,translated,raw_edu_field,medium,danish,,,26253,14459,0.001601
-EDU_field_409015,EDU,field,409015,Erhvervsøkonomi med sprog og kommunikation,Erhvervsøkonomi med sprog og kommunikation,,,Business economics with language and communication,,,translated,raw_edu_field,medium,danish,,,37957,19822,0.002195
-EDU_field_404025,EDU,field,404025,Indkøb og afsætning i engros- og detailhandlen,Indkøb og afsætning i engros- og detailhandlen,,,Purchasing and sales in wholesale and retail trade,,,translated,raw_edu_field,medium,danish,,,23893,17882,0.001981
-EDU_field_601530,EDU,field,601530,Jordbrugsvidenskab,Jordbrugsvidenskab,,,Agronomy,,,translated,raw_edu_field,medium,danish,,,18861,9639,0.001068
-EDU_field_553520,EDU,field,553520,"Tele-, data- og it-teknologi mv.","Tele-, data- og it-teknologi mv.",,,"Telecommunications, data and IT technology etc.",,,translated,raw_edu_field,medium,danish,,,316145,179775,0.019912
-EDU_field_653510,EDU,field,653510,Audiologi- og neurofysiologiassistenter,Audiologi- og neurofysiologiassistenter,,,Audiology and neurophysiology assistants,,,translated,raw_edu_field,medium,danish,,,2621,1571,0.000174
-EDU_field_257610,EDU,field,257610,"Erhverssprog, sprog uoplyst","Erhverssprog, sprog uoplyst",,,"Business languages, language unspecified",,,translated,raw_edu_field,medium,danish,,,33310,26167,0.002898
-EDU_field_751515,EDU,field,751515,Politi,Politi,,,Politi,,,copy-of-da,raw_edu_field,medium,danish,,,42128,22576,0.0025
-EDU_field_255210,EDU,field,255210,Engelsk,Engelsk,,,English,,,translated,raw_edu_field,medium,danish,,,27890,15571,0.001725
-EDU_field_552015,EDU,field,552015,Kemisk teknik og industri,Kemisk teknik og industri,,,Chemical engineering and industry,,,translated,raw_edu_field,medium,danish,,,20926,11095,0.001229
-EDU_field_355510,EDU,field,355510,Bibliotekskundskab,Bibliotekskundskab,,,Library science,,,translated,raw_edu_field,medium,danish,,,20572,11509,0.001275
-EDU_field_575010,EDU,field,575010,Plastindustri,Plastindustri,,,Plastindustri,,,copy-of-da,raw_edu_field,medium,danish,,,6107,3008,0.000333
-EDU_field_553515,EDU,field,553515,Automatik og proces,Automatik og proces,,,Automation and process control,,,translated,raw_edu_field,medium,danish,,,28299,15385,0.001704
-EDU_field_501090,EDU,field,501090,"IT og elektronik, tværfaglige uddannelser","IT og elektronik, tværfaglige uddannelser",,,"IT and electronics, interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,36335,17019,0.001885
-EDU_field_555025,EDU,field,555025,Bageri og konfekture,Bageri og konfekture,,,Bakery and confectionery,,,translated,raw_edu_field,medium,danish,,,59548,36138,0.004003
-EDU_field_652520,EDU,field,652520,Sundhedspleje og sundhedsvidenskab,Sundhedspleje og sundhedsvidenskab,,,Health care and health sciences,,,translated,raw_edu_field,medium,danish,,,14559,8754,0.00097
-EDU_field_553010,EDU,field,553010,El- og energiforsyningsteknik u.n.a.,El- og energiforsyningsteknik u.n.a.,,,Electrical and energy supply technology n.e.c.,,,translated,raw_edu_field,medium,danish,,,8329,5663,0.000627
-EDU_field_601510,EDU,field,601510,Landbrug u.n.a.,Landbrug u.n.a.,,,"Agriculture, unspecified",,,translated,raw_edu_field,medium,danish,,,41658,26108,0.002892
-EDU_field_409010,EDU,field,409010,Erhvervsøkonomi med jura,Erhvervsøkonomi med jura,,,Business economics with law,,,translated,raw_edu_field,medium,danish,,,7775,6180,0.000684
-EDU_field_257810,EDU,field,257810,Dansk,Dansk,,,Danish,,,translated,raw_edu_field,medium,danish,,,26406,15716,0.001741
-EDU_field_572510,EDU,field,572510,"Cykel-, knallert- og motorcykelmekanik","Cykel-, knallert- og motorcykelmekanik",,,"Bicycle, air rifle, and motorcycle mechanics",,,translated,raw_edu_field,medium,danish,,,9613,4644,0.000514
-EDU_field_404030,EDU,field,404030,Logistik mv. i engros- og detailhandlen,Logistik mv. i engros- og detailhandlen,,,Logistics etc. in wholesale and retail trade,,,translated,raw_edu_field,medium,danish,,,12984,8935,0.00099
-EDU_field_651510,EDU,field,651510,Tandpleje og assistance i tandklinik,Tandpleje og assistance i tandklinik,,,Dental hygiene and assistance in dental clinics,,,translated,raw_edu_field,medium,danish,,,58315,32131,0.003559
-EDU_field_574025,EDU,field,574025,Entreprenør- og landbrugsmaskiner,Entreprenør- og landbrugsmaskiner,,,Entrepreneurship and agricultural machinery,,,translated,raw_edu_field,medium,danish,,,41325,22452,0.002487
-EDU_field_455010,EDU,field,455010,Geografi,Geografi,,,Geography,,,translated,raw_edu_field,medium,danish,,,10030,6443,0.000714
-EDU_field_251010,EDU,field,251010,Humanistisk u.n.a.,Humanistisk u.n.a.,,,Humanistisk u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,66066,45917,0.005086
-EDU_field_402510,EDU,field,402510,Offentlig- og privat administration og ledelse,Offentlig- og privat administration og ledelse,,,Public and private administration and management,,,translated,raw_edu_field,medium,danish,,,144974,101430,0.011234
-EDU_field_251515,EDU,field,251515,Religion og religionsvidenskab,Religion og religionsvidenskab,,,Religion and Religious Studies,,,translated,raw_edu_field,medium,danish,,,7674,4186,0.000464
-EDU_field_801530,EDU,field,801530,Maskinist,Maskinist,,,Engine operator,,,translated,raw_edu_field,medium,danish,,,15564,8646,0.000958
-EDU_field_654520,EDU,field,654520,Fodterapi,Fodterapi,,,Fodterapi,,,copy-of-da,raw_edu_field,medium,danish,,,9213,5124,0.000568
-EDU_field_572015,EDU,field,572015,Finmekanik i øvrigt,Finmekanik i øvrigt,,,"Precision Mechanics, various",,,translated,raw_edu_field,medium,danish,,,9440,5741,0.000636
-EDU_field_304010,EDU,field,304010,Musikuddannelse u.n.a.,Musikuddannelse u.n.a.,,,"Music Education, various",,,translated,raw_edu_field,medium,danish,,,6198,4644,0.000514
-EDU_field_271015,EDU,field,271015,"Grafisk, mediegrafik","Grafisk, mediegrafik",,,"Graphic, mediegrafik",,,translated,raw_edu_field,medium,danish,,,109566,64739,0.00717
-EDU_field_271030,EDU,field,271030,"Grafisk, bogbinderi","Grafisk, bogbinderi",,,"Graphic, bogbinderi",,,translated,raw_edu_field,medium,danish,,,4432,3345,0.00037
-EDU_field_253510,EDU,field,253510,Konserverings- og restaureringsteknik,Konserverings- og restaureringsteknik,,,Conservation and Restoration Techniques,,,translated,raw_edu_field,medium,danish,,,1404,666,7.4e-05
-EDU_field_253515,EDU,field,253515,Konservatoruddannelse,Konservatoruddannelse,,,Konservator programme,,,translated,raw_edu_field,medium,danish,,,832,477,5.3e-05
-EDU_field_573035,EDU,field,573035,Værktøjsteknik,Værktøjsteknik,,,Tool Technology,,,translated,raw_edu_field,medium,danish,,,20645,11725,0.001299
-EDU_field_701515,EDU,field,701515,Bygningsservice,Bygningsservice,,,Building services,,,translated,raw_edu_field,medium,danish,,,16567,8121,0.000899
-EDU_field_654010,EDU,field,654010,Bioanalyse mv.,Bioanalyse mv.,,,"Bioanalysis, etc.",,,translated,raw_edu_field,medium,danish,,,49899,21136,0.002341
-EDU_field_657015,EDU,field,657015,Erhvervsvejledning og personlig rådgivning mv.,Erhvervsvejledning og personlig rådgivning mv.,,,"Career Guidance and Personal Counseling, etc.",,,translated,raw_edu_field,medium,danish,,,12949,8320,0.000922
-EDU_field_803020,EDU,field,803020,"Chauffør, persontransport","Chauffør, persontransport",,,"Driver, Passenger Transport",,,translated,raw_edu_field,medium,danish,,,9721,4932,0.000546
-EDU_field_702525,EDU,field,702525,Tjeneruddannelser,Tjeneruddannelser,,,Tjener programmes,,,translated,raw_edu_field,medium,danish,,,33015,19217,0.002128
-EDU_field_555055,EDU,field,555055,"Proces- og kvalitetsstyring, non-food produkter","Proces- og kvalitetsstyring, non-food produkter",,,"Process and Quality Control, Non-Food Products",,,translated,raw_edu_field,medium,danish,,,17378,10968,0.001215
-EDU_field_602515,EDU,field,602515,"Jordbrug, tværfaglige uddannelser i øvrigt","Jordbrug, tværfaglige uddannelser i øvrigt",,,"Agriculture, Interdisciplinary Programs, various",,,translated,raw_edu_field,medium,danish,,,10526,5490,0.000608
-EDU_field_602020,EDU,field,602020,Produktionsgartneri,Produktionsgartneri,,,Production horticulture,,,translated,raw_edu_field,medium,danish,,,6214,3155,0.000349
-EDU_field_574035,EDU,field,574035,Flyteknik,Flyteknik,,,Aeronautical engineering,,,translated,raw_edu_field,medium,danish,,,3564,1880,0.000208
-EDU_field_257425,EDU,field,257425,"Engelsk-fransk, erhvervssproglig","Engelsk-fransk, erhvervssproglig",,,"English-French, vocational language",,,translated,raw_edu_field,medium,danish,,,8791,4824,0.000534
-EDU_field_257210,EDU,field,257210,"Engelsk, erhvervssproglig","Engelsk, erhvervssproglig",,,"English, vocational language",,,translated,raw_edu_field,medium,danish,,,39621,21002,0.002326
-EDU_field_404020,EDU,field,404020,Handel med fast ejendom,Handel med fast ejendom,,,Real estate trade,,,translated,raw_edu_field,medium,danish,,,4387,4096,0.000454
-EDU_field_555065,EDU,field,555065,Tekstil- og beklædningsindustri,Tekstil- og beklædningsindustri,,,Textile and clothing industry,,,translated,raw_edu_field,medium,danish,,,39470,31465,0.003485
-EDU_field_351010,EDU,field,351010,Samfundsvidenskab u.n.a.,Samfundsvidenskab u.n.a.,,,Social sciences NEC,,,translated,raw_edu_field,medium,danish,,,82318,51458,0.005699
-EDU_field_254015,EDU,field,254015,Arkæologi klassisk,Arkæologi klassisk,,,Classical archaeology,,,translated,raw_edu_field,medium,danish,,,1135,655,7.3e-05
-EDU_field_254510,EDU,field,254510,Filosofi,Filosofi,,,Philosophy,,,translated,raw_edu_field,medium,danish,,,21757,12027,0.001332
-EDU_field_302010,EDU,field,302010,Designer u.n.a.,Designer u.n.a.,,,Designer u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,11315,7936,0.000879
-EDU_field_256020,EDU,field,256020,Mellemøstens sprog og samfund i øvrigt,Mellemøstens sprog og samfund i øvrigt,,,Middle Eastern languages and societies (via 51),,,translated,raw_edu_field,medium,danish,,,5926,2954,0.000327
-EDU_field_604015,EDU,field,604015,Veterinær og veterinærvidenskab,Veterinær og veterinærvidenskab,,,Veterinary science,,,translated,raw_edu_field,medium,danish,,,21537,8342,0.000924
-EDU_field_354030,EDU,field,354030,Film- og medievidenskab,Film- og medievidenskab,,,Film and media studies,,,translated,raw_edu_field,medium,danish,,,19516,8717,0.000965
-EDU_field_271025,EDU,field,271025,"Grafisk, foto","Grafisk, foto",,,"Graphic, foto",,,translated,raw_edu_field,medium,danish,,,10182,7715,0.000854
-EDU_field_801510,EDU,field,801510,Søfart u.n.a.,Søfart u.n.a.,,,Maritime affairs NEC,,,translated,raw_edu_field,medium,danish,,,11678,8548,0.000947
-EDU_field_751030,EDU,field,751030,Søværnet,Søværnet,,,Navy,,,translated,raw_edu_field,medium,danish,,,4870,2019,0.000224
-EDU_field_555015,EDU,field,555015,Mejeriindustri,Mejeriindustri,,,Mejeriindustri,,,copy-of-da,raw_edu_field,medium,danish,,,21405,11367,0.001259
-EDU_field_601525,EDU,field,601525,Jordbrugsteknologi,Jordbrugsteknologi,,,Agricultural technology,,,translated,raw_edu_field,medium,danish,,,17183,9726,0.001077
-EDU_field_271515,EDU,field,271515,"Film, tv og medie, produktionsteknisk","Film, tv og medie, produktionsteknisk",,,"Film, TV and media, production technology",,,translated,raw_edu_field,medium,danish,,,5617,3081,0.000341
-EDU_field_123020,EDU,field,123020,Gymnasial supplering,Gymnasial supplering,,,Gymnasial supplering,,,copy-of-da,raw_edu_field,medium,danish,,,7660,4693,0.00052
-EDU_field_308015,EDU,field,308015,"Skuespil, teaterinstruktion mv.","Skuespil, teaterinstruktion mv.",,,"Acting, theater instruction etc.",,,translated,raw_edu_field,medium,danish,,,3507,2072,0.000229
-EDU_field_257225,EDU,field,257225,"Fransk, erhvervssproglig","Fransk, erhvervssproglig",,,"French, vocational language",,,translated,raw_edu_field,medium,danish,,,11418,6120,0.000678
-EDU_field_581515,EDU,field,581515,Landinspektøruddannelser,Landinspektøruddannelser,,,Inspector training programs,,,translated,raw_edu_field,medium,danish,,,3956,2510,0.000278
-EDU_field_751520,EDU,field,751520,Fængselsvæsen,Fængselsvæsen,,,Prison system,,,translated,raw_edu_field,medium,danish,,,15648,8850,0.00098
-EDU_field_303515,EDU,field,303515,"Kunsthåndværk/design, keramik og glas","Kunsthåndværk/design, keramik og glas",,,"Art craftsmanship/design, ceramics and glass",,,translated,raw_edu_field,medium,danish,,,1715,1579,0.000175
-EDU_field_255015,EDU,field,255015,"Humanistisk, tværfaglige uddannelser i øvrigt","Humanistisk, tværfaglige uddannelser i øvrigt",,,"Humanities, interdisciplinary programs otherwise",,,translated,raw_edu_field,medium,danish,,,11816,5978,0.000662
-EDU_field_801010,EDU,field,801010,Transport u.n.a.,Transport u.n.a.,,,Transport u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,24357,17739,0.001965
-EDU_field_256430,EDU,field,256430,Eskimologi,Eskimologi,,,Eskimology,,,translated,raw_edu_field,medium,danish,,,697,390,4.3e-05
-EDU_field_257430,EDU,field,257430,"Engelsk-italiensk, erhvervssproglig","Engelsk-italiensk, erhvervssproglig",,,"English-Italian, vocational language",,,translated,raw_edu_field,medium,danish,,,1110,656,7.3e-05
-EDU_field_352530,EDU,field,352530,Politologiske uddannelser i øvrigt,Politologiske uddannelser i øvrigt,,,Political science programs otherwise,,,translated,raw_edu_field,medium,danish,,,11553,6505,0.00072
-EDU_field_751525,EDU,field,751525,Beredskab og redningstjeneste,Beredskab og redningstjeneste,,,Emergency preparedness and rescue services,,,translated,raw_edu_field,medium,danish,,,15327,7825,0.000867
-EDU_field_655010,EDU,field,655010,Farmakonom- og apoteksuddannelser,Farmakonom- og apoteksuddannelser,,,Pharmacy and pharmaceutical training programs,,,translated,raw_edu_field,medium,danish,,,27806,18005,0.001994
-EDU_field_309015,EDU,field,309015,Dramaturgi,Dramaturgi,,,Dramaturgy,,,translated,raw_edu_field,medium,danish,,,4839,2080,0.00023
-EDU_field_355010,EDU,field,355010,Journalistik,Journalistik,,,Journalism,,,translated,raw_edu_field,medium,danish,,,39434,21032,0.002329
-EDU_field_751025,EDU,field,751025,Hæren,Hæren,,,Army,,,translated,raw_edu_field,medium,danish,,,11109,4525,0.000501
-EDU_field_254010,EDU,field,254010,Arkæologi forhistorisk,Arkæologi forhistorisk,,,Prehistoric archaeology,,,translated,raw_edu_field,medium,danish,,,6223,2679,0.000297
-EDU_field_252025,EDU,field,252025,Litteraturhistorie,Litteraturhistorie,,,Literary history,,,translated,raw_edu_field,medium,danish,,,5573,2312,0.000256
-EDU_field_355520,EDU,field,355520,Informationsvidenskab og kulturforvaltning,Informationsvidenskab og kulturforvaltning,,,Information science and cultural administration,,,translated,raw_edu_field,medium,danish,,,10094,4645,0.000514
-EDU_field_555040,EDU,field,555040,Træ- og møbelindustri,Træ- og møbelindustri,,,Wood and furniture industry,,,translated,raw_edu_field,medium,danish,,,31505,20855,0.00231
-EDU_field_453015,EDU,field,453015,Fødevarevidenskab,Fødevarevidenskab,,,Food science,,,translated,raw_edu_field,medium,danish,,,9106,4178,0.000463
-EDU_field_201015,EDU,field,201015,"Studier i lærings-, udviklings- og forandringsprocesser","Studier i lærings-, udviklings- og forandringsprocesser",,,"Studies in learning, development, and change processes",,,translated,raw_edu_field,medium,danish,,,7757,5629,0.000623
-EDU_field_202010,EDU,field,202010,"Pædagogik, teoretisk/videnskabelig u.n.a.","Pædagogik, teoretisk/videnskabelig u.n.a.",,,"Pedagogy, theoretical/scientific u.n.a.",,,translated,raw_edu_field,medium,danish,,,26917,22966,0.002544
-EDU_field_304015,EDU,field,304015,Musik og musikpædagogik,Musik og musikpædagogik,,,Music and music pedagogy,,,translated,raw_edu_field,medium,danish,,,31388,13717,0.001519
-EDU_field_254020,EDU,field,254020,Arkæologi middelalder,Arkæologi middelalder,,,Archaeology medieval,,,translated,raw_edu_field,medium,danish,,,1796,700,7.8e-05
-EDU_field_256245,EDU,field,256245,Asiatisk sprog og kultur i øvrigt,Asiatisk sprog og kultur i øvrigt,,,Asian language and culture other,,,translated,raw_edu_field,medium,danish,,,3775,2444,0.000271
-EDU_field_555082,EDU,field,555082,Råstofudvinding,Råstofudvinding,,,Raw material recovery,,,translated,raw_edu_field,medium,danish,,,1814,812,9e-05
-EDU_field_651515,EDU,field,651515,Tandteknik og laboratorietandteknik,Tandteknik og laboratorietandteknik,,,Dental technology and laboratory dental technology,,,translated,raw_edu_field,medium,danish,,,9185,5463,0.000605
-EDU_field_257470,EDU,field,257470,"Spansk-fransk, erhvervssproglig","Spansk-fransk, erhvervssproglig",,,"Spanish-French, vocational linguistic",,,translated,raw_edu_field,medium,danish,,,646,350,3.9e-05
-EDU_field_582025,EDU,field,582025,Montering mv. af glas og aluminium,Montering mv. af glas og aluminium,,,Mounting etc. of glass and aluminum,,,translated,raw_edu_field,medium,danish,,,6627,3701,0.00041
-EDU_field_256010,EDU,field,256010,Iransk,Iransk,,,Iranian studies,,,translated,raw_edu_field,medium,danish,,,266,147,1.6e-05
-EDU_field_257450,EDU,field,257450,"Tysk-fransk, erhvervssproglig","Tysk-fransk, erhvervssproglig",,,"German-French, vocational linguistic",,,translated,raw_edu_field,medium,danish,,,1826,983,0.000109
-EDU_field_257215,EDU,field,257215,"Tysk, erhvervssproglig","Tysk, erhvervssproglig",,,"German, vocational linguistic",,,translated,raw_edu_field,medium,danish,,,14279,7458,0.000826
-EDU_field_355015,EDU,field,355015,Kommunikation,Kommunikation,,,Communication,,,translated,raw_edu_field,medium,danish,,,42763,22667,0.002511
-EDU_field_555070,EDU,field,555070,"Design- og materialeteknologi, tekstil","Design- og materialeteknologi, tekstil",,,Design and materials technology textiles,,,translated,raw_edu_field,medium,danish,,,4176,2370,0.000262
-EDU_field_153010,EDU,field,153010,Fri ungdomsuddannelse,Fri ungdomsuddannelse,,,Free youth education,,,translated,raw_edu_field,medium,danish,,,31024,19392,0.002148
-EDU_field_574015,EDU,field,574015,Automekanik mv.,Automekanik mv.,,,Automotive technology etc.,,,translated,raw_edu_field,medium,danish,,,142085,117159,0.012976
-EDU_field_271020,EDU,field,271020,"Grafisk, trykteknik","Grafisk, trykteknik",,,"Graphic, printing technology",,,translated,raw_edu_field,medium,danish,,,3566,3007,0.000333
-EDU_field_252010,EDU,field,252010,Historie,Historie,,,History,,,translated,raw_edu_field,medium,danish,,,30420,15834,0.001754
-EDU_field_409030,EDU,field,409030,"Erhvervsøkonomi mv., andre tværfaglige uddannelser","Erhvervsøkonomi mv., andre tværfaglige uddannelser",,,"Business economics etc., other interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,54168,24281,0.002689
-EDU_field_309510,EDU,field,309510,Designteknologi,Designteknologi,,,Designteknologi,,,copy-of-da,raw_edu_field,medium,danish,,,29334,15740,0.001743
-EDU_field_257220,EDU,field,257220,"Spansk, erhvervssproglig","Spansk, erhvervssproglig",,,"Spanish, vocational language",,,translated,raw_edu_field,medium,danish,,,5561,2782,0.000308
-EDU_field_258210,EDU,field,258210,Sprogvidenskab generelt,Sprogvidenskab generelt,,,"Linguistics, general",,,translated,raw_edu_field,medium,danish,,,4690,2522,0.000279
-EDU_field_353520,EDU,field,353520,Kulturgeografi,Kulturgeografi,,,Cultural geography,,,translated,raw_edu_field,medium,danish,,,1467,862,9.5e-05
-EDU_field_353515,EDU,field,353515,Etnologi og folkemindevidenskab,Etnologi og folkemindevidenskab,,,Ethnology and folklore,,,translated,raw_edu_field,medium,danish,,,5086,2232,0.000247
-EDU_field_602040,EDU,field,602040,Greenkeeping,Greenkeeping,,,Greenkeeping,,,copy-of-da,raw_edu_field,medium,danish,,,1631,784,8.7e-05
-EDU_field_453025,EDU,field,453025,Biofysiske uddannelser,Biofysiske uddannelser,,,Biofysiske  programmes,,,translated,raw_edu_field,medium,danish,,,2587,1161,0.000129
-EDU_field_354525,EDU,field,354525,"Samfundsvidenskab, tværfaglige uddannelser i øvrigt","Samfundsvidenskab, tværfaglige uddannelser i øvrigt",,,"Social sciences, other interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,14368,6543,0.000725
-EDU_field_255410,EDU,field,255410,Spansk,Spansk,,,Spanish,,,translated,raw_edu_field,medium,danish,,,12312,6452,0.000715
-EDU_field_303010,EDU,field,303010,Kunsthistorie,Kunsthistorie,,,Art history,,,translated,raw_edu_field,medium,danish,,,10382,6085,0.000674
-EDU_field_255645,EDU,field,255645,Slavisk sprog og kultur i øvrigt,Slavisk sprog og kultur i øvrigt,,,"Slavic languages and culture, other",,,translated,raw_edu_field,medium,danish,,,5651,3731,0.000413
-EDU_field_703015,EDU,field,703015,"Turisme, fritid og events","Turisme, fritid og events",,,"Tourism, leisure and events",,,translated,raw_edu_field,medium,danish,,,22443,12292,0.001361
-EDU_field_271035,EDU,field,271035,Skilteteknik,Skilteteknik,,,Sign-making technology,,,translated,raw_edu_field,medium,danish,,,5353,3231,0.000358
-EDU_field_654510,EDU,field,654510,Psykomotorik og afspænding,Psykomotorik og afspænding,,,Psychomotor skills and relaxation,,,translated,raw_edu_field,medium,danish,,,4612,2505,0.000277
-EDU_field_302515,EDU,field,302515,Bildende kunst i øvrigt,Bildende kunst i øvrigt,,,"Fine arts, other",,,translated,raw_edu_field,medium,danish,,,1415,942,0.000104
-EDU_field_458515,EDU,field,458515,Forsikringsvidenskab,Forsikringsvidenskab,,,Insurance studies,,,translated,raw_edu_field,medium,danish,,,4636,1924,0.000213
-EDU_field_271525,EDU,field,271525,Visuel kommunikation og animation,Visuel kommunikation og animation,,,Visual communication and animation,,,translated,raw_edu_field,medium,danish,,,12986,5999,0.000664
-EDU_field_309010,EDU,field,309010,Teatervidenskab,Teatervidenskab,,,Theatre studies,,,translated,raw_edu_field,medium,danish,,,3963,1939,0.000215
-EDU_field_308010,EDU,field,308010,Teater- og eventteknik mv.,Teater- og eventteknik mv.,,,Theater and event technology etc.,,,translated,raw_edu_field,medium,danish,,,3543,1716,0.00019
-EDU_field_603010,EDU,field,603010,Skov- og naturteknik,Skov- og naturteknik,,,Forest and nature technology,,,translated,raw_edu_field,medium,danish,,,14456,7245,0.000802
-EDU_field_455510,EDU,field,455510,Geologi,Geologi,,,Geology,,,translated,raw_edu_field,medium,danish,,,7049,4378,0.000485
-EDU_field_454010,EDU,field,454010,Kemi,Kemi,,,Chemistry,,,translated,raw_edu_field,medium,danish,,,11079,6541,0.000724
-EDU_field_257015,EDU,field,257015,Tegnsprogstolkning,Tegnsprogstolkning,,,Sign-language interpretation,,,translated,raw_edu_field,medium,danish,,,2528,1519,0.000168
-EDU_field_309515,EDU,field,309515,Design og business,Design og business,,,Design and business,,,translated,raw_edu_field,medium,danish,,,20682,10231,0.001133
-EDU_field_602010,EDU,field,602010,Gartneri u.n.a.,Gartneri u.n.a.,,,Gartneri u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,4469,2693,0.000298
-EDU_field_254005,EDU,field,254005,Arkæologi,Arkæologi,,,Archaeology,,,translated,raw_edu_field,medium,danish,,,1069,465,5.2e-05
-EDU_field_452010,EDU,field,452010,Biokemi og molekylær biologi,Biokemi og molekylær biologi,,,Biochemistry and molecular biology,,,translated,raw_edu_field,medium,danish,,,22247,9032,0.001
-EDU_field_655510,EDU,field,655510,Folkesundhedsvidenskab,Folkesundhedsvidenskab,,,Public health science,,,translated,raw_edu_field,medium,danish,,,11613,5774,0.00064
-EDU_field_352520,EDU,field,352520,Globalisering og udvikling,Globalisering og udvikling,,,Globalization and development,,,translated,raw_edu_field,medium,danish,,,9819,5108,0.000566
-EDU_field_255420,EDU,field,255420,Fransk,Fransk,,,French,,,translated,raw_edu_field,medium,danish,,,9328,5727,0.000634
-EDU_field_582030,EDU,field,582030,Tagdækning mv.,Tagdækning mv.,,,Roof covering etc.,,,translated,raw_edu_field,medium,danish,,,2889,1314,0.000146
-EDU_field_652510,EDU,field,652510,Jordemoderuddannelser,Jordemoderuddannelser,,,Midwifery training,,,translated,raw_edu_field,medium,danish,,,17024,6970,0.000772
-EDU_field_209015,EDU,field,209015,Humanistisk-pædagogiske uddannelser,Humanistisk-pædagogiske uddannelser,,,Humanities and pedagogical training,,,translated,raw_edu_field,medium,danish,,,4154,3377,0.000374
-EDU_field_354035,EDU,field,354035,Sociologi i øvrigt,Sociologi i øvrigt,,,Sociology NEC,,,translated,raw_edu_field,medium,danish,,,1951,877,9.7e-05
-EDU_field_454515,EDU,field,454515,Geofysik,Geofysik,,,Geophysics,,,translated,raw_edu_field,medium,danish,,,1167,747,8.3e-05
-EDU_field_457010,EDU,field,457010,Fysik,Fysik,,,Physics,,,translated,raw_edu_field,medium,danish,,,8043,4901,0.000543
-EDU_field_255010,EDU,field,255010,Kultur og kulturformidling,Kultur og kulturformidling,,,Culture and cultural dissemination,,,translated,raw_edu_field,medium,danish,,,9778,4744,0.000525
-EDU_field_601010,EDU,field,601010,"Jordbrug, skovbrug og fiskeri u.n.a.","Jordbrug, skovbrug og fiskeri u.n.a.",,,"Agriculture, forestry, and fishing n.a.",,,translated,raw_edu_field,medium,danish,,,37019,23788,0.002635
-EDU_field_802515,EDU,field,802515,Lufthavnsuddannelser,Lufthavnsuddannelser,,,Lufthavns programmes,,,translated,raw_edu_field,medium,danish,,,2350,1372,0.000152
-EDU_field_701510,EDU,field,701510,Bygnings- og brugerservice u.n.a.,Bygnings- og brugerservice u.n.a.,,,Construction and user services n.a.,,,translated,raw_edu_field,medium,danish,,,9495,5975,0.000662
-EDU_field_303510,EDU,field,303510,"Kunsthåndværk/design, guld og sølv","Kunsthåndværk/design, guld og sølv",,,"Artisanry/design, gold and silver",,,translated,raw_edu_field,medium,danish,,,5863,3615,0.0004
-EDU_field_271520,EDU,field,271520,"Film, tv og medie, instruktion og tilrettelæggelse","Film, tv og medie, instruktion og tilrettelæggelse",,,"Film, TV, and media, instruction and arrangement",,,translated,raw_edu_field,medium,danish,,,6326,3012,0.000334
-EDU_field_257010,EDU,field,257010,Sprogtolkning,Sprogtolkning,,,Language interpreting,,,translated,raw_edu_field,medium,danish,,,6920,3547,0.000393
-EDU_field_271510,EDU,field,271510,"Film-, tv- og medieproduktion u.n.a.","Film-, tv- og medieproduktion u.n.a.",,,"Film, TV, and media production n.a.",,,translated,raw_edu_field,medium,danish,,,25637,15172,0.00168
-EDU_field_653515,EDU,field,653515,Radiografi og billeddiagnostik,Radiografi og billeddiagnostik,,,Radiography and imaging diagnostics,,,translated,raw_edu_field,medium,danish,,,14193,6579,0.000729
-EDU_field_555086,EDU,field,555086,Produktdesign og innovation mv.,Produktdesign og innovation mv.,,,Product design and innovation etc.,,,translated,raw_edu_field,medium,danish,,,14763,5441,0.000603
-EDU_field_601535,EDU,field,601535,Dyrepasning,Dyrepasning,,,Dyrepasning,,,copy-of-da,raw_edu_field,medium,danish,,,10770,7357,0.000815
-EDU_field_456510,EDU,field,456510,Astronomi,Astronomi,,,Astronomy,,,translated,raw_edu_field,medium,danish,,,860,500,5.5e-05
-EDU_field_751020,EDU,field,751020,Flyvevåbnet,Flyvevåbnet,,,Air Force,,,translated,raw_edu_field,medium,danish,,,5642,2633,0.000292
-EDU_field_258410,EDU,field,258410,Sprog og internationale studier,Sprog og internationale studier,,,Languages and international studies,,,translated,raw_edu_field,medium,danish,,,5500,3055,0.000338
-EDU_field_702025,EDU,field,702025,Kosmetikeruddannelser,Kosmetikeruddannelser,,,Kosmetiker programmes,,,translated,raw_edu_field,medium,danish,,,5925,3301,0.000366
-EDU_field_256235,EDU,field,256235,Thai,Thai,,,Thai,,,copy-of-da,raw_edu_field,medium,danish,,,120,83,9e-06
-EDU_field_201010,EDU,field,201010,Didaktik og studier i undervisningsmetode mv.,Didaktik og studier i undervisningsmetode mv.,,,Didactics and studies in teaching methods etc.,,,translated,raw_edu_field,medium,danish,,,5421,4406,0.000488
-EDU_field_554510,EDU,field,554510,Nanoteknologi,Nanoteknologi,,,Nanotechnology,,,translated,raw_edu_field,medium,danish,,,7556,3146,0.000348
-EDU_field_803510,EDU,field,803510,Togtransport,Togtransport,,,Togtransport,,,copy-of-da,raw_edu_field,medium,danish,,,3834,2116,0.000234
-EDU_field_453510,EDU,field,453510,"Miljø, tværfaglige uddannelser","Miljø, tværfaglige uddannelser",,,"Environment, interdisciplinary education",,,translated,raw_edu_field,medium,danish,,,4281,2107,0.000233
-EDU_field_574010,EDU,field,574010,"Motorkøretøjs-, skibs- og flyteknik u.n.a.","Motorkøretøjs-, skibs- og flyteknik u.n.a.",,,"Motor vehicle, ship and aircraft technology n.e.c.",,,translated,raw_edu_field,medium,danish,,,46234,27158,0.003008
-EDU_field_457510,EDU,field,457510,Matematik,Matematik,,,Mathematics,,,translated,raw_edu_field,medium,danish,,,6170,3925,0.000435
-EDU_field_552510,EDU,field,552510,Miljø- og miljøbeskyttelsesteknik,Miljø- og miljøbeskyttelsesteknik,,,Environmental and environmental protection technology,,,translated,raw_edu_field,medium,danish,,,8127,4524,0.000501
-EDU_field_602510,EDU,field,602510,Jordbrugsøkonomi,Jordbrugsøkonomi,,,Agricultural economics,,,translated,raw_edu_field,medium,danish,,,4271,2006,0.000222
-EDU_field_555050,EDU,field,555050,Keramik- og porcelænsindustri,Keramik- og porcelænsindustri,,,Ceramic and porcelain industry,,,translated,raw_edu_field,medium,danish,,,1674,1074,0.000119
-EDU_field_304045,EDU,field,304045,Musiske uddannelser i øvrigt,Musiske uddannelser i øvrigt,,,Musical education otherwise,,,translated,raw_edu_field,medium,danish,,,1708,885,9.8e-05
-EDU_field_801525,EDU,field,801525,Skibsofficer,Skibsofficer,,,Skibsofficer,,,copy-of-da,raw_edu_field,medium,danish,,,7850,2220,0.000246
-EDU_field_453030,EDU,field,453030,Bioteknologiske tværfaglige uddannelser,Bioteknologiske tværfaglige uddannelser,,,Biotechnological interdisciplinary education,,,translated,raw_edu_field,medium,danish,,,10566,5070,0.000562
-EDU_field_258415,EDU,field,258415,"Erhvervssprog, et sprog og virksomhedskommunikation","Erhvervssprog, et sprog og virksomhedskommunikation",,,"Business language, a language and business communication",,,translated,raw_edu_field,medium,danish,,,18009,8469,0.000938
-EDU_field_655515,EDU,field,655515,Idræt og sundhed mv.,Idræt og sundhed mv.,,,Physical education and health etc.,,,translated,raw_edu_field,medium,danish,,,12245,6937,0.000768
-EDU_field_452515,EDU,field,452515,Bioteknologi,Bioteknologi,,,Biotechnology,,,translated,raw_edu_field,medium,danish,,,11463,5341,0.000592
-EDU_field_353510,EDU,field,353510,Antropologi/etnografi,Antropologi/etnografi,,,Antropologi/etnografi,,,copy-of-da,raw_edu_field,medium,danish,,,10687,5791,0.000641
-EDU_field_255610,EDU,field,255610,Balkanstudier,Balkanstudier,,,Balkan studies,,,translated,raw_edu_field,medium,danish,,,399,289,3.2e-05
-EDU_field_202020,EDU,field,202020,Tale- og hørepædagogik,Tale- og hørepædagogik,,,Speech and Hearing Pedagogy,,,translated,raw_edu_field,medium,danish,,,6325,2331,0.000258
-EDU_field_574030,EDU,field,574030,Skibsbygningsteknik,Skibsbygningsteknik,,,Shipbuilding technology,,,translated,raw_edu_field,medium,danish,,,13277,8453,0.000936
-EDU_field_256610,EDU,field,256610,Filologi klassisk,Filologi klassisk,,,Classical philology,,,translated,raw_edu_field,medium,danish,,,4099,2736,0.000303
-EDU_field_257815,EDU,field,257815,Nordisk sprog og litteratur,Nordisk sprog og litteratur,,,Nordic Language and Literature,,,translated,raw_edu_field,medium,danish,,,6371,2340,0.000259
-EDU_field_801515,EDU,field,801515,"Kyst-, fiske- og sætteskipper","Kyst-, fiske- og sætteskipper",,,"Coastal, Fishing, and Charter Skippers",,,translated,raw_edu_field,medium,danish,,,15994,7305,0.000809
-EDU_field_252015,EDU,field,252015,Idehistorie,Idehistorie,,,History of ideas,,,translated,raw_edu_field,medium,danish,,,4471,1944,0.000215
-EDU_field_154010,EDU,field,154010,Særligt tilrettelagt ungdomsuddannelse,Særligt tilrettelagt ungdomsuddannelse,,,Special Designed Youth Education,,,translated,raw_edu_field,medium,danish,,,216227,97370,0.010785
-EDU_field_603510,EDU,field,603510,Erhvervsfiskeri,Erhvervsfiskeri,,,Commercial fishing,,,translated,raw_edu_field,medium,danish,,,3742,2261,0.00025
-EDU_field_257245,EDU,field,257245,"Arabisk, erhvervssproglig","Arabisk, erhvervssproglig",,,"Arabic, Vocational Language",,,translated,raw_edu_field,medium,danish,,,634,321,3.6e-05
-EDU_field_255425,EDU,field,255425,Italiensk,Italiensk,,,Italian,,,translated,raw_edu_field,medium,danish,,,3711,2177,0.000241
-EDU_field_256230,EDU,field,256230,Koreastudier,Koreastudier,,,Korean studies,,,translated,raw_edu_field,medium,danish,,,458,292,3.2e-05
-EDU_field_453020,EDU,field,453020,Nanoscience og nanobioscience,Nanoscience og nanobioscience,,,Nanoscience and Nanobioscience,,,translated,raw_edu_field,medium,danish,,,602,479,5.3e-05
-EDU_field_452015,EDU,field,452015,Biomedicin og molekylær biomedicin,Biomedicin og molekylær biomedicin,,,Biomedicine and Molecular Biomedicine,,,translated,raw_edu_field,medium,danish,,,7329,3046,0.000337
-EDU_field_655520,EDU,field,655520,"Sundhed, tværfaglige uddannelser i øvrigt","Sundhed, tværfaglige uddannelser i øvrigt",,,"Health, Interdisciplinary Education Otherwise",,,translated,raw_edu_field,medium,danish,,,4737,3833,0.000425
-EDU_field_654525,EDU,field,654525,Musikterapi,Musikterapi,,,Music therapy,,,translated,raw_edu_field,medium,danish,,,1372,465,5.2e-05
-EDU_field_582060,EDU,field,582060,"Bygge- og anlægskonstruktion, tværfaglige uddannelser","Bygge- og anlægskonstruktion, tværfaglige uddannelser",,,"Construction and Installation Design, Interdisciplinary Education",,,translated,raw_edu_field,medium,danish,,,5260,2922,0.000324
-EDU_field_553020,EDU,field,553020,Klima- og køleteknik,Klima- og køleteknik,,,Climate and Refrigeration Technology,,,translated,raw_edu_field,medium,danish,,,5097,2626,0.000291
-EDU_field_554010,EDU,field,554010,"Medicin-, sundhed- og velfærdsteknologi","Medicin-, sundhed- og velfærdsteknologi",,,"Medicine, Health and Welfare Technologies",,,translated,raw_edu_field,medium,danish,,,13103,5414,0.0006
-EDU_field_354515,EDU,field,354515,Kultur- og sprogmødestudier,Kultur- og sprogmødestudier,,,Cultural and Language Studies,,,translated,raw_edu_field,medium,danish,,,3042,1450,0.000161
-EDU_field_258425,EDU,field,258425,"Erhvervssprog, tværfaglige uddannelser i øvrigt","Erhvervssprog, tværfaglige uddannelser i øvrigt",,,"Business Languages, Interdisciplinary Programs Otherwise",,,translated,raw_edu_field,medium,danish,,,8874,3910,0.000433
-EDU_field_702010,EDU,field,702010,Frisør- og kosmetikeruddannelser u.n.a.,Frisør- og kosmetikeruddannelser u.n.a.,,,Hairdressing and Cosmetology Programs U.N.A.,,,translated,raw_edu_field,medium,danish,,,5196,3037,0.000336
-EDU_field_703010,EDU,field,703010,Sportstræning og -teknik,Sportstræning og -teknik,,,Sports Training and Technique,,,translated,raw_edu_field,medium,danish,,,1932,1297,0.000144
-EDU_field_271530,EDU,field,271530,"Film-, tv- og medieproduktion i øvrigt","Film-, tv- og medieproduktion i øvrigt",,,"Film, TV and Media Production Otherwise",,,translated,raw_edu_field,medium,danish,,,1352,707,7.8e-05
-EDU_field_352525,EDU,field,352525,International sikkerhed og folkeret,International sikkerhed og folkeret,,,International Security and Public International Law,,,translated,raw_edu_field,medium,danish,,,3108,1355,0.00015
-EDU_field_302030,EDU,field,302030,Designer i øvrigt,Designer i øvrigt,,,Design Otherwise,,,translated,raw_edu_field,medium,danish,,,1661,887,9.8e-05
-EDU_field_751530,EDU,field,751530,Vagtservice,Vagtservice,,,Vagtservice,,,copy-of-da,raw_edu_field,medium,danish,,,2573,1928,0.000214
-EDU_field_257250,EDU,field,257250,"Kinesisk, erhvervssproglig","Kinesisk, erhvervssproglig",,,"Chinese, Vocational Language",,,translated,raw_edu_field,medium,danish,,,533,211,2.3e-05
-EDU_field_354025,EDU,field,354025,Socialt arbejde/socialt entreprenørskab,Socialt arbejde/socialt entreprenørskab,,,Social Work/Social Entrepreneurship,,,translated,raw_edu_field,medium,danish,,,3136,2333,0.000258
-EDU_field_581520,EDU,field,581520,By- og regionsplanlægning,By- og regionsplanlægning,,,Urban and regional planning,,,translated,raw_edu_field,medium,danish,,,2726,1177,0.00013
-EDU_field_354015,EDU,field,354015,Socialvidenskab,Socialvidenskab,,,Social science,,,translated,raw_edu_field,medium,danish,,,3392,1732,0.000192
-EDU_field_454015,EDU,field,454015,Medicinalkemi,Medicinalkemi,,,Medicinal chemistry,,,translated,raw_edu_field,medium,danish,,,1264,752,8.3e-05
-EDU_field_254030,EDU,field,254030,Nærorientalsk arkæologi og oldtidskultur,Nærorientalsk arkæologi og oldtidskultur,,,Near Eastern archaeology and ancient civilizations,,,translated,raw_edu_field,medium,danish,,,2225,1123,0.000124
-EDU_field_401515,EDU,field,401515,Skatter og afgifter,Skatter og afgifter,,,Taxes and tariffs,,,translated,raw_edu_field,medium,danish,,,2824,2432,0.000269
-EDU_field_352515,EDU,field,352515,"Samfundsstudier, andre verdensdele","Samfundsstudier, andre verdensdele",,,"Area studies, other world regions",,,translated,raw_edu_field,medium,danish,,,4211,2074,0.00023
-EDU_field_654535,EDU,field,654535,Biomekanik,Biomekanik,,,Biomekanik,,,copy-of-da,raw_edu_field,medium,danish,,,7510,2791,0.000309
-EDU_field_354010,EDU,field,354010,Sociologi og kultursociologi mv.,Sociologi og kultursociologi mv.,,,Sociology and cultural sociology etc.,,,translated,raw_edu_field,medium,danish,,,11163,6714,0.000744
-EDU_field_101010,EDU,field,101010,Grundskole 0.-6. klasse,Grundskole 0.-6. klasse,,,Primary school 0.-6. grade,,,translated,raw_edu_field,medium,danish,,,16471275,1642053,0.181871
-EDU_field_355020,EDU,field,355020,Retorik,Retorik,,,Rhetoric,,,translated,raw_edu_field,medium,danish,,,3280,1858,0.000206
-EDU_field_804010,EDU,field,804010,"Post, distribution mv.","Post, distribution mv.",,,"Postal services, distribution etc.",,,translated,raw_edu_field,medium,danish,,,825,604,6.7e-05
-EDU_field_309520,EDU,field,309520,Designkultur og designstudier,Designkultur og designstudier,,,Design culture and design studies,,,translated,raw_edu_field,medium,danish,,,3626,1714,0.00019
-EDU_field_555045,EDU,field,555045,"Bådebyggeri, ikke-motordrevne","Bådebyggeri, ikke-motordrevne",,,"Boatbuilding, non-motorized",,,translated,raw_edu_field,medium,danish,,,6807,4578,0.000507
-EDU_field_258420,EDU,field,258420,"Erhvervssprog, to sprog og virksomhedskommunikation","Erhvervssprog, to sprog og virksomhedskommunikation",,,"Business languages, two languages and business communication",,,translated,raw_edu_field,medium,danish,,,1378,752,8.3e-05
-EDU_field_354020,EDU,field,354020,Kriminologi,Kriminologi,,,Criminology,,,translated,raw_edu_field,medium,danish,,,1470,684,7.6e-05
-EDU_field_354520,EDU,field,354520,Miljøplanlægning og risikostyring,Miljøplanlægning og risikostyring,,,Environmental planning and risk management,,,translated,raw_edu_field,medium,danish,,,2353,1041,0.000115
-EDU_field_309525,EDU,field,309525,Forfatteruddannelse,Forfatteruddannelse,,,Forfatter programme,,,translated,raw_edu_field,medium,danish,,,279,147,1.6e-05
-EDU_field_572010,EDU,field,572010,Urmageri,Urmageri,,,Urmageri,,,copy-of-da,raw_edu_field,medium,danish,,,3524,2394,0.000265
-EDU_field_354510,EDU,field,354510,Teknologisk-samfundsvidenskabelig planlægning,Teknologisk-samfundsvidenskabelig planlægning,,,Technological-societal planning,,,translated,raw_edu_field,medium,danish,,,4774,2517,0.000279
-EDU_field_353010,EDU,field,353010,Psykologi,Psykologi,,,Psychology,,,translated,raw_edu_field,medium,danish,,,27035,18127,0.002008
-EDU_field_209025,EDU,field,209025,Samfundsvidenskabelige-pædagogiske uddannelser,Samfundsvidenskabelige-pædagogiske uddannelser,,,Social-scientific and pedagogical educations,,,translated,raw_edu_field,medium,danish,,,10797,8798,0.000974
-EDU_field_255215,EDU,field,255215,Tysk,Tysk,,,German,,,translated,raw_edu_field,medium,danish,,,6144,4252,0.000471
-EDU_field_302510,EDU,field,302510,Billedkunst,Billedkunst,,,Fine art,,,translated,raw_edu_field,medium,danish,,,3216,1609,0.000178
-EDU_field_751535,EDU,field,751535,Toldvæsen,Toldvæsen,,,Customs,,,translated,raw_edu_field,medium,danish,,,2861,1480,0.000164
-EDU_field_603015,EDU,field,603015,Skovbrugsvidenskab,Skovbrugsvidenskab,,,Forestry science,,,translated,raw_edu_field,medium,danish,,,3887,1812,0.000201
-EDU_field_255615,EDU,field,255615,Russisk,Russisk,,,Russian,,,translated,raw_edu_field,medium,danish,,,461,420,4.7e-05
-EDU_field_255640,EDU,field,255640,Nygræsk,Nygræsk,,,Modern Greek,,,translated,raw_edu_field,medium,danish,,,184,143,1.6e-05
-EDU_field_256420,EDU,field,256420,Indiansk sprog og kultur,Indiansk sprog og kultur,,,Indian language and culture,,,translated,raw_edu_field,medium,danish,,,573,341,3.8e-05
-EDU_field_602030,EDU,field,602030,Gartneriteknik,Gartneriteknik,,,Horticultural technology,,,translated,raw_edu_field,medium,danish,,,2306,1591,0.000176
-EDU_field_602035,EDU,field,602035,Gartnerividenskab,Gartnerividenskab,,,Horticultural science,,,translated,raw_edu_field,medium,danish,,,2378,1333,0.000148
-EDU_field_555080,EDU,field,555080,"Skomager, skoindustri","Skomager, skoindustri",,,"Shoemaking, footwear industry",,,translated,raw_edu_field,medium,danish,,,3792,3337,0.00037
-EDU_field_209020,EDU,field,209020,Naturvidenskabelige-pædagogiske uddannelser,Naturvidenskabelige-pædagogiske uddannelser,,,Natural science and pedagogical educations,,,translated,raw_edu_field,medium,danish,,,1827,1124,0.000124
-EDU_field_256210,EDU,field,256210,Indisk,Indisk,,,Indisk,,,copy-of-da,raw_edu_field,medium,danish,,,451,328,3.6e-05
-EDU_field_255415,EDU,field,255415,Portugisisk,Portugisisk,,,Portuguese,,,translated,raw_edu_field,medium,danish,,,1385,787,8.7e-05
-EDU_field_257110,EDU,field,257110,Datalingvistik,Datalingvistik,,,Datalingvistik,,,copy-of-da,raw_edu_field,medium,danish,,,316,181,2e-05
-EDU_field_451515,EDU,field,451515,Miljøbiologi,Miljøbiologi,,,Environmental biology,,,translated,raw_edu_field,medium,danish,,,493,239,2.6e-05
-EDU_field_256425,EDU,field,256425,Grønlandsk,Grønlandsk,,,Greenlandic,,,translated,raw_edu_field,medium,danish,,,56,47,5e-06
-EDU_field_573025,EDU,field,573025,Støberiteknik,Støberiteknik,,,Foundry Technology,,,translated,raw_edu_field,medium,danish,,,1548,1192,0.000132
-EDU_field_456010,EDU,field,456010,Meteorologi,Meteorologi,,,Meteorology,,,translated,raw_edu_field,medium,danish,,,337,241,2.7e-05
-EDU_field_454510,EDU,field,454510,Geodæsi og geoinformatik,Geodæsi og geoinformatik,,,Geodesy and Geoinformatics,,,translated,raw_edu_field,medium,danish,,,517,381,4.2e-05
-EDU_field_255220,EDU,field,255220,Nederlandsk,Nederlandsk,,,Dutch,,,translated,raw_edu_field,medium,danish,,,120,84,9e-06
-EDU_field_573030,EDU,field,573030,Pladebearbejdende metalindustri mv.,Pladebearbejdende metalindustri mv.,,,Sheet Metal Industry etc.,,,translated,raw_edu_field,medium,danish,,,1606,1156,0.000128
-EDU_field_555087,EDU,field,555087,Konstruktion og projektering,Konstruktion og projektering,,,Construction and Design,,,translated,raw_edu_field,medium,danish,,,444,266,2.9e-05
-EDU_field_257440,EDU,field,257440,"Tysk-spansk, erhvervssproglig","Tysk-spansk, erhvervssproglig",,,Business German-Spanish,,,translated,raw_edu_field,medium,danish,,,902,492,5.4e-05
-EDU_field_304035,EDU,field,304035,Sang og sangskrivning,Sang og sangskrivning,,,Singing and Songwriting,,,translated,raw_edu_field,medium,danish,,,616,340,3.8e-05
-EDU_field_304030,EDU,field,304030,Komponist og dirigent,Komponist og dirigent,,,Composer and Conductor,,,translated,raw_edu_field,medium,danish,,,721,377,4.2e-05
-EDU_field_653530,EDU,field,653530,Bandagistuddannelser,Bandagistuddannelser,,,Bandagist programmes,,,translated,raw_edu_field,medium,danish,,,640,297,3.3e-05
-EDU_field_256225,EDU,field,256225,Kinastudier,Kinastudier,,,Chinese studies,,,translated,raw_edu_field,medium,danish,,,755,499,5.5e-05
-EDU_field_308510,EDU,field,308510,Dans,Dans,,,Dans,,,copy-of-da,raw_edu_field,medium,danish,,,504,274,3e-05
-EDU_field_802510,EDU,field,802510,Luftfart,Luftfart,,,Luftfart,,,copy-of-da,raw_edu_field,medium,danish,,,2055,1152,0.000128
-EDU_field_256220,EDU,field,256220,Japanstudier,Japanstudier,,,Japanese studies,,,translated,raw_edu_field,medium,danish,,,491,370,4.1e-05
-EDU_field_256435,EDU,field,256435,"Indoeuropæiske sprog, slægtskab og lingvistik","Indoeuropæiske sprog, slægtskab og lingvistik",,,"Indo-European Languages, Kinship and Linguistics",,,translated,raw_edu_field,medium,danish,,,106,63,7e-06
-EDU_field_256415,EDU,field,256415,Ungarsk,Ungarsk,,,Hungarian,,,translated,raw_edu_field,medium,danish,,,87,49,5e-06
-EDU_field_257235,EDU,field,257235,"Russisk, erhvervssproglig","Russisk, erhvervssproglig",,,Business Russian,,,translated,raw_edu_field,medium,danish,,,183,102,1.1e-05
-EDU_field_257230,EDU,field,257230,"Italiensk, erhvervssproglig","Italiensk, erhvervssproglig",,,Business Italian,,,translated,raw_edu_field,medium,danish,,,598,361,4e-05
-EDU_field_303520,EDU,field,303520,Kunsthåndværk i øvrigt,Kunsthåndværk i øvrigt,,,Miscellaneous Fine Arts,,,translated,raw_edu_field,medium,danish,,,1999,1824,0.000202
-EDU_field_256410,EDU,field,256410,Finsk,Finsk,,,Finnish,,,translated,raw_edu_field,medium,danish,,,404,214,2.4e-05
-EDU_field_751015,EDU,field,751015,Forsvar generelt,Forsvar generelt,,,"Defence, general",,,translated,raw_edu_field,medium,danish,,,276,160,1.8e-05
-EDU_field_458010,EDU,field,458010,Statistik,Statistik,,,Statistics,,,translated,raw_edu_field,medium,danish,,,628,555,6.1e-05
-EDU_field_653525,EDU,field,653525,Ortopædi,Ortopædi,,,Orthopedics,,,translated,raw_edu_field,medium,danish,,,360,234,2.6e-05
-EDU_field_257435,EDU,field,257435,"Engelsk-russisk, erhvervssproglig","Engelsk-russisk, erhvervssproglig",,,Business English-Russian,,,translated,raw_edu_field,medium,danish,,,378,248,2.7e-05
-EDU_field_455515,EDU,field,455515,Geovidenskab,Geovidenskab,,,Earth sciences,,,translated,raw_edu_field,medium,danish,,,114,52,6e-06
-EDU_field_254025,EDU,field,254025,Marinarkæologi,Marinarkæologi,,,Marine Archaeology,,,translated,raw_edu_field,medium,danish,,,392,167,1.8e-05
-EDU_field_256215,EDU,field,256215,Indonesisk,Indonesisk,,,Indonesisk,,,copy-of-da,raw_edu_field,medium,danish,,,73,36,4e-06
-EDU_field_304025,EDU,field,304025,Tonespace,Tonespace,,,Tonespace,,,copy-of-da,raw_edu_field,medium,danish,,,233,109,1.2e-05
-EDU_field_573010,EDU,field,573010,Maskin- og produktionsanlægsteknik u.n.a.,Maskin- og produktionsanlægsteknik u.n.a.,,,Machine and Production Facility Technology NEC,,,translated,raw_edu_field,medium,danish,,,10581,9993,0.001107
-EDU_field_352510,EDU,field,352510,Europæiske studier,Europæiske studier,,,European Studies,,,translated,raw_edu_field,medium,danish,,,1345,826,9.1e-05
-EDU_field_252020,EDU,field,252020,Videnskabshistorie,Videnskabshistorie,,,History of science,,,translated,raw_edu_field,medium,danish,,,163,100,1.1e-05
-EDU_field_256625,EDU,field,256625,Andre klassiske sprog,Andre klassiske sprog,,,Other Classical Languages,,,translated,raw_edu_field,medium,danish,,,39,38,4e-06
-EDU_field_257486,EDU,field,257486,"Fransk-italiensk, erhvervssproglig","Fransk-italiensk, erhvervssproglig",,,Business French-Italian,,,translated,raw_edu_field,medium,danish,,,115,58,6e-06
-EDU_field_256240,EDU,field,256240,Tibetologi,Tibetologi,,,Tibetology,,,translated,raw_edu_field,medium,danish,,,103,72,8e-06
-EDU_field_255430,EDU,field,255430,Rumænsk,Rumænsk,,,Romanian,,,translated,raw_edu_field,medium,danish,,,18,15,2e-06
-EDU_field_257460,EDU,field,257460,"Tysk-russisk, erhvervssproglig","Tysk-russisk, erhvervssproglig",,,Business German-Russian,,,translated,raw_edu_field,medium,danish,,,1,1,0.0
-EDU_field_257240,EDU,field,257240,"Polsk, erhvervssproglig","Polsk, erhvervssproglig",,,"Polish, vocational language",,,translated,raw_edu_field,medium,danish,,,43,18,2e-06
-EDU_field_257455,EDU,field,257455,"Tysk-italiensk, erhvervssproglig","Tysk-italiensk, erhvervssproglig",,,"German-Italian, vocational language",,,translated,raw_edu_field,medium,danish,,,6,4,0.0
-EDU_field_257480,EDU,field,257480,"Spansk-russisk, erhvervssproglig","Spansk-russisk, erhvervssproglig",,,"Spanish-Russian, vocational language",,,translated,raw_edu_field,medium,danish,,,2,2,0.0
-EDU_field_991010,EDU,field,991010,Afbrudt,Afbrudt,,,Discontinued,,,translated,raw_edu_field,medium,danish,,,3235524,1975704,0.218825
-EDU_field_555111,EDU,field,555111,Grundforløb,Grundforløb,,,Foundation course,,,translated,raw_edu_field,medium,danish,,,501316,434499,0.048124
-EDU_field_992010,EDU,field,992010,Igang,Igang,,,In progress,,,translated,raw_edu_field,medium,danish,,,1173697,1173691,0.129996
-EDU_field_582040,EDU,field,582040,Kloakering og pilotering mv.,Kloakering og pilotering mv.,,,Sewerage and piloting etc.,,,translated,raw_edu_field,medium,danish,,,3320,3317,0.000367
-EDU_field_309516,EDU,field,309516,Miljø og etik,Miljø og etik,,,Environment and ethics,,,translated,raw_edu_field,medium,danish,,,407,207,2.3e-05
-EDU_field_301510,EDU,field,301510,"Designer, digital design og kommunikation","Designer, digital design og kommunikation",,,"Design, digital design and communication",,,translated,raw_edu_field,medium,danish,,,3376,2612,0.000289
-EDU_field_653516,EDU,field,653516,Stråleterapi,Stråleterapi,,,Radiation therapy,,,translated,raw_edu_field,medium,danish,,,400,218,2.4e-05
-EDU_field_803030,EDU,field,803030,"Chauffør, flytning og renovation","Chauffør, flytning og renovation",,,"Driver, moving and renovation",,,translated,raw_edu_field,medium,danish,,,1364,1362,0.000151
-EDU_field_802015,EDU,field,802015,Kranføring,Kranføring,,,Crane operation,,,translated,raw_edu_field,medium,danish,,,254,254,2.8e-05
-EDU_field_451525,EDU,field,451525,Zoologi,Zoologi,,,Zoology,,,translated,raw_edu_field,medium,danish,,,467,467,5.2e-05
-EDU_field_257820,EDU,field,257820,Nordisk filologi,Nordisk filologi,,,Nordic philology,,,translated,raw_edu_field,medium,danish,,,2904,2902,0.000321
-EDU_field_302020,EDU,field,302020,"Designer, indretning og interiør","Designer, indretning og interiør",,,Interior Design and Decoration,,,translated,raw_edu_field,medium,danish,,,2577,2332,0.000258
-EDU_field_452510,EDU,field,452510,Biologisk laboratorieteknik,Biologisk laboratorieteknik,,,Biological laboratory technology,,,translated,raw_edu_field,medium,danish,,,1264,1260,0.00014
-EDU_field_701525,EDU,field,701525,Rengørings- og institutionsservice mv.,Rengørings- og institutionsservice mv.,,,Cleaning and Institutional Services etc.,,,translated,raw_edu_field,medium,danish,,,10299,10200,0.00113
-EDU_field_402020,EDU,field,402020,Forsikring,Forsikring,,,Insurance,,,translated,raw_edu_field,medium,danish,,,2776,2775,0.000307
-EDU_field_302015,EDU,field,302015,"Designer, beklædning og mode","Designer, beklædning og mode",,,Fashion and Clothing Design,,,translated,raw_edu_field,medium,danish,,,3053,2685,0.000297
-EDU_field_254035,EDU,field,254035,Oldtidskundskab,Oldtidskundskab,,,Classics (Ancient-world studies),,,translated,raw_edu_field,medium,danish,,,157,102,1.1e-05
-EDU_field_304040,EDU,field,304040,Musikvidenskab og -teori,Musikvidenskab og -teori,,,Music Theory and Science,,,translated,raw_edu_field,medium,danish,,,561,559,6.2e-05
-EDU_field_451520,EDU,field,451520,Botanik,Botanik,,,Botanik,,,copy-of-da,raw_edu_field,medium,danish,,,99,99,1.1e-05
-EDU_field_302025,EDU,field,302025,"Designer, industrielt design","Designer, industrielt design",,,"Designer, industrielt design",,,copy-of-da,raw_edu_field,medium,danish,,,980,764,8.5e-05
-EDU_field_255630,EDU,field,255630,Serbokroatisk,Serbokroatisk,,,Serbo-Croatian,,,translated,raw_edu_field,medium,danish,,,86,82,9e-06
-EDU_field_602511,EDU,field,602511,Jordbrugsbiologi,Jordbrugsbiologi,,,Jordbrugsbiologi,,,copy-of-da,raw_edu_field,medium,danish,,,491,348,3.9e-05
-EDU_field_256615,EDU,field,256615,Græsk,Græsk,,,Greek,,,translated,raw_edu_field,medium,danish,,,153,119,1.3e-05
-EDU_field_256620,EDU,field,256620,Latin,Latin,,,Latin,,,copy-of-da,raw_edu_field,medium,danish,,,360,333,3.7e-05
-EDU_field_255620,EDU,field,255620,Polsk,Polsk,,,Polish,,,translated,raw_edu_field,medium,danish,,,41,31,3e-06
-EDU_field_255635,EDU,field,255635,Bulgarsk,Bulgarsk,,,Bulgarian,,,translated,raw_edu_field,medium,danish,,,4,4,0.0
-EDU_field_255625,EDU,field,255625,Tjekkisk,Tjekkisk,,,Czech,,,translated,raw_edu_field,medium,danish,,,13,13,1e-06
-EDU_field_981030,EDU,field,981030,"Studiefag uoplyst, andre","Studiefag uoplyst, andre",,,"Undefined Academic Subject, Other",,,translated,raw_edu_field,medium,danish,,,26253,26243,0.002907
-EDU_field_257420,EDU,field,257420,"Engelsk-portugisisk, erhvervssproglig","Engelsk-portugisisk, erhvervssproglig",,,Business English-Portuguese,,,translated,raw_edu_field,medium,danish,,,85,85,9e-06
-EDU_field_409025,EDU,field,409025,Erhvervsøkonomi med teknologi,Erhvervsøkonomi med teknologi,,,Technology-oriented Business Administration,,,translated,raw_edu_field,medium,danish,,,7,7,1e-06
-EDU_field_994030,EDU,field,994030,Uoplyst (indvandrernes uddannelse),Uoplyst (indvandrernes uddannelse),,,Undefined (Immigrants' Education),,,translated,raw_edu_field,medium,danish,,,102346,102346,0.011336
-EDU_field_995010,EDU,field,995010,Ingen uddannelse (indvandrernes uddannelse),Ingen uddannelse (indvandrernes uddannelse),,,No Education (Immigrants' Education),,,translated,raw_edu_field,medium,danish,,,20110,20110,0.002227
-EDU_field_656525,EDU,field,656525,Pædagogisk arbejde med børn og unge i øvrigt,Pædagogisk arbejde med børn og unge i øvrigt,,,"Educational work with children and youth, other",,,translated,raw_edu_field,medium,danish,,,16054,16014,0.001774
-EDU_field_751010,EDU,field,751010,Forsvar u.n.a.,Forsvar u.n.a.,,,Forsvar u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,4680,4680,0.000518
-EDU_field_301010,EDU,field,301010,Kunstnerisk u.n.a.,Kunstnerisk u.n.a.,,,"Artistic, unspecified",,,translated,raw_edu_field,medium,danish,,,2800,2800,0.00031
-EDU_field_981010,EDU,field,981010,Studiefag uoplyst indv. udd.,Studiefag uoplyst indv. udd.,,,"Academic subjects unspecified, individual education",,,translated,raw_edu_field,medium,danish,,,492739,454143,0.0503
-EDU_field_751510,EDU,field,751510,Politi og sikkerhed u.n.a.,Politi og sikkerhed u.n.a.,,,"Police and security, other not available",,,translated,raw_edu_field,medium,danish,,,1742,1742,0.000193
-EDU_field_701530,EDU,field,701530,Husholdningskurser,Husholdningskurser,,,Home economics courses,,,translated,raw_edu_field,medium,danish,,,1514,1514,0.000168
-EDU_field_204010,EDU,field,204010,"Læreruddannelse, erhvervsskole/sprogcenter mv.","Læreruddannelse, erhvervsskole/sprogcenter mv.",,,"Teacher training, vocational schools/language centers etc.",,,translated,raw_edu_field,medium,danish,,,2769,2763,0.000306
-EDU_field_501020,EDU,field,501020,IT-administrator,IT-administrator,,,IT administrator,,,translated,raw_edu_field,medium,danish,,,1078,1078,0.000119
-EDU_field_555035,EDU,field,555035,Øvrige fødevareindustri,Øvrige fødevareindustri,,,Other food industry,,,translated,raw_edu_field,medium,danish,,,753,753,8.3e-05
-EDU_field_656010,EDU,field,656010,Handicap- og ældrepleje u.n.a.,Handicap- og ældrepleje u.n.a.,,,"Disability and elderly care, other not available",,,translated,raw_edu_field,medium,danish,,,3,3,0.0
-EDU_field_271040,EDU,field,271040,Grafisk-tekniske uddannelser i øvrigt,Grafisk-tekniske uddannelser i øvrigt,,,"Graphic-technical education, other",,,translated,raw_edu_field,medium,danish,,,60,60,7e-06
-EDU_field_209010,EDU,field,209010,"Undervisning og læring, tværfaglige uddannelser u.n.a.","Undervisning og læring, tværfaglige uddannelser u.n.a.",,,"Teaching and learning, interdisciplinary education, other not available",,,translated,raw_edu_field,medium,danish,,,31,31,3e-06
-EDU_field_355530,EDU,field,355530,Museologi,Museologi,,,Museology,,,translated,raw_edu_field,medium,danish,,,8,8,1e-06
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+EDU_field_102010,EDU,field,102010,Grundskole 7. klasse og opefter,Grundskole 7. klasse og opefter,,,Primary School 7th Grade and Beyond,,,translated,raw_edu_field,medium,danish,,,24298574,6087451,0.674235,,
+EDU_field_573015,EDU,field,573015,"Maskinteknik, betjening og vedligeholdelse","Maskinteknik, betjening og vedligeholdelse",,,"Mechanical Engineering, Operation, and Maintenance",,,translated,raw_edu_field,medium,danish,,,182820,104662,0.011592,,
+EDU_field_554020,EDU,field,554020,Maskinmester,Maskinmester,,,Marine engineer,,,translated,raw_edu_field,medium,danish,,,64191,32516,0.003601,,
+EDU_field_401010,EDU,field,401010,Erhvervsøkonomi og administration u.n.a.,Erhvervsøkonomi og administration u.n.a.,,,Business Economics and Administration n.e.c.,,,translated,raw_edu_field,medium,danish,,,1381755,701415,0.077687,,
+EDU_field_404015,EDU,field,404015,Detailhandel,Detailhandel,,,Retail trade,,,translated,raw_edu_field,medium,danish,,,629344,381383,0.042241,,
+EDU_field_121010,EDU,field,121010,"Almengymnasiale, matematisk","Almengymnasiale, matematisk",,,General High School Mathematics,,,translated,raw_edu_field,medium,danish,,,2672228,542526,0.060089,,
+EDU_field_453010,EDU,field,453010,Farmaci og lægemiddelvidenskab,Farmaci og lægemiddelvidenskab,,,Pharmacy and Pharmaceutical Science,,,translated,raw_edu_field,medium,danish,,,26442,13896,0.001539,,
+EDU_field_652010,EDU,field,652010,Lægevidenskab,Lægevidenskab,,,Medical Science,,,translated,raw_edu_field,medium,danish,,,147995,69587,0.007707,,
+EDU_field_802010,EDU,field,802010,"Havne, lager og terminal","Havne, lager og terminal",,,"Ports, Warehouses, and Terminals",,,translated,raw_edu_field,medium,danish,,,28940,15963,0.001768,,
+EDU_field_551010,EDU,field,551010,Teknik og industriel produktion u.n.a.,Teknik og industriel produktion u.n.a.,,,Technology and Industrial Production n.e.c.,,,translated,raw_edu_field,medium,danish,,,482875,291040,0.032235,,
+EDU_field_551510,EDU,field,551510,Teknologi u.n.a.,Teknologi u.n.a.,,,Teknologi u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,221420,138699,0.015362,,
+EDU_field_553510,EDU,field,553510,Elektronik og automation u.n.a.,Elektronik og automation u.n.a.,,,Electronics and Automation n.e.c.,,,translated,raw_edu_field,medium,danish,,,56838,41841,0.004634,,
+EDU_field_571010,EDU,field,571010,"Mekanik, jern og metal u.n.a.","Mekanik, jern og metal u.n.a.",,,"Mechanics, Iron, and Metal n.e.c.",,,translated,raw_edu_field,medium,danish,,,171585,152382,0.016878,,
+EDU_field_803010,EDU,field,803010,Chauffør u.n.a.,Chauffør u.n.a.,,,"Driver, u.n.a.",,,translated,raw_edu_field,medium,danish,,,4851,4824,0.000534,,
+EDU_field_803015,EDU,field,803015,"Chauffør, godstransport","Chauffør, godstransport",,,"Driver, freight transport",,,translated,raw_edu_field,medium,danish,,,26480,15137,0.001677,,
+EDU_field_121030,EDU,field,121030,"Almengymnasiale, ikke linjeopdelt","Almengymnasiale, ikke linjeopdelt",,,"General high school, undivided",,,translated,raw_edu_field,medium,danish,,,5455445,1292446,0.143149,,
+EDU_field_203510,EDU,field,203510,"Læreruddannelse, grundskole","Læreruddannelse, grundskole",,,"Teacher training, primary school",,,translated,raw_edu_field,medium,danish,,,396242,221819,0.024568,,
+EDU_field_656510,EDU,field,656510,Pædagogiske grunduddannelser,Pædagogiske grunduddannelser,,,Basic pedagogical educations,,,translated,raw_edu_field,medium,danish,,,84805,43285,0.004794,,
+EDU_field_702530,EDU,field,702530,Hotelreception og -service,Hotelreception og -service,,,Hotel reception and service,,,translated,raw_edu_field,medium,danish,,,9179,4937,0.000547,,
+EDU_field_701010,EDU,field,701010,Service u.n.a.,Service u.n.a.,,,Service u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,140695,93186,0.010321,,
+EDU_field_403510,EDU,field,403510,Kontor- og sekretæruddannelser,Kontor- og sekretæruddannelser,,,Office and secretarial educations,,,translated,raw_edu_field,medium,danish,,,705902,432691,0.047924,,
+EDU_field_122010,EDU,field,122010,Erhvervsgymnasiale,Erhvervsgymnasiale,,,Vocational upper-secondary,,,translated,raw_edu_field,medium,danish,,,3215252,631029,0.069892,,
+EDU_field_121020,EDU,field,121020,"Almengymnasiale, sproglig","Almengymnasiale, sproglig",,,"General high school, linguistic",,,translated,raw_edu_field,medium,danish,,,1661382,302131,0.033463,,
+EDU_field_554015,EDU,field,554015,"Teknologi, tværfaglige uddannelser i øvrigt","Teknologi, tværfaglige uddannelser i øvrigt",,,"Technology, interdisciplinary programs otherwise",,,translated,raw_edu_field,medium,danish,,,40074,20288,0.002247,,
+EDU_field_402010,EDU,field,402010,Finans og bank,Finans og bank,,,Finance and banking,,,translated,raw_edu_field,medium,danish,,,207010,121702,0.013479,,
+EDU_field_552010,EDU,field,552010,Laboratorieteknik - kemisk industri,Laboratorieteknik - kemisk industri,,,Laboratory technology — chemical industry,,,translated,raw_edu_field,medium,danish,,,68640,39895,0.004419,,
+EDU_field_653520,EDU,field,653520,Optometri,Optometri,,,Optometri,,,copy-of-da,raw_edu_field,medium,danish,,,13733,6410,0.00071,,
+EDU_field_574020,EDU,field,574020,Karosserismed og karosseriteknik,Karosserismed og karosseriteknik,,,Car Body Repair and Car Body Technology,,,translated,raw_edu_field,medium,danish,,,35406,18182,0.002014,,
+EDU_field_404010,EDU,field,404010,Engroshandel,Engroshandel,,,Wholesale trade,,,translated,raw_edu_field,medium,danish,,,123189,71976,0.007972,,
+EDU_field_656515,EDU,field,656515,"Pædagoguddannelser, børn og unge","Pædagoguddannelser, børn og unge",,,Early Childhood and Youth Education Programs,,,translated,raw_edu_field,medium,danish,,,487676,237686,0.026326,,
+EDU_field_604010,EDU,field,604010,Veterinærsygepleje,Veterinærsygepleje,,,Veterinary Nursing,,,translated,raw_edu_field,medium,danish,,,6889,2877,0.000319,,
+EDU_field_251510,EDU,field,251510,Teologi,Teologi,,,Theology,,,translated,raw_edu_field,medium,danish,,,16195,9835,0.001089,,
+EDU_field_657010,EDU,field,657010,Social rådgivning og socialformidling,Social rådgivning og socialformidling,,,Social Counseling and Social Outreach,,,translated,raw_edu_field,medium,danish,,,117561,57540,0.006373,,
+EDU_field_555010,EDU,field,555010,Fødevareindustri u.n.a.,Fødevareindustri u.n.a.,,,Food Industry etc.,,,translated,raw_edu_field,medium,danish,,,326421,177750,0.019687,,
+EDU_field_582010,EDU,field,582010,Maleruddannelser,Maleruddannelser,,,Painter programmes,,,translated,raw_edu_field,medium,danish,,,82684,50472,0.00559,,
+EDU_field_573510,EDU,field,573510,Smede- og svejseuddannelser,Smede- og svejseuddannelser,,,Blacksmithing and Forging Training,,,translated,raw_edu_field,medium,danish,,,172878,98347,0.010893,,
+EDU_field_601515,EDU,field,601515,Landmand mv.,Landmand mv.,,,Farmer etc.,,,translated,raw_edu_field,medium,danish,,,198120,65189,0.00722,,
+EDU_field_553015,EDU,field,553015,Elektrikeruddannelser,Elektrikeruddannelser,,,Electrician programmes,,,translated,raw_edu_field,medium,danish,,,190728,100646,0.011147,,
+EDU_field_553030,EDU,field,553030,El- og energiforsyningsteknik i øvrigt,El- og energiforsyningsteknik i øvrigt,,,Other Electrical and Energy Supply Engineering,,,translated,raw_edu_field,medium,danish,,,33619,22760,0.002521,,
+EDU_field_801520,EDU,field,801520,"Skibsassistent, skibsfører","Skibsassistent, skibsfører",,,"Ship Assistant, Ship Master",,,translated,raw_edu_field,medium,danish,,,72604,32064,0.003551,,
+EDU_field_651010,EDU,field,651010,Social og sundhed u.n.a.,Social og sundhed u.n.a.,,,Social and Health Services etc.,,,translated,raw_edu_field,medium,danish,,,157921,91707,0.010157,,
+EDU_field_702515,EDU,field,702515,"Gastronomi, køkken og catering","Gastronomi, køkken og catering",,,"Gastronomy, kitchen and catering",,,translated,raw_edu_field,medium,danish,,,179520,90921,0.01007,,
+EDU_field_656015,EDU,field,656015,Social- og sundhedsassistance,Social- og sundhedsassistance,,,Social and health assistance,,,translated,raw_edu_field,medium,danish,,,775860,301452,0.033388,,
+EDU_field_403010,EDU,field,403010,Markedsføring og reklame,Markedsføring og reklame,,,Marketing and advertising,,,translated,raw_edu_field,medium,danish,,,158361,82597,0.009148,,
+EDU_field_204015,EDU,field,204015,Underviser i ikke-almene specialefag,Underviser i ikke-almene specialefag,,,Teacher of non-compulsory special subjects,,,translated,raw_edu_field,medium,danish,,,21626,11707,0.001297,,
+EDU_field_602025,EDU,field,602025,Væksthusgartneri,Væksthusgartneri,,,Greenhouse gardening,,,translated,raw_edu_field,medium,danish,,,22969,15441,0.00171,,
+EDU_field_459010,EDU,field,459010,Matematik-økonomi,Matematik-økonomi,,,Mathematics-economics,,,translated,raw_edu_field,medium,danish,,,6515,3738,0.000414,,
+EDU_field_573020,EDU,field,573020,"Maskinteknik, konstruktion og udvikling","Maskinteknik, konstruktion og udvikling",,,"Machine engineering, construction and development",,,translated,raw_edu_field,medium,danish,,,41319,25513,0.002826,,
+EDU_field_405010,EDU,field,405010,Jura og erhvervsret,Jura og erhvervsret,,,Law and commercial law,,,translated,raw_edu_field,medium,danish,,,98874,54488,0.006035,,
+EDU_field_352010,EDU,field,352010,Statskundskab mv.,Statskundskab mv.,,,Political science etc.,,,translated,raw_edu_field,medium,danish,,,58560,31025,0.003436,,
+EDU_field_582045,EDU,field,582045,Bygningskonstruktøruddannelser mv.,Bygningskonstruktøruddannelser mv.,,,Building constructor educations etc.,,,translated,raw_edu_field,medium,danish,,,112776,54240,0.006008,,
+EDU_field_581510,EDU,field,581510,Arkitektur og bygningsdesign,Arkitektur og bygningsdesign,,,Architecture and building design,,,translated,raw_edu_field,medium,danish,,,36828,21186,0.002347,,
+EDU_field_271010,EDU,field,271010,Grafisk-tekniske uddannelser u.n.a.,Grafisk-tekniske uddannelser u.n.a.,,,Graphic-technical programs n.a.,,,translated,raw_edu_field,medium,danish,,,23544,15822,0.001752,,
+EDU_field_703510,EDU,field,703510,"Service, tværfaglige uddannelser","Service, tværfaglige uddannelser",,,"Service, interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,44681,22647,0.002508,,
+EDU_field_656520,EDU,field,656520,Socialpædagoguddannelser,Socialpædagoguddannelser,,,Social pedagogy programs,,,translated,raw_edu_field,medium,danish,,,48928,25464,0.00282,,
+EDU_field_351510,EDU,field,351510,Samfundsøkonomi,Samfundsøkonomi,,,Social economics,,,translated,raw_edu_field,medium,danish,,,39728,24009,0.002659,,
+EDU_field_582035,EDU,field,582035,Vejbygning og -belægning,Vejbygning og -belægning,,,Road construction and surfacing,,,translated,raw_edu_field,medium,danish,,,18456,11233,0.001244,,
+EDU_field_555020,EDU,field,555020,Kødbranchen,Kødbranchen,,,Meat industry,,,translated,raw_edu_field,medium,danish,,,67720,38970,0.004316,,
+EDU_field_555075,EDU,field,555075,Sadelmageri og auto/møbel polstring,Sadelmageri og auto/møbel polstring,,,Saddlery and automotive/furniture upholstery,,,translated,raw_edu_field,medium,danish,,,2967,1910,0.000212,,
+EDU_field_555090,EDU,field,555090,"Produktfremstilling og proces, tværfaglige uddannelser","Produktfremstilling og proces, tværfaglige uddannelser",,,"Product manufacturing and process, interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,13981,7985,0.000884,,
+EDU_field_654530,EDU,field,654530,Sundhed og ernæring,Sundhed og ernæring,,,Health and nutrition,,,translated,raw_edu_field,medium,danish,,,51085,25606,0.002836,,
+EDU_field_501015,EDU,field,501015,Programmering og softwareudvikling,Programmering og softwareudvikling,,,Programming and software development,,,translated,raw_edu_field,medium,danish,,,109955,60997,0.006756,,
+EDU_field_601520,EDU,field,601520,"Landbrug, driftsledelse","Landbrug, driftsledelse",,,"Agriculture, farm management",,,translated,raw_edu_field,medium,danish,,,70049,36224,0.004012,,
+EDU_field_654515,EDU,field,654515,Ergo- og fysioterapi,Ergo- og fysioterapi,,,Occupational and physical therapy,,,translated,raw_edu_field,medium,danish,,,138963,55669,0.006166,,
+EDU_field_582050,EDU,field,582050,Bygnings- og anlægsingeniøruddannelser,Bygnings- og anlægsingeniøruddannelser,,,Building and construction engineering programs,,,translated,raw_edu_field,medium,danish,,,33152,14998,0.001661,,
+EDU_field_401510,EDU,field,401510,Regnskab og revision,Regnskab og revision,,,Accounting and auditing,,,translated,raw_edu_field,medium,danish,,,45332,37707,0.004176,,
+EDU_field_581010,EDU,field,581010,Bygge- og anlægsteknik u.n.a.,Bygge- og anlægsteknik u.n.a.,,,Construction and building technology n.e.c.,,,translated,raw_edu_field,medium,danish,,,424916,241571,0.026756,,
+EDU_field_553025,EDU,field,553025,Energiteknologi,Energiteknologi,,,Energiteknologi,,,copy-of-da,raw_edu_field,medium,danish,,,17284,7785,0.000862,,
+EDU_field_652525,EDU,field,652525,Sygepleje og sygeplejevidenskab,Sygepleje og sygeplejevidenskab,,,Nursing and nursing science,,,translated,raw_edu_field,medium,danish,,,425655,180553,0.019998,,
+EDU_field_582020,EDU,field,582020,Tømrer- og bygningssnedkeruddannelser,Tømrer- og bygningssnedkeruddannelser,,,Carpentry and building joinery programs,,,translated,raw_edu_field,medium,danish,,,292820,159697,0.017688,,
+EDU_field_451510,EDU,field,451510,"Biologi, almen biologi","Biologi, almen biologi",,,"Biology, general biology",,,translated,raw_edu_field,medium,danish,,,28323,16441,0.001821,,
+EDU_field_409020,EDU,field,409020,Erhvervsøkonomi med it og informatik,Erhvervsøkonomi med it og informatik,,,Business administration with IT and informatics,,,translated,raw_edu_field,medium,danish,,,19194,12294,0.001362,,
+EDU_field_501095,EDU,field,501095,"Informations- og kommunikationsteknologi, tværfaglige i øvrigt","Informations- og kommunikationsteknologi, tværfaglige i øvrigt",,,"Information and communication technologies, interdisciplinary in other fields",,,translated,raw_edu_field,medium,danish,,,69045,33358,0.003695,,
+EDU_field_555084,EDU,field,555084,Proces- og kvalitetsstyring u.n.a.,Proces- og kvalitetsstyring u.n.a.,,,Process and Quality Management NEC,,,translated,raw_edu_field,medium,danish,,,9409,5254,0.000582,,
+EDU_field_451010,EDU,field,451010,Naturvidenskab u.n.a.,Naturvidenskab u.n.a.,,,Natural Sciences NEC,,,translated,raw_edu_field,medium,danish,,,69975,46303,0.005128,,
+EDU_field_501025,EDU,field,501025,Datalogi,Datalogi,,,Computer science,,,translated,raw_edu_field,medium,danish,,,22609,12944,0.001434,,
+EDU_field_257415,EDU,field,257415,"Engelsk-spansk, erhvervssproglig","Engelsk-spansk, erhvervssproglig",,,"English-Spanish, Business Language",,,translated,raw_edu_field,medium,danish,,,6055,3390,0.000375,,
+EDU_field_574510,EDU,field,574510,"Mekanik, jern og metal, tværfaglige uddannelser","Mekanik, jern og metal, tværfaglige uddannelser",,,"Mechanics, Iron and Metal, Interdisciplinary Programs",,,translated,raw_edu_field,medium,danish,,,125925,78755,0.008723,,
+EDU_field_258010,EDU,field,258010,Litteraturvidenskab,Litteraturvidenskab,,,Literature,,,translated,raw_edu_field,medium,danish,,,6711,4557,0.000505,,
+EDU_field_571510,EDU,field,571510,Gas- og vvs-teknik,Gas- og vvs-teknik,,,Gas and Water Supply Technology,,,translated,raw_edu_field,medium,danish,,,88030,44154,0.00489,,
+EDU_field_582015,EDU,field,582015,Mureruddannelser,Mureruddannelser,,,Murer programmes,,,translated,raw_edu_field,medium,danish,,,89615,50346,0.005576,,
+EDU_field_581525,EDU,field,581525,Landskabsarkitektur og -forvaltning,Landskabsarkitektur og -forvaltning,,,Landscape Architecture and Management,,,translated,raw_edu_field,medium,danish,,,7575,2816,0.000312,,
+EDU_field_651520,EDU,field,651520,Tandlæge og specialtandlæge,Tandlæge og specialtandlæge,,,Dentistry and Specialist Dentistry,,,translated,raw_edu_field,medium,danish,,,23235,12335,0.001366,,
+EDU_field_257410,EDU,field,257410,"Engelsk-tysk, erhvervssproglig","Engelsk-tysk, erhvervssproglig",,,"English-German, Business Language",,,translated,raw_edu_field,medium,danish,,,9466,5404,0.000599,,
+EDU_field_582055,EDU,field,582055,Øvrige bygge- og anlægsuddannelser,Øvrige bygge- og anlægsuddannelser,,,Other Construction and Installation Programs,,,translated,raw_edu_field,medium,danish,,,47854,29812,0.003302,,
+EDU_field_555088,EDU,field,555088,"Teknisk assistent, industri og byggeri","Teknisk assistent, industri og byggeri",,,"Technical Assistant, Industry and Construction",,,translated,raw_edu_field,medium,danish,,,57631,39132,0.004334,,
+EDU_field_702020,EDU,field,702020,Frisøruddannelser,Frisøruddannelser,,,Beauty salon courses,,,translated,raw_edu_field,medium,danish,,,85626,51297,0.005682,,
+EDU_field_555030,EDU,field,555030,"Proces- og kvalitetsstyring, fødevarer","Proces- og kvalitetsstyring, fødevarer",,,"Process and quality control, food products",,,translated,raw_edu_field,medium,danish,,,6036,3990,0.000442,,
+EDU_field_602015,EDU,field,602015,Anlægsgartneri,Anlægsgartneri,,,Landscape gardening,,,translated,raw_edu_field,medium,danish,,,26253,14459,0.001601,,
+EDU_field_409015,EDU,field,409015,Erhvervsøkonomi med sprog og kommunikation,Erhvervsøkonomi med sprog og kommunikation,,,Business economics with language and communication,,,translated,raw_edu_field,medium,danish,,,37957,19822,0.002195,,
+EDU_field_404025,EDU,field,404025,Indkøb og afsætning i engros- og detailhandlen,Indkøb og afsætning i engros- og detailhandlen,,,Purchasing and sales in wholesale and retail trade,,,translated,raw_edu_field,medium,danish,,,23893,17882,0.001981,,
+EDU_field_601530,EDU,field,601530,Jordbrugsvidenskab,Jordbrugsvidenskab,,,Agronomy,,,translated,raw_edu_field,medium,danish,,,18861,9639,0.001068,,
+EDU_field_553520,EDU,field,553520,"Tele-, data- og it-teknologi mv.","Tele-, data- og it-teknologi mv.",,,"Telecommunications, data and IT technology etc.",,,translated,raw_edu_field,medium,danish,,,316145,179775,0.019912,,
+EDU_field_653510,EDU,field,653510,Audiologi- og neurofysiologiassistenter,Audiologi- og neurofysiologiassistenter,,,Audiology and neurophysiology assistants,,,translated,raw_edu_field,medium,danish,,,2621,1571,0.000174,,
+EDU_field_257610,EDU,field,257610,"Erhverssprog, sprog uoplyst","Erhverssprog, sprog uoplyst",,,"Business languages, language unspecified",,,translated,raw_edu_field,medium,danish,,,33310,26167,0.002898,,
+EDU_field_751515,EDU,field,751515,Politi,Politi,,,Politi,,,copy-of-da,raw_edu_field,medium,danish,,,42128,22576,0.0025,,
+EDU_field_255210,EDU,field,255210,Engelsk,Engelsk,,,English,,,translated,raw_edu_field,medium,danish,,,27890,15571,0.001725,,
+EDU_field_552015,EDU,field,552015,Kemisk teknik og industri,Kemisk teknik og industri,,,Chemical engineering and industry,,,translated,raw_edu_field,medium,danish,,,20926,11095,0.001229,,
+EDU_field_355510,EDU,field,355510,Bibliotekskundskab,Bibliotekskundskab,,,Library science,,,translated,raw_edu_field,medium,danish,,,20572,11509,0.001275,,
+EDU_field_575010,EDU,field,575010,Plastindustri,Plastindustri,,,Plastindustri,,,copy-of-da,raw_edu_field,medium,danish,,,6107,3008,0.000333,,
+EDU_field_553515,EDU,field,553515,Automatik og proces,Automatik og proces,,,Automation and process control,,,translated,raw_edu_field,medium,danish,,,28299,15385,0.001704,,
+EDU_field_501090,EDU,field,501090,"IT og elektronik, tværfaglige uddannelser","IT og elektronik, tværfaglige uddannelser",,,"IT and electronics, interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,36335,17019,0.001885,,
+EDU_field_555025,EDU,field,555025,Bageri og konfekture,Bageri og konfekture,,,Bakery and confectionery,,,translated,raw_edu_field,medium,danish,,,59548,36138,0.004003,,
+EDU_field_652520,EDU,field,652520,Sundhedspleje og sundhedsvidenskab,Sundhedspleje og sundhedsvidenskab,,,Health care and health sciences,,,translated,raw_edu_field,medium,danish,,,14559,8754,0.00097,,
+EDU_field_553010,EDU,field,553010,El- og energiforsyningsteknik u.n.a.,El- og energiforsyningsteknik u.n.a.,,,Electrical and energy supply technology n.e.c.,,,translated,raw_edu_field,medium,danish,,,8329,5663,0.000627,,
+EDU_field_601510,EDU,field,601510,Landbrug u.n.a.,Landbrug u.n.a.,,,"Agriculture, unspecified",,,translated,raw_edu_field,medium,danish,,,41658,26108,0.002892,,
+EDU_field_409010,EDU,field,409010,Erhvervsøkonomi med jura,Erhvervsøkonomi med jura,,,Business economics with law,,,translated,raw_edu_field,medium,danish,,,7775,6180,0.000684,,
+EDU_field_257810,EDU,field,257810,Dansk,Dansk,,,Danish,,,translated,raw_edu_field,medium,danish,,,26406,15716,0.001741,,
+EDU_field_572510,EDU,field,572510,"Cykel-, knallert- og motorcykelmekanik","Cykel-, knallert- og motorcykelmekanik",,,"Bicycle, air rifle, and motorcycle mechanics",,,translated,raw_edu_field,medium,danish,,,9613,4644,0.000514,,
+EDU_field_404030,EDU,field,404030,Logistik mv. i engros- og detailhandlen,Logistik mv. i engros- og detailhandlen,,,Logistics etc. in wholesale and retail trade,,,translated,raw_edu_field,medium,danish,,,12984,8935,0.00099,,
+EDU_field_651510,EDU,field,651510,Tandpleje og assistance i tandklinik,Tandpleje og assistance i tandklinik,,,Dental hygiene and assistance in dental clinics,,,translated,raw_edu_field,medium,danish,,,58315,32131,0.003559,,
+EDU_field_574025,EDU,field,574025,Entreprenør- og landbrugsmaskiner,Entreprenør- og landbrugsmaskiner,,,Entrepreneurship and agricultural machinery,,,translated,raw_edu_field,medium,danish,,,41325,22452,0.002487,,
+EDU_field_455010,EDU,field,455010,Geografi,Geografi,,,Geography,,,translated,raw_edu_field,medium,danish,,,10030,6443,0.000714,,
+EDU_field_251010,EDU,field,251010,Humanistisk u.n.a.,Humanistisk u.n.a.,,,Humanistisk u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,66066,45917,0.005086,,
+EDU_field_402510,EDU,field,402510,Offentlig- og privat administration og ledelse,Offentlig- og privat administration og ledelse,,,Public and private administration and management,,,translated,raw_edu_field,medium,danish,,,144974,101430,0.011234,,
+EDU_field_251515,EDU,field,251515,Religion og religionsvidenskab,Religion og religionsvidenskab,,,Religion and Religious Studies,,,translated,raw_edu_field,medium,danish,,,7674,4186,0.000464,,
+EDU_field_801530,EDU,field,801530,Maskinist,Maskinist,,,Engine operator,,,translated,raw_edu_field,medium,danish,,,15564,8646,0.000958,,
+EDU_field_654520,EDU,field,654520,Fodterapi,Fodterapi,,,Fodterapi,,,copy-of-da,raw_edu_field,medium,danish,,,9213,5124,0.000568,,
+EDU_field_572015,EDU,field,572015,Finmekanik i øvrigt,Finmekanik i øvrigt,,,"Precision Mechanics, various",,,translated,raw_edu_field,medium,danish,,,9440,5741,0.000636,,
+EDU_field_304010,EDU,field,304010,Musikuddannelse u.n.a.,Musikuddannelse u.n.a.,,,"Music Education, various",,,translated,raw_edu_field,medium,danish,,,6198,4644,0.000514,,
+EDU_field_271015,EDU,field,271015,"Grafisk, mediegrafik","Grafisk, mediegrafik",,,"Graphic, mediegrafik",,,translated,raw_edu_field,medium,danish,,,109566,64739,0.00717,,
+EDU_field_271030,EDU,field,271030,"Grafisk, bogbinderi","Grafisk, bogbinderi",,,"Graphic, bogbinderi",,,translated,raw_edu_field,medium,danish,,,4432,3345,0.00037,,
+EDU_field_253510,EDU,field,253510,Konserverings- og restaureringsteknik,Konserverings- og restaureringsteknik,,,Conservation and Restoration Techniques,,,translated,raw_edu_field,medium,danish,,,1404,666,7.4e-05,,
+EDU_field_253515,EDU,field,253515,Konservatoruddannelse,Konservatoruddannelse,,,Konservator programme,,,translated,raw_edu_field,medium,danish,,,832,477,5.3e-05,,
+EDU_field_573035,EDU,field,573035,Værktøjsteknik,Værktøjsteknik,,,Tool Technology,,,translated,raw_edu_field,medium,danish,,,20645,11725,0.001299,,
+EDU_field_701515,EDU,field,701515,Bygningsservice,Bygningsservice,,,Building services,,,translated,raw_edu_field,medium,danish,,,16567,8121,0.000899,,
+EDU_field_654010,EDU,field,654010,Bioanalyse mv.,Bioanalyse mv.,,,"Bioanalysis, etc.",,,translated,raw_edu_field,medium,danish,,,49899,21136,0.002341,,
+EDU_field_657015,EDU,field,657015,Erhvervsvejledning og personlig rådgivning mv.,Erhvervsvejledning og personlig rådgivning mv.,,,"Career Guidance and Personal Counseling, etc.",,,translated,raw_edu_field,medium,danish,,,12949,8320,0.000922,,
+EDU_field_803020,EDU,field,803020,"Chauffør, persontransport","Chauffør, persontransport",,,"Driver, Passenger Transport",,,translated,raw_edu_field,medium,danish,,,9721,4932,0.000546,,
+EDU_field_702525,EDU,field,702525,Tjeneruddannelser,Tjeneruddannelser,,,Tjener programmes,,,translated,raw_edu_field,medium,danish,,,33015,19217,0.002128,,
+EDU_field_555055,EDU,field,555055,"Proces- og kvalitetsstyring, non-food produkter","Proces- og kvalitetsstyring, non-food produkter",,,"Process and Quality Control, Non-Food Products",,,translated,raw_edu_field,medium,danish,,,17378,10968,0.001215,,
+EDU_field_602515,EDU,field,602515,"Jordbrug, tværfaglige uddannelser i øvrigt","Jordbrug, tværfaglige uddannelser i øvrigt",,,"Agriculture, Interdisciplinary Programs, various",,,translated,raw_edu_field,medium,danish,,,10526,5490,0.000608,,
+EDU_field_602020,EDU,field,602020,Produktionsgartneri,Produktionsgartneri,,,Production horticulture,,,translated,raw_edu_field,medium,danish,,,6214,3155,0.000349,,
+EDU_field_574035,EDU,field,574035,Flyteknik,Flyteknik,,,Aeronautical engineering,,,translated,raw_edu_field,medium,danish,,,3564,1880,0.000208,,
+EDU_field_257425,EDU,field,257425,"Engelsk-fransk, erhvervssproglig","Engelsk-fransk, erhvervssproglig",,,"English-French, vocational language",,,translated,raw_edu_field,medium,danish,,,8791,4824,0.000534,,
+EDU_field_257210,EDU,field,257210,"Engelsk, erhvervssproglig","Engelsk, erhvervssproglig",,,"English, vocational language",,,translated,raw_edu_field,medium,danish,,,39621,21002,0.002326,,
+EDU_field_404020,EDU,field,404020,Handel med fast ejendom,Handel med fast ejendom,,,Real estate trade,,,translated,raw_edu_field,medium,danish,,,4387,4096,0.000454,,
+EDU_field_555065,EDU,field,555065,Tekstil- og beklædningsindustri,Tekstil- og beklædningsindustri,,,Textile and clothing industry,,,translated,raw_edu_field,medium,danish,,,39470,31465,0.003485,,
+EDU_field_351010,EDU,field,351010,Samfundsvidenskab u.n.a.,Samfundsvidenskab u.n.a.,,,Social sciences NEC,,,translated,raw_edu_field,medium,danish,,,82318,51458,0.005699,,
+EDU_field_254015,EDU,field,254015,Arkæologi klassisk,Arkæologi klassisk,,,Classical archaeology,,,translated,raw_edu_field,medium,danish,,,1135,655,7.3e-05,,
+EDU_field_254510,EDU,field,254510,Filosofi,Filosofi,,,Philosophy,,,translated,raw_edu_field,medium,danish,,,21757,12027,0.001332,,
+EDU_field_302010,EDU,field,302010,Designer u.n.a.,Designer u.n.a.,,,Designer u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,11315,7936,0.000879,,
+EDU_field_256020,EDU,field,256020,Mellemøstens sprog og samfund i øvrigt,Mellemøstens sprog og samfund i øvrigt,,,Middle Eastern languages and societies (via 51),,,translated,raw_edu_field,medium,danish,,,5926,2954,0.000327,,
+EDU_field_604015,EDU,field,604015,Veterinær og veterinærvidenskab,Veterinær og veterinærvidenskab,,,Veterinary science,,,translated,raw_edu_field,medium,danish,,,21537,8342,0.000924,,
+EDU_field_354030,EDU,field,354030,Film- og medievidenskab,Film- og medievidenskab,,,Film and media studies,,,translated,raw_edu_field,medium,danish,,,19516,8717,0.000965,,
+EDU_field_271025,EDU,field,271025,"Grafisk, foto","Grafisk, foto",,,"Graphic, foto",,,translated,raw_edu_field,medium,danish,,,10182,7715,0.000854,,
+EDU_field_801510,EDU,field,801510,Søfart u.n.a.,Søfart u.n.a.,,,Maritime affairs NEC,,,translated,raw_edu_field,medium,danish,,,11678,8548,0.000947,,
+EDU_field_751030,EDU,field,751030,Søværnet,Søværnet,,,Navy,,,translated,raw_edu_field,medium,danish,,,4870,2019,0.000224,,
+EDU_field_555015,EDU,field,555015,Mejeriindustri,Mejeriindustri,,,Mejeriindustri,,,copy-of-da,raw_edu_field,medium,danish,,,21405,11367,0.001259,,
+EDU_field_601525,EDU,field,601525,Jordbrugsteknologi,Jordbrugsteknologi,,,Agricultural technology,,,translated,raw_edu_field,medium,danish,,,17183,9726,0.001077,,
+EDU_field_271515,EDU,field,271515,"Film, tv og medie, produktionsteknisk","Film, tv og medie, produktionsteknisk",,,"Film, TV and media, production technology",,,translated,raw_edu_field,medium,danish,,,5617,3081,0.000341,,
+EDU_field_123020,EDU,field,123020,Gymnasial supplering,Gymnasial supplering,,,Gymnasial supplering,,,copy-of-da,raw_edu_field,medium,danish,,,7660,4693,0.00052,,
+EDU_field_308015,EDU,field,308015,"Skuespil, teaterinstruktion mv.","Skuespil, teaterinstruktion mv.",,,"Acting, theater instruction etc.",,,translated,raw_edu_field,medium,danish,,,3507,2072,0.000229,,
+EDU_field_257225,EDU,field,257225,"Fransk, erhvervssproglig","Fransk, erhvervssproglig",,,"French, vocational language",,,translated,raw_edu_field,medium,danish,,,11418,6120,0.000678,,
+EDU_field_581515,EDU,field,581515,Landinspektøruddannelser,Landinspektøruddannelser,,,Inspector training programs,,,translated,raw_edu_field,medium,danish,,,3956,2510,0.000278,,
+EDU_field_751520,EDU,field,751520,Fængselsvæsen,Fængselsvæsen,,,Prison system,,,translated,raw_edu_field,medium,danish,,,15648,8850,0.00098,,
+EDU_field_303515,EDU,field,303515,"Kunsthåndværk/design, keramik og glas","Kunsthåndværk/design, keramik og glas",,,"Art craftsmanship/design, ceramics and glass",,,translated,raw_edu_field,medium,danish,,,1715,1579,0.000175,,
+EDU_field_255015,EDU,field,255015,"Humanistisk, tværfaglige uddannelser i øvrigt","Humanistisk, tværfaglige uddannelser i øvrigt",,,"Humanities, interdisciplinary programs otherwise",,,translated,raw_edu_field,medium,danish,,,11816,5978,0.000662,,
+EDU_field_801010,EDU,field,801010,Transport u.n.a.,Transport u.n.a.,,,Transport u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,24357,17739,0.001965,,
+EDU_field_256430,EDU,field,256430,Eskimologi,Eskimologi,,,Eskimology,,,translated,raw_edu_field,medium,danish,,,697,390,4.3e-05,,
+EDU_field_257430,EDU,field,257430,"Engelsk-italiensk, erhvervssproglig","Engelsk-italiensk, erhvervssproglig",,,"English-Italian, vocational language",,,translated,raw_edu_field,medium,danish,,,1110,656,7.3e-05,,
+EDU_field_352530,EDU,field,352530,Politologiske uddannelser i øvrigt,Politologiske uddannelser i øvrigt,,,Political science programs otherwise,,,translated,raw_edu_field,medium,danish,,,11553,6505,0.00072,,
+EDU_field_751525,EDU,field,751525,Beredskab og redningstjeneste,Beredskab og redningstjeneste,,,Emergency preparedness and rescue services,,,translated,raw_edu_field,medium,danish,,,15327,7825,0.000867,,
+EDU_field_655010,EDU,field,655010,Farmakonom- og apoteksuddannelser,Farmakonom- og apoteksuddannelser,,,Pharmacy and pharmaceutical training programs,,,translated,raw_edu_field,medium,danish,,,27806,18005,0.001994,,
+EDU_field_309015,EDU,field,309015,Dramaturgi,Dramaturgi,,,Dramaturgy,,,translated,raw_edu_field,medium,danish,,,4839,2080,0.00023,,
+EDU_field_355010,EDU,field,355010,Journalistik,Journalistik,,,Journalism,,,translated,raw_edu_field,medium,danish,,,39434,21032,0.002329,,
+EDU_field_751025,EDU,field,751025,Hæren,Hæren,,,Army,,,translated,raw_edu_field,medium,danish,,,11109,4525,0.000501,,
+EDU_field_254010,EDU,field,254010,Arkæologi forhistorisk,Arkæologi forhistorisk,,,Prehistoric archaeology,,,translated,raw_edu_field,medium,danish,,,6223,2679,0.000297,,
+EDU_field_252025,EDU,field,252025,Litteraturhistorie,Litteraturhistorie,,,Literary history,,,translated,raw_edu_field,medium,danish,,,5573,2312,0.000256,,
+EDU_field_355520,EDU,field,355520,Informationsvidenskab og kulturforvaltning,Informationsvidenskab og kulturforvaltning,,,Information science and cultural administration,,,translated,raw_edu_field,medium,danish,,,10094,4645,0.000514,,
+EDU_field_555040,EDU,field,555040,Træ- og møbelindustri,Træ- og møbelindustri,,,Wood and furniture industry,,,translated,raw_edu_field,medium,danish,,,31505,20855,0.00231,,
+EDU_field_453015,EDU,field,453015,Fødevarevidenskab,Fødevarevidenskab,,,Food science,,,translated,raw_edu_field,medium,danish,,,9106,4178,0.000463,,
+EDU_field_201015,EDU,field,201015,"Studier i lærings-, udviklings- og forandringsprocesser","Studier i lærings-, udviklings- og forandringsprocesser",,,"Studies in learning, development, and change processes",,,translated,raw_edu_field,medium,danish,,,7757,5629,0.000623,,
+EDU_field_202010,EDU,field,202010,"Pædagogik, teoretisk/videnskabelig u.n.a.","Pædagogik, teoretisk/videnskabelig u.n.a.",,,"Pedagogy, theoretical/scientific u.n.a.",,,translated,raw_edu_field,medium,danish,,,26917,22966,0.002544,,
+EDU_field_304015,EDU,field,304015,Musik og musikpædagogik,Musik og musikpædagogik,,,Music and music pedagogy,,,translated,raw_edu_field,medium,danish,,,31388,13717,0.001519,,
+EDU_field_254020,EDU,field,254020,Arkæologi middelalder,Arkæologi middelalder,,,Archaeology medieval,,,translated,raw_edu_field,medium,danish,,,1796,700,7.8e-05,,
+EDU_field_256245,EDU,field,256245,Asiatisk sprog og kultur i øvrigt,Asiatisk sprog og kultur i øvrigt,,,Asian language and culture other,,,translated,raw_edu_field,medium,danish,,,3775,2444,0.000271,,
+EDU_field_555082,EDU,field,555082,Råstofudvinding,Råstofudvinding,,,Raw material recovery,,,translated,raw_edu_field,medium,danish,,,1814,812,9e-05,,
+EDU_field_651515,EDU,field,651515,Tandteknik og laboratorietandteknik,Tandteknik og laboratorietandteknik,,,Dental technology and laboratory dental technology,,,translated,raw_edu_field,medium,danish,,,9185,5463,0.000605,,
+EDU_field_257470,EDU,field,257470,"Spansk-fransk, erhvervssproglig","Spansk-fransk, erhvervssproglig",,,"Spanish-French, vocational linguistic",,,translated,raw_edu_field,medium,danish,,,646,350,3.9e-05,,
+EDU_field_582025,EDU,field,582025,Montering mv. af glas og aluminium,Montering mv. af glas og aluminium,,,Mounting etc. of glass and aluminum,,,translated,raw_edu_field,medium,danish,,,6627,3701,0.00041,,
+EDU_field_256010,EDU,field,256010,Iransk,Iransk,,,Iranian studies,,,translated,raw_edu_field,medium,danish,,,266,147,1.6e-05,,
+EDU_field_257450,EDU,field,257450,"Tysk-fransk, erhvervssproglig","Tysk-fransk, erhvervssproglig",,,"German-French, vocational linguistic",,,translated,raw_edu_field,medium,danish,,,1826,983,0.000109,,
+EDU_field_257215,EDU,field,257215,"Tysk, erhvervssproglig","Tysk, erhvervssproglig",,,"German, vocational linguistic",,,translated,raw_edu_field,medium,danish,,,14279,7458,0.000826,,
+EDU_field_355015,EDU,field,355015,Kommunikation,Kommunikation,,,Communication,,,translated,raw_edu_field,medium,danish,,,42763,22667,0.002511,,
+EDU_field_555070,EDU,field,555070,"Design- og materialeteknologi, tekstil","Design- og materialeteknologi, tekstil",,,Design and materials technology textiles,,,translated,raw_edu_field,medium,danish,,,4176,2370,0.000262,,
+EDU_field_153010,EDU,field,153010,Fri ungdomsuddannelse,Fri ungdomsuddannelse,,,Free youth education,,,translated,raw_edu_field,medium,danish,,,31024,19392,0.002148,,
+EDU_field_574015,EDU,field,574015,Automekanik mv.,Automekanik mv.,,,Automotive technology etc.,,,translated,raw_edu_field,medium,danish,,,142085,117159,0.012976,,
+EDU_field_271020,EDU,field,271020,"Grafisk, trykteknik","Grafisk, trykteknik",,,"Graphic, printing technology",,,translated,raw_edu_field,medium,danish,,,3566,3007,0.000333,,
+EDU_field_252010,EDU,field,252010,Historie,Historie,,,History,,,translated,raw_edu_field,medium,danish,,,30420,15834,0.001754,,
+EDU_field_409030,EDU,field,409030,"Erhvervsøkonomi mv., andre tværfaglige uddannelser","Erhvervsøkonomi mv., andre tværfaglige uddannelser",,,"Business economics etc., other interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,54168,24281,0.002689,,
+EDU_field_309510,EDU,field,309510,Designteknologi,Designteknologi,,,Designteknologi,,,copy-of-da,raw_edu_field,medium,danish,,,29334,15740,0.001743,,
+EDU_field_257220,EDU,field,257220,"Spansk, erhvervssproglig","Spansk, erhvervssproglig",,,"Spanish, vocational language",,,translated,raw_edu_field,medium,danish,,,5561,2782,0.000308,,
+EDU_field_258210,EDU,field,258210,Sprogvidenskab generelt,Sprogvidenskab generelt,,,"Linguistics, general",,,translated,raw_edu_field,medium,danish,,,4690,2522,0.000279,,
+EDU_field_353520,EDU,field,353520,Kulturgeografi,Kulturgeografi,,,Cultural geography,,,translated,raw_edu_field,medium,danish,,,1467,862,9.5e-05,,
+EDU_field_353515,EDU,field,353515,Etnologi og folkemindevidenskab,Etnologi og folkemindevidenskab,,,Ethnology and folklore,,,translated,raw_edu_field,medium,danish,,,5086,2232,0.000247,,
+EDU_field_602040,EDU,field,602040,Greenkeeping,Greenkeeping,,,Greenkeeping,,,copy-of-da,raw_edu_field,medium,danish,,,1631,784,8.7e-05,,
+EDU_field_453025,EDU,field,453025,Biofysiske uddannelser,Biofysiske uddannelser,,,Biofysiske  programmes,,,translated,raw_edu_field,medium,danish,,,2587,1161,0.000129,,
+EDU_field_354525,EDU,field,354525,"Samfundsvidenskab, tværfaglige uddannelser i øvrigt","Samfundsvidenskab, tværfaglige uddannelser i øvrigt",,,"Social sciences, other interdisciplinary programs",,,translated,raw_edu_field,medium,danish,,,14368,6543,0.000725,,
+EDU_field_255410,EDU,field,255410,Spansk,Spansk,,,Spanish,,,translated,raw_edu_field,medium,danish,,,12312,6452,0.000715,,
+EDU_field_303010,EDU,field,303010,Kunsthistorie,Kunsthistorie,,,Art history,,,translated,raw_edu_field,medium,danish,,,10382,6085,0.000674,,
+EDU_field_255645,EDU,field,255645,Slavisk sprog og kultur i øvrigt,Slavisk sprog og kultur i øvrigt,,,"Slavic languages and culture, other",,,translated,raw_edu_field,medium,danish,,,5651,3731,0.000413,,
+EDU_field_703015,EDU,field,703015,"Turisme, fritid og events","Turisme, fritid og events",,,"Tourism, leisure and events",,,translated,raw_edu_field,medium,danish,,,22443,12292,0.001361,,
+EDU_field_271035,EDU,field,271035,Skilteteknik,Skilteteknik,,,Sign-making technology,,,translated,raw_edu_field,medium,danish,,,5353,3231,0.000358,,
+EDU_field_654510,EDU,field,654510,Psykomotorik og afspænding,Psykomotorik og afspænding,,,Psychomotor skills and relaxation,,,translated,raw_edu_field,medium,danish,,,4612,2505,0.000277,,
+EDU_field_302515,EDU,field,302515,Bildende kunst i øvrigt,Bildende kunst i øvrigt,,,"Fine arts, other",,,translated,raw_edu_field,medium,danish,,,1415,942,0.000104,,
+EDU_field_458515,EDU,field,458515,Forsikringsvidenskab,Forsikringsvidenskab,,,Insurance studies,,,translated,raw_edu_field,medium,danish,,,4636,1924,0.000213,,
+EDU_field_271525,EDU,field,271525,Visuel kommunikation og animation,Visuel kommunikation og animation,,,Visual communication and animation,,,translated,raw_edu_field,medium,danish,,,12986,5999,0.000664,,
+EDU_field_309010,EDU,field,309010,Teatervidenskab,Teatervidenskab,,,Theatre studies,,,translated,raw_edu_field,medium,danish,,,3963,1939,0.000215,,
+EDU_field_308010,EDU,field,308010,Teater- og eventteknik mv.,Teater- og eventteknik mv.,,,Theater and event technology etc.,,,translated,raw_edu_field,medium,danish,,,3543,1716,0.00019,,
+EDU_field_603010,EDU,field,603010,Skov- og naturteknik,Skov- og naturteknik,,,Forest and nature technology,,,translated,raw_edu_field,medium,danish,,,14456,7245,0.000802,,
+EDU_field_455510,EDU,field,455510,Geologi,Geologi,,,Geology,,,translated,raw_edu_field,medium,danish,,,7049,4378,0.000485,,
+EDU_field_454010,EDU,field,454010,Kemi,Kemi,,,Chemistry,,,translated,raw_edu_field,medium,danish,,,11079,6541,0.000724,,
+EDU_field_257015,EDU,field,257015,Tegnsprogstolkning,Tegnsprogstolkning,,,Sign-language interpretation,,,translated,raw_edu_field,medium,danish,,,2528,1519,0.000168,,
+EDU_field_309515,EDU,field,309515,Design og business,Design og business,,,Design and business,,,translated,raw_edu_field,medium,danish,,,20682,10231,0.001133,,
+EDU_field_602010,EDU,field,602010,Gartneri u.n.a.,Gartneri u.n.a.,,,Gartneri u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,4469,2693,0.000298,,
+EDU_field_254005,EDU,field,254005,Arkæologi,Arkæologi,,,Archaeology,,,translated,raw_edu_field,medium,danish,,,1069,465,5.2e-05,,
+EDU_field_452010,EDU,field,452010,Biokemi og molekylær biologi,Biokemi og molekylær biologi,,,Biochemistry and molecular biology,,,translated,raw_edu_field,medium,danish,,,22247,9032,0.001,,
+EDU_field_655510,EDU,field,655510,Folkesundhedsvidenskab,Folkesundhedsvidenskab,,,Public health science,,,translated,raw_edu_field,medium,danish,,,11613,5774,0.00064,,
+EDU_field_352520,EDU,field,352520,Globalisering og udvikling,Globalisering og udvikling,,,Globalization and development,,,translated,raw_edu_field,medium,danish,,,9819,5108,0.000566,,
+EDU_field_255420,EDU,field,255420,Fransk,Fransk,,,French,,,translated,raw_edu_field,medium,danish,,,9328,5727,0.000634,,
+EDU_field_582030,EDU,field,582030,Tagdækning mv.,Tagdækning mv.,,,Roof covering etc.,,,translated,raw_edu_field,medium,danish,,,2889,1314,0.000146,,
+EDU_field_652510,EDU,field,652510,Jordemoderuddannelser,Jordemoderuddannelser,,,Midwifery training,,,translated,raw_edu_field,medium,danish,,,17024,6970,0.000772,,
+EDU_field_209015,EDU,field,209015,Humanistisk-pædagogiske uddannelser,Humanistisk-pædagogiske uddannelser,,,Humanities and pedagogical training,,,translated,raw_edu_field,medium,danish,,,4154,3377,0.000374,,
+EDU_field_354035,EDU,field,354035,Sociologi i øvrigt,Sociologi i øvrigt,,,Sociology NEC,,,translated,raw_edu_field,medium,danish,,,1951,877,9.7e-05,,
+EDU_field_454515,EDU,field,454515,Geofysik,Geofysik,,,Geophysics,,,translated,raw_edu_field,medium,danish,,,1167,747,8.3e-05,,
+EDU_field_457010,EDU,field,457010,Fysik,Fysik,,,Physics,,,translated,raw_edu_field,medium,danish,,,8043,4901,0.000543,,
+EDU_field_255010,EDU,field,255010,Kultur og kulturformidling,Kultur og kulturformidling,,,Culture and cultural dissemination,,,translated,raw_edu_field,medium,danish,,,9778,4744,0.000525,,
+EDU_field_601010,EDU,field,601010,"Jordbrug, skovbrug og fiskeri u.n.a.","Jordbrug, skovbrug og fiskeri u.n.a.",,,"Agriculture, forestry, and fishing n.a.",,,translated,raw_edu_field,medium,danish,,,37019,23788,0.002635,,
+EDU_field_802515,EDU,field,802515,Lufthavnsuddannelser,Lufthavnsuddannelser,,,Lufthavns programmes,,,translated,raw_edu_field,medium,danish,,,2350,1372,0.000152,,
+EDU_field_701510,EDU,field,701510,Bygnings- og brugerservice u.n.a.,Bygnings- og brugerservice u.n.a.,,,Construction and user services n.a.,,,translated,raw_edu_field,medium,danish,,,9495,5975,0.000662,,
+EDU_field_303510,EDU,field,303510,"Kunsthåndværk/design, guld og sølv","Kunsthåndværk/design, guld og sølv",,,"Artisanry/design, gold and silver",,,translated,raw_edu_field,medium,danish,,,5863,3615,0.0004,,
+EDU_field_271520,EDU,field,271520,"Film, tv og medie, instruktion og tilrettelæggelse","Film, tv og medie, instruktion og tilrettelæggelse",,,"Film, TV, and media, instruction and arrangement",,,translated,raw_edu_field,medium,danish,,,6326,3012,0.000334,,
+EDU_field_257010,EDU,field,257010,Sprogtolkning,Sprogtolkning,,,Language interpreting,,,translated,raw_edu_field,medium,danish,,,6920,3547,0.000393,,
+EDU_field_271510,EDU,field,271510,"Film-, tv- og medieproduktion u.n.a.","Film-, tv- og medieproduktion u.n.a.",,,"Film, TV, and media production n.a.",,,translated,raw_edu_field,medium,danish,,,25637,15172,0.00168,,
+EDU_field_653515,EDU,field,653515,Radiografi og billeddiagnostik,Radiografi og billeddiagnostik,,,Radiography and imaging diagnostics,,,translated,raw_edu_field,medium,danish,,,14193,6579,0.000729,,
+EDU_field_555086,EDU,field,555086,Produktdesign og innovation mv.,Produktdesign og innovation mv.,,,Product design and innovation etc.,,,translated,raw_edu_field,medium,danish,,,14763,5441,0.000603,,
+EDU_field_601535,EDU,field,601535,Dyrepasning,Dyrepasning,,,Dyrepasning,,,copy-of-da,raw_edu_field,medium,danish,,,10770,7357,0.000815,,
+EDU_field_456510,EDU,field,456510,Astronomi,Astronomi,,,Astronomy,,,translated,raw_edu_field,medium,danish,,,860,500,5.5e-05,,
+EDU_field_751020,EDU,field,751020,Flyvevåbnet,Flyvevåbnet,,,Air Force,,,translated,raw_edu_field,medium,danish,,,5642,2633,0.000292,,
+EDU_field_258410,EDU,field,258410,Sprog og internationale studier,Sprog og internationale studier,,,Languages and international studies,,,translated,raw_edu_field,medium,danish,,,5500,3055,0.000338,,
+EDU_field_702025,EDU,field,702025,Kosmetikeruddannelser,Kosmetikeruddannelser,,,Kosmetiker programmes,,,translated,raw_edu_field,medium,danish,,,5925,3301,0.000366,,
+EDU_field_256235,EDU,field,256235,Thai,Thai,,,Thai,,,copy-of-da,raw_edu_field,medium,danish,,,120,83,9e-06,,
+EDU_field_201010,EDU,field,201010,Didaktik og studier i undervisningsmetode mv.,Didaktik og studier i undervisningsmetode mv.,,,Didactics and studies in teaching methods etc.,,,translated,raw_edu_field,medium,danish,,,5421,4406,0.000488,,
+EDU_field_554510,EDU,field,554510,Nanoteknologi,Nanoteknologi,,,Nanotechnology,,,translated,raw_edu_field,medium,danish,,,7556,3146,0.000348,,
+EDU_field_803510,EDU,field,803510,Togtransport,Togtransport,,,Togtransport,,,copy-of-da,raw_edu_field,medium,danish,,,3834,2116,0.000234,,
+EDU_field_453510,EDU,field,453510,"Miljø, tværfaglige uddannelser","Miljø, tværfaglige uddannelser",,,"Environment, interdisciplinary education",,,translated,raw_edu_field,medium,danish,,,4281,2107,0.000233,,
+EDU_field_574010,EDU,field,574010,"Motorkøretøjs-, skibs- og flyteknik u.n.a.","Motorkøretøjs-, skibs- og flyteknik u.n.a.",,,"Motor vehicle, ship and aircraft technology n.e.c.",,,translated,raw_edu_field,medium,danish,,,46234,27158,0.003008,,
+EDU_field_457510,EDU,field,457510,Matematik,Matematik,,,Mathematics,,,translated,raw_edu_field,medium,danish,,,6170,3925,0.000435,,
+EDU_field_552510,EDU,field,552510,Miljø- og miljøbeskyttelsesteknik,Miljø- og miljøbeskyttelsesteknik,,,Environmental and environmental protection technology,,,translated,raw_edu_field,medium,danish,,,8127,4524,0.000501,,
+EDU_field_602510,EDU,field,602510,Jordbrugsøkonomi,Jordbrugsøkonomi,,,Agricultural economics,,,translated,raw_edu_field,medium,danish,,,4271,2006,0.000222,,
+EDU_field_555050,EDU,field,555050,Keramik- og porcelænsindustri,Keramik- og porcelænsindustri,,,Ceramic and porcelain industry,,,translated,raw_edu_field,medium,danish,,,1674,1074,0.000119,,
+EDU_field_304045,EDU,field,304045,Musiske uddannelser i øvrigt,Musiske uddannelser i øvrigt,,,Musical education otherwise,,,translated,raw_edu_field,medium,danish,,,1708,885,9.8e-05,,
+EDU_field_801525,EDU,field,801525,Skibsofficer,Skibsofficer,,,Skibsofficer,,,copy-of-da,raw_edu_field,medium,danish,,,7850,2220,0.000246,,
+EDU_field_453030,EDU,field,453030,Bioteknologiske tværfaglige uddannelser,Bioteknologiske tværfaglige uddannelser,,,Biotechnological interdisciplinary education,,,translated,raw_edu_field,medium,danish,,,10566,5070,0.000562,,
+EDU_field_258415,EDU,field,258415,"Erhvervssprog, et sprog og virksomhedskommunikation","Erhvervssprog, et sprog og virksomhedskommunikation",,,"Business language, a language and business communication",,,translated,raw_edu_field,medium,danish,,,18009,8469,0.000938,,
+EDU_field_655515,EDU,field,655515,Idræt og sundhed mv.,Idræt og sundhed mv.,,,Physical education and health etc.,,,translated,raw_edu_field,medium,danish,,,12245,6937,0.000768,,
+EDU_field_452515,EDU,field,452515,Bioteknologi,Bioteknologi,,,Biotechnology,,,translated,raw_edu_field,medium,danish,,,11463,5341,0.000592,,
+EDU_field_353510,EDU,field,353510,Antropologi/etnografi,Antropologi/etnografi,,,Antropologi/etnografi,,,copy-of-da,raw_edu_field,medium,danish,,,10687,5791,0.000641,,
+EDU_field_255610,EDU,field,255610,Balkanstudier,Balkanstudier,,,Balkan studies,,,translated,raw_edu_field,medium,danish,,,399,289,3.2e-05,,
+EDU_field_202020,EDU,field,202020,Tale- og hørepædagogik,Tale- og hørepædagogik,,,Speech and Hearing Pedagogy,,,translated,raw_edu_field,medium,danish,,,6325,2331,0.000258,,
+EDU_field_574030,EDU,field,574030,Skibsbygningsteknik,Skibsbygningsteknik,,,Shipbuilding technology,,,translated,raw_edu_field,medium,danish,,,13277,8453,0.000936,,
+EDU_field_256610,EDU,field,256610,Filologi klassisk,Filologi klassisk,,,Classical philology,,,translated,raw_edu_field,medium,danish,,,4099,2736,0.000303,,
+EDU_field_257815,EDU,field,257815,Nordisk sprog og litteratur,Nordisk sprog og litteratur,,,Nordic Language and Literature,,,translated,raw_edu_field,medium,danish,,,6371,2340,0.000259,,
+EDU_field_801515,EDU,field,801515,"Kyst-, fiske- og sætteskipper","Kyst-, fiske- og sætteskipper",,,"Coastal, Fishing, and Charter Skippers",,,translated,raw_edu_field,medium,danish,,,15994,7305,0.000809,,
+EDU_field_252015,EDU,field,252015,Idehistorie,Idehistorie,,,History of ideas,,,translated,raw_edu_field,medium,danish,,,4471,1944,0.000215,,
+EDU_field_154010,EDU,field,154010,Særligt tilrettelagt ungdomsuddannelse,Særligt tilrettelagt ungdomsuddannelse,,,Special Designed Youth Education,,,translated,raw_edu_field,medium,danish,,,216227,97370,0.010785,,
+EDU_field_603510,EDU,field,603510,Erhvervsfiskeri,Erhvervsfiskeri,,,Commercial fishing,,,translated,raw_edu_field,medium,danish,,,3742,2261,0.00025,,
+EDU_field_257245,EDU,field,257245,"Arabisk, erhvervssproglig","Arabisk, erhvervssproglig",,,"Arabic, Vocational Language",,,translated,raw_edu_field,medium,danish,,,634,321,3.6e-05,,
+EDU_field_255425,EDU,field,255425,Italiensk,Italiensk,,,Italian,,,translated,raw_edu_field,medium,danish,,,3711,2177,0.000241,,
+EDU_field_256230,EDU,field,256230,Koreastudier,Koreastudier,,,Korean studies,,,translated,raw_edu_field,medium,danish,,,458,292,3.2e-05,,
+EDU_field_453020,EDU,field,453020,Nanoscience og nanobioscience,Nanoscience og nanobioscience,,,Nanoscience and Nanobioscience,,,translated,raw_edu_field,medium,danish,,,602,479,5.3e-05,,
+EDU_field_452015,EDU,field,452015,Biomedicin og molekylær biomedicin,Biomedicin og molekylær biomedicin,,,Biomedicine and Molecular Biomedicine,,,translated,raw_edu_field,medium,danish,,,7329,3046,0.000337,,
+EDU_field_655520,EDU,field,655520,"Sundhed, tværfaglige uddannelser i øvrigt","Sundhed, tværfaglige uddannelser i øvrigt",,,"Health, Interdisciplinary Education Otherwise",,,translated,raw_edu_field,medium,danish,,,4737,3833,0.000425,,
+EDU_field_654525,EDU,field,654525,Musikterapi,Musikterapi,,,Music therapy,,,translated,raw_edu_field,medium,danish,,,1372,465,5.2e-05,,
+EDU_field_582060,EDU,field,582060,"Bygge- og anlægskonstruktion, tværfaglige uddannelser","Bygge- og anlægskonstruktion, tværfaglige uddannelser",,,"Construction and Installation Design, Interdisciplinary Education",,,translated,raw_edu_field,medium,danish,,,5260,2922,0.000324,,
+EDU_field_553020,EDU,field,553020,Klima- og køleteknik,Klima- og køleteknik,,,Climate and Refrigeration Technology,,,translated,raw_edu_field,medium,danish,,,5097,2626,0.000291,,
+EDU_field_554010,EDU,field,554010,"Medicin-, sundhed- og velfærdsteknologi","Medicin-, sundhed- og velfærdsteknologi",,,"Medicine, Health and Welfare Technologies",,,translated,raw_edu_field,medium,danish,,,13103,5414,0.0006,,
+EDU_field_354515,EDU,field,354515,Kultur- og sprogmødestudier,Kultur- og sprogmødestudier,,,Cultural and Language Studies,,,translated,raw_edu_field,medium,danish,,,3042,1450,0.000161,,
+EDU_field_258425,EDU,field,258425,"Erhvervssprog, tværfaglige uddannelser i øvrigt","Erhvervssprog, tværfaglige uddannelser i øvrigt",,,"Business Languages, Interdisciplinary Programs Otherwise",,,translated,raw_edu_field,medium,danish,,,8874,3910,0.000433,,
+EDU_field_702010,EDU,field,702010,Frisør- og kosmetikeruddannelser u.n.a.,Frisør- og kosmetikeruddannelser u.n.a.,,,Hairdressing and Cosmetology Programs U.N.A.,,,translated,raw_edu_field,medium,danish,,,5196,3037,0.000336,,
+EDU_field_703010,EDU,field,703010,Sportstræning og -teknik,Sportstræning og -teknik,,,Sports Training and Technique,,,translated,raw_edu_field,medium,danish,,,1932,1297,0.000144,,
+EDU_field_271530,EDU,field,271530,"Film-, tv- og medieproduktion i øvrigt","Film-, tv- og medieproduktion i øvrigt",,,"Film, TV and Media Production Otherwise",,,translated,raw_edu_field,medium,danish,,,1352,707,7.8e-05,,
+EDU_field_352525,EDU,field,352525,International sikkerhed og folkeret,International sikkerhed og folkeret,,,International Security and Public International Law,,,translated,raw_edu_field,medium,danish,,,3108,1355,0.00015,,
+EDU_field_302030,EDU,field,302030,Designer i øvrigt,Designer i øvrigt,,,Design Otherwise,,,translated,raw_edu_field,medium,danish,,,1661,887,9.8e-05,,
+EDU_field_751530,EDU,field,751530,Vagtservice,Vagtservice,,,Vagtservice,,,copy-of-da,raw_edu_field,medium,danish,,,2573,1928,0.000214,,
+EDU_field_257250,EDU,field,257250,"Kinesisk, erhvervssproglig","Kinesisk, erhvervssproglig",,,"Chinese, Vocational Language",,,translated,raw_edu_field,medium,danish,,,533,211,2.3e-05,,
+EDU_field_354025,EDU,field,354025,Socialt arbejde/socialt entreprenørskab,Socialt arbejde/socialt entreprenørskab,,,Social Work/Social Entrepreneurship,,,translated,raw_edu_field,medium,danish,,,3136,2333,0.000258,,
+EDU_field_581520,EDU,field,581520,By- og regionsplanlægning,By- og regionsplanlægning,,,Urban and regional planning,,,translated,raw_edu_field,medium,danish,,,2726,1177,0.00013,,
+EDU_field_354015,EDU,field,354015,Socialvidenskab,Socialvidenskab,,,Social science,,,translated,raw_edu_field,medium,danish,,,3392,1732,0.000192,,
+EDU_field_454015,EDU,field,454015,Medicinalkemi,Medicinalkemi,,,Medicinal chemistry,,,translated,raw_edu_field,medium,danish,,,1264,752,8.3e-05,,
+EDU_field_254030,EDU,field,254030,Nærorientalsk arkæologi og oldtidskultur,Nærorientalsk arkæologi og oldtidskultur,,,Near Eastern archaeology and ancient civilizations,,,translated,raw_edu_field,medium,danish,,,2225,1123,0.000124,,
+EDU_field_401515,EDU,field,401515,Skatter og afgifter,Skatter og afgifter,,,Taxes and tariffs,,,translated,raw_edu_field,medium,danish,,,2824,2432,0.000269,,
+EDU_field_352515,EDU,field,352515,"Samfundsstudier, andre verdensdele","Samfundsstudier, andre verdensdele",,,"Area studies, other world regions",,,translated,raw_edu_field,medium,danish,,,4211,2074,0.00023,,
+EDU_field_654535,EDU,field,654535,Biomekanik,Biomekanik,,,Biomekanik,,,copy-of-da,raw_edu_field,medium,danish,,,7510,2791,0.000309,,
+EDU_field_354010,EDU,field,354010,Sociologi og kultursociologi mv.,Sociologi og kultursociologi mv.,,,Sociology and cultural sociology etc.,,,translated,raw_edu_field,medium,danish,,,11163,6714,0.000744,,
+EDU_field_101010,EDU,field,101010,Grundskole 0.-6. klasse,Grundskole 0.-6. klasse,,,Primary school 0.-6. grade,,,translated,raw_edu_field,medium,danish,,,16471275,1642053,0.181871,,
+EDU_field_355020,EDU,field,355020,Retorik,Retorik,,,Rhetoric,,,translated,raw_edu_field,medium,danish,,,3280,1858,0.000206,,
+EDU_field_804010,EDU,field,804010,"Post, distribution mv.","Post, distribution mv.",,,"Postal services, distribution etc.",,,translated,raw_edu_field,medium,danish,,,825,604,6.7e-05,,
+EDU_field_309520,EDU,field,309520,Designkultur og designstudier,Designkultur og designstudier,,,Design culture and design studies,,,translated,raw_edu_field,medium,danish,,,3626,1714,0.00019,,
+EDU_field_555045,EDU,field,555045,"Bådebyggeri, ikke-motordrevne","Bådebyggeri, ikke-motordrevne",,,"Boatbuilding, non-motorized",,,translated,raw_edu_field,medium,danish,,,6807,4578,0.000507,,
+EDU_field_258420,EDU,field,258420,"Erhvervssprog, to sprog og virksomhedskommunikation","Erhvervssprog, to sprog og virksomhedskommunikation",,,"Business languages, two languages and business communication",,,translated,raw_edu_field,medium,danish,,,1378,752,8.3e-05,,
+EDU_field_354020,EDU,field,354020,Kriminologi,Kriminologi,,,Criminology,,,translated,raw_edu_field,medium,danish,,,1470,684,7.6e-05,,
+EDU_field_354520,EDU,field,354520,Miljøplanlægning og risikostyring,Miljøplanlægning og risikostyring,,,Environmental planning and risk management,,,translated,raw_edu_field,medium,danish,,,2353,1041,0.000115,,
+EDU_field_309525,EDU,field,309525,Forfatteruddannelse,Forfatteruddannelse,,,Forfatter programme,,,translated,raw_edu_field,medium,danish,,,279,147,1.6e-05,,
+EDU_field_572010,EDU,field,572010,Urmageri,Urmageri,,,Urmageri,,,copy-of-da,raw_edu_field,medium,danish,,,3524,2394,0.000265,,
+EDU_field_354510,EDU,field,354510,Teknologisk-samfundsvidenskabelig planlægning,Teknologisk-samfundsvidenskabelig planlægning,,,Technological-societal planning,,,translated,raw_edu_field,medium,danish,,,4774,2517,0.000279,,
+EDU_field_353010,EDU,field,353010,Psykologi,Psykologi,,,Psychology,,,translated,raw_edu_field,medium,danish,,,27035,18127,0.002008,,
+EDU_field_209025,EDU,field,209025,Samfundsvidenskabelige-pædagogiske uddannelser,Samfundsvidenskabelige-pædagogiske uddannelser,,,Social-scientific and pedagogical educations,,,translated,raw_edu_field,medium,danish,,,10797,8798,0.000974,,
+EDU_field_255215,EDU,field,255215,Tysk,Tysk,,,German,,,translated,raw_edu_field,medium,danish,,,6144,4252,0.000471,,
+EDU_field_302510,EDU,field,302510,Billedkunst,Billedkunst,,,Fine art,,,translated,raw_edu_field,medium,danish,,,3216,1609,0.000178,,
+EDU_field_751535,EDU,field,751535,Toldvæsen,Toldvæsen,,,Customs,,,translated,raw_edu_field,medium,danish,,,2861,1480,0.000164,,
+EDU_field_603015,EDU,field,603015,Skovbrugsvidenskab,Skovbrugsvidenskab,,,Forestry science,,,translated,raw_edu_field,medium,danish,,,3887,1812,0.000201,,
+EDU_field_255615,EDU,field,255615,Russisk,Russisk,,,Russian,,,translated,raw_edu_field,medium,danish,,,461,420,4.7e-05,,
+EDU_field_255640,EDU,field,255640,Nygræsk,Nygræsk,,,Modern Greek,,,translated,raw_edu_field,medium,danish,,,184,143,1.6e-05,,
+EDU_field_256420,EDU,field,256420,Indiansk sprog og kultur,Indiansk sprog og kultur,,,Indian language and culture,,,translated,raw_edu_field,medium,danish,,,573,341,3.8e-05,,
+EDU_field_602030,EDU,field,602030,Gartneriteknik,Gartneriteknik,,,Horticultural technology,,,translated,raw_edu_field,medium,danish,,,2306,1591,0.000176,,
+EDU_field_602035,EDU,field,602035,Gartnerividenskab,Gartnerividenskab,,,Horticultural science,,,translated,raw_edu_field,medium,danish,,,2378,1333,0.000148,,
+EDU_field_555080,EDU,field,555080,"Skomager, skoindustri","Skomager, skoindustri",,,"Shoemaking, footwear industry",,,translated,raw_edu_field,medium,danish,,,3792,3337,0.00037,,
+EDU_field_209020,EDU,field,209020,Naturvidenskabelige-pædagogiske uddannelser,Naturvidenskabelige-pædagogiske uddannelser,,,Natural science and pedagogical educations,,,translated,raw_edu_field,medium,danish,,,1827,1124,0.000124,,
+EDU_field_256210,EDU,field,256210,Indisk,Indisk,,,Indisk,,,copy-of-da,raw_edu_field,medium,danish,,,451,328,3.6e-05,,
+EDU_field_255415,EDU,field,255415,Portugisisk,Portugisisk,,,Portuguese,,,translated,raw_edu_field,medium,danish,,,1385,787,8.7e-05,,
+EDU_field_257110,EDU,field,257110,Datalingvistik,Datalingvistik,,,Datalingvistik,,,copy-of-da,raw_edu_field,medium,danish,,,316,181,2e-05,,
+EDU_field_451515,EDU,field,451515,Miljøbiologi,Miljøbiologi,,,Environmental biology,,,translated,raw_edu_field,medium,danish,,,493,239,2.6e-05,,
+EDU_field_256425,EDU,field,256425,Grønlandsk,Grønlandsk,,,Greenlandic,,,translated,raw_edu_field,medium,danish,,,56,47,5e-06,,
+EDU_field_573025,EDU,field,573025,Støberiteknik,Støberiteknik,,,Foundry Technology,,,translated,raw_edu_field,medium,danish,,,1548,1192,0.000132,,
+EDU_field_456010,EDU,field,456010,Meteorologi,Meteorologi,,,Meteorology,,,translated,raw_edu_field,medium,danish,,,337,241,2.7e-05,,
+EDU_field_454510,EDU,field,454510,Geodæsi og geoinformatik,Geodæsi og geoinformatik,,,Geodesy and Geoinformatics,,,translated,raw_edu_field,medium,danish,,,517,381,4.2e-05,,
+EDU_field_255220,EDU,field,255220,Nederlandsk,Nederlandsk,,,Dutch,,,translated,raw_edu_field,medium,danish,,,120,84,9e-06,,
+EDU_field_573030,EDU,field,573030,Pladebearbejdende metalindustri mv.,Pladebearbejdende metalindustri mv.,,,Sheet Metal Industry etc.,,,translated,raw_edu_field,medium,danish,,,1606,1156,0.000128,,
+EDU_field_555087,EDU,field,555087,Konstruktion og projektering,Konstruktion og projektering,,,Construction and Design,,,translated,raw_edu_field,medium,danish,,,444,266,2.9e-05,,
+EDU_field_257440,EDU,field,257440,"Tysk-spansk, erhvervssproglig","Tysk-spansk, erhvervssproglig",,,Business German-Spanish,,,translated,raw_edu_field,medium,danish,,,902,492,5.4e-05,,
+EDU_field_304035,EDU,field,304035,Sang og sangskrivning,Sang og sangskrivning,,,Singing and Songwriting,,,translated,raw_edu_field,medium,danish,,,616,340,3.8e-05,,
+EDU_field_304030,EDU,field,304030,Komponist og dirigent,Komponist og dirigent,,,Composer and Conductor,,,translated,raw_edu_field,medium,danish,,,721,377,4.2e-05,,
+EDU_field_653530,EDU,field,653530,Bandagistuddannelser,Bandagistuddannelser,,,Bandagist programmes,,,translated,raw_edu_field,medium,danish,,,640,297,3.3e-05,,
+EDU_field_256225,EDU,field,256225,Kinastudier,Kinastudier,,,Chinese studies,,,translated,raw_edu_field,medium,danish,,,755,499,5.5e-05,,
+EDU_field_308510,EDU,field,308510,Dans,Dans,,,Dans,,,copy-of-da,raw_edu_field,medium,danish,,,504,274,3e-05,,
+EDU_field_802510,EDU,field,802510,Luftfart,Luftfart,,,Luftfart,,,copy-of-da,raw_edu_field,medium,danish,,,2055,1152,0.000128,,
+EDU_field_256220,EDU,field,256220,Japanstudier,Japanstudier,,,Japanese studies,,,translated,raw_edu_field,medium,danish,,,491,370,4.1e-05,,
+EDU_field_256435,EDU,field,256435,"Indoeuropæiske sprog, slægtskab og lingvistik","Indoeuropæiske sprog, slægtskab og lingvistik",,,"Indo-European Languages, Kinship and Linguistics",,,translated,raw_edu_field,medium,danish,,,106,63,7e-06,,
+EDU_field_256415,EDU,field,256415,Ungarsk,Ungarsk,,,Hungarian,,,translated,raw_edu_field,medium,danish,,,87,49,5e-06,,
+EDU_field_257235,EDU,field,257235,"Russisk, erhvervssproglig","Russisk, erhvervssproglig",,,Business Russian,,,translated,raw_edu_field,medium,danish,,,183,102,1.1e-05,,
+EDU_field_257230,EDU,field,257230,"Italiensk, erhvervssproglig","Italiensk, erhvervssproglig",,,Business Italian,,,translated,raw_edu_field,medium,danish,,,598,361,4e-05,,
+EDU_field_303520,EDU,field,303520,Kunsthåndværk i øvrigt,Kunsthåndværk i øvrigt,,,Miscellaneous Fine Arts,,,translated,raw_edu_field,medium,danish,,,1999,1824,0.000202,,
+EDU_field_256410,EDU,field,256410,Finsk,Finsk,,,Finnish,,,translated,raw_edu_field,medium,danish,,,404,214,2.4e-05,,
+EDU_field_751015,EDU,field,751015,Forsvar generelt,Forsvar generelt,,,"Defence, general",,,translated,raw_edu_field,medium,danish,,,276,160,1.8e-05,,
+EDU_field_458010,EDU,field,458010,Statistik,Statistik,,,Statistics,,,translated,raw_edu_field,medium,danish,,,628,555,6.1e-05,,
+EDU_field_653525,EDU,field,653525,Ortopædi,Ortopædi,,,Orthopedics,,,translated,raw_edu_field,medium,danish,,,360,234,2.6e-05,,
+EDU_field_257435,EDU,field,257435,"Engelsk-russisk, erhvervssproglig","Engelsk-russisk, erhvervssproglig",,,Business English-Russian,,,translated,raw_edu_field,medium,danish,,,378,248,2.7e-05,,
+EDU_field_455515,EDU,field,455515,Geovidenskab,Geovidenskab,,,Earth sciences,,,translated,raw_edu_field,medium,danish,,,114,52,6e-06,,
+EDU_field_254025,EDU,field,254025,Marinarkæologi,Marinarkæologi,,,Marine Archaeology,,,translated,raw_edu_field,medium,danish,,,392,167,1.8e-05,,
+EDU_field_256215,EDU,field,256215,Indonesisk,Indonesisk,,,Indonesisk,,,copy-of-da,raw_edu_field,medium,danish,,,73,36,4e-06,,
+EDU_field_304025,EDU,field,304025,Tonespace,Tonespace,,,Tonespace,,,copy-of-da,raw_edu_field,medium,danish,,,233,109,1.2e-05,,
+EDU_field_573010,EDU,field,573010,Maskin- og produktionsanlægsteknik u.n.a.,Maskin- og produktionsanlægsteknik u.n.a.,,,Machine and Production Facility Technology NEC,,,translated,raw_edu_field,medium,danish,,,10581,9993,0.001107,,
+EDU_field_352510,EDU,field,352510,Europæiske studier,Europæiske studier,,,European Studies,,,translated,raw_edu_field,medium,danish,,,1345,826,9.1e-05,,
+EDU_field_252020,EDU,field,252020,Videnskabshistorie,Videnskabshistorie,,,History of science,,,translated,raw_edu_field,medium,danish,,,163,100,1.1e-05,,
+EDU_field_256625,EDU,field,256625,Andre klassiske sprog,Andre klassiske sprog,,,Other Classical Languages,,,translated,raw_edu_field,medium,danish,,,39,38,4e-06,,
+EDU_field_257486,EDU,field,257486,"Fransk-italiensk, erhvervssproglig","Fransk-italiensk, erhvervssproglig",,,Business French-Italian,,,translated,raw_edu_field,medium,danish,,,115,58,6e-06,,
+EDU_field_256240,EDU,field,256240,Tibetologi,Tibetologi,,,Tibetology,,,translated,raw_edu_field,medium,danish,,,103,72,8e-06,,
+EDU_field_255430,EDU,field,255430,Rumænsk,Rumænsk,,,Romanian,,,translated,raw_edu_field,medium,danish,,,18,15,2e-06,,
+EDU_field_257460,EDU,field,257460,"Tysk-russisk, erhvervssproglig","Tysk-russisk, erhvervssproglig",,,Business German-Russian,,,translated,raw_edu_field,medium,danish,,,1,1,0.0,,
+EDU_field_257240,EDU,field,257240,"Polsk, erhvervssproglig","Polsk, erhvervssproglig",,,"Polish, vocational language",,,translated,raw_edu_field,medium,danish,,,43,18,2e-06,,
+EDU_field_257455,EDU,field,257455,"Tysk-italiensk, erhvervssproglig","Tysk-italiensk, erhvervssproglig",,,"German-Italian, vocational language",,,translated,raw_edu_field,medium,danish,,,6,4,0.0,,
+EDU_field_257480,EDU,field,257480,"Spansk-russisk, erhvervssproglig","Spansk-russisk, erhvervssproglig",,,"Spanish-Russian, vocational language",,,translated,raw_edu_field,medium,danish,,,2,2,0.0,,
+EDU_field_991010,EDU,field,991010,Afbrudt,Afbrudt,,,Discontinued,,,translated,raw_edu_field,medium,danish,,,3235524,1975704,0.218825,,
+EDU_field_555111,EDU,field,555111,Grundforløb,Grundforløb,,,Foundation course,,,translated,raw_edu_field,medium,danish,,,501316,434499,0.048124,,
+EDU_field_992010,EDU,field,992010,Igang,Igang,,,In progress,,,translated,raw_edu_field,medium,danish,,,1173697,1173691,0.129996,,
+EDU_field_582040,EDU,field,582040,Kloakering og pilotering mv.,Kloakering og pilotering mv.,,,Sewerage and piloting etc.,,,translated,raw_edu_field,medium,danish,,,3320,3317,0.000367,,
+EDU_field_309516,EDU,field,309516,Miljø og etik,Miljø og etik,,,Environment and ethics,,,translated,raw_edu_field,medium,danish,,,407,207,2.3e-05,,
+EDU_field_301510,EDU,field,301510,"Designer, digital design og kommunikation","Designer, digital design og kommunikation",,,"Design, digital design and communication",,,translated,raw_edu_field,medium,danish,,,3376,2612,0.000289,,
+EDU_field_653516,EDU,field,653516,Stråleterapi,Stråleterapi,,,Radiation therapy,,,translated,raw_edu_field,medium,danish,,,400,218,2.4e-05,,
+EDU_field_803030,EDU,field,803030,"Chauffør, flytning og renovation","Chauffør, flytning og renovation",,,"Driver, moving and renovation",,,translated,raw_edu_field,medium,danish,,,1364,1362,0.000151,,
+EDU_field_802015,EDU,field,802015,Kranføring,Kranføring,,,Crane operation,,,translated,raw_edu_field,medium,danish,,,254,254,2.8e-05,,
+EDU_field_451525,EDU,field,451525,Zoologi,Zoologi,,,Zoology,,,translated,raw_edu_field,medium,danish,,,467,467,5.2e-05,,
+EDU_field_257820,EDU,field,257820,Nordisk filologi,Nordisk filologi,,,Nordic philology,,,translated,raw_edu_field,medium,danish,,,2904,2902,0.000321,,
+EDU_field_302020,EDU,field,302020,"Designer, indretning og interiør","Designer, indretning og interiør",,,Interior Design and Decoration,,,translated,raw_edu_field,medium,danish,,,2577,2332,0.000258,,
+EDU_field_452510,EDU,field,452510,Biologisk laboratorieteknik,Biologisk laboratorieteknik,,,Biological laboratory technology,,,translated,raw_edu_field,medium,danish,,,1264,1260,0.00014,,
+EDU_field_701525,EDU,field,701525,Rengørings- og institutionsservice mv.,Rengørings- og institutionsservice mv.,,,Cleaning and Institutional Services etc.,,,translated,raw_edu_field,medium,danish,,,10299,10200,0.00113,,
+EDU_field_402020,EDU,field,402020,Forsikring,Forsikring,,,Insurance,,,translated,raw_edu_field,medium,danish,,,2776,2775,0.000307,,
+EDU_field_302015,EDU,field,302015,"Designer, beklædning og mode","Designer, beklædning og mode",,,Fashion and Clothing Design,,,translated,raw_edu_field,medium,danish,,,3053,2685,0.000297,,
+EDU_field_254035,EDU,field,254035,Oldtidskundskab,Oldtidskundskab,,,Classics (Ancient-world studies),,,translated,raw_edu_field,medium,danish,,,157,102,1.1e-05,,
+EDU_field_304040,EDU,field,304040,Musikvidenskab og -teori,Musikvidenskab og -teori,,,Music Theory and Science,,,translated,raw_edu_field,medium,danish,,,561,559,6.2e-05,,
+EDU_field_451520,EDU,field,451520,Botanik,Botanik,,,Botanik,,,copy-of-da,raw_edu_field,medium,danish,,,99,99,1.1e-05,,
+EDU_field_302025,EDU,field,302025,"Designer, industrielt design","Designer, industrielt design",,,"Designer, industrielt design",,,copy-of-da,raw_edu_field,medium,danish,,,980,764,8.5e-05,,
+EDU_field_255630,EDU,field,255630,Serbokroatisk,Serbokroatisk,,,Serbo-Croatian,,,translated,raw_edu_field,medium,danish,,,86,82,9e-06,,
+EDU_field_602511,EDU,field,602511,Jordbrugsbiologi,Jordbrugsbiologi,,,Jordbrugsbiologi,,,copy-of-da,raw_edu_field,medium,danish,,,491,348,3.9e-05,,
+EDU_field_256615,EDU,field,256615,Græsk,Græsk,,,Greek,,,translated,raw_edu_field,medium,danish,,,153,119,1.3e-05,,
+EDU_field_256620,EDU,field,256620,Latin,Latin,,,Latin,,,copy-of-da,raw_edu_field,medium,danish,,,360,333,3.7e-05,,
+EDU_field_255620,EDU,field,255620,Polsk,Polsk,,,Polish,,,translated,raw_edu_field,medium,danish,,,41,31,3e-06,,
+EDU_field_255635,EDU,field,255635,Bulgarsk,Bulgarsk,,,Bulgarian,,,translated,raw_edu_field,medium,danish,,,4,4,0.0,,
+EDU_field_255625,EDU,field,255625,Tjekkisk,Tjekkisk,,,Czech,,,translated,raw_edu_field,medium,danish,,,13,13,1e-06,,
+EDU_field_981030,EDU,field,981030,"Studiefag uoplyst, andre","Studiefag uoplyst, andre",,,"Undefined Academic Subject, Other",,,translated,raw_edu_field,medium,danish,,,26253,26243,0.002907,,
+EDU_field_257420,EDU,field,257420,"Engelsk-portugisisk, erhvervssproglig","Engelsk-portugisisk, erhvervssproglig",,,Business English-Portuguese,,,translated,raw_edu_field,medium,danish,,,85,85,9e-06,,
+EDU_field_409025,EDU,field,409025,Erhvervsøkonomi med teknologi,Erhvervsøkonomi med teknologi,,,Technology-oriented Business Administration,,,translated,raw_edu_field,medium,danish,,,7,7,1e-06,,
+EDU_field_994030,EDU,field,994030,Uoplyst (indvandrernes uddannelse),Uoplyst (indvandrernes uddannelse),,,Undefined (Immigrants' Education),,,translated,raw_edu_field,medium,danish,,,102346,102346,0.011336,,
+EDU_field_995010,EDU,field,995010,Ingen uddannelse (indvandrernes uddannelse),Ingen uddannelse (indvandrernes uddannelse),,,No Education (Immigrants' Education),,,translated,raw_edu_field,medium,danish,,,20110,20110,0.002227,,
+EDU_field_656525,EDU,field,656525,Pædagogisk arbejde med børn og unge i øvrigt,Pædagogisk arbejde med børn og unge i øvrigt,,,"Educational work with children and youth, other",,,translated,raw_edu_field,medium,danish,,,16054,16014,0.001774,,
+EDU_field_751010,EDU,field,751010,Forsvar u.n.a.,Forsvar u.n.a.,,,Forsvar u.n.a.,,,copy-of-da,raw_edu_field,medium,danish,,,4680,4680,0.000518,,
+EDU_field_301010,EDU,field,301010,Kunstnerisk u.n.a.,Kunstnerisk u.n.a.,,,"Artistic, unspecified",,,translated,raw_edu_field,medium,danish,,,2800,2800,0.00031,,
+EDU_field_981010,EDU,field,981010,Studiefag uoplyst indv. udd.,Studiefag uoplyst indv. udd.,,,"Academic subjects unspecified, individual education",,,translated,raw_edu_field,medium,danish,,,492739,454143,0.0503,,
+EDU_field_751510,EDU,field,751510,Politi og sikkerhed u.n.a.,Politi og sikkerhed u.n.a.,,,"Police and security, other not available",,,translated,raw_edu_field,medium,danish,,,1742,1742,0.000193,,
+EDU_field_701530,EDU,field,701530,Husholdningskurser,Husholdningskurser,,,Home economics courses,,,translated,raw_edu_field,medium,danish,,,1514,1514,0.000168,,
+EDU_field_204010,EDU,field,204010,"Læreruddannelse, erhvervsskole/sprogcenter mv.","Læreruddannelse, erhvervsskole/sprogcenter mv.",,,"Teacher training, vocational schools/language centers etc.",,,translated,raw_edu_field,medium,danish,,,2769,2763,0.000306,,
+EDU_field_501020,EDU,field,501020,IT-administrator,IT-administrator,,,IT administrator,,,translated,raw_edu_field,medium,danish,,,1078,1078,0.000119,,
+EDU_field_555035,EDU,field,555035,Øvrige fødevareindustri,Øvrige fødevareindustri,,,Other food industry,,,translated,raw_edu_field,medium,danish,,,753,753,8.3e-05,,
+EDU_field_656010,EDU,field,656010,Handicap- og ældrepleje u.n.a.,Handicap- og ældrepleje u.n.a.,,,"Disability and elderly care, other not available",,,translated,raw_edu_field,medium,danish,,,3,3,0.0,,
+EDU_field_271040,EDU,field,271040,Grafisk-tekniske uddannelser i øvrigt,Grafisk-tekniske uddannelser i øvrigt,,,"Graphic-technical education, other",,,translated,raw_edu_field,medium,danish,,,60,60,7e-06,,
+EDU_field_209010,EDU,field,209010,"Undervisning og læring, tværfaglige uddannelser u.n.a.","Undervisning og læring, tværfaglige uddannelser u.n.a.",,,"Teaching and learning, interdisciplinary education, other not available",,,translated,raw_edu_field,medium,danish,,,31,31,3e-06,,
+EDU_field_355530,EDU,field,355530,Museologi,Museologi,,,Museology,,,translated,raw_edu_field,medium,danish,,,8,8,1e-06,,

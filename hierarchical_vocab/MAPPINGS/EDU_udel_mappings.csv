@@ -1,26 +1,26 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
-EDU_udel_29,EDU,udel,29,9. klassetrin,9. klassetrin,,,Grade-level 9,,,dst_times_udel,none|generated,high,danish,,,7318074,3521116,0.389992
-EDU_udel_30,EDU,udel,30,10. klassetrin,10. klassetrin,,,Grade-level 10,,,dst_times_udel,none|generated,high,danish,,,4603024,2193424,0.24294
-EDU_udel_0,EDU,udel,0,Udelt uddannelse,Udelt uddannelse,,,Undivided education,,,dst_times_udel,none|generated,high,danish,,,6003762,2158278,0.239047
-EDU_udel_28,EDU,udel,28,8. klassetrin,8. klassetrin,,,Grade-level 8,,,dst_times_udel,none|generated,high,danish,,,7302154,3504862,0.388192
-EDU_udel_51,EDU,udel,51,EUD indgangsforløb,EUD indgangsforløb,,,VET (EUD) entry programme,,,dst_times_udel,none|generated,high,danish,,,3286758,1207680,0.13376
-EDU_udel_52,EDU,udel,52,EUD hovedforløb,EUD hovedforløb,,,VET (EUD) main programme,,,dst_times_udel,none|generated,high,danish,,,2849548,1203294,0.133275
-EDU_udel_21,EDU,udel,21,1. klassetrin,1. klassetrin,,,Grade-level 1,,,dst_times_udel,none|generated,high,danish,,,6830458,2781998,0.308129
-EDU_udel_22,EDU,udel,22,2. klassetrin,2. klassetrin,,,Grade-level 2,,,dst_times_udel,none|generated,high,danish,,,6368706,2686294,0.297529
-EDU_udel_23,EDU,udel,23,3. klassetrin,3. klassetrin,,,Grade-level 3,,,dst_times_udel,none|generated,high,danish,,,5470016,2349901,0.260271
-EDU_udel_60,EDU,udel,60,Udelt kandidatuddannelse,Udelt kandidatuddannelse,,,Undivided master's programme,,,dst_times_udel,none|generated,high,danish,,,597430,241394,0.026736
-EDU_udel_61,EDU,udel,61,Bacheloruddannelse,Bacheloruddannelse,,,Bachelor's programme,,,dst_times_udel,none|generated,high,danish,,,1495142,639016,0.070776
-EDU_udel_62,EDU,udel,62,Kandidatoverbygning,Kandidatoverbygning,,,Master's top-up programme,,,dst_times_udel,none|generated,high,danish,,,1193908,559556,0.061975
-EDU_udel_54,EDU,udel,54,EUD indgangsforløb 2,EUD indgangsforløb 2,,,VET (EUD) entry programme 2,,,dst_times_udel,none|generated,high,danish,,,865152,349696,0.038732
-EDU_udel_31,EDU,udel,31,11. klassetrin,11. klassetrin,,,Grade-level 11,,,dst_times_udel,none|generated,high,danish,,,73352,31801,0.003522
-EDU_udel_55,EDU,udel,55,EUD EUX studiekompetenceforløb,EUD EUX studiekompetenceforløb,,,VET (EUD) EUX study-competence programme,,,dst_times_udel,none|generated,high,danish,,,47136,23192,0.002569
-EDU_udel_27,EDU,udel,27,7. klassetrin,7. klassetrin,,,Grade-level 7,,,dst_times_udel,none|generated,high,danish,,,2553676,1221956,0.135342
-EDU_udel_56,EDU,udel,56,Grundforløb plus,Grundforløb plus,,,Basic programme plus,,,dst_times_udel,none|generated,high,danish,,,3748,1872,0.000207
-EDU_udel_26,EDU,udel,26,6. klassetrin,6. klassetrin,,,Grade-level 6,,,dst_times_udel,none|generated,high,danish,,,2525470,1211896,0.134227
-EDU_udel_25,EDU,udel,25,5. klassetrin,5. klassetrin,,,Grade-level 5,,,dst_times_udel,none|generated,high,danish,,,2494850,1197497,0.132633
-EDU_udel_20,EDU,udel,20,0. klassetrin,0. klassetrin,,,Grade-level 0 (kindergarten class),,,dst_times_udel,none|generated,high,danish,,,2427476,1149666,0.127335
-EDU_udel_64,EDU,udel,64,Akademisk overbygningsuddannelse,Akademisk overbygningsuddannelse,,,Academic top-up programme,,,dst_times_udel,none|generated,high,danish,,,178,89,1e-05
-EDU_udel_24,EDU,udel,24,4. klassetrin,4. klassetrin,,,Grade-level 4,,,dst_times_udel,none|generated,high,danish,,,2465700,1186056,0.131365
-EDU_udel_41,EDU,udel,41,FGU spor,FGU spor,,,FGU track,,,dst_times_udel,none|generated,high,danish,,,117458,42038,0.004656
-EDU_udel_40,EDU,udel,40,FGU basis/spor ikke valgt,FGU basis/spor ikke valgt,,,FGU basis / track not selected,,,dst_times_udel,none|generated,high,danish,,,54768,21719,0.002406
-EDU_udel_53,EDU,udel,53,EUD indgangsforløb 1,EUD indgangsforløb 1,,,VET (EUD) entry programme 1,,,dst_times_udel,none|generated,high,danish,,,257664,127265,0.014096
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people,program_group,is_primary_code
+EDU_udel_29,EDU,udel,29,9. klassetrin,9. klassetrin,,,Grade-level 9,,,dst_times_udel,none|generated,high,danish,,,7318074,3521116,0.389992,,
+EDU_udel_30,EDU,udel,30,10. klassetrin,10. klassetrin,,,Grade-level 10,,,dst_times_udel,none|generated,high,danish,,,4603024,2193424,0.24294,,
+EDU_udel_0,EDU,udel,0,Udelt uddannelse,Udelt uddannelse,,,Undivided education,,,dst_times_udel,none|generated,high,danish,,,6003762,2158278,0.239047,,
+EDU_udel_28,EDU,udel,28,8. klassetrin,8. klassetrin,,,Grade-level 8,,,dst_times_udel,none|generated,high,danish,,,7302154,3504862,0.388192,,
+EDU_udel_51,EDU,udel,51,EUD indgangsforløb,EUD indgangsforløb,,,VET (EUD) entry programme,,,dst_times_udel,none|generated,high,danish,,,3286758,1207680,0.13376,,
+EDU_udel_52,EDU,udel,52,EUD hovedforløb,EUD hovedforløb,,,VET (EUD) main programme,,,dst_times_udel,none|generated,high,danish,,,2849548,1203294,0.133275,,
+EDU_udel_21,EDU,udel,21,1. klassetrin,1. klassetrin,,,Grade-level 1,,,dst_times_udel,none|generated,high,danish,,,6830458,2781998,0.308129,,
+EDU_udel_22,EDU,udel,22,2. klassetrin,2. klassetrin,,,Grade-level 2,,,dst_times_udel,none|generated,high,danish,,,6368706,2686294,0.297529,,
+EDU_udel_23,EDU,udel,23,3. klassetrin,3. klassetrin,,,Grade-level 3,,,dst_times_udel,none|generated,high,danish,,,5470016,2349901,0.260271,,
+EDU_udel_60,EDU,udel,60,Udelt kandidatuddannelse,Udelt kandidatuddannelse,,,Undivided master's programme,,,dst_times_udel,none|generated,high,danish,,,597430,241394,0.026736,,
+EDU_udel_61,EDU,udel,61,Bacheloruddannelse,Bacheloruddannelse,,,Bachelor's programme,,,dst_times_udel,none|generated,high,danish,,,1495142,639016,0.070776,,
+EDU_udel_62,EDU,udel,62,Kandidatoverbygning,Kandidatoverbygning,,,Master's top-up programme,,,dst_times_udel,none|generated,high,danish,,,1193908,559556,0.061975,,
+EDU_udel_54,EDU,udel,54,EUD indgangsforløb 2,EUD indgangsforløb 2,,,VET (EUD) entry programme 2,,,dst_times_udel,none|generated,high,danish,,,865152,349696,0.038732,,
+EDU_udel_31,EDU,udel,31,11. klassetrin,11. klassetrin,,,Grade-level 11,,,dst_times_udel,none|generated,high,danish,,,73352,31801,0.003522,,
+EDU_udel_55,EDU,udel,55,EUD EUX studiekompetenceforløb,EUD EUX studiekompetenceforløb,,,VET (EUD) EUX study-competence programme,,,dst_times_udel,none|generated,high,danish,,,47136,23192,0.002569,,
+EDU_udel_27,EDU,udel,27,7. klassetrin,7. klassetrin,,,Grade-level 7,,,dst_times_udel,none|generated,high,danish,,,2553676,1221956,0.135342,,
+EDU_udel_56,EDU,udel,56,Grundforløb plus,Grundforløb plus,,,Basic programme plus,,,dst_times_udel,none|generated,high,danish,,,3748,1872,0.000207,,
+EDU_udel_26,EDU,udel,26,6. klassetrin,6. klassetrin,,,Grade-level 6,,,dst_times_udel,none|generated,high,danish,,,2525470,1211896,0.134227,,
+EDU_udel_25,EDU,udel,25,5. klassetrin,5. klassetrin,,,Grade-level 5,,,dst_times_udel,none|generated,high,danish,,,2494850,1197497,0.132633,,
+EDU_udel_20,EDU,udel,20,0. klassetrin,0. klassetrin,,,Grade-level 0 (kindergarten class),,,dst_times_udel,none|generated,high,danish,,,2427476,1149666,0.127335,,
+EDU_udel_64,EDU,udel,64,Akademisk overbygningsuddannelse,Akademisk overbygningsuddannelse,,,Academic top-up programme,,,dst_times_udel,none|generated,high,danish,,,178,89,1e-05,,
+EDU_udel_24,EDU,udel,24,4. klassetrin,4. klassetrin,,,Grade-level 4,,,dst_times_udel,none|generated,high,danish,,,2465700,1186056,0.131365,,
+EDU_udel_41,EDU,udel,41,FGU spor,FGU spor,,,FGU track,,,dst_times_udel,none|generated,high,danish,,,117458,42038,0.004656,,
+EDU_udel_40,EDU,udel,40,FGU basis/spor ikke valgt,FGU basis/spor ikke valgt,,,FGU basis / track not selected,,,dst_times_udel,none|generated,high,danish,,,54768,21719,0.002406,,
+EDU_udel_53,EDU,udel,53,EUD indgangsforløb 1,EUD indgangsforløb 1,,,VET (EUD) entry programme 1,,,dst_times_udel,none|generated,high,danish,,,257664,127265,0.014096,,
