@@ -1,220 +1,220 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-DEM_opr_land_5100,DEM,opr,land_5100,Danmark,Danmark,,,Denmark,Denmark,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_unknown,DEM,opr,land_unknown,Country: unknown,,,,Country: unknown,,,translated,none|generated,medium,danish,,
-DEM_opr_land_5704,DEM,opr,land_5704,Ukraine,Ukraine,,,Ukraine,Ukraine,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5486,DEM,opr,land_5486,Syrien,Syrien,,,Syria,Syria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5456,DEM,opr,land_5456,Libanon,Libanon,,,Lebanon,Lebanon,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5390,DEM,opr,land_5390,USA,USA,,,United States,United States,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5492,DEM,opr,land_5492,Thailand,Thailand,,,Thailand,Thailand,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5170,DEM,opr,land_5170,Storbritannien,Storbritannien,,,United Kingdom,United Kingdom,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5611,DEM,opr,land_5611,Litauen,Litauen,,,Lithuania,Lithuania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5140,DEM,opr,land_5140,Nederlandene,Nederlandene,,,Netherlands,Netherlands,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5150,DEM,opr,land_5150,Italien,Italien,,,Italy,Italy,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5474,DEM,opr,land_5474,Filippinerne,Filippinerne,,,Philippines,Philippines,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5154,DEM,opr,land_5154,Polen,Polen,,,Poland,Poland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5158,DEM,opr,land_5158,Rumænien,Rumænien,,,Romania,Romania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5130,DEM,opr,land_5130,Frankrig,Frankrig,,,France,France,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5432,DEM,opr,land_5432,Indien,Indien,,,India,India,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5180,DEM,opr,land_5180,Tyskland,Tyskland,,,Germany,Germany,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5120,DEM,opr,land_5120,Sverige,Sverige,,,Sweden,Sweden,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5306,DEM,opr,land_5306,Brasilien,Brasilien,,,Brazil,Brazil,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5172,DEM,opr,land_5172,Tyrkiet,Tyrkiet,,,Turkey,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5706,DEM,opr,land_5706,Hviderusland,Hviderusland,,,Belarus,Belarus,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5418,DEM,opr,land_5418,Sri Lanka,Sri Lanka,,,Sri Lanka,Sri Lanka,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5244,DEM,opr,land_5244,Marokko,Marokko,,,Morocco,Morocco,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5110,DEM,opr,land_5110,Norge,Norge,,,Norway,Norway,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5700,DEM,opr,land_5700,Rusland,Rusland,,,Russia,Russia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5106,DEM,opr,land_5106,Island,Island,,,Iceland,Iceland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5104,DEM,opr,land_5104,Finland,Finland,,,Finland,Finland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5404,DEM,opr,land_5404,Afghanistan,Afghanistan,,,Afghanistan,Afghanistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5758,DEM,opr,land_5758,"Yugoslavia, Federal Republic of","Jugoslavien, Forbundsrepublikken",,,"Yugoslavia, Federal Republic of",,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5436,DEM,opr,land_5436,Irak,Irak,,,Iraq,Iraq,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5289,DEM,opr,land_5289,Somalia,Somalia,,,Somalia,Somalia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5255,DEM,opr,land_5255,Sierra Leone,Sierra Leone,,,Sierra Leone,Sierra Leone,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5142,DEM,opr,land_5142,Irland,Irland,,,Ireland,Ireland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5712,DEM,opr,land_5712,Moldova,Moldova,,,Moldova,Moldova,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5488,DEM,opr,land_5488,Vietnam,Vietnam,,,Vietnam,Vietnam,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5152,DEM,opr,land_5152,Jugoslavien,Jugoslavien,,,Yugoslavia,Yugoslavia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5472,DEM,opr,land_5472,Pakistan,Pakistan,,,Pakistan,Pakistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5102,DEM,opr,land_5102,"Abroad, unspecified",Udlandet uoplyst,,,"Abroad, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5174,DEM,opr,land_5174,Ungarn,Ungarn,,,Hungary,Hungary,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5448,DEM,opr,land_5448,Kina,Kina,,,China,China,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5484,DEM,opr,land_5484,Sydkorea,Sydkorea,,,South Korea,South Korea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5464,DEM,opr,land_5464,Nepal,Nepal,,,Nepal,Nepal,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5134,DEM,opr,land_5134,Grækenland,Grækenland,,,Greece,Greece,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5128,DEM,opr,land_5128,Bulgarien,Bulgarien,,,Bulgaria,Bulgaria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5438,DEM,opr,land_5438,Iran,Iran,,,Iran,Iran,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5754,DEM,opr,land_5754,Bosnien-Hercegovina,Bosnien-Hercegovina,,,Bosnia and Herzegovina,Bosnia and Herzegovina,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5444,DEM,opr,land_5444,Japan,Japan,,,Japan,Japan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5164,DEM,opr,land_5164,Spanien,Spanien,,,Spain,Spain,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5514,DEM,opr,land_5514,New Zealand,New Zealand,,,New Zealand,New Zealand,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5410,DEM,opr,land_5410,Bangladesh,Bangladesh,,,Bangladesh,Bangladesh,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5316,DEM,opr,land_5316,Chile,Chile,,,Chile,Chile,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5281,DEM,opr,land_5281,Benin,Benin,,,Benin,Benin,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5757,DEM,opr,land_5757,Serbien,Serbien,,,Serbia,Serbia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5609,DEM,opr,land_5609,Letland,Letland,,,Latvia,Latvia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5776,DEM,opr,land_5776,Tjekkiet,Tjekkiet,,,Czech Republic,Czech Republic,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5156,DEM,opr,land_5156,Portugal,Portugal,,,Portugal,Portugal,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5318,DEM,opr,land_5318,Colombia,Colombia,,,Colombia,Colombia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5287,DEM,opr,land_5287,Rwanda,Rwanda,,,Rwanda,Rwanda,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5214,DEM,opr,land_5214,Etiopien,Etiopien,,,Ethiopia,Ethiopia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5228,DEM,opr,land_5228,Ghana,Ghana,,,Ghana,Ghana,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5324,DEM,opr,land_5324,Cuba,Cuba,,,Cuba,Cuba,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5278,DEM,opr,land_5278,"Congo, Demokratiske Republik","Congo, Demokratiske Republik",,,Democratic Republic of the Congo,Democratic Republic of the Congo,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5756,DEM,opr,land_5756,Nordmakedonien,Nordmakedonien,,,North Macedonia,North Macedonia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5607,DEM,opr,land_5607,Estland,Estland,,,Estonia,Estonia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5392,DEM,opr,land_5392,Venezuela,Venezuela,,,Venezuela,Venezuela,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5222,DEM,opr,land_5222,Gambia,Gambia,,,Gambia,Gambia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5202,DEM,opr,land_5202,Algeriet,Algeriet,,,Algeria,Algeria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5502,DEM,opr,land_5502,Australien,Australien,,,Australia,Australia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5446,DEM,opr,land_5446,Jordan,Jordan,,,Jordan,Jordan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5272,DEM,opr,land_5272,Egypten,Egypten,,,Egypten,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5434,DEM,opr,land_5434,Indonesien,Indonesien,,,Indonesia,Indonesia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5109,DEM,opr,land_5109,Monaco,Monaco,,,Monaco,Monaco,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5458,DEM,opr,land_5458,Malaysia,Malaysia,,,Malaysia,Malaysia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5354,DEM,opr,land_5354,Mexico,Mexico,,,Mexico,Mexico,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5366,DEM,opr,land_5366,Peru,Peru,,,Peru,Peru,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5778,DEM,opr,land_5778,Slovakiet,Slovakiet,,,Slovakia,Slovakia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5714,DEM,opr,land_5714,Usbekistan,Usbekistan,,,Uzbekistan,Uzbekistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5262,DEM,opr,land_5262,Sydafrika,Sydafrika,,,South Africa,South Africa,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5304,DEM,opr,land_5304,Bolivia,Bolivia,,,Bolivia,Bolivia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5302,DEM,opr,land_5302,Argentina,Argentina,,,Argentina,Argentina,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5268,DEM,opr,land_5268,Tunesien,Tunesien,,,Tunisia,Tunisia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5216,DEM,opr,land_5216,Eritrea,Eritrea,,,Eritrea,Eritrea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5716,DEM,opr,land_5716,Kasakhstan,Kasakhstan,,,Kazakhstan,Kazakhstan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5482,DEM,opr,land_5482,Singapore,Singapore,,,Singapore,Singapore,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5162,DEM,opr,land_5162,Sovjetunionen,Sovjetunionen,,,Soviet Union,Soviet Union,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5376,DEM,opr,land_5376,Uruguay,Uruguay,,,Uruguay,Uruguay,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5151,DEM,opr,land_5151,Serbien og Montenegro,Serbien og Montenegro,,,Serbia and Montenegro,Serbia and Montenegro,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5234,DEM,opr,land_5234,Kenya,Kenya,,,Kenya,Kenya,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5466,DEM,opr,land_5466,Nordkorea,Nordkorea,,,North Korea,North Korea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5422,DEM,opr,land_5422,Cypern,Cypern,,,Cyprus,Cyprus,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5414,DEM,opr,land_5414,Myanmar,Myanmar,,,Myanmar,Myanmar,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5314,DEM,opr,land_5314,Canada,Canada,,,Canada,Canada,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5108,DEM,opr,land_5108,Luxembourg,Luxembourg,,,Luxembourg,Luxembourg,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5129,DEM,opr,land_5129,Tjekkoslovakiet,Tjekkoslovakiet,,,Czechoslovakia,Czechoslovakia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5247,DEM,opr,land_5247,Namibia,Namibia,,,Namibia,Namibia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5295,DEM,opr,land_5295,Zimbabwe,Zimbabwe,,,Zimbabwe,Zimbabwe,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5344,DEM,opr,land_5344,Surinam,Surinam,,,Suriname,Suriname,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5752,DEM,opr,land_5752,Slovenien,Slovenien,,,Slovenia,Slovenia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5326,DEM,opr,land_5326,Dominikanske Republik,Dominikanske Republik,,,Dominikanske Republik,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5724,DEM,opr,land_5724,Georgien,Georgien,,,Georgia,Georgia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5126,DEM,opr,land_5126,Belgien,Belgien,,,Belgium,Belgium,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5328,DEM,opr,land_5328,Ecuador,Ecuador,,,Ecuador,Ecuador,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5160,DEM,opr,land_5160,Schweiz,Schweiz,,,Switzerland,Switzerland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5424,DEM,opr,land_5424,Taiwan,Taiwan,,,Taiwan,Taiwan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5204,DEM,opr,land_5204,Angola,Angola,,,Angola,Angola,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5442,DEM,opr,land_5442,Israel,Israel,,,Israel,Israel,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5708,DEM,opr,land_5708,Armenien,Armenien,,,Armenia,Armenia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5338,DEM,opr,land_5338,Guatemala,Guatemala,,,Guatemala,Guatemala,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5103,DEM,opr,land_5103,Statsløse,Statsløse,,,Stateless,Stateless,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5269,DEM,opr,land_5269,Uganda,Uganda,,,Uganda,Uganda,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5243,DEM,opr,land_5243,Mali,Mali,,,Mali,Mali,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5478,DEM,opr,land_5478,Saudi-Arabien,Saudi-Arabien,,,Saudi Arabia,Saudi Arabia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5452,DEM,opr,land_5452,Kuwait,Kuwait,,,Kuwait,Kuwait,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5288,DEM,opr,land_5288,Senegal,Senegal,,,Senegal,Senegal,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5258,DEM,opr,land_5258,Sudan,Sudan,,,Sudan,Sudan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5182,DEM,opr,land_5182,Østrig,Østrig,,,Austria,Austria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5459,DEM,opr,land_5459,Mongoliet,Mongoliet,,,Mongolia,Mongolia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5153,DEM,opr,land_5153,Malta,Malta,,,Malta,Malta,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5240,DEM,opr,land_5240,Mozambique,Mozambique,,,Mozambique,Mozambique,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5402,DEM,opr,land_5402,Yemen,Yemen,,,Yemen,Yemen,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5750,DEM,opr,land_5750,Kroatien,Kroatien,,,Croatia,Croatia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5213,DEM,opr,land_5213,Burundi,Burundi,,,Burundi,Burundi,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5266,DEM,opr,land_5266,Tanzania,Tanzania,,,Tanzania,Tanzania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5293,DEM,opr,land_5293,Togo,Togo,,,Togo,Togo,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5233,DEM,opr,land_5233,Kap Verde,Kap Verde,,,Cape Verde,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5710,DEM,opr,land_5710,Aserbajdsjan,Aserbajdsjan,,,Azerbaijan,Azerbaijan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5277,DEM,opr,land_5277,Cameroun,Cameroun,,,Cameroon,Cameroon,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5246,DEM,opr,land_5246,Nigeria,Nigeria,,,Nigeria,Nigeria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5122,DEM,opr,land_5122,Albanien,Albanien,,,Albania,Albania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5232,DEM,opr,land_5232,Guinea,Guinea,,,Guinea,Guinea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5358,DEM,opr,land_5358,Panama,Panama,,,Panama,Panama,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5282,DEM,opr,land_5282,Elfenbenskysten,Elfenbenskysten,,,Ivory Coast,Ivory Coast,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5759,DEM,opr,land_5759,Montenegro,Montenegro,,,Montenegro,Montenegro,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5761,DEM,opr,land_5761,Kosovo,Kosovo,,,Kosovo,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5356,DEM,opr,land_5356,Nicaragua,Nicaragua,,,Nicaragua,Nicaragua,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5406,DEM,opr,land_5406,Bahrain,Bahrain,,,Bahrain,Bahrain,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5207,DEM,opr,land_5207,Botswana,Botswana,,,Botswana,Botswana,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5720,DEM,opr,land_5720,Kirgisistan,Kirgisistan,,,Kyrgyzstan,Kyrgyzstan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5215,DEM,opr,land_5215,Comorerne,Comorerne,,,Comorerne,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5279,DEM,opr,land_5279,"Congo, Republikken","Congo, Republikken",,,"Congo, Republikken",,,copy-of-da,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5245,DEM,opr,land_5245,Mauritius,Mauritius,,,Mauritius,Mauritius,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5408,DEM,opr,land_5408,Bhutan,Bhutan,,,Bhutan,Bhutan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5298,DEM,opr,land_5298,Seychellerne,Seychellerne,,,Seychelles,Seychelles,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5322,DEM,opr,land_5322,Costa Rica,Costa Rica,,,Costa Rica,Costa Rica,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5374,DEM,opr,land_5374,Trinidad og Tobago,Trinidad og Tobago,,,Trinidad and Tobago,Trinidad and Tobago,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5296,DEM,opr,land_5296,Zambia,Zambia,,,Zambia,Zambia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5487,DEM,opr,land_5487,Mellemøsten uoplyst,Mellemøsten uoplyst,,,Middle East unknown,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5416,DEM,opr,land_5416,Cambodja,Cambodja,,,Cambodia,Cambodia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5352,DEM,opr,land_5352,Jamaica,Jamaica,,,Jamaica,Jamaica,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5231,DEM,opr,land_5231,Guinea-Bissau,Guinea-Bissau,,,Guinea-Bissau,Guinea-Bissau,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5372,DEM,opr,land_5372,El Salvador,El Salvador,,,El Salvador,El Salvador,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5508,DEM,opr,land_5508,Fiji,Fiji,,,Fiji,Fiji,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5364,DEM,opr,land_5364,Paraguay,Paraguay,,,Paraguay,Paraguay,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5238,DEM,opr,land_5238,Libyen,Libyen,,,Libya,Libya,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5294,DEM,opr,land_5294,Burkina Faso,Burkina Faso,,,Burkina Faso,Burkina Faso,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5297,DEM,opr,land_5297,Malawi,Malawi,,,Malawi,Malawi,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5299,DEM,opr,land_5299,"Africa, unspecified",Afrika uoplyst,,,"Africa, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5397,DEM,opr,land_5397,"North America, unspecified",Nordamerika uoplyst,,,"North America, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5345,DEM,opr,land_5345,Dominica,Dominica,,,Dominica,Dominica,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5303,DEM,opr,land_5303,Bahamas,Bahamas,,,Bahamas,Bahamas,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5259,DEM,opr,land_5259,Swaziland,Swaziland,,,Eswatini,Eswatini,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5242,DEM,opr,land_5242,Madagaskar,Madagaskar,,,Madagascar,Madagascar,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5308,DEM,opr,land_5308,Guyana,Guyana,,,Guyana,Guyana,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5403,DEM,opr,land_5403,Forenede Arabiske Emirater,Forenede Arabiske Emirater,,,Forenede Arabiske Emirater,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5999,DEM,opr,land_5999,"Abroad, unspecified",Udlandet uoplyst,,,"Abroad, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5505,DEM,opr,land_5505,Tonga,Tonga,,,Tonga,Tonga,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5001,DEM,opr,land_5001,Completely unspecified,Helt uoplyst,,,Completely unspecified,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5522,DEM,opr,land_5522,Samoa,Samoa,,,Samoa,Samoa,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5342,DEM,opr,land_5342,Haiti,Haiti,,,Haiti,Haiti,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5348,DEM,opr,land_5348,Honduras,Honduras,,,Honduras,Honduras,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5395,DEM,opr,land_5395,Vestindiske Øer,Vestindiske Øer,,,West Indies,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5454,DEM,opr,land_5454,Laos,Laos,,,Laos,Laos,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5276,DEM,opr,land_5276,Centralafrikanske Republik,Centralafrikanske Republik,,,Central African Republic,Central African Republic,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5457,DEM,opr,land_5457,Maldiverne,Maldiverne,,,Maldives,Maldives,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5230,DEM,opr,land_5230,Ækvatorialguinea,Ækvatorialguinea,,,Equatorial Guinea,Equatorial Guinea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5525,DEM,opr,land_5525,Djibouti,Djibouti,,,Djibouti,Djibouti,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5199,DEM,opr,land_5199,"Europe, unspecified",Europa uoplyst,,,"Europe, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5284,DEM,opr,land_5284,Mauretanien,Mauretanien,,,Mauritania,Mauritania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5285,DEM,opr,land_5285,Niger,Niger,,,Niger,Niger,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5274,DEM,opr,land_5274,Kiribati,Kiribati,,,Kiribati,Kiribati,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5159,DEM,opr,land_5159,San Marino,San Marino,,,San Marino,San Marino,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5462,DEM,opr,land_5462,Oman,Oman,,,Oman,Oman,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5722,DEM,opr,land_5722,Tadsjikistan,Tadsjikistan,,,Tajikistan,Tajikistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5499,DEM,opr,land_5499,"Asia, unspecified",Asien uoplyst,,,"Asia, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5157,DEM,opr,land_5157,Kosovo,,,,Kosovo,,,translated,none|generated,medium,danish,,
-DEM_opr_land_5496,DEM,opr,land_5496,Qatar,Qatar,,,Qatar,Qatar,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5305,DEM,opr,land_5305,Barbados,Barbados,,,Barbados,Barbados,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5105,DEM,opr,land_5105,"Island, ligeret dansk","Island, ligeret dansk",,,"Iceland, located in Denmark",,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5115,DEM,opr,land_5115,Kongelig,Kongelig,,,Kongelig,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5800,DEM,opr,land_5800,Completely unspecified,Helt uoplyst,,,Completely unspecified,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5260,DEM,opr,land_5260,Sydsudan,Sydsudan,,,South Sudan,South Sudan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5718,DEM,opr,land_5718,Turkmenistan,Turkmenistan,,,Turkmenistan,Turkmenistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5347,DEM,opr,land_5347,Skt. Lucia,Skt. Lucia,,,Skt. Lucia,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5236,DEM,opr,land_5236,Liberia,Liberia,,,Liberia,Liberia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5339,DEM,opr,land_5339,Grenada,Grenada,,,Grenada,Grenada,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5526,DEM,opr,land_5526,Belize,Belize,,,Belize,Belize,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5621,DEM,opr,land_5621,Sao Tome og Principe,Sao Tome og Principe,,,São Tomé and Príncipe,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5235,DEM,opr,land_5235,Lesotho,Lesotho,,,Lesotho,Lesotho,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5412,DEM,opr,land_5412,Brunei,Brunei,,,Brunei,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5283,DEM,opr,land_5283,Gabon,Gabon,,,Gabon,Gabon,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5599,DEM,opr,land_5599,Øer i Stillehavet,Øer i Stillehavet,,,Pacific Islands,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5309,DEM,opr,land_5309,Antigua og Barbuda,Antigua og Barbuda,,,Antigua and Barbuda,Antigua and Barbuda,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5107,DEM,opr,land_5107,Liechtenstein,Liechtenstein,,,Liechtenstein,Liechtenstein,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5124,DEM,opr,land_5124,Andorra,Andorra,,,Andorra,Andorra,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5393,DEM,opr,land_5393,[UNMAPPED] DEM_opr code: land_5393,,,,[UNMAPPED] DEM_opr code: land_5393,,,translated,none,medium,danish,,
-DEM_opr_land_5534,DEM,opr,land_5534,Papua Ny Guinea,Papua Ny Guinea,,,Papua New Guinea,Papua New Guinea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5223,DEM,opr,land_5223,[UNMAPPED] DEM_opr code: land_5223,,,,[UNMAPPED] DEM_opr code: land_5223,,,translated,none,medium,danish,,
-DEM_opr_land_5292,DEM,opr,land_5292,Tchad,Tchad,,,Chad,Chad,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5435,DEM,opr,land_5435,Timor-Leste,Timor-Leste,,,Timor-Leste,Timor-Leste,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5398,DEM,opr,land_5398,Syd- og Mellemamerika uoplyst,Syd- og Mellemamerika uoplyst,,,South and Central America unknown,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5275,DEM,opr,land_5275,Vanuatu,Vanuatu,,,Vanuatu,Vanuatu,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5625,DEM,opr,land_5625,Skt. Kitts og Nevis,Skt. Kitts og Nevis,,,Saint Kitts and Nevis,Saint Kitts and Nevis,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5623,DEM,opr,land_5623,Salomonøerne,Salomonøerne,,,Solomon Islands,Solomon Islands,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5311,DEM,opr,land_5311,Skt. Vincent og Grenadinerne,Skt. Vincent og Grenadinerne,,,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5273,DEM,opr,land_5273,Tuvalu,Tuvalu,,,Tuvalu,Tuvalu,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5779,DEM,opr,land_5779,Cookøerne,Cookøerne,,,Cook Islands,Cook Islands,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5176,DEM,opr,land_5176,Vatikanstaten,Vatikanstaten,,,Vatican City,,,translated,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5248,DEM,opr,land_5248,Marshalløerne,Marshalløerne,,,Marshall Islands,Marshall Islands,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
-DEM_opr_land_5310,DEM,opr,land_5310,Nauru,Nauru,,,Nauru,Nauru,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+DEM_opr_land_5100,DEM,opr,land_5100,Danmark,Danmark,,,Denmark,Denmark,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,7253426,7253426,0.803376
+DEM_opr_land_unknown,DEM,opr,land_unknown,Country: unknown,,,,Country: unknown,,,translated,none|generated,medium,danish,,,,,
+DEM_opr_land_5704,DEM,opr,land_5704,Ukraine,Ukraine,,,Ukraine,Ukraine,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,69360,69360,0.007682
+DEM_opr_land_5486,DEM,opr,land_5486,Syrien,Syrien,,,Syria,Syria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,51173,51173,0.005668
+DEM_opr_land_5456,DEM,opr,land_5456,Libanon,Libanon,,,Lebanon,Lebanon,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,32679,32679,0.003619
+DEM_opr_land_5390,DEM,opr,land_5390,USA,USA,,,United States,United States,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,73930,73930,0.008188
+DEM_opr_land_5492,DEM,opr,land_5492,Thailand,Thailand,,,Thailand,Thailand,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,20194,20194,0.002237
+DEM_opr_land_5170,DEM,opr,land_5170,Storbritannien,Storbritannien,,,United Kingdom,United Kingdom,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,47366,47366,0.005246
+DEM_opr_land_5611,DEM,opr,land_5611,Litauen,Litauen,,,Lithuania,Lithuania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,34784,34784,0.003853
+DEM_opr_land_5140,DEM,opr,land_5140,Nederlandene,Nederlandene,,,Netherlands,Netherlands,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,23010,23010,0.002549
+DEM_opr_land_5150,DEM,opr,land_5150,Italien,Italien,,,Italy,Italy,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,33437,33437,0.003703
+DEM_opr_land_5474,DEM,opr,land_5474,Filippinerne,Filippinerne,,,Philippines,Philippines,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,30813,30813,0.003413
+DEM_opr_land_5154,DEM,opr,land_5154,Polen,Polen,,,Poland,Poland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,103146,103146,0.011424
+DEM_opr_land_5158,DEM,opr,land_5158,Rumænien,Rumænien,,,Romania,Romania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,76136,76136,0.008433
+DEM_opr_land_5130,DEM,opr,land_5130,Frankrig,Frankrig,,,France,France,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,32112,32112,0.003557
+DEM_opr_land_5432,DEM,opr,land_5432,Indien,Indien,,,India,India,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,44525,44525,0.004932
+DEM_opr_land_5180,DEM,opr,land_5180,Tyskland,Tyskland,,,Germany,Germany,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,106354,106354,0.01178
+DEM_opr_land_5120,DEM,opr,land_5120,Sverige,Sverige,,,Sweden,Sweden,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,52058,52058,0.005766
+DEM_opr_land_5306,DEM,opr,land_5306,Brasilien,Brasilien,,,Brazil,Brazil,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,12852,12852,0.001423
+DEM_opr_land_5172,DEM,opr,land_5172,Tyrkiet,Tyrkiet,,,Turkey,,,translated,CSV:DEM_opr_land,medium,danish,,,82737,82737,0.009164
+DEM_opr_land_5706,DEM,opr,land_5706,Hviderusland,Hviderusland,,,Belarus,Belarus,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1760,1760,0.000195
+DEM_opr_land_5418,DEM,opr,land_5418,Sri Lanka,Sri Lanka,,,Sri Lanka,Sri Lanka,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,16556,16556,0.001834
+DEM_opr_land_5244,DEM,opr,land_5244,Marokko,Marokko,,,Morocco,Morocco,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,14917,14917,0.001652
+DEM_opr_land_5110,DEM,opr,land_5110,Norge,Norge,,,Norway,Norway,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,60752,60752,0.006729
+DEM_opr_land_5700,DEM,opr,land_5700,Rusland,Rusland,,,Russia,Russia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,16313,16313,0.001807
+DEM_opr_land_5106,DEM,opr,land_5106,Island,Island,,,Iceland,Iceland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,35883,35883,0.003974
+DEM_opr_land_5104,DEM,opr,land_5104,Finland,Finland,,,Finland,Finland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,15672,15672,0.001736
+DEM_opr_land_5404,DEM,opr,land_5404,Afghanistan,Afghanistan,,,Afghanistan,Afghanistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,24401,24401,0.002703
+DEM_opr_land_5758,DEM,opr,land_5758,"Yugoslavia, Federal Republic of","Jugoslavien, Forbundsrepublikken",,,"Yugoslavia, Federal Republic of",,,translated,CSV:DEM_opr_land,medium,danish,,,2692,2692,0.000298
+DEM_opr_land_5436,DEM,opr,land_5436,Irak,Irak,,,Iraq,Iraq,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,41776,41776,0.004627
+DEM_opr_land_5289,DEM,opr,land_5289,Somalia,Somalia,,,Somalia,Somalia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,34563,34563,0.003828
+DEM_opr_land_5255,DEM,opr,land_5255,Sierra Leone,Sierra Leone,,,Sierra Leone,Sierra Leone,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,705,705,7.8e-05
+DEM_opr_land_5142,DEM,opr,land_5142,Irland,Irland,,,Ireland,Ireland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,6387,6387,0.000707
+DEM_opr_land_5712,DEM,opr,land_5712,Moldova,Moldova,,,Moldova,Moldova,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3565,3565,0.000395
+DEM_opr_land_5488,DEM,opr,land_5488,Vietnam,Vietnam,,,Vietnam,Vietnam,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,21514,21514,0.002383
+DEM_opr_land_5152,DEM,opr,land_5152,Jugoslavien,Jugoslavien,,,Yugoslavia,Yugoslavia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,21711,21711,0.002405
+DEM_opr_land_5472,DEM,opr,land_5472,Pakistan,Pakistan,,,Pakistan,Pakistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,39497,39497,0.004375
+DEM_opr_land_5102,DEM,opr,land_5102,"Abroad, unspecified",Udlandet uoplyst,,,"Abroad, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,,957,957,0.000106
+DEM_opr_land_5174,DEM,opr,land_5174,Ungarn,Ungarn,,,Hungary,Hungary,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,15988,15988,0.001771
+DEM_opr_land_5448,DEM,opr,land_5448,Kina,Kina,,,China,China,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,42852,42852,0.004746
+DEM_opr_land_5484,DEM,opr,land_5484,Sydkorea,Sydkorea,,,South Korea,South Korea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,5683,5683,0.000629
+DEM_opr_land_5464,DEM,opr,land_5464,Nepal,Nepal,,,Nepal,Nepal,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,14165,14165,0.001569
+DEM_opr_land_5134,DEM,opr,land_5134,Grækenland,Grækenland,,,Greece,Greece,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,9335,9335,0.001034
+DEM_opr_land_5128,DEM,opr,land_5128,Bulgarien,Bulgarien,,,Bulgaria,Bulgaria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,23149,23149,0.002564
+DEM_opr_land_5438,DEM,opr,land_5438,Iran,Iran,,,Iran,Iran,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,35644,35644,0.003948
+DEM_opr_land_5754,DEM,opr,land_5754,Bosnien-Hercegovina,Bosnien-Hercegovina,,,Bosnia and Herzegovina,Bosnia and Herzegovina,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,29601,29601,0.003279
+DEM_opr_land_5444,DEM,opr,land_5444,Japan,Japan,,,Japan,Japan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,11051,11051,0.001224
+DEM_opr_land_5164,DEM,opr,land_5164,Spanien,Spanien,,,Spain,Spain,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,29496,29496,0.003267
+DEM_opr_land_5514,DEM,opr,land_5514,New Zealand,New Zealand,,,New Zealand,New Zealand,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2994,2994,0.000332
+DEM_opr_land_5410,DEM,opr,land_5410,Bangladesh,Bangladesh,,,Bangladesh,Bangladesh,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,6736,6736,0.000746
+DEM_opr_land_5316,DEM,opr,land_5316,Chile,Chile,,,Chile,Chile,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,5555,5555,0.000615
+DEM_opr_land_5281,DEM,opr,land_5281,Benin,Benin,,,Benin,Benin,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,150,150,1.7e-05
+DEM_opr_land_5757,DEM,opr,land_5757,Serbien,Serbien,,,Serbia,Serbia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3217,3217,0.000356
+DEM_opr_land_5609,DEM,opr,land_5609,Letland,Letland,,,Latvia,Latvia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,14738,14738,0.001632
+DEM_opr_land_5776,DEM,opr,land_5776,Tjekkiet,Tjekkiet,,,Czech Republic,Czech Republic,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,7334,7334,0.000812
+DEM_opr_land_5156,DEM,opr,land_5156,Portugal,Portugal,,,Portugal,Portugal,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,9132,9132,0.001011
+DEM_opr_land_5318,DEM,opr,land_5318,Colombia,Colombia,,,Colombia,Colombia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,4015,4015,0.000445
+DEM_opr_land_5287,DEM,opr,land_5287,Rwanda,Rwanda,,,Rwanda,Rwanda,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,723,723,8e-05
+DEM_opr_land_5214,DEM,opr,land_5214,Etiopien,Etiopien,,,Ethiopia,Ethiopia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3524,3524,0.00039
+DEM_opr_land_5228,DEM,opr,land_5228,Ghana,Ghana,,,Ghana,Ghana,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,5957,5957,0.00066
+DEM_opr_land_5324,DEM,opr,land_5324,Cuba,Cuba,,,Cuba,Cuba,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1025,1025,0.000114
+DEM_opr_land_5278,DEM,opr,land_5278,"Congo, Demokratiske Republik","Congo, Demokratiske Republik",,,Democratic Republic of the Congo,Democratic Republic of the Congo,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2752,2752,0.000305
+DEM_opr_land_5756,DEM,opr,land_5756,Nordmakedonien,Nordmakedonien,,,North Macedonia,North Macedonia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,6655,6655,0.000737
+DEM_opr_land_5607,DEM,opr,land_5607,Estland,Estland,,,Estonia,Estonia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,4970,4970,0.00055
+DEM_opr_land_5392,DEM,opr,land_5392,Venezuela,Venezuela,,,Venezuela,Venezuela,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2032,2032,0.000225
+DEM_opr_land_5222,DEM,opr,land_5222,Gambia,Gambia,,,Gambia,Gambia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1543,1543,0.000171
+DEM_opr_land_5202,DEM,opr,land_5202,Algeriet,Algeriet,,,Algeria,Algeria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2423,2423,0.000268
+DEM_opr_land_5502,DEM,opr,land_5502,Australien,Australien,,,Australia,Australia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,13009,13009,0.001441
+DEM_opr_land_5446,DEM,opr,land_5446,Jordan,Jordan,,,Jordan,Jordan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3166,3166,0.000351
+DEM_opr_land_5272,DEM,opr,land_5272,Egypten,Egypten,,,Egypten,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,,4935,4935,0.000547
+DEM_opr_land_5434,DEM,opr,land_5434,Indonesien,Indonesien,,,Indonesia,Indonesia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3208,3208,0.000355
+DEM_opr_land_5109,DEM,opr,land_5109,Monaco,Monaco,,,Monaco,Monaco,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,51,51,6e-06
+DEM_opr_land_5458,DEM,opr,land_5458,Malaysia,Malaysia,,,Malaysia,Malaysia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2004,2004,0.000222
+DEM_opr_land_5354,DEM,opr,land_5354,Mexico,Mexico,,,Mexico,Mexico,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,5311,5311,0.000588
+DEM_opr_land_5366,DEM,opr,land_5366,Peru,Peru,,,Peru,Peru,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2148,2148,0.000238
+DEM_opr_land_5778,DEM,opr,land_5778,Slovakiet,Slovakiet,,,Slovakia,Slovakia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,8605,8605,0.000953
+DEM_opr_land_5714,DEM,opr,land_5714,Usbekistan,Usbekistan,,,Uzbekistan,Uzbekistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,892,892,9.9e-05
+DEM_opr_land_5262,DEM,opr,land_5262,Sydafrika,Sydafrika,,,South Africa,South Africa,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3824,3824,0.000424
+DEM_opr_land_5304,DEM,opr,land_5304,Bolivia,Bolivia,,,Bolivia,Bolivia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,583,583,6.5e-05
+DEM_opr_land_5302,DEM,opr,land_5302,Argentina,Argentina,,,Argentina,Argentina,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,13465,13465,0.001491
+DEM_opr_land_5268,DEM,opr,land_5268,Tunesien,Tunesien,,,Tunisia,Tunisia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2388,2388,0.000264
+DEM_opr_land_5216,DEM,opr,land_5216,Eritrea,Eritrea,,,Eritrea,Eritrea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,8913,8913,0.000987
+DEM_opr_land_5716,DEM,opr,land_5716,Kasakhstan,Kasakhstan,,,Kazakhstan,Kazakhstan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,935,935,0.000104
+DEM_opr_land_5482,DEM,opr,land_5482,Singapore,Singapore,,,Singapore,Singapore,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3132,3132,0.000347
+DEM_opr_land_5162,DEM,opr,land_5162,Sovjetunionen,Sovjetunionen,,,Soviet Union,Soviet Union,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3471,3471,0.000384
+DEM_opr_land_5376,DEM,opr,land_5376,Uruguay,Uruguay,,,Uruguay,Uruguay,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,730,730,8.1e-05
+DEM_opr_land_5151,DEM,opr,land_5151,Serbien og Montenegro,Serbien og Montenegro,,,Serbia and Montenegro,Serbia and Montenegro,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1645,1645,0.000182
+DEM_opr_land_5234,DEM,opr,land_5234,Kenya,Kenya,,,Kenya,Kenya,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3121,3121,0.000346
+DEM_opr_land_5466,DEM,opr,land_5466,Nordkorea,Nordkorea,,,North Korea,North Korea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,716,716,7.9e-05
+DEM_opr_land_5422,DEM,opr,land_5422,Cypern,Cypern,,,Cyprus,Cyprus,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,625,625,6.9e-05
+DEM_opr_land_5414,DEM,opr,land_5414,Myanmar,Myanmar,,,Myanmar,Myanmar,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2887,2887,0.00032
+DEM_opr_land_5314,DEM,opr,land_5314,Canada,Canada,,,Canada,Canada,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,12635,12635,0.001399
+DEM_opr_land_5108,DEM,opr,land_5108,Luxembourg,Luxembourg,,,Luxembourg,Luxembourg,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,546,546,6e-05
+DEM_opr_land_5129,DEM,opr,land_5129,Tjekkoslovakiet,Tjekkoslovakiet,,,Czechoslovakia,Czechoslovakia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1648,1648,0.000183
+DEM_opr_land_5247,DEM,opr,land_5247,Namibia,Namibia,,,Namibia,Namibia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,198,198,2.2e-05
+DEM_opr_land_5295,DEM,opr,land_5295,Zimbabwe,Zimbabwe,,,Zimbabwe,Zimbabwe,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,863,863,9.6e-05
+DEM_opr_land_5344,DEM,opr,land_5344,Surinam,Surinam,,,Suriname,Suriname,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,73,73,8e-06
+DEM_opr_land_5752,DEM,opr,land_5752,Slovenien,Slovenien,,,Slovenia,Slovenia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1685,1685,0.000187
+DEM_opr_land_5326,DEM,opr,land_5326,Dominikanske Republik,Dominikanske Republik,,,Dominikanske Republik,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,,408,408,4.5e-05
+DEM_opr_land_5724,DEM,opr,land_5724,Georgien,Georgien,,,Georgia,Georgia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,718,718,8e-05
+DEM_opr_land_5126,DEM,opr,land_5126,Belgien,Belgien,,,Belgium,Belgium,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,7553,7553,0.000837
+DEM_opr_land_5328,DEM,opr,land_5328,Ecuador,Ecuador,,,Ecuador,Ecuador,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1099,1099,0.000122
+DEM_opr_land_5160,DEM,opr,land_5160,Schweiz,Schweiz,,,Switzerland,Switzerland,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,6929,6929,0.000767
+DEM_opr_land_5424,DEM,opr,land_5424,Taiwan,Taiwan,,,Taiwan,Taiwan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1726,1726,0.000191
+DEM_opr_land_5204,DEM,opr,land_5204,Angola,Angola,,,Angola,Angola,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,543,543,6e-05
+DEM_opr_land_5442,DEM,opr,land_5442,Israel,Israel,,,Israel,Israel,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,4036,4036,0.000447
+DEM_opr_land_5708,DEM,opr,land_5708,Armenien,Armenien,,,Armenia,Armenia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1355,1355,0.00015
+DEM_opr_land_5338,DEM,opr,land_5338,Guatemala,Guatemala,,,Guatemala,Guatemala,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,387,387,4.3e-05
+DEM_opr_land_5103,DEM,opr,land_5103,Statsløse,Statsløse,,,Stateless,Stateless,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1631,1631,0.000181
+DEM_opr_land_5269,DEM,opr,land_5269,Uganda,Uganda,,,Uganda,Uganda,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3417,3417,0.000378
+DEM_opr_land_5243,DEM,opr,land_5243,Mali,Mali,,,Mali,Mali,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,99,99,1.1e-05
+DEM_opr_land_5478,DEM,opr,land_5478,Saudi-Arabien,Saudi-Arabien,,,Saudi Arabia,Saudi Arabia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,784,784,8.7e-05
+DEM_opr_land_5452,DEM,opr,land_5452,Kuwait,Kuwait,,,Kuwait,Kuwait,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3013,3013,0.000334
+DEM_opr_land_5288,DEM,opr,land_5288,Senegal,Senegal,,,Senegal,Senegal,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,385,385,4.3e-05
+DEM_opr_land_5258,DEM,opr,land_5258,Sudan,Sudan,,,Sudan,Sudan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1673,1673,0.000185
+DEM_opr_land_5182,DEM,opr,land_5182,Østrig,Østrig,,,Austria,Austria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,7014,7014,0.000777
+DEM_opr_land_5459,DEM,opr,land_5459,Mongoliet,Mongoliet,,,Mongolia,Mongolia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,209,209,2.3e-05
+DEM_opr_land_5153,DEM,opr,land_5153,Malta,Malta,,,Malta,Malta,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,302,302,3.3e-05
+DEM_opr_land_5240,DEM,opr,land_5240,Mozambique,Mozambique,,,Mozambique,Mozambique,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,604,604,6.7e-05
+DEM_opr_land_5402,DEM,opr,land_5402,Yemen,Yemen,,,Yemen,Yemen,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,465,465,5.2e-05
+DEM_opr_land_5750,DEM,opr,land_5750,Kroatien,Kroatien,,,Croatia,Croatia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,5380,5380,0.000596
+DEM_opr_land_5213,DEM,opr,land_5213,Burundi,Burundi,,,Burundi,Burundi,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1039,1039,0.000115
+DEM_opr_land_5266,DEM,opr,land_5266,Tanzania,Tanzania,,,Tanzania,Tanzania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2148,2148,0.000238
+DEM_opr_land_5293,DEM,opr,land_5293,Togo,Togo,,,Togo,Togo,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,319,319,3.5e-05
+DEM_opr_land_5233,DEM,opr,land_5233,Kap Verde,Kap Verde,,,Cape Verde,,,translated,CSV:DEM_opr_land,medium,danish,,,69,69,8e-06
+DEM_opr_land_5710,DEM,opr,land_5710,Aserbajdsjan,Aserbajdsjan,,,Azerbaijan,Azerbaijan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,887,887,9.8e-05
+DEM_opr_land_5277,DEM,opr,land_5277,Cameroun,Cameroun,,,Cameroon,Cameroon,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2319,2319,0.000257
+DEM_opr_land_5246,DEM,opr,land_5246,Nigeria,Nigeria,,,Nigeria,Nigeria,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3916,3916,0.000434
+DEM_opr_land_5122,DEM,opr,land_5122,Albanien,Albanien,,,Albania,Albania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1832,1832,0.000203
+DEM_opr_land_5232,DEM,opr,land_5232,Guinea,Guinea,,,Guinea,Guinea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,306,306,3.4e-05
+DEM_opr_land_5358,DEM,opr,land_5358,Panama,Panama,,,Panama,Panama,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,241,241,2.7e-05
+DEM_opr_land_5282,DEM,opr,land_5282,Elfenbenskysten,Elfenbenskysten,,,Ivory Coast,Ivory Coast,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1008,1008,0.000112
+DEM_opr_land_5759,DEM,opr,land_5759,Montenegro,Montenegro,,,Montenegro,Montenegro,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,400,400,4.4e-05
+DEM_opr_land_5761,DEM,opr,land_5761,Kosovo,Kosovo,,,Kosovo,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,,1850,1850,0.000205
+DEM_opr_land_5356,DEM,opr,land_5356,Nicaragua,Nicaragua,,,Nicaragua,Nicaragua,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,332,332,3.7e-05
+DEM_opr_land_5406,DEM,opr,land_5406,Bahrain,Bahrain,,,Bahrain,Bahrain,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,162,162,1.8e-05
+DEM_opr_land_5207,DEM,opr,land_5207,Botswana,Botswana,,,Botswana,Botswana,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,112,112,1.2e-05
+DEM_opr_land_5720,DEM,opr,land_5720,Kirgisistan,Kirgisistan,,,Kyrgyzstan,Kyrgyzstan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,302,302,3.3e-05
+DEM_opr_land_5215,DEM,opr,land_5215,Comorerne,Comorerne,,,Comorerne,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,,69,69,8e-06
+DEM_opr_land_5279,DEM,opr,land_5279,"Congo, Republikken","Congo, Republikken",,,"Congo, Republikken",,,copy-of-da,CSV:DEM_opr_land,medium,danish,,,1178,1178,0.00013
+DEM_opr_land_5245,DEM,opr,land_5245,Mauritius,Mauritius,,,Mauritius,Mauritius,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,278,278,3.1e-05
+DEM_opr_land_5408,DEM,opr,land_5408,Bhutan,Bhutan,,,Bhutan,Bhutan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1008,1008,0.000112
+DEM_opr_land_5298,DEM,opr,land_5298,Seychellerne,Seychellerne,,,Seychelles,Seychelles,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,44,44,5e-06
+DEM_opr_land_5322,DEM,opr,land_5322,Costa Rica,Costa Rica,,,Costa Rica,Costa Rica,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,605,605,6.7e-05
+DEM_opr_land_5374,DEM,opr,land_5374,Trinidad og Tobago,Trinidad og Tobago,,,Trinidad and Tobago,Trinidad and Tobago,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,312,312,3.5e-05
+DEM_opr_land_5296,DEM,opr,land_5296,Zambia,Zambia,,,Zambia,Zambia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1030,1030,0.000114
+DEM_opr_land_5487,DEM,opr,land_5487,Mellemøsten uoplyst,Mellemøsten uoplyst,,,Middle East unknown,,,translated,CSV:DEM_opr_land,medium,danish,,,771,771,8.5e-05
+DEM_opr_land_5416,DEM,opr,land_5416,Cambodja,Cambodja,,,Cambodia,Cambodia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,537,537,5.9e-05
+DEM_opr_land_5352,DEM,opr,land_5352,Jamaica,Jamaica,,,Jamaica,Jamaica,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,372,372,4.1e-05
+DEM_opr_land_5231,DEM,opr,land_5231,Guinea-Bissau,Guinea-Bissau,,,Guinea-Bissau,Guinea-Bissau,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,491,491,5.4e-05
+DEM_opr_land_5372,DEM,opr,land_5372,El Salvador,El Salvador,,,El Salvador,El Salvador,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,176,176,1.9e-05
+DEM_opr_land_5508,DEM,opr,land_5508,Fiji,Fiji,,,Fiji,Fiji,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,56,56,6e-06
+DEM_opr_land_5364,DEM,opr,land_5364,Paraguay,Paraguay,,,Paraguay,Paraguay,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,263,263,2.9e-05
+DEM_opr_land_5238,DEM,opr,land_5238,Libyen,Libyen,,,Libya,Libya,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,605,605,6.7e-05
+DEM_opr_land_5294,DEM,opr,land_5294,Burkina Faso,Burkina Faso,,,Burkina Faso,Burkina Faso,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,151,151,1.7e-05
+DEM_opr_land_5297,DEM,opr,land_5297,Malawi,Malawi,,,Malawi,Malawi,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,130,130,1.4e-05
+DEM_opr_land_5299,DEM,opr,land_5299,"Africa, unspecified",Afrika uoplyst,,,"Africa, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,,319,319,3.5e-05
+DEM_opr_land_5397,DEM,opr,land_5397,"North America, unspecified",Nordamerika uoplyst,,,"North America, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,,29,29,3e-06
+DEM_opr_land_5345,DEM,opr,land_5345,Dominica,Dominica,,,Dominica,Dominica,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,37,37,4e-06
+DEM_opr_land_5303,DEM,opr,land_5303,Bahamas,Bahamas,,,Bahamas,Bahamas,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,30,30,3e-06
+DEM_opr_land_5259,DEM,opr,land_5259,Swaziland,Swaziland,,,Eswatini,Eswatini,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,79,79,9e-06
+DEM_opr_land_5242,DEM,opr,land_5242,Madagaskar,Madagaskar,,,Madagascar,Madagascar,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,134,134,1.5e-05
+DEM_opr_land_5308,DEM,opr,land_5308,Guyana,Guyana,,,Guyana,Guyana,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,174,174,1.9e-05
+DEM_opr_land_5403,DEM,opr,land_5403,Forenede Arabiske Emirater,Forenede Arabiske Emirater,,,Forenede Arabiske Emirater,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,,556,556,6.2e-05
+DEM_opr_land_5999,DEM,opr,land_5999,"Abroad, unspecified",Udlandet uoplyst,,,"Abroad, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,,143,143,1.6e-05
+DEM_opr_land_5505,DEM,opr,land_5505,Tonga,Tonga,,,Tonga,Tonga,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,36,36,4e-06
+DEM_opr_land_5001,DEM,opr,land_5001,Completely unspecified,Helt uoplyst,,,Completely unspecified,,,translated,CSV:DEM_opr_land,medium,danish,,,21,21,2e-06
+DEM_opr_land_5522,DEM,opr,land_5522,Samoa,Samoa,,,Samoa,Samoa,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,26,26,3e-06
+DEM_opr_land_5342,DEM,opr,land_5342,Haiti,Haiti,,,Haiti,Haiti,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,137,137,1.5e-05
+DEM_opr_land_5348,DEM,opr,land_5348,Honduras,Honduras,,,Honduras,Honduras,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,376,376,4.2e-05
+DEM_opr_land_5395,DEM,opr,land_5395,Vestindiske Øer,Vestindiske Øer,,,West Indies,,,translated,CSV:DEM_opr_land,medium,danish,,,55,55,6e-06
+DEM_opr_land_5454,DEM,opr,land_5454,Laos,Laos,,,Laos,Laos,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,144,144,1.6e-05
+DEM_opr_land_5276,DEM,opr,land_5276,Centralafrikanske Republik,Centralafrikanske Republik,,,Central African Republic,Central African Republic,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,55,55,6e-06
+DEM_opr_land_5457,DEM,opr,land_5457,Maldiverne,Maldiverne,,,Maldives,Maldives,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,26,26,3e-06
+DEM_opr_land_5230,DEM,opr,land_5230,Ækvatorialguinea,Ækvatorialguinea,,,Equatorial Guinea,Equatorial Guinea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,22,22,2e-06
+DEM_opr_land_5525,DEM,opr,land_5525,Djibouti,Djibouti,,,Djibouti,Djibouti,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,96,96,1.1e-05
+DEM_opr_land_5199,DEM,opr,land_5199,"Europe, unspecified",Europa uoplyst,,,"Europe, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,,84,84,9e-06
+DEM_opr_land_5284,DEM,opr,land_5284,Mauretanien,Mauretanien,,,Mauritania,Mauritania,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,58,58,6e-06
+DEM_opr_land_5285,DEM,opr,land_5285,Niger,Niger,,,Niger,Niger,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,47,47,5e-06
+DEM_opr_land_5274,DEM,opr,land_5274,Kiribati,Kiribati,,,Kiribati,Kiribati,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,8,8,1e-06
+DEM_opr_land_5159,DEM,opr,land_5159,San Marino,San Marino,,,San Marino,San Marino,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,12,12,1e-06
+DEM_opr_land_5462,DEM,opr,land_5462,Oman,Oman,,,Oman,Oman,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,45,45,5e-06
+DEM_opr_land_5722,DEM,opr,land_5722,Tadsjikistan,Tadsjikistan,,,Tajikistan,Tajikistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,103,103,1.1e-05
+DEM_opr_land_5499,DEM,opr,land_5499,"Asia, unspecified",Asien uoplyst,,,"Asia, unspecified",,,translated,CSV:DEM_opr_land,medium,danish,,,73,73,8e-06
+DEM_opr_land_5157,DEM,opr,land_5157,Kosovo,,,,Kosovo,,,translated,none|generated,medium,danish,,,17,17,2e-06
+DEM_opr_land_5496,DEM,opr,land_5496,Qatar,Qatar,,,Qatar,Qatar,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,130,130,1.4e-05
+DEM_opr_land_5305,DEM,opr,land_5305,Barbados,Barbados,,,Barbados,Barbados,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,69,69,8e-06
+DEM_opr_land_5105,DEM,opr,land_5105,"Island, ligeret dansk","Island, ligeret dansk",,,"Iceland, located in Denmark",,,translated,CSV:DEM_opr_land,medium,danish,,,81,81,9e-06
+DEM_opr_land_5115,DEM,opr,land_5115,Kongelig,Kongelig,,,Kongelig,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,,14,14,2e-06
+DEM_opr_land_5800,DEM,opr,land_5800,Completely unspecified,Helt uoplyst,,,Completely unspecified,,,translated,CSV:DEM_opr_land,medium,danish,,,8,8,1e-06
+DEM_opr_land_5260,DEM,opr,land_5260,Sydsudan,Sydsudan,,,South Sudan,South Sudan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,21,21,2e-06
+DEM_opr_land_5718,DEM,opr,land_5718,Turkmenistan,Turkmenistan,,,Turkmenistan,Turkmenistan,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,83,83,9e-06
+DEM_opr_land_5347,DEM,opr,land_5347,Skt. Lucia,Skt. Lucia,,,Skt. Lucia,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,,28,28,3e-06
+DEM_opr_land_5236,DEM,opr,land_5236,Liberia,Liberia,,,Liberia,Liberia,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,301,301,3.3e-05
+DEM_opr_land_5339,DEM,opr,land_5339,Grenada,Grenada,,,Grenada,Grenada,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,21,21,2e-06
+DEM_opr_land_5526,DEM,opr,land_5526,Belize,Belize,,,Belize,Belize,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,25,25,3e-06
+DEM_opr_land_5621,DEM,opr,land_5621,Sao Tome og Principe,Sao Tome og Principe,,,São Tomé and Príncipe,,,translated,CSV:DEM_opr_land,medium,danish,,,14,14,2e-06
+DEM_opr_land_5235,DEM,opr,land_5235,Lesotho,Lesotho,,,Lesotho,Lesotho,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,69,69,8e-06
+DEM_opr_land_5412,DEM,opr,land_5412,Brunei,Brunei,,,Brunei,,,copy-of-da,CSV:DEM_opr_land,medium,danish,,,35,35,4e-06
+DEM_opr_land_5283,DEM,opr,land_5283,Gabon,Gabon,,,Gabon,Gabon,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,29,29,3e-06
+DEM_opr_land_5599,DEM,opr,land_5599,Øer i Stillehavet,Øer i Stillehavet,,,Pacific Islands,,,translated,CSV:DEM_opr_land,medium,danish,,,8,8,1e-06
+DEM_opr_land_5309,DEM,opr,land_5309,Antigua og Barbuda,Antigua og Barbuda,,,Antigua and Barbuda,Antigua and Barbuda,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,6,6,1e-06
+DEM_opr_land_5107,DEM,opr,land_5107,Liechtenstein,Liechtenstein,,,Liechtenstein,Liechtenstein,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,43,43,5e-06
+DEM_opr_land_5124,DEM,opr,land_5124,Andorra,Andorra,,,Andorra,Andorra,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,22,22,2e-06
+DEM_opr_land_5393,DEM,opr,land_5393,[UNMAPPED] DEM_opr code: land_5393,,,,[UNMAPPED] DEM_opr code: land_5393,,,translated,none,medium,danish,,,2,2,0.0
+DEM_opr_land_5534,DEM,opr,land_5534,Papua Ny Guinea,Papua Ny Guinea,,,Papua New Guinea,Papua New Guinea,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,21,21,2e-06
+DEM_opr_land_5223,DEM,opr,land_5223,[UNMAPPED] DEM_opr code: land_5223,,,,[UNMAPPED] DEM_opr code: land_5223,,,translated,none,medium,danish,,,5,5,1e-06
+DEM_opr_land_5292,DEM,opr,land_5292,Tchad,Tchad,,,Chad,Chad,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,22,22,2e-06
+DEM_opr_land_5435,DEM,opr,land_5435,Timor-Leste,Timor-Leste,,,Timor-Leste,Timor-Leste,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,5,5,1e-06
+DEM_opr_land_5398,DEM,opr,land_5398,Syd- og Mellemamerika uoplyst,Syd- og Mellemamerika uoplyst,,,South and Central America unknown,,,translated,CSV:DEM_opr_land,medium,danish,,,28,28,3e-06
+DEM_opr_land_5275,DEM,opr,land_5275,Vanuatu,Vanuatu,,,Vanuatu,Vanuatu,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,7,7,1e-06
+DEM_opr_land_5625,DEM,opr,land_5625,Skt. Kitts og Nevis,Skt. Kitts og Nevis,,,Saint Kitts and Nevis,Saint Kitts and Nevis,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,8,8,1e-06
+DEM_opr_land_5623,DEM,opr,land_5623,Salomonøerne,Salomonøerne,,,Solomon Islands,Solomon Islands,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,5,5,1e-06
+DEM_opr_land_5311,DEM,opr,land_5311,Skt. Vincent og Grenadinerne,Skt. Vincent og Grenadinerne,,,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,8,8,1e-06
+DEM_opr_land_5273,DEM,opr,land_5273,Tuvalu,Tuvalu,,,Tuvalu,Tuvalu,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,3,3,0.0
+DEM_opr_land_5779,DEM,opr,land_5779,Cookøerne,Cookøerne,,,Cook Islands,Cook Islands,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1,1,0.0
+DEM_opr_land_5176,DEM,opr,land_5176,Vatikanstaten,Vatikanstaten,,,Vatican City,,,translated,CSV:DEM_opr_land,medium,danish,,,3,3,0.0
+DEM_opr_land_5248,DEM,opr,land_5248,Marshalløerne,Marshalløerne,,,Marshall Islands,Marshall Islands,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,1,1,0.0
+DEM_opr_land_5310,DEM,opr,land_5310,Nauru,Nauru,,,Nauru,Nauru,iso3166,iso3166,CSV:DEM_opr_land,medium,danish,,,2,2,0.0

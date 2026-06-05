@@ -1,41 +1,41 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-LAB_soc_status_kode_300,LAB,soc,status_kode_300,Udenfor arbejdsstyrken (partiel version),Udenfor arbejdsstyrken (partiel version),,,Outside labor force (partial version),,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_611,LAB,soc,status_kode_611,Barselsfravær fra beskæftigelse (ej primær status),Barselsfravær fra beskæftigelse (ej primær status),,,Maternity leave from employment (not primary status),,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_200,LAB,soc,status_kode_200,Arbejdsløse,Arbejdsløse,,,Unemployed,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_612,LAB,soc,status_kode_612,Sygefravær fra beskæftigelse (ej primær status),Sygefravær fra beskæftigelse (ej primær status),,,Sick leave from employment (not primary status),,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_120,LAB,soc,status_kode_120,Medarbejdende ægtefæller,Medarbejdende ægtefæller,,,Co-resident partner,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_135,LAB,soc,status_kode_135,Andre lønmodtagere,Andre lønmodtagere,,,Other wage earners,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_132,LAB,soc,status_kode_132,Lønmodtagere på højeste niveau,Lønmodtagere på højeste niveau,,,Wage earners at highest level,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_134,LAB,soc,status_kode_134,Lønmodtagere på grundniveau,Lønmodtagere på grundniveau,,,Wage earners at basic level,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_110,LAB,soc,status_kode_110,Selvstændige (primær status ult. nov.),Selvstændige (primær status ult. nov.),,,Self-employed (primary status ultimate as of Nov.),,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_133,LAB,soc,status_kode_133,Lønmodtagere på mellemniveau,Lønmodtagere på mellemniveau,,,Wage earners at intermediate level,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_136,LAB,soc,status_kode_136,Lønmodtagere u.n.a.,Lønmodtagere u.n.a.,,,Salary recipients u.n.a.,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_131,LAB,soc,status_kode_131,Lønmodtagere med ledelsesarbejde,Lønmodtagere med ledelsesarbejde,,,Salary recipients with management work,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_511,LAB,soc,status_kode_511,Personer under uddannelse (ordinær),Personer under uddannelse (ordinær),,,Persons in education (regular),,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_414,LAB,soc,status_kode_414,Folkepension,Folkepension,,,State pension,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_415,LAB,soc,status_kode_415,Anden pension,Anden pension,,,Other pension,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_316,LAB,soc,status_kode_316,Barselsfravær fra ledighed,Barselsfravær fra ledighed,,,Maternity leave from unemployment,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_317,LAB,soc,status_kode_317,Sygefravær fra ledighed,Sygefravær fra ledighed,,,Sick leave from unemployment,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_411,LAB,soc,status_kode_411,Førtidspension,Førtidspension,,,Early retirement,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_412,LAB,soc,status_kode_412,Efterløn,Efterløn,,,Post-employment benefits,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_517,LAB,soc,status_kode_517,Modtagere af SU,Modtagere af SU,,,Recipients of SU,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_322,LAB,soc,status_kode_322,Jobafklaringsforløb,Jobafklaringsforløb,,,Job clarification period,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_313,LAB,soc,status_kode_313,Vejledning og opkvalificering,Vejledning og opkvalificering,,,Guidance and upskilling,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_361,LAB,soc,status_kode_361,Støttet beskæftigelse (ej primær status),Støttet beskæftigelse (ej primær status),,,Supported employment (not primary status),,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_321,LAB,soc,status_kode_321,Ressouceforløb,Ressouceforløb,,,Resource course,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_314,LAB,soc,status_kode_314,Ledighedsydelse,Ledighedsydelse,,,Unemployment benefit for flex-job recipients,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_318,LAB,soc,status_kode_318,Kontanthjælp (passiv),Kontanthjælp (passiv),,,Cash benefit (passive),,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_319,LAB,soc,status_kode_319,Integrationsydelse,Integrationsydelse,,,Integration benefit,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_416,LAB,soc,status_kode_416,Seniorpension,Seniorpension,,,Senior pension,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_311,LAB,soc,status_kode_311,Støttet beskæftigede uden løn,Støttet beskæftigede uden løn,,,Supported employed without wages,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_413,LAB,soc,status_kode_413,Fleksydelse,Fleksydelse,,,Flex-job benefit,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_513,LAB,soc,status_kode_513,Øvrige uden for arbejdsstyrken,Øvrige uden for arbejdsstyrken,,,Other out of labor force,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_417,LAB,soc,status_kode_417,Tidlig pension,Tidlig pension,,,Early retirement pension,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_514,LAB,soc,status_kode_514,Kursister,Kursister,,,Course participants,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_516,LAB,soc,status_kode_516,Udenlandske studerende (ud fra opholdsgrundlag),Udenlandske studerende (ud fra opholdsgrundlag),,,Foreign students (based on residence status),,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_320,LAB,soc,status_kode_320,Revalidering,Revalidering,,,Vocational rehabilitation,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_312,LAB,soc,status_kode_312,Feriedagpenge,Feriedagpenge,,,Holiday unemployment benefit,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_512,LAB,soc,status_kode_512,Børn og unge,Børn og unge,,,Children and youth,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_351,LAB,soc,status_kode_351,Fleksløntilskud,Fleksløntilskud,,,Flex wage subsidy,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_515,LAB,soc,status_kode_515,Produktionsskoleelever,Produktionsskoleelever,,,Production-school students,,,translated,CSV:LAB_soc_status,medium,danish,,
-LAB_soc_status_kode_315,LAB,soc,status_kode_315,Børnepasningsorlov fra ledighed,Børnepasningsorlov fra ledighed,,,Childcare leave from unemployment,,,translated,CSV:LAB_soc_status,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+LAB_soc_status_kode_300,LAB,soc,status_kode_300,Udenfor arbejdsstyrken (partiel version),Udenfor arbejdsstyrken (partiel version),,,Outside labor force (partial version),,,translated,CSV:LAB_soc_status,medium,danish,,,51425545,4021177,0.445378
+LAB_soc_status_kode_611,LAB,soc,status_kode_611,Barselsfravær fra beskæftigelse (ej primær status),Barselsfravær fra beskæftigelse (ej primær status),,,Maternity leave from employment (not primary status),,,translated,CSV:LAB_soc_status,medium,danish,,,12875756,927518,0.10273
+LAB_soc_status_kode_200,LAB,soc,status_kode_200,Arbejdsløse,Arbejdsløse,,,Unemployed,,,translated,CSV:LAB_soc_status,medium,danish,,,66034864,1765640,0.195559
+LAB_soc_status_kode_612,LAB,soc,status_kode_612,Sygefravær fra beskæftigelse (ej primær status),Sygefravær fra beskæftigelse (ej primær status),,,Sick leave from employment (not primary status),,,translated,CSV:LAB_soc_status,medium,danish,,,23896176,2219079,0.245781
+LAB_soc_status_kode_120,LAB,soc,status_kode_120,Medarbejdende ægtefæller,Medarbejdende ægtefæller,,,Co-resident partner,,,translated,CSV:LAB_soc_status,medium,danish,,,1287625,21721,0.002406
+LAB_soc_status_kode_135,LAB,soc,status_kode_135,Andre lønmodtagere,Andre lønmodtagere,,,Other wage earners,,,translated,CSV:LAB_soc_status,medium,danish,,,74526198,1495103,0.165595
+LAB_soc_status_kode_132,LAB,soc,status_kode_132,Lønmodtagere på højeste niveau,Lønmodtagere på højeste niveau,,,Wage earners at highest level,,,translated,CSV:LAB_soc_status,medium,danish,,,156062336,1597466,0.176932
+LAB_soc_status_kode_134,LAB,soc,status_kode_134,Lønmodtagere på grundniveau,Lønmodtagere på grundniveau,,,Wage earners at basic level,,,translated,CSV:LAB_soc_status,medium,danish,,,296260259,3100219,0.343374
+LAB_soc_status_kode_110,LAB,soc,status_kode_110,Selvstændige (primær status ult. nov.),Selvstændige (primær status ult. nov.),,,Self-employed (primary status ultimate as of Nov.),,,translated,CSV:LAB_soc_status,medium,danish,,,54966091,652776,0.0723
+LAB_soc_status_kode_133,LAB,soc,status_kode_133,Lønmodtagere på mellemniveau,Lønmodtagere på mellemniveau,,,Wage earners at intermediate level,,,translated,CSV:LAB_soc_status,medium,danish,,,74623909,1230008,0.136233
+LAB_soc_status_kode_136,LAB,soc,status_kode_136,Lønmodtagere u.n.a.,Lønmodtagere u.n.a.,,,Salary recipients u.n.a.,,,translated,CSV:LAB_soc_status,medium,danish,,,55330902,1860379,0.206052
+LAB_soc_status_kode_131,LAB,soc,status_kode_131,Lønmodtagere med ledelsesarbejde,Lønmodtagere med ledelsesarbejde,,,Salary recipients with management work,,,translated,CSV:LAB_soc_status,medium,danish,,,24563630,357977,0.039649
+LAB_soc_status_kode_511,LAB,soc,status_kode_511,Personer under uddannelse (ordinær),Personer under uddannelse (ordinær),,,Persons in education (regular),,,translated,CSV:LAB_soc_status,medium,danish,,,223922423,2680934,0.296935
+LAB_soc_status_kode_414,LAB,soc,status_kode_414,Folkepension,Folkepension,,,State pension,,,translated,CSV:LAB_soc_status,medium,danish,,,187219608,1745982,0.193382
+LAB_soc_status_kode_415,LAB,soc,status_kode_415,Anden pension,Anden pension,,,Other pension,,,translated,CSV:LAB_soc_status,medium,danish,,,19492123,545463,0.060414
+LAB_soc_status_kode_316,LAB,soc,status_kode_316,Barselsfravær fra ledighed,Barselsfravær fra ledighed,,,Maternity leave from unemployment,,,translated,CSV:LAB_soc_status,medium,danish,,,2152408,179727,0.019906
+LAB_soc_status_kode_317,LAB,soc,status_kode_317,Sygefravær fra ledighed,Sygefravær fra ledighed,,,Sick leave from unemployment,,,translated,CSV:LAB_soc_status,medium,danish,,,9865891,843780,0.093456
+LAB_soc_status_kode_411,LAB,soc,status_kode_411,Førtidspension,Førtidspension,,,Early retirement,,,translated,CSV:LAB_soc_status,medium,danish,,,41452395,453156,0.050191
+LAB_soc_status_kode_412,LAB,soc,status_kode_412,Efterløn,Efterløn,,,Post-employment benefits,,,translated,CSV:LAB_soc_status,medium,danish,,,21480625,476038,0.052725
+LAB_soc_status_kode_517,LAB,soc,status_kode_517,Modtagere af SU,Modtagere af SU,,,Recipients of SU,,,translated,CSV:LAB_soc_status,medium,danish,,,61359509,1412711,0.156469
+LAB_soc_status_kode_322,LAB,soc,status_kode_322,Jobafklaringsforløb,Jobafklaringsforløb,,,Job clarification period,,,translated,CSV:LAB_soc_status,medium,danish,,,1991099,114380,0.012669
+LAB_soc_status_kode_313,LAB,soc,status_kode_313,Vejledning og opkvalificering,Vejledning og opkvalificering,,,Guidance and upskilling,,,translated,CSV:LAB_soc_status,medium,danish,,,14606247,804606,0.089117
+LAB_soc_status_kode_361,LAB,soc,status_kode_361,Støttet beskæftigelse (ej primær status),Støttet beskæftigelse (ej primær status),,,Supported employment (not primary status),,,translated,CSV:LAB_soc_status,medium,danish,,,9458558,202295,0.022406
+LAB_soc_status_kode_321,LAB,soc,status_kode_321,Ressouceforløb,Ressouceforløb,,,Resource course,,,translated,CSV:LAB_soc_status,medium,danish,,,2268423,62650,0.006939
+LAB_soc_status_kode_314,LAB,soc,status_kode_314,Ledighedsydelse,Ledighedsydelse,,,Unemployment benefit for flex-job recipients,,,translated,CSV:LAB_soc_status,medium,danish,,,3581404,132486,0.014674
+LAB_soc_status_kode_318,LAB,soc,status_kode_318,Kontanthjælp (passiv),Kontanthjælp (passiv),,,Cash benefit (passive),,,translated,CSV:LAB_soc_status,medium,danish,,,21528729,567513,0.062857
+LAB_soc_status_kode_319,LAB,soc,status_kode_319,Integrationsydelse,Integrationsydelse,,,Integration benefit,,,translated,CSV:LAB_soc_status,medium,danish,,,1802691,71916,0.007965
+LAB_soc_status_kode_416,LAB,soc,status_kode_416,Seniorpension,Seniorpension,,,Senior pension,,,translated,CSV:LAB_soc_status,medium,danish,,,381029,24633,0.002728
+LAB_soc_status_kode_311,LAB,soc,status_kode_311,Støttet beskæftigede uden løn,Støttet beskæftigede uden løn,,,Supported employed without wages,,,translated,CSV:LAB_soc_status,medium,danish,,,6188533,540346,0.059848
+LAB_soc_status_kode_413,LAB,soc,status_kode_413,Fleksydelse,Fleksydelse,,,Flex-job benefit,,,translated,CSV:LAB_soc_status,medium,danish,,,830261,19807,0.002194
+LAB_soc_status_kode_513,LAB,soc,status_kode_513,Øvrige uden for arbejdsstyrken,Øvrige uden for arbejdsstyrken,,,Other out of labor force,,,translated,CSV:LAB_soc_status,medium,danish,,,34385452,3001539,0.332445
+LAB_soc_status_kode_417,LAB,soc,status_kode_417,Tidlig pension,Tidlig pension,,,Early retirement pension,,,translated,CSV:LAB_soc_status,medium,danish,,,88634,10674,0.001182
+LAB_soc_status_kode_514,LAB,soc,status_kode_514,Kursister,Kursister,,,Course participants,,,translated,CSV:LAB_soc_status,medium,danish,,,37580915,2667416,0.295438
+LAB_soc_status_kode_516,LAB,soc,status_kode_516,Udenlandske studerende (ud fra opholdsgrundlag),Udenlandske studerende (ud fra opholdsgrundlag),,,Foreign students (based on residence status),,,translated,CSV:LAB_soc_status,medium,danish,,,1425050,164671,0.018239
+LAB_soc_status_kode_320,LAB,soc,status_kode_320,Revalidering,Revalidering,,,Vocational rehabilitation,,,translated,CSV:LAB_soc_status,medium,danish,,,741110,47705,0.005284
+LAB_soc_status_kode_312,LAB,soc,status_kode_312,Feriedagpenge,Feriedagpenge,,,Holiday unemployment benefit,,,translated,CSV:LAB_soc_status,medium,danish,,,4364272,878595,0.097312
+LAB_soc_status_kode_512,LAB,soc,status_kode_512,Børn og unge,Børn og unge,,,Children and youth,,,translated,CSV:LAB_soc_status,medium,danish,,,75454692,2025218,0.224309
+LAB_soc_status_kode_351,LAB,soc,status_kode_351,Fleksløntilskud,Fleksløntilskud,,,Flex wage subsidy,,,translated,CSV:LAB_soc_status,medium,danish,,,13105646,158933,0.017603
+LAB_soc_status_kode_515,LAB,soc,status_kode_515,Produktionsskoleelever,Produktionsskoleelever,,,Production-school students,,,translated,CSV:LAB_soc_status,medium,danish,,,959583,95871,0.010618
+LAB_soc_status_kode_315,LAB,soc,status_kode_315,Børnepasningsorlov fra ledighed,Børnepasningsorlov fra ledighed,,,Childcare leave from unemployment,,,translated,CSV:LAB_soc_status,medium,danish,,,65223,13012,0.001441

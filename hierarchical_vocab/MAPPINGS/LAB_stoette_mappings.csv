@@ -1,8 +1,8 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-LAB_stoette_besk_kode_nullified_3,LAB,stoette,besk_kode_nullified_3,Fleksjob,Fleksjob,,,Flex job,,,translated,raw_lab_stoette,high,danish,,
-LAB_stoette_besk_kode_nullified_6,LAB,stoette,besk_kode_nullified_6,Voksenlærling,Voksenlærling,,,Adult apprentice,,,translated,raw_lab_stoette,high,danish,,
-LAB_stoette_besk_kode_nullified_1,LAB,stoette,besk_kode_nullified_1,Ansættelse med løntilskud,Ansættelse med løntilskud,,,Employment with wage subsidy,,,translated,raw_lab_stoette,high,danish,,
-LAB_stoette_besk_kode_nullified_4,LAB,stoette,besk_kode_nullified_4,Skånejob,Skånejob,,,Skånejob (sheltered job),,,translated,raw_lab_stoette,high,danish,,
-LAB_stoette_besk_kode_nullified_2,LAB,stoette,besk_kode_nullified_2,Jobrotation,Jobrotation,,,Job rotation,,,translated,raw_lab_stoette,high,danish,,
-LAB_stoette_besk_kode_nullified_7,LAB,stoette,besk_kode_nullified_7,Revalidering,Revalidering,,,Rehabilitation (revalidering),,,translated,raw_lab_stoette,high,danish,,
-LAB_stoette_besk_kode_nullified_5,LAB,stoette,besk_kode_nullified_5,Servicejob,Servicejob,,,Service job,,,translated,raw_lab_stoette,high,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+LAB_stoette_besk_kode_nullified_3,LAB,stoette,besk_kode_nullified_3,Fleksjob,Fleksjob,,,Flex job,,,translated,raw_lab_stoette,high,danish,,,17072968,176306,0.019527
+LAB_stoette_besk_kode_nullified_6,LAB,stoette,besk_kode_nullified_6,Voksenlærling,Voksenlærling,,,Adult apprentice,,,translated,raw_lab_stoette,high,danish,,,903707,50608,0.005605
+LAB_stoette_besk_kode_nullified_1,LAB,stoette,besk_kode_nullified_1,Ansættelse med løntilskud,Ansættelse med løntilskud,,,Employment with wage subsidy,,,translated,raw_lab_stoette,high,danish,,,2597868,280046,0.031017
+LAB_stoette_besk_kode_nullified_4,LAB,stoette,besk_kode_nullified_4,Skånejob,Skånejob,,,Skånejob (sheltered job),,,translated,raw_lab_stoette,high,danish,,,886298,15314,0.001696
+LAB_stoette_besk_kode_nullified_2,LAB,stoette,besk_kode_nullified_2,Jobrotation,Jobrotation,,,Job rotation,,,translated,raw_lab_stoette,high,danish,,,286625,32081,0.003553
+LAB_stoette_besk_kode_nullified_7,LAB,stoette,besk_kode_nullified_7,Revalidering,Revalidering,,,Rehabilitation (revalidering),,,translated,raw_lab_stoette,high,danish,,,72331,10826,0.001199
+LAB_stoette_besk_kode_nullified_5,LAB,stoette,besk_kode_nullified_5,Servicejob,Servicejob,,,Service job,,,translated,raw_lab_stoette,high,danish,,,14157,538,6e-05

@@ -1,144 +1,144 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-EDU_grade_2,EDU,grade,2,Grade 2 (exam grade),Karakter 2 (eksamenskarakter),,,Grade 2 (exam grade),,,translated,none|generated,medium,danish,,
-EDU_grade_4,EDU,grade,4,Grade 4 (exam grade),Karakter 4 (eksamenskarakter),,,Grade 4 (exam grade),,,translated,none|generated,medium,danish,,
-EDU_grade_7,EDU,grade,7,Grade 7 (exam grade),Karakter 7 (eksamenskarakter),,,Grade 7 (exam grade),,,translated,none|generated,medium,danish,,
-EDU_grade_10,EDU,grade,10,Grade 10 (exam grade),Karakter 10 (eksamenskarakter),,,Grade 10 (exam grade),,,translated,none|generated,medium,danish,,
-EDU_grade_12,EDU,grade,12,Grade 12 (exam grade),Karakter 12 (eksamenskarakter),,,Grade 12 (exam grade),,,translated,none|generated,medium,danish,,
-EDU_grade_0,EDU,grade,0,Grade 0 (exam grade),Karakter 0 (eksamenskarakter),,,Grade 0 (exam grade),,,translated,none|generated,medium,danish,,
-EDU_grade_-3,EDU,grade,-3,Grade -3 (unacceptable),,,,Grade -3 (unacceptable),,,translated,none|generated,medium,danish,,
-EDU_grade_00,EDU,grade,00,Grade 00 (exam grade),Karakter 00 (eksamenskarakter),,,Grade 00 (exam grade),,,translated,none|generated,medium,danish,,
-EDU_grade_02,EDU,grade,02,Grade 02 (exam grade),Karakter 02 (eksamenskarakter),,,Grade 02 (exam grade),,,translated,none|generated,medium,danish,,
-EDU_grade_U,EDU,grade,U,Utilfredsstillende (unsatisfactory),,,,Utilfredsstillende (unsatisfactory),,,translated,none|generated,medium,danish,,
-EDU_grade_MF,EDU,grade,MF,"Meget flot (very good, folkeskole)",,,,"Meget flot (very good, folkeskole)",,,translated,none|generated,medium,danish,,
-EDU_grade_F,EDU,grade,F,"Flot (good, folkeskole)",,,,"Flot (good, folkeskole)",,,translated,none|generated,medium,danish,,
-EDU_grade_B,EDU,grade,B,Bestået (passed),Bestået,,,Passed,,,translated,none|generated,medium,danish,,
-EDU_grade_I,EDU,grade,I,Grade code: I,,,,Grade code: I,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_IA,EDU,grade,IA,Grade code: IA,,,,Grade code: IA,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_IM,EDU,grade,IM,Grade code: IM,,,,Grade code: IM,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_II,EDU,grade,II,Grade code: II,,,,Grade code: II,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_LI,EDU,grade,LI,Grade code: LI,,,,Grade code: LI,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_SY,EDU,grade,SY,Syg (absent due to illness),,,,Syg (absent due to illness),,,translated,none|generated,medium,danish,,
-EDU_grade_IB,EDU,grade,IB,Ikke bestået (not passed),Ikke bestået,,,Not passed,,,translated,none|generated,medium,danish,,
-EDU_grade_IG,EDU,grade,IG,Ikke godkendt (not approved),,,,Ikke godkendt (not approved),,,translated,none|generated,medium,danish,,
-EDU_grade_NA,EDU,grade,,Grade code: ,,,,Grade code: ,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_M,EDU,grade,M,Grade code: M,,,,Grade code: M,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_BF,EDU,grade,BF,Grade code: BF,,,,Grade code: BF,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_FE,EDU,grade,FE,Grade code: FE,,,,Grade code: FE,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_FS,EDU,grade,FS,Grade code: FS,,,,Grade code: FS,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_G,EDU,grade,G,Godkendt (approved),,,,Godkendt (approved),,,translated,none|generated,medium,danish,,
-EDU_grade_AF,EDU,grade,AF,Grade code: AF,,,,Grade code: AF,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_BV,EDU,grade,BV,Grade code: BV,,,,Grade code: BV,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_84,EDU,grade,7_scale_84,Grade code: 7_scale_84,,,,Grade code: 7_scale_84,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_57,EDU,grade,7_scale_57,Grade code: 7_scale_57,,,,Grade code: 7_scale_57,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_27,EDU,grade,7_scale_27,Grade code: 7_scale_27,,,,Grade code: 7_scale_27,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_49,EDU,grade,7_scale_49,Grade code: 7_scale_49,,,,Grade code: 7_scale_49,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_29,EDU,grade,7_scale_29,Grade code: 7_scale_29,,,,Grade code: 7_scale_29,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_97,EDU,grade,7_scale_97,Grade code: 7_scale_97,,,,Grade code: 7_scale_97,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_76,EDU,grade,7_scale_76,Grade code: 7_scale_76,,,,Grade code: 7_scale_76,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_65,EDU,grade,7_scale_65,Grade code: 7_scale_65,,,,Grade code: 7_scale_65,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_94,EDU,grade,7_scale_94,Grade code: 7_scale_94,,,,Grade code: 7_scale_94,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_122,EDU,grade,7_scale_122,Grade code: 7_scale_122,,,,Grade code: 7_scale_122,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_31,EDU,grade,7_scale_31,Grade code: 7_scale_31,,,,Grade code: 7_scale_31,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_115,EDU,grade,7_scale_115,Grade code: 7_scale_115,,,,Grade code: 7_scale_115,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_33,EDU,grade,7_scale_33,Grade code: 7_scale_33,,,,Grade code: 7_scale_33,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_20,EDU,grade,7_scale_20,Grade code: 7_scale_20,,,,Grade code: 7_scale_20,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_73,EDU,grade,7_scale_73,Grade code: 7_scale_73,,,,Grade code: 7_scale_73,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_110,EDU,grade,7_scale_110,Grade code: 7_scale_110,,,,Grade code: 7_scale_110,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_42,EDU,grade,7_scale_42,Grade code: 7_scale_42,,,,Grade code: 7_scale_42,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_87,EDU,grade,7_scale_87,Grade code: 7_scale_87,,,,Grade code: 7_scale_87,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_21,EDU,grade,7_scale_21,Grade code: 7_scale_21,,,,Grade code: 7_scale_21,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_47,EDU,grade,7_scale_47,Grade code: 7_scale_47,,,,Grade code: 7_scale_47,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_25,EDU,grade,7_scale_25,Grade code: 7_scale_25,,,,Grade code: 7_scale_25,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_68,EDU,grade,7_scale_68,Grade code: 7_scale_68,,,,Grade code: 7_scale_68,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_116,EDU,grade,7_scale_116,Grade code: 7_scale_116,,,,Grade code: 7_scale_116,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_92,EDU,grade,7_scale_92,Grade code: 7_scale_92,,,,Grade code: 7_scale_92,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_62,EDU,grade,7_scale_62,Grade code: 7_scale_62,,,,Grade code: 7_scale_62,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_59,EDU,grade,7_scale_59,Grade code: 7_scale_59,,,,Grade code: 7_scale_59,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_112,EDU,grade,7_scale_112,Grade code: 7_scale_112,,,,Grade code: 7_scale_112,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_54,EDU,grade,7_scale_54,Grade code: 7_scale_54,,,,Grade code: 7_scale_54,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_81,EDU,grade,7_scale_81,Grade code: 7_scale_81,,,,Grade code: 7_scale_81,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_37,EDU,grade,7_scale_37,Grade code: 7_scale_37,,,,Grade code: 7_scale_37,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_99,EDU,grade,7_scale_99,Grade code: 7_scale_99,,,,Grade code: 7_scale_99,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_52,EDU,grade,7_scale_52,Grade code: 7_scale_52,,,,Grade code: 7_scale_52,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_41,EDU,grade,7_scale_41,Grade code: 7_scale_41,,,,Grade code: 7_scale_41,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_40,EDU,grade,7_scale_40,Grade code: 7_scale_40,,,,Grade code: 7_scale_40,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_106,EDU,grade,7_scale_106,Grade code: 7_scale_106,,,,Grade code: 7_scale_106,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_35,EDU,grade,7_scale_35,Grade code: 7_scale_35,,,,Grade code: 7_scale_35,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_104,EDU,grade,7_scale_104,Grade code: 7_scale_104,,,,Grade code: 7_scale_104,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_100,EDU,grade,7_scale_100,Grade code: 7_scale_100,,,,Grade code: 7_scale_100,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_89,EDU,grade,7_scale_89,Grade code: 7_scale_89,,,,Grade code: 7_scale_89,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_63,EDU,grade,7_scale_63,Grade code: 7_scale_63,,,,Grade code: 7_scale_63,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_117,EDU,grade,7_scale_117,Grade code: 7_scale_117,,,,Grade code: 7_scale_117,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_44,EDU,grade,7_scale_44,Grade code: 7_scale_44,,,,Grade code: 7_scale_44,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_79,EDU,grade,7_scale_79,Grade code: 7_scale_79,,,,Grade code: 7_scale_79,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_70,EDU,grade,7_scale_70,Grade code: 7_scale_70,,,,Grade code: 7_scale_70,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_108,EDU,grade,7_scale_108,Grade code: 7_scale_108,,,,Grade code: 7_scale_108,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_96,EDU,grade,7_scale_96,Grade code: 7_scale_96,,,,Grade code: 7_scale_96,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_64,EDU,grade,7_scale_64,Grade code: 7_scale_64,,,,Grade code: 7_scale_64,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_101,EDU,grade,7_scale_101,Grade code: 7_scale_101,,,,Grade code: 7_scale_101,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_113,EDU,grade,7_scale_113,Grade code: 7_scale_113,,,,Grade code: 7_scale_113,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_123,EDU,grade,7_scale_123,Grade code: 7_scale_123,,,,Grade code: 7_scale_123,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_118,EDU,grade,7_scale_118,Grade code: 7_scale_118,,,,Grade code: 7_scale_118,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_120,EDU,grade,7_scale_120,Grade code: 7_scale_120,,,,Grade code: 7_scale_120,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_23,EDU,grade,7_scale_23,Grade code: 7_scale_23,,,,Grade code: 7_scale_23,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_26,EDU,grade,7_scale_26,Grade code: 7_scale_26,,,,Grade code: 7_scale_26,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_50,EDU,grade,7_scale_50,Grade code: 7_scale_50,,,,Grade code: 7_scale_50,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_72,EDU,grade,7_scale_72,Grade code: 7_scale_72,,,,Grade code: 7_scale_72,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_45,EDU,grade,7_scale_45,Grade code: 7_scale_45,,,,Grade code: 7_scale_45,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_51,EDU,grade,7_scale_51,Grade code: 7_scale_51,,,,Grade code: 7_scale_51,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_80,EDU,grade,7_scale_80,Grade code: 7_scale_80,,,,Grade code: 7_scale_80,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_56,EDU,grade,7_scale_56,Grade code: 7_scale_56,,,,Grade code: 7_scale_56,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_53,EDU,grade,7_scale_53,Grade code: 7_scale_53,,,,Grade code: 7_scale_53,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_67,EDU,grade,7_scale_67,Grade code: 7_scale_67,,,,Grade code: 7_scale_67,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_91,EDU,grade,7_scale_91,Grade code: 7_scale_91,,,,Grade code: 7_scale_91,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_38,EDU,grade,7_scale_38,Grade code: 7_scale_38,,,,Grade code: 7_scale_38,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_102,EDU,grade,7_scale_102,Grade code: 7_scale_102,,,,Grade code: 7_scale_102,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_105,EDU,grade,7_scale_105,Grade code: 7_scale_105,,,,Grade code: 7_scale_105,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_86,EDU,grade,7_scale_86,Grade code: 7_scale_86,,,,Grade code: 7_scale_86,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_78,EDU,grade,7_scale_78,Grade code: 7_scale_78,,,,Grade code: 7_scale_78,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_111,EDU,grade,7_scale_111,Grade code: 7_scale_111,,,,Grade code: 7_scale_111,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_22,EDU,grade,7_scale_22,Grade code: 7_scale_22,,,,Grade code: 7_scale_22,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_93,EDU,grade,7_scale_93,Grade code: 7_scale_93,,,,Grade code: 7_scale_93,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_88,EDU,grade,7_scale_88,Grade code: 7_scale_88,,,,Grade code: 7_scale_88,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_39,EDU,grade,7_scale_39,Grade code: 7_scale_39,,,,Grade code: 7_scale_39,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_61,EDU,grade,7_scale_61,Grade code: 7_scale_61,,,,Grade code: 7_scale_61,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_60,EDU,grade,7_scale_60,Grade code: 7_scale_60,,,,Grade code: 7_scale_60,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_66,EDU,grade,7_scale_66,Grade code: 7_scale_66,,,,Grade code: 7_scale_66,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_28,EDU,grade,7_scale_28,Grade code: 7_scale_28,,,,Grade code: 7_scale_28,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_85,EDU,grade,7_scale_85,Grade code: 7_scale_85,,,,Grade code: 7_scale_85,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_119,EDU,grade,7_scale_119,Grade code: 7_scale_119,,,,Grade code: 7_scale_119,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_95,EDU,grade,7_scale_95,Grade code: 7_scale_95,,,,Grade code: 7_scale_95,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_34,EDU,grade,7_scale_34,Grade code: 7_scale_34,,,,Grade code: 7_scale_34,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_82,EDU,grade,7_scale_82,Grade code: 7_scale_82,,,,Grade code: 7_scale_82,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_71,EDU,grade,7_scale_71,Grade code: 7_scale_71,,,,Grade code: 7_scale_71,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_36,EDU,grade,7_scale_36,Grade code: 7_scale_36,,,,Grade code: 7_scale_36,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_69,EDU,grade,7_scale_69,Grade code: 7_scale_69,,,,Grade code: 7_scale_69,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_103,EDU,grade,7_scale_103,Grade code: 7_scale_103,,,,Grade code: 7_scale_103,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_121,EDU,grade,7_scale_121,Grade code: 7_scale_121,,,,Grade code: 7_scale_121,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_98,EDU,grade,7_scale_98,Grade code: 7_scale_98,,,,Grade code: 7_scale_98,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_77,EDU,grade,7_scale_77,Grade code: 7_scale_77,,,,Grade code: 7_scale_77,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_46,EDU,grade,7_scale_46,Grade code: 7_scale_46,,,,Grade code: 7_scale_46,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_75,EDU,grade,7_scale_75,Grade code: 7_scale_75,,,,Grade code: 7_scale_75,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_43,EDU,grade,7_scale_43,Grade code: 7_scale_43,,,,Grade code: 7_scale_43,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_83,EDU,grade,7_scale_83,Grade code: 7_scale_83,,,,Grade code: 7_scale_83,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_127,EDU,grade,7_scale_127,Grade code: 7_scale_127,,,,Grade code: 7_scale_127,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_24,EDU,grade,7_scale_24,Grade code: 7_scale_24,,,,Grade code: 7_scale_24,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_90,EDU,grade,7_scale_90,Grade code: 7_scale_90,,,,Grade code: 7_scale_90,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_58,EDU,grade,7_scale_58,Grade code: 7_scale_58,,,,Grade code: 7_scale_58,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_125,EDU,grade,7_scale_125,Grade code: 7_scale_125,,,,Grade code: 7_scale_125,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_114,EDU,grade,7_scale_114,Grade code: 7_scale_114,,,,Grade code: 7_scale_114,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_107,EDU,grade,7_scale_107,Grade code: 7_scale_107,,,,Grade code: 7_scale_107,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_48,EDU,grade,7_scale_48,Grade code: 7_scale_48,,,,Grade code: 7_scale_48,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_32,EDU,grade,7_scale_32,Grade code: 7_scale_32,,,,Grade code: 7_scale_32,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_74,EDU,grade,7_scale_74,Grade code: 7_scale_74,,,,Grade code: 7_scale_74,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_55,EDU,grade,7_scale_55,Grade code: 7_scale_55,,,,Grade code: 7_scale_55,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_30,EDU,grade,7_scale_30,Grade code: 7_scale_30,,,,Grade code: 7_scale_30,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_124,EDU,grade,7_scale_124,Grade code: 7_scale_124,,,,Grade code: 7_scale_124,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_126,EDU,grade,7_scale_126,Grade code: 7_scale_126,,,,Grade code: 7_scale_126,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_109,EDU,grade,7_scale_109,Grade code: 7_scale_109,,,,Grade code: 7_scale_109,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_10,EDU,grade,7_scale_10,Grade code: 7_scale_10,,,,Grade code: 7_scale_10,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_7,EDU,grade,7_scale_7,Grade code: 7_scale_7,,,,Grade code: 7_scale_7,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_12,EDU,grade,7_scale_12,Grade code: 7_scale_12,,,,Grade code: 7_scale_12,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_2,EDU,grade,7_scale_2,Grade code: 7_scale_2,,,,Grade code: 7_scale_2,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_4,EDU,grade,7_scale_4,Grade code: 7_scale_4,,,,Grade code: 7_scale_4,,,translated,none|generated|generated,medium,danish,,
-EDU_grade_7_scale_0,EDU,grade,7_scale_0,Grade code: 7_scale_0,,,,Grade code: 7_scale_0,,,translated,none|generated|generated,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+EDU_grade_2,EDU,grade,2,Grade 2 (exam grade),Karakter 2 (eksamenskarakter),,,Grade 2 (exam grade),,,translated,none|generated,medium,danish,,,7152670,1028542,0.113919
+EDU_grade_4,EDU,grade,4,Grade 4 (exam grade),Karakter 4 (eksamenskarakter),,,Grade 4 (exam grade),,,translated,none|generated,medium,danish,,,17935167,1548291,0.171486
+EDU_grade_7,EDU,grade,7,Grade 7 (exam grade),Karakter 7 (eksamenskarakter),,,Grade 7 (exam grade),,,translated,none|generated,medium,danish,,,28375290,1669085,0.184865
+EDU_grade_10,EDU,grade,10,Grade 10 (exam grade),Karakter 10 (eksamenskarakter),,,Grade 10 (exam grade),,,translated,none|generated,medium,danish,,,17688371,1477471,0.163642
+EDU_grade_12,EDU,grade,12,Grade 12 (exam grade),Karakter 12 (eksamenskarakter),,,Grade 12 (exam grade),,,translated,none|generated,medium,danish,,,8206999,1117703,0.123795
+EDU_grade_0,EDU,grade,0,Grade 0 (exam grade),Karakter 0 (eksamenskarakter),,,Grade 0 (exam grade),,,translated,none|generated,medium,danish,,,2157636,612984,0.067893
+EDU_grade_-3,EDU,grade,-3,Grade -3 (unacceptable),,,,Grade -3 (unacceptable),,,translated,none|generated,medium,danish,,,412777,195342,0.021636
+EDU_grade_00,EDU,grade,00,Grade 00 (exam grade),Karakter 00 (eksamenskarakter),,,Grade 00 (exam grade),,,translated,none|generated,medium,danish,,,783639,282669,0.031308
+EDU_grade_02,EDU,grade,02,Grade 02 (exam grade),Karakter 02 (eksamenskarakter),,,Grade 02 (exam grade),,,translated,none|generated,medium,danish,,,1002283,404859,0.044841
+EDU_grade_U,EDU,grade,U,Utilfredsstillende (unsatisfactory),,,,Utilfredsstillende (unsatisfactory),,,translated,none|generated,medium,danish,,,178759,59223,0.006559
+EDU_grade_MF,EDU,grade,MF,"Meget flot (very good, folkeskole)",,,,"Meget flot (very good, folkeskole)",,,translated,none|generated,medium,danish,,,8609,4959,0.000549
+EDU_grade_F,EDU,grade,F,"Flot (good, folkeskole)",,,,"Flot (good, folkeskole)",,,translated,none|generated,medium,danish,,,3555,2936,0.000325
+EDU_grade_B,EDU,grade,B,Bestået (passed),Bestået,,,Passed,,,translated,none|generated,medium,danish,,,983299,242190,0.026825
+EDU_grade_I,EDU,grade,I,Grade code: I,,,,Grade code: I,,,translated,none|generated|generated,medium,danish,,,91819,30444,0.003372
+EDU_grade_IA,EDU,grade,IA,Grade code: IA,,,,Grade code: IA,,,translated,none|generated|generated,medium,danish,,,93086,50223,0.005563
+EDU_grade_IM,EDU,grade,IM,Grade code: IM,,,,Grade code: IM,,,translated,none|generated|generated,medium,danish,,,66078,31748,0.003516
+EDU_grade_II,EDU,grade,II,Grade code: II,,,,Grade code: II,,,translated,none|generated|generated,medium,danish,,,27136,16718,0.001852
+EDU_grade_LI,EDU,grade,LI,Grade code: LI,,,,Grade code: LI,,,translated,none|generated|generated,medium,danish,,,7656,5746,0.000636
+EDU_grade_SY,EDU,grade,SY,Syg (absent due to illness),,,,Syg (absent due to illness),,,translated,none|generated,medium,danish,,,24161,14687,0.001627
+EDU_grade_IB,EDU,grade,IB,Ikke bestået (not passed),Ikke bestået,,,Not passed,,,translated,none|generated,medium,danish,,,38550,22311,0.002471
+EDU_grade_IG,EDU,grade,IG,Ikke godkendt (not approved),,,,Ikke godkendt (not approved),,,translated,none|generated,medium,danish,,,12854,7595,0.000841
+EDU_grade_NA,EDU,grade,,Grade code: ,,,,Grade code: ,,,translated,none|generated|generated,medium,danish,,,853,402,4.5e-05
+EDU_grade_M,EDU,grade,M,Grade code: M,,,,Grade code: M,,,translated,none|generated|generated,medium,danish,,,345,338,3.7e-05
+EDU_grade_BF,EDU,grade,BF,Grade code: BF,,,,Grade code: BF,,,translated,none|generated|generated,medium,danish,,,9864,6234,0.00069
+EDU_grade_FE,EDU,grade,FE,Grade code: FE,,,,Grade code: FE,,,translated,none|generated|generated,medium,danish,,,14654,8817,0.000977
+EDU_grade_FS,EDU,grade,FS,Grade code: FS,,,,Grade code: FS,,,translated,none|generated|generated,medium,danish,,,8239,5905,0.000654
+EDU_grade_G,EDU,grade,G,Godkendt (approved),,,,Godkendt (approved),,,translated,none|generated,medium,danish,,,211166,72274,0.008005
+EDU_grade_AF,EDU,grade,AF,Grade code: AF,,,,Grade code: AF,,,translated,none|generated|generated,medium,danish,,,1599,1304,0.000144
+EDU_grade_BV,EDU,grade,BV,Grade code: BV,,,,Grade code: BV,,,translated,none|generated|generated,medium,danish,,,241,210,2.3e-05
+EDU_grade_7_scale_84,EDU,grade,7_scale_84,Grade code: 7_scale_84,,,,Grade code: 7_scale_84,,,translated,none|generated|generated,medium,danish,,,34070,33593,0.003721
+EDU_grade_7_scale_57,EDU,grade,7_scale_57,Grade code: 7_scale_57,,,,Grade code: 7_scale_57,,,translated,none|generated|generated,medium,danish,,,39444,39064,0.004327
+EDU_grade_7_scale_27,EDU,grade,7_scale_27,Grade code: 7_scale_27,,,,Grade code: 7_scale_27,,,translated,none|generated|generated,medium,danish,,,13781,13614,0.001508
+EDU_grade_7_scale_49,EDU,grade,7_scale_49,Grade code: 7_scale_49,,,,Grade code: 7_scale_49,,,translated,none|generated|generated,medium,danish,,,36335,35929,0.003979
+EDU_grade_7_scale_29,EDU,grade,7_scale_29,Grade code: 7_scale_29,,,,Grade code: 7_scale_29,,,translated,none|generated|generated,medium,danish,,,16541,16344,0.00181
+EDU_grade_7_scale_97,EDU,grade,7_scale_97,Grade code: 7_scale_97,,,,Grade code: 7_scale_97,,,translated,none|generated|generated,medium,danish,,,24561,24149,0.002675
+EDU_grade_7_scale_76,EDU,grade,7_scale_76,Grade code: 7_scale_76,,,,Grade code: 7_scale_76,,,translated,none|generated|generated,medium,danish,,,38116,37600,0.004165
+EDU_grade_7_scale_65,EDU,grade,7_scale_65,Grade code: 7_scale_65,,,,Grade code: 7_scale_65,,,translated,none|generated|generated,medium,danish,,,39632,39034,0.004323
+EDU_grade_7_scale_94,EDU,grade,7_scale_94,Grade code: 7_scale_94,,,,Grade code: 7_scale_94,,,translated,none|generated|generated,medium,danish,,,27238,26777,0.002966
+EDU_grade_7_scale_122,EDU,grade,7_scale_122,Grade code: 7_scale_122,,,,Grade code: 7_scale_122,,,translated,none|generated|generated,medium,danish,,,880,825,9.1e-05
+EDU_grade_7_scale_31,EDU,grade,7_scale_31,Grade code: 7_scale_31,,,,Grade code: 7_scale_31,,,translated,none|generated|generated,medium,danish,,,17855,17691,0.001959
+EDU_grade_7_scale_115,EDU,grade,7_scale_115,Grade code: 7_scale_115,,,,Grade code: 7_scale_115,,,translated,none|generated|generated,medium,danish,,,7500,7312,0.00081
+EDU_grade_7_scale_33,EDU,grade,7_scale_33,Grade code: 7_scale_33,,,,Grade code: 7_scale_33,,,translated,none|generated|generated,medium,danish,,,22348,22153,0.002454
+EDU_grade_7_scale_20,EDU,grade,7_scale_20,Grade code: 7_scale_20,,,,Grade code: 7_scale_20,,,translated,none|generated|generated,medium,danish,,,26138,25741,0.002851
+EDU_grade_7_scale_73,EDU,grade,7_scale_73,Grade code: 7_scale_73,,,,Grade code: 7_scale_73,,,translated,none|generated|generated,medium,danish,,,38673,38145,0.004225
+EDU_grade_7_scale_110,EDU,grade,7_scale_110,Grade code: 7_scale_110,,,,Grade code: 7_scale_110,,,translated,none|generated|generated,medium,danish,,,12910,12564,0.001392
+EDU_grade_7_scale_42,EDU,grade,7_scale_42,Grade code: 7_scale_42,,,,Grade code: 7_scale_42,,,translated,none|generated|generated,medium,danish,,,30395,30101,0.003334
+EDU_grade_7_scale_87,EDU,grade,7_scale_87,Grade code: 7_scale_87,,,,Grade code: 7_scale_87,,,translated,none|generated|generated,medium,danish,,,32012,31439,0.003482
+EDU_grade_7_scale_21,EDU,grade,7_scale_21,Grade code: 7_scale_21,,,,Grade code: 7_scale_21,,,translated,none|generated|generated,medium,danish,,,7190,7091,0.000785
+EDU_grade_7_scale_47,EDU,grade,7_scale_47,Grade code: 7_scale_47,,,,Grade code: 7_scale_47,,,translated,none|generated|generated,medium,danish,,,34088,33716,0.003734
+EDU_grade_7_scale_25,EDU,grade,7_scale_25,Grade code: 7_scale_25,,,,Grade code: 7_scale_25,,,translated,none|generated|generated,medium,danish,,,11377,11225,0.001243
+EDU_grade_7_scale_68,EDU,grade,7_scale_68,Grade code: 7_scale_68,,,,Grade code: 7_scale_68,,,translated,none|generated|generated,medium,danish,,,39302,38841,0.004302
+EDU_grade_7_scale_116,EDU,grade,7_scale_116,Grade code: 7_scale_116,,,,Grade code: 7_scale_116,,,translated,none|generated|generated,medium,danish,,,6056,5893,0.000653
+EDU_grade_7_scale_92,EDU,grade,7_scale_92,Grade code: 7_scale_92,,,,Grade code: 7_scale_92,,,translated,none|generated|generated,medium,danish,,,28772,28209,0.003124
+EDU_grade_7_scale_62,EDU,grade,7_scale_62,Grade code: 7_scale_62,,,,Grade code: 7_scale_62,,,translated,none|generated|generated,medium,danish,,,57534,56685,0.006278
+EDU_grade_7_scale_59,EDU,grade,7_scale_59,Grade code: 7_scale_59,,,,Grade code: 7_scale_59,,,translated,none|generated|generated,medium,danish,,,39788,39235,0.004346
+EDU_grade_7_scale_112,EDU,grade,7_scale_112,Grade code: 7_scale_112,,,,Grade code: 7_scale_112,,,translated,none|generated|generated,medium,danish,,,33067,32476,0.003597
+EDU_grade_7_scale_54,EDU,grade,7_scale_54,Grade code: 7_scale_54,,,,Grade code: 7_scale_54,,,translated,none|generated|generated,medium,danish,,,36538,36162,0.004005
+EDU_grade_7_scale_81,EDU,grade,7_scale_81,Grade code: 7_scale_81,,,,Grade code: 7_scale_81,,,translated,none|generated|generated,medium,danish,,,33944,33498,0.00371
+EDU_grade_7_scale_37,EDU,grade,7_scale_37,Grade code: 7_scale_37,,,,Grade code: 7_scale_37,,,translated,none|generated|generated,medium,danish,,,36042,35657,0.003949
+EDU_grade_7_scale_99,EDU,grade,7_scale_99,Grade code: 7_scale_99,,,,Grade code: 7_scale_99,,,translated,none|generated|generated,medium,danish,,,23562,23072,0.002555
+EDU_grade_7_scale_52,EDU,grade,7_scale_52,Grade code: 7_scale_52,,,,Grade code: 7_scale_52,,,translated,none|generated|generated,medium,danish,,,36777,36395,0.004031
+EDU_grade_7_scale_41,EDU,grade,7_scale_41,Grade code: 7_scale_41,,,,Grade code: 7_scale_41,,,translated,none|generated|generated,medium,danish,,,8276,8269,0.000916
+EDU_grade_7_scale_40,EDU,grade,7_scale_40,Grade code: 7_scale_40,,,,Grade code: 7_scale_40,,,translated,none|generated|generated,medium,danish,,,74179,72647,0.008046
+EDU_grade_7_scale_106,EDU,grade,7_scale_106,Grade code: 7_scale_106,,,,Grade code: 7_scale_106,,,translated,none|generated|generated,medium,danish,,,16257,15895,0.001761
+EDU_grade_7_scale_35,EDU,grade,7_scale_35,Grade code: 7_scale_35,,,,Grade code: 7_scale_35,,,translated,none|generated|generated,medium,danish,,,23963,23695,0.002624
+EDU_grade_7_scale_104,EDU,grade,7_scale_104,Grade code: 7_scale_104,,,,Grade code: 7_scale_104,,,translated,none|generated|generated,medium,danish,,,19060,18637,0.002064
+EDU_grade_7_scale_100,EDU,grade,7_scale_100,Grade code: 7_scale_100,,,,Grade code: 7_scale_100,,,translated,none|generated|generated,medium,danish,,,138844,133684,0.014807
+EDU_grade_7_scale_89,EDU,grade,7_scale_89,Grade code: 7_scale_89,,,,Grade code: 7_scale_89,,,translated,none|generated|generated,medium,danish,,,53795,52914,0.005861
+EDU_grade_7_scale_63,EDU,grade,7_scale_63,Grade code: 7_scale_63,,,,Grade code: 7_scale_63,,,translated,none|generated|generated,medium,danish,,,10694,10688,0.001184
+EDU_grade_7_scale_117,EDU,grade,7_scale_117,Grade code: 7_scale_117,,,,Grade code: 7_scale_117,,,translated,none|generated|generated,medium,danish,,,4730,4575,0.000507
+EDU_grade_7_scale_44,EDU,grade,7_scale_44,Grade code: 7_scale_44,,,,Grade code: 7_scale_44,,,translated,none|generated|generated,medium,danish,,,31512,31235,0.00346
+EDU_grade_7_scale_79,EDU,grade,7_scale_79,Grade code: 7_scale_79,,,,Grade code: 7_scale_79,,,translated,none|generated|generated,medium,danish,,,36277,35758,0.00396
+EDU_grade_7_scale_70,EDU,grade,7_scale_70,Grade code: 7_scale_70,,,,Grade code: 7_scale_70,,,translated,none|generated|generated,medium,danish,,,138183,134344,0.01488
+EDU_grade_7_scale_108,EDU,grade,7_scale_108,Grade code: 7_scale_108,,,,Grade code: 7_scale_108,,,translated,none|generated|generated,medium,danish,,,15100,14814,0.001641
+EDU_grade_7_scale_96,EDU,grade,7_scale_96,Grade code: 7_scale_96,,,,Grade code: 7_scale_96,,,translated,none|generated|generated,medium,danish,,,8091,8087,0.000896
+EDU_grade_7_scale_64,EDU,grade,7_scale_64,Grade code: 7_scale_64,,,,Grade code: 7_scale_64,,,translated,none|generated|generated,medium,danish,,,10567,10559,0.001169
+EDU_grade_7_scale_101,EDU,grade,7_scale_101,Grade code: 7_scale_101,,,,Grade code: 7_scale_101,,,translated,none|generated|generated,medium,danish,,,21702,21237,0.002352
+EDU_grade_7_scale_113,EDU,grade,7_scale_113,Grade code: 7_scale_113,,,,Grade code: 7_scale_113,,,translated,none|generated|generated,medium,danish,,,9475,9154,0.001014
+EDU_grade_7_scale_123,EDU,grade,7_scale_123,Grade code: 7_scale_123,,,,Grade code: 7_scale_123,,,translated,none|generated|generated,medium,danish,,,15249,14896,0.00165
+EDU_grade_7_scale_118,EDU,grade,7_scale_118,Grade code: 7_scale_118,,,,Grade code: 7_scale_118,,,translated,none|generated|generated,medium,danish,,,3644,3521,0.00039
+EDU_grade_7_scale_120,EDU,grade,7_scale_120,Grade code: 7_scale_120,,,,Grade code: 7_scale_120,,,translated,none|generated|generated,medium,danish,,,131557,124869,0.01383
+EDU_grade_7_scale_23,EDU,grade,7_scale_23,Grade code: 7_scale_23,,,,Grade code: 7_scale_23,,,translated,none|generated|generated,medium,danish,,,8308,8205,0.000909
+EDU_grade_7_scale_26,EDU,grade,7_scale_26,Grade code: 7_scale_26,,,,Grade code: 7_scale_26,,,translated,none|generated|generated,medium,danish,,,3273,3272,0.000362
+EDU_grade_7_scale_50,EDU,grade,7_scale_50,Grade code: 7_scale_50,,,,Grade code: 7_scale_50,,,translated,none|generated|generated,medium,danish,,,9651,9645,0.001068
+EDU_grade_7_scale_72,EDU,grade,7_scale_72,Grade code: 7_scale_72,,,,Grade code: 7_scale_72,,,translated,none|generated|generated,medium,danish,,,10236,10231,0.001133
+EDU_grade_7_scale_45,EDU,grade,7_scale_45,Grade code: 7_scale_45,,,,Grade code: 7_scale_45,,,translated,none|generated|generated,medium,danish,,,8993,8989,0.000996
+EDU_grade_7_scale_51,EDU,grade,7_scale_51,Grade code: 7_scale_51,,,,Grade code: 7_scale_51,,,translated,none|generated|generated,medium,danish,,,9881,9878,0.001094
+EDU_grade_7_scale_80,EDU,grade,7_scale_80,Grade code: 7_scale_80,,,,Grade code: 7_scale_80,,,translated,none|generated|generated,medium,danish,,,9967,9963,0.001103
+EDU_grade_7_scale_56,EDU,grade,7_scale_56,Grade code: 7_scale_56,,,,Grade code: 7_scale_56,,,translated,none|generated|generated,medium,danish,,,10026,10021,0.00111
+EDU_grade_7_scale_53,EDU,grade,7_scale_53,Grade code: 7_scale_53,,,,Grade code: 7_scale_53,,,translated,none|generated|generated,medium,danish,,,10223,10218,0.001132
+EDU_grade_7_scale_67,EDU,grade,7_scale_67,Grade code: 7_scale_67,,,,Grade code: 7_scale_67,,,translated,none|generated|generated,medium,danish,,,10153,10150,0.001124
+EDU_grade_7_scale_91,EDU,grade,7_scale_91,Grade code: 7_scale_91,,,,Grade code: 7_scale_91,,,translated,none|generated|generated,medium,danish,,,8568,8563,0.000948
+EDU_grade_7_scale_38,EDU,grade,7_scale_38,Grade code: 7_scale_38,,,,Grade code: 7_scale_38,,,translated,none|generated|generated,medium,danish,,,7579,7577,0.000839
+EDU_grade_7_scale_102,EDU,grade,7_scale_102,Grade code: 7_scale_102,,,,Grade code: 7_scale_102,,,translated,none|generated|generated,medium,danish,,,6539,6537,0.000724
+EDU_grade_7_scale_105,EDU,grade,7_scale_105,Grade code: 7_scale_105,,,,Grade code: 7_scale_105,,,translated,none|generated|generated,medium,danish,,,5948,5947,0.000659
+EDU_grade_7_scale_86,EDU,grade,7_scale_86,Grade code: 7_scale_86,,,,Grade code: 7_scale_86,,,translated,none|generated|generated,medium,danish,,,9291,9288,0.001029
+EDU_grade_7_scale_78,EDU,grade,7_scale_78,Grade code: 7_scale_78,,,,Grade code: 7_scale_78,,,translated,none|generated|generated,medium,danish,,,10156,10150,0.001124
+EDU_grade_7_scale_111,EDU,grade,7_scale_111,Grade code: 7_scale_111,,,,Grade code: 7_scale_111,,,translated,none|generated|generated,medium,danish,,,4210,4210,0.000466
+EDU_grade_7_scale_22,EDU,grade,7_scale_22,Grade code: 7_scale_22,,,,Grade code: 7_scale_22,,,translated,none|generated|generated,medium,danish,,,2031,2029,0.000225
+EDU_grade_7_scale_93,EDU,grade,7_scale_93,Grade code: 7_scale_93,,,,Grade code: 7_scale_93,,,translated,none|generated|generated,medium,danish,,,8534,8530,0.000945
+EDU_grade_7_scale_88,EDU,grade,7_scale_88,Grade code: 7_scale_88,,,,Grade code: 7_scale_88,,,translated,none|generated|generated,medium,danish,,,8882,8877,0.000983
+EDU_grade_7_scale_39,EDU,grade,7_scale_39,Grade code: 7_scale_39,,,,Grade code: 7_scale_39,,,translated,none|generated|generated,medium,danish,,,7694,7687,0.000851
+EDU_grade_7_scale_61,EDU,grade,7_scale_61,Grade code: 7_scale_61,,,,Grade code: 7_scale_61,,,translated,none|generated|generated,medium,danish,,,10336,10329,0.001144
+EDU_grade_7_scale_60,EDU,grade,7_scale_60,Grade code: 7_scale_60,,,,Grade code: 7_scale_60,,,translated,none|generated|generated,medium,danish,,,10432,10429,0.001155
+EDU_grade_7_scale_66,EDU,grade,7_scale_66,Grade code: 7_scale_66,,,,Grade code: 7_scale_66,,,translated,none|generated|generated,medium,danish,,,10583,10577,0.001171
+EDU_grade_7_scale_28,EDU,grade,7_scale_28,Grade code: 7_scale_28,,,,Grade code: 7_scale_28,,,translated,none|generated|generated,medium,danish,,,4151,4149,0.00046
+EDU_grade_7_scale_85,EDU,grade,7_scale_85,Grade code: 7_scale_85,,,,Grade code: 7_scale_85,,,translated,none|generated|generated,medium,danish,,,9441,9437,0.001045
+EDU_grade_7_scale_119,EDU,grade,7_scale_119,Grade code: 7_scale_119,,,,Grade code: 7_scale_119,,,translated,none|generated|generated,medium,danish,,,1018,1018,0.000113
+EDU_grade_7_scale_95,EDU,grade,7_scale_95,Grade code: 7_scale_95,,,,Grade code: 7_scale_95,,,translated,none|generated|generated,medium,danish,,,7947,7945,0.00088
+EDU_grade_7_scale_34,EDU,grade,7_scale_34,Grade code: 7_scale_34,,,,Grade code: 7_scale_34,,,translated,none|generated|generated,medium,danish,,,6366,6365,0.000705
+EDU_grade_7_scale_82,EDU,grade,7_scale_82,Grade code: 7_scale_82,,,,Grade code: 7_scale_82,,,translated,none|generated|generated,medium,danish,,,9648,9644,0.001068
+EDU_grade_7_scale_71,EDU,grade,7_scale_71,Grade code: 7_scale_71,,,,Grade code: 7_scale_71,,,translated,none|generated|generated,medium,danish,,,10455,10449,0.001157
+EDU_grade_7_scale_36,EDU,grade,7_scale_36,Grade code: 7_scale_36,,,,Grade code: 7_scale_36,,,translated,none|generated|generated,medium,danish,,,7046,7041,0.00078
+EDU_grade_7_scale_69,EDU,grade,7_scale_69,Grade code: 7_scale_69,,,,Grade code: 7_scale_69,,,translated,none|generated|generated,medium,danish,,,10679,10669,0.001182
+EDU_grade_7_scale_103,EDU,grade,7_scale_103,Grade code: 7_scale_103,,,,Grade code: 7_scale_103,,,translated,none|generated|generated,medium,danish,,,6590,6590,0.00073
+EDU_grade_7_scale_121,EDU,grade,7_scale_121,Grade code: 7_scale_121,,,,Grade code: 7_scale_121,,,translated,none|generated|generated,medium,danish,,,1082,999,0.000111
+EDU_grade_7_scale_98,EDU,grade,7_scale_98,Grade code: 7_scale_98,,,,Grade code: 7_scale_98,,,translated,none|generated|generated,medium,danish,,,7520,7517,0.000833
+EDU_grade_7_scale_77,EDU,grade,7_scale_77,Grade code: 7_scale_77,,,,Grade code: 7_scale_77,,,translated,none|generated|generated,medium,danish,,,9918,9912,0.001098
+EDU_grade_7_scale_46,EDU,grade,7_scale_46,Grade code: 7_scale_46,,,,Grade code: 7_scale_46,,,translated,none|generated|generated,medium,danish,,,9239,9236,0.001023
+EDU_grade_7_scale_75,EDU,grade,7_scale_75,Grade code: 7_scale_75,,,,Grade code: 7_scale_75,,,translated,none|generated|generated,medium,danish,,,10150,10146,0.001124
+EDU_grade_7_scale_43,EDU,grade,7_scale_43,Grade code: 7_scale_43,,,,Grade code: 7_scale_43,,,translated,none|generated|generated,medium,danish,,,8731,8727,0.000967
+EDU_grade_7_scale_83,EDU,grade,7_scale_83,Grade code: 7_scale_83,,,,Grade code: 7_scale_83,,,translated,none|generated|generated,medium,danish,,,9726,9723,0.001077
+EDU_grade_7_scale_127,EDU,grade,7_scale_127,Grade code: 7_scale_127,,,,Grade code: 7_scale_127,,,translated,none|generated|generated,medium,danish,,,2318,2309,0.000256
+EDU_grade_7_scale_24,EDU,grade,7_scale_24,Grade code: 7_scale_24,,,,Grade code: 7_scale_24,,,translated,none|generated|generated,medium,danish,,,2570,2569,0.000285
+EDU_grade_7_scale_90,EDU,grade,7_scale_90,Grade code: 7_scale_90,,,,Grade code: 7_scale_90,,,translated,none|generated|generated,medium,danish,,,8805,8800,0.000975
+EDU_grade_7_scale_58,EDU,grade,7_scale_58,Grade code: 7_scale_58,,,,Grade code: 7_scale_58,,,translated,none|generated|generated,medium,danish,,,10519,10516,0.001165
+EDU_grade_7_scale_125,EDU,grade,7_scale_125,Grade code: 7_scale_125,,,,Grade code: 7_scale_125,,,translated,none|generated|generated,medium,danish,,,634,570,6.3e-05
+EDU_grade_7_scale_114,EDU,grade,7_scale_114,Grade code: 7_scale_114,,,,Grade code: 7_scale_114,,,translated,none|generated|generated,medium,danish,,,3114,3114,0.000345
+EDU_grade_7_scale_107,EDU,grade,7_scale_107,Grade code: 7_scale_107,,,,Grade code: 7_scale_107,,,translated,none|generated|generated,medium,danish,,,5436,5433,0.000602
+EDU_grade_7_scale_48,EDU,grade,7_scale_48,Grade code: 7_scale_48,,,,Grade code: 7_scale_48,,,translated,none|generated|generated,medium,danish,,,9516,9508,0.001053
+EDU_grade_7_scale_32,EDU,grade,7_scale_32,Grade code: 7_scale_32,,,,Grade code: 7_scale_32,,,translated,none|generated|generated,medium,danish,,,5359,5357,0.000593
+EDU_grade_7_scale_74,EDU,grade,7_scale_74,Grade code: 7_scale_74,,,,Grade code: 7_scale_74,,,translated,none|generated|generated,medium,danish,,,10185,10180,0.001128
+EDU_grade_7_scale_55,EDU,grade,7_scale_55,Grade code: 7_scale_55,,,,Grade code: 7_scale_55,,,translated,none|generated|generated,medium,danish,,,9960,9956,0.001103
+EDU_grade_7_scale_30,EDU,grade,7_scale_30,Grade code: 7_scale_30,,,,Grade code: 7_scale_30,,,translated,none|generated|generated,medium,danish,,,4864,4862,0.000539
+EDU_grade_7_scale_124,EDU,grade,7_scale_124,Grade code: 7_scale_124,,,,Grade code: 7_scale_124,,,translated,none|generated|generated,medium,danish,,,304,266,2.9e-05
+EDU_grade_7_scale_126,EDU,grade,7_scale_126,Grade code: 7_scale_126,,,,Grade code: 7_scale_126,,,translated,none|generated|generated,medium,danish,,,28,23,3e-06
+EDU_grade_7_scale_109,EDU,grade,7_scale_109,Grade code: 7_scale_109,,,,Grade code: 7_scale_109,,,translated,none|generated|generated,medium,danish,,,4907,4906,0.000543
+EDU_grade_7_scale_10,EDU,grade,7_scale_10,Grade code: 7_scale_10,,,,Grade code: 7_scale_10,,,translated,none|generated|generated,medium,danish,,,96408,87239,0.009662
+EDU_grade_7_scale_7,EDU,grade,7_scale_7,Grade code: 7_scale_7,,,,Grade code: 7_scale_7,,,translated,none|generated|generated,medium,danish,,,63027,58881,0.006522
+EDU_grade_7_scale_12,EDU,grade,7_scale_12,Grade code: 7_scale_12,,,,Grade code: 7_scale_12,,,translated,none|generated|generated,medium,danish,,,92851,81171,0.00899
+EDU_grade_7_scale_2,EDU,grade,7_scale_2,Grade code: 7_scale_2,,,,Grade code: 7_scale_2,,,translated,none|generated|generated,medium,danish,,,7815,7656,0.000848
+EDU_grade_7_scale_4,EDU,grade,7_scale_4,Grade code: 7_scale_4,,,,Grade code: 7_scale_4,,,translated,none|generated|generated,medium,danish,,,24282,23374,0.002589
+EDU_grade_7_scale_0,EDU,grade,7_scale_0,Grade code: 7_scale_0,,,,Grade code: 7_scale_0,,,translated,none|generated|generated,medium,danish,,,13,12,1e-06

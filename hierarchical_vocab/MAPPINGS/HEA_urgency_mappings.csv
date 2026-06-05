@@ -1,10 +1,10 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-HEA_urgency_2,HEA,urgency,2,Ikke-akut,Ikke-akut,,,Non-acute admission (ikke-akut),,,translated,dst_lpr_indm,high,danish,,
-HEA_urgency_1,HEA,urgency,1,Akut,Akut,,,Acute admission (akut),,,translated,dst_lpr_indm,high,danish,,
-HEA_urgency_9,HEA,urgency,9,Urgency level 9,Hastegrad 9,,,Urgency level 9,,,translated,none|generated,medium,danish,,
-HEA_urgency_ATA3,HEA,urgency,ATA3,Urgency level ATA3,,,,Urgency level ATA3,,,translated,none|generated,medium,danish,,
-HEA_urgency_ATA1,HEA,urgency,ATA1,Urgency level ATA1,,,,Urgency level ATA1,,,translated,none|generated,medium,danish,,
-HEA_urgency_ATA11,HEA,urgency,ATA11,Urgency level ATA11,,,,Urgency level ATA11,,,translated,none|generated,medium,danish,,
-HEA_urgency_ATA12,HEA,urgency,ATA12,Urgency level ATA12,,,,Urgency level ATA12,,,translated,none|generated,medium,danish,,
-HEA_urgency_ATA11B,HEA,urgency,ATA11B,Urgency level ATA11B,,,,Urgency level ATA11B,,,translated,none|generated,medium,danish,,
-HEA_urgency_ATA11A,HEA,urgency,ATA11A,Urgency level ATA11A,,,,Urgency level ATA11A,,,translated,none|generated,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+HEA_urgency_2,HEA,urgency,2,Ikke-akut,Ikke-akut,,,Non-acute admission (ikke-akut),,,translated,dst_lpr_indm,high,danish,,,36705760,6155907,0.681817
+HEA_urgency_1,HEA,urgency,1,Akut,Akut,,,Acute admission (akut),,,translated,dst_lpr_indm,high,danish,,,36713036,7047311,0.780547
+HEA_urgency_9,HEA,urgency,9,Urgency level 9,Hastegrad 9,,,Urgency level 9,,,translated,none|generated,medium,danish,,,39322,34137,0.003781
+HEA_urgency_ATA3,HEA,urgency,ATA3,Urgency level ATA3,,,,Urgency level ATA3,,,translated,none|generated,medium,danish,,,62350658,4354828,0.482333
+HEA_urgency_ATA1,HEA,urgency,ATA1,Urgency level ATA1,,,,Urgency level ATA1,,,translated,none|generated,medium,danish,,,10841971,3172894,0.351424
+HEA_urgency_ATA11,HEA,urgency,ATA11,Urgency level ATA11,,,,Urgency level ATA11,,,translated,none|generated,medium,danish,,,3552,477,5.3e-05
+HEA_urgency_ATA12,HEA,urgency,ATA12,Urgency level ATA12,,,,Urgency level ATA12,,,translated,none|generated,medium,danish,,,21,7,1e-06
+HEA_urgency_ATA11B,HEA,urgency,ATA11B,Urgency level ATA11B,,,,Urgency level ATA11B,,,translated,none|generated,medium,danish,,,24,13,1e-06
+HEA_urgency_ATA11A,HEA,urgency,ATA11A,Urgency level ATA11A,,,,Urgency level ATA11A,,,translated,none|generated,medium,danish,,,1,1,0.0

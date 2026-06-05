@@ -1,7 +1,7 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-SOC_fgslkod_3,SOC,fgslkod,3,Varetægtsfængslet,Varetægtsfængslet,,,Remanded in custody (pre-trial detention),,,translated,dst_ind_fgslkod,high,danish,,
-SOC_fgslkod_1,SOC,fgslkod,1,Anholdt under sag,Anholdt under sag,,,Arrested during the case,,,translated,dst_ind_fgslkod,high,danish,,
-SOC_fgslkod_5,SOC,fgslkod,5,Afsoner,Afsoner,,,Serving a sentence (inmate),,,translated,dst_ind_fgslkod,high,danish,,
-SOC_fgslkod_4,SOC,fgslkod,4,Overførsel af afsoner,Overførsel af afsoner,,,Transfer of an inmate,,,translated,dst_ind_fgslkod,high,danish,,
-SOC_fgslkod_0,SOC,fgslkod,0,Afsoning påbegyndt/fortsat under andet journalnummer,Afsoning påbegyndt/fortsat under andet journalnummer,,,Serving begun/continued under another case number,,,translated,dst_ind_fgslkod,high,danish,,
-SOC_fgslkod_2,SOC,fgslkod,2,Anholdelse opretholdt,Anholdelse opretholdt,,,Arrest upheld,,,translated,dst_ind_fgslkod,high,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+SOC_fgslkod_3,SOC,fgslkod,3,Varetægtsfængslet,Varetægtsfængslet,,,Remanded in custody (pre-trial detention),,,translated,dst_ind_fgslkod,high,danish,,,191792,66814,0.0074
+SOC_fgslkod_1,SOC,fgslkod,1,Anholdt under sag,Anholdt under sag,,,Arrested during the case,,,translated,dst_ind_fgslkod,high,danish,,,1276638,455331,0.050432
+SOC_fgslkod_5,SOC,fgslkod,5,Afsoner,Afsoner,,,Serving a sentence (inmate),,,translated,dst_ind_fgslkod,high,danish,,,510137,184709,0.020458
+SOC_fgslkod_4,SOC,fgslkod,4,Overførsel af afsoner,Overførsel af afsoner,,,Transfer of an inmate,,,translated,dst_ind_fgslkod,high,danish,,,138883,44365,0.004914
+SOC_fgslkod_0,SOC,fgslkod,0,Afsoning påbegyndt/fortsat under andet journalnummer,Afsoning påbegyndt/fortsat under andet journalnummer,,,Serving begun/continued under another case number,,,translated,dst_ind_fgslkod,high,danish,,,9744,6712,0.000743
+SOC_fgslkod_2,SOC,fgslkod,2,Anholdelse opretholdt,Anholdelse opretholdt,,,Arrest upheld,,,translated,dst_ind_fgslkod,high,danish,,,5033,4633,0.000513

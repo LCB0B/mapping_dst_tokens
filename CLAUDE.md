@@ -57,6 +57,7 @@ Hierarchical vocabulary mapping system for **40,465 codes** used in Danish admin
 | `HIERARCHY_SUMMARY.csv` | Overview of all 127 categories with counts | Quick reference for category structure |
 | `input_dataset_description.csv` | Model variable → DST `REGISTER:VARIABLE` source map (e.g. `BEF:OPR_LAND`, `AKM:SOCIO13`, `LMDB:VOLUME`+`VOLTYPECODE`, `KRAF:AFG_*`, `KRIN:IND_*`, `BUAF:HAENDELSE`, `KOTRE:UDEL`) + binning/processing notes | **Authoritative provenance map** — which DST register each category comes from; see `SOURCE_AUDIT.md` |
 | `SOURCE_AUDIT.md` | Per-category source verification of the `none\|generated` rows (verdicts, DST sources, fixes) | Provenance audit + hallucination corrections (2026-06) |
+| `token_occurrences.csv` | Per-token prevalence: `token, token_id, n_occurrences, n_people, pct_people` (41,404 tokens) | Source for the prevalence columns in MASTER/MAPPINGS (joined by `code`); see `scripts/add_prevalence.py` |
 | `README.md` | Project description and usage | Documentation |
 | `.gitignore` | Git ignore rules | Excludes one-off scripts, virtual envs, intermediate files |
 
@@ -86,7 +87,7 @@ One CSV per category. Columns: `code, prefix, database, value, token_id`. These 
 - **SPECIAL/** (1 category): Model tokens [PAD], [CLS], [SEP], [UNK], [MASK]
 
 #### `MAPPINGS/` (127 files)
-Per-category mapping files with descriptions and sources. Columns: `code, prefix, database, value, description, description_da, description_da_alt, description_en, description_en_official, description_en_official_source, description_en_source, source, confidence, language, parent_code, hierarchy_level`. **Generated from MASTER** — do not edit directly.
+Per-category mapping files with descriptions and sources. Columns: `code, prefix, database, value, description, description_da, description_da_alt, description_da_full, description_en, description_en_official, description_en_official_source, description_en_source, source, confidence, language, parent_code, hierarchy_level, n_occurrences, n_people, pct_people`. **Generated from MASTER** — do not edit directly.
 
 #### `MISSING/` (6 files)
 Templates for categories needing manual descriptions (Birth, Death, Immigration, Emigration, unknown events).
@@ -153,6 +154,10 @@ confidence_level — highest/high/medium/low. NOTE: sparsely populated (~7%); re
                    signal lives in `source`, `description_en_source`, and `description_en_official_source`.
 parent_code      — Parent code in hierarchy (empty for flat categories or top-level)
 hierarchy_level  — Level name in hierarchy (e.g., chapter, block, category, subcategory)
+n_occurrences    — PREVALENCE: total occurrences of the token across the dataset (from token_occurrences.csv,
+                   joined by code; empty for ~86 rare codes absent from the occurrence export)
+n_people         — PREVALENCE: number of distinct people who have the token
+pct_people       — PREVALENCE: fraction of people (0-1) who have the token. Source: token_occurrences.csv
 ```
 
 Consumers needing guaranteed accuracy should filter on `description_en_official`.

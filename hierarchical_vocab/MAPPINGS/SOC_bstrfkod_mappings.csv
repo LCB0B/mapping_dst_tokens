@@ -1,4 +1,4 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-SOC_bstrfkod_2,SOC,bstrfkod,2,Fængselsstraf,Fængselsstraf,,,Imprisonment,,,translated,dst_ind_bstrfkod,high,danish,,
-SOC_bstrfkod_1,SOC,bstrfkod,1,Hæfte (Ophørt 1.7.2001),Hæfte (Ophørt 1.7.2001),,,Hæfte (lenient short custodial sentence; abolished 1 Jul 2001),,,translated,dst_ind_bstrfkod,high,danish,,
-SOC_bstrfkod_4,SOC,bstrfkod,4,Straffastsættelse udsat,Straffastsættelse udsat,,,Sentencing postponed,,,translated,dst_ind_bstrfkod,high,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+SOC_bstrfkod_2,SOC,bstrfkod,2,Fængselsstraf,Fængselsstraf,,,Imprisonment,,,translated,dst_ind_bstrfkod,high,danish,,,542,487,5.4e-05
+SOC_bstrfkod_1,SOC,bstrfkod,1,Hæfte (Ophørt 1.7.2001),Hæfte (Ophørt 1.7.2001),,,Hæfte (lenient short custodial sentence; abolished 1 Jul 2001),,,translated,dst_ind_bstrfkod,high,danish,,,17,16,2e-06
+SOC_bstrfkod_4,SOC,bstrfkod,4,Straffastsættelse udsat,Straffastsættelse udsat,,,Sentencing postponed,,,translated,dst_ind_bstrfkod,high,danish,,,11,11,1e-06

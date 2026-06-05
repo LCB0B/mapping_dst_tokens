@@ -1,5 +1,5 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-HEA_patienttype_2,HEA,patienttype,2,Ambulant patient,Ambulant patient,,,Outpatient (ambulatory; from 2014 also acute/ER),,,translated,dst_lpr_pattype,high,danish,,
-HEA_patienttype_0,HEA,patienttype,0,Heldøgnspatient,Heldøgnspatient,,,Inpatient (full-day / overnight),,,translated,dst_lpr_pattype,high,danish,,
-HEA_patienttype_3,HEA,patienttype,3,Skadestuepatient,Skadestuepatient,,,Emergency-room patient (discontinued 2014),,,translated,dst_lpr_pattype,high,danish,,
-HEA_patienttype_1,HEA,patienttype,1,Deldøgnspatient,Deldøgnspatient,,,Part-day patient (discontinued 2002),,,translated,dst_lpr_pattype,high,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+HEA_patienttype_2,HEA,patienttype,2,Ambulant patient,Ambulant patient,,,Outpatient (ambulatory; from 2014 also acute/ER),,,translated,dst_lpr_pattype,high,danish,,,78270375,6800206,0.753178
+HEA_patienttype_0,HEA,patienttype,0,Heldøgnspatient,Heldøgnspatient,,,Inpatient (full-day / overnight),,,translated,dst_lpr_pattype,high,danish,,,45294304,7209675,0.79853
+HEA_patienttype_3,HEA,patienttype,3,Skadestuepatient,Skadestuepatient,,,Emergency-room patient (discontinued 2014),,,translated,dst_lpr_pattype,high,danish,,,18505859,4941481,0.547309
+HEA_patienttype_1,HEA,patienttype,1,Deldøgnspatient,Deldøgnspatient,,,Part-day patient (discontinued 2002),,,translated,dst_lpr_pattype,high,danish,,,1054497,690071,0.076431

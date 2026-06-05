@@ -73,6 +73,9 @@ def main():
                 "language": language,
                 "parent_code": row.get("parent_code", ""),
                 "hierarchy_level": row.get("hierarchy_level", ""),
+                "n_occurrences": row.get("n_occurrences", ""),
+                "n_people": row.get("n_people", ""),
+                "pct_people": row.get("pct_people", ""),
             }
             categories[cat].append(mapping_row)
             source_counts[source][language] += 1
@@ -80,7 +83,7 @@ def main():
     os.makedirs(MAPPINGS_DIR, exist_ok=True)
 
     # Write individual mapping files
-    fieldnames = ["code", "prefix", "database", "value", "description", "description_da", "description_da_alt", "description_da_full", "description_en", "description_en_official", "description_en_official_source", "description_en_source", "source", "confidence", "language", "parent_code", "hierarchy_level"]
+    fieldnames = ["code", "prefix", "database", "value", "description", "description_da", "description_da_alt", "description_da_full", "description_en", "description_en_official", "description_en_official_source", "description_en_source", "source", "confidence", "language", "parent_code", "hierarchy_level", "n_occurrences", "n_people", "pct_people"]
     files_written = 0
 
     for cat in sorted(categories.keys()):

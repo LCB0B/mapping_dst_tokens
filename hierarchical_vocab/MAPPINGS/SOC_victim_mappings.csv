@@ -1,2 +1,2 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-SOC_victim_1,SOC,victim,1,Victim status: 1,,,,Victim status: 1,,,translated,none|generated,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+SOC_victim_1,SOC,victim,1,Victim status: 1,,,,Victim status: 1,,,translated,none|generated,medium,danish,,,1424452,961846,0.106532

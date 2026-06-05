@@ -1,8 +1,8 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-DEM_civst_F,DEM,civst,F,Divorced,Skilt,,,Divorced,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,
-DEM_civst_G,DEM,civst,G,Married (including separated),Gift (+ separeret),,,Married (including separated),,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,
-DEM_civst_P,DEM,civst,P,Registered partnership,Registreret partnerskab,,,Registered partnership,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,
-DEM_civst_E,DEM,civst,E,Widow/Widower,Enke/Enkemand,,,Widow/Widower,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,
-DEM_civst_O,DEM,civst,O,Revoked partnership,Ophævet partnerskab,,,Revoked partnership,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,
-DEM_civst_L,DEM,civst,L,Longest living of 2 partners,Længstlevende af 2 partnere,,,Longest living of 2 partners,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,
-DEM_civst_D,DEM,civst,D,Death,Død,,,Death,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+DEM_civst_F,DEM,civst,F,Divorced,Skilt,,,Divorced,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,,1384204,1232872,0.136551
+DEM_civst_G,DEM,civst,G,Married (including separated),Gift (+ separeret),,,Married (including separated),,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,,5090580,4597543,0.509215
+DEM_civst_P,DEM,civst,P,Registered partnership,Registreret partnerskab,,,Registered partnership,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,,15406,14170,0.001569
+DEM_civst_E,DEM,civst,E,Widow/Widower,Enke/Enkemand,,,Widow/Widower,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,,1169769,1159957,0.128475
+DEM_civst_O,DEM,civst,O,Revoked partnership,Ophævet partnerskab,,,Revoked partnership,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,,6096,5603,0.000621
+DEM_civst_L,DEM,civst,L,Longest living of 2 partners,Længstlevende af 2 partnere,,,Longest living of 2 partners,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,,1363,1344,0.000149
+DEM_civst_D,DEM,civst,D,Death,Død,,,Death,,,copy-of-da,dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),high,danish,,,790,790,8.7e-05

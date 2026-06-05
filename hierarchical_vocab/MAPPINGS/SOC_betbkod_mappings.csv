@@ -1,2 +1,2 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-SOC_betbkod_1,SOC,betbkod,1,Conditional sentence code: 1,,,,Conditional sentence code: 1,,,translated,none|generated|generated|generated,medium,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+SOC_betbkod_1,SOC,betbkod,1,Conditional sentence code: 1,,,,Conditional sentence code: 1,,,translated,none|generated|generated|generated,medium,danish,,,13899,10321,0.001143

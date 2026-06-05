@@ -1,3 +1,3 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-DEM_female_1,DEM,female,1,Sex: Female,Køn: Kvinde,,,Sex: Female,,,translated,manual_update,medium,english,,
-DEM_female_0,DEM,female,0,Sex: Male,Køn: Mand,,,Sex: Male,,,translated,manual_update,medium,english,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+DEM_female_1,DEM,female,1,Sex: Female,Køn: Kvinde,,,Sex: Female,,,translated,manual_update,medium,english,,,4511576,4511576,0.499694
+DEM_female_0,DEM,female,0,Sex: Male,Køn: Mand,,,Sex: Male,,,translated,manual_update,medium,english,,,4517106,4517106,0.500306

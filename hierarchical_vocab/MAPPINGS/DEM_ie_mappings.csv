@@ -1,5 +1,5 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-DEM_ie_type_1,DEM,ie,type_1,Personer med dansk oprindelse,Personer med dansk oprindelse,,,Persons of Danish origin,,,translated,dst_bef_ie_type,high,danish,,
-DEM_ie_type_unknown,DEM,ie,type_unknown,Uoplyst,Uoplyst,,,Unknown,,,translated,dst_bef_ie_type,high,danish,,
-DEM_ie_type_2,DEM,ie,type_2,Indvandrere,Indvandrere,,,Immigrants,,,translated,dst_bef_ie_type,high,danish,,
-DEM_ie_type_3,DEM,ie,type_3,Efterkommere,Efterkommere,,,Descendants (of immigrants),,,translated,dst_bef_ie_type,high,danish,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+DEM_ie_type_1,DEM,ie,type_1,Personer med dansk oprindelse,Personer med dansk oprindelse,,,Persons of Danish origin,,,translated,dst_bef_ie_type,high,danish,,,7253440,7253440,0.803378
+DEM_ie_type_unknown,DEM,ie,type_unknown,Uoplyst,Uoplyst,,,Unknown,,,translated,dst_bef_ie_type,high,danish,,,,,
+DEM_ie_type_2,DEM,ie,type_2,Indvandrere,Indvandrere,,,Immigrants,,,translated,dst_bef_ie_type,high,danish,,,1507893,1507893,0.167011
+DEM_ie_type_3,DEM,ie,type_3,Efterkommere,Efterkommere,,,Descendants (of immigrants),,,translated,dst_bef_ie_type,high,danish,,,267349,267349,0.029611

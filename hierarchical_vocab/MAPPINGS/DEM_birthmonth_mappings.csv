@@ -1,13 +1,13 @@
-code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level
-DEM_birthmonth_12,DEM,birthmonth,12,Birth month 12,Fødselsmåned 12,,,Birth month 12,,,translated,manual_update,medium,english,,
-DEM_birthmonth_4,DEM,birthmonth,4,Birth month 4,Fødselsmåned 4,,,Birth month 4,,,translated,manual_update,medium,english,,
-DEM_birthmonth_10,DEM,birthmonth,10,Birth month 10,Fødselsmåned 10,,,Birth month 10,,,translated,manual_update,medium,english,,
-DEM_birthmonth_2,DEM,birthmonth,2,Birth month 2,Fødselsmåned 2,,,Birth month 2,,,translated,manual_update,medium,english,,
-DEM_birthmonth_9,DEM,birthmonth,9,Birth month 9,Fødselsmåned 9,,,Birth month 9,,,translated,manual_update,medium,english,,
-DEM_birthmonth_7,DEM,birthmonth,7,Birth month 7,Fødselsmåned 7,,,Birth month 7,,,translated,manual_update,medium,english,,
-DEM_birthmonth_1,DEM,birthmonth,1,Birth month 1,Fødselsmåned 1,,,Birth month 1,,,translated,manual_update,medium,english,,
-DEM_birthmonth_8,DEM,birthmonth,8,Birth month 8,Fødselsmåned 8,,,Birth month 8,,,translated,manual_update,medium,english,,
-DEM_birthmonth_3,DEM,birthmonth,3,Birth month 3,Fødselsmåned 3,,,Birth month 3,,,translated,manual_update,medium,english,,
-DEM_birthmonth_11,DEM,birthmonth,11,Birth month 11,Fødselsmåned 11,,,Birth month 11,,,translated,manual_update,medium,english,,
-DEM_birthmonth_5,DEM,birthmonth,5,Birth month 5,Fødselsmåned 5,,,Birth month 5,,,translated,manual_update,medium,english,,
-DEM_birthmonth_6,DEM,birthmonth,6,Birth month 6,Fødselsmåned 6,,,Birth month 6,,,translated,manual_update,medium,english,,
+code,prefix,database,value,description,description_da,description_da_alt,description_da_full,description_en,description_en_official,description_en_official_source,description_en_source,source,confidence,language,parent_code,hierarchy_level,n_occurrences,n_people,pct_people
+DEM_birthmonth_12,DEM,birthmonth,12,Birth month 12,Fødselsmåned 12,,,Birth month 12,,,translated,manual_update,medium,english,,,707847,707847,0.0784
+DEM_birthmonth_4,DEM,birthmonth,4,Birth month 4,Fødselsmåned 4,,,Birth month 4,,,translated,manual_update,medium,english,,,780479,780479,0.086444
+DEM_birthmonth_10,DEM,birthmonth,10,Birth month 10,Fødselsmåned 10,,,Birth month 10,,,translated,manual_update,medium,english,,,734355,734355,0.081336
+DEM_birthmonth_2,DEM,birthmonth,2,Birth month 2,Fødselsmåned 2,,,Birth month 2,,,translated,manual_update,medium,english,,,709706,709706,0.078606
+DEM_birthmonth_9,DEM,birthmonth,9,Birth month 9,Fødselsmåned 9,,,Birth month 9,,,translated,manual_update,medium,english,,,756430,756430,0.083781
+DEM_birthmonth_7,DEM,birthmonth,7,Birth month 7,Fødselsmåned 7,,,Birth month 7,,,translated,manual_update,medium,english,,,776912,776912,0.086049
+DEM_birthmonth_1,DEM,birthmonth,1,Birth month 1,Fødselsmåned 1,,,Birth month 1,,,translated,manual_update,medium,english,,,754722,754722,0.083592
+DEM_birthmonth_8,DEM,birthmonth,8,Birth month 8,Fødselsmåned 8,,,Birth month 8,,,translated,manual_update,medium,english,,,765585,765585,0.084795
+DEM_birthmonth_3,DEM,birthmonth,3,Birth month 3,Fødselsmåned 3,,,Birth month 3,,,translated,manual_update,medium,english,,,804448,804448,0.089099
+DEM_birthmonth_11,DEM,birthmonth,11,Birth month 11,Fødselsmåned 11,,,Birth month 11,,,translated,manual_update,medium,english,,,692796,692796,0.076733
+DEM_birthmonth_5,DEM,birthmonth,5,Birth month 5,Fødselsmåned 5,,,Birth month 5,,,translated,manual_update,medium,english,,,790192,790192,0.08752
+DEM_birthmonth_6,DEM,birthmonth,6,Birth month 6,Fødselsmåned 6,,,Birth month 6,,,translated,manual_update,medium,english,,,755210,755210,0.083646
