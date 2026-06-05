@@ -1,0 +1,3785 @@
+{
+  "1": {
+    "110": {
+      "n": 35177,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 9422,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 4943,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 2887,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 2319,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 1685,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 1126,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 682,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 475,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 354,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 186,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 102,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 44,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 29,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 26,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 18,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "2": {
+    "110": {
+      "n": 5947,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 224,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 113,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 65,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 51,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 40,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 27,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 25,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 14,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 13,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "3": {
+    "110": {
+      "n": 12666,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 1632,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 1008,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 497,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 412,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 410,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 312,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 234,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 213,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 189,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 131,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 102,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 53,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 52,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 33,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 16,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "4": {
+    "110": {
+      "n": 5279,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 158,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 87,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 43,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 36,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 32,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 16,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 14,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 9,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 8,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "5": {
+    "110": {
+      "n": 1922,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 99,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 19,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 17,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 13,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 13,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 9,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "6": {
+    "110": {
+      "n": 45584,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 4561,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 3136,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 2267,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 1794,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 1485,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 1357,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 1253,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 1134,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 797,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 624,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 554,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 369,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 313,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 146,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 75,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "7": {
+    "110": {
+      "n": 12784,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 226,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 164,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 124,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 118,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 80,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 68,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 67,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 58,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 56,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 52,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 13,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "8": {
+    "110": {
+      "n": 2848,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 85,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 54,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 44,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 19,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 17,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 15,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 13,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 12,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "9": {
+    "110": {
+      "n": 2882,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 1014,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 557,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 234,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 179,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 164,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 142,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 132,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 108,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 72,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 69,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 66,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 59,
+      "label_da": "",
+      "label_en": ""
+    },
+    "420": {
+      "n": 58,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 34,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 30,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "10": {
+    "120": {
+      "n": 14530,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 292,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 273,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 254,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 187,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 185,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 122,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 80,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 70,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 64,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 36,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 12,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 10,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 3,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 3,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "11": {
+    "120": {
+      "n": 3759,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 132,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 116,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 83,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 78,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 52,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 34,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 33,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 29,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 21,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 20,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "12": {
+    "120": {
+      "n": 8736,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 258,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 242,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 203,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 181,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 135,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 118,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 104,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 68,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 63,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 35,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 12,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 10,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "19": {
+    "120": {
+      "n": 203,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 19,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 10,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 9,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 3,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "20": {
+    "131": {
+      "n": 8,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "21": {
+    "131": {
+      "n": 1627,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 159,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 84,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 57,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 34,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 34,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 27,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 24,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 21,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 13,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 3,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 3,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "22": {
+    "131": {
+      "n": 2587,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 327,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 108,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 98,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 85,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 51,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 48,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 36,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 29,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 20,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "23": {
+    "131": {
+      "n": 242,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 106,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 85,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 82,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 70,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 63,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 55,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 39,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 37,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 28,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 14,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 8,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "25": {
+    "132": {
+      "n": 155,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 25,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 15,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 14,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "26": {
+    "132": {
+      "n": 14416,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 3421,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 1847,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 494,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 336,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 289,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 175,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 143,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 141,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 118,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 12,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 10,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 9,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "27": {
+    "132": {
+      "n": 26195,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 9563,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 6234,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 1494,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 791,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 778,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 550,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 476,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 348,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 210,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 76,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 39,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 36,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 22,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "28": {
+    "132": {
+      "n": 44013,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 6336,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 6067,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 4155,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 781,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 751,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 605,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 591,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 254,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 222,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 172,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 84,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 78,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 40,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 3,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "29": {
+    "410": {
+      "n": 912,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 236,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 128,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 80,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 62,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 37,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 34,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 15,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 9,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 8,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 3,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "30": {
+    "133": {
+      "n": 394,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 317,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 185,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 88,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 22,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 21,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 19,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 18,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 16,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 8,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 3,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "31": {
+    "133": {
+      "n": 15026,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 7533,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 4095,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 2112,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 749,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 567,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 513,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 246,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 177,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 160,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 128,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 88,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 28,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 25,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 10,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 8,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "32": {
+    "133": {
+      "n": 29017,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 11111,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 8235,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 8079,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 1853,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 1444,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 1436,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 717,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 594,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 459,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 447,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 175,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 140,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 63,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 22,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 10,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "33": {
+    "133": {
+      "n": 76297,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 75868,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 14533,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 9270,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 3054,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 1874,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 1406,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 1167,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 1134,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 750,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 644,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 461,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 403,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 341,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 63,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 49,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "39": {
+    "410": {
+      "n": 767,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 407,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 349,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 293,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 138,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 121,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 76,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 64,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 47,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 36,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 23,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 22,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 13,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 12,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "40": {
+    "134": {
+      "n": 443,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 204,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 41,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 31,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 26,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 10,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 3,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "41": {
+    "134": {
+      "n": 24338,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 13816,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 1614,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 1442,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 884,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 694,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 651,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 363,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 144,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 127,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 126,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 96,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 79,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 69,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 29,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "42": {
+    "134": {
+      "n": 120966,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 34239,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 4395,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 4330,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 3810,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 2897,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 2854,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 1299,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 950,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 674,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 643,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 489,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 445,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 222,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 74,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 62,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "43": {
+    "134": {
+      "n": 109668,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 24931,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 8098,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 3826,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 1773,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 1492,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 893,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 557,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 545,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 536,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 513,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 495,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 369,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 192,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 85,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 51,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "49": {
+    "134": {
+      "n": 1426,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 769,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 644,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 290,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 226,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 209,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 145,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 73,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 71,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 49,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 48,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 29,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 8,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "50": {
+    "134": {
+      "n": 1680,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 99,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 72,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 27,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 14,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 14,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 12,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 11,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "51": {
+    "134": {
+      "n": 104987,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 4079,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 4014,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 1588,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 1167,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 642,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 501,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 418,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 412,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 382,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 380,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 274,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 264,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 216,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 59,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "52": {
+    "134": {
+      "n": 39835,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 3284,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 1263,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 855,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 646,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 428,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 417,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 350,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 315,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 215,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 195,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 175,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 159,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 109,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 44,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "53": {
+    "134": {
+      "n": 16900,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 3080,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 2462,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 1283,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 1011,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 442,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 189,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 159,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 149,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 111,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 102,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 95,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 69,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 68,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 28,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "59": {
+    "323": {
+      "n": 395,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 265,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 225,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 153,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 121,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 109,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 58,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 29,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 28,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 26,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 17,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 8,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 2,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "60": {
+    "134": {
+      "n": 5308,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 1823,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 1177,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 342,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 240,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 118,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 91,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 71,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 54,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 53,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 29,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 27,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 24,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "61": {
+    "134": {
+      "n": 58026,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 23573,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 4573,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 3393,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 2387,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 1107,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 695,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 354,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 213,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 206,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 146,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 117,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 114,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 108,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 77,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 9,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "62": {
+    "134": {
+      "n": 39641,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 16554,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 2899,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 2437,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 2137,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 2013,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 1127,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 642,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 458,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 375,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 356,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 275,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 251,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 199,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 94,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 17,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "63": {
+    "135": {
+      "n": 32168,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 31136,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 4777,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 3759,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 2099,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 1275,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 577,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 403,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 373,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 356,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 250,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 214,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 186,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 119,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 90,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 24,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "69": {
+    "134": {
+      "n": 8538,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 807,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 494,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 431,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 241,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 162,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 147,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 124,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 122,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 52,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 23,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 19,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "70": {
+    "139": {
+      "n": 3712,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 2224,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 2011,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 365,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 219,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 214,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 89,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 50,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 49,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 33,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 33,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 24,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 17,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 14,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 6,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "71": {
+    "134": {
+      "n": 52775,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 28906,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 6119,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 4284,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 3744,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 2908,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 2005,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 585,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 546,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 436,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 426,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 422,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 329,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 159,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 131,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 30,
+      "label_da": "",
+      "label_en": ""
+    },
+    "420": {
+      "n": 4,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "72": {
+    "134": {
+      "n": 69146,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 28150,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 10324,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 7283,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 7145,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 6166,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 4415,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 1473,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 1254,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 907,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 657,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 567,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 496,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 454,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 221,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 81,
+      "label_da": "",
+      "label_en": ""
+    },
+    "420": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "73": {
+    "134": {
+      "n": 46256,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 21342,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 20826,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 9940,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 8419,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 7682,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 5551,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 1503,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 1348,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 1022,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 994,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 506,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 476,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 341,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 285,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 78,
+      "label_da": "",
+      "label_en": ""
+    },
+    "420": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "79": {
+    "134": {
+      "n": 2798,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 1853,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 752,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 735,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 444,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 419,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 368,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 312,
+      "label_da": "",
+      "label_en": ""
+    },
+    "420": {
+      "n": 236,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 167,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 145,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 143,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 143,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 57,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 26,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 13,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "80": {
+    "322": {
+      "n": 587142,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 180031,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 1462,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 268,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 245,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 108,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 82,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 63,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 33,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 26,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 24,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 23,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 18,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 14,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 7,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 5,
+      "label_da": "",
+      "label_en": ""
+    },
+    "420": {
+      "n": 1,
+      "label_da": "",
+      "label_en": ""
+    }
+  },
+  "89": {
+    "420": {
+      "n": 386010,
+      "label_da": "",
+      "label_en": ""
+    },
+    "310": {
+      "n": 269393,
+      "label_da": "",
+      "label_en": ""
+    },
+    "410": {
+      "n": 87058,
+      "label_da": "",
+      "label_en": ""
+    },
+    "323": {
+      "n": 36770,
+      "label_da": "",
+      "label_en": ""
+    },
+    "330": {
+      "n": 19240,
+      "label_da": "",
+      "label_en": ""
+    },
+    "134": {
+      "n": 12543,
+      "label_da": "",
+      "label_en": ""
+    },
+    "210": {
+      "n": 12488,
+      "label_da": "",
+      "label_en": ""
+    },
+    "322": {
+      "n": 7878,
+      "label_da": "",
+      "label_en": ""
+    },
+    "321": {
+      "n": 5492,
+      "label_da": "",
+      "label_en": ""
+    },
+    "139": {
+      "n": 5027,
+      "label_da": "",
+      "label_en": ""
+    },
+    "220": {
+      "n": 2780,
+      "label_da": "",
+      "label_en": ""
+    },
+    "133": {
+      "n": 1588,
+      "label_da": "",
+      "label_en": ""
+    },
+    "135": {
+      "n": 1495,
+      "label_da": "",
+      "label_en": ""
+    },
+    "132": {
+      "n": 1353,
+      "label_da": "",
+      "label_en": ""
+    },
+    "110": {
+      "n": 931,
+      "label_da": "",
+      "label_en": ""
+    },
+    "120": {
+      "n": 343,
+      "label_da": "",
+      "label_en": ""
+    },
+    "131": {
+      "n": 96,
+      "label_da": "",
+      "label_en": ""
+    }
+  }
+}

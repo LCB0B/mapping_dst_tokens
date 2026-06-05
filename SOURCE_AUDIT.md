@@ -270,7 +270,18 @@ Confirmed correct already (no change): **`LAB_socio13`** (21) matches `AKM:SOCIO
 — DST states "ingen værdisæt"; 5-digit codes only via Forskningsservice) and `LAB_socio` `gl_*`
 (`AKM:SOCIO_GL` — see deep-dive below).
 
-## LAB_socio `gl_*` = AKM `SOCIO_GL` (1976–1990) — deep-dive (2026-06-04)
+## LAB_socio `gl_*` = AKM `SOCIO_GL` (1976–1990) — ✅ RESOLVED via crosswalk (2026-06-05)
+
+**Update:** since the raw value set is not public, the labels were recovered **empirically** from
+longitudinal sequences (run on the VM → `transition/socio_gl_crosswalk_empirical.csv`). For people
+observed across the ~1987 scheme boundary, each `gl_X` is mapped to its **modal SOCIO13** successor,
+labelled with the authoritative `LAB_socio13` text (`scripts/apply_socio_gl_crosswalk.py`).
+**49/51 recovered** (17 high / 8 medium / 24 low confidence by transition share);
+`gl_81`/`gl_82` have no data → `[Unresolved]`. `source=empirical_crosswalk_socio13`; the socio13
+code + share + n are recorded in `description_da_alt`. The original deep-dive (below) stands as the
+provenance for why the crosswalk was necessary.
+
+
 
 `SOCIO_GL` = AKM "Socioøkonomisk klassifikation fra 1976 til 1990" (DST AKM variable list).
 It is the **`ARBSTIL`** member of the socio family (per the Aarhus LMDG IDAN var-description
@@ -294,7 +305,18 @@ are group-plausible but not confirmable per-code. **Recommendation:** re-mark th
 unconfirmable ones `[Unresolved]` (keeping `gl_20`/`gl_40`), OR fill all 51 from the raw `.pt` /
 DST Forskningsservice value set if available. Left unchanged pending that decision.
 
-## LAB_db07 5-digit (44 weak) — mixed/ambiguous industry encoding (2026-06-04)
+## LAB_db07 5-digit — ✅ 23/42 RESOLVED via firm crosswalk (2026-06-05) + analysis
+
+**Update:** recovered empirically from firm sequences (`transition/industry_crosswalk_empirical.csv`,
+`scripts/apply_db07_industry_crosswalk.py`): each 5-digit db07 code → the DB93/nace code the same
+firm co-occurs with → label from `raw/LAB_nace.txt`. **23/42 resolved** (share≥0.3, n≥20),
+`source=empirical_industry_crosswalk`. This **confirmed the encoding & that the old guesses were
+wrong**: the codes are agriculture/forestry/fishing/mining (`11100`=Kornavl, `13000`=Planteskoler,
+`15000`=mixed farming, `61000`=crude petroleum, `89900`=other mining) — NOT textiles/leather/telecom.
+`514620`/`999999` resolved directly from DB93. 19 with no/weak co-occurrence stay `[Unresolved]`.
+The original analysis (below) explains the ambiguity the crosswalk settled.
+
+
 
 The 691 sourced `LAB_db07` codes are 6-digit DB07 (NACE Rev.2); **none start with `0`**, i.e.
 the agriculture/mining divisions 01–09 are absent from the sourced set. The 44 weak codes are

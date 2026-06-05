@@ -187,21 +187,23 @@ MG=mg aktivt stof · ML=ml · PK=pakninger · ST=Stk · TU=tusind enheder.
 — a textbook HARD-RULES violation, corrected 2026-06-04 by
 `scripts/fix_hea_volume_voltypecode.py`.
 
-### Remaining `[Unresolved]` codes (70 total)
-Only two categories still carry `[Unresolved …]` placeholders — both are the
-historically-damaged legacy codes (see HARD RULES). **Do not guess them:**
-- **`LAB_db07` 5-digit (36)** — e.g. `11100`…`89900`. DST DB07 is 6-digit (`011100`);
-  the leading-zero mapping is ambiguous and `LAB_db07_dict.csv` (3-digit) lacks them.
-  Needs DST Forskningsservice or the original `.pt` the vocab was built from.
-- **`LAB_socio` `gl_*` (51)** — `AKM:SOCIO_GL` = "Socioøkonomisk klassifikation 1976–1990",
-  i.e. the **`ARBSTIL`** member of the socio family (ARBSTIL 1980-93 → NYARB → SOCSTIL_KODE →
-  SOC_STATUS_KODE). DST publishes only the **harmonized 3-digit** version
-  (`raw/dst_downloads/arbstil_kode_1980.csv`); the **raw 2-digit** codes our `gl_*` use are
-  internal-only → DST Forskningsservice / original `.pt`. Group structure (from
-  `idan_vde.pdf`): 11-15 selvstændige, 20 medhj. ægtefælle, 31-37 lønmodtagere, 40 arbejdsløse,
-  50/55 tilbagetrækning, 60 pensionister, 90/91/92 andre. 34 are `[Unresolved]`; 17 carry
-  unsourced labels (only `gl_20`/`gl_40` confirmable; `gl_41/42/43/49/51/52/53` are anachronistic
-  for 1976-90). See `SOURCE_AUDIT.md` for the full deep-dive. Do NOT guess the per-code labels.
+### Remaining `[Unresolved]` codes (32 total)
+Down from ~70 after the **empirical crosswalk** recovery (2026-06-05): the two big
+historically-damaged blocks (`LAB_socio` `gl_*` and `LAB_db07` 5-digit) were resolved
+data-driven from longitudinal sequences — see `transition/`, `SOCIO_GL_README.md`,
+`scripts/apply_socio_gl_crosswalk.py`, `scripts/apply_db07_industry_crosswalk.py`.
+- **`LAB_socio` `gl_*`** — `AKM:SOCIO_GL` = "Socioøkonomisk klassifikation 1976–1990" (the
+  `ARBSTIL` member of the socio family; raw 2-digit value set not public). **49/51 recovered**
+  via the SOCIO_GL→SOCIO13 transition crosswalk (`source=empirical_crosswalk_socio13`, conf
+  high/medium/low by transition share, basis noted in `description_da_alt`). Only `gl_81`/`gl_82`
+  stay `[Unresolved]` (no transition data).
+- **`LAB_db07` 5-digit (`11100`…`89900`)** — leading-zero-stripped low-division (agriculture/
+  forestry/fishing/mining) industry codes; encoding ambiguous online. **23/42 recovered** via the
+  DB07→DB93/nace firm crosswalk (`source=empirical_industry_crosswalk`); the old NACE-Rev2 guesses
+  (13000=textiles…) were WRONG (13000=plant nurseries, 61000=crude petroleum). 19 with no/weak
+  co-occurrence stay `[Unresolved]`; plus `514620`/`999999` resolved directly from DB93.
+- The remaining 32 `[Unresolved]` are these 19 db07 + 2 socio + small misc (`DEM_kom` 3, `DEM_opr`
+  2, `SOC_frakkod` 2, `SOC_samtykke` 2, `SOC_afgtypko` 1, `SOC_pgf` 1). Do NOT guess them.
 
 ### Hierarchical Classifications
 Eight categories have hierarchical parent-child structure encoded in `parent_code` and `hierarchy_level` columns:
