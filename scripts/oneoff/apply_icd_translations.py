@@ -19,7 +19,7 @@ MASTER = "MASTER_CATEGORY_MAPPINGS.csv"
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--map", default="scripts/icd_da_translations.json")
+    ap.add_argument("--map", default="scripts/worklists/icd_da_translations.json")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
     en_map = json.load(open(args.map, encoding="utf-8"))

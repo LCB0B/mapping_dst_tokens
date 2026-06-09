@@ -4,7 +4,7 @@
 context that helps an LLM expand+translate correctly (specialty name, coarser
 SSR levels, and fuller GP text where available).
 
-Output: scripts/hea_speciale_worklist.csv with columns:
+Output: scripts/worklists/hea_speciale_worklist.csv with columns:
   description_da, n_rows, sample_value, specialty_code, specialty_name_en,
   spec4_txt, spec3_txt, plo_fuller, current_bad_en
 """
@@ -14,7 +14,7 @@ from collections import defaultdict
 MASTER = "MASTER_CATEGORY_MAPPINGS.csv"
 SPEC = "raw/dst_downloads/speciale_dst_codes.csv"          # code, spec6_txt, spec4_txt, spec3_txt
 PLO = "raw/dst_downloads/plo_gp_ydelser_merged.csv"        # ydelsesnr, description_da
-OUT = "scripts/hea_speciale_worklist.csv"
+OUT = "scripts/worklists/hea_speciale_worklist.csv"
 
 
 def load_spec():

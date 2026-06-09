@@ -4,16 +4,16 @@ ISCO/NACE 4-digit prefix lookup, but MASTER's Danish description does NOT
 match the authoritative DST source for that numeric code.
 
 Root cause: the `LAB_disco` codes in MASTER came from an older Danish DISCO
-dictionary whose code numbering DIFFERS from both `mapping/DISCO_CODES.txt`
+dictionary whose code numbering DIFFERS from both `raw/LAB_disco_codes.txt`
 (a later DISCO version) and ISCO-88. Example:
 
   LAB_disco_314100
      MASTER description_da  = "Teknikerarbejde inden for biovidenskab"
                                (Bioscience technician — OLDER DISCO)
-     DISCO_CODES.txt 314100 = "Teknisk arbejde om bord på skibe"
+     LAB_disco_codes.txt 314100 = "Teknisk arbejde om bord på skibe"
                                (Technical work on ships — LATER DISCO)
      ISCO-88 3141            = "Ships' engineers"
-                               (matches DISCO_CODES.txt but NOT MASTER's DA)
+                               (matches LAB_disco_codes.txt but NOT MASTER's DA)
 
 Because MASTER uses an older DISCO version, its numeric codes don't map
 cleanly to ISCO-88 4-digit prefixes. The translated English (derived from
@@ -68,8 +68,8 @@ def main():
 
     # Authoritative per-code Danish sources
     sources = {
-        "LAB_disco":   load_source("mapping/DISCO_CODES.txt"),
-        "LAB_disco08": load_source("raw/disco.csv", is_csv_semicolon=True),
+        "LAB_disco":   load_source("raw/LAB_disco_codes.txt"),
+        "LAB_disco08": load_source("raw/LAB_disco.csv", is_csv_semicolon=True),
     }
 
     with open(MASTER_PATH, newline="", encoding="utf-8") as f:

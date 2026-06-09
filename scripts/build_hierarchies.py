@@ -2,7 +2,7 @@
 """Fill description gaps from local reference data and build hierarchy columns.
 
 Reads MASTER_CATEGORY_MAPPINGS.csv, fills placeholder descriptions from
-mapping/lookup_dictionaries/*.csv, generates descriptions for self-evident
+lookup_dictionaries/*.csv, generates descriptions for self-evident
 codes (bins, quantiles, grades), and adds parent_code + hierarchy_level columns.
 
 Run from repository root:
@@ -16,7 +16,7 @@ from collections import defaultdict
 
 
 MASTER_PATH = "MASTER_CATEGORY_MAPPINGS.csv"
-DICT_DIR = "mapping/lookup_dictionaries"
+DICT_DIR = "lookup_dictionaries"
 
 
 def load_dict_file(filepath):

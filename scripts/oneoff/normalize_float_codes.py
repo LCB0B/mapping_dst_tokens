@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Normalize the 769 '.0' float-style codes in vocab.json, vocab_2.json, and
+"""Normalize the 769 '.0' float-style codes in vocab.json, archive/vocab_2.json, and
 MASTER_CATEGORY_MAPPINGS.csv into plain integer codes.
 
 Rule:
@@ -27,7 +27,7 @@ import json
 import os
 from collections import Counter
 
-VOCAB_FILES = ["vocab.json", "vocab_2.json"]
+VOCAB_FILES = ["vocab.json", "archive/vocab_2.json"]
 MASTER_PATH = "MASTER_CATEGORY_MAPPINGS.csv"
 
 

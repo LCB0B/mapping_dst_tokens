@@ -5,7 +5,7 @@ Per input_dataset_description.csv:
   SOC_loeslkod  = KRIN:IND_LOESLKOD   -> upgrade bad-MT Danish from the downloaded codebook
   LAB_stoette   = AMRUN:STOETTE_BESK_KODE -> raw/LAB_stoette_besk_kode_nullified.txt
   LAB_fravaer   = AMRUN:FRAVAER_BESK_KODE -> raw/LAB_fravaer_besk_kode_nullified.txt
-  EDU_afg       = KOTRE:AFG_ART       -> mapping/lookup_dictionaries/EDU_afg_art_dict.csv
+  EDU_afg       = KOTRE:AFG_ART       -> lookup_dictionaries/EDU_afg_art_dict.csv
 
 (DEM_far/DEM_mor weak codes 1/2/99/unknown are NOT in the FTDB value set -> left as-is, not
 invented. EDU_tilg/KOTRE:TILG_ART deferred to the DST-fetch batch.)
@@ -64,7 +64,7 @@ def load_loeslkod_da():
 
 def load_afg_dict():
     d = {}
-    for r in csv.DictReader(open("mapping/lookup_dictionaries/EDU_afg_art_dict.csv", encoding="utf-8")):
+    for r in csv.DictReader(open("lookup_dictionaries/EDU_afg_art_dict.csv", encoding="utf-8")):
         d[r["code"].replace("EDU_", "")] = r["description"]  # key e.g. afg_art_1
     return d
 

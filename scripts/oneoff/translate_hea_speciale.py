@@ -4,12 +4,12 @@
 worklist strings. Glossary + structural rules authored by Opus; rows still
 containing Danish letters after translation are flagged for manual review.
 
-Outputs scripts/hea_speciale_auto.tsv (id, da_full, en, confidence, residual).
+Outputs scripts/worklists/hea_speciale_auto.tsv (id, da_full, en, confidence, residual).
 """
 import csv, re, sys
 
-WL = "scripts/hea_speciale_worklist.csv"
-OUT = "scripts/hea_speciale_auto.tsv"
+WL = "scripts/worklists/hea_speciale_worklist.csv"
+OUT = "scripts/worklists/hea_speciale_auto.tsv"
 
 # --- Danish billing abbreviation -> full Danish word (matched as whole tokens,
 #     with optional trailing '.'; case-insensitive) ---

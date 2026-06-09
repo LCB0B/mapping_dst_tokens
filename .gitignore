@@ -100,8 +100,10 @@ raw/*.pdf
 *.temp
 *.log
 
-# One-off Python scripts at root (keep locally, exclude from git)
-# Permanent scripts go in scripts/ directory
+# Script layout: the 5 permanent utilities live in scripts/; historical one-off
+# fixers are tracked under scripts/oneoff/; intermediate work files under
+# scripts/worklists/. The rules below only block stray one-off scripts at the
+# repo ROOT (they must not be committed there).
 /add_*.py
 /cleanup_*.py
 /convert_*.py

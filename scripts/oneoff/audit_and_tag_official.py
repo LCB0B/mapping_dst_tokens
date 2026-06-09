@@ -14,7 +14,7 @@ authoritative source files):
     isco88-crosswalk ISCO-88 via Danish-name match
     (empty)          No authoritative source available for this row
 
-An audit report is written to `translation_audit_report.csv` summarising:
+An audit report is written to `archive/translation_audit_report.csv` summarising:
   category, rows, empty_en, translated_en, official_en, and flags
   (mojibake, danish-leftover, repetitive).
 
@@ -27,7 +27,7 @@ import re
 from collections import Counter, defaultdict
 
 MASTER_PATH = "MASTER_CATEGORY_MAPPINGS.csv"
-REPORT_PATH = "translation_audit_report.csv"
+REPORT_PATH = "archive/translation_audit_report.csv"
 
 # ---- Sources ---------------------------------------------------------------
 
@@ -68,7 +68,7 @@ def load_isco(path):
 
 def load_disco08_da():
     d = {}
-    with open("raw/disco.csv", encoding="utf-8") as f:
+    with open("raw/LAB_disco.csv", encoding="utf-8") as f:
         for r in csv.DictReader(f, delimiter=";"):
             code = r.get("KODE", "").strip().strip('"')
             title = r.get("TITEL", "").strip()
@@ -79,7 +79,7 @@ def load_disco08_da():
 
 def load_disco88_da():
     d = {}
-    with open("mapping/DISCO_CODES.txt", encoding="utf-8") as f:
+    with open("raw/LAB_disco_codes.txt", encoding="utf-8") as f:
         for line in f:
             parts = line.rstrip("\n").split("\t")
             if len(parts) >= 2:

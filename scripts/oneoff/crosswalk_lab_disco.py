@@ -12,9 +12,9 @@ from BOTH Danish DISCO eras:
 
 For each row needing official English, this script:
   1. Checks if the row's Danish description matches the DISCO-08 title
-     at the same numeric code (via raw/disco.csv) — if yes, use ISCO-08.
+     at the same numeric code (via raw/LAB_disco.csv) — if yes, use ISCO-08.
   2. Otherwise checks if it matches DISCO-88 title at the same code
-     (via DISCO_CODES.txt) — if yes, use ISCO-88.
+     (via LAB_disco_codes.txt) — if yes, use ISCO-88.
   3. Otherwise tries name-based fuzzy match (≥ 0.90) against both DISCO
      Danish dictionaries and uses the matched code's ISCO prefix.
   4. If still nothing reliable, leaves `description_en_official` empty.
@@ -34,7 +34,7 @@ MASTER_PATH = "MASTER_CATEGORY_MAPPINGS.csv"
 
 def load_disco88_txt():
     d = {}
-    with open("mapping/DISCO_CODES.txt", encoding="utf-8") as f:
+    with open("raw/LAB_disco_codes.txt", encoding="utf-8") as f:
         for line in f:
             parts = line.rstrip("\n").split("\t")
             if len(parts) >= 2:
@@ -44,7 +44,7 @@ def load_disco88_txt():
 
 def load_disco08_raw():
     d = {}
-    with open("raw/disco.csv", encoding="utf-8") as f:
+    with open("raw/LAB_disco.csv", encoding="utf-8") as f:
         for r in csv.DictReader(f, delimiter=";"):
             code = r.get("KODE", "").strip().strip('"')
             title = r.get("TITEL", "").strip()

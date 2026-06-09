@@ -5,7 +5,7 @@ SOCIO_GL (LAB_socio gl_*) = AKM "Socioøkonomisk klassifikation 1976-1990" (the 
 variable); its raw 2-digit value set is not public (see SOCIO_GL_README.md). Instead the labels
 are recovered empirically: for people observed across the ~1987 scheme boundary, each old gl_X
 code is mapped to the modern SOCIO13 code they co-occur with. Input:
-  transition/socio_gl_crosswalk_empirical.csv  (per gl_X: modal/recommended socio13, share, n, confidence)
+  crosswalks/empirical/socio_gl_crosswalk_empirical.csv  (per gl_X: modal/recommended socio13, share, n, confidence)
 
 We label gl_X by its MODAL socio13 successor (most-common; equals the lift recommendation for all
 high/medium codes, and is the faithful choice where they disagree at low share). The SOCIO13 label
@@ -18,7 +18,7 @@ Re-runnable. Usage: python3 scripts/apply_socio_gl_crosswalk.py [--dry-run]
 import argparse, csv
 
 MASTER = "MASTER_CATEGORY_MAPPINGS.csv"
-CW = "transition/socio_gl_crosswalk_empirical.csv"
+CW = "crosswalks/empirical/socio_gl_crosswalk_empirical.csv"
 
 
 def main():

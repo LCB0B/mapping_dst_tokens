@@ -16,7 +16,7 @@ Per-row flags:
   F10 disagreement with description_en_official (when official is set and
       en differs significantly)
 
-Writes a per-row report to translation_en_audit.csv and a per-category
+Writes a per-row report to archive/translation_en_audit.csv and a per-category
 summary.
 
 Usage:
@@ -29,7 +29,7 @@ from collections import Counter, defaultdict
 from difflib import SequenceMatcher
 
 MASTER_PATH = "MASTER_CATEGORY_MAPPINGS.csv"
-REPORT_PATH = "translation_en_audit.csv"
+REPORT_PATH = "archive/translation_en_audit.csv"
 
 DANISH_CHARS = re.compile(r"[æøåÆØÅ]")
 MOJIBAKE = re.compile(r"[\x00-\x1f\x80-\x9f]|Ã\x98|¾|¿")

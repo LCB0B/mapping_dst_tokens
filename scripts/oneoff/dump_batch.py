@@ -6,8 +6,8 @@ all disambiguating context on one line. Also reports how many remain untranslate
 """
 import csv, sys, os
 
-WL = "scripts/hea_speciale_worklist.csv"
-TR = "scripts/hea_speciale_translations.tsv"
+WL = "scripts/worklists/hea_speciale_worklist.csv"
+TR = "scripts/worklists/hea_speciale_translations.tsv"
 
 rows = list(csv.DictReader(open(WL, encoding="utf-8")))
 done = set()

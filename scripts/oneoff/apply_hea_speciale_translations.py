@@ -2,8 +2,8 @@
 """Apply the HEA_speciale re-translations to MASTER.
 
 Sources (by worklist id):
-  - scripts/hea_speciale_auto.tsv         glossary+rules output (id, da_full, en, conf, residual)
-  - scripts/hea_speciale_translations.tsv  hand-authored seed batch (id, da_full, en, conf) — OVERRIDES auto
+  - scripts/worklists/hea_speciale_auto.tsv         glossary+rules output (id, da_full, en, conf, residual)
+  - scripts/worklists/hea_speciale_translations.tsv  hand-authored seed batch (id, da_full, en, conf) — OVERRIDES auto
 
 Adds a new `description_da_full` column. For each HEA_speciale row whose
 description_en_source is still 'translated', sets:
@@ -18,9 +18,9 @@ Usage: python3 scripts/apply_hea_speciale_translations.py [--dry-run]
 import argparse, csv, sys
 
 MASTER = "MASTER_CATEGORY_MAPPINGS.csv"
-WL = "scripts/hea_speciale_worklist.csv"
-AUTO = "scripts/hea_speciale_auto.tsv"
-MANUAL = "scripts/hea_speciale_translations.tsv"
+WL = "scripts/worklists/hea_speciale_worklist.csv"
+AUTO = "scripts/worklists/hea_speciale_auto.tsv"
+MANUAL = "scripts/worklists/hea_speciale_translations.tsv"
 NEWCOL = "description_da_full"
 
 

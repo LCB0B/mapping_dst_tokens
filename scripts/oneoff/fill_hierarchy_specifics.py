@@ -3,8 +3,8 @@
 sub-codes currently fall back to their parent's description ('X (via N)').
 
 Covers:
-  - LAB_disco08: raw/disco.csv (DISCO-08, 6-digit, shipped with repo)
-  - LAB_disco:   mapping/DISCO_CODES.txt (6-digit DISCO, shipped with repo)
+  - LAB_disco08: raw/LAB_disco.csv (DISCO-08, 6-digit, shipped with repo)
+  - LAB_disco:   raw/LAB_disco_codes.txt (6-digit DISCO, shipped with repo)
   - LAB_db07:    raw/dst_downloads/db07_v2_2013.csv (fetched from dst.dk)
   - SOC_ger7:    raw/dst_downloads/ger7.csv (fetched from dst.dk)
 
@@ -29,9 +29,9 @@ VIA_RE = re.compile(r"\(via \d+\)\s*$")
 
 
 def load_disco_raw():
-    """raw/disco.csv — DISCO-08 full classification (variable-length codes)."""
+    """raw/LAB_disco.csv — DISCO-08 full classification (variable-length codes)."""
     disco = {}
-    with open("raw/disco.csv", encoding="utf-8") as f:
+    with open("raw/LAB_disco.csv", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter=";")
         for row in reader:
             code = row.get("KODE", "").strip().strip('"')
@@ -42,9 +42,9 @@ def load_disco_raw():
 
 
 def load_disco_codes():
-    """mapping/DISCO_CODES.txt — 6-digit DISCO (older classification)."""
+    """raw/LAB_disco_codes.txt — 6-digit DISCO (older classification)."""
     d = {}
-    with open("mapping/DISCO_CODES.txt", encoding="utf-8") as f:
+    with open("raw/LAB_disco_codes.txt", encoding="utf-8") as f:
         for line in f:
             parts = line.rstrip("\n").split("\t")
             if len(parts) >= 2:

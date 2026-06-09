@@ -11,7 +11,7 @@ Hovedstaden, the same code means a consultation instead of a home visit.
 We handle this by:
   1. Adding a `description_da_alt` column to MASTER. For rows where another
      region's meaning exists, the alternative is captured there.
-  2. Logging each conflict in translation_audit_report.csv.
+  2. Logging each conflict in archive/translation_audit_report.csv.
 
 This preserves information without breaking the one-row-per-token model.
 

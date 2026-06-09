@@ -5,9 +5,9 @@ The 5-digit LAB_db07 weak codes (11100..89900) are leading-zero-stripped low-div
 (agriculture/forestry/fishing/mining) industry codes whose encoding is ambiguous online (see
 SOURCE_AUDIT.md). They are resolved empirically: for the same firm observed across the DB-version
 boundary, each db07 code is mapped to the DB93/nace code it co-occurs with. Input:
-  transition/industry_crosswalk_empirical.csv  (per code: best_cross family/code, cooc share, n)
+  crosswalks/empirical/industry_crosswalk_empirical.csv  (per code: best_cross family/code, cooc share, n)
 
-The nace (DB93) label comes from raw/LAB_nace.txt (Danish) / raw/nace.txt (English). This confirmed
+The nace (DB93) label comes from raw/LAB_nace.txt (Danish) / raw/LAB_nace_en.txt (English). This confirmed
 the old NACE-Rev2 guesses were wrong (e.g. 13000 = Planteskoler/plant nurseries, NOT textiles;
 61000 = crude petroleum, NOT telecom). Apply threshold: share>=0.3 and n>=20; else [Unresolved].
 514620 and 999999 are handled separately (direct DB93) and skipped here.
@@ -17,7 +17,7 @@ Re-runnable. Usage: python3 scripts/apply_db07_industry_crosswalk.py [--dry-run]
 import argparse, csv, json
 
 MASTER = "MASTER_CATEGORY_MAPPINGS.csv"
-CW = "transition/industry_crosswalk_empirical.csv"
+CW = "crosswalks/empirical/industry_crosswalk_empirical.csv"
 
 
 def parse_nace(path):
@@ -33,7 +33,7 @@ def parse_nace(path):
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
-    nace_da = parse_nace("raw/LAB_nace.txt"); nace_en = parse_nace("raw/nace.txt")
+    nace_da = parse_nace("raw/LAB_nace.txt"); nace_en = parse_nace("raw/LAB_nace_en.txt")
     ind = {}
     for r in csv.DictReader(open(CW, encoding="utf-8")):
         if r["family"] == "db07":

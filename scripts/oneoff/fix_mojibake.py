@@ -2,7 +2,7 @@
 """Fix mojibake artifacts in MASTER_CATEGORY_MAPPINGS.csv.
 
 The Danish-character encoding artifacts originate from reading a MacRoman-
-encoded CSV (raw/Speciale_koder_med_tekst_samt_vejledning.csv) as Latin-1,
+encoded CSV (raw/HEA_speciale_koder_med_tekst_samt_vejledning.csv) as Latin-1,
 plus a double-UTF-8 encoding pass in a few cases. All defects are
 deterministic character swaps — restore them before any re-translation.
 

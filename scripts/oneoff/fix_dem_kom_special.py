@@ -17,7 +17,7 @@ Re-runnable. Usage: python3 scripts/fix_dem_kom_special.py [--dry-run]
 import argparse, csv
 
 MASTER = "MASTER_CATEGORY_MAPPINGS.csv"
-DICT = "mapping/lookup_dictionaries/DEM_kom_dict.csv"
+DICT = "lookup_dictionaries/DEM_kom_dict.csv"
 
 # 955-960: Greenland municipalities (Danish/Greenlandic proper name, English gloss).
 GREENLAND = {

@@ -45,12 +45,12 @@ Net effect: `description_en_official` coverage **47.3% → 62.4%** (19,130 → 2
 
 ## 6. Code & translation verification (independent cross-check vs source files)
 
-**Source coverage — NOT 100%.** ~992 rows (2.5%) have a description but no external source: almost all are *structural* categories (exam grades, percentile/visit-count bins, quantiles) that have no external authority by nature. Plus **17 `LAB_branche` rows tagged `dse77_inferred` ("fully inferred")** — NOT in `raw/branche77.txt`, unverified guesses → now tagged **`confidence_level=low`** so they're honestly flagged.
+**Source coverage — NOT 100%.** ~992 rows (2.5%) have a description but no external source: almost all are *structural* categories (exam grades, percentile/visit-count bins, quantiles) that have no external authority by nature. Plus **17 `LAB_branche` rows tagged `dse77_inferred` ("fully inferred")** — NOT in `raw/LAB_branche77.txt`, unverified guesses → now tagged **`confidence_level=low`** so they're honestly flagged.
 
 **Cross-validation of `description_en_official` against the cited authorities:**
 | Category | Result |
 |---|---|
-| HEA_ICD10 (who-icd10) | 8,810 exact match to WHO + 5,766 match a WHO ancestor (category/block level — coarser but valid). **0 wrong among verifiable.** 25 rows falsely claimed WHO (codes not in WHO 2019: 18× `DI84*` haemorrhoids→now K64, 7× `DVR*` Danish supplementary) — **CLEARED** (`scripts/fix_icd_false_official.py`). |
+| HEA_ICD10 (who-icd10) | 8,810 exact match to WHO + 5,766 match a WHO ancestor (category/block level — coarser but valid). **0 wrong among verifiable.** 25 rows falsely claimed WHO (codes not in WHO 2019: 18× `DI84*` haemorrhoids→now K64, 7× `DVR*` Danish supplementary) — **CLEARED** (`scripts/oneoff/fix_icd_false_official.py`). |
 | HEA_atc | 1,634/1,656 name-consistent with WHO ATC 2021, 0 mismatch, 22 codes absent from 2021 file (older/withdrawn). |
 | HEA_speciale (official, dst-ssr) | Consistent (1 label per 2-digit specialty), matches SSR Danish (Neurokirurgi→Neurosurgery, Øjenlæge→Ophthalmology, …). A couple specialties differ from the 1990–2003 SSR file (code reuse across eras). |
 | LAB_disco08 (isco08) | Correct; apparent "mismatches" are our-label-more-specific-than-major-group artifacts. |
@@ -61,9 +61,9 @@ Net effect: `description_en_official` coverage **47.3% → 62.4%** (19,130 → 2
 
 The 6,051 `HEA_speciale` machine-translated rows were re-translated in-context
 (Opus 4.8) via an authored Danish medical-billing abbreviation glossary +
-structural rules (`scripts/translate_hea_speciale.py`), expanding ~3,539 unique
+structural rules (`scripts/oneoff/translate_hea_speciale.py`), expanding ~3,539 unique
 abbreviated procedure strings and applying back to all rows
-(`scripts/apply_hea_speciale_translations.py`).
+(`scripts/oneoff/apply_hea_speciale_translations.py`).
 
 - **New column `description_da_full`** (6,045 filled): the unabbreviated Danish.
   The abbreviated `description_da` is preserved as the authoritative register text.
@@ -89,10 +89,10 @@ abbreviated procedure strings and applying back to all rows
 - **Id-misassignment caught & fixed.** A post-merge audit found 88 rows (radiology +
   dermatology) where a workflow agent had returned translations under the wrong ids,
   corrupting those rows (e.g. a Dermato consultation showing "Surgery, haemorrhoid
-  ligation"). Detected by `scripts/validate_hea_speciale.py` (every row's `description_en`
+  ligation"). Detected by `scripts/oneoff/validate_hea_speciale.py` (every row's `description_en`
   must start with its `description_en_official` specialty); the 88 were stripped and
   re-translated under strict id-fidelity. Final gate: **0 specialty mismatches** across
-  all 6,134 rows. Run `python3 scripts/validate_hea_speciale.py` as a regression check.
+  all 6,134 rows. Run `python3 scripts/oneoff/validate_hea_speciale.py` as a regression check.
 - **Medium-row verification sweep.** A detector (word shared between `description_da_full`
   and `description_en`, excluding cognates/proper nouns) flagged glossary-translated `medium`
   rows that still held a stray untranslated Danish word (e.g. `Albue`→now "elbow",
@@ -125,7 +125,7 @@ veterinary). Confirmed two ways: the 13 prefixes match the VOLTYPECODE value set
 `rid=14&tid=63&vid=396` (VOLTYPECODE) / `vid=399` (VOLUME); cross-checked vs
 `dst.dk/extranet/ForskningVariabellister/LMDB - Lægemiddeldatabasen.html`.
 
-**Fix:** `scripts/fix_hea_volume_voltypecode.py` rewrote all 168 rows
+**Fix:** `scripts/oneoff/fix_hea_volume_voltypecode.py` rewrote all 168 rows
 (`description`, `description_da`, `description_en`, `description_short`) to sourced
 unit labels; set `source=esundhed:lmdb_voltypecode`,
 `description_en_source=dst-lmdb-voltypecode`, `confidence_level=high` (13 named

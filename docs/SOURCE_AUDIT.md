@@ -43,7 +43,7 @@ different meanings:
 | `UØ` | Unwanted/expelled | Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 7, jf. § 125, stk. 2 + selvstændig frak. |
 | `UÅ` | Unopened prison | Førerretsfrakendelse jf. færdsl. § 126, stk. 1, nr. 7, jf. § 125, stk. 3 |
 
-**✅ FIXED 2026-06-04** (`scripts/fix_soc_frakkod.py`): 7 codes (`ÅA ÅB ÅC UØ UÅ UÆ
+**✅ FIXED 2026-06-04** (`scripts/oneoff/fix_soc_frakkod.py`): 7 codes (`ÅA ÅB ÅC UØ UÅ UÆ
 ØA`) rewritten with verbatim Danish from `raw/SOC_frakkod.txt` + translated English,
 `source=raw_soc_frakkod`, `description_en_source=translated`, `confidence=high`. The
 2 remaining (`FF`, `36`) are **not in the AFG_FRAKKOD value set** → marked
@@ -60,7 +60,7 @@ Kriminalstatistik – afgørelser); the same GER7 value set is shared by `KON_GE
 GER7 = a 7-digit conversion of Rigspolitiet's 5-digit gerningskode, **hierarchical at
 1 / 2 / 4 / 7 digits** (from counting-year 2020 only the first 4 digits + `000` are
 maintained; `AFG_GER9` supersedes it). Repo 4-digit value set:
-`mapping/lookup_dictionaries/SOC_ger7_dict.csv` (89 codes; first-digit distribution
+`lookup_dictionaries/SOC_ger7_dict.csv` (89 codes; first-digit distribution
 0:1, 1:68, 2:5, 3:15 — **no 4xxx**). 920/938 rows already sourced (`CSV:SOC_ger7*`).
 
 **Verdict (checked vs AFG_GER7, 2026-06-04): no hallucination, but notes.**
@@ -88,7 +88,7 @@ to resolve the 1xxx detail codes; investigate the 4xxx codes' true origin separa
 ---
 
 ## DEM_kom — municipality / special territorial codes
-**Authoritative source (in repo):** `mapping/lookup_dictionaries/DEM_kom_dict.csv`
+**Authoritative source (in repo):** `lookup_dictionaries/DEM_kom_dict.csv`
 (343/356 rows sourced `CSV:DEM_kom`) + DST kommune classification for the 9xx
 territorial codes.
 
@@ -178,7 +178,7 @@ Not a hallucination — labels were just untagged.
 code. <https://www.dst.dk/da/Statistik/dokumentation/Times/boern-og-unge/haendelse>
 (+ repo `raw/SOC_haendelse.txt`, same table).
 
-**✅ FIXED 2026-06-04** (`scripts/fix_soc_haendelse_frakbkod.py`): the decimal sub-codes
+**✅ FIXED 2026-06-04** (`scripts/oneoff/fix_soc_haendelse_frakbkod.py`): the decimal sub-codes
 (0.2/1.1/5.5/7.5) were already sourced; the integer codes `0/1/2/5/7` had been left as
 bogus *"Criminal event type: N"* and are now filled verbatim from the DST value set:
 `0`=Iværksættelse af anbringelse, `1`=Iværksættelse af ændret anbringelsessted,
@@ -218,7 +218,7 @@ The MASTER labels were **hallucinations** — institution types invented from th
 | 4 | ❌ Halvåbent fængsel | Overførsel af afsoner |
 | 5 | ❌ Pension | Afsoner |
 
-**✅ FIXED 2026-06-04** (`scripts/fix_soc_fgslkod.py`): all 6 rewritten verbatim,
+**✅ FIXED 2026-06-04** (`scripts/oneoff/fix_soc_fgslkod.py`): all 6 rewritten verbatim,
 `source=dst_ind_fgslkod`, conf high. (`IND_FGSLSTED` is the separate institution-PLACE
 variable, with letter codes `A###`/`F###`/`P###` — not this type code.)
 
@@ -230,13 +230,13 @@ Danish (e.g. `bstrfkod` `1` "Hæfte" → *"Booklet"*; afgtypko `19` → *"Out-of
 fines and waivers"*). Per `input_dataset_description.csv`: `SOC_afgtypko`=`KRAF:AFG_AFGTYPKO`
 /`KON_AFGTYPKO` (rows 104), `SOC_bstrfkod`=`KRIN:IND_BSTRFKOD` (row 120).
 
-**✅ FIXED 2026-06-04** (`scripts/fix_soc_afgtypko_bstrfkod.py`): installed the verbatim
+**✅ FIXED 2026-06-04** (`scripts/oneoff/fix_soc_afgtypko_bstrfkod.py`): installed the verbatim
 authoritative Danish from the downloaded KRIN codebook (`IND_AFGTYPKO` / `IND_BSTRFKOD`)
 into `description_da`, plus a faithful clean English translation; `source=dst_afgtypko` /
 `dst_ind_bstrfkod`, conf high. **85** afgtypko + **3** bstrfkod rows. afgtypko code `85` is
 **absent from the DST value set** (jumps 84→86) → left `[Unresolved]`, not invented.
 
-## Batch (a) — in-repo resolutions (2026-06-04, `scripts/fix_inrepo_batch_a.py`)
+## Batch (a) — in-repo resolutions (2026-06-04, `scripts/oneoff/fix_inrepo_batch_a.py`)
 
 Resolved from the KRIN codebook + repo files (per `input_dataset_description.csv`):
 - **`SOC_loeslkod`** (9) — was bad MT ("Unenlightened"=Uoplyst); upgraded from `IND_LOESLKOD`
@@ -250,7 +250,7 @@ Not resolvable in-repo (left, not invented): **`DEM_far`/`DEM_mor`** weak codes 
 are absent from the FTDB value set (`FAR/MOR_FOED_ADOP` has 0,11,12,14,…). **`EDU_tilg`**
 (`KOTRE:TILG_ART`) → DST-fetch batch (b).
 
-## Batch (b) — DST value-set fetch (2026-06-04, `scripts/fix_dst_fetch_batch_b.py`)
+## Batch (b) — DST value-set fetch (2026-06-04, `scripts/oneoff/fix_dst_fetch_batch_b.py`)
 
 A workflow fetched the DST TIMES value set for each remaining variable; results applied:
 - **`DEM_ie`** (4) — **HALLUCINATED**: was "Immigration/Emigration event"; `BEF:IE_TYPE` is
@@ -273,9 +273,9 @@ Confirmed correct already (no change): **`LAB_socio13`** (21) matches `AKM:SOCIO
 ## LAB_socio `gl_*` = AKM `SOCIO_GL` (1976–1990) — ✅ RESOLVED via crosswalk (2026-06-05)
 
 **Update:** since the raw value set is not public, the labels were recovered **empirically** from
-longitudinal sequences (run on the VM → `transition/socio_gl_crosswalk_empirical.csv`). For people
+longitudinal sequences (run on the VM → `crosswalks/empirical/socio_gl_crosswalk_empirical.csv`). For people
 observed across the ~1987 scheme boundary, each `gl_X` is mapped to its **modal SOCIO13** successor,
-labelled with the authoritative `LAB_socio13` text (`scripts/apply_socio_gl_crosswalk.py`).
+labelled with the authoritative `LAB_socio13` text (`scripts/oneoff/apply_socio_gl_crosswalk.py`).
 **49/51 recovered** (17 high / 8 medium / 24 low confidence by transition share);
 `gl_81`/`gl_82` have no data → `[Unresolved]`. `source=empirical_crosswalk_socio13`; the socio13
 code + share + n are recorded in `description_da_alt`. The original deep-dive (below) stands as the
@@ -307,7 +307,7 @@ DST Forskningsservice value set if available. Left unchanged pending that decisi
 
 ## LAB_db07 5-digit — ✅ 23/42 RESOLVED via firm crosswalk (2026-06-05) + analysis
 
-**Update:** recovered empirically from firm sequences (`transition/industry_crosswalk_empirical.csv`,
+**Update:** recovered empirically from firm sequences (`crosswalks/empirical/industry_crosswalk_empirical.csv`,
 `scripts/apply_db07_industry_crosswalk.py`): each 5-digit db07 code → the DB93/nace code the same
 firm co-occurs with → label from `raw/LAB_nace.txt`. **23/42 resolved** (share≥0.3, n≥20),
 `source=empirical_industry_crosswalk`. This **confirmed the encoding & that the old guesses were
@@ -323,14 +323,14 @@ the agriculture/mining divisions 01–09 are absent from the sourced set. The 44
 the leftovers and are a **mixed encoding**:
 - **`514620`** = DB93/NACE-Rev1 `51.46.20` "Engroshandel med læge- og hospitalsartikler"
   (NACE-Rev2 has no `51xxxx`, so unambiguous) and **`999999`** = "Ikke oplyst" → **FIXED**
-  (`source=raw_lab_nace`, from `raw/nace.txt`/`LAB_nace.txt`).
+  (`source=raw_lab_nace`, from `raw/LAB_nace_en.txt`/`LAB_nace.txt`).
 - **The 5-digit block (`11100`–`89900`)** is **ambiguous between three encodings** that yield
   *different* industries, so it cannot be resolved by online lookup:
   - (A) NACE-Rev2 **division**-level — what the current guesses assume (`13000`=textiles,
     `61000`=telecom, `71000`=architects);
   - (B) **DB07 6-digit with the leading `0` stripped** (`13000`→`013000`=plant propagation;
     strongly suggested by the absence of any `0xxxxx` in the sourced set);
-  - (C) **DB93** (`raw/nace.txt`: `13000`=Planteavl kombineret med husdyravl / mixed farming).
+  - (C) **DB93** (`raw/LAB_nace_en.txt`: `13000`=Planteavl kombineret med husdyravl / mixed farming).
   The ambiguity is in *how the builder encoded the code*, not in what DB07/DB93 mean — DST
   lookups confirm all three are valid but different. The current NACE-Rev2 guesses
   (`13000/15000/17000/24000/61000/71000`) are therefore **unverified** (and contradicted by DB93

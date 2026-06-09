@@ -33,15 +33,15 @@ DST officially publishes **two** DISCO versions:
 
 Both DISCO-88 and DISCO-08 CSVs are now saved to `raw/dst_downloads/`:
 - `disco88_dst.csv` (520 codes, 4-digit max)
-- *(DISCO-08 is in the existing `raw/disco.csv`)*
+- *(DISCO-08 is in the existing `raw/LAB_disco.csv`)*
 
 ### Three Danish-description files in the repo — all supposedly "DISCO"
 
 | File | Codes | What we thought it was | What it actually is |
 |---|---|---|---|
-| `mapping/lookup_dictionaries/LAB_disco_dict_from_raw.csv` | 1,165 | The older DISCO (DISCO-88) | **Actually DISCO-08 Danish descriptions under an "older" label** |
-| `mapping/DISCO_CODES.txt` | 794 | A DISCO version | Appears to be DISCO-88 (1996 version) |
-| `raw/disco.csv` | 1,172 | DISCO-08 | DISCO-08 (confirmed) |
+| `lookup_dictionaries/LAB_disco_dict_from_raw.csv` | 1,165 | The older DISCO (DISCO-88) | **Actually DISCO-08 Danish descriptions under an "older" label** |
+| `raw/LAB_disco_codes.txt` | 794 | A DISCO version | Appears to be DISCO-88 (1996 version) |
+| `raw/LAB_disco.csv` | 1,172 | DISCO-08 | DISCO-08 (confirmed) |
 
 ### Why 149 rows had wrong "official" English
 
@@ -52,14 +52,14 @@ Earlier we populated `description_en_official` for `LAB_disco` rows via **ISCO-8
 | Source | 314100 means |
 |---|---|
 | MASTER `description_da` (what the training data means) | "Teknikerarbejde inden for biovidenskab" *(Bioscience technician)* — this is **DISCO-08 3141** "Life science technicians (excluding medical)" |
-| `DISCO_CODES.txt` 314100 | "Teknisk arbejde om bord på skibe" *(Technical work on ships)* — this is **DISCO-88 3141** "Ships' engineers" |
+| `LAB_disco_codes.txt` 314100 | "Teknisk arbejde om bord på skibe" *(Technical work on ships)* — this is **DISCO-88 3141** "Ships' engineers" |
 | Our first ISCO-88 lookup | "Ships' engineers" — **WRONG** because MASTER is actually DISCO-08 numbered |
 
 The same 4-digit code `3141` means entirely different occupations in DISCO-88 vs DISCO-08. The re-numbering happened in the 2010 reform.
 
 ### Fix applied (name-based crosswalk)
 
-`scripts/crosswalk_lab_disco.py` detects per-row which version each `LAB_disco` row is actually in:
+`scripts/oneoff/crosswalk_lab_disco.py` detects per-row which version each `LAB_disco` row is actually in:
 
 1. If `description_da` exactly matches DISCO-08's Danish at the same numeric code → use **ISCO-08** for the official English.
 2. Else if it matches DISCO-88's Danish at the same code → use **ISCO-88**.
@@ -176,7 +176,7 @@ ST=Stk, TU=tusind enheder.
 
 Source: esundhed.dk Lægemiddelstatistikregisteret docs `rid=14&tid=63&vid=396`
 (VOLTYPECODE) / `vid=399` (VOLUME). Fixed 2026-06-04 by
-`scripts/fix_hea_volume_voltypecode.py` (168 rows; `source=esundhed:lmdb_voltypecode`,
+`scripts/oneoff/fix_hea_volume_voltypecode.py` (168 rows; `source=esundhed:lmdb_voltypecode`,
 `description_en_source=dst-lmdb-voltypecode`, confidence high/medium).
 
 ---
