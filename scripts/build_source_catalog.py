@@ -63,7 +63,8 @@ DST_REGISTER = {
     "EDU_afg": "KOTRE:AFG_ART",
     "EDU_audd": "KOTRE:AUDD / UDG:AUDD / UDKV:AUDD",
     "EDU_wellbeing": "UDD_TRIVSEL_SMAA_KLASSER / UDD_TRIVSEL_STORE_KLASSER",
-    "EDU_dnt": "UDD_NATTEST_OPRINDELIGE:FAG / UDD_NATTEST_GENBEREGNEDE:FAG",
+    "EDU_fag": "UDD_NATTEST_OPRINDELIGE:FAG / UDD_NATTEST_GENBEREGNEDE:FAG",
+    "EDU_dnt": "UDD_NATTEST_OPRINDELIGE:POINT_SAMLET / UDD_NATTEST_GENBEREGNEDE:SCORE",
     "EDU_dageaktiv": "UDD_FOLKESKOLE_FRAVAER_STIL:DAGEAKTIV",
     "EDU_dageialtfra": "UDD_FOLKESKOLE_FRAVAER_STIL:DAGEIALTFRA",
     "EDU_dagelovfra": "UDD_FOLKESKOLE_FRAVAER_STIL:DAGELOVFRA",
@@ -79,7 +80,7 @@ DST_REGISTER = {
     **{f"HEA_{u}": "LMDB:VOLUME + LMDB:VOLTYPECODE" for u in
        ["", "DDK", "DW", "DWG", "DWK", "GA", "GI", "GP", "L", "MG", "ML", "PK", "ST", "TU"]},
     # LAB ---------------------------------------------------------------
-    "LAB_disco": "AKM:DISCO_ALLE_INDK_13 (DISCO 2-digit)",
+    "LAB_disco": "AKM:DISCO_ALLE_INDK_13 (DISCO, mixed-era 88/08)",
     "LAB_disco08": "AKM:DISCO08_* / AMRUN:DISCO_KODE",
     "LAB_db07": "AKM:NACE_DB07_13 / AMRUN:ARB_HOVED_BRA_DB07",
     "LAB_nace": "AKM:NACE_13 (DB93)",

@@ -76,8 +76,8 @@ abbreviated procedure strings and applying back to all rows
 - **Two-stage completion.** First an authored glossary cleared the systematic ~59%.
   Then the remaining clinical tail (849 strings) was translated by a **multi-agent
   workflow** (15+ translator agents, each adversarially verified, +1 focused pass for
-  109 stragglers) — see `scripts/clinical_residual.tsv`/`clinical_missing.tsv` and the
-  override `scripts/hea_speciale_translations.tsv`.
+  109 stragglers) — see `scripts/worklists/clinical_residual.tsv`/`scripts/worklists/clinical_missing.tsv` and the
+  override `scripts/worklists/hea_speciale_translations.tsv`.
 - **Final grading:** `confidence_level=medium` **4,561 (75%)** = æøå-clean fluent English
   (0 medium rows contain residual Danish); `low` **1,490** = **1,289 `(procedure not
   documented)` placeholders** (no source text exists), **325 lab analyte/allergen codes**

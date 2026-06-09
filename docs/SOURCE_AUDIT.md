@@ -285,7 +285,7 @@ provenance for why the crosswalk was necessary.
 
 `SOCIO_GL` = AKM "Socioøkonomisk klassifikation fra 1976 til 1990" (DST AKM variable list).
 It is the **`ARBSTIL`** member of the socio family (per the Aarhus LMDG IDAN var-description
-`idan_vde.pdf`): `ARBSTIL` 1980-1993 → `NYARB` 1994-95 → `SOCSTIL_KODE` 1996-2007 →
+`raw/aarhus_idap_vde.pdf`): `ARBSTIL` 1980-1993 → `NYARB` 1994-95 → `SOCSTIL_KODE` 1996-2007 →
 `SOC_STATUS_KODE` 2008-. Authoritative **group structure** (idan_vde): `11-15`=selvstændige,
 `20`=medhjælpende ægtefælle, `31-37`=lønmodtagere, `40`=arbejdsløse, `50/55`=tilbagetrækning,
 `60`=pensionister, `90/91/92`=others. The detailed benefit subdivisions were introduced **1994+**.

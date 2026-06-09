@@ -118,9 +118,9 @@ Templates for categories needing manual descriptions (Birth, Death, Immigration,
 ### `lookup_dictionaries/` — Extracted DST Dictionaries (tier-1 source)
 | Path | What it is |
 |------|-----------|
-| `*_dict.csv` | Extracted classification dictionaries (~46 files) — richest reference data per category |
+| `*_dict*.csv` | Extracted classification dictionaries incl. multi-source variants (`_comprehensive`/`_from_raw`/`_dst`/`_manual`/`_downloaded`) — 38 files, richest reference data per category |
 | `*_dict.pt` | Original PyTorch dictionary files (16 files) — binary source the vocab was built from |
-| `*_quantile_dict.csv` | Bin boundaries for the binned income/wealth/score categories |
+| `*_quantile_dict.csv` | Bin boundaries for the binned income/wealth/score categories (24 files) |
 
 ### `crosswalks/` — Crosswalk Tables
 | Path | What it is |
@@ -165,8 +165,9 @@ value            — The specific code value
 category         — Full category name (prefix_variable)
 description      — Legacy combined human-readable description (Danish or English)
 description_da   — Danish description, AUTHORITATIVE: follows the training-data semantics
-description_da_alt— Alternative regional meanings (only the ~5 HEA_speciale codes with
-                   conflicting §2-aftale semantics across regions — see HEA_speciale below)
+description_da_alt— Secondary/alternative meaning. Used on 77 rows: mostly the empirical-crosswalk
+                   basis notes for LAB_socio (49) and LAB_db07 (23), plus conflicting §2-aftale
+                   regional meanings for ~4 HEA_speciale codes (see HEA_speciale below) and 1 DEM_kom
 description_da_full— Unabbreviated Danish for HEA_speciale billing codes (abbreviated
                    description_da is kept as the authoritative register text; empty elsewhere)
 description_en   — Best-available English: translated from Danish OR from an intl. classification (100% filled)
@@ -181,8 +182,9 @@ source           — Where the (legacy) description came from
 mapped           — Whether description exists (True/False)
 total_codes / mapped_codes / mapping_percentage — per-category summary stats (may be empty)
 primary_source   — Primary data source for this category (may be empty)
-confidence_level — highest/high/medium/low. NOTE: sparsely populated (~7%); real provenance/quality
-                   signal lives in `source`, `description_en_source`, and `description_en_official_source`.
+confidence_level — highest/high/medium/low. NOTE: only ~23% filled (medium 4456 / high 3067 /
+                   low 1675 / highest 5); real provenance/quality signal lives in `source`,
+                   `description_en_source`, and `description_en_official_source`.
 parent_code      — Parent code in hierarchy (empty for flat categories or top-level)
 hierarchy_level  — Level name in hierarchy (e.g., chapter, block, category, subcategory)
 n_occurrences    — PREVALENCE: total occurrences of the token across the dataset (from token_occurrences.csv,
@@ -227,7 +229,7 @@ MG=mg aktivt stof · ML=ml · PK=pakninger · ST=Stk · TU=tusind enheder.
 — a textbook HARD-RULES violation, corrected 2026-06-04 by
 `scripts/oneoff/fix_hea_volume_voltypecode.py`.
 
-### Remaining `[Unresolved]` codes (32 total)
+### Remaining `[Unresolved]` codes (26 total)
 Down from ~70 after the **empirical crosswalk** recovery (2026-06-05): the two big
 historically-damaged blocks (`LAB_socio` `gl_*` and `LAB_db07` 5-digit) were resolved
 data-driven from longitudinal sequences — see `crosswalks/empirical/`, `docs/SOCIO_GL_README.md`,
@@ -242,8 +244,9 @@ data-driven from longitudinal sequences — see `crosswalks/empirical/`, `docs/S
   DB07→DB93/nace firm crosswalk (`source=empirical_industry_crosswalk`); the old NACE-Rev2 guesses
   (13000=textiles…) were WRONG (13000=plant nurseries, 61000=crude petroleum). 19 with no/weak
   co-occurrence stay `[Unresolved]`; plus `514620`/`999999` resolved directly from DB93.
-- The remaining 32 `[Unresolved]` are these 19 db07 + 2 socio + small misc (`DEM_kom` 3, `DEM_opr`
-  2, `SOC_frakkod` 2, `SOC_samtykke` 2, `SOC_afgtypko` 1, `SOC_pgf` 1). Do NOT guess them.
+- The 26 `[Unresolved]` are these 19 db07 + 2 socio (`gl_81`, `gl_82`) + `DEM_kom` 3 +
+  `SOC_frakkod` 2. (Earlier `DEM_opr`/`SOC_samtykke`/`SOC_afgtypko`/`SOC_pgf` placeholders have
+  since been resolved.) Do NOT guess them.
 
 ### Hierarchical Classifications
 Eight categories have hierarchical parent-child structure encoded in `parent_code` and `hierarchy_level` columns:
@@ -252,7 +255,7 @@ HEA_ICD10, HEA_ATC, LAB_disco, LAB_disco08, LAB_db07, LAB_nace, EDU_disced, SOC_
 Total hierarchy relationships built: ~21,500 codes with parent_code set.
 
 ### Confidence / provenance
-The `confidence_level` column is only sparsely populated (~7% of rows). The
+The `confidence_level` column is only ~23% populated. The
 real, per-row provenance signal lives in the **source columns**:
 - `source` — origin of the legacy `description` (e.g. `CSV:HEA_ICD10`, `raw_lab_nace`,
   `dual_source_special2_spec6`; `none|generated`/`generated_pattern` = weak/unsourced)

@@ -62,7 +62,7 @@ archive/               ← non-authoritative reference (older vocab_2.json, audi
 | LAB — Labour market | 41 | 6,622 | 100% | 99% | 37% |
 | SOC — Social / criminal | 23 | 1,401 | 100% | 98% | 0% |
 | SPECIAL — Model tokens | 1 | 5 | 100% | — | — |
-| **Total** | **127** | **40,465** | **100%** | **98%** | — |
+| **Total** | **127** | **40,465** | **100%** | **99%** | — |
 
 \* *Official EN* = English traceable to an international standard
 (`description_en_official`). It is sparse by design — most domains have no

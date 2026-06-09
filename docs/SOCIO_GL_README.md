@@ -15,7 +15,7 @@ and several are anachronistic — do **not** trust them.
 ## The socio variable changes coding scheme over time
 
 The "socio-economic status" of a person is recorded under **different variables / code
-schemes depending on the year** (from `idan_vde.pdf`, Aarhus LMDG, + DST):
+schemes depending on the year** (from `raw/aarhus_idap_vde.pdf`, Aarhus LMDG, + DST):
 
 | Period | DST variable | Scheme in the vocab |
 |--------|--------------|---------------------|
@@ -57,7 +57,7 @@ DISCO/industry token, no job-start/stop event) to reduce noise; require a minimu
 ## Validation: expected group-level mapping
 
 `gl_*` is a 2-digit hierarchical code (1st digit = main group). Use the authoritative group
-structure (`idan_vde.pdf`) to **sanity-check** the empirical result — the modal `socio13`
+structure (`raw/aarhus_idap_vde.pdf`) to **sanity-check** the empirical result — the modal `socio13`
 should fall in the matching block:
 
 | `gl_*` group | meaning (idan_vde) | expected `socio13` block |
@@ -103,7 +103,7 @@ change) and map the 5-digit code to the modal 6-digit DB07 successor.
 ## Sources
 - `input_dataset_description.csv` (repo) — `AKM:SOCIO_GL` / `AKM:SOCIO13` provenance.
 - `raw/dst_downloads/arbstil_kode_1980.csv` — DST harmonized ARBSTIL_KODE v1:1980 nomenclature.
-- `idan_vde.pdf` (Aarhus LMDG, ECONAU/IDAN var-description) — the `ARBSTIL→NYARB→SOCSTIL→
+- `raw/aarhus_idap_vde.pdf` (Aarhus LMDG, ECONAU/IDAN var-description) — the `ARBSTIL→NYARB→SOCSTIL→
   SOC_STATUS` timeline + group structure.
 - DST: `dst.dk/.../Times/moduldata-for-arbejdsmarked/arbstil` ;
   `.../nomenklaturer/socio-arb` (value set `SOCIO_ARB_ARBSTIL_KODE_V1_1980`, CSV/DDI download).
