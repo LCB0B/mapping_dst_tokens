@@ -30,3 +30,19 @@ each was used.
 The `*.csv` / `*.txt` files in this directory (ATC/ICD-10/ISCO/NACE/DB07/GER7/
 DISCO-88/speciale/SSR code lists, etc.) are the machine-readable extractions
 actually consumed by the scripts. They remain tracked.
+
+**Replaced file (2026-06-09):** `nace_rev1_en.csv` was originally a failed PDF
+extraction (16 lines of cover-page noise). It now holds the proper NACE Rev. 1
+(1990) structure — 833 codes (sections/divisions/groups/classes) with English
+titles — extracted from the Eurostat RAMON linked-data mirror:
+`https://raw.githubusercontent.com/ipsoeu/ramon-ld/master/nace/1990.rdf`
+(SKOS notation + English prefLabel). NACE Rev. 1 is the basis of DST's DB93
+(`LAB_nace`).
+
+**`sks_dia_dk.csv` (added 2026-06-09):** the complete SKS `dia` (diagnosis)
+catalog — 25,048 D-codes with Danish text and validity dates, one row per code
+(currently-valid text preferred, else the latest historical text). Extracted
+from Sundhedsdatastyrelsen's full SKS dump:
+`https://filer.sundhedsdata.dk/sks/data/skscomplete/SKScomplete.txt`
+(fixed-width, ISO-8859; the 23 MB raw dump itself is not committed).
+It is a strict superset of `lookup_dictionaries/HEA_ICD10_dict.csv` (+69 codes).
