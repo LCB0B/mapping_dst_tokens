@@ -6,13 +6,12 @@ CSV:DEM_opr_land,CSV:DEM_opr_land,215,high,danish
 CSV:DEM_statsb,CSV:DEM_statsb,213,high,danish
 CSV:EDU_afg_art,CSV:EDU_afg_art,4,high,danish
 CSV:EDU_audd,CSV:EDU_audd,3758,high,danish
-CSV:EDU_disced_compound_end,CSV:EDU_disced_compound_end,1,high,danish
-CSV:EDU_disced_compound_start,CSV:EDU_disced_compound_start,789,high,danish
+CSV:EDU_course,CSV:EDU_course,112,high,danish
 CSV:EDU_udd,CSV:EDU_udd,2416,high,danish
 CSV:HEA_ICD10,CSV:HEA_ICD10,14650,high,danish
 CSV:HEA_atc_fallback,CSV:HEA_atc_fallback,1,high,danish
 CSV:LAB_branche_from_raw_fixed,CSV:LAB_branche_from_raw_fixed,594,high,danish
-CSV:LAB_db07_hierarchical,CSV:LAB_db07_hierarchical,703,high,danish
+CSV:LAB_db07_hierarchical,CSV:LAB_db07_hierarchical,682,high,danish
 CSV:LAB_disco08_comprehensive_hierarchical,CSV:LAB_disco08_comprehensive_hierarchical,722,high,danish
 CSV:LAB_disco08_dict.csv,CSV:LAB_disco08_dict.csv,9,high,danish
 CSV:LAB_disco08_dst_hierarchical,CSV:LAB_disco08_dst_hierarchical,20,high,danish
@@ -41,14 +40,20 @@ DSE77,DSE77,8,medium,danish
 "DSE77_inferred (fully inferred, no group 51 in DSE77)","DSE77_inferred (fully inferred, no group 51 in DSE77)",1,medium,danish
 "DSE77_inferred (fully inferred, outside standard DSE77 range)","DSE77_inferred (fully inferred, outside standard DSE77 range)",1,medium,danish
 cpr_groenland,cpr_groenland,6,medium,danish
+crosswalk_edu_disced,crosswalk_edu_disced,790,medium,danish
 dst_afg_frakbkod,dst_afg_frakbkod,4,medium,danish
 dst_afgtypko,dst_afgtypko,85,medium,danish
 dst_bef_ie_type,dst_bef_ie_type,4,medium,danish
+dst_db07_class_label,dst_db07_class_label,9,medium,danish
+dst_db07_leading_zero,dst_db07_leading_zero,30,medium,danish
 dst_family_relations_relation,dst_family_relations_relation,5,medium,danish
+dst_ger7,dst_ger7,1,medium,danish
 dst_ind_bstrfkod,dst_ind_bstrfkod,3,medium,danish
 dst_ind_fgslkod,dst_ind_fgslkod,6,medium,danish
 dst_ind_loeslkod,dst_ind_loeslkod,9,medium,danish
 dst_kotre_tilg_art,dst_kotre_tilg_art,8,medium,danish
+dst_krin_codebook,dst_krin_codebook,2,medium,danish
+dst_landekode_statsb,dst_landekode_statsb,3,medium,danish
 dst_lpr_indm,dst_lpr_indm,2,medium,danish
 dst_lpr_pattype,dst_lpr_pattype,4,medium,danish
 dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),dst_times_civst (dst.dk/.../moduldata-for-befolkning-og-valg/civst),7,medium,danish
@@ -57,16 +62,19 @@ empirical_crosswalk_socio13,empirical_crosswalk_socio13,49,medium,danish
 empirical_industry_crosswalk,empirical_industry_crosswalk,23,medium,danish
 esundhed:lmdb_voltypecode,esundhed:lmdb_voltypecode,168,medium,danish
 generated:quantile_percentile,generated:quantile_percentile,2152,medium,english
-generated_pattern,generated_pattern,556,medium,english
+generated_pattern,generated_pattern,548,medium,english
 manual_demographic_events,manual_demographic_events,5,medium,english
-manual_update,manual_update,555,medium,english
-none,none,6,medium,danish
+manual_update,manual_update,443,medium,english
+none,none,4,medium,danish
 none|dict_fill,none|dict_fill,15,medium,danish
-none|generated,none|generated,427,medium,danish
+none|generated,none|generated,401,medium,danish
 none|generated|generated,none|generated|generated,126,medium,danish
-none|generated|generated|generated,none|generated|generated|generated,4,medium,danish
+none|generated|generated|generated,none|generated|generated|generated,2,medium,danish
 none|icd8_raw,none|icd8_raw,549,medium,danish
 none|manual,none|manual,7,medium,danish
+raw/LAB_disco.csv (DISCO-08),raw/LAB_disco.csv (DISCO-08),5,medium,danish
+raw/LAB_tilstand_kode.txt,raw/LAB_tilstand_kode.txt,1,medium,danish
+raw/bin_instructions.txt,raw/bin_instructions.txt,8,medium,danish
 raw_atc_enhanced_hierarchical,raw_atc_enhanced_hierarchical,1656,high,danish
 raw_dem_fm_mark,raw_dem_fm_mark,6,high,danish
 raw_edu_field,raw_edu_field,409,high,danish

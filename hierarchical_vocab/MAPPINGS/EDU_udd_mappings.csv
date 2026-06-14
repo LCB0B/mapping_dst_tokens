@@ -231,7 +231,7 @@ EDU_udd_6441,EDU,udd,6441,"Semitisk, kand.2år","Semitisk, kand.2år",,,"Semitic
 EDU_udd_6590,EDU,udd,6590,"Dansk, bach.","Dansk, bach.",,,"Danish, bach. [current education]",,,translated,CSV:EDU_udd,medium,danish,,,4044,1894,0.00021,"Dansk, bach.",False
 EDU_udd_6434,EDU,udd,6434,"Dansk, kand.2år","Dansk, kand.2år",,,"Danish, kand.2yr [current education]",,,translated,CSV:EDU_udd,medium,danish,,,1692,824,9.1e-05,"Dansk, kand.2år",False
 EDU_udd_2459,EDU,udd,2459,Landmand faglært modul 1a,Landmand faglært modul 1a,,,"Farmer, Vocational Module 1a [current education]",,,translated,CSV:EDU_udd,medium,danish,,,39440,19513,0.002161,Landmand faglært modul 1a,True
-EDU_udd_4150,EDU,udd,4150,Grafisk tekniker,Grafisk tekniker,,,Grafisk  technician [current education],,,translated,CSV:EDU_udd,medium,danish,,,19648,7059,0.000782,Grafisk tekniker,True
+EDU_udd_4150,EDU,udd,4150,Grafisk tekniker,Grafisk tekniker,,,Graphic technician [current education],,,translated,CSV:EDU_udd,medium,danish,,,19648,7059,0.000782,Grafisk tekniker,True
 EDU_udd_7665,EDU,udd,7665,"Historie, bach.","Historie, bach.",,,"History, bach. [current education]",,,translated,CSV:EDU_udd,medium,danish,,,4120,2018,0.000224,"Historie, bach.",False
 EDU_udd_2013,EDU,udd,2013,Skibsassistent med metaluddannelse,Skibsassistent med metaluddannelse,,,Ship Assistant with Metal Education [current education],,,translated,CSV:EDU_udd,medium,danish,,,4034,1999,0.000221,Skibsassistent med metaluddannelse,True
 EDU_udd_5415,EDU,udd,5415,"Veterinærvidenskab, kand.","Veterinærvidenskab, kand.",,,"Veterinary Science, kand. [current education]",,,translated,CSV:EDU_udd,medium,danish,,,7858,3876,0.000429,"Veterinærvidenskab, kand.",True

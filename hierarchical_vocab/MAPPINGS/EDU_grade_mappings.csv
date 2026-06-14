@@ -20,7 +20,7 @@ EDU_grade_LI,EDU,grade,LI,Grade code: LI,,,,Grade code: LI,,,translated,none|gen
 EDU_grade_SY,EDU,grade,SY,Syg (absent due to illness),,,,Syg (absent due to illness),,,translated,none|generated,medium,danish,,,24161,14687,0.001627,,
 EDU_grade_IB,EDU,grade,IB,Ikke bestået (not passed),Ikke bestået,,,Not passed,,,translated,none|generated,medium,danish,,,38550,22311,0.002471,,
 EDU_grade_IG,EDU,grade,IG,Ikke godkendt (not approved),,,,Ikke godkendt (not approved),,,translated,none|generated,medium,danish,,,12854,7595,0.000841,,
-EDU_grade_NA,EDU,grade,,Grade code: ,,,,Grade code: ,,,translated,none|generated|generated,medium,danish,,,853,402,4.5e-05,,
+EDU_grade_NA,EDU,grade,NA,Grade code: ,,,,Grade code: NA,,,translated,none|generated|generated,medium,danish,,,853,402,4.5e-05,,
 EDU_grade_M,EDU,grade,M,Grade code: M,,,,Grade code: M,,,translated,none|generated|generated,medium,danish,,,345,338,3.7e-05,,
 EDU_grade_BF,EDU,grade,BF,Grade code: BF,,,,Grade code: BF,,,translated,none|generated|generated,medium,danish,,,9864,6234,0.00069,,
 EDU_grade_FE,EDU,grade,FE,Grade code: FE,,,,Grade code: FE,,,translated,none|generated|generated,medium,danish,,,14654,8817,0.000977,,

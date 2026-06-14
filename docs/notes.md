@@ -143,6 +143,12 @@ The training data itself carries **one token ID per 6-digit code** — billing r
 | **Twins** (both `X` and `X.0` existed, identical descriptions) | 736 | Deleted the `.0` entries. Token IDs now have 736 holes (1.8%). |
 | **Orphans** (only `X.0` existed) | 33 | Renamed `X.0` → `X`. Token IDs preserved. |
 
+The fix was originally applied only to `vocab.json` and MASTER; the per-category
+code-definition CSVs (`hierarchical_vocab/{DEM,EDU,HEA,LAB,SOC,SPECIAL}/`) stayed
+at the original 41,201-code state until 2026-06-09, when
+`scripts/oneoff/fix_codedef_dot0.py` applied the same two resolutions there
+(verified afterwards: union of code-def codes == vocab.json, token IDs intact).
+
 **Upstream preprocessing still needed** — any future record that serializes a numeric code with trailing `.0` must be normalised to int-string before tokenizer lookup:
 
 ```python
@@ -288,3 +294,246 @@ as loanwords (like how "kindergarten" is retained in English).
 - **736** `.0` duplicate vocab entries removed, **33** orphan floats renamed to int
 
 Final state: 40,465 rows, 99.94% have English descriptions, 43% have authoritative `description_en_official`, 0 mojibake, 0 `.0` keys in vocab.
+
+## 8. EDU_disced '(compound:)' fix + vocab_hierarchy regeneration (2026-06-09)
+
+### All 790 EDU_disced descriptions were wrong-granularity
+Every `EDU_disced` row carried a description of the form
+`<label> (compound: <8-digit code>)` (source `CSV:EDU_disced_compound_start/_end`),
+where `<label>` was the title of the **4-digit programme group**, not the
+8-digit programme itself. 776/790 contradicted the official 8-digit titles
+(e.g. `30551510` is *Industriteknikeruddannelsen*, not "Teknologiområdet,
+maskinteknik og produktion"; `50583010` is *Maskinmester, MVU*, not "Teknisk,
+MVU"). The official Danish titles for all 790 codes were taken from the DST
+AUDD/UDD↔DISCED crosswalks (`crosswalks/edu/df_{AUDD,UDD}_DISCED.parquet`,
+`code4`/`title4`; the two tables agree on every overlapping code).
+`scripts/oneoff/fix_disced_compound.py` set `description_da` to the official
+title (`source=crosswalk_edu_disced`) and `description_en`/`description_short`
+to an English rendering (`description_en_source=fable-5-edu`: 94 reused from
+existing audd/udd translations of the same Danish title, 696 translated by
+Fable 5 from a reviewed base-name dictionary embedded in the script; full
+audit trail in `scripts/worklists/disced_title_translations.tsv`). The legacy
+`description` column keeps the old compound text.
+
+### vocab_hierarchy.json regenerated
+The original file (built by `scripts/oneoff/build_token_hierarchy.py`) was
+frozen pre-corrections: it still contained the hallucinated HEA volume-code
+labels, the 736 deleted `.0` entries, and `"Group X"` placeholder labels on
+synthetic nodes. `scripts/build_vocab_hierarchy.py` (permanent) now rebuilds
+it from MASTER: token nodes carry `description_en` **and** `description_da`,
+and synthetic orphan-group nodes are labelled from the official reference
+files via `scripts/describe_vocab.py` (with `label_source` recording the
+provenance). Validated: every one of the 40,465 token_ids appears exactly once.
+
+### New / repaired reference sources (see raw/dst_downloads/SOURCES.md)
+- `raw/dst_downloads/nace_rev1_en.csv` — was a failed PDF extraction; now the
+  real NACE Rev. 1 (1990) structure, 833 codes with English titles, from the
+  Eurostat RAMON-LD mirror. Wired into `describe_vocab.py` as the English
+  source for `LAB_nace` (DB93) aggregation levels.
+- `raw/dst_downloads/sks_dia_dk.csv` — complete SKS `dia` catalog (25,048
+  D-codes, Danish, validity dates) from Sundhedsdatastyrelsen; superset of
+  `HEA_ICD10_dict.csv` (+69 codes). Layered into `describe_vocab.py`.
+- Aggregation prefixes like `DVRA`/`DVRK`/`DUM0`/`DUP0`/`DU99` are **not**
+  classification levels in SKS (only `DUP` = fosterpræsentation exists) —
+  vocabs truncated at 3 ICD characters will honestly miss those families.
+
+## 9. Official English preferred over custom translations (2026-06-09)
+
+`scripts/oneoff/prefer_official_english.py` — 8,353 changes. Where
+`description_en` was a custom/LLM translation but `description_en_official`
+provably describes the **same classification level**, the official text now
+also fills `description_en` (with `description_en_source` set to the official
+authority). Level checks per group:
+
+| Group | Replaced | Same-level check |
+|---|---|---|
+| HEA_ICD10 | 6,994 | value (D stripped) is an exact WHO ICD-10 2019 code. Danish-only sub-codes (DQ808A …) keep their more precise translations (5,738 skipped). |
+| HEA_atc | 924 | exact WHO ATC 2021 code |
+| LAB_nace | 195 | official was per-row NAME-matched (`nace2-crosswalk`) — also fixed real mistranslations (155200 'Fremstilling af konsumis' was "Production of consumer goods" → "Manufacture of ice cream") |
+| LAB_disco / disco08 | 141 / 32 | value ends `00` (4-digit ISCO group + DST padding); 6-digit Danish subdivisions keep translations |
+| LAB_db07 6-digit | 5 | ends `00` AND `description_da` matches the DST DB07 title at the padded level |
+| HEA_speciale | 0 | officials are specialty-level (2-digit) — far coarser than the 6-digit billing codes; never replaced |
+
+### 12 more leading-zero-misread LAB_db07 rows fixed
+The 5-digit `LAB_db07` rows tagged `CSV:LAB_db07_hierarchical` (14100, 91000,
+16200, 16100, 81100, 14200, 81200, 14300, 99000, 32200, 32100, 62000 — 14100
+alone has 51,995 people) still carried the **literal** NACE Rev 2 reading
+("Fremstilling af beklædningsartikler", "Computerprogrammering", …). A 5-digit
+value cannot be a literal DB07 code (DB07 is 6-digit): each is a 6-digit code
+with the leading zero stripped. The zero-restored reading was verified per row
+against the DST DB07 title **and** the empirical DB93 co-occurrence partner
+(e.g. 14100 = 01.41.00 'Avl af malkekvæg', DB93 partner 'Malkekvæghold',
+share 0.99). Re-labelled with `source=dst_db07_leading_zero`, basis in
+`description_da_alt`, confidence high/medium/low by co-occurrence support
+(62000 has no co-occurrence data — structural argument + DST title only, low).
+
+Also: 40 contradicting `description_en_official` values cleared on the
+empirically-recovered/unresolved 5-digit rows plus 999999/514620 (they held
+the literal misreading, e.g. 11100 → "Manufacture of beverages"), and 10
+garbled empirical translations fixed ('Hortithnries' → 'Market gardens',
+'Agerbrug, by the way' → 'Other arable farming', 'Grain Breeding' → 'Grain
+growing', …).
+
+## 10. Audit round 2 (2026-06-09): hierarchy, markers, partial translations
+
+`scripts/oneoff/audit_fixes_20260609.py` + `scripts/oneoff/fix_ger7_partial_translations.py`:
+
+- **54 LAB_db07 5-digit `parent_code` re-pointed.** They pointed at the
+  literal 4-digit truncation (14100 → `LAB_db07_1410`), wrong under the
+  leading-zero-stripped reading. Now `LAB_db07_0<class>` (14100 →
+  `LAB_db07_0141`), written WITH the leading zero so it is unambiguous.
+- **9 LAB_db07 rows upgraded from group- to class-level labels.** The
+  47911x block + 222290 carried the 47.9 group label ("Detailhandel
+  undtagen fra forretninger, stalde og markeder (via 479)") although the
+  4-digit class is known and finer (47.91 internet/mail-order retail).
+  da/en now carry the DST/NACE class titles with a `(via 47.91)` marker
+  (`source=dst_db07_class_label`; old label in `description_da_alt`).
+  452590/702010/702020 left as-is (no clean DST class).
+- **75 SOC_ger7 `(via NNNN)` markers stripped** where the value is the
+  4-digit group + `000` padding — the group label IS the same-level label
+  there (matched against `SOC_ger7_dict.csv` before stripping). The two
+  genuinely-deeper rows (1312715, 1430510) keep their markers.
+- **33 SOC_ger7 half-translated English rows fixed** ("Seat belt, ikke brug
+  af", "Ulovlig adgang to erdutyshemmeligheder", "foreignersloven" …) —
+  re-translated in full from the official ger7.csv Danish, keyed by value
+  with the expected Danish asserted.
+- **129 `description_en_source` tags upgraded** where `description_en` was
+  byte-identical to `description_en_official` but still tagged `translated`
+  (the translation coincided with the official text) — now tagged with the
+  official authority (115 who-icd10, 14 nace2).
+- **7 EDU translation-cruft fixes** (" (via jura)"/" (via 51)" stripped from
+  EDU_audd English; EDU_field 256020 aligned with the Danish "i øvrigt").
+- Checked and found OK: HIERARCHY_SUMMARY.csv (in sync with MASTER),
+  prevalence join, ICD-8 rows, the `generated_pattern`/`none|generated`
+  sources (all are quantile/day-count bin categories with appropriate
+  pattern labels), and the 806 English texts containing æ/ø/å (place names,
+  degree titles, documented loanwords — intentional).
+
+## 11. Row-by-row audit (2026-06-09, round 3)
+
+Every MASTER row was passed through per-row validators (naming/token-id
+integrity, parent sanity, text hygiene, provenance-tag consistency,
+official-text verification against the WHO/NACE/ISCO reference files,
+prevalence sanity). Fixes in `scripts/oneoff/audit_row_fixes_20260609.py`:
+
+- **1,264 `value` columns resynced from `code`.** HEA_speciale values had
+  lost their leading zero (code `HEA_speciale_090120` / value `90120` — the
+  same serialization-bug class as the `.0` issue); DEM_manual_bin_* values
+  contained a chunk of the category name. `code` (the join key) was correct
+  everywhere; the per-category code-definition CSVs were already correct.
+- **6,448 `description_en_official_source` tags got a `-parent` suffix**
+  (5,766 who-icd10, 275 isco88, 210 isco08, 197 nace2) where the official
+  text is the verbatim label of an ANCESTOR code rather than the code
+  itself (e.g. DQ808A 'Sjögren-Larssons syndrom' carrying WHO's Q80.8
+  title). Same-level officials (exact code, or pure zero-padding as in
+  disco 441900 = ISCO 4419 — but never for ICD-10, where a trailing 0 is a
+  real subcode) keep their plain tag. Verified in the same pass: **every
+  filled official matches its claimed reference verbatim at the exact code
+  or an ancestor — no fabricated officials exist.**
+- **10 truncated SOC_ger7 English texts** re-translated ('Forsøg på
+  manddrab' had become ' on homicide').
+- **5 EDU English leftovers** fixed ('Biofysiske programmes', three
+  'Grafisk technician' rows, empty 'Grade code: ' for EDU_grade NA).
+- **611 whitespace normalisations** (double spaces / unstripped ends in
+  description_da/en/official/short — fee-schedule column-alignment
+  artifacts), and SOC_frakkod_UJ mojibake aligned with the raw source.
+
+Known/accepted (checked, not changed): HEA_atc officials use the documented
+composed '<class>, <substance>' form rather than verbatim WHO text (notes
+§7); 22 HEA_atc officials are for ATC codes newer than the 2021 WHO file
+(e.g. N02BF01 gabapentin, added by WHO later) — plausible and kept; 362
+empty description_da (EDU_grade/EDU_course/special tokens etc. — categories
+without Danish register text, plus the 19 unresolved db07 + 2 socio);
+'47,XXX' karyotype and 'e-todo-lac' are validator false positives.
+
+## 12. Audit round 4 (2026-06-10): dict agreement, prevalence internals, translation integrity
+
+New audit axes, fixes in `scripts/oneoff/audit_round4_fixes_20260610.py`:
+
+### Verified clean (no change)
+- **Tier-1 dict agreement:** all 14,650 HEA_ICD10 codes present in both
+  `lookup_dictionaries/HEA_ICD10_dict.csv` and MASTER have byte-identical
+  Danish; same for SOC_ger7. Zero drift between MASTER and its highest-tier
+  sources.
+- **EDU program_group invariants:** all 5,240 groups have exactly one
+  `is_primary_code=True`, and it is always the max-`pct_people` member.
+- **Prevalence internals:** `pct_people` = `n_people` / N with N = 9,028,68x
+  (±80) across all 1,732 large tokens — internally consistent. The 86 MASTER
+  codes absent from `token_occurrences.csv` are the documented rare codes.
+- **Translation digit-preservation:** of 166 da↔en digit mismatches, 165 are
+  benign (ordinals/degree signs written out: '2°' → 'second degree';
+  documented annotations like '(discontinued 2014)'). The 79 ICD rows with
+  identical da/en are Latin terms valid in both languages.
+- No parent cycles, no embedded newlines, all text NFC-normalised.
+
+### Found and fixed (15 rows)
+- `LAB_socio13_135`: register validity dates had leaked into the English
+  ('Other wage earners 01-01-1600 31-12-9999 Other wage earners').
+- `HEA_ICD10_Y8609` (ICD-8): English truncated to '(born on the sgh)' —
+  re-translated in full; was also the single row missing description_short.
+- 13 `SOC_afgtypko` rows whose 'translated' English was untranslated Danish
+  statute shorthand ('Rpl p.723, stk.1, nr.2') — now rendered as English
+  citations to the Administration of Justice Act.
+
+### Infrastructure
+- **`token_occurrences.csv` token_id column belongs to `archive/vocab_2.json`**
+  (verified 40,635/40,635 match vocab_2, 40,376 mismatch vocab.json). The
+  prevalence join was done by code, so MASTER is unaffected — but the gotcha
+  is now documented in CLAUDE.md: always join that file by the `token` string.
+  It also contains ~256 model-side tokens outside this vocab (`TIM_AGE_*`,
+  `DEM_DEATH_OWN`, …).
+- `HIERARCHY_SUMMARY.csv` had no generator and its `with_da` column was stale
+  on 54 categories — new permanent `scripts/build_hierarchy_summary.py`,
+  file regenerated.
+- CLAUDE.md official-fill figure corrected (62.4% → 62.3% after round 1
+  cleared 40 contradicting officials).
+
+## 13. Audit round 5 (2026-06-15): multi-agent resolve-and-verify of the residual surface
+
+A dynamic multi-agent workflow (`scripts/oneoff/` has no copy — it ran via the
+Workflow harness; results archived to the task output) attacked every residual
+unresolved/untranslated MASTER row. One **resolver** agent per category hunted
+the repo's official sources for each unresolved code; one **adversarial
+verifier** per category then re-opened each cited source and tried to refute the
+proposal (verbatim-match + code-system check, default-reject when uncertain).
+**184 confirmed, 201 confirmed genuinely unresolvable, 1 adversarially rejected.**
+Every confirmed item was re-checked by hand, then applied via
+`scripts/oneoff/audit_round5_fixes_20260615.py`.
+
+### Resolved (184)
+- **LAB_db07 18 of 19 remaining `[Unresolved]`** — from `db07_v1_2008.csv` (the
+  v1 edition carries all 5 levels; earlier passes only loaded v2/v3). Each is a
+  leading-zero-stripped 6-digit code landing on a valid sequential
+  agriculture/forestry/fishing/mining title (`11200`=01.12.00 'Dyrkning af ris',
+  `89100`=08.91.00 chemical/fertilizer minerals). All 18 are internally
+  systematic and every one with firm-level co-occurrence agrees
+  (16300→14190 1.0, 17000→15000 1.0, 89100→143000 1.0, 31200→50100 0.75).
+  Treated like the round-1 `dst_db07_leading_zero` rows: da=DST v1 title,
+  en/official=NACE Rev 2 class, parent re-pointed to the zero-restored class,
+  basis in `description_da_alt`, confidence high (co-occ) else medium. Only
+  `12110` (no clean zero-restore) stays unresolved.
+- **DEM_opr 5157/5393/5223** = Palæstina/Vestbredden/Gaza from
+  `DEM_statsb_dict.csv` (DEM_opr & DEM_statsb share DST landekode — 223 shared
+  codes, 0 semantic conflicts). **Bug fix:** 5157's English was "Kosovo"
+  (Kosovo is code 5761, not 5157).
+- **EDU_course 112** empty-da filled in the category's house style
+  ('Course <subject>' / 'Course: <english>'; the value IS the Danish subject).
+- **EDU_field 34** translation-only ('Teknologi u.n.a.' → 'Technology, not
+  further specified'; Danish unchanged).
+- **LAB_disco08 5** armed-forces codes (raw/LAB_disco.csv + ISCO-08);
+  **SOC_overfkod -/X** (KRIN_codebook.md); **LAB_tilstand 17100**='SU';
+  **SOC_ger7 0**='Uoplyst'; **DEM_manual_bin_antefam 8** range bins (documented
+  bin convention, English already present).
+
+### Left unresolved (correctly)
+201 rows confirmed unresolvable by the adversarial verifiers, each with a cited
+reason: DEM_far/mor `foed_adop_1/2/99` (not in the documented SAS value set —
+NOT mapped to 11/12/etc.), EDU_grade/EDU_course-abbreviations with no register
+text, SOC_charge/start/victim/end and LAB_akm `type_akm_*` (model-created
+indicators, not DST classifications), HEA_urgency/HEA_speciale gaps, and the
+12 documented `[Unresolved]` placeholders. 1 proposal (LAB_udd
+`besk_kode_nullified_1`) was adversarially **rejected** — proposed Danish
+appeared in no source. LAB_akm's resolver crashed on an API false-positive;
+those 3 left unresolved (model-derived, no DST source).
+
+Net: `[Unresolved]`/`[UNMAPPED]` placeholder rows fell from 32 to 12.
